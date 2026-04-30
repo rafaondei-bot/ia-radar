@@ -78,6 +78,31 @@
 
   .last-update strong { color: var(--verde-claro); }
 
+  /* SEARCH BAR */
+  .search-bar { margin-bottom: 24px; }
+  .search-bar form { display: flex; gap: 10px; }
+  .search-bar input {
+    flex: 1; background: var(--cinza-900); border: 1px solid var(--cinza-800);
+    border-radius: 100px; padding: 14px 22px; color: var(--branco);
+    font-family: inherit; font-size: 0.95rem; outline: none; transition: border-color 0.15s;
+  }
+  .search-bar input:focus { border-color: var(--verde-claro); }
+  .search-bar input::placeholder { color: var(--cinza-400); }
+  .search-bar button {
+    background: var(--amarelo); color: var(--preto); border: none; border-radius: 100px;
+    padding: 14px 28px; font-family: inherit; font-size: 0.9rem; font-weight: 800;
+    letter-spacing: 0.04em; text-transform: uppercase; cursor: pointer; transition: background 0.15s;
+  }
+  .search-bar button:hover { background: #fde047; }
+  .search-bar button:disabled { opacity: 0.5; cursor: wait; }
+  .search-hint { font-size: 0.78rem; color: var(--cinza-400); margin-top: 8px; padding-left: 22px; }
+  .search-status {
+    margin-top: 14px; padding: 12px 18px;
+    background: rgba(22,163,74,0.1); border-left: 3px solid var(--verde-claro);
+    border-radius: 0 10px 10px 0; font-size: 0.92rem; color: var(--branco);
+  }
+  .search-status.error { background: rgba(234,88,12,0.1); border-left-color: var(--laranja); }
+
   /* TABS */
   .tabs {
     display: flex;
@@ -616,10 +641,21 @@
     <header>
       <div class="brand">
         <h1>IA <span class="accent">Radar</span></h1>
-        <p>Top 10 do mercado de IA · atualizado todo dia 7h (BRT)</p>
+        <p>Top 10 do mercado · atualizado todo dia 7h (BRT) · pesquisa por nicho on-demand</p>
       </div>
       <div class="last-update" id="lastUpdate">Carregando…</div>
     </header>
+
+    <div class="search-bar">
+      <form id="searchForm" autocomplete="off">
+        <input type="text" id="searchInput" name="topic"
+          placeholder="🔎 Pesquisar 10 notícias sobre outro nicho (ex: marketing digital, energia solar, criptomoedas)"
+          maxlength="80" required />
+        <button type="submit" id="searchBtn">Pesquisar</button>
+      </form>
+      <div class="search-hint">Tempo médio: ~25 min. O resultado vira aba nova quando concluir.</div>
+      <div class="search-status" id="searchStatus" style="display:none;"></div>
+    </div>
 
     <div class="tabs" id="tabs"></div>
 
@@ -636,7 +672,8 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
 
   <script>
-    const STATE = { executions: [], current: null };
+    const WORKER_URL = "https://ia-radar-trigger.dendersonai.workers.dev"; // PROVISIONAL — ajustar pós-deploy
+    const STATE = { executions: [], current: null, polling: null };
 
     function fmtDate(iso) {
       try {
@@ -648,12 +685,20 @@
       } catch { return iso; }
     }
 
-    function fmtTabLabel(date) {
+    function fmtTabLabel(exec) {
+      const date = (typeof exec === 'string') ? exec : exec.date;
+      const topic = (typeof exec === 'object') ? exec.topic : null;
       const d = new Date(date + 'T00:00:00-03:00');
-      return d.toLocaleDateString('pt-BR', { day: '2-digit', month: 'short' }).replace('.', '');
+      const dateLabel = d.toLocaleDateString('pt-BR', { day: '2-digit', month: 'short' }).replace('.', '');
+      if (topic && topic !== 'mercado de IA') {
+        const tShort = topic.length > 18 ? topic.slice(0, 17) + '…' : topic;
+        return `${dateLabel} · ${tShort}`;
+      }
+      return `${dateLabel} · IA`;
     }
+    function execKey(exec) { return exec.key || exec.date; }
 
-    async function loadIndex() {
+    async function loadIndex(autoSelectKey) {
       const res = await fetch('data/index.json?_=' + Date.now());
       const json = await res.json();
       STATE.executions = json.executions || [];
@@ -662,7 +707,10 @@
         : 'Nenhuma execução ainda';
       renderTabs();
       if (STATE.executions.length) {
-        await selectExecution(STATE.executions[0].date);
+        const target = autoSelectKey
+          ? (STATE.executions.find(e => execKey(e) === autoSelectKey) || STATE.executions[0])
+          : STATE.executions[0];
+        await selectExecution(execKey(target));
       } else {
         renderEmpty();
       }
@@ -670,12 +718,13 @@
 
     function renderTabs() {
       const tabs = document.getElementById('tabs');
+      tabs.style.display = '';
       if (!STATE.executions.length) { tabs.style.display = 'none'; return; }
       tabs.innerHTML = STATE.executions.map(e =>
-        `<button class="tab" data-date="${e.date}">${fmtTabLabel(e.date)}</button>`
+        `<button class="tab" data-key="${execKey(e)}">${fmtTabLabel(e)}</button>`
       ).join('');
       tabs.querySelectorAll('.tab').forEach(btn => {
-        btn.addEventListener('click', () => selectExecution(btn.dataset.date));
+        btn.addEventListener('click', () => selectExecution(btn.dataset.key));
       });
     }
 
@@ -689,15 +738,16 @@
       `;
     }
 
-    async function selectExecution(date) {
-      STATE.current = date;
-      document.querySelectorAll('.tab').forEach(t => t.classList.toggle('active', t.dataset.date === date));
-      const res = await fetch(`data/${date}.json?_=` + Date.now());
+    async function selectExecution(key) {
+      STATE.current = key;
+      document.querySelectorAll('.tab').forEach(t => t.classList.toggle('active', t.dataset.key === key));
+      const res = await fetch(`data/${key}.json?_=` + Date.now());
       if (!res.ok) {
-        document.getElementById('content').innerHTML = `<div class="empty-state"><h2>Não consegui carregar ${date}</h2><p>Pode ser que ainda esteja sendo processado.</p></div>`;
+        document.getElementById('content').innerHTML = `<div class="empty-state"><h2>Não consegui carregar ${key}</h2><p>Pode ser que ainda esteja sendo processado.</p></div>`;
         return;
       }
       const data = await res.json();
+      if (!data.key) data.key = key;
       renderExecution(data);
     }
 
@@ -706,6 +756,7 @@
     }
 
     function renderExecution(data) {
+      const key = data.key || data.date;
       const newsHtml = (data.items || []).map((it, i) => {
         const isRec = !!it.recommended;
         const hasCarousel = !!(it.carousel && it.carousel.slides && it.carousel.slides.length);
@@ -732,7 +783,7 @@
 
       document.getElementById('content').innerHTML = `
         <div class="day-meta">
-          <h2>${fmtTabLabel(data.date)}</h2>
+          <h2>${fmtTabLabel(data)}</h2>
           <span class="pill green">${(data.items || []).length} itens</span>
           <span class="pill">Gerado ${fmtDate(data.generated_at)}</span>
         </div>
@@ -776,7 +827,7 @@
         btn.addEventListener('click', () => {
           const carouselNum = parseInt(btn.dataset.carousel, 10);
           const itemIdx = parseInt(btn.dataset.index, 10);
-          openCarouselModal(data.date, data.items[itemIdx], carouselNum);
+          openCarouselModal(key, data.items[itemIdx], carouselNum);
         });
       });
     }
@@ -1089,6 +1140,70 @@
 
     document.addEventListener('keydown', (e) => {
       if (e.key === 'Escape') closeModal();
+    });
+
+    // ============ PESQUISA POR NICHO ============
+    const searchForm = document.getElementById('searchForm');
+    const searchInput = document.getElementById('searchInput');
+    const searchBtn = document.getElementById('searchBtn');
+    const searchStatus = document.getElementById('searchStatus');
+
+    function showSearchStatus(html, isError = false) {
+      searchStatus.innerHTML = html;
+      searchStatus.style.display = '';
+      searchStatus.classList.toggle('error', isError);
+    }
+    function hideSearchStatus() {
+      searchStatus.style.display = 'none';
+      searchStatus.innerHTML = '';
+      searchStatus.classList.remove('error');
+    }
+
+    searchForm.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const topic = searchInput.value.trim();
+      if (topic.length < 3) {
+        showSearchStatus('⚠️ Tópico precisa ter pelo menos 3 caracteres', true);
+        return;
+      }
+      searchBtn.disabled = true;
+      searchBtn.textContent = 'Enfileirando...';
+      showSearchStatus(`⏳ Enfileirando pesquisa sobre <strong>${escapeHtml(topic)}</strong>…`);
+
+      try {
+        const r = await fetch(`${WORKER_URL}/search`, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ topic }),
+        });
+        const data = await r.json();
+        if (!r.ok) throw new Error(data.error || `HTTP ${r.status}`);
+
+        searchBtn.textContent = 'Pesquisando...';
+        showSearchStatus(`🔄 Pesquisa enfileirada (id <code>${data.id.slice(0,8)}</code>). Aguardando resultado <strong>${data.key}</strong>. ETA ~${data.eta_minutes} min. Pode fechar a aba — o resultado fica salvo no dashboard.`);
+
+        if (STATE.polling) clearInterval(STATE.polling);
+        STATE.polling = setInterval(async () => {
+          try {
+            const test = await fetch(`data/${data.key}.json?_=` + Date.now(), { method: 'HEAD' });
+            if (test.ok) {
+              clearInterval(STATE.polling); STATE.polling = null;
+              showSearchStatus(`✅ Pronto! Carregando aba <strong>${data.key}</strong>…`);
+              setTimeout(() => {
+                hideSearchStatus();
+                searchBtn.disabled = false;
+                searchBtn.textContent = 'Pesquisar';
+                searchInput.value = '';
+                loadIndex(data.key);
+              }, 1200);
+            }
+          } catch { /* segue tentando */ }
+        }, 30000);
+      } catch (err) {
+        searchBtn.disabled = false;
+        searchBtn.textContent = 'Pesquisar';
+        showSearchStatus(`❌ Erro: ${err.message}. Tenta de novo em alguns minutos.`, true);
+      }
     });
 
     loadIndex();
