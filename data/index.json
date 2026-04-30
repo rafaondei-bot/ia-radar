@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-30T19:17:51.339Z",
+  "updated_at": "2026-04-30T19:25:21.516Z",
   "executions": [
     {
       "date": "2026-04-30",
@@ -13,13 +13,6 @@
       "key": "2026-04-30-marketing-digital",
       "topic": "marketing digital",
       "summary": "Meta Reels domina com 67% engajamento; IA obrigatória (80%); Threads 400M; Creator commerce explode (74%); AR Glasses chegam",
-      "items_count": 10
-    },
-    {
-      "date": "2026-04-30",
-      "key": "2026-04-30-teste-haiku",
-      "topic": "teste haiku",
-      "summary": "DeepSeek V4 Flash reduz custo 7x vs Haiku; Haiku 4.5 benchmark dominante (73.3% SWE, 50.7% OSWorld); model mixing é padrão 2026",
       "items_count": 10
     }
   ]
