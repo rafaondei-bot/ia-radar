@@ -822,14 +822,68 @@
         });
       });
 
-      // Carousel buttons
+      // Carousel buttons — agora geram on-demand se ainda não existirem
       document.querySelectorAll('[data-action="open-carousel"]').forEach(btn => {
         btn.addEventListener('click', () => {
           const carouselNum = parseInt(btn.dataset.carousel, 10);
           const itemIdx = parseInt(btn.dataset.index, 10);
-          openCarouselModal(key, data.items[itemIdx], carouselNum);
+          ensureCarouselThenOpen(key, data.items[itemIdx], carouselNum, btn);
         });
       });
+    }
+
+    async function ensureCarouselThenOpen(key, item, carouselNum, btn) {
+      // Verifica se a capa já existe
+      const coverUrl = `data/carrosseis/${key}/c${carouselNum}-s01.png`;
+      const lastUrl = `data/carrosseis/${key}/c${carouselNum}-s08.png`;
+      try {
+        const head = await fetch(lastUrl + '?_=' + Date.now(), { method: 'HEAD' });
+        if (head.ok) {
+          openCarouselModal(key, item, carouselNum);
+          return;
+        }
+      } catch {}
+
+      // Não existem ainda → dispara geração
+      const originalLabel = btn.textContent;
+      btn.disabled = true;
+      btn.textContent = '⏳ Gerando...';
+
+      try {
+        const r = await fetch(`${WORKER_URL}/generate-carousel`, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ key, n: carouselNum }),
+        });
+        if (!r.ok) throw new Error(`HTTP ${r.status}`);
+      } catch (err) {
+        btn.disabled = false;
+        btn.textContent = originalLabel;
+        alert('Erro ao enfileirar geração: ' + err.message);
+        return;
+      }
+
+      // Polleia até a última imagem aparecer
+      const start = Date.now();
+      const maxWait = 5 * 60 * 1000; // 5 min
+      const poll = setInterval(async () => {
+        if (Date.now() - start > maxWait) {
+          clearInterval(poll);
+          btn.disabled = false;
+          btn.textContent = originalLabel;
+          alert('Geração demorou mais que o esperado. Tenta de novo em alguns minutos.');
+          return;
+        }
+        try {
+          const test = await fetch(lastUrl + '?_=' + Date.now(), { method: 'HEAD' });
+          if (test.ok) {
+            clearInterval(poll);
+            btn.disabled = false;
+            btn.textContent = originalLabel;
+            openCarouselModal(key, item, carouselNum);
+          }
+        } catch {}
+      }, 8000); // checa cada 8s
     }
 
     function openCarouselModal(date, item, carouselNum) {
