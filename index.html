@@ -372,12 +372,132 @@
     display: grid; gap: 14px; margin-top: 22px;
     grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
   }
-  .gallery img {
-    width: 100%; aspect-ratio: 4/5; object-fit: cover;
-    border-radius: 10px; border: 1px solid var(--cinza-800);
-    transition: transform 0.15s, border-color 0.15s;
+  .gallery .slide-card {
+    display: flex; flex-direction: column; gap: 8px;
+    border-radius: 10px; padding: 6px; background: var(--cinza-900);
+    border: 1px solid var(--cinza-800);
   }
-  .gallery img:hover { transform: scale(1.02); border-color: var(--verde-claro); }
+  .gallery .slide-card.edited {
+    border-color: var(--verde-claro);
+    box-shadow: 0 0 0 1px rgba(34,197,94,0.2);
+  }
+  .gallery .slide-card iframe,
+  .gallery .slide-card img {
+    width: 100%; aspect-ratio: 4/5;
+    border-radius: 8px; border: none; background: #000;
+    transition: transform 0.15s;
+    display: block;
+  }
+  .gallery .slide-card img { object-fit: cover; }
+  .gallery .slide-card .slide-actions {
+    display: flex; gap: 6px;
+  }
+  .gallery .slide-card .slide-actions button {
+    flex: 1; font-family: inherit; font-size: 0.72rem; font-weight: 700;
+    padding: 7px 8px; border-radius: 6px; border: none; cursor: pointer;
+    letter-spacing: 0.04em; text-transform: uppercase;
+  }
+  .gallery .slide-card .btn-edit { background: var(--cinza-800); color: var(--cinza-300); }
+  .gallery .slide-card .btn-edit:hover { background: var(--verde); color: var(--branco); }
+  .gallery .slide-card .btn-download { background: var(--amarelo); color: var(--preto); }
+  .gallery .slide-card .btn-download:hover { background: #fde047; }
+  .gallery .slide-card .edited-tag {
+    font-size: 0.65rem; color: var(--verde-claro); font-weight: 700;
+    text-align: center; padding: 2px 0; letter-spacing: 0.08em; text-transform: uppercase;
+  }
+
+  /* EDITOR PANEL */
+  .editor-panel {
+    position: fixed; top: 0; right: 0; bottom: 0;
+    width: 100%; max-width: 480px;
+    background: var(--cinza-900);
+    border-left: 1px solid var(--cinza-800);
+    box-shadow: -10px 0 40px rgba(0,0,0,0.6);
+    z-index: 200; padding: 24px 22px;
+    overflow-y: auto; display: none;
+  }
+  .editor-panel.open { display: block; }
+  .editor-panel h3 {
+    font-size: 1.1rem; font-weight: 800; margin-bottom: 4px; padding-right: 40px;
+  }
+  .editor-panel .subtitle {
+    color: var(--cinza-400); font-size: 0.85rem; margin-bottom: 18px;
+  }
+  .editor-panel .ed-close {
+    position: absolute; top: 14px; right: 16px;
+    background: transparent; border: none; color: var(--cinza-400);
+    font-size: 1.8rem; cursor: pointer; line-height: 1;
+  }
+  .editor-panel .ed-close:hover { color: var(--branco); }
+
+  .editor-panel .preview-wrap {
+    width: 100%; aspect-ratio: 4/5; border-radius: 10px;
+    overflow: hidden; border: 1px solid var(--cinza-800); margin-bottom: 18px;
+    background: #000; position: relative;
+  }
+  .editor-panel .preview-wrap iframe {
+    width: 1080px; height: 1350px; border: none; background: transparent;
+    transform: scale(calc((100% - 0px) / 1080)); transform-origin: top left;
+  }
+
+  .ed-section { margin-bottom: 18px; }
+  .ed-section h4 {
+    font-size: 0.72rem; font-weight: 800; letter-spacing: 0.16em;
+    text-transform: uppercase; color: var(--verde-claro); margin-bottom: 10px;
+  }
+  .ed-field { margin-bottom: 12px; }
+  .ed-field label {
+    display: block; font-size: 0.78rem; font-weight: 600;
+    color: var(--cinza-300); margin-bottom: 5px;
+  }
+  .ed-field input[type=text],
+  .ed-field textarea {
+    width: 100%; background: #070e09;
+    border: 1px solid var(--cinza-800); border-radius: 8px;
+    padding: 9px 12px; color: var(--branco);
+    font-family: inherit; font-size: 0.88rem;
+    outline: none; transition: border-color 0.15s;
+  }
+  .ed-field input[type=text]:focus,
+  .ed-field textarea:focus { border-color: var(--verde-claro); }
+  .ed-field textarea { resize: vertical; min-height: 70px; }
+
+  .color-grid {
+    display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px;
+  }
+  .color-grid .color-item {
+    display: flex; flex-direction: column; align-items: center; gap: 4px;
+  }
+  .color-grid input[type=color] {
+    width: 100%; height: 44px; border: 1px solid var(--cinza-800);
+    border-radius: 8px; cursor: pointer; background: transparent;
+  }
+  .color-grid label { font-size: 0.7rem; color: var(--cinza-400); }
+
+  .size-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 6px; }
+  .size-grid button {
+    background: var(--cinza-800); color: var(--cinza-300);
+    border: 1px solid var(--cinza-700);
+    font-family: inherit; font-size: 0.78rem; font-weight: 700;
+    padding: 9px 8px; border-radius: 8px; cursor: pointer;
+  }
+  .size-grid button.active {
+    background: var(--verde-claro); color: var(--branco); border-color: var(--verde-claro);
+  }
+
+  .editor-panel .ed-actions {
+    display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin-top: 22px;
+  }
+  .ed-actions button {
+    font-family: inherit; font-weight: 800; font-size: 0.82rem;
+    padding: 12px 14px; border-radius: 10px; border: none; cursor: pointer;
+    letter-spacing: 0.04em; text-transform: uppercase;
+  }
+  .ed-save { background: var(--verde-claro); color: var(--branco); grid-column: 1 / -1; }
+  .ed-save:hover { background: var(--verde); }
+  .ed-download-act { background: var(--amarelo); color: var(--preto); }
+  .ed-reset { background: var(--cinza-800); color: var(--cinza-300); }
+  .ed-reset:hover { background: var(--cinza-700); color: var(--branco); }
 
   .caption-block {
     margin-top: 22px; padding: 16px 18px; background: var(--preto-2);
@@ -503,6 +623,9 @@
   </div>
 
   <div class="modal-overlay" id="modal" aria-hidden="true"></div>
+  <aside class="editor-panel" id="editor-panel" aria-hidden="true"></aside>
+  <script src="slide-renderer.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
 
   <script>
     const STATE = { executions: [], current: null };
@@ -710,11 +833,26 @@
 
     function revealFull(date, item, carouselNum) {
       const carousel = item.carousel || {};
-      const total = (carousel.slides || []).length;
-      const galleryHtml = Array.from({ length: total }, (_, i) => {
+      const slides = carousel.slides || [];
+      const total = slides.length;
+
+      const galleryHtml = slides.map((slide, i) => {
         const n = String(i + 1).padStart(2, '0');
-        const url = `data/carrosseis/${date}/c${carouselNum}-s${n}.png`;
-        return `<a href="${url}" target="_blank"><img src="${url}" alt="Slide ${i+1}" onerror="this.style.opacity=0.3" /></a>`;
+        const slideKey = `${date}::c${carouselNum}::s${n}`;
+        const isEdited = !!getOverrides(slideKey);
+        const imgSrc = isEdited
+          ? renderSlideDataUrl(carousel, slide, i + 1, total, getOverrides(slideKey))
+          : `data/carrosseis/${date}/c${carouselNum}-s${n}.png`;
+        return `
+          <div class="slide-card ${isEdited ? 'edited' : ''}" data-slide-key="${slideKey}">
+            <img src="${imgSrc}" alt="Slide ${i+1}" data-slide-img onerror="this.style.opacity=0.3" />
+            ${isEdited ? '<div class="edited-tag">✓ Editado</div>' : ''}
+            <div class="slide-actions">
+              <button class="btn-edit" data-edit-slide="${i}">✏️ Editar</button>
+              <button class="btn-download" data-dl-slide="${i}">⬇️ PNG</button>
+            </div>
+          </div>
+        `;
       }).join('');
 
       const stage = document.getElementById('modal-full-stage');
@@ -732,6 +870,183 @@
           setTimeout(() => { copyBtn.textContent = 'Copiar caption'; }, 1500);
         });
       });
+
+      stage.querySelectorAll('[data-edit-slide]').forEach(btn => {
+        btn.addEventListener('click', () => {
+          const idx = parseInt(btn.dataset.editSlide, 10);
+          openEditor(date, item, carouselNum, slides[idx], idx + 1, total);
+        });
+      });
+      stage.querySelectorAll('[data-dl-slide]').forEach(btn => {
+        btn.addEventListener('click', () => {
+          const idx = parseInt(btn.dataset.dlSlide, 10);
+          downloadSlide(date, item, carouselNum, slides[idx], idx + 1, total);
+        });
+      });
+    }
+
+    // ============ EDITOR ============
+    function overridesKey(slideKey) { return `ia-radar-ov::${slideKey}`; }
+    function getOverrides(slideKey) {
+      try { return JSON.parse(localStorage.getItem(overridesKey(slideKey)) || 'null'); }
+      catch { return null; }
+    }
+    function setOverrides(slideKey, ov) { localStorage.setItem(overridesKey(slideKey), JSON.stringify(ov)); }
+    function clearOverrides(slideKey) { localStorage.removeItem(overridesKey(slideKey)); }
+
+    function renderSlideDataUrl(carousel, slide, slideNum, total, overrides) {
+      const html = window.SlideRenderer.renderSlideHTML(carousel, slide, slideNum, total, overrides);
+      return 'data:text/html;charset=utf-8,' + encodeURIComponent(html);
+    }
+
+    function openEditor(date, item, carouselNum, slide, slideNum, total) {
+      const carousel = item.carousel || {};
+      const slideKey = `${date}::c${carouselNum}::s${String(slideNum).padStart(2, '0')}`;
+      const stored = getOverrides(slideKey) || { texts: {}, colors: {}, fontSize: 'medium' };
+
+      const v = (k) => stored.texts[k] != null ? stored.texts[k] : (slide[k] != null ? slide[k] : '');
+      const c = (k, def) => stored.colors[k] || def;
+
+      const panel = document.getElementById('editor-panel');
+      panel.innerHTML = `
+        <button class="ed-close" data-ed-close>&times;</button>
+        <h3>✏️ Editar Slide ${slideNum} <small style="color:#a1a1aa;font-weight:500;">de ${total}</small></h3>
+        <p class="subtitle">${escapeHtml(slide.kind || '')} · alterações ficam salvas neste navegador</p>
+
+        <div class="preview-wrap"><iframe id="ed-preview" sandbox="allow-same-origin"></iframe></div>
+
+        <div class="ed-section">
+          <h4>Textos</h4>
+          <div class="ed-field"><label>Eyebrow (topo pequeno)</label><input type="text" data-edf="eyebrow" value="${escapeHtml(v('eyebrow'))}" /></div>
+          <div class="ed-field"><label>Título</label><textarea data-edf="title">${escapeHtml(v('title'))}</textarea></div>
+          <div class="ed-field"><label>Palavra em laranja (highlight)</label><input type="text" data-edf="highlight" value="${escapeHtml(v('highlight'))}" /></div>
+          <div class="ed-field"><label>Corpo</label><textarea data-edf="body" rows="4">${escapeHtml(v('body'))}</textarea></div>
+          <div class="ed-field"><label>Número grande (stat)</label><input type="text" data-edf="stat" value="${escapeHtml(v('stat'))}" /></div>
+          <div class="ed-field"><label>Legenda do número</label><input type="text" data-edf="stat_label" value="${escapeHtml(v('stat_label'))}" /></div>
+        </div>
+
+        <div class="ed-section">
+          <h4>Cores</h4>
+          <div class="color-grid">
+            <div class="color-item"><input type="color" data-edc="laranja" value="${c('laranja','#ea580c')}" /><label>Laranja</label></div>
+            <div class="color-item"><input type="color" data-edc="amarelo" value="${c('amarelo','#facc15')}" /><label>Amarelo</label></div>
+            <div class="color-item"><input type="color" data-edc="verde" value="${c('verde','#16a34a')}" /><label>Verde</label></div>
+            <div class="color-item"><input type="color" data-edc="preto" value="${c('preto','#0a0a0a')}" /><label>Fundo</label></div>
+          </div>
+        </div>
+
+        <div class="ed-section">
+          <h4>Tamanho do título</h4>
+          <div class="size-grid">
+            <button data-edsize="small" class="${stored.fontSize==='small'?'active':''}">Pequeno</button>
+            <button data-edsize="medium" class="${(stored.fontSize||'medium')==='medium'?'active':''}">Médio</button>
+            <button data-edsize="large" class="${stored.fontSize==='large'?'active':''}">Grande</button>
+          </div>
+        </div>
+
+        <div class="ed-actions">
+          <button class="ed-save" data-ed-save>💾 Salvar no dashboard</button>
+          <button class="ed-download-act" data-ed-download>⬇ Baixar PNG</button>
+          <button class="ed-reset" data-ed-reset>↺ Resetar pra original</button>
+        </div>
+      `;
+      panel.classList.add('open');
+
+      const state = { texts: { ...stored.texts }, colors: { ...stored.colors }, fontSize: stored.fontSize || 'medium' };
+
+      function refreshPreview() {
+        const iframe = document.getElementById('ed-preview');
+        const html = window.SlideRenderer.renderSlideHTML(carousel, slide, slideNum, total, state);
+        iframe.srcdoc = html;
+      }
+      refreshPreview();
+
+      panel.querySelectorAll('[data-edf]').forEach(inp => {
+        inp.addEventListener('input', () => {
+          state.texts[inp.dataset.edf] = inp.value;
+          refreshPreview();
+        });
+      });
+      panel.querySelectorAll('[data-edc]').forEach(inp => {
+        inp.addEventListener('input', () => {
+          state.colors[inp.dataset.edc] = inp.value;
+          refreshPreview();
+        });
+      });
+      panel.querySelectorAll('[data-edsize]').forEach(btn => {
+        btn.addEventListener('click', () => {
+          state.fontSize = btn.dataset.edsize;
+          panel.querySelectorAll('[data-edsize]').forEach(b => b.classList.toggle('active', b === btn));
+          refreshPreview();
+        });
+      });
+
+      panel.querySelector('[data-ed-close]').addEventListener('click', () => panel.classList.remove('open'));
+      panel.querySelector('[data-ed-save]').addEventListener('click', () => {
+        setOverrides(slideKey, state);
+        panel.classList.remove('open');
+        revealFull(date, item, carouselNum);
+      });
+      panel.querySelector('[data-ed-reset]').addEventListener('click', () => {
+        if (!confirm('Resetar este slide pra versão original?')) return;
+        clearOverrides(slideKey);
+        panel.classList.remove('open');
+        revealFull(date, item, carouselNum);
+      });
+      panel.querySelector('[data-ed-download]').addEventListener('click', async () => {
+        await downloadSlideFromState(carousel, slide, slideNum, total, state, slideKey);
+      });
+    }
+
+    async function downloadSlide(date, item, carouselNum, slide, slideNum, total) {
+      const slideKey = `${date}::c${carouselNum}::s${String(slideNum).padStart(2, '0')}`;
+      const overrides = getOverrides(slideKey);
+      if (!overrides) {
+        // Original: já existe como PNG, baixa direto
+        const url = `data/carrosseis/${date}/c${carouselNum}-s${String(slideNum).padStart(2, '0')}.png`;
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = `ia-radar-${date}-c${carouselNum}-s${String(slideNum).padStart(2, '0')}.png`;
+        document.body.appendChild(a); a.click(); a.remove();
+        return;
+      }
+      await downloadSlideFromState(item.carousel, slide, slideNum, total, overrides, slideKey);
+    }
+
+    async function downloadSlideFromState(carousel, slide, slideNum, total, state, slideKey) {
+      // Renderiza HTML em iframe oculto 1080x1350, captura via html2canvas
+      const html = window.SlideRenderer.renderSlideHTML(carousel, slide, slideNum, total, state);
+      const iframe = document.createElement('iframe');
+      iframe.style.position = 'fixed';
+      iframe.style.top = '-99999px';
+      iframe.style.left = '-99999px';
+      iframe.style.width = '1080px';
+      iframe.style.height = '1350px';
+      iframe.style.border = 'none';
+      document.body.appendChild(iframe);
+      iframe.srcdoc = html;
+      await new Promise(r => iframe.addEventListener('load', r, { once: true }));
+      try { await iframe.contentDocument.fonts.ready; } catch {}
+      await new Promise(r => setTimeout(r, 600));
+      try {
+        const canvas = await window.html2canvas(iframe.contentDocument.body, {
+          width: 1080, height: 1350,
+          windowWidth: 1080, windowHeight: 1350,
+          useCORS: true, backgroundColor: null, scale: 1,
+        });
+        canvas.toBlob(blob => {
+          const url = URL.createObjectURL(blob);
+          const a = document.createElement('a');
+          a.href = url;
+          a.download = `ia-radar-${slideKey.replace(/::/g, '-')}.png`;
+          document.body.appendChild(a); a.click(); a.remove();
+          setTimeout(() => URL.revokeObjectURL(url), 1000);
+        }, 'image/png');
+      } catch (e) {
+        alert('Erro ao gerar PNG: ' + e.message);
+      } finally {
+        iframe.remove();
+      }
     }
 
     function closeModal() {
