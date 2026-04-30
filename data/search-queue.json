@@ -1,3 +1,13 @@
 {
-  "pending": []
+  "pending": [
+    {
+      "type": "search",
+      "id": "be422aa9-211f-48e2-ad71-b9585d2f80ad",
+      "topic": "marketing digital",
+      "slug": "marketing-digital",
+      "key": "2026-04-30-marketing-digital",
+      "date": "2026-04-30",
+      "requested_at": "2026-04-30T18:34:34.909Z"
+    }
+  ]
 }
