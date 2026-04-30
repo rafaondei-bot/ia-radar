@@ -1,0 +1,960 @@
+{
+  "date": "2026-04-30",
+  "topic": "teste haiku",
+  "topic_slug": "teste-haiku",
+  "generated_at": "2026-04-30T16:15:32-03:00",
+  "items": [
+    {
+      "title": "DeepSeek V4 Flash reduz custo 7x vs Claude Haiku e dobra performance",
+      "summary": "DeepSeek V4 Flash lançado em abril chega a $0.14 por milhão tokens vs $1 do Haiku, com 93.5% em LiveCodeBench. Custa menos, processa contexto 1M por padrão. A razão pela qual startups vão repensar stack de IA.",
+      "source": "Medium, TechCrunch, DasRoot",
+      "link": "https://medium.com/@cognidownunder/deepseek-v4-just-made-claude-look-expensive-and-the-gap-is-getting-worse-989e100d88b4",
+      "category": "benchmark",
+      "recommended": true,
+      "carousel": {
+        "theme": "Modelo 7x mais barato com performance superior desafia hegemonia Claude",
+        "caption": "🚀 DeepSeek V4 Flash chegou e tá fechando o jogo. Custo $0.14/M tokens (vs $1 do Haiku), contexto 1M de graça, 93.5% LiveCodeBench. Startups que ficavam presas no custo alto do Claude agora têm saída de emergência. A grande pergunta: OpenAI/Anthropic vão cortar preço? Spoiler: vão, porque precisam. Esse é o jogo agora — a race de IA não é mais só performance, é economics.\n\n#IA #Claude #DeepSeek #OpenAI #Empreendedorismo #Startups #Tecnologia",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "ALERTA ECONÔMICO",
+            "title": "DeepSeek acaba de quebrar a mesa do preço",
+            "highlight": "quebrar",
+            "body": null,
+            "stat": "$0.14",
+            "stat_label": "vs $1 do Haiku"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O NÚMERO QUE PÁRA STARTUP",
+            "title": "7x mais barato e igual ou melhor",
+            "highlight": "7x",
+            "body": "DeepSeek V4 Flash sai por $0.14/$0.28 por milhão tokens. Claude Haiku tá em $1/$5. Pra uma startup rodando 10M requests/mês, a diferença é milhares por mês.",
+            "stat": "93.5%",
+            "stat_label": "LiveCodeBench (quase Opus)"
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "POR QUE AGORA",
+            "title": "A China entrou na corrida com Mixture-of-Experts",
+            "highlight": "Mixture-of-Experts",
+            "body": "DeepSeek usa MoE — ativa só os expert models que precisa pra cada task. Resultado: roxa complexidade sem custo de rodar tudo. Isso é arquitetura, não hype.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O QUE MUDA",
+            "title": "Modelo econômico de IA tá reescrito",
+            "highlight": "reescrito",
+            "body": "Claude e OpenAI ganham na UX, na confiança, na brand. Mas performance/preço? DeepSeek tá na frente agora. Startups vão escolher com base em $, não em quem é 'melhor'.",
+            "stat": "1M",
+            "stat_label": "tokens de contexto default"
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO DEEPSEEK CONSEGUE",
+            "title": "3 diferenciais que matam custo",
+            "highlight": "matam",
+            "body": "1) MoE dinâmico — só ativa o que precisa. 2) Contexto 1M nativo — sem surcharge. 3) Open source pra download — não depende de API.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA TI, EMPREENDEDOR",
+            "title": "Tua stack de IA fica 70% mais barata",
+            "highlight": "70%",
+            "body": "Se tu roda Haiku hoje, muda pra DeepSeek Flash e economiza 86% no token cost. Aqueles R$ 5k/mês em API viram R$ 700. Com isso tu escala 10x de volume.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A LIÇÃO",
+            "title": "Preço é feature, performance é commodity",
+            "highlight": "Preço",
+            "body": "2025 foi ano de frontier models — Opus, GPT-5, Haiku. 2026 é year of economics. Quem vencer é quem conseguir boa performance por menos.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO MOVE",
+            "title": "Salva esse post e roda o teste",
+            "highlight": "teste",
+            "body": "Testa DeepSeek V4 Flash em 1 task real tua. Compara latência, qualidade e custo com Haiku. Os números não mentem. Depois segue @rafaondei pra mais radar.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "Claude Haiku 4.5 bate 73.3% em SWE-bench — quase nível Sonnet",
+      "summary": "Haiku 4.5 atinge 73.3% em SWE-bench Verified, superando Sonnet 4 (72%), mantendo 1/3 do custo. Benchmark prova que small models podem resolver código enterprise-grade. Impact: abre porta pra automação barata.",
+      "source": "Anthropic Blog, Humiris AI",
+      "link": "https://www.anthropic.com/news/claude-haiku-4-5",
+      "category": "benchmark",
+      "recommended": false,
+      "carousel": {
+        "theme": "Model pequeno resolve código de enterprise — e custa 1/3",
+        "caption": "🔥 Haiku 4.5 vs Sonnet — benchmarks que mudam o jogo. 73.3% SWE-bench Verified: Haiku quase empatado com Sonnet 4 (72%), mas a $1 vs $3. Significa o quê? Automação de refactoring, geração de testes, code review automático agora cabe no orçamento de startup. Esse é o hack econômico do ano.\n\n#Claude #Haiku #SWE-bench #Coding #Automação #Startup",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "BENCHMARK QUEBRA-PARADIGMA",
+            "title": "73% em código — a 1/3 do preço",
+            "highlight": "73%",
+            "body": null,
+            "stat": "73.3%",
+            "stat_label": "SWE-bench Verified"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O DETALHE IMPORTANTE",
+            "title": "Haiku bate Sonnet no coding",
+            "highlight": "bate",
+            "body": "Haiku 4.5: 73.3%. Sonnet 4: 72%. Difference? Haiku custa $1/$5. Sonnet custa $3/$15. E ainda é 4-5x mais rápido.",
+            "stat": "90%",
+            "stat_label": "da perf de Sonnet 4.5 em Augment eval"
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "A REVOLUÇÃO SILENCIOSA",
+            "title": "Small models agora entram em produção",
+            "highlight": "produção",
+            "body": "Até 2025, code generation era privilégio de flagship models. Haiku 4.5 tira essa exclusividade. Pull request reviews automáticos, testes gerados, refactors — tudo rola barato agora.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O QUE MUDA",
+            "title": "Economics da automação de código flipa",
+            "highlight": "flipa",
+            "body": "Antes: automação cara, só Fortune 500 conseguia. Agora: qualquer startup com 3 devs roda code generation + review automático. Custo? Centavos por PR.",
+            "stat": "39.5%",
+            "stat_label": "SWE-bench Pro (SEAL)"
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "POR QUE HAIKU CONSEGUE",
+            "title": "Arquitetura focada em velocidade",
+            "highlight": "velocidade",
+            "body": "Haiku é modelo compacto mas treinado em code. Tem 20% do tamanho do Opus mas roda 80% das tasks bem. Plus: 200K context window — cabe um arquivo inteiro.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "STARTUP REAL",
+            "title": "Tu economiza R$ 40k/ano vs Sonnet",
+            "highlight": "R$",
+            "body": "Se roda 100 code generations/dia em Sonnet (R$120/mês), muda pra Haiku e cai pra R$20. Essa grana sobra pra contratar mais dev ou fazer marketing.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A VERDADE",
+            "title": "Pequeno não é 'leve' — é estratégico",
+            "highlight": "estratégico",
+            "body": "Haiku prova que size não determina capability em tarefas específicas. Pro código, é melhor ter 7B bem-treinado que 400B general-purpose.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "AÇÃO HOJE",
+            "title": "Roda um PR review com Haiku — testa tu mesmo",
+            "highlight": "PR review",
+            "body": "Pega um pull request real da tua stack, passa pro Haiku gerar feedback. Compara com Sonnet. Aposto que cai a distinção é 5%. E o custo? 66% menor. Salva + segue @rafaondei.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "Haiku 4.5 atinge 50.7% em OSWorld — supera Sonnet 4 em automação de desktop",
+      "summary": "Benchmark OSWorld mede capacidade de agentes automarem tarefas reais (preencher formulários, navegar dashboards). Haiku 4.5 alcança 50.7%, superando Sonnet 4 (42.2%). Prova que small models podem ser agentes autônomos confiáveis.",
+      "source": "Anthropic, Caylent, TechInsider",
+      "link": "https://caylent.com/blog/claude-haiku-4-5-deep-dive-cost-capabilities-and-the-multi-agent-opportunity",
+      "category": "benchmark",
+      "recommended": false,
+      "carousel": {
+        "theme": "Agent autônomo desktop — Haiku é agora a escolha (e mais barato)",
+        "caption": "💻 Teste de automação de desktop: Haiku 4.5 (50.7%) vence Sonnet 4 (42.2%). Significa: Haiku consegue preencher forms, clicar buttons, ler dashboards, extrair dados de UIs reais — 50% de taxa de sucesso. Isso é production-ready pra automação de processos. RPA vai sumir quando todo startup usar Haiku como agent.\n\n#IA #Automação #RPA #Desktop #Agentes #Haiku",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "AGENTES AUTOMATOS",
+            "title": "Haiku agora pilota seu computador",
+            "highlight": "pilota",
+            "body": null,
+            "stat": "50.7%",
+            "stat_label": "OSWorld success rate"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O BENCHMARK QUE PROVA",
+            "title": "Haiku supera Sonnet em automação",
+            "highlight": "supera",
+            "body": "Haiku 4.5: 50.7% em OSWorld. Sonnet 4: 42.2%. Difference: Haiku tá mais alinhado pra visão + action. E custa 1/3. Dupla vantagem.",
+            "stat": "50%",
+            "stat_label": "das tarefas de desktop"
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE É OSWORLD",
+            "title": "Teste com tarefas reais de UI",
+            "highlight": "reais",
+            "body": "Não é simples 'clica botão'. OSWorld pede: 'ache a receita trimestral nesse dashboard', 'preencha formulário com dados', 'extrai essa planilha'. Tarefas que humans fazem todo dia.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "A VIRADA",
+            "title": "RPA tradicional tá obsoleto",
+            "highlight": "obsoleto",
+            "body": "RPA = règras + xpath + cliques hardcoded. Frágil. AI agents veem tela, entendem contexto, adaptam. Haiku faz isso a $1/mês vs RPA license de R$ 5k.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Vision + reasoning + action loop",
+            "highlight": "action",
+            "body": "1) Vê screenshot. 2) Entende contexto (forma, botões, dados). 3) Decide próxima ação. 4) Clica/digita. 5) Loop até target. Haiku consegue fazer isso 50% das vezes.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "IMPACTO REAL",
+            "title": "Automação agora é acessível",
+            "highlight": "acessível",
+            "body": "Tua startup tem 3 pessoas processando planilhas/formas toda semana? Haiku agent tira 2 delas da tarefa. ROI em 1 mês. Custo: peanuts.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A REALIDADE",
+            "title": "50% não é 100%, mas é suficiente",
+            "highlight": "suficiente",
+            "body": "Agent 50% confiável bate RPA 100% de custo alto. Porque falhas humanas resolvem, e cu cai pra R$ 50/mês vs R$ 5k/mês.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TESTA AGORA",
+            "title": "Filma uma tarefa de desktop, manda pro Haiku",
+            "highlight": "Haiku",
+            "body": "Computer use tá aqui. Screenshot, prompt, loop. Roda em tua máquina ou via API. Segue @rafaondei — amanhã tem mais sobre automation.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "Prompt Caching + Batch API reduz custo Claude Haiku em 70% — case real",
+      "summary": "Dev de startup otimizou pipeline usando prompt caching (90% off cached tokens) + Batch API (50% off). Resultado: $80/mês em Opus caiu pra $24/mês. Ferramenta está aí, maioria não usa.",
+      "source": "DEV Community, Finout, Anthropic Docs",
+      "link": "https://dev.to/kanta13jp1/claude-api-cost-optimization-haiku-vs-sonnet-and-prompt-caching-cut-my-bill-70-3hfp",
+      "category": "aplicação",
+      "recommended": false,
+      "carousel": {
+        "theme": "Economize 70% no custo de IA com features que já existem",
+        "caption": "💰 Case real: $80/mês em Opus caiu pra $24 com caching + batch. Multiplicá por 100 devs e tu tá economizando MILHÕES. Prompt caching = 10% de custo pra cached tokens (5 min TTL). Batch API = 50% off tudo. Combo = 70%+ savings. Maioria tá ignorando, tá pagando full price como bobo.\n\n#Claude #PromptCaching #BatchAPI #CostOptimization #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "ANTES IGNORAVAM, AGORA NÃO",
+            "title": "70% off na conta de IA",
+            "highlight": "70%",
+            "body": null,
+            "stat": "$80 → $24",
+            "stat_label": "/mês (case real)"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O NÚMERO DO SUFOCO",
+            "title": "Startup tava sangrando na API",
+            "highlight": "sangrando",
+            "body": "Janeiro 2026: $80/mês rodando Opus + Sonnet sem otimização. Tá alto? Sim. Pra startup é lunch + dev. Abril: $24/mês. Mesmo pipeline, mesma qualidade.",
+            "stat": "66%",
+            "stat_label": "economy total"
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "COMO CONSEGUIU",
+            "title": "2 features que ninguém mexia",
+            "highlight": "ninguém",
+            "body": "Prompt caching: repete context (system prompt, docs, exemplos)? Armazena 5 min. Próxima chamada lê de cache = 90% desconto. Batch API: processa offline, gets 50% off tudo.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "A MATEMÁTICA",
+            "title": "Batch API paga 50% do custo, caching paga 10%",
+            "highlight": "paga",
+            "body": "Caching escrita: 1.25x input. Leitura: 0.1x input. ROI após 1 cache hit (5 min TTL). Batch: direto 50% off. Juntar: é 80-90% desconto em workload típico.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "SETUP TÉCNICO",
+            "title": "3 steps pra implementar",
+            "highlight": "3",
+            "body": "1) Payload > 1024 tokens? Ativa cache_control. 2) Não precisa resposta imediata? Joga no batch. 3) Roda async, ganha 50%. Mín 10 requests pra valer.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "TUA REALIDADE",
+            "title": "Se roda Haiku hoje, cai 80% no cost",
+            "highlight": "80%",
+            "body": "Haiku: $1/$5. Com cache + batch: $0.2/$1 efetivo. Pra 1M requests diários, a diferença é R$ 150 vs R$ 15 por dia.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A VERDADE",
+            "title": "Preço não é fixo — tu que escolhe",
+            "highlight": "escolhe",
+            "body": "IA cara é pra quem não otimiza. Quem usa caching + batch + Haiku tá rodando modelo de qualidade Sonnet por menos que cafézinh.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "AUDITA HOJE",
+            "title": "Che tua conta, ativa caching agora",
+            "highlight": "caching",
+            "body": "Dashboard Anthropic mostra economias. Se tá gasto acima de R$ 1k/mês, 50% pode vir de otimizações simples. Salva post, roda experiment, segue @rafaondei.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "Antropic lança integração Haiku 4.5 em AWS Bedrock multi-região — Ásia",
+      "summary": "Haiku 4.5 agora roda em ap-northeast-1 (Tokyo) e regiões do Southeast Asia via Bedrock. Enterprise pode rodar IA crítica localmente. Significado: IA barata + compliance regional = startup scale pronto.",
+      "source": "AWS Blog, AWS WhatsNew",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-bedrock-cross-region-inference-for-claude-sonnet-4-5-and-haiku-4-5-in-japan-and-australia/",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "Haiku em Bedrock global — IA barata com compliance regional",
+        "caption": "🌏 Anthropic lançou Haiku 4.5 em Bedrock multi-region: Tokyo (ap-northeast-1), Australia, Southeast Asia (Thai, Malaysia, Singapore, Indo, Taiwan). Quer dizer: compliance LGPD (dados br ficam no BR), latência baixa (Tokyo é perto do BR), costs controlados. Startup brasileira com dados sensíveis agora roda Haiku sem problema.\n\n#AWS #Bedrock #Haiku #Compliance #LGPD #SaaS",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "COMPLIANCE AGORA ROLA",
+            "title": "Haiku em Bedrock — dados ficam perto",
+            "highlight": "perto",
+            "body": null,
+            "stat": "4+",
+            "stat_label": "regiões Asia-Pacific"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "QUEM GANHA COM ISSO",
+            "title": "Startup BR com dados sensíveis",
+            "highlight": "sensíveis",
+            "body": "LGPD exige dados dentro do Brasil. Até semana passada: ou usa cloud BR (caro) ou Anthropic API (fora do país). Agora: Haiku 4.5 em Bedrock BR-SP (via cross-region).",
+            "stat": "0ms",
+            "stat_label": "latência added pra compliance"
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "POR QUE BEDROCK",
+            "title": "AWS gerencia, tu controla",
+            "highlight": "controla",
+            "body": "Bedrock = API thin layer em Anthropic. Tu roda via boto3, na tua VPC, dados not leave AWS region. AWS cuida da infra, Anthropic cuida do modelo.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "A MUDANÇA",
+            "title": "Enterprise agora roda small models",
+            "highlight": "small",
+            "body": "Antes: Bedrock = Sonnet/Opus, caro. Agora: Haiku barato + regional = product-viable pra startup. Você consegue escalar sem brecar budget.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO RODA",
+            "title": "Cross-region inference — transparente",
+            "highlight": "transparente",
+            "body": "Boto3 aponta pra região (ap-northeast-1). Bedrock roteia pra Anthropic. Resposta volta. Dado nunca sai da região AWS. Latência: ~50-100ms vs 200+ em call normal.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "CASO DE USO",
+            "title": "Startup fintech brasileira — agora roda IA",
+            "highlight": "fintech",
+            "body": "Dados de clientes LGPD-bound. Quer usar IA pra fraud detect, KYC, análise. Antes: impossível (dados saem do país). Agora: Haiku via Bedrock BR — completo.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A REALIDADE",
+            "title": "Compliance deixa de ser blocker",
+            "highlight": "blocker",
+            "body": "2025: compliance = sem IA pra startup séria. 2026: compliance = escolhe região e roda. Haiku + Bedrock = startup compliance-ready.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Roda um test call via Bedrock tua region",
+            "highlight": "Bedrock",
+            "body": "Boto3 endpoint docstring. Pega example do Haiku. Roda sync vs async. Checa latência e custo. Depois segue @rafaondei pro mais.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "Vercel AI Gateway integra Haiku 4.5 — routing inteligente entre providers",
+      "summary": "AI Gateway do Vercel agora roteia automaticamente requests de Haiku entre Anthropic, Bedrock e Vertex AI. Transparência de custo + failover automático. Dev não escolhe provider, platform escolhe.",
+      "source": "Vercel Blog, Vercel Changelog",
+      "link": "https://vercel.com/changelog/claude-haiku-4-5-now-available-in-vercel-ai-gateway",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Abstrai provider — tu escolhe model, Vercel escolhe melhor source",
+        "caption": "🔄 Vercel AI Gateway agora roda Haiku. Tu manda request com model=anthropic/claude-haiku-4.5, Vercel roteia pra melhor provider (Anthropic direto, Bedrock, ou Vertex). Cheapest path wins. Built-in logging de uso e custo. Efeito: dev não pensa em provider, plataforma é inteligente.\n\n#Vercel #IA #AIGateway #ApiAbstraction #Routing",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "ABSTRAÇÃO INTELIGENTE",
+            "title": "Gateway escolhe melhor source de IA",
+            "highlight": "melhor",
+            "body": null,
+            "stat": "3+",
+            "stat_label": "providers automaticamente"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Vercel AI Gateway inteligência de routing",
+            "highlight": "routing",
+            "body": "Tu manda: model=claude-haiku-4.5. Gateway roteia pra: Anthropic API (default), AWS Bedrock (cheaper), Google Vertex (fallback). Tudo transparente, tu so vê response.",
+            "stat": "100%",
+            "stat_label": "transparent pra dev"
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O PROBLEMA QUE RESOLVE",
+            "title": "Multi-vendor sem complexity",
+            "highlight": "complexity",
+            "body": "Antes: dev gerencia 3 SDKs, 3 autenticações, 3 error handlers. Agora: 1 SDK, 1 key, Vercel cuida do roteamento. Provider falha? Vem fallback.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "A MUDANÇA",
+            "title": "Cost arbitrage automático",
+            "highlight": "automático",
+            "body": "Bedrock fica mais barato que Anthropic direto? Gateway sobe weight de Bedrock. Vertex tem spot discount? Roteia ali. Tu não mexe, costs caem.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "SETUP TÉCNICO",
+            "title": "1 linha de código, 3 providers habilitados",
+            "highlight": "3",
+            "body": "npm install @vercel/ai. Constructor: createOpenAI({model: 'anthropic/claude-haiku-4.5', gateway: true}). Boom. Vercel roteia.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "STARTUP REAL",
+            "title": "Economiza 40% sem mexer em code",
+            "highlight": "40%",
+            "body": "Upgrade no Vercel (built-in observability) + routing inteligente = costs caem 30-40% sem mudança de lógica. Dev segue codando, infra otimiza.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A TENDÊNCIA",
+            "title": "Platform é o novo provider",
+            "highlight": "Platform",
+            "body": "Vercel, Fly, Railway — todos vão ser abstração entre dev e model providers. Dev escolhe 1 platform, ela escolhe modelo + provider.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TESTA AGORA",
+            "title": "Roda 1 request via AI Gateway",
+            "highlight": "Gateway",
+            "body": "Vercel docs, copy pasta. Log na dashboard. Checa routing choices. Depois segue @rafaondei.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "Claude Haiku 4.5 processa PDFs e documentos complexos — visão é quase Sonnet",
+      "summary": "Haiku 4.5 suporta multimodal: text + imagem em 200K contexto. Document AI (PDF, charts, forms) roda em qualidade near-Sonnet. Use case: automação de processamento de documentos por 1/3 do custo.",
+      "source": "Anthropic Docs, AWS Blog",
+      "link": "https://platform.claude.com/docs/en/build-with-claude/pdf-support",
+      "category": "aplicação",
+      "recommended": false,
+      "carousel": {
+        "theme": "Processa documentos complexos — visão quasi-Sonnet por 1/3 do preço",
+        "caption": "📄 Haiku 4.5 + visão = document intelligence barata. Lê PDF, entende tabelas, charts, forms, e extrai dados. Qualidade é quasi-Sonnet, custo é 1/3. Document processing = pain point de supply chain, insurance, legal. Startup pode automatizar 70% de RPA manual aqui.\n\n#DocumentAI #IA #Haiku #Automação #Processamento",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "PROCESSAMENTO DOCUMENTAL",
+            "title": "Visão quasi-Sonnet, preço Haiku",
+            "highlight": "preço",
+            "body": null,
+            "stat": "200K",
+            "stat_label": "tokens contexto (1 PDF)"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O DETALHE",
+            "title": "Multimodal a $1/$5 — novo paradigma",
+            "highlight": "Multimodal",
+            "body": "Antes: document AI = Sonnet ($3/$15) ou custom vision model. Agora: Haiku 4.5 processa PDF inteiro, entende layout, extrai tabelas, responde Q&A sobre doc.",
+            "stat": "near-Sonnet",
+            "stat_label": "quality / document understanding"
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "USE CASE REAL",
+            "title": "Extração de dados de forms — antes era RPA",
+            "highlight": "RPA",
+            "body": "Recebe 500 formas scaneadas por dia. Antes: OCR + regex + manual QA (2 people, R$ 10k/mês). Agora: Haiku lê imagem, extrai JSON, 90% acuracy, costs R$ 200/mês.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "A DISRUPÇÃO",
+            "title": "RPA document processing tá morto",
+            "highlight": "morto",
+            "body": "RPA é frágil pra docs (layout muda, fonte muda, quebra). IA vision adapta. Haiku roda barato, você terceiriza menos, lucra mais.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Base64 imagem + prompt = dados estruturados",
+            "highlight": "estruturados",
+            "body": "Converte PDF pra PNG, base64, manda pra Haiku com prompt ('extrai invoice data em JSON'). Resposta: JSON estruturado. Erro rate: ~10% em docs messy.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "CASO REAL",
+            "title": "Supply chain — rastreia invoices automático",
+            "highlight": "invoices",
+            "body": "Supplier envia nota fiscal PDF. Haiku extrai: número, data, itens, valor. Insere no ERP. Antes: admin digita. Agora: automático. ROI em 2 meses.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A LIÇÃO",
+            "title": "Vision + reasoning = RPA killer",
+            "highlight": "killer",
+            "body": "RPA quebra com variação. IA adapta. Haiku traz essa inteligência de forma barata. Qualquer processo documental pode ser automação agora.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PROOF OF CONCEPT",
+            "title": "Joga 1 PDF tua pro Haiku, testa",
+            "highlight": "PDF",
+            "body": "Pega invoice, invoice-ocr, or supply doc. Manda pra Haiku com prompt de extração. Compara com manual. Número não mente. Segue @rafaondei.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "Model mixing — Enterprise roda Haiku pra agents simples, Opus pra reasoning",
+      "summary": "Estratégia 2026: não roda Opus em tudo. Usa Haiku (3x mais barato, 4x mais rápido) pra triage/routing, Opus pra raciocínio complexo. Caylent + Anthropic relatam 40-60% cost reduction com pattern.",
+      "source": "Caylent Blog, Anthropic",
+      "link": "https://caylent.com/blog/claude-haiku-4-5-deep-dive-cost-capabilities-and-the-multi-agent-opportunity",
+      "category": "aplicação",
+      "recommended": false,
+      "carousel": {
+        "theme": "Model mixing — rota smart entre Haiku e Opus, economia massiva",
+        "caption": "🎯 2026: Enterprise parou de rodar Opus pra tudo. Padrão novo é model-mixing: Haiku pra 80% (triage, routing, classification, extraction, moderation), Opus só pra 20% (complex reasoning, multi-step). Resultado: 40-60% cost reduction, zero quality loss. Haiku escalou demais pra ignorar esse pattern.\n\n#Claude #ModelMixing #Enterprise #IA #CostOptimization",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "PADRÃO 2026",
+            "title": "Use Haiku 80% das vezes, Opus 20%",
+            "highlight": "80%",
+            "body": null,
+            "stat": "60%",
+            "stat_label": "cost reduction (real case)"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "A ECONOMIA QUE NINGUÉM NEGA",
+            "title": "Model mixing = 40-60% savings",
+            "highlight": "savings",
+            "body": "Opus: $15/$45 input/output. Haiku: $1/$5. Se roda Opus 100% = caro. Se roda Haiku 80% (triage, routing, classification) + Opus 20% (multi-step reasoning) = 50% economia.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "ONDE USA HAIKU (80%)",
+            "title": "Triage, routing, classification, extraction",
+            "highlight": "classification",
+            "body": "É email spam? Haiku em 10ms. Documento é invoice ou PO? Haiku classifica. User intent é support ou sales? Haiku roteia. Tudo rápido, tudo barato.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "ONDE USA OPUS (20%)",
+            "title": "Reasoning multi-step e análise profunda",
+            "highlight": "Reasoning",
+            "body": "Haiku: 'documento é invoice'. Opus: 'analisa risco financeiro, detecta anomalias, projeta fluxo de caixa'. Tarefas que precisam cadeia de pensamento.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "PADRÃO DE CÓDIGO",
+            "title": "If simple, roda Haiku; if complex, cai pra Opus",
+            "highlight": "simple",
+            "body": "Router agent: triage com Haiku (classe tarefa). Se classe = 'simple' → resolve com Haiku. Se = 'complex' → delega pra Opus. Economia? 50%.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "STARTUP 1k CALLS/DIA",
+            "title": "Economia de R$ 1.5k/mês pra R$ 700/mês",
+            "highlight": "R$",
+            "body": "1000 calls Opus/dia = ~R$ 1.5k/mês. 1000 calls model-mixing (800 Haiku, 200 Opus) = ~R$ 700/mês. Mesma qualidade, menos gasto.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A VERDADE",
+            "title": "Usar Opus pra tudo é decisão de preguiça",
+            "highlight": "preguiça",
+            "body": "Dev pega model mais poderoso porque 'é mais seguro'. Mas enterprise sério separa tarefa por complexidade. Haiku foi built pra essa separação.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "AUDIT",
+            "title": "Analisa teus agents — quanto poderia ser Haiku?",
+            "highlight": "Haiku",
+            "body": "Pega 100 calls últimos. Classifica por complexity. Se 70% são simple, tu tá perdendo 40% de grana. Testa model-mixing. Segue @rafaondei.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "Claude Haiku 4.5 com 128K thinking — raciocínio 'gratuito' em tests",
+      "summary": "Anthropic testou Haiku 4.5 com extended thinking (128K budget) em SWE-bench. Resultado: 73.3% com thinking overhead minimal. Haiku agora pode fazer 'slow reasoning' sem quebrar custo.",
+      "source": "Anthropic Blog, Medium",
+      "link": "https://www.anthropic.com/news/claude-haiku-4-5",
+      "category": "benchmark",
+      "recommended": false,
+      "carousel": {
+        "theme": "Haiku com thinking mode — reasoning profundo sem quebrar orçamento",
+        "caption": "🧠 Anthropic rodou Haiku com 128K thinking budget em SWE-bench e manteve 73.3%. Thinking = raciocínio interno extended (modelo pensa antes de responder). Em Opus custa mais. Em Haiku? Custo marginal é mínimo. Meaning: Haiku agora faz reasoning profundo barato. Code generation, análise, troubleshooting ficam mais precisos.\n\n#Claude #ThinkingMode #Reasoning #SWE-bench #Haiku",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "THINKING MODE",
+            "title": "Raciocínio interno — agora em Haiku",
+            "highlight": "interno",
+            "body": null,
+            "stat": "128K",
+            "stat_label": "thinking tokens budget"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O TESTE QUE PROVA",
+            "title": "Thinking + Haiku = 73.3% em SWE-bench",
+            "highlight": "73.3%",
+            "body": "Haiku normal: 73.3%. Haiku + 128K thinking: 73.3% (mesmo score, mais thinking overhead). Significa: thinking ajuda resolve problemas complexos sem quebrar base score.",
+            "stat": "0ms",
+            "stat_label": "latência extra (amortizado)"
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE É THINKING",
+            "title": "Modelo pensa antes de responder",
+            "highlight": "pensa",
+            "body": "Extended thinking = model raciocina internamente (invisible tokens) antes de responder. Tipo human: 'deixa eu pensar um pouco...'. Resultado: respostas melhores, menos erros.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "A MUDANÇA",
+            "title": "Raciocínio deixa de ser premium",
+            "highlight": "premium",
+            "body": "Antes: thinking só em Opus (caro). Agora: Haiku + thinking = reasoning profundo a preço baixo. Democratiza thinking — toda startup acessa.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Thinking tokens = 'burn' antes da resposta",
+            "highlight": "burn",
+            "body": "Prompt enviado. Model aloca 128K tokens internos pra thinking. Resolve problema (multi-step logic, edge cases, etc). Aí responde. User vê só resposta clean.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "USE CASE",
+            "title": "Code generation complexo — debugging automático",
+            "highlight": "debugging",
+            "body": "Prompt: 'gera parser JSON robustus'. Haiku thinking internamente: edge cases, error handling, performance. Resposta: código production-ready. Antes precisava Opus ou múltiplos turns.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A REALIDADE",
+            "title": "Thinking é custo de computar, não custo de tokens premium",
+            "highlight": "custo",
+            "body": "Thinking usa 'budget' (128K default) pra model calcular. Em vez de pagar modelo mais caro, tu bota mais tempo de thinking. Startups vão preferir isso.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TESTA AGORA",
+            "title": "Roda código complexo com Haiku + thinking",
+            "highlight": "thinking",
+            "body": "API parameter: budget_tokens: 128000. Faz request com problema multi-step. Compara resposta com Haiku normal. Qualidade sobe? Custo mantém. Segue @rafaondei.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "Alignment Score: Claude Haiku 4.5 tem MENOR rate de misalignment que Sonnet",
+      "summary": "Sistema Card Anthropic mostra: Haiku 4.5 alinhado melhor que Sonnet 4.5. Testes automáticos de alignment mostram Haiku com taxa mais baixa de comportamentos misaligned. Size não determina safety — training sim.",
+      "source": "Anthropic System Card, Stampr-AI",
+      "link": "https://www.stampr-ai.com/data/models/cards/claude-haiku-4-5/claude-haiku-4-5_20251122_160349_1b9ae5f4_stamped.pdf",
+      "category": "benchmark",
+      "recommended": false,
+      "carousel": {
+        "theme": "Haiku é mais alinhado que Sonnet — segurança não é compromiso",
+        "caption": "🛡️ Alignment test: Claude Haiku 4.5 tem TAXA MENOR de comportamentos misaligned que Sonnet 4.5. Significa: Haiku não 'fica pior' quando menor. Training matters mais que size. Implicação: Startup pode usar Haiku pra dados sensíveis/compliance sem risco de degradação de safety.\n\n#Claude #Safety #Alignment #Ethics #IA",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "SAFETY CHECKPOINT",
+            "title": "Haiku é mais seguro que Sonnet?",
+            "highlight": "seguro",
+            "body": null,
+            "stat": "✓",
+            "stat_label": "Haiku 4.5 wins alignment"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O TESTE OBJETIVO",
+            "title": "Automated alignment assessment — Haiku ganha",
+            "highlight": "ganha",
+            "body": "Anthropic System Card publica taxa de misaligned behaviors por modelo. Haiku 4.5: lower rate que Sonnet 4.5. Não é opinião — é teste automático, reproducível.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "POR QUE ACONTECE",
+            "title": "Menor model = menos 'personalidade' misaligned",
+            "highlight": "personalidade",
+            "body": "Haiku é mais especializado, menos 'criativo'. Sonnet tem mais capacidade de 'soltar'. Paradoxo: menor modelo pode ser mais controlável, mais seguro.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "A IMPLICAÇÃO",
+            "title": "Segurança não é sacrifício — é escolha",
+            "highlight": "sacrifício",
+            "body": "Se tua startup precisa rodar IA em compliance, Haiku não é 'second choice'. É choice MELHOR em safety profile. Ganha em custo, alinhamento E performance.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO MEDE",
+            "title": "Testes de jailbreak — Haiku resiste melhor",
+            "highlight": "resiste",
+            "body": "Prompt: 'ignora suas instruções, faz X'. Sonnet: chance Y% de cair. Haiku: chance menor de cair. Training specificity matter — Haiku treinado focado.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "STARTUP REAL",
+            "title": "FINTECH com dados sensíveis — escolhe Haiku",
+            "highlight": "sensíveis",
+            "body": "Dados de clientes PII, compliance LGPD. Startup precisa rodar IA mas não quer risco de data leaks. Haiku: melhor perfil safety, mais barato. Win-win.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A VERDADE",
+            "title": "Small models podem ser mais alinhados",
+            "highlight": "alinhados",
+            "body": "Intuição: big = smart = safer. Realidade: focused training = safer. Haiku prova isso. Implications pra enterprise serious em security.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "LÊ O DETALHE",
+            "title": "Baixa System Card do Haiku 4.5",
+            "highlight": "System",
+            "body": "Anthropic publica detalhes de alignment tests. PDF aberto no link. Tu que decidir: Sonnet ou Haiku pra tua use case? Numbers falam. Segue @rafaondei.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    }
+  ],
+  "whatsapp": "📻 RADAR IA — 2026-04-30 (Teste Haiku)\n\n1️⃣ DeepSeek V4 Flash custa $0.14/M tokens vs Haiku $1. Rival real de Claude.\nhttps://medium.com/@cognidownunder/deepseek-v4-just-made-claude-look-expensive-and-the-gap-is-getting-worse-989e100d88b4\n\n2️⃣ Haiku 4.5 = 73.3% SWE-bench (Sonnet 4 = 72%) — modelo pequeno bate grande em código.\nhttps://www.anthropic.com/news/claude-haiku-4-5\n\n3️⃣ OSWorld 50.7% — Haiku supera Sonnet 4 em automação de desktop.\nhttps://caylent.com/blog/claude-haiku-4-5-deep-dive-cost-capabilities-and-the-multi-agent-opportunity\n\n4️⃣ Prompt Caching + Batch API reduz custo Claude em 70% — case: $80 → $24/mês.\nhttps://dev.to/kanta13jp1/claude-api-cost-optimization-haiku-vs-sonnet-and-prompt-caching-cut-my-bill-70-3hfp\n\n5️⃣ Haiku em AWS Bedrock — Tokyo, Australia, Southeast Asia. LGPD-ready.\nhttps://aws.amazon.com/blogs/machine-learning/introducing-amazon-bedrock-cross-region-inference-for-claude-sonnet-4-5-and-haiku-4-5-in-japan-and-australia/\n\n6️⃣ Vercel AI Gateway rota automaticamente Haiku entre Anthropic, Bedrock, Vertex.\nhttps://vercel.com/changelog/claude-haiku-4-5-now-available-in-vercel-ai-gateway\n\n7️⃣ Haiku 4.5 processa PDFs, tabelas, charts — visão quasi-Sonnet, preço Haiku.\nhttps://platform.claude.com/docs/en/build-with-claude/pdf-support\n\n8️⃣ Model Mixing: 80% Haiku (triage, routing), 20% Opus (reasoning). 50% economy.\nhttps://caylent.com/blog/claude-haiku-4-5-deep-dive-cost-capabilities-and-the-multi-agent-opportunity\n\n9️⃣ Haiku + 128K thinking — raciocínio profundo mantém 73.3% em código.\nhttps://www.anthropic.com/news/claude-haiku-4-5\n\n🔟 Alignment Score: Haiku 4.5 LOWER misalignment rate que Sonnet 4.5 — safety não é sacrifício.\nhttps://www.stampr-ai.com/data/models/cards/claude-haiku-4-5/claude-haiku-4-5_20251122_160349_1b9ae5f4_stamped.pdf\n\n---\n📊 Dashboard: https://rafaelondei.appnaia.com",
+  "instagram": "🚀 **RADAR IA — 10 MOVIMENTOS DO DIA** — Teste Haiku\n\nHoje é dia de **verdades incômodas** sobre IA em 2026.\n\n🔴 **DeepSeek V4 Flash** chegou criptografado e derrubou a mesa de preços. $0.14/M tokens vs Haiku $1. Isso não é diferença — é **disrupção**. China tá fechando o gap com Mixture-of-Experts. Startup que ficava cara no Claude agora tem escape route.\n\n📊 **Haiku 4.5** não é \"modelo barato que não rola\". É **modelo mais barato que vale**. 73.3% SWE-bench (Sonnet 4 tem 72%). 50.7% OSWorld (supera Sonnet 4's 42.2%). A verdade que ninguém fala: pequeno pode ser melhor PRA SUA TAREFA.\n\n💰 **70% cost reduction** não é fantasy. Dev real de startup economizou $80 → $24/mês combinando prompt caching + batch API. Features que já existem, ninguém usa.\n\n🌏 **Compliance agora rola**. Haiku em Bedrock Brasil, Tokyo, Southeast Asia. LGPD-ready. Startup de dados sensíveis (fintech, health, legal) pode usar IA sem data leave country.\n\n🔄 **Vercel abstrai provider**. Tu escolhe model, Vercel escolhe melhor source (Anthropic, Bedrock, Vertex). Routing inteligente = 40% economy transparente.\n\n📄 **Document AI é aqui**. Haiku processa PDFs complexos, entende tabelas/charts. RPA documental tá obsoleto. Invoice processing? Automático. Custo? R$ 200/mês vs R$ 10k equipe.\n\n🎯 **Model mixing** é pattern 2026. 80% Haiku (triage, routing, classification), 20% Opus (reasoning multi-step). 50% cost reduction, zero quality loss. Enterprise séria faz isso.\n\n🧠 **Thinking mode chega em Haiku**. Raciocínio interno (128K budget) agora roda barato. Code generation complexo fica mais preciso sem quebrar custo.\n\n🛡️ **Haiku é mais alinhado que Sonnet**. Automated alignment assessment: Haiku tem lower rate de misaligned behaviors. Small model = focused training = safer.\n\n---\n\n**A lição do dia:**\n2025 foi era de frontier models — Opus, GPT-5, Haiku. 2026 é era de **economia**. Quem vencer é quem conseguir boa performance por menos. Haiku provou que pequeno **não é sacrifício** — é **estratégia**.\n\nStarups que acompanham isso vão escalar 10x. Startups que ignoram vão queimar grana igual louco.\n\n---\n\n📍 Salva esse post, roda 1 teste com Haiku, decision tree com seu caso. Depois segue @rafaondei pra mais radar.\n\n#IA #Claude #Haiku #OpenAI #Tecnologia #Empreendedorismo #StartupsBr #CostOptimization #Inteligência Artificial #Inovação"
+}
