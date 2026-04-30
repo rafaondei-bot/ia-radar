@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-04-29T22:54:50-03:00",
+  "updated_at": "2026-04-30T09:46:12-03:00",
   "executions": [
+    {
+      "date": "2026-04-30",
+      "summary": "AWS leva GPT-5.5/Codex/Managed Agents pro Bedrock e quebra exclusividade Azure; Big Techs cravam US$ 650 bi em capex de IA em 2026",
+      "items_count": 10
+    },
     {
       "date": "2026-04-29",
       "summary": "Anthropic negocia rodada a US$ 900 bi e ultrapassa OpenAI; Big Techs miram +US$ 600 bi em IA em 2026",

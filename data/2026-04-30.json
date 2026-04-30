@@ -1,0 +1,78 @@
+{
+  "date": "2026-04-30",
+  "generated_at": "2026-04-30T09:46:12-03:00",
+  "items": [
+    {
+      "title": "AWS leva GPT-5.5, Codex e Managed Agents para o Bedrock e quebra exclusividade da Azure",
+      "summary": "Em 28/abr, AWS e OpenAI anunciaram parceria estratégica trazendo GPT-5.5, Codex e o serviço Managed Agents para o Amazon Bedrock em preview. Empresas com commit AWS agora rodam agentes OpenAI com IAM, PrivateLink e CloudTrail, encerrando a era de lock-in com Azure e abrindo espaço pra arquiteturas multi-cloud nas operações de IA.",
+      "source": "OpenAI",
+      "link": "https://openai.com/index/openai-on-aws/",
+      "category": "mercado"
+    },
+    {
+      "title": "NVIDIA lança Nemotron 3 Nano Omni: multimodal aberto com 9x mais throughput",
+      "summary": "Em 28/abr a NVIDIA disponibilizou no Hugging Face e build.nvidia.com o Nemotron 3 Nano Omni, MoE híbrido de 30B (3B ativos) com visão, áudio e texto em um único modelo aberto e contexto de 256K. Promete 9x mais throughput que outros omni abertos, derrubando custo de agentes multimodais em produção.",
+      "source": "NVIDIA Blog",
+      "link": "https://blogs.nvidia.com/blog/nemotron-3-nano-omni-multimodal-ai-agents/",
+      "category": "modelo"
+    },
+    {
+      "title": "Meta abre LlamaCon com preview do Llama 4 Behemoth de quase 2 trilhões de parâmetros",
+      "summary": "Em 29/abr, no primeiro LlamaCon, a Meta apresentou o Llama 4 Behemoth (288B ativos, 16 experts, ~2T totais) como modelo professor da família Llama 4, anunciou a Llama API em preview gratuito e confirmou Scout (10M de contexto) e Maverick em produção. Reposiciona Meta como referência open-source frente a Anthropic e OpenAI.",
+      "source": "Meta AI",
+      "link": "https://ai.meta.com/blog/llamacon-llama-news/",
+      "category": "modelo"
+    },
+    {
+      "title": "Anthropic revela Claude Mythos, modelo fechado de cibersegurança para AWS, Apple, Microsoft e NVIDIA",
+      "summary": "A Anthropic anunciou o Claude Mythos Preview, modelo de uso geral com força incomum em segurança da informação. Em vez de release público, a companhia liberou acesso para um clube fechado (AWS, Apple, Broadcom, Cisco, CrowdStrike, Google, JPMorgan, Microsoft, NVIDIA, Palo Alto) usar como ferramenta defensiva. Sinal claro: capacidade de ponta vai virar serviço gerenciado para incumbents.",
+      "source": "Anthropic",
+      "link": "https://red.anthropic.com/2026/mythos-preview/",
+      "category": "modelo"
+    },
+    {
+      "title": "Microsoft torna multi-agente do Copilot Studio GA com protocolo A2A e Fabric ao vivo",
+      "summary": "A Microsoft promoveu o Copilot Studio para GA com orquestração multi-agente, protocolo A2A entre agentes e ações autônomas dentro de Word, Excel e PowerPoint puxando dados ao vivo do Microsoft Fabric. Pra quem opera empresa em stack Microsoft, dá pra montar fluxos completos sem código com agentes que agem em arquivos reais.",
+      "source": "Microsoft Copilot Blog",
+      "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-multi-agent-orchestration-connected-experiences-and-faster-prompt-iteration/",
+      "category": "ferramenta"
+    },
+    {
+      "title": "GitHub Copilot migra para cobrança por uso a partir de 1/jun e expõe custo real do AI coding",
+      "summary": "Em 28/abr, GitHub anunciou que o Copilot deixa o modelo de assinatura com requests fixos e passa a faturar por consumo a partir de 1/jun. Reflete o problema estrutural revelado pelo Cursor (margens negativas de 23%): power users de IA comem compute como nunca e o velho playbook SaaS não fecha conta. Reveja seu pricing se vende ferramenta com IA embutida.",
+      "source": "The Register",
+      "link": "https://www.theregister.com/2026/04/28/microsofts_github_shifts_to_metered/",
+      "category": "mercado"
+    },
+    {
+      "title": "Microsoft, Alphabet, Meta e Amazon confirmam US$ 650 bi em capex de IA em 2026",
+      "summary": "O dia 30/abr fechou o maior balanço trimestral do ano: as quatro Big Techs comprometeram coletivamente entre US$ 630 bi e US$ 650 bi em investimento de capital pra 2026, com Azure crescendo 40%, Google Cloud 63% e Meta acelerando data centers próprios. A torneira de infraestrutura de IA segue aberta e empurra preço de compute para baixo no longo prazo.",
+      "source": "AI News",
+      "link": "https://www.artificialintelligence-news.com/news/big-tech-ai-infrastructure-spending-q1-2026-results/",
+      "category": "mercado"
+    },
+    {
+      "title": "Salesforce e Google Cloud unem Agentforce e Gemini Enterprise pra rodar vendas ponta a ponta",
+      "summary": "A parceria expandida (22/abr) deixa agentes da Agentforce trabalhando dentro do Gemini Enterprise: lead engagement, briefing de reunião, análise de risco de deal e atualização de CRM em tempo real, sem o vendedor sair da janela do Google Workspace ou Slack. Pra time comercial, é a primeira integração séria que tira o trabalho operacional de quem deveria estar fechando contrato.",
+      "source": "Salesforce Newsroom",
+      "link": "https://www.salesforce.com/news/press-releases/2026/04/22/salesforce-google-cloud-launch-new-integrations-deep-context/",
+      "category": "aplicação"
+    },
+    {
+      "title": "Rogo levanta US$ 160 mi Série D liderada por Kleiner pra IA vertical em investment banking",
+      "summary": "Em 29/abr, a Rogo, plataforma de IA agêntica feita sob medida pra bancos de investimento, fechou Série D de US$ 160 mi com Kleiner Perkins liderando e Sequoia, Khosla e JP Morgan Growth Equity entrando. Total captado supera US$ 300 mi. Confirma a tese: IA vertical com domínio profundo bate horizontal genérica em ticket e retenção.",
+      "source": "AI News Digest (Asanify)",
+      "link": "https://asanify.com/blog/news/regulated-vertical-ai-april-30-2026/",
+      "category": "mercado"
+    },
+    {
+      "title": "Forrester embute agente de IA dentro do Microsoft 365 Copilot e mata a busca por relatório",
+      "summary": "Em 28/abr a Forrester lançou um agente nativo no Microsoft 365 Copilot e Teams que entrega pesquisa, frameworks e advisory direto no fluxo de trabalho do cliente licenciado. É o caso modelo da próxima onda: conteúdo premium deixa de ser destino e vira inteligência embutida em ferramenta de trabalho. Dá pra adaptar essa tese pra mentoria e infoproduto.",
+      "source": "Windows Forum",
+      "link": "https://windowsforum.com/threads/forrester-ai-agent-for-microsoft-365-copilot-trusted-research-in-the-work-flow.415790/",
+      "category": "aplicação"
+    }
+  ],
+  "whatsapp": "🔥 IA RADAR — 30/04/2026 (top 10 das últimas 48h)\n\n1) AWS leva GPT-5.5, Codex e Managed Agents pro Bedrock\nFim do lock-in com Azure: empresas AWS rodam agentes OpenAI com IAM e PrivateLink.\nhttps://openai.com/index/openai-on-aws/\n\n2) NVIDIA lança Nemotron 3 Nano Omni (multimodal aberto)\nMoE 30B (3B ativos), visão+áudio+texto, 9x mais throughput. Custo de agente multimodal cai forte.\nhttps://blogs.nvidia.com/blog/nemotron-3-nano-omni-multimodal-ai-agents/\n\n3) Meta abre LlamaCon com preview do Llama 4 Behemoth\nQuase 2 trilhões de parâmetros, modelo professor da família. Llama API em preview grátis.\nhttps://ai.meta.com/blog/llamacon-llama-news/\n\n4) Anthropic revela Claude Mythos pra cibersegurança\nModelo fechado liberado só pra AWS, Apple, Microsoft, NVIDIA, JPMorgan e cia. Defesa virou produto premium.\nhttps://red.anthropic.com/2026/mythos-preview/\n\n5) Microsoft Copilot Studio multi-agente vira GA\nProtocolo A2A entre agentes + ações autônomas em Word, Excel, PowerPoint puxando Fabric ao vivo.\nhttps://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-multi-agent-orchestration-connected-experiences-and-faster-prompt-iteration/\n\n6) GitHub Copilot vai cobrar por uso a partir de 1/jun\nFim da assinatura fixa. Power user de IA come compute. Reveja seu pricing se vende SaaS com IA.\nhttps://www.theregister.com/2026/04/28/microsofts_github_shifts_to_metered/\n\n7) Big Techs confirmam US$ 650 bi em capex de IA em 2026\nMSFT, GOOG, META e AMZN. Azure +40%, Google Cloud +63%. Torneira segue aberta.\nhttps://www.artificialintelligence-news.com/news/big-tech-ai-infrastructure-spending-q1-2026-results/\n\n8) Salesforce + Google Cloud unem Agentforce e Gemini Enterprise\nAgente engaja lead, faz briefing, atualiza CRM no Slack/Workspace. Vendedor só fecha.\nhttps://www.salesforce.com/news/press-releases/2026/04/22/salesforce-google-cloud-launch-new-integrations-deep-context/\n\n9) Rogo (IA p/ investment banking) levanta US$ 160 mi Série D\nLiderada por Kleiner. Tese de IA vertical especializada bate horizontal genérica em ticket e LTV.\nhttps://asanify.com/blog/news/regulated-vertical-ai-april-30-2026/\n\n10) Forrester embute agente de pesquisa no Microsoft 365 Copilot\nResearch + frameworks dentro do Teams do cliente. Modelo replicável p/ mentoria e infoproduto.\nhttps://windowsforum.com/threads/forrester-ai-agent-for-microsoft-365-copilot-trusted-research-in-the-work-flow.415790/\n\n📊 Dashboard completo: https://rafaelondei.appnaia.com",
+  "instagram": "CAPTION:\n\nO mercado de IA acordou diferente nas últimas 48 horas. ⚡\n\nAWS quebrou a exclusividade da Azure com a OpenAI. Meta abriu o LlamaCon mostrando o Llama 4 Behemoth de quase 2 trilhões de parâmetros. NVIDIA jogou na mesa um modelo multimodal aberto que entrega 9x mais throughput. E Microsoft + Google + Meta + Amazon confirmaram US$ 650 BILHÕES em capex de IA pra 2026.\n\nEnquanto isso, três sinais que todo empreendedor precisa mapear:\n\n1) GitHub Copilot está mudando pra cobrança por uso. Quem vende SaaS com IA embutida vai ter que repensar pricing.\n\n2) Rogo levantou US$ 160 mi pra IA vertical de investment banking. IA especializada em nicho está batendo IA genérica em ticket e retenção.\n\n3) Forrester botou agente de pesquisa dentro do Copilot do cliente. Conteúdo premium virou inteligência embutida em ferramenta — modelo replicável pra mentoria e infoproduto.\n\nO jogo já não é \"qual modelo é melhor\". É: como você integra IA na rotina de quem paga pelo seu produto.\n\nSalvou esse post pra revisitar? 👇 Marca o sócio que precisa ver isso.\n\n#IA #InteligenciaArtificial #Claude #OpenAI #ChatGPT #Tecnologia #Empreendedorismo #Mercado #Anthropic #LlamaCon #NVIDIA #Bedrock #Copilot #Agentforce #IAGenerativa #Negocios #Startups #BigTech #Inovacao #IAvertical\n\n---\n\nCARROSSEL — SUGESTÃO DE SLIDES:\n\nSlide 1 (CAPA):\nTítulo grande: \"IA RADAR\"\nSubtítulo: \"As 10 movimentações que travaram o mercado nas últimas 48h\"\nData no canto: 30/04/2026\nFundo dark + acento neon\n\nSlide 2 (AWS + OpenAI):\nHeadline: \"Fim do lock-in OpenAI-Azure\"\nTexto: AWS Bedrock recebe GPT-5.5, Codex e Managed Agents. Empresas em AWS agora rodam agentes OpenAI com IAM e PrivateLink.\nIcone: nuvem + raio\n\nSlide 3 (NVIDIA Nemotron):\nHeadline: \"Multimodal aberto com 9x throughput\"\nTexto: Nemotron 3 Nano Omni — MoE 30B com 3B ativos. Visão, áudio e texto em um modelo só. Custo de agente multimodal cai.\nIcone: olho + ondas sonoras\n\nSlide 4 (Meta Llama 4 Behemoth):\nHeadline: \"Meta volta ao topo open-source\"\nTexto: LlamaCon revelou Behemoth com ~2T de parâmetros e Llama API em preview grátis. Open-source de fronteira está vivo.\nIcone: lhama estilizada\n\nSlide 5 (Anthropic Claude Mythos):\nHeadline: \"Modelo de elite vira produto fechado\"\nTexto: Claude Mythos só pra clube de Apple, Microsoft, NVIDIA, JPMorgan e cia, focado em cibersegurança defensiva.\nIcone: cadeado dourado\n\nSlide 6 (Microsoft Copilot Studio + GitHub):\nHeadline: \"Microsoft acelera no agêntico\"\nTexto: Copilot Studio multi-agente vira GA com protocolo A2A. GitHub Copilot migra pra cobrança por uso em 1/jun.\nIcone: engrenagens conectadas\n\nSlide 7 (Big Tech Capex):\nHeadline: \"US$ 650 BILHÕES em IA em 2026\"\nTexto: MSFT, GOOG, META e AMZN confirmaram nos balanços. Azure +40%, Google Cloud +63%. A bolha do compute segue inflando.\nIcone: cifrão grande\n\nSlide 8 (Salesforce + Rogo):\nHeadline: \"Vertical AI bate horizontal genérica\"\nTexto: Salesforce e Google unem Agentforce + Gemini Enterprise pra vendas. Rogo levanta US$ 160 mi pra IA de investment banking.\nIcone: gráfico ascendente\n\nSlide 9 (Forrester insight):\nHeadline: \"Conteúdo premium virou agente embutido\"\nTexto: Forrester botou pesquisa dentro do Microsoft 365 do cliente. Pra mentor e infoprodutor: copia esse modelo.\nIcone: cérebro + plug\n\nSlide 10 (CTA):\nHeadline: \"Quer o radar diário no zap?\"\nTexto: Acesse o dashboard completo, com link das fontes, em rafaelondei.appnaia.com\nCTA: \"Me segue pra não perder a próxima atualização\""
+}
