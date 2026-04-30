@@ -251,6 +251,153 @@
 
   .meta .link:hover { text-decoration: underline; }
 
+  /* RECOMMENDED BADGE + ACTION */
+  .news-item.recommended {
+    border-color: rgba(234,88,12,0.5);
+    background: linear-gradient(180deg, rgba(234,88,12,0.04) 0%, var(--cinza-900) 60%);
+    box-shadow: 0 0 0 1px rgba(234,88,12,0.08);
+  }
+  .rec-badge {
+    display: inline-block;
+    background: var(--laranja);
+    color: var(--branco);
+    font-size: 0.7rem;
+    font-weight: 800;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    padding: 4px 10px;
+    border-radius: 100px;
+    margin-left: 8px;
+    vertical-align: middle;
+  }
+  .rec-cta {
+    margin-top: 14px;
+    padding-top: 14px;
+    border-top: 1px dashed var(--cinza-800);
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  .rec-cta .gen-btn {
+    background: var(--amarelo);
+    color: var(--preto);
+    font-weight: 800;
+    font-size: 0.85rem;
+    padding: 9px 18px;
+    border: none;
+    border-radius: 100px;
+    cursor: pointer;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    font-family: inherit;
+  }
+  .rec-cta .gen-btn:hover { background: #fde047; }
+  .rec-cta .theme {
+    font-size: 0.85rem;
+    color: var(--cinza-400);
+    font-style: italic;
+  }
+
+  /* MODAL */
+  .modal-overlay {
+    position: fixed; inset: 0; background: rgba(0,0,0,0.85);
+    backdrop-filter: blur(8px);
+    display: none; align-items: flex-start; justify-content: center;
+    padding: 40px 16px; z-index: 100; overflow-y: auto;
+  }
+  .modal-overlay.open { display: flex; }
+  .modal {
+    background: var(--cinza-900);
+    border: 1px solid var(--cinza-800);
+    border-radius: 18px;
+    max-width: 880px;
+    width: 100%;
+    padding: 28px 24px 32px;
+    position: relative;
+    margin: auto 0;
+  }
+  .modal-close {
+    position: absolute; top: 14px; right: 18px;
+    background: transparent; border: none; color: var(--cinza-400);
+    font-size: 2rem; cursor: pointer; line-height: 1; padding: 4px 10px;
+  }
+  .modal-close:hover { color: var(--branco); }
+  .modal h3 {
+    font-size: 1.2rem; font-weight: 800; margin-bottom: 6px; padding-right: 40px;
+  }
+  .modal .source-link {
+    font-size: 0.85rem; color: var(--amarelo); text-decoration: none;
+    margin-bottom: 16px; display: inline-block;
+  }
+  .modal .theme-line {
+    background: rgba(22,163,74,0.1);
+    border-left: 3px solid var(--verde-claro);
+    padding: 12px 14px;
+    border-radius: 0 8px 8px 0;
+    color: var(--cinza-300);
+    font-size: 0.92rem;
+    margin: 14px 0 22px;
+  }
+  .preview-cover {
+    width: 100%;
+    max-width: 540px;
+    margin: 0 auto;
+    display: block;
+    border-radius: 14px;
+    border: 1px solid var(--cinza-800);
+    aspect-ratio: 4/5;
+    object-fit: cover;
+    box-shadow: 0 30px 80px rgba(0,0,0,0.5);
+  }
+  .modal-actions {
+    display: flex; gap: 12px; justify-content: center; margin-top: 22px;
+    flex-wrap: wrap;
+  }
+  .btn-primary, .btn-secondary {
+    font-family: inherit; font-weight: 800; font-size: 0.92rem;
+    padding: 12px 24px; border-radius: 100px; border: none; cursor: pointer;
+    letter-spacing: 0.04em; text-transform: uppercase;
+  }
+  .btn-primary { background: var(--verde-claro); color: var(--branco); }
+  .btn-primary:hover { background: #16a34a; }
+  .btn-secondary { background: var(--cinza-800); color: var(--cinza-300); }
+  .btn-secondary:hover { background: var(--cinza-700); color: var(--branco); }
+  .btn-link {
+    background: transparent; color: var(--amarelo); border: 1px solid var(--amarelo);
+  }
+  .btn-link:hover { background: var(--amarelo); color: var(--preto); }
+
+  .gallery {
+    display: grid; gap: 14px; margin-top: 22px;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  }
+  .gallery img {
+    width: 100%; aspect-ratio: 4/5; object-fit: cover;
+    border-radius: 10px; border: 1px solid var(--cinza-800);
+    transition: transform 0.15s, border-color 0.15s;
+  }
+  .gallery img:hover { transform: scale(1.02); border-color: var(--verde-claro); }
+
+  .caption-block {
+    margin-top: 22px; padding: 16px 18px; background: var(--preto-2);
+    border: 1px solid var(--cinza-800); border-radius: 10px;
+  }
+  .caption-block .label {
+    font-size: 0.75rem; font-weight: 800; letter-spacing: 0.14em;
+    text-transform: uppercase; color: var(--verde-claro); margin-bottom: 8px;
+  }
+  .caption-block pre {
+    font-family: inherit; font-size: 0.88rem; line-height: 1.55;
+    color: var(--cinza-300); white-space: pre-wrap; word-wrap: break-word;
+  }
+  .caption-block .copy-cap {
+    margin-top: 10px; background: var(--amarelo); color: var(--preto);
+    border: none; padding: 6px 14px; border-radius: 100px; font-weight: 800;
+    font-size: 0.78rem; cursor: pointer; letter-spacing: 0.04em; text-transform: uppercase;
+    font-family: inherit;
+  }
+
   /* OUTPUTS (WhatsApp, Instagram) */
   .outputs {
     display: grid;
@@ -355,6 +502,8 @@
     </footer>
   </div>
 
+  <div class="modal-overlay" id="modal" aria-hidden="true"></div>
+
   <script>
     const STATE = { executions: [], current: null };
 
@@ -426,9 +575,14 @@
     }
 
     function renderExecution(data) {
-      const newsHtml = (data.items || []).map((it, i) => `
-        <div class="news-item">
-          <div class="num">#${String(i+1).padStart(2,'0')}</div>
+      let recCounter = 0;
+      const newsHtml = (data.items || []).map((it, i) => {
+        const isRec = it.recommended && it.carousel;
+        let carouselNum = null;
+        if (isRec) { recCounter += 1; carouselNum = recCounter; }
+        return `
+        <div class="news-item ${isRec ? 'recommended' : ''}">
+          <div class="num">#${String(i+1).padStart(2,'0')}${isRec ? '<span class="rec-badge">🔥 Recomendado pra viralizar</span>' : ''}</div>
           <h3>${escapeHtml(it.title)}</h3>
           <p class="summary">${escapeHtml(it.summary)}</p>
           <div class="meta">
@@ -436,8 +590,15 @@
             ${it.category ? `<span class="category">${escapeHtml(it.category)}</span>` : ''}
             ${it.link ? `<a href="${escapeHtml(it.link)}" target="_blank" rel="noopener" class="link">Ler na fonte ↗</a>` : ''}
           </div>
+          ${isRec ? `
+            <div class="rec-cta">
+              <button class="gen-btn" data-action="open-carousel" data-carousel="${carouselNum}" data-index="${i}">📸 Gerar carrossel</button>
+              <span class="theme">Tema: ${escapeHtml(it.carousel.theme || '—')}</span>
+            </div>
+          ` : ''}
         </div>
-      `).join('');
+        `;
+      }).join('');
 
       document.getElementById('content').innerHTML = `
         <div class="day-meta">
@@ -479,7 +640,109 @@
           });
         });
       });
+
+      // Carousel buttons
+      document.querySelectorAll('[data-action="open-carousel"]').forEach(btn => {
+        btn.addEventListener('click', () => {
+          const carouselNum = parseInt(btn.dataset.carousel, 10);
+          const itemIdx = parseInt(btn.dataset.index, 10);
+          openCarouselModal(data.date, data.items[itemIdx], carouselNum);
+        });
+      });
     }
+
+    function openCarouselModal(date, item, carouselNum) {
+      const carousel = item.carousel || {};
+      const slides = carousel.slides || [];
+      const slidesHtml = slides.map(s => `
+        <div style="margin-bottom: 12px; padding: 10px 12px; background: rgba(255,255,255,0.03); border-radius: 8px; font-size: 0.85rem; color: #d4d4d8;">
+          <strong style="color: #22c55e;">Slide ${s.n} (${escapeHtml(s.kind || '')}):</strong>
+          ${s.eyebrow ? `<div style="font-size: 0.75rem; color: #facc15; letter-spacing: 0.1em; text-transform: uppercase; margin-top: 4px;">${escapeHtml(s.eyebrow)}</div>` : ''}
+          <div style="font-weight: 700; color: #fafafa; margin: 4px 0;">${escapeHtml(s.title || '')}</div>
+          ${s.body ? `<div style="font-size: 0.8rem; color: #a1a1aa;">${escapeHtml(s.body)}</div>` : ''}
+          ${s.stat ? `<div style="margin-top: 4px; font-size: 0.78rem; color: #facc15;"><strong>📊 ${escapeHtml(s.stat)}${s.stat_label ? ' — ' + escapeHtml(s.stat_label) : ''}</strong></div>` : ''}
+        </div>
+      `).join('');
+
+      const coverUrl = `data/carrosseis/${date}/c${carouselNum}-s01.png`;
+
+      const modal = document.getElementById('modal');
+      modal.innerHTML = `
+        <div class="modal">
+          <button class="modal-close" data-close>&times;</button>
+          <h3>📸 Carrossel ${carouselNum}: ${escapeHtml(item.title)}</h3>
+          ${item.link ? `<a href="${escapeHtml(item.link)}" target="_blank" rel="noopener" class="source-link">↗ Ler na fonte: ${escapeHtml(item.source || '')}</a>` : ''}
+          <div class="theme-line"><strong>Tema:</strong> ${escapeHtml(carousel.theme || '—')}</div>
+
+          <div id="modal-cover-stage">
+            <img src="${coverUrl}" alt="Capa do carrossel" class="preview-cover" onerror="this.parentElement.innerHTML='<div style=&quot;text-align:center;padding:40px;color:#a1a1aa;&quot;>Imagens ainda em geração — confere de novo em alguns minutos.</div>'" />
+            <div class="modal-actions">
+              <button class="btn-primary" data-action="approve" data-carousel="${carouselNum}">✓ Gerar carrossel completo</button>
+              <button class="btn-secondary" data-close>Cancelar</button>
+            </div>
+            <div style="margin-top: 28px;">
+              <h4 style="font-size: 0.85rem; font-weight: 800; letter-spacing: 0.14em; text-transform: uppercase; color: #22c55e; margin-bottom: 12px;">Roteiro proposto</h4>
+              ${slidesHtml}
+            </div>
+          </div>
+
+          <div id="modal-full-stage" style="display:none;">
+            <div class="gallery"></div>
+            <div class="caption-block">
+              <div class="label">📝 Caption do post</div>
+              <pre id="modal-caption"></pre>
+              <button class="copy-cap" data-copy-caption>Copiar caption</button>
+            </div>
+            <div class="modal-actions">
+              <a class="btn-link" id="zip-link" href="#" download>⬇ Baixar todos slides</a>
+              <button class="btn-secondary" data-close>Fechar</button>
+            </div>
+          </div>
+        </div>
+      `;
+      modal.classList.add('open');
+
+      modal.querySelectorAll('[data-close]').forEach(b => b.addEventListener('click', closeModal));
+      modal.addEventListener('click', e => { if (e.target === modal) closeModal(); });
+      const approveBtn = modal.querySelector('[data-action="approve"]');
+      if (approveBtn) approveBtn.addEventListener('click', () => revealFull(date, item, carouselNum));
+    }
+
+    function revealFull(date, item, carouselNum) {
+      const carousel = item.carousel || {};
+      const total = (carousel.slides || []).length;
+      const galleryHtml = Array.from({ length: total }, (_, i) => {
+        const n = String(i + 1).padStart(2, '0');
+        const url = `data/carrosseis/${date}/c${carouselNum}-s${n}.png`;
+        return `<a href="${url}" target="_blank"><img src="${url}" alt="Slide ${i+1}" onerror="this.style.opacity=0.3" /></a>`;
+      }).join('');
+
+      const stage = document.getElementById('modal-full-stage');
+      const cover = document.getElementById('modal-cover-stage');
+      stage.querySelector('.gallery').innerHTML = galleryHtml;
+      document.getElementById('modal-caption').textContent = carousel.caption || '';
+
+      cover.style.display = 'none';
+      stage.style.display = 'block';
+
+      const copyBtn = stage.querySelector('[data-copy-caption]');
+      copyBtn.addEventListener('click', () => {
+        navigator.clipboard.writeText(carousel.caption || '').then(() => {
+          copyBtn.textContent = 'Copiado ✓';
+          setTimeout(() => { copyBtn.textContent = 'Copiar caption'; }, 1500);
+        });
+      });
+    }
+
+    function closeModal() {
+      const modal = document.getElementById('modal');
+      modal.classList.remove('open');
+      modal.innerHTML = '';
+    }
+
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') closeModal();
+    });
 
     loadIndex();
   </script>
