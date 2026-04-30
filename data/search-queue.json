@@ -1,3 +1,13 @@
 {
-  "pending": []
+  "pending": [
+    {
+      "type": "search",
+      "id": "74046853-702a-470e-85a3-1dc7568731d1",
+      "topic": "energia solar",
+      "slug": "energia-solar",
+      "key": "2026-04-30-energia-solar",
+      "date": "2026-04-30",
+      "requested_at": "2026-04-30T19:20:50.926Z"
+    }
+  ]
 }
