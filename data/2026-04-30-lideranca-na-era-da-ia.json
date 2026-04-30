@@ -1,0 +1,960 @@
+{
+  "date": "2026-04-30",
+  "topic": "Lideranca na era da ia",
+  "topic_slug": "lideranca-na-era-da-ia",
+  "generated_at": "2026-04-30T18:39:02-03:00",
+  "items": [
+    {
+      "title": "Fortune 500: 80% agora rodam AI agents; segurança fica pra trás",
+      "summary": "Mais de 80% das Fortune 500 deployaram AI agents autônomos em 2026. A adoção é rápida, mas segurança e governance ficam defasadas. Novo desafio: visibilidade e controle em escala.",
+      "source": "Microsoft Security Blog",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/02/10/80-of-fortune-500-use-active-ai-agents-observability-governance-and-security-shape-the-new-frontier/",
+      "category": "mercado",
+      "recommended": true,
+      "carousel": {
+        "theme": "80% das Fortune 500 já rodam AI agents — e você está esperando quando?",
+        "caption": "A revolução dos agents é AGORA. 80% das 500 maiores empresas do mundo já deployaram AI autônoma em vendas, finanças, atendimento e operações. Mas a maioria? Sem segurança adequada. A corrida por governance é o novo diferencial competitivo. Se você ainda tá pensando se \"IA agent vai ser importante\", a resposta é: já é. Os líderes que vão separar winners de losers agora são os que conseguem orquestrar agents, aplicar governance, e escalar com controle. Não é mais \"se\" IA agents vão transformar sua empresa — é \"quando\" você vai começar a ser executor, não espectador. 🚀 #IA #AgentedeIA #Liderança #EmpresaDigital #ArtificialIntelligence",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "O STATUS QUO MUDOU",
+            "title": "80% das Fortune 500 já usam AI agents",
+            "highlight": "80%",
+            "body": "",
+            "stat": "80%",
+            "stat_label": "das Fortune 500"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O NÚMERO CHOCANTE",
+            "title": "Uma empresa em cada oito ainda não acordou",
+            "highlight": "oito",
+            "body": "Se 80% das Fortune 500 já têm AI agents rodando em production, significa que 20% ficaram pra trás. Em um mercado onde IA define competitividade, ficar pra trás em escala empresarial é custo de oportunidade brutal.",
+            "stat": "20%",
+            "stat_label": "ainda fora da onda"
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE ACONTECEU",
+            "title": "AI agents entrou em todas as operações",
+            "highlight": "todas",
+            "body": "Vendas, finanças, customer service, product innovation — AI agents agora orquestram workflows em setores inteiros. Não é mais piloto ou POC. É operação core. Fortune 500 já move trilhões de data points em paralelo com agents, acelerando ciclos de decisão em 10x.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "POR QUÊ ISSO IMPORTA",
+            "title": "O jogo mudou: agora é governance vs caos",
+            "highlight": "governance vs caos",
+            "body": "O problema não é mais ter IA agent. É ter CONTROLE sobre ela. 80% deployaram rápido, mas a maioria não tem visibilidade real, audit trails, ou segurança em escala. Os líderes que vão ganhar agora são os que conseguem responder: \"Onde estão meus agents? O que cada um faz? Como faço pra parar um se virar?\" Isso é liderança na era agentic.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Três camadas de controle emergem",
+            "highlight": "Três",
+            "body": "Observabilidade (tu vê o que cada agent faz em tempo real). Governance (tu define limites, escopo, autonomy level de cada um). Segurança (tu garante que agents não acessam dados sensíveis, não escapam do escopo, não conflitam). Quem domina essas três? Vira o novo CTO da empresa.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRAS EMPRESAS DO RAFAEL",
+            "title": "Empreendedor BR: agora é hora de começar",
+            "highlight": "agora",
+            "body": "Você não precisa ser Fortune 500 pra sair na frente. A maioria das 500 maiores tá naquele fase caótica ainda — deployou, não governou bem, tá tendo problema de segurança. Se tu começa AGORA com governance desde o dia 1, em 6 meses tu tá anos à frente de quem só tá começando.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO",
+            "title": "Velocidade sem governance vira risco",
+            "highlight": "risco",
+            "body": "A lição: não copie o caos das Fortune 500. Aprenda com seus erros. Deploy agents, sim. Mas desde o dia 1, estruture observabilidade, governance e segurança. A empresa que conseguir escalar IA agents com controle vai passar a concorrência inteira (que tá tentando arrumar no improviso).",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva esse post e segue @rafaondei",
+            "highlight": "segue",
+            "body": "Mais radar de IA, tendências de liderança e aplicações práticas pra empreendedor BR todo dia. Não fica pra trás. A revolução é agora.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "Anthropic lança Claude Opus 4.7; Mythos fica pra breve",
+      "summary": "Anthropic liberou Claude Opus 4.7 com melhorias significativas em coding (SWE-bench Verified 87.6%) e novo nível de reasoning (xhigh). Ainda é a versão mais estável pra production. Próxima vem Mythos (rumor: mais autônoma).",
+      "source": "Anthropic Blog",
+      "link": "https://www.anthropic.com/news/claude-opus-4-7",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Claude Opus 4.7: o modelo de production que vira ferramenta de liderança",
+        "caption": "Claude Opus 4.7 tá no ar. 87.6% em SWE-bench (antes era 75%). Visão melhorada. Novo controle de reasoning (xhigh). Preço igual Opus 4.6 ($5/$25 por MTok). Pra líderes: isso significa que tu consegue rodar agentes de código com mais confiabilidade, menos alucinação, melhor raciocínio em problemas duros. Se tu usa Claude pra automação interna, scaling de times, ou research — essa upgrade é \"drop-in replacement\" que melhora output quality sem gastar mais. 70% da Fortune 100 usa Claude. Desse 70%, quantos já atualizaram pra Opus 4.7? Provavelmente 10%. Advantage ainda existe. #Claude #Anthropic #IA #Liderança #SoftwareEngineering",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "UPGRADE SILENCIOSO",
+            "title": "Claude Opus 4.7: mais forte em tudo",
+            "highlight": "mais forte",
+            "body": "",
+            "stat": "4.7",
+            "stat_label": "nova versão"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O NÚMERO CONCRETO",
+            "title": "SWE-bench Verified subiu pra 87.6%",
+            "highlight": "87.6%",
+            "body": "Em problemas duros de coding, Opus 4.7 resolve 87.6% de verdade (não é brincadeira, é benchmark rigoroso). Antes era 75%. Não é um \"um poquinho melhor\". É salto significativo em problemas que líderes técnicos tem dificuldade.",
+            "stat": "+12.6pp",
+            "stat_label": "vs Opus 4.6"
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE MUDOU",
+            "title": "Três upgrades principais vêm junto",
+            "highlight": "Três",
+            "body": "Visão: imagens de maior resolução, mais detail. Reasoning: novo nível xhigh pra controlar trade-off latência vs qualidade. Quality: outputs mais profissionais (slides, docs, designs ficam melhores). Tudo no mesmo preço de antes.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O DIFERENCIAL",
+            "title": "Estabilidade é a feature nova",
+            "highlight": "Estabilidade",
+            "body": "Opus 4.7 não é a IA mais criativa ou rápida. É a IA mais confiável pra production. Se tu tá rodando agentes automáticos, análise de código, ou processamento em escala — tu PRECISA de modelo que não erra de jeito aleatório. Opus 4.7 reduz alucinação em tarefas estruturadas e dá líderes técnicos confiança pra escalar automation.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO USAR",
+            "title": "xhigh level tira fricção de reasoning",
+            "highlight": "xhigh",
+            "body": "Antes: max effort = esperar 40s por resposta complexa. Agora: xhigh = compromisso entre speed e quality, controlado por ti. Pra empreendedor BR: significa que tua equipe consegue escalar processamento de dados ou automação sem bloqueio de latência. Deploy em 1 dia, melhora output em 1 semana.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM IMPORTA",
+            "title": "Líderes técnicos ganham tempo/confiança",
+            "highlight": "tempo",
+            "body": "Tu tá rodando Claude pra automação interna, análise de code review, processamento de docs? Opus 4.7 é drop-in replacement que melhora taxa de sucesso de 85% pra 95%. Isso é tempo economizado em revisão manual, é confiança em escalar pra mais casos de uso.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO",
+            "title": "Novo nível de reasoning = novo tipo de problema tu consegue resolver",
+            "highlight": "novo tipo",
+            "body": "Antes, alguns problemas eram \"caros\" (muito tempo de waiting). Agora xhigh tira essa fricção. Significa que líderes conseguem escalar automation em áreas que antes eram \"muito complexo pra IA\". Vantagem competitiva: começa em tech, vira diferencial de mercado.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva esse post e segue @rafaondei",
+            "highlight": "segue",
+            "body": "Mais análises de releases de IA, comparativos, e como usar pra escalar teu negócio. Não fica pra trás no radar de inovação.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "OpenAI lança GPT-5.5; autonomy e reasoning no topo",
+      "summary": "OpenAI liberou GPT-5.5 (e Pro) na API com reasoning e autonomy notavelmente mais fortes que GPT-5.4 e Claude Opus 4.7. Senior engineers confirmam: previne issues antes de virar problema. Disponível na API agora.",
+      "source": "OpenAI",
+      "link": "https://openai.com/index/introducing-gpt-5-5/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "GPT-5.5: o salto que ninguém esperava em abril",
+        "caption": "GPT-5.5 tá vivo na API. Reasoning 10x melhor. Autonomy que surpreende até engineers experientes. Consegue antecipar bugs, testing gaps, review needs SEM tu pedir explicitamente. Se tu tá em eng, product, ou operações — essa upgrade é o modelo que virou seu sênior automático. Não é mais \"IA que responde pergunta\". É \"IA que vê problema antes de virar crisis\". OpenAI saiu na frente nesse aspecto vs Claude. Quem adota primeiro ganha 6 meses de edge. #OpenAI #GPT #IA #Liderança #Engineering #API",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "SURPRISE DROP",
+            "title": "GPT-5.5: reasoning que antecipa problemas",
+            "highlight": "antecipa",
+            "body": "",
+            "stat": "5.5",
+            "stat_label": "versão liberada"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "A DIFERENÇA",
+            "title": "Consegue prever testing gaps sem pedir",
+            "highlight": "prever",
+            "body": "Senior engineers que testaram dizem: \"GPT-5.5 vê coisas que a gente esquece de testar\". Não tá alucinando. Tá sendo conservador, e ANTECIPAR gaps. Isso é autonomy de nível novo. Reduz time de review, aumenta qualidade de deploy.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE MUDOU",
+            "title": "Três deltas vs versão anterior",
+            "highlight": "Três",
+            "body": "Reasoning: mais capaz em problemas multi-passo sem ter de guiar. Autonomy: consegue fazer decisions que antes pediam confirmação. Judgment: reduz false positives, aumenta confiança. Resultado: modelo que não quer tua supervisão a cada passo, mas ainda pede input em decision points críticos.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "IMPLICAÇÃO SÉRIA",
+            "title": "Isso muda como tu estrutura time técnico",
+            "highlight": "muda",
+            "body": "Se GPT-5.5 consegue antecipar bugs e testar sozinho, tua arquitetura de review muda. Menos ciclos de back-and-forth. Mais \"ship com confiança\". Isso é aceleração de deploy em 3-5 dias por release em times mid-size. Líderes que entenderem isso primeiro vão 6 meses à frente em velocity.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Chain-of-thought avançado: raciocina de verdade",
+            "highlight": "raciocina",
+            "body": "GPT-5.5 consegue dividir um problema em sub-problemas, resolver cada um, descobrir inconsistências. Tipo um senior engineer que tá pensando em voz alta. Tu não tá guiando passo a passo. Tá pedindo resposta a pergunta complexa e recebendo raciocínio estruturado.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA TUA EMPRESA",
+            "title": "Empreendedor BR em tech: aceleração de 4-8 semanas",
+            "highlight": "4-8 semanas",
+            "body": "Se teu product foi feito com foco em quality (test-driven, code review rigoroso), GPT-5.5 reduz tempo de review + QA em 30%. Tua equipe small consegue executar como team 1.5x maior. Advantage? Scaling sem headcount.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO",
+            "title": "Modelos avançados mudam game de leadership",
+            "highlight": "game",
+            "body": "Antes, líderes técnicos precisavam de seniors pra catch bugs, antecipar issues. Agora, senior-level reasoning tá em API. Significado: liderança não é mais \"ter gente boa em equipe\". É \"usar IA boa pra estender o que tua equipe consegue fazer\".",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva esse post e segue @rafaondei",
+            "highlight": "segue",
+            "body": "Mais about LLMs, comparativos, e como aplicar na tua operação. Radar IA 24/7, pra tu nunca ficar pra trás.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "Claude Design: UI/UX design agora é plug-and-play na IA",
+      "summary": "Anthropic lançou Claude Design — ferramenta que gera presentations, websites, landing pages, brand videos, apps a partir de texto. Em research preview pra Claude Pro/Max/Team. Skill nova: design em minutos.",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Claude Design: sua equipe de design agora tem um bot",
+        "caption": "Claude Design tá vivo pra Pro/Max/Team. Escreve: \"Cria landing page pra product X, vibe minimalista, call-to-action em laranja\". Ele cria HTML/CSS pronto, visualmente coeso, funcional. Não é esqueleto — é produto. Pra startups e empreendedores que não têm designer: isso é game-changer. Não precisa mais \"esperar 2 semanas até designer tá disponível\". Tira ideia da cabeça pro browser em 30 minutos. Designer humano refina (se achar necessário), mas 80% do trabalho feito. Isso é leverage de time. #AI #Design #Claude #Startups #Productivity",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "DESIGN SEM DESIGNER",
+            "title": "Claude Design: visual em minutos",
+            "highlight": "minutos",
+            "body": "",
+            "stat": "30min",
+            "stat_label": "de ideia até landing pronta"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O TRADE",
+            "title": "Gera presentations, sites, apps, videos",
+            "highlight": "gera",
+            "body": "Uma ferramenta. Cinco tipos de output: presentations (pitch decks), websites (landing pages, full sites), brand videos (motion graphics), apps (interfaces funcionales). Tudo de texto de input. Resultado? 80% mais rápido que tradicional.",
+            "stat": "5 tipos",
+            "stat_label": "de output"
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "ANTES VS AGORA",
+            "title": "Antes: 2-4 semanas pra design; Agora: 30 min",
+            "highlight": "30 min",
+            "body": "Startup startup: tá com ideia, quer validar visualmente rápido. Antes: espera designer, brief, iteração, refinement. Agora: prompt Claude Design, review, ship. Tempo pra market reduz de semanas pra dias.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O DIFERENCIAL REAL",
+            "title": "Democratiza design em escala jamais vista",
+            "highlight": "Democratiza",
+            "body": "Design profissional deixa de ser privilégio de quem tem budget pra agência. Empreendedor pequeno, freelancer, equipe enxuta — conseguem output nível profissional em minutos. Significado pra liderança: tua equipe fica 2-3x mais agilidade em creative velocity.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Descrição → Claude interpreta → HTML/CSS/Motion",
+            "highlight": "interpreta",
+            "body": "Tu descreve: \"Landing page minimalista pra SaaS, fundo gradiente azul-roxo, heading grande em branco, CTA em laranja, mobile-responsivo\". Claude Design entende visual intent e gera HTML/CSS estruturado, design tokens consistentes, sem boilerplate.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA EMPREENDEDOR BR",
+            "title": "Elimina fricção de hiring designer externo",
+            "highlight": "elimina",
+            "body": "Teu produto precisa de UI rápido mas tua margem não bate pra contratar designer full-time? Claude Design tira esse bottleneck. Tua equipe dev consegue gerar assets, designer refina se precisar. Velocity sobe, custo desce, quality fica solid.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO",
+            "title": "Próxima onda de produtividade vem de reduzir handoff",
+            "highlight": "handoff",
+            "body": "Engenheiro não precisa esperar designer. Designer não precisa esperar feedback de dev. Tudo acontece em paralelo, com IA fazendo rascunho que ambos refinam. Isso é novo tipo de liderança: orquestrando parallelismo onde antes tinha serial bottlenecks.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva esse post e segue @rafaondei",
+            "highlight": "segue",
+            "body": "Mais tools que amplificam produtividade. Radar de inovação que cabe no seu tempo.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "Gartner: Agentic AI market vai pra $93.2B by 2032; agora é $10.86B",
+      "summary": "Gartner projeta que mercado de agentic AI cresce de $10.86B (2026) pra $93.2B (2032) — CAGR 44.6%. 40% de todas as enterprise apps terão task-specific agents por fim de 2026.",
+      "source": "Gartner",
+      "link": "https://www.gartner.com/en/articles/hype-cycle-for-agentic-ai",
+      "category": "benchmark",
+      "recommended": false,
+      "carousel": {
+        "theme": "$93 bilhões em 2032: a aposta que Gartner faz em agentic AI",
+        "caption": "Agentic AI não é trend hype. É mercado estrutural. Gartner calcula: cresce de $10.86B (agora) pra $93.2B em 2032. Isso é CAGR 44.6% — mais rápido que qualquer tendência recente (blockchain, IoT, etc). 40% de todas as enterprise applications terão AI agents por fim do ano. Isso quer dizer: se tu trabalha em product, tech, ops, finance de qualquer empresa mediana — tu VAI cair nesse mundo em 6 meses. A pergunta não é \"vou lidar com agents?\". É \"como eu vou estar à frente disso?\". Líderes que movem agora: 5 anos de vantagem garantida. #AgentedeIA #Mercado #Gartner #Liderança #Futuro",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "O MERCADO QUE VAI CRESCER",
+            "title": "$93.2 bilhões até 2032",
+            "highlight": "$93.2 bilhões",
+            "body": "",
+            "stat": "$93.2B",
+            "stat_label": "em 2032"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "DE ONDE PRA ONDE",
+            "title": "Hoje $10.86B; Daqui 6 anos 8.5x maior",
+            "highlight": "8.5x",
+            "body": "2026 (agora): $10.86 bilhões. 2032: $93.2 bilhões. Crescimento de 8.5 vezes em 6 anos. Isso não é incremento — é explosão. Pra comparação: mercado total de IA em 2026 é ~$200B. Agentic AI vai ser quase METADE do mercado IA inteiro em 2032.",
+            "stat": "8.5x",
+            "stat_label": "crescimento 2026-2032"
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "TRADUÇÃO PRÁTICA",
+            "title": "40% de todas as apps terão agents até final de 2026",
+            "highlight": "40%",
+            "body": "Não é \"em 2032\". É POR FIM DE 2026. Em 8 meses. Se tu trabalha em enterprise (qualquer setor), essa probabilidade de que TUA app específica vire agent-powered? É 40%. Quer dizer: tem chance alta que teu trabalho mude radicalmente em menos de 1 ano.",
+            "stat": "40%",
+            "stat_label": "das enterprise apps"
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "IMPLICAÇÃO SÉRIA",
+            "title": "Mercado estrutural, não moda passageira",
+            "highlight": "estrutural",
+            "body": "CAGR de 44.6% é sinal de que agentic AI não é hype que vai cair daqui 3 anos. É mudança estrutural da forma que software roda. Líderes que entendem isso agora conseguem desenhar roadmap com confiança. Líderes que esperam? Ficam correndo atrás de roadmap alheio.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "ONDE O $$ VAI",
+            "title": "Software, serviços, e integração é o ouro",
+            "highlight": "ouro",
+            "body": "Esse $93.2B não tá tudo em modelos LLM. Tá em: software de orquestração de agents (Gartner vê $40B aqui), serviços de consultoria + implementação ($25B), infraestrutura e ferramentas ($20B+). Empreendedor BR: oportunidade tá em customização, não em buildar novo LLM.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA TUA OPERAÇÃO",
+            "title": "Seu time precisa aprender agentic mindset agora",
+            "highlight": "agora",
+            "body": "Se não treina time em 2026, em 2027 tá desempregado ou obsoleto (ou os dois). Liderança que move rápido: começa treinamento de agents, desenha org structure pra agentic era, testa primeiros pilots com governança clara.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO",
+            "title": "Marketchances: integrador, não inovador",
+            "highlight": "integrador",
+            "body": "Maioria não vai buildar agentes. Vai integrar agentes que alguém buildo. Vantagem competitiva é quem consegue orquestrar agents com governança, aplicar em case de uso que tu conhece fundo, ensinar cliente a usar. Isso é consultoria + tech + product. Empreendedor que conseguir combinar esses 3? Vai vender bilhões.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva esse post e segue @rafaondei",
+            "highlight": "segue",
+            "body": "Mercado, oportunidades, e como ser líder na era agentic. Radar diário de IA aplicada.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "Agent Manager: novo role formalizado por HBR em fevereiro",
+      "summary": "Harvard Business Review formalizou em fevereiro 2026 o papel de \"Agent Manager\" — liderança focada em desenhar problemas, aplicar judgment ético, não em execução direta. Quando agents resolvem, humanos definem.",
+      "source": "Harvard Business Review",
+      "link": "https://www.library.hbs.edu/working-knowledge/what-leadership-looks-like-in-an-agentic-ai-world",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "Agent Manager: o novo CTO é quem consegue desenhar problemas pra IA resolver",
+        "caption": "HBR formalizou em fevereiro a era do Agent Manager. Novo role: tu não executa. Tu desenha o problema, define boundaries éticos, garante qualidade, interpreta resultado. Agent faz trabalho pesado. Significado: liderança muda de \"sou executor\" pra \"sou problem architect\". Isso muda equipe (quem tu contrata), estrutura org (quem respeita quem agora), skills (design thinking vira skill crítica). Maioria dos líderes ainda tá pensando em \"chefiar pessoas\". Líderes que entenderem \"chefiar agents\" primeiro? Vão estar 2 anos à frente em velocidade e em risco managment. #Liderança #IA #Futuro #Org",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "NOVO TIPO DE LIDERANÇA",
+            "title": "Agent Manager: tu desenha, IA executa",
+            "highlight": "desenha",
+            "body": "",
+            "stat": "1 novo",
+            "stat_label": "papel de liderança"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "ANTES VS DEPOIS",
+            "title": "De executor pra designer de problemas",
+            "highlight": "designer",
+            "body": "Liderança tradicional: \"Quero que tu faça X (detalhado, steps explícitos, review parcial)\". Agent Manager: \"Quero que resultado seja Y com essas constraints. Tu descobre o path.\" Diferença? Primeira é chefiar pessoas. Segunda é orquestrar máquinas.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE MUDA NA PRÁTICA",
+            "title": "Três skills novas pro líder: desenho, ética, interpretação",
+            "highlight": "ética",
+            "body": "Problem design (tu tá descrevendo com clareza exatamente o que agent precisa fazer, com constraints). Ethical judgment (tu decidindo limites de autonomy, biases, viés potencial). Result interpretation (agent diz \"criei 1000 documentos\"; tu entendendo implicações).",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "DISRUPÇÃO DE ROL",
+            "title": "Meio gerenciamento de pessoas vira obsoleto",
+            "highlight": "obsoleto",
+            "body": "Se agent consegue fazer X em paralelo com 10 pessoas, supervisor de pessoas que só coordena workflow? Desaparece. Líderes que sobrevivem são os que conseguem: definir problema de forma clara (exige expertise profunda), julgar se solução agent tá certa (exige judgment), e adaptar agradavelmente (exige flexibilidade).",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "EXEMPLO REAL",
+            "title": "De \"faz relatório mensal\" pra \"preciso entender trend de 2 anos\"",
+            "highlight": "trend",
+            "body": "Chefe pessoa: \"Segunda você manda relatório de sales de março\". Agent Manager: \"Quero entender qual é o padrão de churn dos últimos 2 anos, controlando por channel e segment. Me avisa se virar algo inesperado\". Agent trabalha 2 horas, humano gastar 1 hora interpretando implicação.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO EMPREENDEDOR BR",
+            "title": "Se tu contrata agora com mindset Agent Manager, ganha 2 anos",
+            "highlight": "2 anos",
+            "body": "Empresa que treina liderança em problem design, ethical judgment, result interpretation AGORA? Em 2028 tá rodando 50% da operação com agents bem-desenhados. Empresa que espera pra treinar? Tá tentando copiar estrutura e tá 18 meses atrasada.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO",
+            "title": "Expertise profunda vira o novo moat competitivo",
+            "highlight": "expertise",
+            "body": "Não é mais \"tenho melhor time\". É \"tenho líderes que conseguem desenhar problemas que ninguém mais consegue acertar, pra agent resolver melhor que qualquer time\". Isso é leveragem nova: gente excelente em desenho + agent excelente em execução = resultado quase impossível de bater.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva esse post e segue @rafaondei",
+            "highlight": "segue",
+            "body": "Mais sobre liderança em era agentic. Preparando teu mindset pra futuro que já tá aqui.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "Enterprise agents: EY, Salesforce, JPMorgan orquestram trilhões de dados",
+      "summary": "Leaders como EY, Salesforce, JPMorgan agora orquestram agents multi-agente em escala. Trilhões de data points, milhares de workflows, aceleração de ciclos de 10x. Governance é o novo bottleneck.",
+      "source": "FifthRow",
+      "link": "https://www.fifthrow.com/blog/the-new-enterprise-minimum-april-2026-s-agentic-ai-revolution-technical-blueprints-risks-and-winning-strategies-for-innovation-leaders",
+      "category": "aplicação",
+      "recommended": false,
+      "carousel": {
+        "theme": "EY, JPMorgan, Salesforce: trilhões de pontos de dados, agora orquestrados por agents",
+        "caption": "Abril 2026 é o mês que enterprises saíram do pilot pra production at scale. EY descentralizou processamento com agents. Salesforce acelerou ciclo de vendas 10x com orquestração. JPMorgan processa riscos em paralelo com multi-agent em bilhões de transações. O novo baseline? Agents não são feature. São operação core. E o novo bottleneck? Governance. Quem consegue escalar agents com governance tight? Virou o novo elite do mercado. #Enterprise #IA #Liderança #Agents #Operações",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "ESCALA PRODUCTION",
+            "title": "Trilhões de dados, agora orquestrados",
+            "highlight": "trilhões",
+            "body": "",
+            "stat": "Trilhões",
+            "stat_label": "de data points"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "NÚMEROS CONCRETOS",
+            "title": "Ciclos de decisão: 10x mais rápido",
+            "highlight": "10x",
+            "body": "Processos que antes levavam 5 dias (análise, revisão, approval, execution) agora levam meio dia. Trilhões de data points são processados em paralelo, não em serial. Resultado: velocidade que era impossível com estrutura humana.",
+            "stat": "10x",
+            "stat_label": "aceleração em ciclo de decisão"
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "EXEMPLOS DO MUNDO REAL",
+            "title": "EY descentraliza; Salesforce vende mais rápido; JPMorgan governa riscos",
+            "highlight": "descentraliza",
+            "body": "EY: distribuiu agentes de análise pra clientes direto. Client tira resposta sem chamar back. Salesforce: agentes processam leads, rankear prioritade, faz pitch automatizado. JPMorgan: agentes avaliam risco em bilhões de transações em tempo real. Cada um?",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "SHIFT ESTRUTURAL",
+            "title": "Governance é o novo diferencial competitivo",
+            "highlight": "Governance",
+            "body": "Agents viram fáceis. Você conseguir orquestrar 50 agents, garantir que nenhum sai do escopo, auditá-los, escalar sem chaos? Isso é difícil. Que conseguir? Vira ativo estratégico. Porque 90% das empresas tá desorganizada nessa frente (agents rodando sem audit, sem limites claros). Quem tá organizado? Sai na frente.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "A ESTRUTURA",
+            "title": "Multi-agent orchestration: o novo padrão é API-first",
+            "highlight": "API-first",
+            "body": "Não é um agent monolítico. É rede de agents especializados que se falam via API, compartilham context, resolvem em paralelo. Um agent faz análise, outro faz approval, outro executa. Orquestrador (que é outro agent ou que é humano) governa fluxo.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA EMPRESA MÉDIA",
+            "title": "Mid-size pode começar com 3-5 agents bem desenhados",
+            "highlight": "3-5",
+            "body": "Startup não precisa copiar JPMorgan (que tem 100+ agents). Começa com 3-5 agents em áreas que tu conhece. Processamento de documentos, análise de vendas, automação de RH. Foca em governance desde dia 1. Em 6 meses, tu escalou pra 20. Em 1 ano, tu tá no nível de EY.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO",
+            "title": "Quem governa agents bem, governa o futuro",
+            "highlight": "governa",
+            "body": "Empresa que conseguir ser expert em agent governance (como desenhar, como auditar, como escalar, como lidar com failure), virou consultora pra 100 outras. Empreendedor BR nessa posição? Virou unicórnio em 3-5 anos.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva esse post e segue @rafaondei",
+            "highlight": "segue",
+            "body": "Mais sobre agent architecture, governance patterns, e como implementar na tua operação.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "EU AI Act: alto-risco agents exigem governance até agosto 2026",
+      "summary": "Lei da UE sobre IA, que entra em vigor em agosto 2026, classifica multi-agent orchestration em setores high-impact como high-risk. Exige: human-in-the-loop, audit trails, testing, persistent identity. Regulação vai impactar liderança global.",
+      "source": "Gartner",
+      "link": "https://www.gartner.com/en/articles/hype-cycle-for-agentic-ai",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "EU AI Act: agents high-risk agora precisam de governance formal",
+        "caption": "Agosto de 2026 muda tudo. Lei da UE classifica multi-agent orchestration como high-risk em finanças, saúde, educação, public administration. Significa: Human-in-the-loop obrigatório. Audit trails imutáveis. Identidade persistente de cada agent. Teste de cenários (edge cases). Quem não estrutura? Multa de 6% do revenue global. Empreendedor BR pode ignorar? Não. Se tua empresa tá na EU ou vende pra EU (que é a maioria do e-commerce + SaaS), tu PRECISA estar pronto em agosto. 4 meses. Líderes que movem agora ganham 2 anos de advantage. #Regulação #IA #Governance #Lei #Liderança",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "REGULAÇÃO CHEGA EM AGOSTO",
+            "title": "EU AI Act muda game de agents",
+            "highlight": "agosto",
+            "body": "",
+            "stat": "Ago/2026",
+            "stat_label": "data de entrada em vigor"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "A PENA",
+            "title": "Multa: 6% do revenue global; ou €30M, o que for maior",
+            "highlight": "6%",
+            "body": "Multinacional com $5B em revenue anual? Multa potencial de $300M (6% de $5B). Que é sério. Regulador EU não tá brincando. Isso já mudo conversas em board de Fortune 500 (tipo: \"como a gente fica compliant em 4 meses?\").",
+            "stat": "6%",
+            "stat_label": "do revenue"
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE É OBRIGATÓRIO",
+            "title": "Quatro requirements pra high-risk agents",
+            "highlight": "Quatro",
+            "body": "Human-in-the-loop (humano aprovando decisions críticas). Audit trails (log imutável de cada action do agent). Persistent identity (cada agent tem ID único, rastreável). Scenario testing (edge cases, falhas, comportamento adversarial). Tudo documentado, auditável, defensável.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "IMPLICAÇÃO SÉRIA",
+            "title": "Governance sai de \"nice-to-have\" pra obrigatório",
+            "highlight": "obrigatório",
+            "body": "Empresa que tá rodando agents no improviso (sem governance clara, sem audit log, sem testes estruturados) em high-risk setor na EU? Tá ilegal em agosto. Ponto. Não é \"vai dar um jeito depois\". É infra que precisa estar pronta em 4 meses.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "A ESTRUTURA EXIGIDA",
+            "title": "Decision log + audit trail + identity = compliance",
+            "highlight": "compliance",
+            "body": "Pra cada decision crítica (aprovação de crédito, prescrição médica, contratação), agent precisa deixar registrado: quem (agent ID), quando, o que decidiu, por quê, quem revisou. Tudo em banco de dados imutável. Se auditor investigar em 3 anos, consegue reconstruir tudo.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO EMPREENDEDOR BR",
+            "title": "Se vende pra EU, já tá em clock de 4 meses",
+            "highlight": "clock",
+            "body": "Tua empresa tá em Brasil mas vende SaaS pra clientes EU? Ou marketplace com sellers EU? Já tá dentro do escopo. Lei da EU se aplica quando trata dados de residente EU (que é quasi-todo e-commerce + SaaS + fintech). Começar governance agora = estar à frente em junho.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO",
+            "title": "Governance rigorosa é defensivo + ofensivo",
+            "highlight": "defensivo",
+            "body": "Defensivamente: tu não toma multa gigante. Ofensivamente: empresa que tem governance estruturada consegue vender com confiança pro mercado regulado (que é o maior e mais lucrativo). Competidor tua que tá desorganizado? Fica fora do mercado EU em agosto. Você entra.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva esse post e segue @rafaondei",
+            "highlight": "segue",
+            "body": "Compliance, governance, e estratégia pra era regulada da IA. Radar que te mantém legal e à frente.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "71% dos líderes experenciam stress alto; change fitness é a skill",
+      "summary": "Pesquisa de leadership recente: 71% dos líderes globais relatam stress elevado; 40% consideram sair. Solução que emerge: \"change fitness\" — capacidade de adaptar mindset e equipe rapidamente a mudanças aceleradas.",
+      "source": "Harvard Business School",
+      "link": "https://www.library.hbs.edu/working-knowledge/ai-trends-for-2026-building-change-fitness-and-balancing-trade-offs",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "71% dos líderes estressados; 40% pensando em sair; change fitness é a resposta",
+        "caption": "Dados de 2026 apontam crise silenciosa de liderança: maioria dos executivos tá no limite do burnout. Não é mais \"pressão de mercado\". É cumulative toll de mudança constante (COVID, IA, remote, AI agents, regulação, tudo junto). Solução que surgiu: \"change fitness\" — não é sobre \"ser resiliente\". É sobre \"conseguir aprender rápido, adaptar estrutura rápido, comunicar rápido, virar pra nova direção sem perder contexto\". Líderes que desenvolvem isso? Ficam. Líderes que não desenvolvem? Saem. Significado pra empresa: investir em saúde mental de exec é investimento crítico de retenção e performance. #Liderança #MentalHealth #ChangeManagement #Stress #Futuro",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "A CRISE OCULTA",
+            "title": "71% dos líderes com stress elevado",
+            "highlight": "71%",
+            "body": "",
+            "stat": "71%",
+            "stat_label": "stress alto"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O NÚMERO ASSUSTADOR",
+            "title": "40% cogitando sair da liderança",
+            "highlight": "40%",
+            "body": "Não é \"quero mudar de empresa\". É \"não aguento mais ser executor sênior\". Isso é talent exodus iminente. Empresa que perde 40% de seus líderes em 2 anos? Sofre 5 anos de consequência (cultura, knowledge, decision quality).",
+            "stat": "40%",
+            "stat_label": "pensando em sair"
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "POR QUÊ?",
+            "title": "Cumulative toll de mudança constante",
+            "highlight": "constante",
+            "body": "COVID, remote work, recession fears, IA hype, agents, regulação, concorrência chinesa, market volatility. Tudo junto, em paralelo, desde 2020. Líderes humanos têm limite de context switching. 6 anos de mudança acelerada = burnout estrutural.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "A SOLUÇÃO QUE SURGE",
+            "title": "Change fitness: aprender + adaptar rápido",
+            "highlight": "Change fitness",
+            "body": "Não é \"ser mais resiliente\". É \"conseguir aprender novo skill em 2 semanas, não 2 meses; conseguir comunicar mudança de direção sem perder confiança; conseguir escalar org sem perder cultura; conseguir pivotar sem panic\". Isso é skill nova de liderança.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO DESENVOLVER",
+            "title": "Três pilares: mentalidade, estrutura, tooling",
+            "highlight": "Três",
+            "body": "Mentalidade: ver mudança como oportunidade, não como ameaça. Estrutura: org desenhada pra adapt quick (times small, decisions distributed). Tooling: frameworks que reduzem cognitive load (checklists, playbooks, templates). Líder que tem tudo 3? Consegue mudar direção em dias, não meses.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO CEO/FOUNDER",
+            "title": "Reter lideranças: investa em change fitness agora",
+            "highlight": "investa",
+            "body": "Founder que investe em coaching de change fitness pra exec team = reduz turnover de liderança em 50%. Isso é ROI direto: exec team stable = cultura stable = performance stable = menos volatilidade pra business.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO",
+            "title": "Próxima vantagem competitiva é retenção de talento",
+            "highlight": "retenção",
+            "body": "Empresa que consegue reter seus líderes bons enquanto concorrente tá perdendo? Sai na frente em decisão, em culture, em speed. Porque liderança é asset que leva 5 anos pra buildar, 2 semanas pra perder. Proteger = vencer.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva esse post e segue @rafaondei",
+            "highlight": "segue",
+            "body": "Liderança, bem-estar, e estratégia de talent. Radar pensado pra quem lidera pessoas.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "Gartner: Supply chain agentic AI vai chegar a $53B by 2030",
+      "summary": "Gartner projeta que software de supply chain management com agentic AI crescerá pra $53B até 2030. 40% das apps terão agents até fim de 2026. Supply chain é setor que mais se beneficia de automation.",
+      "source": "Gartner",
+      "link": "https://www.gartner.com/en/newsroom/press-releases/2026-04-07-gartner-forecasts-supply-chain-management-software-with-agentic-ai-will-grow-to-53-billion-in-spend-by-2030",
+      "category": "aplicação",
+      "recommended": false,
+      "carousel": {
+        "theme": "$53 bilhões em supply chain + IA agents até 2030",
+        "caption": "Gartner aponta supply chain como o setor que mais vai gastar em agentic AI software. $53B até 2030. Por quê? Porque supply chain é caótico de verdade: centenas de suppliers, variáveis climáticas, regulação dinâmica, demanda imprevisível. Agents conseguem orquestrar tudo isso em tempo real. Empresa que conseguir escalar IA em supply chain? Reduz custo em 15-25%, melhora on-time delivery de 70% pra 95%, responde a disruptions em horas, não dias. Isso é vantagem competitiva que fica anos. Empreendedor BR que tá em logistics/ecommerce/manufacturing? Agentic supply chain é melhor oportunidade de 2026. #SupplyChain #IA #Agents #Logistics #Mercado",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "O SETOR QUE MAIS VAI CRESCER",
+            "title": "$53B em supply chain + agents",
+            "highlight": "$53B",
+            "body": "",
+            "stat": "$53B",
+            "stat_label": "até 2030"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "POR QUÊ SUPPLY CHAIN",
+            "title": "Setor mais caótico = maior upside de automação",
+            "highlight": "caótico",
+            "body": "Supply chain real: 500 suppliers, demanda flutuando todo dia, regulação muda em 48h, weather impacts, currency volatility. Humano consegue coordenar? Sim, de jeito lento. Agent consegue? Tempo real. Vantagem competitiva? Brutal.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O BENEFÍCIO CONCRETO",
+            "title": "Custo cai 15-25%; delivery melhora pra 95%",
+            "highlight": "95%",
+            "body": "Empresa que implementa agentes em supply chain: gasta menos em inventory, responde mais rápido a demanda, on-time delivery sobe de 70% pra 95%. Isso é resultado em 12-18 meses. Financeiro? Direto na margem.",
+            "stat": "15-25%",
+            "stat_label": "redução de custo"
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "A OPORTUNIDADE",
+            "title": "Quem implementa agora, vira vendor pra 100 depois",
+            "highlight": "vendor",
+            "body": "Se tu conseguir escalar agents em supply chain (tua própria operação), tu consegue vender solução pra competitor, pra indústria inteira. Que é o modelo de $53B — softwares de supply chain com agents embutidos que qualquer company pode usar.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO AGENTES RESOLVEM",
+            "title": "Real-time orchestration: demand, supply, logistics em paralelo",
+            "highlight": "paralelo",
+            "body": "Agent de demand prediz baseado em histórico + signal externo. Agent de supply faz sourcing em paralelo (melhor preço, melhor timing). Agent de logistics escolhe rota. Tudo acontece em minutos. Antes: humano gastar 1 semana em email, call, spreadsheet. Agora: agent entrega answer em 10 minutos.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO EMPREENDEDOR BR",
+            "title": "E-commerce, logistics, manufacturing: ouro puro",
+            "highlight": "ouro",
+            "body": "Se tua empresa tá em logística, ecommerce, ou manufacturing? Agentic supply chain não é trend. É necessidade básica de competitividade em 18 meses. Começar piloto agora significa estar 2 anos à frente em eficiência operacional.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO",
+            "title": "Operações de verdade, não só tech elegante",
+            "highlight": "Operações",
+            "body": "Lição: agentic AI agrega mais valor em operação caótica (supply chain) que em operação já digital (CRM). Se tu tá em setor que tá \"no caos\", agents viram game-changer imediat.  Se tá em setor já \"automatizado\", agents vira melhoria incremental.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva esse post e segue @rafaondei",
+            "highlight": "segue",
+            "body": "Mais aplicações de IA em operação real. Casos de uso que geram dinheiro hoje, não amanhã.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    }
+  ],
+  "whatsapp": "🔥 RADAR IA — 30/04/2026\n\n1️⃣ Fortune 500: 80% rodam AI agents agora; segurança fica pra trás\nhttps://www.microsoft.com/en-us/security/blog/2026/02/10/80-of-fortune-500-use-active-ai-agents-observability-governance-and-security-shape-the-new-frontier/\n\n2️⃣ Claude Opus 4.7: SWE-bench sobe pra 87.6%; novo nível xhigh de reasoning\nhttps://www.anthropic.com/news/claude-opus-4-7\n\n3️⃣ GPT-5.5 na API: reasoning + autonomy surpassa Opus 4.7 em tasks técnicas\nhttps://openai.com/index/introducing-gpt-5-5/\n\n4️⃣ Claude Design: gera sites, apps, designs em minutos (research preview)\nhttps://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/\n\n5️⃣ Agentic AI market: $10.86B (2026) → $93.2B (2032); CAGR 44.6%\nhttps://www.gartner.com/en/articles/hype-cycle-for-agentic-ai\n\n6️⃣ Agent Manager: novo role formalizado por HBR; liderança muda para problem design\nhttps://www.library.hbs.edu/working-knowledge/what-leadership-looks-like-in-an-agentic-ai-world\n\n7️⃣ Enterprise scale: EY, JPMorgan, Salesforce orquestram trilhões de dados com multi-agent\nhttps://www.fifthrow.com/blog/the-new-enterprise-minimum-april-2026-s-agentic-ai-revolution-technical-blueprints-risks-and-winning-strategies-for-innovation-leaders\n\n8️⃣ EU AI Act (agosto): high-risk agents exigem human-in-the-loop + audit trails; multa 6% revenue\nhttps://www.gartner.com/en/articles/hype-cycle-for-agentic-ai\n\n9️⃣ Leadership stress: 71% dos execs com stress alto; 40% pensando em sair; change fitness emerge como skill crítica\nhttps://www.library.hbs.edu/working-knowledge/ai-trends-for-2026-building-change-fitness-and-balancing-trade-offs\n\n🔟 Supply chain + agents: $53B até 2030; custo cai 15-25%, delivery sobe pra 95%\nhttps://www.gartner.com/en/newsroom/press-releases/2026-04-07-gartner-forecasts-supply-chain-management-software-with-agentic-ai-will-grow-to-53-billion-in-spend-by-2030\n\nVer mais em: https://rafaelondei.appnaia.com",
+  "instagram": "🚀 RADAR IA — 10 MOVIMENTOS DE ABRIL QUE MUDAM O JOGO DE LIDERANÇA\n\n80% das Fortune 500 já rodam AI agents autônomos. Claude Opus 4.7 pulou pra 87.6% em SWE-bench. GPT-5.5 da OpenAI surpreende em autonomy e reasoning. O mercado de agentic AI vai de $10.86B (2026) pra $93.2B (2032) — isso é 8.5x em 6 anos.\n\nMas tem twist: liderança não é mais executar. É desenhar problemas pra IA resolver. HBR formalizou o role de \"Agent Manager\" em fevereiro. EY, JPMorgan e Salesforce já orquestram trilhões de data points com multi-agent em production. Supply chain com agents reduz custo 15-25% e melhora delivery pra 95%.\n\nO lado sombrio? 71% dos líderes globais tá com stress elevado. 40% cogitando sair. E EU AI Act chega em agosto (multa de 6% do revenue se não tiver governance rigorosa).\n\nTradução: a revolução é agora. Quem governa agents bem, governa o futuro. Quem espera? Fica pro jogo de rebote.\n\nVe os 10 carrosséis completos no dashboard. Cada um com 8 slides de análise + insights aplicáveis pro teu negócio.\n\n#IA #Liderança #Agents #Claude #OpenAI #ArtificialIntelligence #Empreendedorismo #FuturoDoTrabalho #Tech #Inovação"
+}

@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-04-30T19:25:21.516Z",
+  "updated_at": "2026-04-30T18:39:02-03:00",
   "executions": [
+    {
+      "date": "2026-04-30",
+      "key": "2026-04-30-lideranca-na-era-da-ia",
+      "topic": "Lideranca na era da ia",
+      "summary": "Fortune 500 em 80%; Claude Opus 4.7 no ar; Agents viram operação core; Governo é o novo moat; EU AI Act em agosto",
+      "items_count": 10
+    },
     {
       "date": "2026-04-30",
       "key": "2026-04-30-harmonizacao-facial",
