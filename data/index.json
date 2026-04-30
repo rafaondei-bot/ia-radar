@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-30T18:57:54.309Z",
+  "updated_at": "2026-04-30T19:17:51.339Z",
   "executions": [
     {
       "date": "2026-04-30",
@@ -20,11 +20,6 @@
       "key": "2026-04-30-teste-haiku",
       "topic": "teste haiku",
       "summary": "DeepSeek V4 Flash reduz custo 7x vs Haiku; Haiku 4.5 benchmark dominante (73.3% SWE, 50.7% OSWorld); model mixing é padrão 2026",
-      "items_count": 10
-    },
-    {
-      "date": "2026-04-30",
-      "summary": "Anthropic mira US$ 900 bi e pode passar OpenAI como IA mais valiosa do mundo; OpenAI desliga Sora; Cursor a caminho de US$ 50 bi",
       "items_count": 10
     }
   ]
