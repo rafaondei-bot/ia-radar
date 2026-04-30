@@ -706,11 +706,10 @@
     }
 
     function renderExecution(data) {
-      let recCounter = 0;
       const newsHtml = (data.items || []).map((it, i) => {
-        const isRec = it.recommended && it.carousel;
-        let carouselNum = null;
-        if (isRec) { recCounter += 1; carouselNum = recCounter; }
+        const isRec = !!it.recommended;
+        const hasCarousel = !!(it.carousel && it.carousel.slides && it.carousel.slides.length);
+        const carouselNum = i + 1; // numeração igual ao índice 1-based do item no array
         return `
         <div class="news-item ${isRec ? 'recommended' : ''}">
           <div class="num">#${String(i+1).padStart(2,'0')}${isRec ? '<span class="rec-badge">🔥 Recomendado pra viralizar</span>' : ''}</div>
@@ -721,7 +720,7 @@
             ${it.category ? `<span class="category">${escapeHtml(it.category)}</span>` : ''}
             ${it.link ? `<a href="${escapeHtml(it.link)}" target="_blank" rel="noopener" class="link">Ler na fonte ↗</a>` : ''}
           </div>
-          ${isRec ? `
+          ${hasCarousel ? `
             <div class="rec-cta">
               <button class="gen-btn" data-action="open-carousel" data-carousel="${carouselNum}" data-index="${i}">📸 Gerar carrossel</button>
               <span class="theme">Tema: ${escapeHtml(it.carousel.theme || '—')}</span>
