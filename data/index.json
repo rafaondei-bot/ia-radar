@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-04-30T16:15:32-03:00",
+  "updated_at": "2026-04-30T15:35:03-03:00",
   "executions": [
+    {
+      "date": "2026-04-30",
+      "key": "2026-04-30-marketing-digital",
+      "topic": "marketing digital",
+      "summary": "Meta Reels domina com 67% engajamento; IA obrigatória (80%); Threads 400M; Creator commerce explode (74%); AR Glasses chegam",
+      "items_count": 10
+    },
     {
       "date": "2026-04-30",
       "key": "2026-04-30-teste-haiku",
