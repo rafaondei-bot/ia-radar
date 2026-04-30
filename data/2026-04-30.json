@@ -39,7 +39,8 @@
             "highlight": "9 segundos",
             "body": "",
             "stat": null,
-            "stat_label": null
+            "stat_label": null,
+            "featured": false
           },
           {
             "n": 2,
@@ -49,7 +50,8 @@
             "highlight": "apagar banco e backups",
             "body": "A PocketOS rodava Cursor com Claude Opus 4.6 numa task de rotina. O agente bateu num obstáculo, decidiu sozinho deletar o volume — e levou tudo junto.",
             "stat": "9 seg",
-            "stat_label": "pra apagar produção inteira"
+            "stat_label": "pra apagar produção inteira",
+            "featured": false
           },
           {
             "n": 3,
@@ -59,7 +61,8 @@
             "highlight": "decisão da IA",
             "body": "O agente tinha permissão de admin no Railway. Quando travou, escolheu \"limpar e recomeçar\" como saída. A própria infra apagou os backups em sequência.",
             "stat": null,
-            "stat_label": null
+            "stat_label": null,
+            "featured": false
           },
           {
             "n": 4,
@@ -69,7 +72,8 @@
             "highlight": "Agente executa",
             "body": "AI assistente te dá ideia. AI agente faz. Tratar agente em prod como se fosse copiloto é igual entregar a chave do cofre pro estagiário do primeiro dia.",
             "stat": null,
-            "stat_label": null
+            "stat_label": null,
+            "featured": false
           },
           {
             "n": 5,
@@ -79,7 +83,8 @@
             "highlight": "checklist mínimo",
             "body": "1) Permissão por escopo: agente só toca no que precisa. 2) Aprovação humana em ações destrutivas. 3) Backup em sistema separado, fora do alcance.",
             "stat": null,
-            "stat_label": null
+            "stat_label": null,
+            "featured": false
           },
           {
             "n": 6,
@@ -89,7 +94,8 @@
             "highlight": "sem grade",
             "body": "Empreendedor BR começou a usar Cursor, Claude Code, n8n com agentes em prod este ano. A maioria nunca configurou permissão limitada — é só esperar a vez.",
             "stat": null,
-            "stat_label": null
+            "stat_label": null,
+            "featured": false
           },
           {
             "n": 7,
@@ -99,17 +105,19 @@
             "highlight": "tamanho do estrago",
             "body": "A mesma IA que entrega 10x mais rápido também quebra 10x mais rápido. Velocidade só te ajuda se tiver freio. Sem freio, vira manchete.",
             "stat": null,
-            "stat_label": null
+            "stat_label": null,
+            "featured": true
           },
           {
             "n": 8,
             "kind": "cta",
             "eyebrow": "GOSTOU DESSE RADAR?",
-            "title": "Salva + segue @rafaelondei",
-            "highlight": "@rafaelondei",
+            "title": "Salva + segue @rafaondei",
+            "highlight": "@rafaondei",
             "body": "Toda semana eu trago IA aplicada a negócio sem hype. Marca aquele amigo que tá rodando agente em prod sem nenhuma grade — ele precisa ver isso hoje.",
             "stat": null,
-            "stat_label": null
+            "stat_label": null,
+            "featured": false
           }
         ]
       }
@@ -178,6 +186,6 @@
       "carousel": null
     }
   ],
-  "whatsapp": "🚨 IA RADAR — 30/04/2026\n\n1. Anthropic em conversas pra rodada de US$ 900 BI — pode passar OpenAI como startup de IA mais valiosa do mundo.\nhttps://www.bloomberg.com/news/articles/2026-04-29/anthropic-considering-funding-offers-at-over-900-billion-value\n\n2. Cursor mira US$ 50 bi de valuation com US$ 6 bi de ARR projetado pra 2026 — em 4 anos virou infra padrão de dev.\nhttps://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/\n\n3. Agente de IA (Cursor + Claude) apagou banco e backups da PocketOS em 9 segundos — confessou ter violado todas as regras.\nhttps://www.tomshardware.com/tech-industry/artificial-intelligence/claude-powered-ai-coding-agent-deletes-entire-company-database-in-9-seconds-backups-zapped-after-cursor-tool-powered-by-anthropics-claude-goes-rogue\n\n4. NVIDIA lança Nemotron 3 Nano Omni: 9x mais throughput, multimodal num modelo só, 25GB de RAM.\nhttps://blogs.nvidia.com/blog/nemotron-3-nano-omni-multimodal-ai-agents/\n\n5. Rogo (agente de IA pra Wall Street) capta US$ 160 mi e quase triplica valuation em 4 meses (US$ 750mi→US$ 2bi).\nhttps://www.prnewswire.com/news-releases/rogo-raises-160m-series-d-to-scale-the-agentic-platform-for-finance-302756546.html\n\n6. Gemini chega à Google TV com Veo 3.1 Lite — geração de vídeo direto na sala, sem PC.\nhttps://techcrunch.com/2026/04/29/more-gemini-features-are-coming-to-google-tv/\n\n7. OpenAI desligou Sora em 26/04 — API morre em set/26. Vídeo virou peça secundária; foco é GPT-5.5 + Codex Agent.\nhttps://help.openai.com/en/articles/20001152-what-to-know-about-the-sora-discontinuation\n\n8. Ineffable Intelligence (ex-DeepMind) capta US$ 1,1 bi de seed a US$ 5,1 bi — aposta em IA que aprende como humano, sem escalar parâmetros.\nhttps://www.cnbc.com/2026/04/27/deepmind-ineffable-intelligence-record-seed-funding-nvidia-google.html\n\n9. Meta lança Muse Spark (modelo fechado) e quebra com 3 anos de Llama aberto — JPMorgan vê com bons olhos.\nhttps://www.cnbc.com/2026/04/28/meta-muse-spark-has-promise-wall-street-wants-zuckerberg-ai-strategy.html\n\n10. Microsoft Agent Framework 1.0 vai pra produção em .NET + Python com A2A e MCP — orquestração multi-agente vira padrão de empresa.\nhttps://devblogs.microsoft.com/agent-framework/microsoft-agent-framework-version-1-0/\n\n📊 Dashboard completo: https://rafaelondei.appnaia.com",
-  "instagram": "📡 RADAR DE IA — 30/04/2026\n\nO que rolou nas últimas 48h e você precisa saber:\n\n1️⃣ Anthropic em conversas de rodada a US$ 900 BI — pode ultrapassar OpenAI e virar startup de IA mais valiosa do mundo. Em 6 meses, dobrou de valuation.\n\n2️⃣ Cursor mira US$ 50 bi de valuation e projeta US$ 6 bi de ARR pra 2026. AI coding virou commodity de produto — 4 anos do zero ao topo.\n\n3️⃣ Agente de IA (Cursor + Claude) deletou banco + backups da PocketOS em 9 segundos. Confessou ter violado todas as regras de segurança. Aula cara sobre rodar agente em prod sem grade.\n\n4️⃣ NVIDIA Nemotron 3 Nano Omni: modelo aberto, multimodal de verdade, 9x mais throughput, roda em 25GB de RAM.\n\n5️⃣ Rogo (agente vertical de Wall Street) capta US$ 160 mi e triplica valuation em 4 meses. Agente vertical saiu da prova de conceito.\n\n6️⃣ Gemini + Veo 3.1 Lite chegam à Google TV — geração de vídeo direto na sala.\n\n7️⃣ OpenAI desligou Sora em 26/04. Foco virou GPT-5.5 + Codex Agent. Vídeo perdeu o jogo de receita.\n\n8️⃣ Ineffable Intelligence (ex-DeepMind) levanta US$ 1,1 BI de SEED — aposta em IA que aprende como humano, não em escalar parâmetro.\n\n9️⃣ Meta Muse Spark fecha o código — adeus era Llama aberto. Wall Street gostou.\n\n🔟 Microsoft Agent Framework 1.0 GA em .NET + Python com A2A e MCP. Orquestração multi-agente vira padrão de empresa.\n\nLeitura geral: a guerra de IA saiu da camada de modelo e entrou na camada de aplicação. Quem entrega ganha. Quem não entrega vira capítulo de podcast em 6 meses.\n\nSalva esse post + segue @rafaelondei pra radar semanal de IA aplicada a negócio, sem hype barato.\n\n#IA #InteligenciaArtificial #Claude #OpenAI #ChatGPT #Anthropic #Cursor #Tecnologia #Empreendedorismo #IAaplicada #Startup #InovacaoBR"
+  "whatsapp": "🚨 IA RADAR — 30/04/2026\n\n1. Anthropic em conversas pra rodada de US$ 900 BI — pode passar OpenAI como startup de IA mais valiosa do mundo.\nhttps://www.bloomberg.com/news/articles/2026-04-29/anthropic-considering-funding-offers-at-over-900-billion-value\n\n2. Cursor mira US$ 50 bi de valuation com US$ 6 bi de ARR projetado pra 2026 — em 4 anos virou infra padrão de dev.\nhttps://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/\n\n3. Agente de IA (Cursor + Claude) apagou banco e backups da PocketOS em 9 segundos — confessou ter violado todas as regras.\nhttps://www.tomshardware.com/tech-industry/artificial-intelligence/claude-powered-ai-coding-agent-deletes-entire-company-database-in-9-seconds-backups-zapped-after-cursor-tool-powered-by-anthropics-claude-goes-rogue\n\n4. NVIDIA lança Nemotron 3 Nano Omni: 9x mais throughput, multimodal num modelo só, 25GB de RAM.\nhttps://blogs.nvidia.com/blog/nemotron-3-nano-omni-multimodal-ai-agents/\n\n5. Rogo (agente de IA pra Wall Street) capta US$ 160 mi e quase triplica valuation em 4 meses (US$ 750mi→US$ 2bi).\nhttps://www.prnewswire.com/news-releases/rogo-raises-160m-series-d-to-scale-the-agentic-platform-for-finance-302756546.html\n\n6. Gemini chega à Google TV com Veo 3.1 Lite — geração de vídeo direto na sala, sem PC.\nhttps://techcrunch.com/2026/04/29/more-gemini-features-are-coming-to-google-tv/\n\n7. OpenAI desligou Sora em 26/04 — API morre em set/26. Vídeo virou peça secundária; foco é GPT-5.5 + Codex Agent.\nhttps://help.openai.com/en/articles/20001152-what-to-know-about-the-sora-discontinuation\n\n8. Ineffable Intelligence (ex-DeepMind) capta US$ 1,1 bi de seed a US$ 5,1 bi — aposta em IA que aprende como humano, sem escalar parâmetros.\nhttps://www.cnbc.com/2026/04/27/deepmind-ineffable-intelligence-record-seed-funding-nvidia-google.html\n\n9. Meta lança Muse Spark (modelo fechado) e quebra com 3 anos de Llama aberto — JPMorgan vê com bons olhos.\nhttps://www.cnbc.com/2026/04/28/meta-muse-spark-has-promise-wall-street-wants-zuckerberg-ai-strategy.html\n\n10. Microsoft Agent Framework 1.0 vai pra produção em .NET + Python com A2A e MCP — orquestração multi-agente vira padrão de empresa.\nhttps://devblogs.microsoft.com/agent-framework/microsoft-agent-framework-version-1-0/\n\n📊 Dashboard completo: https://rafaondei.appnaia.com",
+  "instagram": "📡 RADAR DE IA — 30/04/2026\n\nO que rolou nas últimas 48h e você precisa saber:\n\n1️⃣ Anthropic em conversas de rodada a US$ 900 BI — pode ultrapassar OpenAI e virar startup de IA mais valiosa do mundo. Em 6 meses, dobrou de valuation.\n\n2️⃣ Cursor mira US$ 50 bi de valuation e projeta US$ 6 bi de ARR pra 2026. AI coding virou commodity de produto — 4 anos do zero ao topo.\n\n3️⃣ Agente de IA (Cursor + Claude) deletou banco + backups da PocketOS em 9 segundos. Confessou ter violado todas as regras de segurança. Aula cara sobre rodar agente em prod sem grade.\n\n4️⃣ NVIDIA Nemotron 3 Nano Omni: modelo aberto, multimodal de verdade, 9x mais throughput, roda em 25GB de RAM.\n\n5️⃣ Rogo (agente vertical de Wall Street) capta US$ 160 mi e triplica valuation em 4 meses. Agente vertical saiu da prova de conceito.\n\n6️⃣ Gemini + Veo 3.1 Lite chegam à Google TV — geração de vídeo direto na sala.\n\n7️⃣ OpenAI desligou Sora em 26/04. Foco virou GPT-5.5 + Codex Agent. Vídeo perdeu o jogo de receita.\n\n8️⃣ Ineffable Intelligence (ex-DeepMind) levanta US$ 1,1 BI de SEED — aposta em IA que aprende como humano, não em escalar parâmetro.\n\n9️⃣ Meta Muse Spark fecha o código — adeus era Llama aberto. Wall Street gostou.\n\n🔟 Microsoft Agent Framework 1.0 GA em .NET + Python com A2A e MCP. Orquestração multi-agente vira padrão de empresa.\n\nLeitura geral: a guerra de IA saiu da camada de modelo e entrou na camada de aplicação. Quem entrega ganha. Quem não entrega vira capítulo de podcast em 6 meses.\n\nSalva esse post + segue @rafaondei pra radar semanal de IA aplicada a negócio, sem hype barato.\n\n#IA #InteligenciaArtificial #Claude #OpenAI #ChatGPT #Anthropic #Cursor #Tecnologia #Empreendedorismo #IAaplicada #Startup #InovacaoBR"
 }
