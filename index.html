@@ -1,0 +1,487 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>IA Radar — Rafael Ondei</title>
+<meta name="description" content="Radar diário do mercado de IA. 10 informações mais relevantes, atualizado às 7h." />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet" />
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --verde: #16a34a;
+    --verde-claro: #22c55e;
+    --laranja: #ea580c;
+    --amarelo: #facc15;
+    --preto: #0a0a0a;
+    --preto-2: #0d0d0d;
+    --cinza-900: #18181b;
+    --cinza-800: #27272a;
+    --cinza-700: #3f3f46;
+    --cinza-400: #a1a1aa;
+    --cinza-300: #d4d4d8;
+    --branco: #fafafa;
+  }
+
+  body {
+    font-family: 'Inter', sans-serif;
+    background: var(--preto);
+    color: var(--branco);
+    line-height: 1.55;
+    min-height: 100vh;
+  }
+
+  .container {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 32px 20px 80px;
+  }
+
+  /* HEADER */
+  header {
+    border-bottom: 1px solid var(--cinza-800);
+    padding-bottom: 24px;
+    margin-bottom: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+
+  .brand h1 {
+    font-size: clamp(1.6rem, 3vw, 2.2rem);
+    font-weight: 900;
+    letter-spacing: -0.025em;
+    line-height: 1.1;
+  }
+
+  .brand h1 .accent { color: var(--verde-claro); }
+
+  .brand p {
+    color: var(--cinza-400);
+    font-size: 0.92rem;
+    margin-top: 4px;
+  }
+
+  .last-update {
+    font-size: 0.85rem;
+    color: var(--cinza-400);
+    background: var(--cinza-900);
+    border: 1px solid var(--cinza-800);
+    padding: 8px 14px;
+    border-radius: 100px;
+  }
+
+  .last-update strong { color: var(--verde-claro); }
+
+  /* TABS */
+  .tabs {
+    display: flex;
+    gap: 8px;
+    overflow-x: auto;
+    padding-bottom: 12px;
+    margin-bottom: 24px;
+    border-bottom: 1px solid var(--cinza-800);
+    scrollbar-width: thin;
+  }
+
+  .tab {
+    flex-shrink: 0;
+    background: transparent;
+    border: 1px solid var(--cinza-800);
+    color: var(--cinza-300);
+    font-family: inherit;
+    font-size: 0.88rem;
+    font-weight: 600;
+    padding: 10px 18px;
+    border-radius: 100px;
+    cursor: pointer;
+    transition: all 0.15s;
+    white-space: nowrap;
+  }
+
+  .tab:hover { border-color: var(--verde); color: var(--branco); }
+
+  .tab.active {
+    background: var(--verde);
+    color: var(--branco);
+    border-color: var(--verde);
+  }
+
+  /* CONTENT */
+  .empty-state {
+    text-align: center;
+    padding: 80px 24px;
+    border: 1px dashed var(--cinza-700);
+    border-radius: 16px;
+    color: var(--cinza-400);
+  }
+
+  .empty-state h2 {
+    font-size: 1.4rem;
+    color: var(--branco);
+    margin-bottom: 8px;
+    font-weight: 700;
+  }
+
+  .empty-state p { font-size: 0.95rem; line-height: 1.6; }
+
+  .empty-state .badge {
+    display: inline-block;
+    background: rgba(22,163,74,0.15);
+    color: var(--verde-claro);
+    border: 1px solid rgba(22,163,74,0.3);
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    padding: 4px 12px;
+    border-radius: 100px;
+    margin-bottom: 16px;
+  }
+
+  .day-meta {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    margin-bottom: 24px;
+    flex-wrap: wrap;
+  }
+
+  .day-meta h2 {
+    font-size: 1.6rem;
+    font-weight: 800;
+    letter-spacing: -0.02em;
+  }
+
+  .pill {
+    background: var(--cinza-900);
+    border: 1px solid var(--cinza-800);
+    padding: 4px 12px;
+    border-radius: 100px;
+    font-size: 0.78rem;
+    font-weight: 600;
+    color: var(--cinza-400);
+  }
+
+  .pill.green { color: var(--verde-claro); border-color: rgba(22,163,74,0.4); }
+  .pill.orange { color: var(--laranja); border-color: rgba(234,88,12,0.4); }
+
+  /* NEWS LIST */
+  .news-list {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    margin-bottom: 36px;
+  }
+
+  .news-item {
+    background: var(--cinza-900);
+    border: 1px solid var(--cinza-800);
+    border-radius: 14px;
+    padding: 22px 22px;
+    transition: border-color 0.15s, transform 0.15s;
+  }
+
+  .news-item:hover {
+    border-color: var(--verde);
+    transform: translateY(-1px);
+  }
+
+  .news-item .num {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.78rem;
+    font-weight: 700;
+    color: var(--verde-claro);
+    letter-spacing: 0.08em;
+    margin-bottom: 8px;
+  }
+
+  .news-item h3 {
+    font-size: 1.12rem;
+    font-weight: 700;
+    line-height: 1.35;
+    margin-bottom: 8px;
+    letter-spacing: -0.01em;
+  }
+
+  .news-item .summary {
+    color: var(--cinza-300);
+    font-size: 0.95rem;
+    line-height: 1.55;
+    margin-bottom: 14px;
+  }
+
+  .news-item .meta {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    flex-wrap: wrap;
+    font-size: 0.78rem;
+  }
+
+  .meta .source {
+    background: var(--cinza-800);
+    color: var(--cinza-300);
+    padding: 4px 10px;
+    border-radius: 100px;
+    font-weight: 600;
+  }
+
+  .meta .category {
+    background: rgba(22,163,74,0.12);
+    color: var(--verde-claro);
+    padding: 4px 10px;
+    border-radius: 100px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+  }
+
+  .meta .link {
+    color: var(--amarelo);
+    text-decoration: none;
+    font-weight: 600;
+    margin-left: auto;
+  }
+
+  .meta .link:hover { text-decoration: underline; }
+
+  /* OUTPUTS (WhatsApp, Instagram) */
+  .outputs {
+    display: grid;
+    gap: 20px;
+    grid-template-columns: 1fr;
+    margin-top: 40px;
+  }
+
+  @media (min-width: 760px) {
+    .outputs { grid-template-columns: 1fr 1fr; }
+  }
+
+  .output-block {
+    background: var(--cinza-900);
+    border: 1px solid var(--cinza-800);
+    border-radius: 14px;
+    padding: 22px;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .output-block .label {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 14px;
+  }
+
+  .output-block .label .title {
+    font-weight: 800;
+    font-size: 0.85rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--verde-claro);
+  }
+
+  .output-block .copy-btn {
+    background: var(--amarelo);
+    color: var(--preto);
+    font-weight: 800;
+    font-size: 0.78rem;
+    padding: 6px 14px;
+    border: none;
+    border-radius: 100px;
+    cursor: pointer;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    transition: background 0.15s;
+  }
+
+  .output-block .copy-btn:hover { background: #fde047; }
+  .output-block .copy-btn.copied { background: var(--verde-claro); color: var(--branco); }
+
+  .output-block pre {
+    font-family: 'Inter', sans-serif;
+    font-size: 0.92rem;
+    line-height: 1.65;
+    color: var(--cinza-300);
+    background: var(--preto-2);
+    border: 1px solid var(--cinza-800);
+    border-radius: 10px;
+    padding: 16px 18px;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    flex: 1;
+    max-height: 520px;
+    overflow-y: auto;
+  }
+
+  /* FOOTER */
+  footer {
+    margin-top: 60px;
+    padding-top: 24px;
+    border-top: 1px solid var(--cinza-800);
+    color: var(--cinza-400);
+    font-size: 0.82rem;
+    text-align: center;
+    line-height: 1.6;
+  }
+
+  footer a { color: var(--verde-claro); text-decoration: none; }
+  footer a:hover { text-decoration: underline; }
+</style>
+</head>
+<body>
+  <div class="container">
+
+    <header>
+      <div class="brand">
+        <h1>IA <span class="accent">Radar</span></h1>
+        <p>Top 10 do mercado de IA · atualizado todo dia 7h (BRT)</p>
+      </div>
+      <div class="last-update" id="lastUpdate">Carregando…</div>
+    </header>
+
+    <div class="tabs" id="tabs"></div>
+
+    <div id="content"></div>
+
+    <footer>
+      Curadoria automática · feita por <a href="https://github.com/rafaondei-bot/ia-radar">rafaondei-bot/ia-radar</a> · Rafael Ondei
+    </footer>
+  </div>
+
+  <script>
+    const STATE = { executions: [], current: null };
+
+    function fmtDate(iso) {
+      try {
+        const d = new Date(iso);
+        return d.toLocaleString('pt-BR', {
+          day: '2-digit', month: '2-digit', year: 'numeric',
+          hour: '2-digit', minute: '2-digit'
+        });
+      } catch { return iso; }
+    }
+
+    function fmtTabLabel(date) {
+      const d = new Date(date + 'T00:00:00-03:00');
+      return d.toLocaleDateString('pt-BR', { day: '2-digit', month: 'short' }).replace('.', '');
+    }
+
+    async function loadIndex() {
+      const res = await fetch('data/index.json?_=' + Date.now());
+      const json = await res.json();
+      STATE.executions = json.executions || [];
+      document.getElementById('lastUpdate').innerHTML = json.updated_at
+        ? `Última atualização: <strong>${fmtDate(json.updated_at)}</strong>`
+        : 'Nenhuma execução ainda';
+      renderTabs();
+      if (STATE.executions.length) {
+        await selectExecution(STATE.executions[0].date);
+      } else {
+        renderEmpty();
+      }
+    }
+
+    function renderTabs() {
+      const tabs = document.getElementById('tabs');
+      if (!STATE.executions.length) { tabs.style.display = 'none'; return; }
+      tabs.innerHTML = STATE.executions.map(e =>
+        `<button class="tab" data-date="${e.date}">${fmtTabLabel(e.date)}</button>`
+      ).join('');
+      tabs.querySelectorAll('.tab').forEach(btn => {
+        btn.addEventListener('click', () => selectExecution(btn.dataset.date));
+      });
+    }
+
+    function renderEmpty() {
+      document.getElementById('content').innerHTML = `
+        <div class="empty-state">
+          <span class="badge">Aguardando primeira execução</span>
+          <h2>O radar ainda não rodou hoje</h2>
+          <p>A primeira pesquisa vai cair aqui em alguns minutos.<br>Volta logo.</p>
+        </div>
+      `;
+    }
+
+    async function selectExecution(date) {
+      STATE.current = date;
+      document.querySelectorAll('.tab').forEach(t => t.classList.toggle('active', t.dataset.date === date));
+      const res = await fetch(`data/${date}.json?_=` + Date.now());
+      if (!res.ok) {
+        document.getElementById('content').innerHTML = `<div class="empty-state"><h2>Não consegui carregar ${date}</h2><p>Pode ser que ainda esteja sendo processado.</p></div>`;
+        return;
+      }
+      const data = await res.json();
+      renderExecution(data);
+    }
+
+    function escapeHtml(s) {
+      return String(s || '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+    }
+
+    function renderExecution(data) {
+      const newsHtml = (data.items || []).map((it, i) => `
+        <div class="news-item">
+          <div class="num">#${String(i+1).padStart(2,'0')}</div>
+          <h3>${escapeHtml(it.title)}</h3>
+          <p class="summary">${escapeHtml(it.summary)}</p>
+          <div class="meta">
+            <span class="source">${escapeHtml(it.source || '—')}</span>
+            ${it.category ? `<span class="category">${escapeHtml(it.category)}</span>` : ''}
+            ${it.link ? `<a href="${escapeHtml(it.link)}" target="_blank" rel="noopener" class="link">Ler na fonte ↗</a>` : ''}
+          </div>
+        </div>
+      `).join('');
+
+      document.getElementById('content').innerHTML = `
+        <div class="day-meta">
+          <h2>${fmtTabLabel(data.date)}</h2>
+          <span class="pill green">${(data.items || []).length} itens</span>
+          <span class="pill">Gerado ${fmtDate(data.generated_at)}</span>
+        </div>
+
+        <div class="news-list">${newsHtml || '<p>Sem itens.</p>'}</div>
+
+        <div class="outputs">
+          <div class="output-block">
+            <div class="label">
+              <span class="title">📲 WhatsApp / Comunidade</span>
+              <button class="copy-btn" data-copy="wa">Copiar</button>
+            </div>
+            <pre id="out-wa">${escapeHtml(data.whatsapp || '')}</pre>
+          </div>
+
+          <div class="output-block">
+            <div class="label">
+              <span class="title">📸 Instagram</span>
+              <button class="copy-btn" data-copy="ig">Copiar</button>
+            </div>
+            <pre id="out-ig">${escapeHtml(data.instagram || '')}</pre>
+          </div>
+        </div>
+      `;
+
+      document.querySelectorAll('.copy-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+          const id = btn.dataset.copy === 'wa' ? 'out-wa' : 'out-ig';
+          const text = document.getElementById(id).textContent;
+          navigator.clipboard.writeText(text).then(() => {
+            btn.classList.add('copied');
+            const original = btn.textContent;
+            btn.textContent = 'Copiado ✓';
+            setTimeout(() => { btn.classList.remove('copied'); btn.textContent = original; }, 1500);
+          });
+        });
+      });
+    }
+
+    loadIndex();
+  </script>
+</body>
+</html>
