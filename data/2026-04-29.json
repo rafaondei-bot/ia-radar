@@ -1,0 +1,78 @@
+{
+  "date": "2026-04-29",
+  "generated_at": "2026-04-29T22:54:50-03:00",
+  "items": [
+    {
+      "title": "Anthropic negocia rodada a US$ 900 bi e ultrapassa OpenAI em valuation",
+      "summary": "A Anthropic está conversando com investidores para captar a um valuation de US$ 900 bilhões — acima dos US$ 850 bi da OpenAI. Sinaliza que Claude virou aposta institucional pesada e que o eixo do mercado de modelo de fronteira está se redistribuindo.",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/04/29/anthropic-weighs-raising-funds-at-900b-valuation-topping-openai.html",
+      "category": "mercado"
+    },
+    {
+      "title": "Alphabet eleva capex de 2026 para até US$ 190 bi e promete subir mais em 2027",
+      "summary": "No earnings de Q1, o Google subiu o teto de capex para US$ 175–190 bi, Meta foi para US$ 125–145 bi e Amazon mira ~US$ 200 bi. Soma de Big Techs deve passar de US$ 600 bi em infraestrutura de IA em 2026 — confirmando que a corrida do GPU não esfriou.",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/04/29/alphabet-googl-q1-2026-earnings.html",
+      "category": "mercado"
+    },
+    {
+      "title": "ChatGPT Go a US$ 8 vira aposta da OpenAI para chegar a 122 mi de assinantes",
+      "summary": "OpenAI quer triplicar a base paga em 2026 vendendo o plano Go a US$ 8/mês com GPT-5.2 Instant e mais cota, mirando Índia, LatAm e SEA. Plus de US$ 20 deve encolher; ads chegam ao free e ao Go nos EUA. Para quem vende infoproduto, é massificação real do acesso à IA.",
+      "source": "The Information / The Tech Portal",
+      "link": "https://thetechportal.com/2026/04/29/openai-targets-122mn-chatgpt-subscribers-by-2026-with-new-8-plan-push",
+      "category": "aplicação"
+    },
+    {
+      "title": "Google vai aportar até US$ 40 bi na Anthropic em cash + compute",
+      "summary": "Acordo prevê US$ 10 bi imediatos e até US$ 30 bi atrelados a metas, incluindo expansão com chips Broadcom/TPU. Google diversifica fora da Gemini e empurra Claude como segundo motor de IA do ecossistema — encerrando a era do 'Big Three' isolado.",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
+      "category": "mercado"
+    },
+    {
+      "title": "China barra aquisição da Manus pela Meta por US$ 2 bi",
+      "summary": "O regulador chinês exigiu que Meta e Manus desfaçam o deal anunciado em dezembro, citando origem técnica chinesa da startup de agentes. Sinaliza endurecimento geopolítico em M&A de IA e dificulta consolidação cross-border de plataformas agentic.",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html",
+      "category": "mercado"
+    },
+    {
+      "title": "GPT-5.5 chega na API e divide o trono com Claude Opus 4.7",
+      "summary": "OpenAI liberou GPT-5.5 e 5.5 Pro para todos os tiers e API (24/abr): mais barato em output (US$ 30/M tokens) e 72% mais eficiente em tokens, lidera em Terminal-Bench (82,7%). Opus 4.7 (US$ 25/M output) ainda lidera em SWE-bench. Stack ideal hoje é roteamento, não modelo único.",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
+      "category": "benchmark"
+    },
+    {
+      "title": "Google lança Gemini Enterprise Agent Platform no Cloud Next '26",
+      "summary": "Plataforma unificada para construir, orquestrar e governar agentes em escala — com observabilidade, detecção de anomalia e compliance embutidos. Junto vieram Snowflake Intelligence e Cortex Code, marcando a virada de pilotos para produção real de agentes em empresa.",
+      "source": "Google Cloud Blog",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-agent-platform",
+      "category": "ferramenta"
+    },
+    {
+      "title": "Cursor negocia rodada de US$ 2 bi a valuation de US$ 50 bi",
+      "summary": "Editor de código com IA estaria fechando captação que o tornaria a maior empresa pure-play de dev tooling com IA da história — 6,6x o preço que a Microsoft pagou pelo GitHub. Termômetro de quanto VC ainda aposta em produtividade de engenharia como camada agentic principal.",
+      "source": "Abhishek Gautam / Reports",
+      "link": "https://www.abhs.in/blog/cursor-ai-2-billion-funding-50-billion-valuation-april-2026",
+      "category": "mercado"
+    },
+    {
+      "title": "OpenAI desliga o Sora e perde deal de US$ 1 bi com a Disney",
+      "summary": "App e site do Sora foram descontinuados em 26/abr; API segue até setembro. Custos de inferência, briga por copyright e pivô para 'Agentic AI' levaram à decisão. Veo 3.1 Lite e Veo 4 do Google ocupam o vácuo na geração de vídeo.",
+      "source": "AI Market Watch",
+      "link": "https://www.ai-market-watch.com/news/openai-sets-april-26-2026-as-discontinuation-date-for-sora-web-and-app-experienc-diyse6",
+      "category": "mercado"
+    },
+    {
+      "title": "Anthropic abre Claude Mythos Preview a 11 empresas para caçar vulnerabilidades",
+      "summary": "Modelo top-secret é especialmente forte em segurança ofensiva e foi liberado em programa fechado para encontrar e corrigir bugs críticos. Não terá GA. Mostra que a próxima fronteira de IA enterprise é defensiva — segurança como diferencial vendável.",
+      "source": "Anthropic / Axios",
+      "link": "https://www.axios.com/2026/04/16/anthropic-claude-opus-model-mythos",
+      "category": "aplicação"
+    }
+  ],
+  "whatsapp": "🔥 IA RADAR — 29/04/2026\n\n1) Anthropic negocia rodada a US$ 900 bi e passa OpenAI em valuation. Claude virou aposta institucional. https://www.cnbc.com/2026/04/29/anthropic-weighs-raising-funds-at-900b-valuation-topping-openai.html\n\n2) Alphabet sobe capex de 2026 pra US$ 190 bi; Meta vai a US$ 145 bi. Big Techs juntas vão gastar +US$ 600 bi em IA. https://www.cnbc.com/2026/04/29/alphabet-googl-q1-2026-earnings.html\n\n3) ChatGPT Go a US$ 8/mês mira 122 mi de assinantes em 2026. Massificação real do acesso à IA. https://thetechportal.com/2026/04/29/openai-targets-122mn-chatgpt-subscribers-by-2026-with-new-8-plan-push\n\n4) Google vai aportar até US$ 40 bi na Anthropic em cash + compute. Era do 'Big Three' acabou. https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/\n\n5) China barra aquisição da Manus pela Meta por US$ 2 bi. Geopolítica trava M&A de IA. https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html\n\n6) GPT-5.5 chega na API: mais barato em output, lidera Terminal-Bench. Opus 4.7 segue rei em SWE-bench. Roteamento > modelo único. https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/\n\n7) Google lança Gemini Enterprise Agent Platform com governança e observabilidade nativas. Agentes saem do piloto. https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-agent-platform\n\n8) Cursor negocia rodada de US$ 2 bi a US$ 50 bi de valuation. Dev tooling com IA segue carro-chefe. https://www.abhs.in/blog/cursor-ai-2-billion-funding-50-billion-valuation-april-2026\n\n9) OpenAI desliga o Sora e perde deal de US$ 1 bi com a Disney. Veo 3.1 e Veo 4 ocupam o trono em vídeo. https://www.ai-market-watch.com/news/openai-sets-april-26-2026-as-discontinuation-date-for-sora-web-and-app-experienc-diyse6\n\n10) Anthropic libera Claude Mythos Preview a 11 empresas pra caçar bugs de segurança. Cyber é o próximo eixo enterprise. https://www.axios.com/2026/04/16/anthropic-claude-opus-model-mythos\n\nDashboard completo: https://rafaelondei.appnaia.com",
+  "instagram": "CAPTION:\nO mercado de IA acabou de virar a chave em 48h. 🧠⚡\n\nEnquanto você fechava o mês, o jogo mudou:\n\n— Anthropic negocia US$ 900 bi de valuation e passa a OpenAI.\n— Google vai colocar até US$ 40 bi dentro da Anthropic.\n— Alphabet, Meta, Amazon e Microsoft vão gastar +US$ 600 bi em infraestrutura de IA só em 2026.\n— ChatGPT a US$ 8 vai democratizar o acesso pra mais de 122 milhões de pessoas.\n— Cursor mira US$ 50 bi de valuation. Sora foi desligado.\n\nNão é hype. É a infraestrutura do próximo ciclo de negócios sendo cravada agora.\n\nQuem entende isso primeiro vende mais. Quem ignora, vira commodity.\n\nSalva esse post pra revisitar daqui 30 dias e ver quanto coisa virou padrão.\n\n#IA #InteligenciaArtificial #Claude #OpenAI #ChatGPT #Anthropic #Google #Tecnologia #Empreendedorismo #Mercado #Inovacao #Negocios #Startup #Vendas #Marketing #Infoproduto #Mentoria #Avalanche\n\nCARROSSEL — SUGESTÃO DE SLIDES:\n\nSlide 1 (capa): \"O mercado de IA virou a chave em 48h. Você viu?\" + fundo dark com glitch\n\nSlide 2 (Anthropic): \"Anthropic negocia rodada a US$ 900 BI — e passa a OpenAI no valuation. Claude virou aposta institucional pesada.\"\n\nSlide 3 (Capex): \"Big Techs vão gastar +US$ 600 BI em IA só em 2026. Alphabet sozinha: até US$ 190 bi. A guerra do GPU está só começando.\"\n\nSlide 4 (ChatGPT Go): \"OpenAI lança plano de US$ 8/mês mirando 122 milhões de assinantes. IA na mão de qualquer um. O que isso muda na sua oferta?\"\n\nSlide 5 (Google + Anthropic): \"Google injeta até US$ 40 BI na Anthropic. O 'Big Three' acabou. Quem você vai escolher pro seu stack?\"\n\nSlide 6 (Benchmarks): \"GPT-5.5 vs Claude Opus 4.7 — cada um lidera num eixo diferente. A nova jogada não é escolher modelo: é rotear tarefa pra modelo certo.\"\n\nSlide 7 (Cursor + Agents): \"Cursor mira US$ 50 BI. Google lança Enterprise Agent Platform. Agentes saíram do piloto. Quem não automatiza vira espectador.\"\n\nSlide 8 (Sora): \"OpenAI desligou o Sora e perdeu o deal de US$ 1 bi com a Disney. Veo 4 do Google e Sora 2 ocupam o trono. Vídeo com IA mudou de mãos.\"\n\nSlide 9 (CTA): \"Curte ver isso destrinchado em 1 minuto por dia? Segue + ativa o sininho. IA Radar todo dia 22h.\"\n\nSlide 10 (CTA final): \"Acessa o dashboard completo no link da bio: rafaelondei.appnaia.com\""
+}
