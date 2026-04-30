@@ -381,14 +381,21 @@
     border-color: var(--verde-claro);
     box-shadow: 0 0 0 1px rgba(34,197,94,0.2);
   }
-  .gallery .slide-card iframe,
+  .gallery .slide-card .thumb-frame {
+    width: 100%; aspect-ratio: 4/5; border-radius: 8px; overflow: hidden;
+    background: #000; position: relative;
+  }
+  .gallery .slide-card .thumb-frame iframe {
+    width: 1080px; height: 1350px; border: none;
+    transform: scale(calc(var(--thumb-w, 220px) / 1080));
+    transform-origin: top left;
+    pointer-events: none;
+  }
   .gallery .slide-card img {
     width: 100%; aspect-ratio: 4/5;
-    border-radius: 8px; border: none; background: #000;
-    transition: transform 0.15s;
-    display: block;
+    border-radius: 8px; background: #000;
+    object-fit: cover; display: block;
   }
-  .gallery .slide-card img { object-fit: cover; }
   .gallery .slide-card .slide-actions {
     display: flex; gap: 6px;
   }
@@ -437,7 +444,8 @@
   }
   .editor-panel .preview-wrap iframe {
     width: 1080px; height: 1350px; border: none; background: transparent;
-    transform: scale(calc((100% - 0px) / 1080)); transform-origin: top left;
+    transform-origin: top left;
+    position: absolute; top: 0; left: 0;
   }
 
   .ed-section { margin-bottom: 18px; }
@@ -466,13 +474,13 @@
     display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px;
   }
   .color-grid .color-item {
-    display: flex; flex-direction: column; align-items: center; gap: 4px;
+    display: flex; flex-direction: column; align-items: center; gap: 3px;
   }
   .color-grid input[type=color] {
-    width: 100%; height: 44px; border: 1px solid var(--cinza-800);
-    border-radius: 8px; cursor: pointer; background: transparent;
+    width: 100%; height: 36px; border: 1px solid var(--cinza-800);
+    border-radius: 8px; cursor: pointer; background: transparent; padding: 2px;
   }
-  .color-grid label { font-size: 0.7rem; color: var(--cinza-400); }
+  .color-grid label { font-size: 0.66rem; color: var(--cinza-400); text-align: center; line-height: 1.1; }
 
   .size-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 6px; }
   .size-grid button {
@@ -839,13 +847,14 @@
       const galleryHtml = slides.map((slide, i) => {
         const n = String(i + 1).padStart(2, '0');
         const slideKey = `${date}::c${carouselNum}::s${n}`;
-        const isEdited = !!getOverrides(slideKey);
-        const imgSrc = isEdited
-          ? renderSlideDataUrl(carousel, slide, i + 1, total, getOverrides(slideKey))
-          : `data/carrosseis/${date}/c${carouselNum}-s${n}.png`;
+        const overrides = getOverrides(slideKey);
+        const isEdited = !!overrides;
+        const previewBlock = isEdited
+          ? `<div class="thumb-frame"><iframe sandbox="allow-same-origin" srcdoc="${escapeHtml(window.SlideRenderer.renderSlideHTML(carousel, slide, i + 1, total, overrides))}" loading="lazy"></iframe></div>`
+          : `<img src="data/carrosseis/${date}/c${carouselNum}-s${n}.png" alt="Slide ${i+1}" data-slide-img onerror="this.style.opacity=0.3" />`;
         return `
           <div class="slide-card ${isEdited ? 'edited' : ''}" data-slide-key="${slideKey}">
-            <img src="${imgSrc}" alt="Slide ${i+1}" data-slide-img onerror="this.style.opacity=0.3" />
+            ${previewBlock}
             ${isEdited ? '<div class="edited-tag">✓ Editado</div>' : ''}
             <div class="slide-actions">
               <button class="btn-edit" data-edit-slide="${i}">✏️ Editar</button>
@@ -881,6 +890,18 @@
         btn.addEventListener('click', () => {
           const idx = parseInt(btn.dataset.dlSlide, 10);
           downloadSlide(date, item, carouselNum, slides[idx], idx + 1, total);
+        });
+      });
+
+      // Auto-scale dos iframes nas thumbs (galeria)
+      requestAnimationFrame(() => {
+        stage.querySelectorAll('.thumb-frame').forEach(frame => {
+          const iframe = frame.querySelector('iframe');
+          if (!iframe) return;
+          const apply = () => { iframe.style.transform = `scale(${frame.clientWidth / 1080})`; };
+          apply();
+          // re-aplica quando o iframe carregar (caso o reflow mude o card)
+          iframe.addEventListener('load', apply, { once: true });
         });
       });
     }
@@ -926,12 +947,16 @@
         </div>
 
         <div class="ed-section">
-          <h4>Cores</h4>
+          <h4>Cores por elemento</h4>
           <div class="color-grid">
-            <div class="color-item"><input type="color" data-edc="laranja" value="${c('laranja','#ea580c')}" /><label>Laranja</label></div>
-            <div class="color-item"><input type="color" data-edc="amarelo" value="${c('amarelo','#facc15')}" /><label>Amarelo</label></div>
-            <div class="color-item"><input type="color" data-edc="verde" value="${c('verde','#16a34a')}" /><label>Verde</label></div>
-            <div class="color-item"><input type="color" data-edc="preto" value="${c('preto','#0a0a0a')}" /><label>Fundo</label></div>
+            <div class="color-item"><input type="color" data-edc="title" value="${c('title','#fafafa')}" /><label>Título</label></div>
+            <div class="color-item"><input type="color" data-edc="body" value="${c('body','#d4d4d8')}" /><label>Corpo</label></div>
+            <div class="color-item"><input type="color" data-edc="eyebrow" value="${c('eyebrow','#facc15')}" /><label>Eyebrow</label></div>
+            <div class="color-item"><input type="color" data-edc="highlight" value="${c('highlight','#ea580c')}" /><label>Destaque</label></div>
+            <div class="color-item"><input type="color" data-edc="stat" value="${c('stat','#facc15')}" /><label>Número</label></div>
+            <div class="color-item"><input type="color" data-edc="stat_label" value="${c('stat_label','#fafafa')}" /><label>Legenda nº</label></div>
+            <div class="color-item"><input type="color" data-edc="background" value="${c('background','#0a0a0a')}" /><label>Fundo</label></div>
+            <div class="color-item"><input type="color" data-edc="theme_tag" value="${c('theme_tag','#22c55e')}" /><label>Tema (capa)</label></div>
           </div>
         </div>
 
@@ -959,7 +984,15 @@
         const html = window.SlideRenderer.renderSlideHTML(carousel, slide, slideNum, total, state);
         iframe.srcdoc = html;
       }
+      function applyPreviewScale() {
+        const wrap = panel.querySelector('.preview-wrap');
+        const iframe = document.getElementById('ed-preview');
+        if (!wrap || !iframe) return;
+        iframe.style.transform = `scale(${wrap.clientWidth / 1080})`;
+      }
       refreshPreview();
+      requestAnimationFrame(applyPreviewScale);
+      window.addEventListener('resize', applyPreviewScale);
 
       panel.querySelectorAll('[data-edf]').forEach(inp => {
         inp.addEventListener('input', () => {
