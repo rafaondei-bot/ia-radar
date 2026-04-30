@@ -1,3 +1,13 @@
 {
-  "pending": []
+  "pending": [
+    {
+      "type": "search",
+      "id": "d378cb11-906c-4fb1-81b0-2c92005e6696",
+      "topic": "Lideranca na era da ia",
+      "slug": "lideranca-na-era-da-ia",
+      "key": "2026-04-30-lideranca-na-era-da-ia",
+      "date": "2026-04-30",
+      "requested_at": "2026-04-30T21:34:12.710Z"
+    }
+  ]
 }
