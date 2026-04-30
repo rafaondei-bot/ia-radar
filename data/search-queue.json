@@ -1,3 +1,11 @@
 {
-  "pending": []
+  "pending": [
+    {
+      "type": "carousel",
+      "id": "f513d9de-ec09-4192-97b5-e948c30810ba",
+      "key": "2026-04-30-marketing-digital",
+      "n": 1,
+      "requested_at": "2026-04-30T18:58:40.656Z"
+    }
+  ]
 }
