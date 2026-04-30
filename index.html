@@ -114,28 +114,41 @@
     scrollbar-width: thin;
   }
 
+  .tab-wrap {
+    display: flex; align-items: stretch; flex-shrink: 0;
+    border: 1px solid var(--cinza-800); border-radius: 100px; overflow: hidden;
+    transition: all 0.15s;
+  }
+  .tab-wrap:hover { border-color: var(--verde); }
+  .tab-wrap:has(.tab.active) { background: var(--verde); border-color: var(--verde); }
+  .tab-wrap:has(.tab.active) .tab { color: var(--branco); }
+  .tab-wrap:has(.tab.active) .tab-trash { color: rgba(255,255,255,0.85); }
+
   .tab {
-    flex-shrink: 0;
     background: transparent;
-    border: 1px solid var(--cinza-800);
+    border: none;
     color: var(--cinza-300);
     font-family: inherit;
     font-size: 0.88rem;
     font-weight: 600;
-    padding: 10px 18px;
-    border-radius: 100px;
+    padding: 10px 8px 10px 18px;
     cursor: pointer;
-    transition: all 0.15s;
+    transition: color 0.15s;
     white-space: nowrap;
   }
+  .tab:hover { color: var(--branco); }
 
-  .tab:hover { border-color: var(--verde); color: var(--branco); }
-
-  .tab.active {
-    background: var(--verde);
-    color: var(--branco);
-    border-color: var(--verde);
+  .tab-trash {
+    background: transparent;
+    border: none;
+    color: var(--cinza-400);
+    font-size: 0.88rem;
+    padding: 0 14px 0 6px;
+    cursor: pointer;
+    line-height: 1;
+    transition: color 0.15s, transform 0.15s;
   }
+  .tab-trash:hover { color: var(--laranja); transform: scale(1.15); }
 
   /* CONTENT */
   .empty-state {
@@ -720,11 +733,21 @@
       const tabs = document.getElementById('tabs');
       tabs.style.display = '';
       if (!STATE.executions.length) { tabs.style.display = 'none'; return; }
-      tabs.innerHTML = STATE.executions.map(e =>
-        `<button class="tab" data-key="${execKey(e)}">${fmtTabLabel(e)}</button>`
-      ).join('');
+      tabs.innerHTML = STATE.executions.map(e => {
+        const k = execKey(e);
+        return `<div class="tab-wrap" data-key="${k}">
+          <button class="tab" data-key="${k}">${fmtTabLabel(e)}</button>
+          <button class="tab-trash" data-trash-key="${k}" title="Excluir esta pesquisa">🗑️</button>
+        </div>`;
+      }).join('');
       tabs.querySelectorAll('.tab').forEach(btn => {
         btn.addEventListener('click', () => selectExecution(btn.dataset.key));
+      });
+      tabs.querySelectorAll('.tab-trash').forEach(btn => {
+        btn.addEventListener('click', async (e) => {
+          e.stopPropagation();
+          await deleteExecution(btn.dataset.trashKey);
+        });
       });
     }
 
@@ -736,6 +759,23 @@
           <p>A primeira pesquisa vai cair aqui em alguns minutos.<br>Volta logo.</p>
         </div>
       `;
+    }
+
+    async function deleteExecution(key) {
+      const exec = STATE.executions.find(e => execKey(e) === key);
+      const label = exec ? (exec.topic || exec.date) : key;
+      if (!confirm(`Excluir "${label}"?\n\nIsso apaga o JSON e todas as imagens dos carrosséis. Não dá pra desfazer.`)) return;
+      try {
+        const r = await fetch(`${WORKER_URL}/delete?key=${encodeURIComponent(key)}`, { method: 'DELETE' });
+        if (!r.ok) {
+          const e = await r.json().catch(() => ({}));
+          throw new Error(e.error || `HTTP ${r.status}`);
+        }
+        // Pequeno delay pra GitHub propagar antes de recarregar
+        setTimeout(() => loadIndex(), 1500);
+      } catch (err) {
+        alert('Erro ao excluir: ' + err.message);
+      }
     }
 
     async function selectExecution(key) {
