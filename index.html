@@ -686,7 +686,10 @@
 
   <script>
     const WORKER_URL = "https://ia-radar-trigger.rafaondei-radar.workers.dev";
-    const STATE = { executions: [], current: null, polling: null };
+    const STATE = {
+      executions: [], current: null, polling: null,
+      autoRefresh: null, lastIndexHash: null, lastCurrentHash: null,
+    };
 
     function fmtDate(iso) {
       try {
@@ -715,6 +718,7 @@
       const res = await fetch('data/index.json?_=' + Date.now());
       const json = await res.json();
       STATE.executions = json.executions || [];
+      STATE.lastIndexHash = JSON.stringify(STATE.executions.map(e => execKey(e)));
       document.getElementById('lastUpdate').innerHTML = json.updated_at
         ? `Última atualização: <strong>${fmtDate(json.updated_at)}</strong>`
         : 'Nenhuma execução ainda';
@@ -727,6 +731,84 @@
       } else {
         renderEmpty();
       }
+    }
+
+    // ===== AUTO-REFRESH (sem F5) =====
+    function showToast(message, onClick) {
+      let toast = document.getElementById('auto-toast');
+      if (!toast) {
+        toast = document.createElement('div');
+        toast.id = 'auto-toast';
+        toast.style.cssText = 'position:fixed;bottom:24px;right:24px;background:#16a34a;color:#fff;font-weight:700;font-size:0.92rem;padding:14px 20px;border-radius:100px;box-shadow:0 12px 30px rgba(0,0,0,0.4);z-index:300;cursor:pointer;transition:opacity 0.3s,transform 0.3s;opacity:0;transform:translateY(20px);max-width:90vw;';
+        document.body.appendChild(toast);
+      }
+      toast.textContent = message;
+      requestAnimationFrame(() => { toast.style.opacity = '1'; toast.style.transform = 'translateY(0)'; });
+      toast.onclick = () => {
+        if (onClick) onClick();
+        toast.style.opacity = '0'; toast.style.transform = 'translateY(20px)';
+      };
+      clearTimeout(toast._t);
+      toast._t = setTimeout(() => {
+        toast.style.opacity = '0'; toast.style.transform = 'translateY(20px)';
+      }, 8000);
+    }
+
+    async function checkForUpdates() {
+      try {
+        const res = await fetch('data/index.json?_=' + Date.now());
+        if (!res.ok) return;
+        const json = await res.json();
+        const newKeys = (json.executions || []).map(e => execKey(e));
+        const newHash = JSON.stringify(newKeys);
+
+        if (newHash !== STATE.lastIndexHash) {
+          const oldKeys = STATE.executions.map(e => execKey(e));
+          const added = newKeys.filter(k => !oldKeys.includes(k));
+          STATE.executions = json.executions || [];
+          STATE.lastIndexHash = newHash;
+          document.getElementById('lastUpdate').innerHTML = json.updated_at
+            ? `Última atualização: <strong>${fmtDate(json.updated_at)}</strong>`
+            : 'Nenhuma execução ainda';
+          renderTabs();
+
+          if (added.length > 0) {
+            const newKey = added[0];
+            const newExec = STATE.executions.find(e => execKey(e) === newKey);
+            const label = newExec ? (newExec.topic || newExec.date) : newKey;
+            showToast(`🆕 Nova pesquisa: ${label}`, () => selectExecution(newKey));
+          }
+
+          if (STATE.current && !newKeys.includes(STATE.current)) {
+            if (STATE.executions.length) await selectExecution(execKey(STATE.executions[0]));
+            else renderEmpty();
+            return;
+          }
+        }
+
+        // Polleia o JSON da aba atual: se mudou, recarrega
+        if (STATE.current) {
+          const cur = await fetch(`data/${STATE.current}.json?_=` + Date.now());
+          if (cur.ok) {
+            const txt = await cur.text();
+            const h = txt.length + ':' + txt.slice(0, 200);
+            if (STATE.lastCurrentHash && h !== STATE.lastCurrentHash) {
+              showToast('🔄 Aba atual atualizada', null);
+              try {
+                const data = JSON.parse(txt);
+                if (!data.key) data.key = STATE.current;
+                renderExecution(data);
+              } catch {}
+            }
+            STATE.lastCurrentHash = h;
+          }
+        }
+      } catch (err) { /* silencioso */ }
+    }
+
+    function startAutoRefresh() {
+      if (STATE.autoRefresh) clearInterval(STATE.autoRefresh);
+      STATE.autoRefresh = setInterval(checkForUpdates, 60000);
     }
 
     function renderTabs() {
@@ -784,9 +866,12 @@
       const res = await fetch(`data/${key}.json?_=` + Date.now());
       if (!res.ok) {
         document.getElementById('content').innerHTML = `<div class="empty-state"><h2>Não consegui carregar ${key}</h2><p>Pode ser que ainda esteja sendo processado.</p></div>`;
+        STATE.lastCurrentHash = null;
         return;
       }
-      const data = await res.json();
+      const txt = await res.text();
+      STATE.lastCurrentHash = txt.length + ':' + txt.slice(0, 200);
+      const data = JSON.parse(txt);
       if (!data.key) data.key = key;
       renderExecution(data);
     }
@@ -1300,7 +1385,7 @@
       }
     });
 
-    loadIndex();
+    loadIndex().then(() => startAutoRefresh());
   </script>
 </body>
 </html>
