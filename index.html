@@ -689,6 +689,7 @@
     const STATE = {
       executions: [], current: null, polling: null,
       autoRefresh: null, lastIndexHash: null, lastCurrentHash: null,
+      expectingKey: null, // key da pesquisa que o usuário disparou — quando aparecer, auto-seleciona
     };
 
     function fmtDate(iso) {
@@ -772,6 +773,19 @@
             : 'Nenhuma execução ainda';
           renderTabs();
 
+          // Se a key que o usuário tá esperando apareceu, abre automaticamente sem precisar de click
+          if (STATE.expectingKey && newKeys.includes(STATE.expectingKey)) {
+            const target = STATE.expectingKey;
+            const exec = STATE.executions.find(e => execKey(e) === target);
+            const label = exec ? (exec.topic || exec.date) : target;
+            STATE.expectingKey = null;
+            // Reseta o intervalo pro padrão de 60s
+            startAutoRefresh();
+            showToast(`✅ Pesquisa pronta: ${label}`, null);
+            await selectExecution(target);
+            return;
+          }
+
           if (added.length > 0) {
             const newKey = added[0];
             const newExec = STATE.executions.find(e => execKey(e) === newKey);
@@ -806,9 +820,9 @@
       } catch (err) { /* silencioso */ }
     }
 
-    function startAutoRefresh() {
+    function startAutoRefresh(intervalMs = 60000) {
       if (STATE.autoRefresh) clearInterval(STATE.autoRefresh);
-      STATE.autoRefresh = setInterval(checkForUpdates, 60000);
+      STATE.autoRefresh = setInterval(checkForUpdates, intervalMs);
     }
 
     function renderTabs() {
@@ -1359,7 +1373,11 @@
         if (!r.ok) throw new Error(data.error || `HTTP ${r.status}`);
 
         searchBtn.textContent = 'Pesquisando...';
-        showSearchStatus(`🔄 Pesquisa enfileirada (id <code>${data.id.slice(0,8)}</code>). Aguardando resultado <strong>${data.key}</strong>. ETA ~${data.eta_minutes} min. Pode fechar a aba — o resultado fica salvo no dashboard.`);
+        showSearchStatus(`🔄 Pesquisa enfileirada (id <code>${data.id.slice(0,8)}</code>). Aguardando resultado <strong>${data.key}</strong>. ETA ~${data.eta_minutes} min. Quando ficar pronta, a aba abre automaticamente.`);
+
+        // Marca a key esperada — o auto-refresh vai abrir sozinho quando aparecer
+        STATE.expectingKey = data.key;
+        startAutoRefresh(15000); // polling 15s enquanto espera
 
         if (STATE.polling) clearInterval(STATE.polling);
         STATE.polling = setInterval(async () => {
