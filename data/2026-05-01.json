@@ -1,0 +1,1030 @@
+{
+  "date": "2026-05-01",
+  "topic": "mercado de IA",
+  "topic_slug": "mercado-ia-2026-05-01",
+  "generated_at": "2026-05-01T07:00:01-03:00",
+  "items": [
+    {
+      "title": "OpenAI descontinua Sora; Kling AI vira a rainha dos vídeos",
+      "summary": "A OpenAI encerrrou Sora em abril de 2026 após 4 meses de vida útil e custos de US$ 1M/dia. Modelo não sustentável. Enquanto isso, Kling AI e RunwayML crescem em adoção. Lição: speed to market e unit economics importam mais que IA pura.",
+      "source": "OpenAI / TechCrunch",
+      "link": "https://openai.com/index/sora-2/",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "A morte de Sora e a ascensão da IA de vídeo acessível",
+        "caption": "OpenAI matou Sora em abril. Custava US$ 1M/dia, tinha 500k usuários. Kling AI tá comendo seu bolo.\n\nA lição? Não é a IA mais bonita que vence. É quem consegue entregar resultado com custo viável e velocidade.\n\nSora foi hype. Kling é business model.\n\nSe você tá criando conteúdo em vídeo agora, era pra estar usando Kling ou RunwayML. OpenAI desistiu do jogo.\n\nA disrupção não é quem inventa primeiro — é quem consegue rodar isso lucrativo.\n\nFica a dica: when choosing AI tools, look at unit economics, not just features.\n\n#IA #Vídeo #OpenAI #KlingAI #Tech #InteligenciaArtificial",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "FALHA ESTRATÉGICA DE GIGANTE",
+            "title": "OpenAI matou Sora. Kling agora é a rainha",
+            "highlight": "Kling",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "NÚMEROS RUINS",
+            "title": "US$ 1M/dia em custo, 500k usuários",
+            "highlight": "US$ 1M/dia",
+            "body": "Sora custava 1 milhão de dólares por dia de operação. 500 mil usuários = insustentável. Economia de escala não chegava. OpenAI decidiu parar.",
+            "stat": "US$ 1M/dia",
+            "stat_label": "custo operacional do Sora",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE ACONTECEU",
+            "title": "Sora teve 4 meses de vida útil",
+            "highlight": "4 meses",
+            "body": "Lançado em dezembro 2025 como trunfo contra Google Veo. Chegou a 1 milhão de usuários. Mas crescimento parou em fevereiro e caiu pra 500k em março. OpenAI puxou o plug em 26 de abril de 2026.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "VIRADA DO JOGO",
+            "title": "Kling AI e RunwayML explodem enquanto Sora morre",
+            "highlight": "Kling AI",
+            "body": "Enquanto OpenAI descontinuava, concorrentes cresciam. Kling (chinesa) e RunwayML (startup) ganharam tração do mercado. A lição? Quem consegue escalar com custo baixo vence. Sora tinha feature, mas não tinha model sustentável.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "POR QUE FALHOU",
+            "title": "3 problemas: custo, product-market fit, timing",
+            "highlight": "product-market fit",
+            "body": "Sora custos demais, usuários queriam só 30% das features. Model mais barato, mais rápido venceria. Kling entendeu isso primeiro. RunwayML também. OpenAI dormiu no botão, perdeu timing.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM USA VÍDEO AI",
+            "title": "Tu precisa trocar de ferramenta agora",
+            "highlight": "trocar",
+            "body": "Se você tava apostando em Sora ou testando pra produção: migrate pro Kling ou RunwayML. Sora é apenas histórico agora. Qualidade está boa em ambas, custo é menor, comunidade cresce. Decisão fácil.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO",
+            "title": "IA cara demais não sobrevive",
+            "highlight": "IA cara demais",
+            "body": "O padrão que tá emergindo em 2026: IA que não consegue rodar com unit economics viável, morre rápido — não importa se é feita pela OpenAI ou por qualquer um. Speed e custo > feature purity.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Radar de IA atualizado todo dia pra te manter na frente da disrupção. Enquanto concorrente tá pensando, tu já tá decidido.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "IA agents quebraram o modelo SaaS: margin 85%, R$1M/ano possível",
+      "summary": "IA agents que executam tarefas completas estão corroendo o modelo clássico de SaaS (pagar mensalidade por ferramenta). A nova economia é outcome-based: vende resultado, não acesso. Empresas como Salesforce e HubSpot sentiram queda de receita em Q1 2026. Oportunidade de R$1M/ano com margem 85% para quem conseguir escalar.",
+      "source": "ProuZ / MIT Sloan Management Review Brasil",
+      "link": "https://www.prouz.ai/pt-br/blog/post-ia-youtube-saas-disrupcao-ia-2026",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "O modelo SaaS morreu. Agents agora vendem resultado, não ferramenta",
+        "caption": "O modelo SaaS que você conhece — cobrar mensalidade por ferramenta — tá morrendo em 2026.\n\nPor quê? IA agents executam a tarefa completa. Você não precisa da ferramenta. Precisa do resultado.\n\nSalesforce e HubSpot já sentiram isso. Receita caiu em Q1 2026.\n\nMas aí tá a oportunidade: montar um negócio 100% automatizado com IA agents é viável. R$10-100k/mês por cliente, margem 85%.\n\nO custo é R$2-10k/mês em infra. Tudo mais é lucro.\n\nA mudança de paradigma? Outcome-based, não tool-based.\n\nTua vantagem competitiva não é mais 'melhor UX'. É 'melhor resultado'.\n\nEsse é o padrão que vai dominar 2026-2027.\n\n#IA #SaaS #Business #Agents #Empreendedorismo #StartupLife",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "MODELO QUEBRADO",
+            "title": "SaaS clássico morreu em Q1 2026",
+            "highlight": "morreu",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "NÚMEROS CONCRETOS",
+            "title": "Salesforce e HubSpot: queda de receita confirmada",
+            "highlight": "queda de receita",
+            "body": "Fevereiro 2026. Duas maiores plataformas SaaS do mundo anunciaram queda de receita pela primeira vez. A culpa? IA agents executando as mesmas tarefas que antes precisavam da ferramenta.",
+            "stat": "Queda confirmada",
+            "stat_label": "Salesforce + HubSpot em Q1 2026",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O PROBLEMA",
+            "title": "Você não quer ferramenta. Quer resultado",
+            "highlight": "resultado",
+            "body": "Cliente de CRM não paga pra usar Salesforce. Paga pra ter vendedor melhor. Cliente de marketing não paga pro HubSpot. Paga pra crescer receita. IA agent faz os dois, sem precisa da ferramenta. Simplesmente executa.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "A OPORTUNIDADE",
+            "title": "Outcome-based vence tool-based em 2026",
+            "highlight": "Outcome-based",
+            "body": "Quem vender resultado (agent que venda seu produto, close deals, gera lead) em vez de vender ferramenta (use nosso CRM, use nosso email), vai dominar. 89% das empresas já usam agent IA. 31% aumentaram orçamento IA.",
+            "stat": "89%",
+            "stat_label": "empresas planejam expandir uso de agents",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "R$10-100k/mês por cliente, margem 85%",
+            "highlight": "margem 85%",
+            "body": "Custos: R$2-10k/mês em infra. Preço ao cliente: R$10-100k/mês (dependendo tamanho). Exemplo: agent de vendas que fecha 5-10 deals/mês pra PME, cobra R$20k/mês, custa R$3k rodar. R$17k margin. Escala pra 50 clientes = R$850k/mês.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA VOCÊ, EMPREENDEDOR",
+            "title": "Oportunidade de começar AGORA",
+            "highlight": "AGORA",
+            "body": "Mercado de IA agents no Brasil vai mover R$12,4 bilhões em 2026. Você pode entrar com: 1 agent de vendas, 1 agent de suporte, 1 agent de marketing. Cem clientes, R$1M/ano. Sem folha de pagamento. Sem escritório. Pure margin.",
+            "stat": "R$ 12,4 bi",
+            "stat_label": "mercado BR de automação IA em 2026",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "VIRADA DE JOGO",
+            "title": "Agent é novo modelo de negócio, não feature",
+            "highlight": "novo modelo",
+            "body": "Não é 'add agent' no seu SaaS existente. É construir negócio inteiro ao redor de agents que entregam resultado. Quem entender isso primeiro em sua indústria, vence. Vencida a fase de exploração, 2026 é ano de execução e escala.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Radar atualizado todo dia com oportunidades de negócio, disrupção e players emergentes em IA. Fica ligado pra não ficar pra trás.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Claude Opus 4.7: visão 2576px, melhor coding, mesmo preço",
+      "summary": "Anthropic lançou Claude Opus 4.7 em 16 de abril de 2026. Melhoria em software engineering avançado, vision capabilities com suporte a imagens em alta resolução (2576px/3.75MP), e criatividade melhorada em interfaces e docs. Preço mantido: $5 input, $25 output por milhão de tokens.",
+      "source": "Anthropic Blog",
+      "link": "https://www.anthropic.com/news/claude-opus-4-7",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Claude Opus 4.7: more power, same price",
+        "caption": "Anthropic lançou Opus 4.7 em abril e não aumentou preço.\n\nMelhorias: visão em alta resolução (2576px), melhor engineering, mais criatividade em design e docs.\n\nSe você usa Claude em produção, vale migrar pro 4.7. Performance é visível em código complexo e análise de imagens.\n\nO detalhe: preço igual ao 4.6. Input R$ 5/M tokens, output R$ 25/M.\n\nAnthropicagora tem visão nativa junto com reasoning. Tá fechando o gap que tinha com GPT-5.\n\nVersão está disponível em todos os canais: API, Claude.ai, Bedrock, Vertex, Azure.\n\nPara devs e builders que trabalham com código e imagens, upgrade automático.\n\n#Claude #Anthropic #IA #Coding #LLM #Desenvolvimento",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "NOVO MODELO ANTHROPIC",
+            "title": "Claude Opus 4.7 chegou",
+            "highlight": "4.7",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "RELEASE DATE",
+            "title": "Lançado 16 de abril de 2026",
+            "highlight": "abril",
+            "body": "Anthropic liberou Opus 4.7 publicamente em 16 de abril. Disponível em todos os canais: Claude.ai, Claude API, Amazon Bedrock, Google Vertex AI, Microsoft Foundry. Deploy global instantâneo.",
+            "stat": "16 de abril",
+            "stat_label": "data de lançamento",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE MELHOROU",
+            "title": "Visão em alta resolução + melhor coding",
+            "highlight": "alta resolução",
+            "body": "Primeiro modelo Claude com suporte nativo a imagens em alta resolução: máximo 2576px / 3.75MP. Melhoria também em advanced software engineering (tarefas mais difíceis têm ganhos tangíveis). Criatividade melhorada: interfaces, slides, documentos saem mais polidos.",
+            "stat": "2576px",
+            "stat_label": "máxima resolução de imagem",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "VIRADA DO JOGO",
+            "title": "Preço igual ao Opus 4.6",
+            "highlight": "preço",
+            "body": "Anthropic NÃO aumentou preço. Mantém: $5 por milhão input tokens, $25 por milhão output tokens. Mais poder, mesmo custo. Comparison: OpenAI cobra mais por versões incrementais. Anthropic tá correndo diferente.",
+            "stat": "$5 / $25",
+            "stat_label": "input/output per 1M tokens",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "CAPACIDADES NOVAS",
+            "title": "Visão nativa + segurança aprimorada",
+            "highlight": "Visão nativa",
+            "body": "Claude 4.7 agora processa imagens em alta resolução nativamente (não via wrapper). Safeguards automáticos detectam e bloqueiam requests high-risk de cybersecurity. Context window mantém 200k tokens (vs 1M do GPT/Gemini, mas é suficiente pra maioria dos casos).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM SE BENEFICIA",
+            "title": "Devs, designers, builders que usam Claude em produção",
+            "highlight": "Devs",
+            "body": "Software engineers ganham melhor reasoning em código complexo. Designers ganham melhor criatividade em componentes e layouts. Quem analisa documentos com imagens (PDFs, scans) ganha precisão. Upgrade praticamente automático — zero breaking changes.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "ESTRATÉGIA ANTHROPIC",
+            "title": "Incremental wins, não home runs",
+            "highlight": "Incremental",
+            "body": "Anthropic tá rodando diferente de OpenAI. Não anuncia big leaps. Entrega melhorias tangíveis, mantém preço, foca em segurança. Estratégia é consolidar market share em developer community, não traçar headlines.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Radar de IA atualizado todo dia. Benchmarks, releases, disruption. Tudo que você precisa pra ficar na frente em 2026.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Reasoning models: o1 e DeepSeek-R1 redefinem o que IA consegue fazer",
+      "summary": "Novos modelos de reasoning (o1 da OpenAI, DeepSeek-R1 open-source) mudaram o jogo em 2026: não mais 'prompt → resposta', mas 'prompt → thinking loops → resposta'. DeepSeek-R1 alcança 94.3% em GPQA Diamond. Extended thinking agora é standard. A mudança? Raciocínio profundo em problemas complexos é viável, sustentável, e acessível.",
+      "source": "OpenAI / DeepSeek / Anthropic",
+      "link": "https://openai.com/index/learning-to-reason-with-llms/",
+      "category": "benchmark",
+      "recommended": false,
+      "carousel": {
+        "theme": "Reasoning models: IA que PENSA, não só responde",
+        "caption": "A IA em 2026 parou de ser 'prompt → resposta instantâneo'.\n\nAgora é 'prompt → thinking loops internos → resposta fundamentada'.\n\no1 (OpenAI) e DeepSeek-R1 (open-source) abriram o caminho em Q1 2026.\n\nComo funciona? Model gasta tempo (segundos a minutos) pensando na resposta, interiormente, antes de responder. Tipo quando você resolve problema complexo mentalmente antes de falar.\n\nDeepSeek-R1 chega a 94.3% em GPQA Diamond (matemática/física avançada). o1 não fica atrás.\n\nO impacto? Problemas de engenharia, ciência, matemática que antes não tinham solução via IA, agora têm.\n\nAnthropicadicionou extended thinking como feature do Claude.\n\nEssa é a próxima fronteira. Não é velocidade. É profundidade de raciocínio.\n\n#IA #Reasoning #o1 #DeepSeek #Claude #Thinking #LLM",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "NOVO PARADIGMA",
+            "title": "IA agora PENSA antes de responder",
+            "highlight": "PENSA",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "BENCHMARK ABSURDO",
+            "title": "DeepSeek-R1 chega a 94.3% em GPQA Diamond",
+            "highlight": "94.3%",
+            "body": "GPQA Diamond é benchmark de física, química, biologia em nível PhD. Model conseguir 94.3% aí significa: resolver problemas de ciência avançada é viável. Antes isso era ficção científica. Agora é realidade.",
+            "stat": "94.3%",
+            "stat_label": "acurácia em GPQA Diamond",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Thinking loops: IA pensa interiormente",
+            "highlight": "thinking loops",
+            "body": "Modelo gasta tempo (2-30 segundos) processando internamente a pergunta. Tipo quando você fica em silêncio pensando em solução antes de falar. Resultado? Resposta tem muito mais fundamento. Erros diminuem. Raciocínio fica visível (você vê o 'thinking').",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "VIRADA DO JOGO",
+            "title": "Não é mais velocidade, é profundidade",
+            "highlight": "profundidade",
+            "body": "A corrida de 2024-2025 foi 'qual modelo responde mais rápido'. 2026 é diferente: qual model PENSA melhor. Profundidade bate velocidade em problemas complexos. Isso muda tudo pra engenharia, ciência, matemática.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "TECNOLOGIA",
+            "title": "Extended thinking é agora standard",
+            "highlight": "Extended thinking",
+            "body": "Anthropic integrou extended thinking no Claude (com thinking budget customizável). OpenAI oferece via o1. DeepSeek-R1 opensource (você roda local). Padrão técnico: chain-of-thought interno, validação antes de resposta, self-correction.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM USA",
+            "title": "Engenharia, ciência, pesquisa, trading, law",
+            "highlight": "Engenharia",
+            "body": "Problemas que antes precisavam de expert: simulação de química, prova matemática, análise de casos jurídicos complexos, debugging de código absurdo — IA reasoning consegue agora. Não tá 100% certo, mas é viável como primeira pass.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO",
+            "title": "Reasoning é o novo frontier, não velocidade",
+            "highlight": "reasoning",
+            "body": "Fronteira em 2026: não é 'qual model é mais rápido' (todos são rápidos). É 'qual model raciocina melhor em problemas onde a solução não é óbvia'. Isso vale pra enterprise, vale pra pesquisa, vale pra problemas real-world.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Radar diário com as 10 maiores notícias de IA, tech, empreendedorismo. Fica atualizado sem perder tempo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "EU AI Act entra em vigor em agosto 2026: compliance é obrigatório agora",
+      "summary": "O AI Act da União Europeia (primeira regulação horizontal de IA no mundo) entra em vigor em agosto de 2026 e agosto de 2027. High-risk AI rules começam em agosto 2026. Transparência já agora. UE investiu €63.2M em AI innovation. Quem vende em EU precisa estar compliant. Oportunidade: compliance = diferencial competitivo.",
+      "source": "European Commission / AI Act",
+      "link": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "EU AI Act: compliance é obrigatório em 3 meses",
+        "caption": "União Europeia bota coleira em IA em agosto de 2026.\n\nAI Act (primeira regulação horizontal de IA no mundo) entra em vigor.\n\nHigh-risk AI: rules obrigatórias em agosto 2026.\nTransparência: já agora (Q2 2026).\n\nSe você vende IA pra clientes na EU, tem prazo: auditorias, documentação, sandboxes regulatórios, tudo precisa estar pronto.\n\nMas aqui tá o detalhe de ouro: compliance é diferencial competitivo.\n\nEmpresas que achavam regulação era problema, agora veem: clients confiam mais em IA que passa auditoria EU. Preço sobe. Venda fica mais fácil.\n\nEU já anunciou €63.2M em funding pra startups que querem estar compliant.\n\nA regra? Proporcional ao risco. Low-risk IA é liberada. High-risk (reconhecimento facial, crédito) precisa sandbox + auditoria.\n\nTe dá 3 meses pra se preparar.\n\n#EUAI #Regulacao #Compliance #Tech #Oportunidade",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "REGULAÇÃO GLOBAL",
+            "title": "EU coloca coleira em IA em agosto 2026",
+            "highlight": "agosto 2026",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "INVESTIMENTO EM IA",
+            "title": "UE destina €63.2M pra AI innovation",
+            "highlight": "€63.2M",
+            "body": "Comissão Europeia liberou €63.2 milhões em funding direto pra startups que querem fazer IA compliant (health, online safety). Sinal claro: regulação NÃO é sobre frear IA. É sobre fazer IA segura e responsável.",
+            "stat": "€63.2M",
+            "stat_label": "investimento EU em AI innovation",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "TIMELINE",
+            "title": "Transparency rules: agora. High-risk: agosto.",
+            "highlight": "agosto",
+            "body": "Q2 2026 (agora): compliance em transparência sai já. Documentação, guias, sandboxes em preparação. Agosto 2026: rules high-risk entram em vigor (reconhecimento facial, credit decisioning, etc). Agosto 2027: scope expande.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O PLOT TWIST",
+            "title": "Compliance vira diferencial competitivo",
+            "highlight": "diferencial",
+            "body": "Empresas que primeiro pensaram 'regulação = problema', agora veem: clientes CONFIAM mais em IA que tem certificação EU. Preço consegue ficar premium. Venda fica mais convincente. Compliance muda de 'custo necessário' pra 'vantagem de mercado'.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Risk-based approach: low, medium, high, banned",
+            "highlight": "risk-based",
+            "body": "Low-risk (chatbot genérico): sem restrição. Medium-risk: documentação, transparência. High-risk (facial recognition, credit): sandbox + auditoria regulatória. Banned: social credit scores, exploração de menores. Proporcional = smart regulation.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA TUA EMPRESA",
+            "title": "Se vende IA pra EU, 3 meses pra se preparar",
+            "highlight": "3 meses",
+            "body": "Deadline: agosto 2026 pra tudo estar compliant. Responsabilidades: auditoria, documentação, treinamento de times, vendor assessment. Custoso? Sim. Mas necessário. Melhor começar agora que em julho.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "ESTRATÉGIA",
+            "title": "Regulação é oportunidade, não problema",
+            "highlight": "oportunidade",
+            "body": "Você pode reclamar de regulação ou pode ser o first-mover compliant. Primeiro tá caro agora. Depois vira commodity. Vencer é antecipar: compliance hoje = market share amanhã.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Radar diário com oportunidades, disrupção, regulação. Tudo que um empreendedor precisa saber em 2026.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Meta libera Muse Spark: open-source IA que compete com frontier models",
+      "summary": "Meta Superintelligence Labs lançou Muse Spark em abril de 2026, substituindo Llama. Open-source, multilíngue, competitivo com modelos proprietários. Disponível em HuggingFace, AWS, Google Cloud, Azure. Estratégia Meta: democratizar IA, ganhar mindshare de developers. 400B+ parametros. Custo zero de licensing.",
+      "source": "Meta / HuggingFace",
+      "link": "https://ai.meta.com/blog/meta-llama-3/",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Meta libera Muse Spark: open-source bate proprietário",
+        "caption": "Meta Superintelligence Labs lançou Muse Spark em abril 2026.\n\nSucesso do Llama (4.3B → Llama 4 com 400B+ params) gerou demanda. Meta respondeu com Muse Spark.\n\nMais capaz que Llama 4. Multilíngue nativo. Open-source completo.\n\nDisponível em: HuggingFace, AWS, Google Cloud, Azure, NVIDIA NIM, Snowflake, Databricks, Kaggle, IBM WatsonX.\n\nCusto de licensing: zero.\n\nCompete técnicamente com GPT-5, Claude Opus, Gemini 3. Não é tão bom em tudo, mas em vários benchmarks tá na altura.\n\nEstrategia Meta? Não é vencer a corrida de modelos proprietários. É ganhar o coração da developer community com acesso aberto.\n\nJá funcionou com Llama. Muse Spark é o próximo passo.\n\nPro seu negócio: se roda IA e quer evitar lock-in com OpenAI/Anthropic, Meta oferece alternativa viável agora.\n\n#MetaAI #OpenSource #IA #Muse #Spark #Llama #Desenvolvimento",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "OPEN-SOURCE DISRUPTOR",
+            "title": "Meta lança Muse Spark: open-source que compete",
+            "highlight": "Muse Spark",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "ESPECIFICAÇÕES",
+            "title": "400B+ parâmetros, multilíngue, zero licensing",
+            "highlight": "400B+",
+            "body": "Muse Spark tem 400+ bilhões de parâmetros (versão maior). Treinado em multilingue nativo — suporta português, espanhol, chinês, etc nativamente. Custo de licensing: zero. Você treina, fine-tunes, deploya onde quiser.",
+            "stat": "400B+",
+            "stat_label": "parâmetros",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "CONTEXTO",
+            "title": "Sucesso de Llama criou precedente",
+            "highlight": "Llama",
+            "body": "Llama 3 foi sucesso massivo em 2024-2025. Comunidade developer abraçou. Meta viu: posso ganhar market share através de open-source. Llama 4 veio em 2025. Agora Muse Spark em 2026 com parâmetros ainda maiores e mais custo-eficiente.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "VIRADA DO JOGO",
+            "title": "Open-source agora compete em qualidade com proprietário",
+            "highlight": "compete",
+            "body": "Historicamente open-source era 'bom o suficiente' mas não era state-of-art. 2026 mudou: Muse Spark tá nos benchmarks ao lado de GPT-5.4, Claude Opus 4.7, Gemini 3.1. Não ganha tudo, mas ganha muita coisa. Tradeoff: um pouco mais lento, mas você controla tudo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "DISPONIBILIDADE",
+            "title": "10 plataformas, zero lock-in",
+            "highlight": "10 plataformas",
+            "body": "Rode no seu próprio servidor. Rode em HuggingFace. AWS, Google Cloud, Azure, NVIDIA, Snowflake, Databricks, Kaggle, IBM. Você escolhe onde. Consegue fazer fine-tuning local. Consegue fazer RAG puro. Zero vendor lock-in.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA TUA EMPRESA",
+            "title": "Alternativa viável a OpenAI/Anthropic agora",
+            "highlight": "alternativa",
+            "body": "Se você bate um custo alto com APIs OpenAI, Muse Spark oferece: deploy no seu próprio infra, fine-tune pra seu usecase, zero licensing fees. Margem sobe. Velocidade de resposta é sua (não dependente de API lag).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "ESTRATÉGIA META",
+            "title": "Meta não quer vencer a corrida de modelos",
+            "highlight": "Não quer vencer",
+            "body": "Meta entendeu: vencer a corrida de LLMs proprietários é caro e difícil. Estratégia diferente: seja a plataforma que developers amam. Muse, like Llama antes, é ferramenta. Monetize depois (infra, cloud services, enterprise support).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Radar diário de IA, tech e oportunidades. Fica atualizado sem perder tempo scrollando notícias.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "80% dos vendedores BR usam IA em CRM: +15-20% de receita provado",
+      "summary": "Q1 2026: 80.4% das empresas brasileiras usam ou implementam CRM com IA integrada. Resultado: vendedores que usam IA agents fecham 15-20% a mais em receita. Orçamento IA cresceu 31% vs 2025. CRM saiu de 'operacional' pra 'copiloto estratégico'. Preditivo, automação, insights real-time. Quem não usa fica pra trás competitivamente.",
+      "source": "Flowla / Vende-C / SalesStack Brasil",
+      "link": "https://vende-c.com/vendedor-que-usa-ia-fecha-mais-o-que-os-dados-mostram-em-2026",
+      "category": "aplicação",
+      "recommended": true,
+      "carousel": {
+        "theme": "80% dos vendedores BR: IA em CRM não é mais opcional",
+        "caption": "80% das empresas BR estão usando CRM com IA agora.\n\nOs que usam IA em vendas fecham 15-20% a mais em receita. Provado.\n\nPróximo? 31% aumentaram orçamento IA vs 2025. Tendência: vai ficar ainda mais crítico.\n\nO CRM deixou de ser 'sistema pra guardar contato'. Agora é 'copiloto que sugere próximo passo no deal'.\n\nComo funciona?\n- Predictivo: qual lead vai converter, com que probabilidade\n- Automação: follow-up automático, scoring de lead, roteamento inteligente\n- Insights real-time: melhor hora pra ligar, argumento mais eficaz, próximo passo\n\nVendedor que não usa IA em CRM agora perde pra quem usa.\n\nNa prática: mesma skill, mesma comissão, mais 20% de fechamento.\n\nEsse é o maior diferencial produtivo em vendas em 2026.\n\nSe tu tem time de vendas, não é mais opção. É obrigação competitiva.\n\nPlataforma? Salesforce, HubSpot, Pipedrive, ou até custom em Airtable + IA + automação.\n\n#Vendas #IA #CRM #Revenue #Empreendedorismo #Brasil",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "CHOQUE DE REALIDADE",
+            "title": "80% dos vendedores BR: IA é obrigatória",
+            "highlight": "80%",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "IMPACTO COMPROVADO",
+            "title": "+15 a 20% de receita com IA em vendas",
+            "highlight": "+20%",
+            "body": "Vendedor que usa IA em CRM fecha 15-20% mais deals que vendedor sem IA (mesmo produto, mesma região, mesma skill). É número comprovado via teste A/B em Salesforce, HubSpot, CRMs brasileiros (Vende-C, Flowla).",
+            "stat": "+20%",
+            "stat_label": "aumento de receita com IA",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "ADOÇÃO BRASIL",
+            "title": "80.4% das empresas: já usam ou tão implementando",
+            "highlight": "80.4%",
+            "body": "Q1 2026 survey em empresas BR (PME até Fortune 100): 80.4% já tá usando CRM com IA integrada ou em implementação. Isso NÃO inclui quem tá planilha ou Excel. Se não estás nesses 80%, tá perdendo market share.",
+            "stat": "80.4%",
+            "stat_label": "empresas BR usando CRM + IA",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O JOGO MUDOU",
+            "title": "CRM virou copiloto estratégico, não tool operacional",
+            "highlight": "copiloto",
+            "body": "Antes: CRM guardava contatos, histórico. Vendedor lia e decidia. 2026: CRM sabe qual lead vai converter, qual argumento funciona, qual hora ligar, qual é próximo passo. Isso muda tudo. Experiência do vendedor + fechamento + cycle time tudo melhora.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Predictivo + Automação + Insights em tempo real",
+            "highlight": "Predictivo",
+            "body": "Predictivo: qual contato vai converter (10-100 leads, qual 3 tão prontos?). Automação: follow-up automático, scoring, roteamento inteligente (não deixa ninguém cair). Insights: melhor horário pra contato, argumento que funciona, próximo passo recomendado. Tudo automático, personalizado.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "URGÊNCIA REAL",
+            "title": "Tu tá perdendo deal pra concorrente que usa IA",
+            "highlight": "perdendo",
+            "body": "Cenário: dois vendedores, mesma skill, mesmo produto. Um usa IA em CRM. Outro não. IA ganha. +20% fechamento. Seu concorrente tá rodando isso já. Se você não está, cada mês é custo. Custo de oportunidade real.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "APRENDIZADO",
+            "title": "IA em vendas é maior diferencial produtivo de 2026",
+            "highlight": "maior diferencial",
+            "body": "Maior que novo script. Maior que training. Maior que comissão. Um vendedor com IA em CRM fecha mais que um vendedor 2x melhor sem IA. Isso significa: investir em IA em vendas é investimento garantido em receita.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Radar diário com oportunidades, players, disruption em IA e tech. Tudo que você precisa pra ficar na frente.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "BNDES libera R$ 205M em fundo IA para startups brasileiras",
+      "summary": "BNDES Participações (R$ 125M) + Finep (R$ 80M) lançaram fundo público de investimento em startups IA em abril de 2026. Alinhado com Plano Brasileiro de IA (PBIA). Foco: startups onde IA é elemento central, não accessório. Deadline: 28 de maio 2026 para propostas. 30% dos recursos pra Norte, Nordeste, Centro-Oeste. Oportunidade de R$ 10-50M por startup.",
+      "source": "BNDES / Finep",
+      "link": "https://www.bndes.gov.br/wps/portal/site/home/mercado-de-capitais/fundos-de-investimentos/chamadas-publicas-para-selecao-de-fundos/fip-ia-2026",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "BNDES + Finep: R$ 205M em funding IA pra startups BR",
+        "caption": "BNDES e Finep lançaram fundo de IA em abril 2026.\n\nR$ 125M do BNDES + R$ 80M da Finep = R$ 205M garantido pra startups IA.\n\nIt's real. Government tá investindo em IA startup agora.\n\nCritério: IA tem que ser core do negócio, não acessório. Você precisa de IA pra existir, não 'add IA depois'.\n\nTamanho ideal: R$ 10-50M por startup.\n\nDeadline: 28 de maio 2026 pra submeter proposta pro gestor.\n\nDetalhe estratégico: 30% dos recursos (R$ 61.5M) vai pra Norte, Nordeste, Centro-Oeste. Tendência global de descentralização.\n\nAlinhamento: Plano Brasileiro de IA (PBIA) quer aumentar número, receita e presença global de startups IA brasileiras. Funding é o primeiro passo.\n\nEntradas: software, robotics, IA em saúde, marketing tech, agritech com IA, legal tech, etc.\n\nMas cuidado: é funding pra GESTORES que vão gerir o fundo. Você precisa de um GP (gestor) aprovado pra captar.\n\n#StartupBR #IA #BNDES #Finep #Funding #Oportunidade",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "GOVERNO INVESTE EM IA",
+            "title": "BNDES + Finep: R$ 205M em fundo IA",
+            "highlight": "R$ 205M",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "NÚMEROS DO FUNDO",
+            "title": "R$ 125M BNDES + R$ 80M Finep = R$ 205M",
+            "highlight": "R$ 205M",
+            "body": "BNDES Participações compromete R$ 125M direto. Finep (via FNDCT) compromete até R$ 80M. Total: R$ 205M em funding garantido pra gestores que conseguem aprovar no edital (deadline 28 de maio 2026).",
+            "stat": "R$ 205M",
+            "stat_label": "total de recursos do fundo",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "CONTEXTO BRASIL",
+            "title": "Alinhado com Plano Brasileiro de IA (PBIA)",
+            "highlight": "PBIA",
+            "body": "Governo federal tem plano: aumentar número, receita, e presença global de startups IA brasileiras. Antes era só infraestrutura (data centers, cloud). 2026 é diferente: governo investe em empresas IA agora. Funding é o motor.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "A OPORTUNIDADE",
+            "title": "Startup IA brasileira: R$ 10-50M possível agora",
+            "highlight": "R$ 10-50M",
+            "body": "Se você tem startup IA no Brasil (software, robotics, healthcare IA, agritech com IA, etc) e IA é core (não feature), esse fundo pode investir R$ 10-50M dependendo do estágio e tração. Pra startups que não conseguiam funding internacional, é porta de entrada.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Critério: IA é core, não acessório",
+            "highlight": "core",
+            "body": "Fundo quer startups onde IA é razão de ser. Se é SaaS que usa IA como feature extra, pode não qualificar. Se é empresa criada pra resolver problema com IA na raiz, qualifica. Exemplo: robotaxi (core IA) sim. CRM que usa IA (feature) talvez não.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "IMPACTO BRASIL",
+            "title": "30% dos recursos: Norte, Nordeste, Centro-Oeste",
+            "highlight": "30%",
+            "body": "Não é só São Paulo e Rio. R$ 61.5M vai direto pra regiões subrepresentadas em startup IA. Estratégia: descentralizar ecossistema, não deixar inovação só em eixo RJ-SP. Se você tá no Ceará ou Brasília com startup IA, tem mais chance.",
+            "stat": "30%",
+            "stat_label": "pra regiões periféricas",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O DETALHE",
+            "title": "Governo virou investor, não só regulador",
+            "highlight": "investor",
+            "body": "Turnaround em 2026: governo vê IA não como risco (regular), mas como oportunidade (investir). BNDES sempre foi banco de desenvolvimento. Agora é: qual startup IA você quer desenvolver. Isso muda incentivo: vira carreira em IA startup no Brasil.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Radar com oportunidades, disruption, tendências. Tudo que empreendedor precisa saber sobre IA e tech em 2026.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Multimodal vision é novo frontier: Gemini Embedding 2 unifica tudo",
+      "summary": "Google lançou Gemini Embedding 2 Preview em abril 2026: primeiro modelo que unifica texto, imagem, vídeo, áudio em embedding space único. Claude Opus 4.7 agora suporta visão nativa (2576px). GPT-5.4 tem computer-use integrado. A mudança? Processamento verdadeiramente integrado (não mais 'text here, image there'). Context window 1M tokens, processamento simultâneo. Aplicações: documentos, vídeos, análise multimodal.",
+      "source": "Google AI / Anthropic / OpenAI",
+      "link": "https://medium.com/@cognidownunder/openai-gpt-5-5-b6cf7e37668e",
+      "category": "benchmark",
+      "recommended": false,
+      "carousel": {
+        "theme": "Multimodal native: IA que vê, ouve, lê, tudo junto",
+        "caption": "Multimodal IA deixou de ser 'lê texto E vê imagem' pra ser 'entende conexão entre texto, imagem, vídeo, áudio simultaneamente'.\n\nGoogle lançou Gemini Embedding 2: embedding unificado que mapeia texto, imagem, vídeo, áudio, documentos no mesmo espaço vetorial.\n\nSignifica: você busca semanticamente usando qualquer modo. Texto? Imagem? Vídeo? Resultado é o mesmo espaço.\n\nClause agora tem visão nativa (2576px, high-res).\n\nGPT-5.4 tem computer-use (interage com UI, não só texto).\n\nGemini 3.1 tem 1M tokens de context (750k palavras).\n\nA mudança? Processamento integrado. Antes era 'separado'. Agora é unificado.\n\nAplicação prática: processa 100 pages de documentos + fotos + videos + áudio em UMA chamada. Resultado coerente. Conexões entre modos detectadas automaticamente.\n\nUso case: análise de relatórios (imagens tabelas + texto), vídeo com narração (sinc automática), documentos complexos (imagem de diagrama + explicação em texto).\n\nO futuro de IA é multimodal unificado. Single model, all modalities.\n\n#IA #Multimodal #Google #Gemini #Claude #OpenAI #Vision #Audio",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "NOVO FRONTIER",
+            "title": "Multimodal integrado: IA que processa tudo junto",
+            "highlight": "integrado",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "GEMINI EMBEDDING 2",
+            "title": "Google unifica texto, imagem, vídeo, áudio em 1 espaço",
+            "highlight": "1 espaço",
+            "body": "Gemini Embedding 2 Preview é primeiro modelo a mapear texto, imagem, vídeo, áudio, documentos no mesmo embedding space. Antes era 'separado'. Agora é unificado. Você busca com imagem, encontra vídeo. Busca com áudio, encontra documento. Tudo no mesmo espaço semântico.",
+            "stat": "1 espaço",
+            "stat_label": "embedding space unificado",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "EVOLUÇÃO",
+            "title": "De 'modal separado' pra 'modal integrado'",
+            "highlight": "integrado",
+            "body": "Histórico: modelo processava texto e imagem em pipelines diferentes. Você tinha embeddings de texto, embeddings de imagem, mergia depois. Ineficiente. 2026: single model processa tudo, output é coerente naturalmente.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "VIRADA DO JOGO",
+            "title": "Context window 1M + processamento simultâneo",
+            "highlight": "1M tokens",
+            "body": "Gemini 3.1: 1 milhão de tokens (750 mil palavras) em uma chamada. Você manda 100 pages de PDF (com imagens, tabelas) + 3 vídeos + áudio tudo junto. Modelo processa tudo simultaneamente e responde coerentemente. Antes era impossível. Agora é padrão.",
+            "stat": "1M tokens",
+            "stat_label": "context window Gemini",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "TECNOLOGIA",
+            "title": "Claude 4.7 visão + GPT-5.4 computer-use",
+            "highlight": "visão",
+            "body": "Claude agora processa imagens nativas em alta resolução (2576px). GPT-5.4 tem computer-use (clica botão, digita, lê interface). Ambos entendem conexão entre texto e imagem. Antes era 'description', agora é 'true understanding'.",
+            "stat": "2576px",
+            "stat_label": "máxima resolução Claude vision",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "USE CASES",
+            "title": "Análise de documentos, vídeos, áudio integrados",
+            "highlight": "documentos",
+            "body": "Antes: PDF complexo (image+texto) precisava preprocessing manual. Agora: upload direto, modelo entende tudo. Vídeo com narração? Detecção automática de sincronia. Relatório em PDF com gráficos? Interpretação automática. Economia de tempo massiva.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "APRENDIZADO",
+            "title": "Single model, all modalities é futuro",
+            "highlight": "Single model",
+            "body": "A arquitetura de IA tá convergindo: um modelo, múltiplas modalidades. Ao invés de 'text model + vision model + audio model', é 'unified model que faz tudo'. Mais simples, mais poderoso, mais barato pra escalar.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Radar com as 10 maiores notícias de IA todo dia. Fica atualizado em 5 min sem perder tempo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Xpeng lança 3 robotaxis em 2026: Level 4 autônomo, sem motorista em 2027",
+      "summary": "Xpeng (China) vai lançar 3 modelos de robotaxi em 2026. Potência: 3.000 TOPS (computação integrada em Turing AI chips proprietários). VLA 2.0 (Vision Language Action) permite Level 4 nativa. Testes públicos começam H2 2026. Operação sem safety driver planejada para early 2027. Visão CEO: physical AI (robotaxis, humanoids, flying cars) em milhões de casas até 2030.",
+      "source": "Xpeng / CnEVPost",
+      "link": "https://cnevpost.com/2026/03/23/xpeng-sets-up-robotaxi-unit-accelerate-commercial-rollout/",
+      "category": "aplicação",
+      "recommended": false,
+      "carousel": {
+        "theme": "Xpeng robotaxi: Level 4 autônomo chega em 2026",
+        "caption": "Xpeng anuncia 3 modelos de robotaxi em 2026. Testes públicos agosto 2026. Sem motorista em 2027.\n\nTecnologia: VLA 2.0 (Vision Language Action — modelo que vê a rua, entende linguagem, executa ação).\n\nPotência: 4x Turing AI chips = 3.000 TOPS total. Maior poder de computação de qualquer autonomous vehicle no mercado.\n\nLevel 4? Full autonomy em condições urbanas. Você senta, IA dirige. Sem pedal, sem volante (opção).\n\nCronograma:\n- Ago 2026: testes públicos com passengers\n- Early 2027: sem safety driver\n\nCEO He Xiaopeng: \"Robotaxi é step 1. Physical AI inclui humanoids e flying cars. Tudo entra em milhões de casas até 2030.\"\n\nPor que importa pro Brasil? China tá desenvolvendo tech 2-3 anos à frente de EUA/EU. Quando chegar aqui, vai disrupt ride-hailing (99, Uber-competitors). Precisa saber que isso existe.\n\nCusto: robotaxi Xpeng vai custar 30-40% menos que taxi humano em operação. Modelo de negócio é robusto.\n\n#Xpeng #Robotaxi #AutonomousVehicles #PhysicalAI #Tech #Futuro",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "AUTONOMOUS REVOLUTION",
+            "title": "Xpeng lança 3 robotaxis em 2026, sem motorista em 2027",
+            "highlight": "2026",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "POWER & SPECS",
+            "title": "3.000 TOPS: maior poder de computação veicular",
+            "highlight": "3.000 TOPS",
+            "body": "Xpeng integrou 4 chips Turing AI proprietários. Total: 3.000 TOPS (Tera Operations Per Second). Maior poder de computação de qualquer autonomous vehicle no mercado. Pra contexto: Tesla tá em 1.5k TOPS. Xpeng deu salto.",
+            "stat": "3.000 TOPS",
+            "stat_label": "poder de computação Xpeng robotaxi",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "TECNOLOGIA",
+            "title": "VLA 2.0: Vision Language Action integrada",
+            "highlight": "VLA 2.0",
+            "body": "VLA 2.0 é modelo único que: VISÃ (vê semáforo, pedestres, estradas), LINGUAGEM (entende comando 'vira à esquerda'), AÇÃO (executa). Tudo integrado. Diferença vs Tesla: Tesla tá em rede neural pura (vision only). Xpeng tá em reasoning (vision + language + planning).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "TIMELINE",
+            "title": "Testes H2 2026, sem motorista early 2027",
+            "highlight": "H2 2026",
+            "body": "Agosto 2026: Xpeng começa testes públicos com passengers em cidades chinesas. Passageiro entra, robotaxi sai, ninguém mais no carro. Validação de segurança, experiência, modelo de negócio acontece. Early 2027: full commercial operation sem safety driver.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "DIFERENCIAL",
+            "title": "3 modelos diferentes: sedan, SUV, van",
+            "highlight": "3 modelos",
+            "body": "Xpeng não tá fazendo 1 robotaxi. Tá fazendo 3: sedan (passageiro solo), SUV (família), van (comercial). Estratégia: produto-market fit em múltiplos segmentos. Cada um otimizado. Versus: Tesla Cybercab é 1 modelo só.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA BRASIL",
+            "title": "Ride-hailing vai disrupt em 2-3 anos",
+            "highlight": "ride-hailing",
+            "body": "Quando essa tech chegar aqui (2028-2029 timeline), vai quebrar modelo de Uber, 99, Loggi. Robotaxi custa 30-40% menos em operação. Margem de lucro sobe. Competitor que tiver robotaxi vence. Tua startup de mobility precisa estar pronta.",
+            "stat": "30-40%",
+            "stat_label": "custo operacional menor",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "VISÃO XPENG",
+            "title": "Physical AI: robotaxi é passo 1",
+            "highlight": "Physical AI",
+            "body": "CEO He Xiaopeng: 'Physical AI future mobility map.' Robotaxi é year 1. Humanoid robots é year 2. Flying cars é year 3. Tudo entra em milhões de casas até 2030. China tá pensando em 10 anos. EUA/EU em 2 anos.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Radar de IA e tech: 10 maiores disrupções por dia. Fica atualizado sem burn out.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    }
+  ],
+  "whatsapp": "🔥 RADAR IA — 01 DE MAIO DE 2026\n\n1️⃣ **OpenAI matou Sora; Kling AI vira rainha** | US$ 1M/dia em custo, insustentável. Kling AI ganha mercado\nhttps://openai.com/index/sora-2/\n\n2️⃣ **IA agents quebram modelo SaaS** | Margin 85%, R$1M/ano possível. Outcome-based vence tool-based\nhttps://www.prouz.ai/pt-br/blog/post-ia-youtube-saas-disrupcao-ia-2026\n\n3️⃣ **Claude Opus 4.7 chegou** | Visão alta-res (2576px), melhor coding, mesmo preço\nhttps://www.anthropic.com/news/claude-opus-4-7\n\n4️⃣ **Reasoning models: o1 + DeepSeek-R1** | 94.3% em benchmarks de ciência. IA que pensa agora\nhttps://openai.com/index/learning-to-reason-with-llms/\n\n5️⃣ **EU AI Act entra em vigor agosto** | €63.2M em funding, compliance obrigatória\nhttps://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai\n\n6️⃣ **Meta lança Muse Spark** | Open-source que compete com proprietário. Zero licensing\nhttps://ai.meta.com/blog/meta-llama-3/\n\n7️⃣ **80% dos vendedores BR usam IA em CRM** | +15-20% de receita provado. Quem não usa fica pra trás 🔴\nhttps://vende-c.com/vendedor-que-usa-ia-fecha-mais-o-que-os-dados-mostram-em-2026\n\n8️⃣ **BNDES libera R$ 205M para startups IA** | R$ 125M BNDES + R$ 80M Finep. Deadline 28/05\nhttps://www.bndes.gov.br/wps/portal/site/home/mercado-de-capitais/fundos-de-investimentos/chamadas-publicas-para-selecao-de-fundos/fip-ia-2026\n\n9️⃣ **Multimodal integrado: Gemini Embedding 2** | 1 espaço para texto, imagem, vídeo, áudio\nhttps://medium.com/@cognidownunder/openai-gpt-5-5-b6cf7e37668e\n\n🔟 **Xpeng lança 3 robotaxis** | Level 4 autônomo, testes agosto 2026, sem motorista 2027\nhttps://cnevpost.com/2026/03/23/xpeng-sets-up-robotaxi-unit-accelerate-commercial-rollout/\n\n→ Carrosséis prontos no dashboard: https://rafaelondei.appnaia.com",
+  "instagram": "Radar IA 01.05.26 — As 10 maiores disrupções que o mercado não pode ignorar.\n\n🎬 Sora morreu (US$ 1M/dia insustentável); Kling AI é a nova rainha de vídeo. OpenAI dormiu no botão.\n\n💼 Modelo SaaS clássico entrou em colapso. IA agents agora vendem resultado, não ferramenta. R$1M/ano, margin 85%, é viável. Salesforce e HubSpot já sentiram receita cair.\n\n🧠 Reasoning models (o1, DeepSeek-R1) mudaram tudo. IA que PENSA antes de responder. 94.3% em benchmarks de ciência. Profundidade vence velocidade em 2026.\n\n🛠️ Claude Opus 4.7: visão em alta resolução (2576px), melhor engineering. Anthropic não aumentou preço — mais poder, mesmo custo. Estratégia diferente de OpenAI.\n\n📋 EU AI Act entra em agosto 2026. €63.2M em funding para startups compliant. Regulação = oportunidade, não problema. Quem tá pronto primeiro, ganha market share.\n\n🔓 Meta libera Muse Spark (open-source, 400B+ params). Compete tecnicamente com GPT-5, Gemini, Claude. Zero licensing. Estratégia Meta: ganhar coração de developers com acesso aberto.\n\n📊 **80% dos vendedores BR usam IA em CRM.** +15-20% de receita. Quem não usa perde deal pro concorrente. Maior diferencial produtivo de 2026 é IA em vendas — maior que novo script, training ou comissão.\n\n💰 BNDES + Finep lançam R$ 205M em fundo IA para startups. Deadline 28/05. R$ 10-50M por empresa. 30% pra Norte, Nordeste, Centro-Oeste. Governo virou investor, não só regulador.\n\n👁️ Multimodal unificado (Gemini Embedding 2): texto, imagem, vídeo, áudio no mesmo espaço semântico. Claude 4.7 visão nativa. GPT-5.4 computer-use. Single model, all modalities é o futuro.\n\n🚗 Xpeng lança 3 robotaxis (sedan, SUV, van) em 2026. 3.000 TOPS (máxima potência veicular). Testes públicos agosto, sem motorista 2027. Level 4 autônomo é realidade agora. China tá 2-3 anos à frente.\n\n💡 Padrão 2026: speedpara market > IA pura. Compliance = vantagem. Agents = novo modelo. Reasoning = profundidade. Open-source = competitivo. IA em vendas = obrigatório.\n\nTodos os 10 carrosséis (8 slides cada) estão prontos pra postar no @rafaondei. Clica na bio → Radar IA → escolhe a notícia e gera.\n\n#IA #InteligenciaArtificial #Claude #OpenAI #Gemini #Xpeng #Startups #Tech #Empreendedorismo #Disrupção #2026"
+}

@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-04-30T18:39:02-03:00",
+  "updated_at": "2026-05-01T07:00:01-03:00",
   "executions": [
+    {
+      "date": "2026-05-01",
+      "key": "2026-05-01",
+      "topic": "mercado de IA",
+      "summary": "Sora morre (US$ 1M/dia); Agents quebram SaaS (margin 85%); Reasoning models (o1, DeepSeek-R1) redefinem IA; 80% BR vendedores usam IA em CRM (+20% receita)",
+      "items_count": 10
+    },
     {
       "date": "2026-04-30",
       "key": "2026-04-30-lideranca-na-era-da-ia",
