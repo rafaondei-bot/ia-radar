@@ -1,3 +1,11 @@
 {
-  "pending": []
+  "pending": [
+    {
+      "type": "carousel",
+      "id": "9418d3d8-e95f-4cbf-a35b-eed379c92be2",
+      "key": "2026-05-02-semio-joias-e-acessorios",
+      "n": 1,
+      "requested_at": "2026-05-02T19:37:26.692Z"
+    }
+  ]
 }
