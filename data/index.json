@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-05-01T07:00:01-03:00",
+  "updated_at": "2026-05-02T07:00:01-03:00",
   "executions": [
+    {
+      "date": "2026-05-02",
+      "key": "2026-05-02",
+      "topic": "mercado de IA",
+      "summary": "$2T evaporado em SaaS; Opus 4.7 volta ao trono (64.3% SWE-Bench); Sora dead ($15M/dia loss); Veo 3.1 Timeline wins; Claude Design commodity agora",
+      "items_count": 10
+    },
     {
       "date": "2026-05-01",
       "key": "2026-05-01",
