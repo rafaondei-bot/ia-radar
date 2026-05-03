@@ -1,3 +1,11 @@
 {
-  "pending": []
+  "pending": [
+    {
+      "type": "carousel",
+      "id": "0d290f36-c04a-4e57-8bd1-3d680499c4d6",
+      "key": "2026-05-03",
+      "n": 1,
+      "requested_at": "2026-05-03T16:05:28.642Z"
+    }
+  ]
 }
