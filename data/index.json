@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-05-02T16:45:03-03:00",
+  "updated_at": "2026-05-03T07:00:01-03:00",
   "executions": [
+    {
+      "date": "2026-05-03",
+      "key": "2026-05-03",
+      "topic": "mercado de IA",
+      "summary": "Claude 4.7 é king (Agent Teams +13% SWE-Bench); Anthropic $900B > OpenAI; Grok 4.3 corta 40% preço; Perplexity +50% receita em 1 mês (agentes FUNCIONAM); Google I/O em maio vai revidar",
+      "items_count": 10
+    },
     {
       "date": "2026-05-02",
       "key": "2026-05-02-semio-joias-e-acessorios",

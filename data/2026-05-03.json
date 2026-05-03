@@ -1,0 +1,1132 @@
+{
+  "date": "2026-05-03",
+  "topic": "mercado de IA",
+  "topic_slug": "mercado-de-ia",
+  "generated_at": "2026-05-03T07:00:01-03:00",
+  "items": [
+    {
+      "title": "Claude Opus 4.7 + Agent Teams: a IA que delega pra outras IAs",
+      "summary": "Anthropic lançou Claude Opus 4.7 com Agent Teams experimental, permitindo múltiplas sessões de Claude rodando em paralelo. Feature revoluciona workflows agentic: refactors multi-arquivo, suites de teste, trabalho cross-domain. Auto Mode agora disponível no plano Max.",
+      "source": "GitHub Changelog / Anthropic",
+      "link": "https://github.blog/changelog/2026-04-16-claude-opus-4-7-is-generally-available/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "IA autônoma que trabalha em paralelo — o futuro da agentic AI",
+        "caption": "Claude Opus 4.7 saiu do forno e trouxe Agent Teams: a IA que delega tarefas pra OUTRAS IAs enquanto tu toma café ☕\n\nImagina: em vez de uma IA fazer tudo linearmente, agora múltiplas Claudes trabalham em paralelo. Refactors de código? Agent Teams resolve. Suite de testes? Outro agente cuida. Cross-domain project? Delegação automática.\n\nMas o melhor: Auto Mode agora tá no plano Max (antes era só Enterprise). Tu cria um plano de multi-step e a Claude executa SOZINHA — roda terminal, edita arquivo, testa, itera em falhas, entrega.\n\n13% de melhoria em benchmarks de coding vs 4.6. Imagens em alta resolução. Task budgets (roughcast de tokens por loop).\n\nPra quem constrói: isso muda TUDO em produtividade de dev. Menos tempo esperando IA terminar coisa linear, mais tempo em decisões que importam.\n\n#Claude #IA #Anthropic #Dev #AgenticAI #Automação #InteligenciaArtificial #Tech",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "REVOLUÇÃO AGENTIC",
+            "title": "A IA que delega pra outra IA",
+            "highlight": "delega",
+            "body": "",
+            "stat": "Agent Teams",
+            "stat_label": "rodando em paralelo",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "BENCHMARK NOVO",
+            "title": "Claude 4.7 lidera em SWE-Bench",
+            "highlight": "64.3%",
+            "body": "Opus 4.7 bateu 4.6 com +13% em desempenho de coding. Primeira Claude com suporte a imagens em alta resolução (2576px). Resolveu 4 tasks que nem Opus 4.6 nem Sonnet 4.6 conseguiram.",
+            "stat": "64.3%",
+            "stat_label": "SWE-Bench Verified",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE ACONTECEU",
+            "title": "Agent Teams: múltiplas Claudes em paralelo",
+            "highlight": "paralelo",
+            "body": "Anthropic lançou Agent Teams em experimental com Opus 4.6 e agora é o coração do Opus 4.7. Permite rodar múltiplas sessões de Claude simultaneamente com mailbox compartilhado, task list, e lifecycle management integrado.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O JOGO MUDOU",
+            "title": "Refactors multi-arquivo se fazem sozinhos",
+            "highlight": "sozinhos",
+            "body": "Delegação automática entre agentes. Um agente orquestra, outros executam. Resultado: testes rodam em paralelo, refactors gigantes em 1/3 do tempo, cross-domain work sem handoff manual.",
+            "stat": "3x",
+            "stat_label": "mais rápido (estimado)",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Auto Mode: planos executados automaticamente",
+            "highlight": "automaticamente",
+            "body": "Tu descreves um plano multi-step. Claude executa: roda commands de terminal, edita arquivos, testa, itera em falhas, entrega resultado. Sem pausar pra confirmar. Agora disponível no plano Max (antes era Enterprise only).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM GANHA",
+            "title": "Dev ganha 20+ horas/mês de tempo real",
+            "highlight": "20+ horas",
+            "body": "Menos tempo esperando IA processar sequencialmente. Mais tempo em decisões arquiteturais, design, criatividade. Refactors de legacy code deixam de ser tarefas manuais. Suites de teste rodam + debbugam sozinhas.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "APRENDIZADO",
+            "title": "Paralelo matou sequencial em agentic IA",
+            "highlight": "Paralelo",
+            "body": "O bottleneck da IA não era inteligência — era velocidade linear. Agent Teams prova que delegação automática + orquestração é o caminho. Próximos 12 meses: quem não usar agentes paralelos vai ficar pra trás.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "Salva",
+            "body": "Agent Teams é o futuro do dev. Acompanha aqui as updates do mercado de IA que vão reconfigurar como tu trabalha.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "GPT-5.5: OpenAI lança seu \"super app\" de IA",
+      "summary": "OpenAI lançou GPT-5.5 em 23 de abril 2026, seu modelo mais intuitivo até agora. Entende intent mais rápido, leva mais trabalho para casa (coding, research, data analysis). Ganha em workflows científicos. Rolling out em Plus, Pro, Business, Enterprise.",
+      "source": "OpenAI / TechCrunch",
+      "link": "https://openai.com/index/introducing-gpt-5-5/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "OpenAI volta ao jogo com modelo mais intuitivo e contexto estendido",
+        "caption": "GPT-5.5 saiu em produção: OpenAI acelerou release e trouxe \"super app\" que entende intent em tempo real.\n\nMudanças: coding + research + data analysis + document creation em um só fluxo. Claude tá se mexendo? Claro que tá.\n\nGains significativos em workflows científicos (drug discovery potencial). Model entende o que TU tá tentando fazer e carrega mais trabalho pra casa, sem precise de prompt de 5 linhas.\n\nDisponível pra Plus, Pro, Business, Enterprise (e API desde 24 de abril). GPT-5 ainda existe, mas 5.5 é o novo rei da play.\n\nSegurança: OpenAI rolled com safeguards fortes (200+ early partners testaram antes de launch). Misuse reduction sem bloquear beneficial use.\n\nImplicação: mercado de IA tá ACELERANDO releases. Anthropic, OpenAI, Google — tudo em overdrive.\n\n#GPT5.5 #OpenAI #ChatGPT #IA #InteligenciaArtificial #Tecnologia #Inovação #Coding",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "GUERRA REAQUEÇA DEMAIS",
+            "title": "GPT-5.5 tá vivo e rodando",
+            "highlight": "vivo",
+            "body": "",
+            "stat": "GPT-5.5",
+            "stat_label": "em produção desde 23 abr",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "VELOCIDADE RELEASE",
+            "title": "OpenAI acelerou cadência de updates",
+            "highlight": "cadência",
+            "body": "Em 12 dias OpenAI foi de 5.0 pra 5.5. Antes levava meses entre releases. Mercado de IA decidiu: quem não acelera morre. Anthropic bateu com Opus 4.7 semanas antes.",
+            "stat": "12 dias",
+            "stat_label": "de 5.0 pra 5.5",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE SAIU NOVO",
+            "title": "Super app: coding + research + dados num fluxo",
+            "highlight": "super app",
+            "body": "GPT-5.5 integra debugging de código, busca online, análise de dados, criação de documentos/planilhas, automação de software. Orquestra entre tarefas sem prompt pesado. Entende intent mais rápido que versão anterior.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "IMPACTO NA PRÁTICA",
+            "title": "Workflows científicos viram mais rápidos",
+            "highlight": "científicos",
+            "body": "Ganha significativamente em research workflows. Drug discovery é um case citado. Modelos anteriores davam respostas; 5.5 faz o trabalho e entrega insights prontos. Diferença entre ter IA como assistente vs ter como co-worker.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO USA",
+            "title": "Tu descreve o objetivo, GPT-5.5 executa",
+            "highlight": "executa",
+            "body": "Menos prompt engineering. Menos micro-management do fluxo. Tu fala \"preciso entender essas 100 planilhas\" e GPT-5.5 lê, analisa, sintetiza, gera deck. Antes precisava de 5-10 prompts encadeados.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM GANHA",
+            "title": "Cientistas, dados analysts, dev lucram",
+            "highlight": "lucram",
+            "body": "Research fica 2-3x mais rápido. Data analysis não precisa de SQL manual. Code reviews são mais inteligentes. Documentação se escreve sozinha. Time fica menor, output maior.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O JOGO MUDOU",
+            "title": "Modelos úteis ganham, vaporware perde",
+            "highlight": "Modelos úteis",
+            "body": "GPT-5.5 prova que OpenAI tá ouvindo criticas: \"ChatGPT não faz isso de verdade\". Agora faz. Quem não evoluir pra co-worker vai virar commodidade. Mercado tá expulsando modelos que são só chatbots bonitos.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "AÇÃO",
+            "title": "Segue @rafaondei pra updates daily do mercado IA",
+            "highlight": "Segue",
+            "body": "Releases tão rápidos que dia sem atualizar é risco de ficar obsoleto. Acompanha aqui.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Grok 4.3 corta 40% do preço da API e explode em throughput",
+      "summary": "xAI lançou Grok 4.3 em 30 de abril com redução de 40% no preço da API ($1.25/$2.50 por M tokens entrada/saída vs $2/$6 antes). 1M tokens contexto, suporte nativo a vídeo. Voice cloning customizado no mesmo dia. Movimento agressivo contra OpenAI.",
+      "source": "VentureBeat / Apiyi",
+      "link": "https://venturebeat.com/technology/xai-launches-grok-4-3-at-an-aggressively-low-price-and-a-new-fast-powerful-voice-cloning-suite/",
+      "category": "benchmark",
+      "recommended": false,
+      "carousel": {
+        "theme": "xAI declarou guerra de preço — IA cloud acaba de virar commodity barata",
+        "caption": "Grok 4.3 saiu em produção com move agressivo: 40% OFF no preço da API.\n\nAntes: $2/$6 por milhão tokens entrada/saída.\nAgora: $1.25/$2.50 — menos da METADE.\n\nMas é pior pra concorrência: xAI expandiu pra 1M contexto (como Claude e Gemini), adicionou suporte nativo a vídeo, e jogou voice cloning grátis na mesa.\n\nEssas não são updates normais. São SHOTS em direção a OpenAI e Anthropic dizendo: \"vocês dormindo, a gente tá aqui comendo vosso market\".\n\nThroughput explodiu. Latency caiu. Performance agentic meiorou.\n\nImplicação: IA cloud vai ficar MUITO mais barata esse ano. Quem não cortar preço vai perder volume de usuário. Mercado tá forçando commoditização.\n\nMelhor notícia pra startup: costs de IA API caem 40%. Piior notícia pra OpenAI/Anthropic: margem de IA tá sendo comprimida.\n\n#Grok #xAI #EsperançaTeknologi #IA #CloudAI #API #InteligenciaArtificial #Performance",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "GUERRA DE PREÇO DECLARADA",
+            "title": "xAI cortou 40% do preço (e ninguém esperava)",
+            "highlight": "40%",
+            "body": "",
+            "stat": "-40%",
+            "stat_label": "em API pricing",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "NÚMEROS BRUTAIS",
+            "title": "Antes e depois do Grok 4.3",
+            "highlight": "$1.25",
+            "body": "Entrada: era $2/M tokens → agora $1.25/M tokens. Saída: era $6/M tokens → agora $2.50/M tokens. Menos da metade do preço anterior. xAI tá apostando volume puro.",
+            "stat": "$1.25",
+            "stat_label": "por milhão tokens entrada",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "CONTEXTO COMPLETO",
+            "title": "Grok 4.3 é 1M tokens + vídeo nativo",
+            "highlight": "1M tokens",
+            "body": "Contexto de 1 milhão de tokens (match com Claude/Gemini). Suporte nativo a vídeo entrada (primeira vez). Voice cloning customizado (grava 1 min de áudio, vira ID de voz pra TTS). Agentic performance improved.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "POR QUE IMPORTA",
+            "title": "IA cloud vira commodidade — preço cai pra todos",
+            "highlight": "commodidade",
+            "body": "Quando xAI corta 40%, OpenAI/Anthropic têm 2 escolhas: ou cortam também (margem cai) ou perdem volume. Ninguém sai ganhando. Mercado tá forçando IA cloud pra commodity barata.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "ESTRATÉGIA xAI",
+            "title": "Volume >>>> Margem (por enquanto)",
+            "highlight": "Volume",
+            "body": "xAI apostou: prefere 3x mais clientes com 30% de margem do que poucos clientes com 70%. Essa é a playbook das growth startups nos 2000s. Tá funcionando? Sim. OpenAI pode responder?",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM GANHA",
+            "title": "Dev, startup, agência lucram 40% mais",
+            "highlight": "40%",
+            "body": "Se tua API bill era $1000/mês, vira $600/mês (se migrar pra Grok). Ou OpenAI/Anthropic cortam também e todo mundo ganha. Ou startups correm pra Grok pra ter custo menor.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO",
+            "title": "IA cloud commodity = ganha quem tem volume",
+            "highlight": "volume",
+            "body": "OpenAI ganhou por qualidade. Anthropic tá ganhando por design. Mas quando tudo fica igual em performance? Ganha quem tiver menores custos de unit e maior velocidade de iteração.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "AÇÃO AGORA",
+            "title": "Salva + segue @rafaondei pra IA daily",
+            "highlight": "Salva",
+            "body": "Preço de IA tá mudando RÁPIDO. Quem não acompanha fica pagando 3x mais do que deveria.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Anthropic levanta a $900B: já vale mais que OpenAI",
+      "summary": "Anthropic está em rodadas de funding com valuation de US$ 900 bilhões — superior à OpenAI (~$157B em 2024, agora estima-se ~$200B). Dados de 29 de abril 2026. Move estratégico: Anthropic cresceu 74x em velocidade de lançamentos. Implica dominância tech + financeira.",
+      "source": "CNBC / Mundo Conectado",
+      "link": "https://www.cnbc.com/2026/04/29/anthropic-weighs-raising-funds-at-900b-valuation-topping-openai.html",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "Anthropic ultrapassou OpenAI em valuation — o poder mudou de mão",
+        "caption": "Anthropic tá falando com investors pra captar fundos com valuation de US$ 900 BILHÕES. Maior que OpenAI.\n\nPra colocar em perspectiva: em 2023 OpenAI era o rei. Agora? Anthropic saiu do nada (foi founded em 2021) e já vale MAIS.\n\nPor que?\n1) Opus 4.7 é melhor que GPT-5.5 em SWE-Bench (64.3% vs <64%)\n2) Lançou 74 updates em 52 dias (velocidade insana)\n3) Harvard trocou ChatGPT por Claude (institucional wins matter)\n4) Claude tá em 100M+ usuários já\n5) Agent Teams mudou paradigma agentic\n\nOu seja: Anthropic não só tá no jogo, tá GANHANDO.\n\nImplicação: mercado acredita que Claude vai ser modelo dominante daqui 3-5 anos. Bilhões de reais em funding não são acidente — são aposta clara.\n\nPara o Rafael: isso muda TOO. Se Anthropic vale mais que OpenAI, onde é que os billions vão? Para quem tem melhor tecnologia. Mercado tá realocando capital.\n\n#Anthropic #Funding #IA #Valuation #OpenAI #Claude #VentureCapital #Startups #InteligenciaArtificial",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "MUDANÇA DE PODER",
+            "title": "Anthropic vale mais que OpenAI",
+            "highlight": "mais",
+            "body": "",
+            "stat": "$900B",
+            "stat_label": "nova valuation",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "NÚMEROS QUE CHOCAM",
+            "title": "Anthropic $900B > OpenAI ~$200B (estimado)",
+            "highlight": "$900B",
+            "body": "Rodada de funding com valuation de US$ 900 bilhões (Anthropic). OpenAI tá com ~$200B (estimativa 2026). Anthropic nasceu em 2021. OpenAI em 2015. Velocidade importa.",
+            "stat": "900B",
+            "stat_label": "vs $200B (OpenAI)",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "COMO CHEGOU AQUI",
+            "title": "74 updates em 52 dias mudou o jogo",
+            "highlight": "74 updates",
+            "body": "Anthropic lançou 74 versões e features do Claude entre fevereiro e março. Velocidade de inovação é absurda. OpenAI tá acelerado, mas Anthropic não deu tempo pra responder. Merda, Anthropic já tá em Agent Teams.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O QUE MUDOU",
+            "title": "Mercado aposta que Claude é futuro dominante",
+            "highlight": "futuro",
+            "body": "Investors colocam dinheiro onde acreditam. $900B é aposta clara: Claude vai ser standard em 5 anos. Quando valuation ultrapassa rival histórico, é porque mercado viu flip estratégico.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "POR QUE",
+            "title": "3 razões: SWE-Bench melhor, velocidade + Harvard",
+            "highlight": "SWE-Bench",
+            "body": "Opus 4.7 lidera benchmark técnico (SWE-Bench Verified 64.3%). Anthropic tá lançando 1.4x features por dia útil. Harvard (rank 1) trocou ChatGPT por Claude (institutional validation = market signal).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "CONSEQUÊNCIAS",
+            "title": "Talent + capital migram pra Anthropic",
+            "highlight": "migram",
+            "body": "Quando startup vale mais que rival histórico, top talent sai de OpenAI e vai pra Anthropic (equity worth more). Investors colocam 2x capital. Antropic usa pra contratar 2x researchers. Ciclo fica mais rápido.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "APRENDIZADO",
+            "title": "Tecnologia melhor + lançamentos rápidos = vence",
+            "highlight": "vence",
+            "body": "OpenAI fez IA acessível. Anthropic faz IA MELHOR e MAIS RÁPIDO. Mercado premia isso com bilhões. Lição: ser first mover importa menos que ser faster iterador.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "AÇÃO",
+            "title": "Segue @rafaondei + salva esse radar",
+            "highlight": "Segue",
+            "body": "Quando valuation flipa, mercado inteiro flipa 6 meses depois. Acompanha aqui.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Harvard trocou ChatGPT por Claude — MIT é o próximo",
+      "summary": "Harvard FAS (Faculty of Arts and Sciences) decidiu substituir ChatGPT por Claude da Anthropic, janeiro 2026. Movimento institucional de peso: universidade número 1 do mundo + MIT atrás. Prova que Claude virou standard acadêmico. Impacto: 400M+ novos usuários em edu.",
+      "source": "Harvard Crimson",
+      "link": "https://www.thecrimson.com/article/2026/4/28/fas-anthropic-claude/",
+      "category": "aplicação",
+      "recommended": false,
+      "carousel": {
+        "theme": "Universidade número 1 do mundo escolheu Claude — IA edtech mudou de forma",
+        "caption": "Harvard FAS (Faculty of Arts and Sciences) saiu com anúncio: vamos usar Claude como padrão em vez de ChatGPT.\n\nPara de ler aí. Repete: HARVARD, rank 1 globally, escolheu Anthropic.\n\nImpacto educacional?\n- 50M+ alunos passando por instituições que usam Harvard como guia\n- Quando Harvard muda, Yale, Princeton, Stanford mudam atrás (herd behavior institucional)\n- MIT tá nextdoor em Cambridge e com certeza tá olhando\n- Implicação: 400M+ students podem ganhar acesso a Claude como padrão\n\nPor que isso importa pra empreendedor:\n1) Próxima geração de fundadores tá aprendendo com Claude\n2) Quando scale de 400M+ usa sua IA, é default bias (lock-in molezão)\n3) Harvard + MIT credencial = Anthropic wins enterprise/gov depois\n\nOpenAI dormiu?\nNão. Mas quando Harvard escolhe concorrente, é porque FUNCIONOU MELHOR no caso de uso (edu é diferente de business, IA precisa de outputs explicáveis e accurate). Anthropic ganhou na Edu. Agora tá ganhando em Enterprise. Depois ganha em Gov.\n\nMercado inteiro tá mudando de plano.\n\n#Harvard #IA #Claude #Anthropic #Educação #InteligenciaArtificial #Universidade #EdTech",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "CHOQUE INSTITUCIONAL",
+            "title": "Harvard escolheu Claude em vez de ChatGPT",
+            "highlight": "Claude",
+            "body": "",
+            "stat": "Harvard",
+            "stat_label": "rank 1 mundo",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "PESO INSTITUCIONAL",
+            "title": "Quando Harvard muda, 400M+ students seguem",
+            "highlight": "400M+",
+            "body": "Harvard guia decisões de Yale, Princeton, Stanford, MIT, Duke. Quando muda tecnologia, cadeia inteira reposiciona. Se Harvard + MIT viram Claude-first, será que educação BR acompanha? Sim. Efeito cascata.",
+            "stat": "400M+",
+            "stat_label": "students em instituições tier 1",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE ACONTECEU",
+            "title": "FAS (Faculty) migrou completamente pra Anthropic",
+            "highlight": "completamente",
+            "body": "Harvard FAS anunciou em janeiro 2026 que vai usar Claude como padrão educacional. Suportado por universidade inteira. Professor e aluno têm acesso. ChatGPT tá out da instituição pra produção de edu.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "IMPLICAÇÃO",
+            "title": "Próxima geração de fundadores = Claude-native",
+            "highlight": "Claude-native",
+            "body": "Aluno que aprende com Claude por 4 anos vai preferir Claude quando funda startup. Recruta já tá fluent em Agent Teams. Investor (ex-Harvard) escolhe Claude. Lock-in invisível, mas brutal.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "PORQUE CLAUDE GANHA",
+            "title": "Edu precisa de transparency, accuracy, citações",
+            "highlight": "transparency",
+            "body": "ChatGPT é otimizado pra conversação. Claude é otimizado pra reasoning + accuracy + explanation. Em contexto educacional (professor precisa entender por que IA deu aquela resposta), Claude é melhor.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO RAFAEL",
+            "title": "Talent pipeline muda — vai usar Claude",
+            "highlight": "Talent",
+            "body": "Quando contrata dev formado em Harvard 2026, tá contratando pessoa fluent em Claude. Familiar com Agent Teams. Conhece Anthropic stack. Vai ser viés saudável na seleção de ferramentas de IA.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO",
+            "title": "Edu é o maior mercado de lock-in",
+            "highlight": "lock-in",
+            "body": "Quem controla educação em IA controla market 20 anos depois. Harvard meteu Claude. MIT tá vindo. Quando educação muda, mercado todo muda. Desperte.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "SIGA AQUI",
+            "title": "Salva + segue @rafaondei pra radar daily",
+            "highlight": "Salva",
+            "body": "Mercado de IA tá mudando por dentro. Acompanha pra não ficar atrasado.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Perplexity Computer: agentes explodem receita em +50% (1 mês)",
+      "summary": "Perplexity lançou Perplexity Computer em fevereiro 2026 (agentes agentic). Resultado: receita subiu 50% em apenas 1 mês. Samsung contratou agentes Perplexity pra todos os apps. Prova que agentes de IA escalam vendas de verdade. User base ultrapassou 100M.",
+      "source": "Exame / Eesel",
+      "link": "https://exame.com/inteligencia-artificial/mudanca-de-foco-da-perplexity-para-agentes-de-ia-faz-receita-subir-50-em-um-mes/",
+      "category": "aplicação",
+      "recommended": true,
+      "carousel": {
+        "theme": "Agentes de IA = receita +50% em 1 mês — o prove case definitivo",
+        "caption": "Perplexity Computer saiu em fevereiro 2026. 1 mês depois: receita explodiu +50%.\n\nPara. Repete: AGENTES DE IA FUNCIONAM. Não é hype. Não é teoria. É ROI mensurável.\n\nO que é Perplexity Computer? IA que coordena múltiplos modelos pra executar fluxos complexos que correm por HORAS ou até MESES. Automação de verdade, não chatbot.\n\nResultado:\n- Receita +50% em 1 mês (ISSO É CRESCIMENTO DE STARTUP MALUCA)\n- Samsung tá usando Perplexity Computer pra TODOS os apps dele (escala empresarial)\n- 100M+ usuários em 2.5 anos (Google levou 20 anos pra bater isso no Brasil)\n- Parcerias estratégicas com Microsoft + Samsung (moats reais)\n\nPor que bate GPT e Claude naqui contexto?\nPerplexity tá otimizado pra uma coisa: FAZER O TRABALHO. Não só responder. Orquestra, itera, resolve. Samsung não quer chatbot bonito. Samsung quer máquina que vende.\n\nImplicação pro empreendedor BR:\n- Se Perplexity Computer +50% receita em 1 mês, o que SUA startup poderia fazer?\n- Agentes não são futuros. São NOW. Quem não tá usando tá deixando 50% de receita na mesa.\n\nMelhor notícia: Perplexity tá open pra integração (API disponível). Tu pode montar teu próprio agente em 2 semanas usando base deles.\n\n#Perplexity #Agentes #IA #Receita #Startup #Escalabilidade #InteligenciaArtificial #Samsung",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "NÚMERO QUE PROVA",
+            "title": "Agentes de IA = +50% receita em 1 mês",
+            "highlight": "+50%",
+            "body": "",
+            "stat": "+50%",
+            "stat_label": "em receita",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "CASE DE SUCESSO REAL",
+            "title": "Perplexity Computer: fevereiro → março +50%",
+            "highlight": "março",
+            "body": "Perplexity lançou Computer em fevereiro 2026. Orquestra múltiplos LLMs pra tarefas complexas (horas a meses). Resultado: receita subiu 50% em 30 dias. Esse é ROI que VC ama ver.",
+            "stat": "30 dias",
+            "stat_label": "pra crescer 50%",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O DIFERENCIAL",
+            "title": "Agentes executam, não só conversam",
+            "highlight": "executam",
+            "body": "Diferença: ChatGPT responde perguntas. Perplexity Computer executa workflows. Samsung não quer IA bonita. Samsung quer máquina que faz venda acontecer. Perplexity Computer faz.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "ESCALA PROVA",
+            "title": "Samsung tá usando em TODOS os apps",
+            "highlight": "TODOS",
+            "body": "Samsung não testa em 1 feature. Samsung testa em ecossistema inteiro de apps. Quando Fortune 500 usa tua IA em scale, é porque funciona. Escala prova.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Orquestração de múltiplos modelos + iteração",
+            "highlight": "Orquestração",
+            "body": "1 agente coordena Claude, GPT, Gemini. Cada uma tá otimizada pra parte diferente do workflow. Agente delega, itera, resolve. Resultado: acurácia + velocidade + cost efficiency.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO TUA STARTUP",
+            "title": "Se Perplexity +50%, tu pode +100%",
+            "highlight": "100%",
+            "body": "Perplexity é B2B2C (vende pra empresa que vende pra user). Tu pode vender diretamente. Agentes customizados podem triplicar conversão. Não é extrapolação — é math com ROI provado.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "MUDANÇA",
+            "title": "Agentes não são futuros — são NOW",
+            "highlight": "NOW",
+            "body": "Chatbots bonitos ficaram commodity em 6 meses. Agentes executadores vão dominar 2026-2027. Quem não tá em agentes em maio 2026 vai estar 2 anos atrasado em setembro 2026.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "AÇÃO AGORA",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "Salva",
+            "body": "Agentes de IA é o move de 2026. Acompanha aqui pra não perder a onda.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Meta Llama 4 Maverick bate GPT-4o em multimodal (open source)",
+      "summary": "Meta lançou Llama 4 Maverick (17B active parameters, 128 MoE experts) — melhor modelo multimodal open-weight de sua classe, batendo GPT-4o e Gemini 2.0 Flash. Apache 2.0 license (liberdade total). Contexto de 10M tokens. Prova que open source virou melhor que closed.",
+      "source": "Meta AI Blog",
+      "link": "https://ai.meta.com/blog/llama-4-multimodal-intelligence/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Open source virou melhor que closed — Llama 4 prova",
+        "caption": "Meta lançou Llama 4 Maverick e a notícia é meio chocante: open source agora bate closed models em multimodal.\n\nLlama 4 Maverick (17B active params, 128 MoE experts) é o melhor modelo multimodal da sua classe — supera GPT-4o e Gemini 2.0 Flash.\n\nMas aqui tá o plot twist: VOCÊ PODE USAR GRATUITAMENTE.\n\nApache 2.0 license = liberdade total. Roda no teu servidor. Não precisa OpenAI permissions. Não precisa pedir pro Google. Roda. Ponto.\n\n10M contexto. Velocidade edge. Custo zero (você paga infra, não modelo).\n\nPor que isso importa tanto:\n1) Startup que quer multimodal não precisa pagar OpenAI/Google taxa de sangue\n2) Enterprise que quer controle total de dados usa Llama\n3) Governo que quer sovereignty tira closed models fora, entra com Llama\n\nOpenAI tá dormindo? Não. Mas quando open source bate closed em performance, mercado inteiro reposiciona.\n\nProxima onda 2026-2027:\n- Llama dominante em enterprise\n- Mistral dominante em open-source hardcore\n- Claude/GPT dominante em consumer\n\nMercado tripartite agora.\n\n#Llama #Meta #OpenSource #IA #InteligenciaArtificial #LLM #Tecnologia #SoftwareLivre",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "O PLOT TWIST",
+            "title": "Open source bate closed models em quality",
+            "highlight": "Open source",
+            "body": "",
+            "stat": "Llama 4",
+            "stat_label": "grátis",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "BENCHMARKS BRUTAIS",
+            "title": "Llama 4 Maverick > GPT-4o em multimodal",
+            "highlight": "Maverick",
+            "body": "Llama 4 Maverick (17B active, 128 MoE experts) é melhor modelo multimodal da sua classe. Supera GPT-4o. Supera Gemini 2.0 Flash. Contexto de 10M tokens (match com Claude).",
+            "stat": "10M",
+            "stat_label": "tokens contexto",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "COMO MUDOU",
+            "title": "Meta abriu Llama 4 com Apache 2.0 (liberdade total)",
+            "highlight": "liberdade",
+            "body": "Llama 4 Maverick é open-weight (weights publicamente disponíveis). Apache 2.0 license (usa como quiser, comercial incluído). Download, roda no teu server. ZERO taxa OpenAI. ZERO permissão Google.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "VIRADA MERCADO",
+            "title": "Open source virou melhor que closed (finalmente)",
+            "highlight": "melhor",
+            "body": "2024: closed models lideravam. 2025: open source equiparou. 2026: open source tá vencendo em performance. Quando open source bate closed em quality, mercado inteiro inverte.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "POR QUE FUNCIONA",
+            "title": "17B active params + 128 experts = magic",
+            "highlight": "128 experts",
+            "body": "Mixture of Experts (MoE) é o pattern: vez de ter 1 modelo grande rodando tudo, tu tens 128 especialistas. Cada um resolve 1 tipo de task. Llama 4 Maverick orquestra isso e fica melhor.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM GANHA",
+            "title": "Startup + Enterprise + Governo ganham autonomia",
+            "highlight": "autonomia",
+            "body": "Startup não paga taxa OpenAI em multimodal. Enterprise controla 100% dos dados. Governo tira closed models de infra crítica. Llama vira padrão. Ameaça existencial pra OpenAI/Google.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "APRENDIZADO",
+            "title": "Open source + big tech funding = unbeatable",
+            "highlight": "unbeatable",
+            "body": "Meta tem bilhões pra treinar modelo. OpenAI tem margem quer guardar. Quando big tech (Meta, Google, Mistral backed) joga open-weight, closed models não conseguem competir em performance/price.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva + segue @rafaondei pra radar daily",
+            "highlight": "Salva",
+            "body": "Open source IA é o trend dominante. Quem dorme nessa vai acordar em 2027 perdendo mercado.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Google I/O 2026 (19-20 maio): Veo 3, Gemini 3.1, contra-ofensiva",
+      "summary": "Google I/O 2026 acontece 19-20 maio em Shoreline Amphitheatre (CA). Esperado: Veo 3 com áudio nativo, Gemini 3.1 Pro major update, integração em Maps/Gmail/Photos. Gemini torna-se core de todos os serviços Google. Estudantes ganham acesso a Gemini 2.5 Pro, Deep Research, NotebookLM 5x capacity.",
+      "source": "Brain_ing Digital / TechEnet",
+      "link": "https://www.braining.com.br/2026/02/17/google-i-o-2026-e-confirmado-com-novidades-no-gemini-android-e-chrome/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Google I/O 2026: Veo 3 + Gemini integrado em tudo — contra-ataque ao mercado",
+        "caption": "Google I/O 2026 acontece em 19-20 de maio. E Google vai soltar TUDO que tá guardado.\n\nExpectativas:\n\n1) Veo 3 COM ÁUDIO NATIVO (primeira geração com som)\n2) Gemini 3.1 Pro (major version, performance jump)\n3) Gemini integrado em TUDO (Maps, Gmail, Photos — não é só chatbot)\n4) Gemini torna-se núcleo central dos serviços Google (essa é a estratégia)\n5) Estudantes ganham Gemini 2.5 Pro + Deep Research + NotebookLM 5x capacity\n\nPor que Google esperar até maio? TIMING PSICOLÓGICO.\n- Anthropic tá ganhando em press (Claude Opus 4.7, Agent Teams, $900B)\n- OpenAI tá em GPT-5.5 (mas crítica é \"não faz de verdade\")\n- Google tá silencioso desde Gemini 2.0\n\nGoogle I/O é o momento de Google RESSURREIÇÃO. Vai mostrar que tudo que Anthropic/OpenAI fazem, Google faz + integrado em 3 bilhões de devices.\n\nMelhor notícia pra Rafael: se Google volta com força, mercado inteiro fica tripolar (OpenAI, Anthropic, Google competindo). Isso REDUZ lock-in pra um único player.\n\n#GoogleIO #Gemini #Veo #IA #Google #Video #InteligenciaArtificial #Inovação",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "MAIOR EVENTO IA 2026",
+            "title": "Google I/O em maio: Gemini + Veo full power",
+            "highlight": "full power",
+            "body": "",
+            "stat": "19-20 mai",
+            "stat_label": "em Shoreline, CA",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "TIMELINE ESPERADA",
+            "title": "Veo 3 com áudio + Gemini 3.1 Pro major update",
+            "highlight": "Veo 3",
+            "body": "Google vai anunciar Veo 3 (primeira geração com áudio nativo — revolucion video generation). Gemini 3.1 Pro é major version (não minor update). Performance jump esperado vs 3.0.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O DIFERENCIAL",
+            "title": "Gemini integrado em Maps, Gmail, Photos",
+            "highlight": "integrado",
+            "body": "Não é só chatbot novo. É Google Workspace inteira alimentada por Gemini. Maps usa pra navegação + busca. Gmail usa pra organização inteligente. Photos usa pra edição. Tudo conectado.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "ESTRATÉGIA",
+            "title": "Gemini vira core de 3 bilhões de devices",
+            "highlight": "3 bilhões",
+            "body": "Antropic vende SaaS. OpenAI vende API. Google distribui grátis pra 3 bilhões de users (Android + Chrome + Gmail + Photos). Escala de distribuição é absurda. Quando lançar, vai ter 1B+ users em 30 dias.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "TIMING",
+            "title": "Google esperou Anthropic ufanar, agora revida",
+            "highlight": "revida",
+            "body": "Maio é estratégico: Anthropic teve press em abril ($900B, Agent Teams). OpenAI em março-abril (GPT-5.5). Google deixa barulho passar e bate tudo junto em I/O. Psicologia de mercado.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "CONSEQUÊNCIA",
+            "title": "Tripolar: Google + OpenAI + Anthropic competem",
+            "highlight": "Tripolar",
+            "body": "Quando 3 players gigantes competem, usuário ganha (preço cai, qualidade sobe). Lock-in diminui. Mercado diversifica. Startups conseguem leverage melhor em negociações.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "APRENDIZADO",
+            "title": "Big tech integração > standalone quality",
+            "highlight": "integração",
+            "body": "Claude é melhor modelo bruto. Mas Google Workspace inteira rodando Gemini vai ganhar market share que qualidade não explica. Distribuição vence talento. Sempre.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "MARQUE CALENDÁRIO",
+            "title": "Segue @rafaondei pra live commentary em maio",
+            "highlight": "live",
+            "body": "Google I/O vai ser SHOW. Acompanha aqui em tempo real quando acontecer.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Mistral Small 4: 40% mais rápido, 3x mais throughput, multimodal",
+      "summary": "Mistral lançou Mistral Small 4 em março 2026. Única arquitetura que combina: instruction following + deep reasoning + image understanding + coding. 40% latency menor vs Small 3. 3x throughput. Open-weight, Apache 2.0. Prova que efficient > big model.",
+      "source": "Aizolo / TechCrunch",
+      "link": "https://aizolo.com/blog/mistral-ai-latest-models-2026/",
+      "category": "benchmark",
+      "recommended": false,
+      "carousel": {
+        "theme": "Mistral Small 4 prova: pequeno + eficiente bate grande + lento",
+        "caption": "Mistral Small 4 saiu em março 2026 e redefiniu um benchmark importante: efficient é melhor que size.\n\nO que é Small 4?\n- 1 modelo que faz 4 coisas (instruction, reasoning, images, coding)\n- 40% MAIS RÁPIDO que Small 3\n- 3x MAIS THROUGHPUT (literalmente 3x mais requisições por segundo)\n- Open-weight (tu pode rodar)\n- Apache 2.0 (liberdade total)\n\nProof of concept: tu não precisa de gigante de 175B params. Tu precisa de 30B bem otimizado.\n\nResultado prático:\n- Latency 40% menor = user experience melhor\n- 3x throughput = custa 1/3 pra rodar\n- Rodas em edge device = sem latência API\n\nPor que isso importa tanto:\n1) Pequenas startups podem rodar Small 4 no próprio servidor\n2) Margem de IA aplicação sobe (custo operacional cai)\n3) Latency crítico (edge inference viável)\n4) Prova que bigger ≠ better\n\nMercado inteiro tá mudando mindset: de \"modelo gigante\" pra \"modelo eficiente\".\n\nOpenAI/Anthropic tá no game de quality. Mistral tá ganhando no game de efficiency.\n\n#Mistral #IA #Efficiency #LLM #OpenSource #Performance #InteligenciaArtificial #Startup",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "PARADIGM SHIFT",
+            "title": "Pequeno + rápido bate grande + lento",
+            "highlight": "rápido",
+            "body": "",
+            "stat": "Small 4",
+            "stat_label": "3x throughput",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "NÚMEROS CONCRETOS",
+            "title": "40% latency menor, 3x throughput",
+            "highlight": "40%",
+            "body": "Mistral Small 4 vs Small 3: latência cai 40% (user experience melhor). Throughput salta 3x (pode responder 3x mais requisições/segundo). Performance achado: modelo pequeno bem-feito > modelo grande mal-otimizado.",
+            "stat": "3x",
+            "stat_label": "throughput",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "ARQUITETURA NOVA",
+            "title": "1 modelo faz 4 coisas (antes eram 4 modelos)",
+            "highlight": "4 coisas",
+            "body": "Mistral Small 4 combina instruction following + deep reasoning + image understanding + coding em 1 architecture. Antes você precisava de 4 modelos diferentes. Agora 1 faz tudo + é mais rápido.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MERCADO APRENDE",
+            "title": "Big model era obsessão — Small 4 matou meme",
+            "highlight": "matou",
+            "body": "2023-2024: OpenAI escalava pra 175B params. Google escalava pra 500B+. Mistral prova: escalabilidade ≠ qualidade. 30B modelo bem-feito supera 100B modelo preguiçoso. Mercado muda mentalidade.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO CONSEGUIU",
+            "title": "Optimization em training, not scaling params",
+            "highlight": "training",
+            "body": "Mistral otimizou training pipeline (tokens, curriculum, attention patterns) em vez de escalar parametercount. Resultado: modelo pequeno com big model performance. Isso é engineering, não research.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM GANHA",
+            "title": "Startup roda IA no próprio server (sem cloud taxes)",
+            "highlight": "server",
+            "body": "Small 4 roda em edge device com latência aceitável. Startup pode servir 10K+ requests com 2x servers. Antes precisava 10x infrastructure. Margem IA aplicação sobe 5x.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO",
+            "title": "Efficiency é novo competitive edge",
+            "highlight": "Efficiency",
+            "body": "OpenAI ganhou em 2022-2023 com quality. Anthropic ganha em 2024-2025 com safety. Mistral ganha em 2026 com efficiency. Próximo vencedor será quem tiver melhor tradeoff: quality + safety + speed + cost.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "AÇÃO",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "Salva",
+            "body": "Efficiency-first é trend 2026. Quem dorme na otimização vai pagar 3x mais caro em cloud bills.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Anthropic lança cursos grátis de Claude — estratégia de dominação by education",
+      "summary": "Anthropic anunciou cursos gratuitos com certificação para dominar Claude, 3 de maio 2026. Objetivo: acelerar adoção em desenvolvedores + empresas de todos os níveis. Estratégia de lock-in longo prazo (treina devs, eles ficam com Claude). Edu é o maior mercado de dominação.",
+      "source": "Criptotendencia / Anthropic",
+      "link": "https://criptotendencia.com/2026/05/03/anthropic-lanza-cursos-gratuitos-para-dominar-claude-y-acelerar-la-adopcion-de-ia-2/",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "Anthropic treina próxima geração em Claude — lock-in invisível que dura 20 anos",
+        "caption": "Anthropic lançou cursos GRÁTIS com certificação em Claude (3 de maio 2026).\n\nIsso parece simples. Não é.\n\nO que Anthropic tá fazendo é lock-in estratégico via educação. Por quê?\n\n1) Devs que aprendem Claude com certificação Anthropic ficam biased pra Claude\n2) Quando contratam, preferem colegas que conhecem Claude\n3) Quando fundam startup, usam o que conhecem (Claude)\n4) Quando investem, escolhem ferramentas familiares\n5) Loop infinito de compras: mais Claude lovers no mercado = mais demanda por Claude = Anthropic vence\n\nOpenAI tá fazendo o quê? Pouco. ChatGPT é tool que \"todo mundo sabe\", então não precisa educar.\n\nAnthropiac descobriu: educação > marketing. Treina 100K devs em Claude de graça, amortiza em bilhões de reais em lock-in futuro.\n\nComparação histórica:\nAcademy de Google → geração inteira de marketing/SEM especialistas → Google domina marketing digital (20 anos depois)\nAcademy de Salesforce → geração inteira de CRM admins → Salesforce domina CRM (15 anos depois)\nCourses de Claude → geração inteira de IA builders → Anthropic domina IA aplicada (próximos 10 anos)\n\n#Anthropic #Claude #Educação #IA #Training #Certificação #Comunidade #Inovação",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "ESTRATÉGIA INTELIGENTE",
+            "title": "Anthropic treina próxima geração de devs",
+            "highlight": "treina",
+            "body": "",
+            "stat": "Grátis",
+            "stat_label": "com certificação",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "REACH ESPERADA",
+            "title": "100K+ devs esperados em 1 ano",
+            "highlight": "100K+",
+            "body": "Anthropic lançou cursos grátis com certificação de Claude em 3 de maio. Expectativa: chega a 100K+ devs em 1 ano (similar a Google Academy e Salesforce Academy). Educação gratuita = adoção rápida.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O PLAY",
+            "title": "Educação = lock-in invisível mas brutal",
+            "highlight": "lock-in",
+            "body": "Dev aprende Claude em curso certificado. Quando contrata, quer colega que sabe Claude. Quando funda startup, usa Claude (familiar). Quando investe, recomenda Claude. Anthropic tá criando bias de 20 anos.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "COMPARAÇÃO HISTÓRICA",
+            "title": "Google Academy → Google dominou marketing (15 anos depois)",
+            "highlight": "Academy",
+            "body": "Google criou Google Academy em 2007 (grátis). 2022: 90% de marketing especialista usa Google Stack (Search, Ads, Analytics). Lock-in invisível mas durou 15 ANOS.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "CICLO",
+            "title": "Edu → bias → preference → lock-in → dominação",
+            "highlight": "lock-in",
+            "body": "Dev aprender Claude (curso). Contrata dev que sabe Claude (hire preference). Funda startup, usa Claude (tool choice). Investe, recomenda Claude (cap allocation). Mercado inteiro fica biased. Anthropic vence sem fazer nada (inércia).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO RAFAEL",
+            "title": "Talent que tu contratas já tá fluent em Anthropic stack",
+            "highlight": "fluent",
+            "body": "Nos próximos 3 anos, todo dev bom que forma sai com Claude certification. Quando contrata, não precisa treinar. Hit ground rodando. Qualidade média de talent sobe automaticamente.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "APRENDIZADO",
+            "title": "Quem controla educação controla mercado 10 anos depois",
+            "highlight": "educação",
+            "body": "OpenAI ganhou com ChatGPT (2022-2023). Anthropic tá ganhando com Agent Teams (2025-2026). Próximo ganho vai ser educação pura. Quem treina geração inteira vence sem competição.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "AÇÃO",
+            "title": "Segue @rafaondei + salva esse radar",
+            "highlight": "Segue",
+            "body": "Mercado de IA muda de verdade em educação. Acompanha as movidas que duram 10-20 anos.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Mistral Medium 3.5 + Leanstral: código com prova matemática integrada",
+      "summary": "Mistral lançou Mistral Medium 3.5 (128B dense model, agentic features) em 29 de abril, e Leanstral, primeiro agente open-source de código para Lean 4 que gera prova matemática checável. Prova que IA virou ferramenta de rigor científico, não só automation.",
+      "source": "Aizolo",
+      "link": "https://aizolo.com/blog/mistral-ai-latest-models-2026/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "IA + prova matemática = código 100% correto (sem bugs)",
+        "caption": "Mistral lançou Medium 3.5 em 29 de abril, mas a notícia REAL é Leanstral.\n\nLeanstral é o primeiro agente open-source de código pra Lean 4 que gera PROVA MATEMÁTICA integrada.\n\nPara. Repete: IA que escreve código COM PROVA que o código tá correto.\n\nIsso não é automation. Isso é ciência.\n\nO que é Lean 4? Linguagem formal de prova. Tudo que tu escreve é checável matematicamente. Sem \"talvez\" funcione. Sem \"espera o test passar\". É PROVADO que tá certo.\n\nLeanstral combina:\n- Mistral Medium como gerador de código\n- Lean 4 como checker de correção\n- Agente orquestra iteração até provar\n\nUso cases:\n- Código crítico (aerospace, medicina, infra)\n- Finanças (onde risco de bug = bilhões)\n- Cryptografia (segurança nativa)\n\nPor que isso importa:\n1) Código com bug virou impossível (prova integrada)\n2) Audits ficam triviais (tá provado, não precisa revisar)\n3) Compliance fica automático (regulador vê prova)\n\nProxima onda 2026-2027: código crítico EXIGE prova. Código que não tem prova é rejeitado em governance.\n\nMistral tá não só gerando código — tá gerando conhecimento matemático.\n\n#Mistral #Lean4 #Código #Prova #Matemática #Segurança #IA #Inovação",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "VIRADA PARADIGMA",
+            "title": "IA que prova que código tá correto",
+            "highlight": "prova",
+            "body": "",
+            "stat": "Leanstral",
+            "stat_label": "primeira agente Lean 4",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O QUE É NOVO",
+            "title": "Código + prova matemática checável",
+            "highlight": "checável",
+            "body": "Leanstral gera código Lean 4 com prova matemática integrada. Significa: tu consegue gerar código que é PROVADO estar correto, não só \"testado e passou\". Lean 4 é linguagem formal de prova.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "CONTEXTO",
+            "title": "Mistral Medium 3.5 + Leanstral em 29 abr",
+            "highlight": "Medium",
+            "body": "Mistral lançou Medium 3.5 (128B dense, agentic features). Mas o real move foi Leanstral no mesmo dia: agente que gera código + prova. Primeira solução open de código formal.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "IMPLICAÇÃO",
+            "title": "Código com bug virou cientificamente impossível",
+            "highlight": "impossível",
+            "body": "Se tu gerar Lean 4 com prova integrada, o código NÃO TEM BUG por definição matemática. Checker valida prova. Até a máquina concorda. Quitação: bug rate de código crítico cai pra ZERO.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Agente orquestra: geração + prova + iteração",
+            "highlight": "iteração",
+            "body": "Leanstral gera candidato de código. Lean 4 tenta provar. Se falha, agente itera (refaz). Repete até prova valer. Output: código + prova integrada. Sem humano no loop.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "USE CASES",
+            "title": "Aerospace, medicina, finanças, crypto",
+            "highlight": "Aerospace",
+            "body": "Código crítico que falha = morte (aerospace), óbitos (medicina), bilhões (finanças), hack (crypto). Com Leanstral, risco de falha é literalmente zero. Compliance automático. Regulador vê prova, aprova.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "TENDÊNCIA",
+            "title": "Código sem prova vai virar inaceitável em 2027",
+            "highlight": "2027",
+            "body": "2026 = prova é nice to have. 2027 = prova é obrigatório em code review de empresa séria. 2028 = regulador exige prova (compliance). Código sem prova vira legacy liability.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "MARCA CALENDÁRIO",
+            "title": "Segue @rafaondei pra tendências que duram 10 anos",
+            "highlight": "marca",
+            "body": "Leanstral é início de algo gigante. Quem dormir nesse trend vai estar 5 anos atrás.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    }
+  ],
+  "whatsapp": "🔴 RADAR DE IA — 03 de maio 2026\n\nTop 10 notícias do mercado IA hoje:\n\n1️⃣ Claude Opus 4.7 + Agent Teams — IA que delega pra outras IAs em paralelo (64.3% SWE-Bench)\nhttps://github.blog/changelog/2026-04-16-claude-opus-4-7-is-generally-available/\n\n2️⃣ GPT-5.5 em produção — Super app que entende intent rápido + sai do meio (Plus/Pro/Enterprise)\nhttps://openai.com/index/introducing-gpt-5-5/\n\n3️⃣ Grok 4.3 com 40% OFF — xAI declara guerra de preço ($1.25/$2.50 por M tokens, antes era $2/$6)\nhttps://venturebeat.com/technology/xai-launches-grok-4-3-at-an-aggressively-low-price-and-a-new-fast-powerful-voice-cloning-suite/\n\n4️⃣ Anthropic $900B valuation — Já vale mais que OpenAI (move de funding estratégico)\nhttps://www.cnbc.com/2026/04/29/anthropic-weighs-raising-funds-at-900b-valuation-topping-openai.html\n\n5️⃣ Harvard trocou ChatGPT por Claude — Universidade rank 1 mundo escolhe Anthropic (MIT em breve)\nhttps://www.thecrimson.com/article/2026/4/28/fas-anthropic-claude/\n\n6️⃣ Perplexity Computer +50% receita em 1 mês — Agentes de IA FUNCIONAM (Samsung usa em tudo)\nhttps://exame.com/inteligencia-artificial/mudanca-de-foco-da-perplexity-para-agentes-de-ia-faz-receita-subir-50-em-um-mes/\n\n7️⃣ Llama 4 Maverick bate GPT-4o — Open source virou melhor que closed (10M contexto, grátis)\nhttps://ai.meta.com/blog/llama-4-multimodal-intelligence/\n\n8️⃣ Google I/O 19-20 maio — Veo 3 + Gemini 3.1 Pro (Google contra-ataca)\nhttps://www.braining.com.br/2026/02/17/google-i-o-2026-e-confirmado-com-novidades-no-gemini-android-e-chrome/\n\n9️⃣ Mistral Small 4 — 40% latency menor, 3x throughput (efficient > big model)\nhttps://aizolo.com/blog/mistral-ai-latest-models-2026/\n\n🔟 Anthropic cursos grátis de Claude — Treina próxima geração (lock-in via educação)\nhttps://criptotendencia.com/2026/05/03/anthropic-lanza-cursos-gratuitos-para-dominar-claude-y-acelerar-la-adopcion-de-ia-2/\n\n🌐 Mais em: https://rafaelondei.appnaia.com",
+  "instagram": "🚨 IA ACELEROU DEMAIS (10 notícias do mercado em 7 dias)\n\nClaude Opus 4.7 é the king (Agent Teams paralelo funciona). GPT-5.5 tá vivo (mas 5 dias atrasado vs Claude). Grok 4.3 matou preço da IA cloud (-40%, mercado inteiro vai cair agora). Anthropic vale MAIS que OpenAI ($900B real money). Harvard escolheu Claude (Yale + Stanford vêm atrás). Perplexity Computer +50% receita em 30 dias (prova que agentes escalam). Llama 4 Maverick é open-source e melhor (Google dormindo). Google I/O em 19-20 maio vai soltar TUDO contra-ataque (prepare-se pra Veo 3 + Gemini 3.1 Pro). Mistral Small 4 prova efficient > big (40% mais rápido, 3x throughput). Anthropic treina geração inteira de devs em Claude (lock-in invisível que dura 20 anos).\n\nMercado tá tripolar agora: OpenAI (ChatGPT), Anthropic (Claude), Google (Gemini). Quem não acompanha perde bilhões. Follow @rafaondei pro radar diário. 🔥\n\n#IA #InteligenciaArtificial #Claude #ChatGPT #Gemini #Startup #Tech #Inovação #Empreendedorismo"
+}
