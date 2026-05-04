@@ -2,13 +2,6 @@
   "pending": [
     {
       "type": "carousel",
-      "id": "502f6989-be75-4d0a-80f5-c352cc48e9aa",
-      "key": "2026-05-04",
-      "n": 2,
-      "requested_at": "2026-05-04T21:53:16.066Z"
-    },
-    {
-      "type": "carousel",
       "id": "2fdf8cb4-6df4-4f1b-a7e2-52b7b78049fb",
       "key": "2026-05-04",
       "n": 3,
