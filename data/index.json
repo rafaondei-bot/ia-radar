@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-05-03T07:00:01-03:00",
+  "updated_at": "2026-05-04T07:30:00-03:00",
   "executions": [
+    {
+      "date": "2026-05-04",
+      "key": "2026-05-04",
+      "topic": "mercado de IA",
+      "summary": "Claude Mythos descobre zero-days automaticamente; DeepSeek V4 por R$ 7/mi tokens; Q1 2026 = US$ 242B em IA (80% VC global); Agents viraram 20 linhas de código; Sora-competitors multiplicam (Google Omni incoming)",
+      "items_count": 10
+    },
     {
       "date": "2026-05-03",
       "key": "2026-05-03",

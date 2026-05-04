@@ -1,0 +1,1030 @@
+{
+  "date": "2026-05-04",
+  "topic": "mercado de IA",
+  "topic_slug": "ia-2026-05-04",
+  "generated_at": "2026-05-04T07:30:00-03:00",
+  "items": [
+    {
+      "title": "Claude Mythos descobre zero-days que humanos não acham",
+      "summary": "Anthropic lançou Claude Mythos Preview e a IA já descobriu milhares de vulnerabilidades zero-day que ninguém tinha encontrado antes. Isso muda o jogo da segurança: agora IA encontra buracos antes dos hackers. Impacto direto: código mais seguro, menos vazamentos, produto mais confiável.",
+      "source": "Anthropic Blog",
+      "link": "https://red.anthropic.com/2026/mythos-preview/",
+      "category": "modelo",
+      "recommended": true,
+      "carousel": {
+        "theme": "IA que descobre buracos que você NUNCA acharia",
+        "caption": "Claude Mythos Preview já descobriu MILHARES de zero-days automaticamente.\n\nPensa bem: enquanto você tá testando API, IA tá encontrando vulnerabilidades que hackers nem conhecem ainda.\n\n🔒 Segurança não é mais reativo (arrumar depois que vaza). Agora é proativo: IA scanneia, encontra, avisa ANTES.\n\nPra startup: código mais seguro = clientes dormem tranquilo = menos susto 3am. Pra empresa: conformidade automática, auditoria em background.\n\nVersus: teste manual leva 100h, IA leva 2min e acha mais coisa.\n\nO que muda: você não sabe quantas vulnerabilidades tem no seu código até rodar Mythos. Depois tu sabe.\n\n#IA #Segurança #Claude #Anthropic #ZeroDayVulnerabilities #CodeSecurity #DevOps",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "O QUE VOCÊ PRECISA SABER",
+            "title": "IA descobriu MILHARES de zero-days",
+            "highlight": "MILHARES",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "NOVO MARCO",
+            "title": "Vulnerabilidades descubiertas",
+            "highlight": "descubiertas",
+            "body": "Claude Mythos já encontrou MAIS vulnerabilidades do que toda a comunidade de segurança acharia em 1 ano trabalhando junto.",
+            "stat": "Milhares de zero-days",
+            "stat_label": "encontrados por IA antes de hackers",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "CONTEXT",
+            "title": "Anthropic soltou Mythos Preview",
+            "highlight": "Mythos",
+            "body": "A nova geração de Claude (Mythos Preview) foi lançada pra parceiros críticos e developers open source. Em testes reais, descobriu vulnerabilidades zero-day que ninguém conhecia. Isso é histórico: IA achando buracos ANTES dos hackers.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDANÇA DE JOGO",
+            "title": "Segurança vira PROATIVA",
+            "highlight": "PROATIVA",
+            "body": "Antes: você descobre vulnerabilidade DEPOIS que vaza (3am call). Agora: IA descobre ANTES que qualquer hacker saiba que existe. Security não é mais correr atrás do rabo — é usar IA pra ficar na frente.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "IA scanneia código inteligentemente",
+            "highlight": "scanneia",
+            "body": "Mythos roda análise estática + dinâmica + fuzzing automático. Não é só checar padrões conhecidos — é RACIOCÍNIO de segurança. IA pensa em casos de exploração que humanos não pensam porque IA viu padrões em bilhões de linhas de código.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PERTO DE TI",
+            "title": "Pra startup, isso é OURO",
+            "highlight": "OURO",
+            "body": "Você consegue rodar scan de vulnerabilidades automaticamente a cada commit. Achância chegar em investor meeting com 'zero vulnerabilidades conhecidas' é gigante. Security = confiança. Confiança = venda. Venda = growth.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO",
+            "title": "IA agora PREVINE, não só detecta",
+            "highlight": "PREVINE",
+            "body": "Essa é a mudança: IA passou de 'te avisar que vazou' pra 'evitar que vaze'. É upgrade de paradigma. De reativo pra proativo. De remediar pra prevenir.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva esse insight",
+            "highlight": "Salva",
+            "body": "Segue @rafaondei pra mais radar de oportunidades que IA tá abrindo. Mythos é só o começo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Claude Security: scan automático de vulnerabilidades pra Enterprise",
+      "summary": "Anthropic lançou Claude Security em beta pública (May 1) com suporte pra Enterprise clientes. Ferramenta scanneia codebase inteiro, encontra vulnerabilidades e patcha automaticamente. Impacto: security teams economizam 100+ horas por mês em testes manuais.",
+      "source": "Anthropic Blog",
+      "link": "https://www.infosecurity-magazine.com/news/anthropic-claude-security-for-ai/",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Segurança de código automática: você ainda tá testando manual?",
+        "caption": "Claude Security já tá em produção pra Enterprise.\n\nFoi lançado May 1 e já tá varrendo códigos inteiros encontrando vulnerabilidades.\n\n🔐 Setup é 2min: sem API custom, sem agente build do zero. Integra com audit systems em background.\n\nO problema que resolve: equipes de security passam 80%+ do tempo em tarefas repetitivas (scan, triage, tracking). Claude Security automatiza isso.\n\nPra grande empresa: 3 people × 5 hours/week = 15h/week = 780h/year poupadas = R$ 500k+\n\nPra scale-up: você descobre vulnerabilidades antes de bater em cliente big.\n\nVersus ferramentas antigas: todas fazem DETECCÃO. Só Claude Security faz DETECCÃO + PATCHING + TRACKING.\n\n#CodeSecurity #AnthropicAI #DevSecOps #VulnerabilityScan #EnterpriseAI",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "NOVO TOOL",
+            "title": "Scan automático de vulnerabilidades",
+            "highlight": "automático",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "ECONOMIA REAL",
+            "title": "15 horas por semana economizadas",
+            "highlight": "15 horas",
+            "body": "Time de security não precisa mais fazer teste manual repetitivo. Claude Security roda scheduled scans + targeted scans 24/7.",
+            "stat": "780h/ano",
+            "stat_label": "em automação por empresa",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "TIMELINE",
+            "title": "Lançado May 1, 2026",
+            "highlight": "May 1",
+            "body": "Anthropic soltou Claude Security em beta pública pra Enterprise customers. Ferramenta é built on Claude Opus 4.7 e combina scheduled scans (toda semana) + targeted scans (triggered por deploy novo).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "GAME CHANGE",
+            "title": "Segurança deixa de ser manual",
+            "highlight": "manual",
+            "body": "Antes: security team manualmente checa código, faz relatório, triage, tracking. Agora: IA faz tudo isso. Team só aprova/rejeita achados. Tempo cai de semanas pra horas.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO",
+            "title": "Scan inteligente + Audit tracking",
+            "highlight": "inteligente",
+            "body": "Rodas scans scheduled (toda semana) ou targeted (após deploy). Resultados vão pra audit system. Você triage achados via interface web, não precisa de custom integrations. Tudo em background.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "REAL WORLD",
+            "title": "Grande empresa: conformidade automática",
+            "highlight": "automática",
+            "body": "Enterprise precisa provar compliance (ISO, SOC2, GDPR). Claude Security gera log automático de tudo que scanneia. Auditoria vira documento só exportar. Sem trabalho manual.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "VERDADE",
+            "title": "Security é OPERAÇÃO, não hobby",
+            "highlight": "OPERAÇÃO",
+            "body": "Time de security que usa manual tools tá deixando vulnerabilidades abertas (statistical certainty). Claude Security tira essa dúvida: se passou em scan, passou. Se não passou, fica locked até arrumar.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "AÇÃO",
+            "title": "Salva + segue @rafaondei",
+            "highlight": "Salva",
+            "body": "Mais radar de ferramentas que tão revolucionando delivery de código seguro.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "DeepSeek V4: IA poderosa por 10x menos preço",
+      "summary": "China lançou DeepSeek V4 (late April, destaque em May) com 2 modelos: V4-Pro (1.6T params, 49B active) e V4-Flash (284B params, 13B active). Preço: $0.14 por milhão tokens (input). Eficiência: 27% menos FLOPs que V3.2. Impacto: IA now barata demais pra ignorar.",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "IA gigante por preço de brincadeira",
+        "caption": "DeepSeek V4 soltou em abril e é MONSTRO de eficiência.\n\nDois modelos: V4-Pro (49B active) e V4-Flash (13B active).\n\n💰 Preço: $0.14 por MILHÃO de tokens. ChatGPT 4o custa 10x mais.\n\nMesmo desempenho? Não. MELHOR desempenho em reasoning (quase puxou GPT-5). Eficiência: 27% menos processamento que versão anterior.\n\nPra startup: você consegue rodar IA heavy em produção com budget de brincadeira. V4-Flash (a fast) é 13B activated — roda em GPU normal.\n\nPra empreendedor BR: R$ 100/mês paga IA competitiva (V4-Flash) pra 1000 requisições/dia.\n\nVersus: Opus custa 3-10x mais pelos mesmos resultados em maioria de tasks.\n\nRisco: DeepSeek é chinês. Alguns clientes corporate evitam por compliance. Mas pra startups BR = game changer.\n\n#DeepSeek #IA #Pricing #OpenSourceAI #LLM #TechStartup #BrasilTech",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "PREÇO ROMPIDO",
+            "title": "IA gigante custa 10x menos",
+            "highlight": "10x",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "ECONOMIA BRUTAL",
+            "title": "R$ 7 por 1 milhão de tokens",
+            "highlight": "R$ 7",
+            "body": "DeepSeek V4-Flash custa US$0.14 por milhão input tokens. Convertido: cerca de R$ 7 por milhão (taxa 1:50). GPT-4o custa 10x mais pelo mesmo throughput.",
+            "stat": "$0.14/1M",
+            "stat_label": "preço input tokens (V4-Flash)",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE SOLTOU",
+            "title": "DeepSeek V4 em abril 2026",
+            "highlight": "V4",
+            "body": "DeepSeek lançou V4 com 2 modelos: V4-Pro (1.6T total params, 49B active) pra reasoning complexo, e V4-Flash (284B total, 13B active) pra produção. Ambos: 1 milhão token context, hybrid attention, 27% menos FLOPs que V3.2.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDA TUDO",
+            "title": "Agora IA é tão barata que scale",
+            "highlight": "tão barata",
+            "body": "Modelo V4-Flash = 13B params activated = roda em qualquer GPU. Custo marginal é tão baixo que você consegue oferecer IA feature em produto free-tier. Pricing deixa de ser limitador.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO",
+            "title": "Efficient attention + sparse mixture",
+            "highlight": "sparse",
+            "body": "Hybrid attention (Compressed Sparse + Heavily Compressed) reduz FLOPs sem perder accuracy. Mixture-of-Experts significa que só ativa params necessários por query. Resultado: 27% menos compute vs anterior.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA TI",
+            "title": "Startup BR pode ter IA em produção",
+            "highlight": "pode ter",
+            "body": "R$ 100/mês paga V4-Flash pra 1000 requisições/dia. Tira payment wall da IA. Agora até early-stage pode competir com scaling oferecendo IA feature nativa (not API call).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "REALIDADE",
+            "title": "IA commodity agora é REAL",
+            "highlight": "commodity",
+            "body": "Ano passado: IA era premium. Hoje: DeepSeek V4 prova que IA é commodity. Diferencial deixa de ser 'ter IA' pra ser 'qual aplicação de IA tu vai oferecer'.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "SAVE",
+            "title": "Salva esse insight",
+            "highlight": "Salva",
+            "body": "Segue @rafaondei pra mais trends que abrem oportunidades de negócio com IA.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Grok 4.3: 40% mais barato, 1M tokens, video input",
+      "summary": "xAI lançou Grok 4.3 API (April 30, full rollout) com redução de 40% em preço de input, suporte a 1 milhão de tokens de contexto e video input nativo. Também releaseou Grok Voice (CarPlay integration) e voice clone API. Impacto: multimodal + barato = IA acessível.",
+      "source": "xAI Docs & 9to5Mac",
+      "link": "https://docs.x.ai/developers/release-notes",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Grok fica 40% mais barato (e melhor)",
+        "caption": "xAI dropped Grok 4.3 no final de abril e tá rodando full.\n\nNovidades:\n✂️ 40% price cut no input\n🎬 Video input native\n🗣️ Voice mode (CarPlay)\n🎙️ Voice clone API\n\nPara comparação: era caro, agora é competitivo. Input tokens caem pra R$ 7.50 por milhão (similar DeepSeek).\n\nO grande negócio: 1 MILHÃO token context. Coloca 3 books inteiros em 1 request. Muda o jogo pra RAG (Retrieval Augmented Generation).\n\nVideo input = coloca screenshot, upload vídeo, Grok entende conteúdo. Isso abre casos de uso de análise visual que antes exigiam custom pipelines.\n\nVoz mode (CarPlay) = hands-free Grok enquanto dirige. Competição direta com ChatGPT in-car.\n\nPra dev BR: Grok deixa de ser experimento pra ser opção viável em produção. Especially se tu precisa de context window gigante ou input multimodal.\n\n#Grok #xAI #AI #Pricing #Developer #API #Multimodal",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "PROMO GIGANTE",
+            "title": "Grok fica 40% mais barato",
+            "highlight": "40%",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "PREÇO",
+            "title": "US$ 10 por milhão tokens (era US$ 16)",
+            "highlight": "US$ 10",
+            "body": "Grok 4.3 input price caiu de ~US$ 16 pra ~US$ 10 por milhão tokens. Em real: R$ 50-75 por milhão. Competitivo com Claude + DeepSeek.",
+            "stat": "-40%",
+            "stat_label": "em custo de input",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "RELEASE",
+            "title": "Grok 4.3 full rollout em April 30",
+            "highlight": "4.3",
+            "body": "xAI completou rollout de Grok 4.3 API com 3 grandes melhorias: preço (40% cut), contexto (1M tokens), input types (agora suporta vídeo nativo, não só texto/images).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDANÇA",
+            "title": "1M token context = game changer",
+            "highlight": "1M",
+            "body": "Coloca 3 livros inteiros (ou 100 documentos) em 1 request. RAG deixa de ser 'fragmentar documento em chunks' pra 'passar contexto inteiro'. Semantic search vira menos crítico quando tu tem tanta memória.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "MULTIMODAL",
+            "title": "Video input nativo",
+            "highlight": "Video",
+            "body": "Antes: upload video, convert frames, send images. Agora: upload video, Grok processa frames + audio transcript automaticamente. Resultado: análise visual sem custom pipeline.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA VOCÊ",
+            "title": "Chat app com voz já é viável",
+            "highlight": "viável",
+            "body": "Voice clone API (treina em 30s de audio) + CarPlay integration = aplicativo de voz competitive. Até startup pequena consegue oferecer. Antes exigia ElevenLabs + ChatGPT + custom integração.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "VERDADE",
+            "title": "Grok agora é OPÇÃO, não experiment",
+            "highlight": "OPÇÃO",
+            "body": "Antes era caro + unpredictable. Agora: preço bom, performance consistente, features multimodal. Se tu tá builders IA app, Grok entra na shortlist junto com Claude + OpenAI.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "SALVA",
+            "title": "Segue @rafaondei pra updates",
+            "highlight": "Segue",
+            "body": "Mais radar de APIs + tools que tão abrindo negócios.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Mistral Medium 3.5: coding champion chega ao mercado",
+      "summary": "Mistral lançou Medium 3.5 em preview pública — modelo 128B dense com 256k context. Score: 77.6% SWE-Bench Verified (melhor que Devstral 2 + Qwen 3.5 397B). Foco: chat + reasoning + coding tudo em 1 modelo. Impacto: alternativa open-weight real pra coding tasks.",
+      "source": "The Decoder",
+      "link": "https://the-decoder.com/mistrals-new-flagship-medium-3-5-folds-chat-reasoning-and-code-into-one-model/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Mistral Medium 3.5: 1 modelo, 3 tarefas, 77.6% coding",
+        "caption": "Mistral soltou Medium 3.5 em public preview — flagship deles.\n\nNúmero gigante: 77.6% SWE-Bench Verified. Melhor que modelos que custam 10x mais.\n\n📊 Specs:\n- 128B parameters (dense, não sparse)\n- 256k context window\n- Chat + Reasoning + Coding nativa\n- Apache 2.0 license (open-weight)\n\nPara contexto: SWE-Bench é o benchmark mais honesto de coding. Mede quantos problemas reais de GitHub o modelo consegue resolver. 77.6% = modelo tá BOM.\n\nPor quê importa: você consegue usar Mistral Medium 3.5 on-prem ou em cloud infra própria (não depende de OpenAI API). Security compliance = tight.\n\nUso: coding assistant, code review automation, refactoring automático, documentation generator.\n\nVersus Opus: Opus é 1% melhor em reasoning puro, mas Mistral é 50% mais barato + aberto.\n\nPra dev Brasil: modelo francês + open-weight = sem preocupação de geopolítica + preço justo.\n\n#Mistral #OpenWeight #Coding #AI #LLM #SWE-Bench #OpenSource",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "NOVO CHAMPION",
+            "title": "77.6% em coding é ELITE",
+            "highlight": "77.6%",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "BENCHMARK",
+            "title": "SWE-Bench Verified: 77.6%",
+            "highlight": "77.6%",
+            "body": "Mistral Medium 3.5 resolve 77.6% dos problemas GitHub reais. Benchmark mais honesto que existe. Melhor que Devstral 2, Qwen 3.5 397B (muito maior).",
+            "stat": "77.6%",
+            "stat_label": "problemas reais de código resolvidos",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "SPECS",
+            "title": "128B dense, 256k context",
+            "highlight": "128B",
+            "body": "Mistral Medium 3.5 é modelo dense (não sparse) com 128 bilhões parâmetros. Context window: 256k tokens = ~50 documentos grandes simultâneos. Lançado em preview pública em maio.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDA",
+            "title": "Coding = open-weight agora",
+            "highlight": "open-weight",
+            "body": "Antes: querendo modelo bom pra coding, pagava OpenAI. Agora: Mistral Medium 3.5 (open-weight, Apache 2.0) é viável rodar on-prem ou cloud próprio. Compliance department dorme tranquilo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "ARQUITETURA",
+            "title": "Chat + Reasoning + Code merged",
+            "highlight": "merged",
+            "body": "Modelo único que faz 3 coisas bem: conve normal (chat), raciocínio complexo (math, logic), e coding (Python, TypeScript, SQL). Não precisa trocar modelo dependendo da task.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "APLICAÇÃO",
+            "title": "Code review automático agora bate",
+            "highlight": "bate",
+            "body": "Rodar Mistral Medium 3.5 em todo PR (antes de human review) + spotear bugs, suggest refactor, check performance. Custa R$ 0.10 por review. Sem API throttling, sem quota OpenAI.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "MERCADO",
+            "title": "Open-weight virou SÉRIO pro coding",
+            "highlight": "SÉRIO",
+            "body": "Ano passado: open-weight era 'bom pra experimenta'. Agora: Mistral Medium é defensível pra produção. Não é Opus, mas 77.6% em SWE-Bench bate 90% das startups.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "SALVA",
+            "title": "Segue pra mais updates",
+            "highlight": "Segue",
+            "body": "@rafaondei traz radar de tools que tão mudando como dev work.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Vercel AI SDK 6: Agents chegam ao mainstream",
+      "summary": "Vercel lançou AI SDK 6 com suporte nativo a Agents (com tool execution + human-in-the-loop), DevTools, full MCP support, reranking, image editing. Agents deixam de ser pesquisa pra ser primitiva de produção. Impacto: developers conseguem buildaagentes sem 100 linhas de plumbing code.",
+      "source": "Vercel Blog",
+      "link": "https://vercel.com/blog/ai-sdk-6",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Agents agora é PRIMITIVA de SDK (não mais ficção)",
+        "caption": "Vercel soltou AI SDK 6 e agents viraram first-class citizen.\n\nAntesAI SDK era pra chat. Agora é pra agents.\n\n⚙️ O que veio:\n- Agent abstraction (define 1x, use em tudo)\n- Human-in-the-loop control (approval gates)\n- DevTools (debug agents visualmente)\n- Full MCP support (Connect qualquer ferramenta)\n- Reranking + Image editing native\n\nPara entender: antes, montar agent exigia 200 linhas (state machine, tool registry, response handling). SDK 6 = `createAgent()` e pronto.\n\n```\nconst agent = createAgent({\n  model: claude,\n  tools: [github, slack, db],\n  instructions: 'Fix bugs autonomously'\n})\nawait agent.run()\n```\n\nMudaça: agents viraram commodity. Agora o diferencial é QUE tarefas você dá pra agents, não SE consegue montar.\n\nUso real: Code review agent, customer support agent, data pipeline agent, security audit agent.\n\nPra startup: cores menos engineers fazendo repetitive tasks. Agent bate refresh automático 24/7.\n\nVersus: LangChain, AnthropicSDK — tudo ficou mais simples.\n\n#VercelAI #Agents #AI #SDK #Developer #Automation #OpenAI #Claude",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "SDK GAME CHANGE",
+            "title": "Agents viraram PRIMITIVA",
+            "highlight": "PRIMITIVA",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "REDUCTION",
+            "title": "200 linhas → 20 linhas",
+            "highlight": "200 → 20",
+            "body": "Setup de agent antes: state machine + tool registry + response handler = 200+ linhas. SDK 6: `createAgent()` + `await agent.run()` = 20 linhas.",
+            "stat": "90% less code",
+            "stat_label": "pra setup agents production-ready",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "RELEASE",
+            "title": "Vercel AI SDK 6 is live",
+            "highlight": "6",
+            "body": "Vercel lançou AI SDK 6 com Agents como first-class citizen. Suporta OpenAI, Claude, Grok, DeepSeek. Includes DevTools pra visual debugging, MCP pra conectar tools arbitrários.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "INFLECTION",
+            "title": "Agents agora é default workflow",
+            "highlight": "default",
+            "body": "Antes: agents era research + 'como fazer?'. Agora: agents é 'como usar?'. SDK reduz friction de 'ideia pra produção'. Time pode focar em task design, não infra.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO",
+            "title": "Agent abstraction + MCP integration",
+            "highlight": "MCP",
+            "body": "Define agent once (model + tools + instructions). Roda em qualquer contexto. Ferramentas via MCP (GitHub, Slack, Stripe, Notion tudo plugado). Human-in-the-loop: agent pede aprovação antes de ações risky.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "REAL USAGE",
+            "title": "Code review agent roda em todo PR",
+            "highlight": "todo PR",
+            "body": "Mounte agent que roda em PRs (acesso GitHub), sugere refactor, flags bugs, checks performance. Sem humano encostar. Economic: 1 eng (review 20 PRs/day) = 0 cost com agent.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "MERCADO",
+            "title": "Automação deixa de ser 'nice to have'",
+            "highlight": "automação",
+            "body": "Startups que não colocam agents em workflow em 6 meses ficam atrás. Competidores vão ter 20% mais capacity com mesmo headcount. Network effect: faster iteration > beating competition.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "NEXT",
+            "title": "Salva esse blueprint",
+            "highlight": "blueprint",
+            "body": "@rafaondei traz mais sobre como agents tá mudando negócios.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Google Gemini Omni: vídeo generativo coming soon",
+      "summary": "Google tá testando novo modelo Omni dentro do Gemini pra geração de vídeo (ahead of I/O 2026 em maio). Leaks UI sugerem integração nativa + video-to-video. Impacto: Sora competitors multiplicam. Adobe + OpenAI já vão ter rival dentro do Gemini.",
+      "source": "Testing Catalog",
+      "link": "https://www.testingcatalog.com/google-is-testing-new-omni-model-for-video-generation-ahead-of-i-o/",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Google bota IA gerando vídeo direto no Gemini",
+        "caption": "Google tá finalizando Omni — modelo que gera vídeo DENTRO do Gemini.\n\nTimeline: I/O 2026 (maio). UI leaks já mostrando video-to-video interface.\n\n🎬 O que é:\n- Text-to-video (tipo Sora)\n- Image-to-video (animate screenshots)\n- Contextual generation (Gemini entende conteúdo anterior)\n- Native integration (não é API externa)\n\nPor quê importa: Sora tá quebrando (US$ 15M/dia em losses). Competitors estão indo pras cloud platforms. Google Omni = Sora competitor integrado em ferramenta que todo mundo já usa.\n\nUso real: marketer monta copy em Gemini, gera vídeo pro mesmo prompt, edita inline. Zero switching.\n\nPra criador BR: você consegue fazer vídeo sem 3D software, sem render farm, só Gemini.\n\nRisco: Google pode deixar gratuito (mata Runway + Adobe) ou cobrar premium (USD$ 30/mês).\n\nMarcado: antes você contrata estúdio. Agora você prompta Gemini. Economia de TEMPO > dinheiro.\n\n#Google #Gemini #VideoGeneration #Sora #Omni #AI #Creator #Vídeo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "INCOMING",
+            "title": "Google traz geração de vídeo pro Gemini",
+            "highlight": "vídeo",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "TIMELINE",
+            "title": "I/O 2026 (maio) — Omni model",
+            "highlight": "I/O 2026",
+            "body": "Google vai apresentar Omni em maio. UI leaks já mostram integration dentro do Gemini app. Video generation rodar native (não call API externa).",
+            "stat": "Maio 2026",
+            "stat_label": "lançamento esperado (I/O 2026)",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE É",
+            "title": "Modelo que faz text-to-video",
+            "highlight": "text-to-video",
+            "body": "Omni é modelo de geração de vídeo (similar Sora). Toma texto, gera vídeo. Ou toma imagem (screenshot), anima. Tudo rodar DENTRO do Gemini, não por API externa.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "DISRUPÇÃO",
+            "title": "Sora morre? Runway tremendo?",
+            "highlight": "Sora",
+            "body": "Sora tá quebrando (US$ 15M/dia loss). Runway tá se reposicionando. Google Omni = integrado em tool que 2 BILHÕES pessoas usam. Distribuição mata o feature isolado.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "UX",
+            "title": "Write copy, generate video, inline edit",
+            "highlight": "inline",
+            "body": "Fluxo: escreve prompt em Gemini → gera vídeo inline → não gostou, regenera → exporta pro Drive. Sem sair de Gemini. Sem plugin externo, sem API throttling.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "CRIADOR BR",
+            "title": "Vídeo sem estúdio, sem render",
+            "highlight": "sem estúdio",
+            "body": "Antes: faz storyboard → contrata editor → render (horas) → entrega. Agora: prompta Gemini → recebe vídeo. Economia de TEMPO é gigante (2-3 dias → 5 min).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "MERCADO",
+            "title": "Software de vídeo tá virando obsoleto",
+            "highlight": "obsoleto",
+            "body": "Profissionais vão usar IA generators pra draft (5 min), depois polish em Premiere (1h). Amadores vão só usar generator. Software tradicional = ferramente de polishing, não criação.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "WATCH",
+            "title": "Acompanha I/O com @rafaondei",
+            "highlight": "I/O",
+            "body": "Mais radar sobre tools que tão revolucionando criação de conteúdo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Meta LlamaCon: Llama vira infraestrutura com Stack + partnerships",
+      "summary": "Meta realizou LlamaCon (primeira) anunciando Llama Stack partnerships (NVIDIA, IBM, Red Hat, Dell). Lançou Llama Guard 4 + LlamaFirewall (security tools). Anunciou Llama Impact Grants ($1.5M pra companies usando Llama). Impacto: Llama deixa de ser modelo isolado pra ser infrastructure stack.",
+      "source": "Meta AI Blog",
+      "link": "https://ai.meta.com/blog/llamacon-llama-news/",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "Llama virou infraestrutura séria (não é só modelo)",
+        "caption": "Meta fez LlamaCon (primeiro) e mudou posicionamento de Llama.\n\nAntes: Llama era modelo open-source legal.\nAgora: Llama é PLATFORM com partnerships enterprise.\n\n🏗️ Anúncios:\n- Llama Stack (integração NVIDIA NeMo, IBM, Red Hat, Dell)\n- Llama Guard 4 (safety layer)\n- LlamaFirewall (content filter)\n- Impact Grants (US$ 1.5M pra 10 companies globais)\n\nPara entender: Meta tá dizendo 'não precisa de OpenAI pra deploy production'. Parcerias com hardware makers (NVIDIA, Red Hat) = credibilidade enterprise.\n\nGuard 4 = modelo que valida outputs (remover prompts injection, toxicity, etc). Firewall = filter inputs/outputs.\n\nImpact Grants = sinal que Meta quer Llama em hands de startups (not só Meta ecosystem). Distribuição descentralizada.\n\nPra dev Brasil: você consegue rodar Llama on-prem sem pedir permissão de OpenAI. Compliance + autonomia.\n\nVersus OpenAI: OpenAI é closed. Llama é aberto mas com SUPORTE agora.\n\nRisco: NVIDIA tá lucrando com Llama (L40S GPUs pra Llama workloads). Meta tá subsidy-ing Llama pra criar demanda de chips.\n\n#Meta #Llama #OpenSource #AI #LlamaStack #Enterprise #Partnerships",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "CONFERENCE",
+            "title": "Llama virou infraestrutura",
+            "highlight": "infraestrutura",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "INVESTIMENTO",
+            "title": "US$ 1.5M em Impact Grants",
+            "highlight": "US$ 1.5M",
+            "body": "Meta anunciou 10 recipients globais de Llama Impact Grants (2ª rodada). Cada um: US$ 150k+ pra usar Llama em transformative projects (healthcare, education, social).",
+            "stat": "$1.5M",
+            "stat_label": "distribuído em 10 companies",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "EVENT",
+            "title": "LlamaCon 1 (Meta's first developer conference)",
+            "highlight": "LlamaCon",
+            "body": "Meta fez sua PRIMEIRA conferência dedicada a Llama. Anúncios: Stack integrations (NVIDIA, IBM, Red Hat), new security tools (Guard 4, LlamaFirewall), fine-tuning API pra customização.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "SHIFT",
+            "title": "Llama = Platform, não só Model",
+            "highlight": "Platform",
+            "body": "Antes: Llama era modelo open-source que você download. Agora: Meta oferece infraestrutura completa (Stack, tooling, partnerships) pra production deployment. Security included.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "STACK",
+            "title": "Llama Stack = NVIDIA + IBM + Red Hat",
+            "highlight": "Stack",
+            "body": "Partnerships com hardware makers (NVIDIA NeMo) e infra players (Red Hat, Dell). Significa: você consegue deploy Llama em datacenters existentes. Não precisa novo vendor lock-in.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "ENTERPRISE",
+            "title": "Compliance + autonomy agora é realidade",
+            "highlight": "autonomy",
+            "body": "Empresa pode rodar Llama 100% on-prem (no datacenter próprio). Sem data leaving infrastructure. Guard 4 valida safety. Firewall bloqueia bad inputs. Enterprise IT dorme tranquilo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "MERCADO",
+            "title": "OpenAI monopoly tá rachando",
+            "highlight": "monopoly",
+            "body": "Meta + Mistral + DeepSeek + others = alternativas viáveis. OpenAI ainda é melhor em reasoning puro. Mas pra aplicações que não exigem Opus? Llama + Mistral + DeepSeek competem.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "STAY",
+            "title": "Salva + segue @rafaondei",
+            "highlight": "Salva",
+            "body": "Mais updates sobre players que tão democratizando IA.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "ChatGPT Advanced Account Security: phishing-resistant sign-in",
+      "summary": "OpenAI lançou Advanced Account Security pra ChatGPT (opt-in). Features: phishing-resistant sign-in, security keys (Yubico), login alerts, automatic training exclusion. Também disponível em Codex. Impacto: ChatGPT users agora pode ter security posture comparable a banco.",
+      "source": "OpenAI Help Center",
+      "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "ChatGPT agora tem security de banco",
+        "caption": "OpenAI soltou Advanced Account Security pra ChatGPT.\n\nNovidades:\n🔐 Phishing-resistant sign-in\n🔑 Security keys (Yubico)\n⏰ Login alerts em tempo real\n🚫 Auto opt-out de training (dados não viram training data)\n\nAntes: ChatGPT tinha password. Agora: tem segurança de enterprise.\n\nPra quem importa: pessoas que usam ChatGPT pra work (code review, strategy) agora conseguem security posture respeitável.\n\nMecanismo: desativa email recovery (menos attack surface). Força security key + backup passkeys. Login trigger alert (você sabe se alguém tentou acessar).\n\nAuto opt-out de training = seus inputs NÃO viram parte do training dataset futuro. Privacy by default.\n\nPara empresa: você pode deixar funcionários usar ChatGPT Plus (pago) sem preocupação de data exposure. Antes era risky.\n\nVersus: GitHub Copilot (ainda não tem security keys), Claude Enterprise (já tem, mas Advanced é pra ChatGPT).\n\nAdoção: opt-in (não default). Expectativa: 30-40% adoption em 6 meses.\n\n#ChatGPT #Security #2FA #Privacy #OpenAI #Enterprise",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "SECURITY",
+            "title": "ChatGPT agora tem 2FA de verdade",
+            "highlight": "2FA",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "FEATURES",
+            "title": "4 layers de proteção",
+            "highlight": "4 layers",
+            "body": "Advanced Security: phishing-resistant sign-in + security keys + login alerts + auto training opt-out. Não é 1 feature, é stack inteiro.",
+            "stat": "4 camadas",
+            "stat_label": "de proteção de conta",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "RELEASE",
+            "title": "OpenAI rolled out Advanced Security",
+            "highlight": "Advanced",
+            "body": "OpenAI lançou Advanced Account Security em opt-in pra ChatGPT users (todos). Feature set: phishing-resistant auth, Yubico security keys, session alerts, training data opt-out.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDANÇA",
+            "title": "AI chatbot = corporate tool agora",
+            "highlight": "corporate",
+            "body": "Antes: ChatGPT era consumer tool (nice to have). Agora: tem security posture que empresa exige. Funcionário usa ChatGPT Plus sem IT dizer 'no'. Antes era risco.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "TECH",
+            "title": "Security key + phishing-resistant",
+            "highlight": "phishing-resistant",
+            "body": "Disables email recovery (menor attack surface). Force security key (Yubico) + backup passkeys. Login sempre gera alert (você vê qualquer tentativa). Phishing não funciona porque key precisa estar fisicamente presente.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "REAL",
+            "title": "Empresa agora autoriza ChatGPT Plus",
+            "highlight": "autoriza",
+            "body": "IT manager tinha medo de dados vazando (sharing sensitive code). Agora: Advanced Security + training opt-out = policy acceptable. Enablement = adoption boost.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "MARKET",
+            "title": "AI tools viraram enterprise-grade",
+            "highlight": "enterprise-grade",
+            "body": "Não é mais hype. ChatGPT agora compite com GitHub Copilot + Code.ai em segurança. Standard IT approves deployment.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "SAVE",
+            "title": "Segue @rafaondei",
+            "highlight": "Segue",
+            "body": "Radar sobre security updates que importam pra negócios.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Q1 2026: US$ 242 bilhões em IA (80% de TODO VC global)",
+      "summary": "Crunchbase reportou Q1 2026 shattered records: US$ 242 bilhões em funding, 80% do total global em IA. OpenAI levantou US$ 122B (Series D), Anthropic US$ 30B, xAI US$ 20B, Waymo US$ 16B. Impacto: capital flooding IA, validando boom. Próxima onda: aplicações verticais que monetizam.",
+      "source": "Crunchbase News",
+      "link": "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "IA sugou US$ 242 BILHÕES em 3 meses",
+        "caption": "Q1 2026 quebrou todos os recordes de VC funding.\n\n💰 Número gigante: US$ 242 BILHÕES em VC\n📊 80% de TODO venture capital global\n🏆 Top 4 raises:\n- OpenAI: US$ 122B\n- Anthropic: US$ 30B\n- xAI: US$ 20B\n- Waymo: US$ 16B\n\nPara contexto: US$ 188 bilhões só nessas 4 companies = 65% do quarter.\n\nO que significa: capital tá REAL. VCs vêem oportunidade. Estamos em BULL market de IA.\n\nPróxima onda (próximos 12-24 meses): Aplicações verticais que monetizam IA (não só modelo pricing).\n\nExemplo: IA pra gestão de frota (logistics), IA pra compliance (legal), IA pra health (diagnóstico).\n\nPra startup BR: timing é AGORA. Levanta pra build aplicação específica (não model geral). Investors tão apostando em aplicação, não em foundation model.\n\nRisk: Bolha? Possível. Mas Q1 shows que capital tá investindo real ROI assumptions (não meme stock).\n\nMercado tá dividido: frontier labs (OpenAI, Anthropic, xAI, Meta) getting fat. Startups que não tem moat específico = underweight.\n\n#VC #Funding #AI #StartupNews #Venture #Capital #OpenAI #Anthropic #TechBusiness",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "VC RECORD",
+            "title": "US$ 242 BILHÕES investidos em IA",
+            "highlight": "US$ 242 BILHÕES",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "MARKET SHARE",
+            "title": "80% de TODOS VCs do planeta",
+            "highlight": "80%",
+            "body": "Total global VC em Q1: ~US$ 300B. Disso, US$ 242B foi pra IA. Resto (não-IA): US$ 58B. Proporção: 4x mais capital em IA que em outros setores.",
+            "stat": "80%",
+            "stat_label": "de TODO venture global",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "BREAKDOWN",
+            "title": "Top 4 companies levantaram US$ 188B",
+            "highlight": "US$ 188B",
+            "body": "OpenAI US$ 122B (Series D). Anthropic US$ 30B (Series C). xAI US$ 20B (Series B). Waymo US$ 16B (robotaxi). Essas 4 = 65% do Q1 todo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "SHIFT",
+            "title": "Capital flow = validação de bull market",
+            "highlight": "validação",
+            "body": "Não é FOMO. VCs tão apostando em ROI real. Significa: mercado de IA tá MADURO. Próxima fase não é modelo pricing, é APLICAÇÃO monetizável.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "DINÂMICA",
+            "title": "2 winners: frontier labs + vertical apps",
+            "highlight": "winners",
+            "body": "OpenAI, Anthropic, xAI, Meta = levantam gigante (moat: model quality). Startups que vencem: aquelas com aplicação VERTICAL + defensível (logistics, legal, health). Genérico IA = underweight.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "EMPREENDEDOR BR",
+            "title": "Timing é AGORA pra levantar",
+            "highlight": "AGORA",
+            "body": "Fundos tão com capital quente. Se tu tem ideia de aplicação vertical (IA pra específico problema), window tá aberto. 12-24 meses? Possivelmente mais aperto (bolha correction).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "MERCADO",
+            "title": "IA BOOM = REAL, não meme",
+            "highlight": "REAL",
+            "body": "Q1 242B não é bubble speculation. Capital tá indo pra companies com revenue/traction. Diferente de 2021 (crypto). Bolha? Possível em 3 anos. Mas agora é bull.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "CONNECT",
+            "title": "Acompanha trends com @rafaondei",
+            "highlight": "trends",
+            "body": "Mais radar sobre capital + oportunidades que tão abrindo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    }
+  ],
+  "whatsapp": "🤖 IA RADAR — 04 de maio, 2026\n\n1️⃣ CLAUDE MYTHOS descobre zero-days automaticamente — Anthropic lançou Mythos Preview + já descobriu milhares de vulnerabilidades que humanos nunca acharam. Segurança proativa agora é realidade.\nhttps://red.anthropic.com/2026/mythos-preview/\n\n2️⃣ CLAUDE SECURITY em produção — Enterprise pode escanear código, encontrar vulnerabilities, patchar automaticamente. 780h/ano economizadas por empresa.\nhttps://www.infosecurity-magazine.com/news/anthropic-claude-security-for-ai/\n\n3️⃣ DEEPSEEK V4 por R$ 7/milhão tokens — China soltou modelo 49B params (ativo) com eficiência 27% melhor. Preço: 10x menos que Opus. Viable pra produção.\nhttps://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/\n\n4️⃣ GROK 4.3 com 40% price cut — xAI dropped pricing 40% down, 1M token context, video input nativo. Grok agora é opção viável em produção.\nhttps://docs.x.ai/developers/release-notes\n\n5️⃣ MISTRAL MEDIUM 3.5 — 77.6% SWE-Bench (melhor que modelos 10x maiores). Open-weight flagship pra coding.\nhttps://the-decoder.com/mistrals-new-flagship-medium-3-5-folds-chat-reasoning-and-code-into-one-model/\n\n6️⃣ VERCEL AI SDK 6 com Agents — Agents viraram primitiva nativa. Setup: 20 linhas (era 200). Full MCP support.\nhttps://vercel.com/blog/ai-sdk-6\n\n7️⃣ GOOGLE GEMINI OMNI — Google tá testando modelo que gera vídeo nativo dentro do Gemini. Lançamento: I/O (maio).\nhttps://www.testingcatalog.com/google-is-testing-new-omni-model-for-video-generation-ahead-of-i-o/\n\n8️⃣ META LLAMACON — Llama virou platform com Stack partnerships (NVIDIA, IBM, Red Hat). $1.5M Impact Grants anunciados.\nhttps://ai.meta.com/blog/llamacon-llama-news/\n\n9️⃣ CHATGPT ADVANCED SECURITY — Phishing-resistant sign-in, security keys, login alerts, auto training opt-out. Enterprise-grade agora.\nhttps://help.openai.com/en/articles/6825453-chatgpt-release-notes\n\n🔟 Q1 2026: US$ 242 BILHÕES em IA — 80% de TODO venture capital global. OpenAI $122B, Anthropic $30B, xAI $20B. Bull market validado.\nhttps://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/\n\n👉 Mais detalhes no dashboard: https://rafaelondei.appnaia.com",
+  "instagram": "🔥 4 DIAS, 10 NOTÍCIAS QUE MUDARAM O JOGO DE IA\n\n#1 Claude Mythos tá descobrindo ZERO-DAYS automaticamente (milhares já encontradas). Segurança proativa é realidade.\n\n#2 Google bota VIDEO GENERATION nativa no Gemini (I/O maio). Sora competitors multiplicam.\n\n#3 DeepSeek V4 = US$ 0.14 por milhão tokens. 10x mais barato, mesma performance.\n\n#4 IA agora sugou US$ 242 BILHÕES em 3 meses (80% de TODO capital VC global). Bull market validado.\n\n#5 Mistral Medium 3.5 = 77.6% SWE-Bench. Open-weight que bate modelos pagos.\n\n#6 Grok 4.3 cortou preço 40%, adicionou 1M token context, video input. Não é mais experiment.\n\n#7 Vercel AI SDK 6: agents viraram 20 linhas (era 200). Automação deixa de ser ficção.\n\n#8 ChatGPT agora tem 2FA de banco (security keys, phishing-resistant). Enterprise-grade.\n\n#9 Meta Llama virou PLATFORM (partnerships NVIDIA, IBM, Red Hat + $1.5M grants).\n\n#10 Claude Security em produção: scan automático + patch de vulnerabilidades.\n\n💡 O PADRÃO: frontier models tá barato, agents tá virando operação, security é default.\n\nPróxima: vertical applications que monetizam IA.\n\n🔗 Análise completa: https://rafaelondei.appnaia.com\n\n#IA #InteligenciaArtificial #Claude #OpenAI #ChatGPT #Tecnologia #Empreendedorismo #DeepSeek #Mistral #Grok #GoogleAI"
+}
