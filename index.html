@@ -3,6 +3,13 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<!-- Security headers (meta tags — efetivo pra single-page estática) -->
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://cdnjs.cloudflare.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src https://fonts.gstatic.com data:; img-src 'self' data: https://raw.githubusercontent.com; frame-src 'self' data:; connect-src 'self' https://ia-radar-trigger.rafaondei-radar.workers.dev https://raw.githubusercontent.com; object-src 'none'; base-uri 'self'; form-action 'self';" />
+<meta http-equiv="X-Content-Type-Options" content="nosniff" />
+<meta http-equiv="Referrer-Policy" content="strict-origin-when-cross-origin" />
+<meta http-equiv="Permissions-Policy" content="camera=(), microphone=(), geolocation=(), payment=(), usb=()" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="theme-color" content="#0a0a0a" />
 <title>IA Radar — Rafael Ondei</title>
 <meta name="description" content="Radar diário do mercado de IA. 10 informações mais relevantes, atualizado às 7h." />
 <link rel="preconnect" href="https://fonts.googleapis.com" />
