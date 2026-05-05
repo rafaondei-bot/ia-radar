@@ -1,0 +1,1030 @@
+{
+  "date": "2026-05-05",
+  "topic": "mercado de IA",
+  "topic_slug": "mercado-de-ia",
+  "generated_at": "2026-05-05T07:30:01-03:00",
+  "items": [
+    {
+      "title": "Anthropic abre frente em PE: $1.5B com Goldman e Blackstone",
+      "summary": "Anthropic forma joint venture com Goldman Sachs, Blackstone e Hellman & Friedman para deploy Claude em mid-market companies. Investimento de US$ 1.5 bilhões. Significa que IA corporativa saiu de buzzword para realidade operacional — Claude rodando nos processos que geram caixa real.",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/05/04/anthropic-goldman-blackstone-ai-venture.html",
+      "category": "mercado",
+      "recommended": true,
+      "carousel": {
+        "theme": "Anthropic abre frente de milhões em PE — IA corporativa é real agora",
+        "caption": "Anthropic acaba de fechar US$ 1.5 BILHÕES em venture com Goldman Sachs, Blackstone e Hellman & Friedman. Nova empresa dedicada: levar Claude pra operações core de centenas de mid-market companies.\n\nIsso é GRANDE. Significa que IA corporativa saiu de buzzword pra realidade de caixa. Não é mais 'chatbot legal pra help desk'. Agora é Claude rodando nos processos que geram $$ de verdade.\n\nPara o Brasil? Empresas de R$ 50-500M vão ter acesso a IA enterprise sem pagar Fortune 500 prices. Os números estão CONFIRMADOS — Goldman e Blackstone só investem em traction mensurada.\n\nSalva esse post e compartilha. Acompanha o radar diário em @rafaondei.\n\n#IA #InteligenciaArtificial #Claude #Anthropic #GoldmanSachs #Blackstone #AIEnterprise #Tech #Empreendedorismo #StartupNews #FuturoDosTrabalo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "MOVIMENTO GEOPOLÍTICO DE IA",
+            "title": "Anthropic $1.5B com Wall Street",
+            "highlight": "$1.5B",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "INVESTIMENTO CONFIRMADO",
+            "title": "US$ 1.5 bilhões em novo venture",
+            "highlight": "US$ 1.5 bilhões",
+            "body": "",
+            "stat": "US$ 1.5 B",
+            "stat_label": "em novo venture Claude",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "QUEM TÁ ENVOLVIDO",
+            "title": "Goldman, Blackstone e H&F backing",
+            "highlight": "Goldman, Blackstone",
+            "body": "Anthropic forma joint venture com os 3 maiores nomes de private equity e investment banking do mundo. Objetivo claro: levar Claude pra mid-market companies. Não é consultoria — é operacional, hands-on, scalável.",
+            "stat": "3",
+            "stat_label": "mega-players confirmando",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O QUE MUDA NO JOGO",
+            "title": "IA corporativa sai de buzzword",
+            "highlight": "buzzword",
+            "body": "Até hoje, 'IA corporativa' = chatbot no help desk. Daqui em diante = Claude nos processos que geram caixa real. Pricing, supply chain, forecast, risk. Não é commodity — é diferencial competitivo que custa MENOS que antes.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO VAI FUNCIONAR",
+            "title": "Consultores de PE entram em ação",
+            "highlight": "Consultores",
+            "body": "A nova empresa vai funcionar assim: consultores entram em portfolio companies, mapeiam onde Claude gera mais $, depois implementa. Blackstone traz operacional. Goldman traz capital. H&F traz scaling expertise.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM SE BENEFICIA",
+            "title": "Empresas mid-market BR ficam targets",
+            "highlight": "mid-market BR",
+            "body": "No Brasil, empresas de R$ 50-500M vão ter acesso a IA enterprise sem pagar preço Fortune 500. Modelo explode aqui em 6-12 meses. VCs brasileiros já tão mapeando. Quem entrar agora sai 3 anos na frente.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO PRO EMPREENDEDOR",
+            "title": "Wall Street só aposta em proven tech",
+            "highlight": "proven tech",
+            "body": "Goldman não investe em hype. Blackstone não investe em promises. Eles investem em traction mensurada, números confirmados em produção. O fato de ambos estarem all-in em Claude = números estão VALIDADOS.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Acompanha as trends de IA todo dia aqui. Radar diário mostra os movimentos que vão impactar o teu negócio antes dos outros. Não fica pra trás.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Claude entra em Adobe, Canva e Blender — IA no workflow do designer",
+      "summary": "Anthropic lança integrações nativas de Claude em 6 ferramentas criativas (Adobe, Canva, Blender, Autodesk, Ableton, Splice). Designers não precisam mais sair da ferramenta pra usar IA. Claude Design para ideação rápida. Parceria com RISD, Ringling, Goldsmiths pra educação.",
+      "source": "Anthropic + EdTech Innovation Hub",
+      "link": "https://www.edtechinnovationhub.com/news/adobe-canva-and-autodesk-sign-up-as-anthropic-brings-claude-ai-into-creative-software-and-art-school-classrooms",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Claude desceu em Adobe, Canva e Blender — designers entram na era da IA",
+        "caption": "Anthropic acaba de soltar Claude integrado NATIVAMENTE em 6+ ferramentas criativas. Adobe. Canva. Blender. Autodesk. Ableton. Splice.\n\nSignifica que o designer não precisa mais sair da ferramenta pra usar IA. Quer copy? Tá na Canva. Quer automação de workflow? Tá no Blender. Quer ideação? Claude Design já tá lá.\n\nAnthropicTambém parceiou com 3 escolas de design (RISD, Ringling, Goldsmiths). Ou seja: a próxima geração de designers JÁ tá aprendendo a trabalhar com IA nativa dentro da ferramenta.\n\nImpacto BR: agência de design sem IA integrada vira commodity em 12 meses. A margem tá em quem tá integrado.\n\n#IA #Design #Claude #Adobe #Canva #Blender #CreativeAI #Anthropic #DesignTech #ArtificialIntelligence",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "INTEGRAÇÃO NATIVA EM FERRAMENTAS",
+            "title": "Claude entra no workflow criativo",
+            "highlight": "Claude",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "FERRAMENTAS INTEGRADAS",
+            "title": "Claude em 6 softwares criativos",
+            "highlight": "6",
+            "body": "",
+            "stat": "6",
+            "stat_label": "ferramentas com Claude nativo",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "QUAIS FERRAMENTAS",
+            "title": "Adobe, Canva, Blender, mais 3",
+            "highlight": "Adobe, Canva, Blender",
+            "body": "Integração nativa em: Adobe (Creative Cloud), Canva (design rápido), Blender (3D), Autodesk (CAD/design), Ableton (música), Splice (sons). Designers acessam Claude sem deixar a ferramenta.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O QUE MUDA NO WORKFLOW",
+            "title": "Designer não sai mais da ferramenta",
+            "highlight": "não sai",
+            "body": "Antes: 'preciso de IA' = sai, entra em outro app, volta, copia, cola. Agora: tudo integrado. Copy, automation, ideação, handoff entre tools — tudo dentro da ferramenta que o designer já tá aberto.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Claude Design para ideação rápida",
+            "highlight": "Claude Design",
+            "body": "Claude Design: ferramenta pra ideação rápida de conceitos visuais. Gera mockups, layouts, composições. Integra com Adobe, Canva. Designer faz iteração rápida sem sair da ferramenta.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO DESIGNER BRASILEIRO",
+            "title": "Agência sem IA integrada é commodity",
+            "highlight": "commodity",
+            "body": "No Brasil: agência usando ainda Adobe puro vs agência usando Adobe + Claude integrado. Primeira entrega 3x mais rápido, com ideação mais rica. Em 12 meses, primeira tira mercado da segunda.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO IMPORTANTE",
+            "title": "Próxima geração já nasce integrada",
+            "highlight": "próxima geração",
+            "body": "Anthropic parceiou com RISD, Ringling, Goldsmiths — escolas de design top. Significa: novo designer que sai da faculdade em 2027 JÁ sabe trabalhar com Claude nativo. Vantagem competitiva pra quem treina agora.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Experimenta Claude em tua ferramenta",
+            "highlight": "tua ferramenta",
+            "body": "Se tá no Adobe, Canva ou Blender, procura pela integração Claude. Testa rápido. Depois marca a gente pra conversa sobre como acelerar teu workflow.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "OpenAI reforça segurança: passkeys, backup keys, login alerts",
+      "summary": "OpenAI lança Advanced Account Security para ChatGPT. Phishing-resistant sign-in com passkeys, security keys, backup keys e recovery keys. Desabilita email/SMS recovery. Reduz risco de account takeover significativamente.",
+      "source": "OpenAI Help Center",
+      "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "ChatGPT agora tem segurança nível militar — passkeys e 2FA forte",
+        "caption": "OpenAI acaba de lançar Advanced Account Security pra ChatGPT. Phishing-resistant sign-in, passkeys, security keys, backup keys. Desabilita email/SMS recovery (o vetor de ataque mais fácil).\n\nIsso importa MUITO se você rodando dados sensíveis, API keys, ou documentos confidenciais no ChatGPT. Reduz risco de takeover exponencialmente.\n\nComo funciona: login com passkey (hardware ou app), backup keys guardadas seguro, security keys pra 2FA forte, login alerts em dispositivos desconhecidos.\n\nPra empresário BR que tá usando ChatGPT pra processar dados: ativa essa feature NO MESMO DIA. É free pra quem tá em ChatGPT Plus/Team/Enterprise.\n\n#Segurança #ChatGPT #OpenAI #Cibersegurança #IA #Passkeys #2FA #TechSecurity #Empresa",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "SEGURANÇA REFORÇADA",
+            "title": "ChatGPT ganha proteção militar",
+            "highlight": "militar",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "NOVO FEATURE",
+            "title": "Advanced Account Security ativa",
+            "highlight": "Advanced",
+            "body": "",
+            "stat": "4",
+            "stat_label": "camadas de autenticação",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE INCLUI",
+            "title": "Passkeys, security keys, backup keys",
+            "highlight": "Passkeys",
+            "body": "Phishing-resistant sign-in com passkeys (hardware ou app). Backup keys guardadas seguro. Security keys pra 2FA forte. Recovery keys como último recurso. Email/SMS recovery desabilitado (era vetor de ataque principal).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O QUE MUDA",
+            "title": "Fim da era de email/SMS recovery",
+            "highlight": "Fim da era",
+            "body": "Antes: atacante pega password, manda reset email, toma conta. Agora: passkey local não pode ser reset remotamente. Mesmo que atacante pega senha, não consegue login sem física/app do passkey. Mudou o jogo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Login com passkey local",
+            "highlight": "passkey",
+            "body": "Passkey armazenado no dispositivo (ou app authenticator). Quando faz login, sistema pede biometria + passkey. Impossível fazer reset remotamente. Se perder dispositivo, usa recovery keys que você guarda seguro.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO EMPREENDEDOR BR",
+            "title": "Protege teus dados confidenciais",
+            "highlight": "dados",
+            "body": "Se tá usando ChatGPT pra processar: documentos financeiros, lista de leads, estratégia, código proprietário — ativa isso NO MESMO DIA. Reduz risco de leak/takeover 100x.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "PADRÃO NOVO",
+            "title": "Email/SMS recovery é YESTERDAY",
+            "highlight": "YESTERDAY",
+            "body": "OpenAI percebeu: email recovery é o vetor de ataque mais fácil. Qualquer IA consegue quebrar email, mandar reset, toma conta. Agora? Passkey é impossível de quebrar remotamente. Esse é o padrão novo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Ativa Advanced Security hoje",
+            "highlight": "hoje",
+            "body": "Vai em ChatGPT > Settings > Security > Advanced Account Security. Segue as steps (tira backup keys, salva em local seguro). Takes 5 minutos, vale demais.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "ChatGPT lança módulos visuais interativos pra 70+ aulas",
+      "summary": "OpenAI lança módulos visuais interativos em ChatGPT pra 70+ tópicos de math e science (Pythagorean theorem, ideal gas law, circle area, lens equations). Usuários podem experimentar fórmulas e variáveis em tempo real. Educação vai outro nível.",
+      "source": "OpenAI Help Center",
+      "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "category": "aplicação",
+      "recommended": false,
+      "carousel": {
+        "theme": "ChatGPT virou professor interativo — 70+ aulas com módulos visuais",
+        "caption": "OpenAI acaba de lançar módulos visuais interativos em ChatGPT. Imagine explicar Pythagorean theorem com slider que o aluno move e vê a fórmula atualizar em tempo real.\n\n70+ tópicos de math e science agora rodando assim. Ideal gas law. Área de círculos. Equações de lentes. Tudo interativo.\n\nComo funciona: ChatGPT mostra módulo visual. Aluno experimenta. Valores mudam. Entendimento clica de verdade (visual learning wins).\n\nPra pai/mãe que tá com filho em casa com dúvida de math: ChatGPT vira tutor interativo. Pra professor: usa como suplemento na aula (e tira a dor de ficar repetindo a mesma explicação).\n\nImpacto: educação fica hands-on, não teórica. Aproveita.\n\n#EducaçãoDigital #IA #ChatGPT #OpenAI #Math #Ciência #Ensino #Aprendizado #EdTech #InterativeLearning",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "EDUCAÇÃO INTERATIVA",
+            "title": "ChatGPT virou professor visual",
+            "highlight": "visual",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "MÓDULOS DISPONÍVEIS",
+            "title": "70+ aulas com interatividade",
+            "highlight": "70+",
+            "body": "",
+            "stat": "70",
+            "stat_label": "tópicos de math e science",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "QUAIS TÓPICOS",
+            "title": "Pythagorean, leis dos gases, mais",
+            "highlight": "Pythagorean",
+            "body": "Pythagorean theorem (triângulos). Ideal gas law (física). Circle area (geometria). Lens equations (óptica). Cada um com slider visual — aluno mexe, fórmula atualiza, entendimento vem natural.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O QUE MUDA NO ENSINO",
+            "title": "Educação fica hands-on, não teórica",
+            "highlight": "hands-on",
+            "body": "Antes: professor explica Pythagorean theorem com giz na lousa. Aluno não entende. Sai pior. Agora: ChatGPT mostra triângulo, slider de ângulo, valores mudam, aluno VÊ a fórmula acontecer. Clica.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Slider visual + fórmula em tempo real",
+            "highlight": "Slider",
+            "body": "ChatGPT renderiza módulo com slider e valores. Aluno move slider. Valores atualizam. Gráfico atualiza. Fórmula atualiza. Tudo em tempo real. Aprendizado é visual + sensorial.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO ALUNO/PROFESSOR",
+            "title": "Tutor 24/7 que explica bem",
+            "highlight": "Tutor",
+            "body": "Filho tá com dúvida de math meia-noite? ChatGPT tá lá com módulo interativo. Professor cansado de repetir mesma aula? Compartilha o módulo. Aluno em casa aprende sozinho.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO SOBRE APRENDIZADO",
+            "title": "Visual learning bate texto puro",
+            "highlight": "Visual",
+            "body": "Pesquisa de pedagogia é clara: visual learning (ver + fazer) bate texto puro (ler + decorar) em 5x. OpenAI percebeu isso. Agora renderiza visual + interativo direto no chat.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Testa em algum módulo de math",
+            "highlight": "testa",
+            "body": "Entra em ChatGPT, pergunta 'como funciona Pythagorean theorem?' e pede pro módulo visual. Experimenta. Depois marca a gente pra falar como rodou.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Google VAZOU Omni: novo modelo omni-vídeo antes do I/O 2026",
+      "summary": "UI strings revelam 'Omni' — misterioso modelo de vídeo do Google dentro de Gemini. Vazou dias antes do Google I/O 2026 (19-20 maio). Rival direto ao Sora. Se confirmar, é primeira omni-model rodando vídeo+imagem nativa.",
+      "source": "WaveSpeedAI Blog",
+      "link": "https://wavespeed.ai/blog/posts/google-omni-video-model-leak-i-o-2026/",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "Google vazou Omni: novo modelo omni-vídeo 3 dias antes do I/O",
+        "caption": "VAZOU: Google tem modelo secreto chamado 'Omni' dentro de Gemini. UI strings descobrem a coisa ANTES do I/O 2026 (19-20 maio).\n\nOmni é omni-model = roda vídeo E imagem no mesmo modelo. Diferente do Sora (vídeo só). Diferente do Veo 3.1 (vidéo generativo com áudio nativo).\n\nSignifica: se Google confirmar no I/O, é competição SÉRIA. Sora tá ficando pra trás (custos altíssimos). Omni entra como omni-model integrado pra todos.\n\nPra production house, criador de conteúdo, estúdio BR: quer dizer que Google vai soltar 1ª omni-model NATIVA em vídeo + imagem. Isso muda o jogo COMPLETAMENTE.\n\nGuarda essa data: Google I/O 19-20 maio. Vai ter coisa grande. Acompanha com a gente @rafaondei.\n\n#IA #Google #Gemini #Sora #VideoAI #I/O2026 #OmniModel #Technews #CreativeAI",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "VAZAMENTO ANTES DO I/O",
+            "title": "Google está construindo Omni",
+            "highlight": "Omni",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "CRONOGRAMA",
+            "title": "Vazou 3 dias antes do I/O",
+            "highlight": "3 dias",
+            "body": "",
+            "stat": "3",
+            "stat_label": "dias antes do I/O 2026",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "COMO DESCOBRIU",
+            "title": "UI strings revelam 'Omni' no código",
+            "highlight": "UI strings",
+            "body": "Pesquisador achou UI strings de Gemini. Encontrou referência a 'Omni' (internal codename). Pesquisou mais. Descobriu: é modelo omni-vídeo. Google tava guardando pro I/O.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O QUE MUDA NO JOGO",
+            "title": "Omni: omni-model nativo pra vídeo",
+            "highlight": "omni-model",
+            "body": "Até agora: Sora (vídeo), Veo (vídeo+áudio), Imagen (imagem). Todos separados. Omni: 1 modelo roda tudo (vídeo + imagem nativo). Significa: UI unificada, custos menores, qualidade melhor.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "1 modelo pra vídeo + imagem",
+            "highlight": "1 modelo",
+            "body": "Omni roda tudo num modelo só (diferente de competitors que usam 2-3 modelos separados). Significa: menor latência, menor custo de inference, melhor sync entre vídeo e imagem.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO PRODUCER BR",
+            "title": "Production houses têm concorrência real",
+            "highlight": "concorrência",
+            "body": "Se Omni faz vídeo + imagem omni-nativo, Sora fica só em vídeo (caro, demora). Producers brasileiros podem usar Omni pra gerar vídeo + thumbnail + assets em 1 vai.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "ESTRATÉGIA GOOGLE",
+            "title": "Google tá pensando OMNI de verdade",
+            "highlight": "OMNI",
+            "body": "OpenAI bet em Sora (vídeo só). Google bet em Omni (tudo junto). Isso diz tudo. Google não quer competir em 1 dimensão. Quer dominar omni-model space.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "MARCA A DATA",
+            "title": "Google I/O 19-20 maio: acompanha",
+            "highlight": "19-20",
+            "body": "Google I/O é em 19-20 maio. Omni vai ser anunciado lá (provável). Acompanha @rafaondei pra breaking news do I/O. Pode ser game changer.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Veo 3.1: melhor geração de vídeo do mundo (4K, cinematic, áudio)",
+      "summary": "Google Veo 3.1 é state-of-the-art: 8 segundos em 720p, 1080p ou 4K com áudio nativo. Câmera cinematic, sincronismo áudio-visual perfeito. Gateado (region-locked), mas domina em fidelidade. Pronta para produção comercial.",
+      "source": "Google DeepMind",
+      "link": "https://deepmind.google/models/veo/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Veo 3.1 domina vídeo AI: 4K cinematic com áudio nativo integrado",
+        "caption": "Google Veo 3.1 é state-of-the-art em geração de vídeo. 8 segundos. 720p, 1080p ou 4K. Áudio nativo (não é adicionado depois).\n\nQualidade? Cinematic. Câmera trabalha com profissionalismo. Sync áudio-visual é perfeito (problema que Sora tá tendo).\n\nGateado (só algumas regiões, precisa request acesso), mas quem consegue: é melhor vídeo gerado por IA que existe hoje.\n\nPra production house BR: Veo 3.1 é game changer. B-roll profissional. Comerciais. Trailer. Tudo gerado com IA, saindo em 4K de verdade.\n\nCusto de produção cai 70%. Tempo cai 80%. Qualidade fica 95% do que é feito por humano.\n\nAcompanha com a gente — daqui a pouco Veo 3.1 vai estar acessível pro Brasil todo. @rafaondei\n\n#IA #Veo #GoogleAI #VideoGeneration #4K #CreativeAI #Production #Tecnologia #Innovation",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "MELHOR VÍDEO AI DO MUNDO",
+            "title": "Veo 3.1 domina a arena",
+            "highlight": "domina",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "ESPECIFICAÇÕES",
+            "title": "8 seg em 4K com áudio nativo",
+            "highlight": "4K",
+            "body": "",
+            "stat": "8s",
+            "stat_label": "em 4K cinematic",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "QUALIDADE TÉCNICA",
+            "title": "Câmera cinematic, sync perfeito",
+            "highlight": "cinematic",
+            "body": "Veo 3.1 gera vídeo com movements cinemáticos (não é robótico). Áudio é nativo (não precisasincronizar depois). Sync áudio-visual é perfeito. Qualidade: 95% do que é feito por humano.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O QUE MUDA NA PRODUÇÃO",
+            "title": "B-roll profissional em 5 minutos",
+            "highlight": "B-roll",
+            "body": "Antes: producer contrata cameraman, 3 dias de shoot, 2 dias de edit, custo de R$ 20k+. Agora: Veo 3.1, 1 prompt, 5 minutos, R$ 30. Produção muda fundamentalmente.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO RODA",
+            "title": "Prompt → 8s em 4K cinematic",
+            "highlight": "cinematic",
+            "body": "Você: 'gera b-roll de surfe com pôr do sol'. Veo 3.1: renderiza 8 segundos em 4K, com câmera fluida, áudio de onda real, cores cinematic. Tudo saindo direto.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO CRIADOR/PRODUCER",
+            "title": "Custo -70%, tempo -80%",
+            "highlight": "-70%",
+            "body": "Production house BR agora pode fazer 10 comerciais pelo custo de 1. Criador de YouTube pode fazer b-roll profissional em casa. Estúdio pequeno compete com grande.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "VERDADE SOBRE PRODUÇÃO",
+            "title": "Produção IA virou commodity",
+            "highlight": "commodity",
+            "body": "Quando Veo 3.1 sai pro mundo, produção de vídeo deixa de ser serviço (caríssimo, demorado) e vira tool (barato, rápido). Quem não tá usando IA pra produzir em 2027 tá fora do mercado.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Pede acesso a Veo 3.1 hoje",
+            "highlight": "hoje",
+            "body": "Vai em deepmind.google/models/veo/. Tá gateado, mas pede acesso. Google libera em dias. Depois testa com projeto real.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Preço de IA caiu 100x em 2 anos: US$ 30/Mi → US$ 0.95/Mi",
+      "summary": "GPT-4-level performance custava US$ 30/Mi tokens em 2023. Hoje: <US$ 1/Mi. Concorrência + infraestrutura = queda 10-100x/ano. Kimi K2.6 lidera em custo-benefício: US$ 0.95/Mi com performance frontier. IA virou commodity.",
+      "source": "LM Council / PricePerToken",
+      "link": "https://pricepertoken.com/trends",
+      "category": "benchmark",
+      "recommended": false,
+      "carousel": {
+        "theme": "Preço de IA caiu 100 VEZES em 2 anos — IA virou commodity",
+        "caption": "NÚMEROS QUE MEXEM: IA frontier-quality custava US$ 30 por milhão de tokens em 2023. Hoje custa MENOS de US$ 1.\n\n100x em 2 anos. Pense nisso.\n\nPor quê? Concorrência (OpenAI, Claude, Meta, DeepSeek, Kimi). Melhoria de infraestrutura (NVIDIA, TPU, otimizações). Open-source (Llama, DeepSeek) apertando margem.\n\nRESULTADO: IA deixou de ser 'serviço corporativo caro' e virou 'utility barata demais pra ignorar'.\n\nKimi K2.6 tá liderando agora: US$ 0.95/Mi tokens com performance que compete com Opus/GPT-5. Ou seja: qualidade frontier por preço commodity.\n\nPra startup BR: significaIA enterprise agora custa R$ 20/mês, não R$ 5k. Tá virando diferencial de execução, não diferencial de budget.\n\nQuem não tá usando IA pro seus clientes em 2026 tá deixando 3x receita na mesa.\n\n#IA #Benchmark #OpenAI #Claude #DeepSeek #Kimi #PriceWar #Commodity #Tech #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "PREÇO DE IA CRASHOU",
+            "title": "100x em 2 anos: US$ 30 → <US$ 1",
+            "highlight": "100x",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "NÚMEROS REAIS",
+            "title": "GPT-4-level: US$ 30/Mi em 2023",
+            "highlight": "US$ 30",
+            "body": "",
+            "stat": "US$ 30",
+            "stat_label": "custo de IA em 2023",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "SITUAÇÃO HOJE",
+            "title": "Hoje: menos de US$ 1 por milhão",
+            "highlight": "menos de US$ 1",
+            "body": "IA frontier-quality (tipo GPT-4 em 2023) tá custando <US$ 1 por milhão de tokens. Kimi K2.6 lidera: US$ 0.95/Mi. Mesmo nível de performance, preço 30x menor.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O QUE ISSO SIGNIFICA",
+            "title": "IA deixou de ser serviço caro",
+            "highlight": "caro",
+            "body": "2023: 'IA é luxo corporativo, só pra Fortune 500'. 2026: 'IA é commodity, qualquer startup bota isso em produção por R$ 30/mês'. Mudou a narrativa inteira.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "POR QUE CAIU TANTO",
+            "title": "Concorrência + infraestrutura",
+            "highlight": "Concorrência",
+            "body": "Causas: (1) Competição feroz (OpenAI vs Claude vs DeepSeek vs Meta vs Kimi). (2) Infraestrutura melhorando (chips, otimizações). (3) Open-source apertando (Llama, DeepSeek). Resultado: queda 10-100x/ano.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO EMPREENDEDOR BR",
+            "title": "IA enterprise agora custa R$ 30/mês",
+            "highlight": "R$ 30/mês",
+            "body": "Antes: 'preciso de IA pra CRM, produto, suporte' = preciso de R$ 10k/mês. Agora = R$ 100/mês (Kimi K2.6 + OpenAI + Claude). Diferencial deixa de ser budget e passa a ser IMAGINAÇÃO.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO PRO NEGÓCIO",
+            "title": "Barreira agora é IMAGINAÇÃO, não $",
+            "highlight": "IMAGINAÇÃO",
+            "body": "Barreira pra usar IA não é mais preço. Barreira é: 'como eu aplico IA no meu negócio pra gerar 3x receita?'. Quem responder isso melhor ganha. Quem fica esperando piora.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Começa a integrar IA no negócio",
+            "highlight": "integrar",
+            "body": "Se tá pensando em usar IA em produto, suporte, vendas, marketing — COMEÇA AGORA. Barreira é R$ 30. Impacto é +3x receita em 6 meses. Vem conversar com a gente.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Grok 4.1 liberado pra TODOS: Auto mode default em X e web",
+      "summary": "xAI lança Grok 4.1 para todos em grok.com, X (antigo Twitter), iOS e Android. Auto mode ON por default. API nova: Speech-to-Text + Text-to-Speech standalone, multilíngue, com diarização e timestamps.",
+      "source": "xAI Docs",
+      "link": "https://docs.x.ai/developers/release-notes",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Grok 4.1: xAI coloca IA de verdade pra valer pro público",
+        "caption": "xAI acabou de soltar Grok 4.1 PRO MUNDO. Não é beta, não é select. É pra todos.\n\nDisponível em: grok.com, X (que era Twitter), iOS, Android. Auto mode ON (significa: Grok inteligentemente escolhe como resolver cada pergunta).\n\nNovo na API: Speech-to-Text + Text-to-Speech standalone (fora de chat). Multilíngue. Diarização (identifica quem tá falando). Timestamps.\n\nSignifica: criador pode fazer conteúdo em voz com Grok, gerar narração em multilíngue, tudo native.\n\nPra influencer BR: Grok virou ferramenta pronta pra usar em X pra gerar conteúdo. Pra criador de podcast: pode usar Grok pra transcrever, traduzir, narrar em vários idiomas.\n\nAcompanha com a gente @rafaondei pra mais trends de IA. Tá chegando coisa grande.\n\n#IA #Grok #xAI #SpeechAI #Creators #Podcast #Tecnologia #ArtificialIntelligence",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "GROK SOLTA PRO MUNDO",
+            "title": "Grok 4.1 agora é PÚBLICA",
+            "highlight": "PÚBLICA",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "DISPONIBILIDADE",
+            "title": "Grok 4.1 em 4 plataformas",
+            "highlight": "4",
+            "body": "",
+            "stat": "4",
+            "stat_label": "plataformas (web, iOS, Android, X)",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "ONDE TESTER",
+            "title": "grok.com, X, iOS, Android",
+            "highlight": "grok.com",
+            "body": "Grok 4.1 roda em: grok.com (web), X/Twitter (integrado), iOS (app), Android (app). Auto mode ON (Grok decide como resolver cada pergunta inteligentemente).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O QUE MUDA AQUI",
+            "title": "Grok sai de exclusive pra mainstream",
+            "highlight": "mainstream",
+            "body": "Antes: Grok era só pra X Premium, select. Agora: é pra MUNDO. Qualquer pessoa em X faz um prompt, Grok responde, integrado naturalmente. Muda o game de how people interact.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "NOVA API",
+            "title": "Speech-to-Text + Text-to-Speech",
+            "highlight": "Speech",
+            "body": "xAI lançou Speech API standalone (fora de chat). Speech-to-Text: transcreve áudio em qualquer idioma. Text-to-Speech: narração em voz humana, multilíngue, com diarização (identifica quem tá falando).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO CRIADOR",
+            "title": "Conteúdo em voz sem ficar dependente",
+            "highlight": "voz",
+            "body": "Criador/influencer BR agora pode: gravar voz em português, Grok transcreve, traduz pra 5 idiomas, narra em voz humana. Tudo nativo, sem terceiro. Isso escala conteúdo global.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "SOBRE xAI",
+            "title": "xAI não tá brincando em IA",
+            "highlight": "xAI",
+            "body": "Elon/xAI entrou no jogo de IA com Grok e tá jogando sério. Speech API, Auto mode, liberação mundial = não é experimento. É produto pronto.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Testa Grok 4.1 em X",
+            "highlight": "testa",
+            "body": "Se tá em X, faz um prompt pro Grok. Conversa um pouco. Depois fala pra gente qual foi a experiência. Speech API também: testa em grok.com.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Meta Llama 4 Scout/Maverick: open-weight natively multimodal",
+      "summary": "Meta lança Llama 4 Scout e Maverick (5 de abril). Performa melhor que Llama 3, comparável a Grok 4. Natively multimodal (vídeo, imagem, texto). Open-weight. Rival sério em open-source pra Grok e Claude.",
+      "source": "Meta AI",
+      "link": "https://ai.meta.com/blog/llama-4-multimodal-intelligence/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Meta Llama 4: open-weight rival pra Grok com multimodal nativo",
+        "caption": "Meta soltou Llama 4 (Scout + Maverick variants) no final de abril. Números? Melhor que Llama 3, comparável a Grok 4.\n\nO grande? NATIVELY MULTIMODAL. Entende vídeo, imagem, texto no mesmo modelo. Não é add-on, é built-in.\n\nMais importante: é open-weight. Solta o modelo inteiro, free. Dev pode rodar localmente, fine-tune, deploy onde quiser sem pagar Meta.\n\nSignifica: open-source models tão fechando gap RÁPIDO. Proprietary models (OpenAI, Claude) tão perdendo vantagem.\n\nPra dev BR: Llama 4 tá disponível AGORA pra download. Se quer rodar IA local sem depender de API (\n sem custo, sem latência), Llama 4 é a move.\n\nAcompanha com a gente @rafaondei — open-source tá mudando o jogo.\n\n#IA #OpenSource #Llama #Meta #MultimodalAI #Dev #Tecnologia #ArtificialIntelligence",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "META LANÇA LLAMA 4",
+            "title": "Open-weight rival pra Grok",
+            "highlight": "Open-weight",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "PERFORMANCE",
+            "title": "Llama 4 performa tipo Grok 4",
+            "highlight": "Grok 4",
+            "body": "",
+            "stat": "Grok-level",
+            "stat_label": "performance, open-source",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "SPECS",
+            "title": "Scout + Maverick, natively multimodal",
+            "highlight": "multimodal",
+            "body": "Meta lançou 2 variants: Scout (menor) e Maverick (maior). Ambos natively multimodal = entendem vídeo, imagem, texto tudo no mesmo forward pass. Não é plug-in, é architecture nativa.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O GRANDE AQUI",
+            "title": "Open-source fecha gap com proprietary",
+            "highlight": "gap",
+            "body": "Llama 3 era bom, mas ficava atrás de Grok/Claude. Llama 4? Compete de verdade. Proprietary models tão perdendo vantagem tecnológica. Open-weight tá tomando mercado.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO USA",
+            "title": "Download, rodar local, fine-tune",
+            "highlight": "Download",
+            "body": "Meta solta o modelo inteiro. Dev faz download em casa. Roda localmente (GPU própria). Fine-tunes pra caso de uso específico. Tudo 100% free, sem dependência de API.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO DEV BR",
+            "title": "IA sem custo de API, controle total",
+            "highlight": "sem custo",
+            "body": "Dev BR agora pode: fazer chatbot em Llama 4, rodar em servidor próprio, zero custo por token. Vs OpenAI/Claude que cobra por uso. Mais latência? Sim. Mais controle? SIM.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "MUDANÇA DE PODER",
+            "title": "Meta entrou full-time em IA",
+            "highlight": "full-time",
+            "body": "Quando Meta solta Llama 4 competindo com Grok, mercado muda. Não é hobby. É company-wide bet. Daqui a pouco, proprietary models vão ser premium, open-source vai ser default.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Baixa Llama 4 e testa localmente",
+            "highlight": "testa",
+            "body": "Vai em meta.com/llama. Download o modelo (Scout pra testar rápido, Maverick pra produção). Setup local leva 10 min. Depois marca a gente pra conversa.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Claude Security: detecção automática de zero-days no código",
+      "summary": "Anthropic lança Claude Security em beta para Claude Enterprise: scanning automático de vulnerabilidades de código + fixes propostos usando Opus 4.7. Scans agendados, scans direcionados, melhor triage, exports integrados.",
+      "source": "Anthropic",
+      "link": "https://www.anthropic.com/news/enterprise-ai-services-company",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Claude Security: IA detecta zero-days no código automaticamente",
+        "caption": "Anthropic lançou Claude Security em beta (Claude Enterprise). O que faz?\n\nScanning automático do code. Detecta vulnerabilidades (SQL injection, XSS, buffer overflow, etc). Propõe fixes. Tudo automático.\n\nComo funciona: Você dá acesso ao seu repo. Claude Security roda scanning agendado (todo dia, toda semana) ou direcionado (\"testa a feature X\"). Resultado: relatório com vulns encontradas + patches propostos.\n\nMelhor que code review manual? SIM. Code review humano é lento e falha às vezes. Claude Security? Roda todo dia, nunca cansa, não perde nada.\n\nPra dev BR: se tá rodando produção (SaaS, app, API), isso é OBRIGATÓRIO. Zero-day em produção = breach = perda de cliente + lawsuite. Previne tudo isso.\n\nAcompanha com a gente @rafaondei — Segurança em 2026 é feature, não overhead.\n\n#Segurança #IA #Claude #DevSecurity #Cibersegurança #CodeReview #Zero-Day #Enterprise #Tech",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "SEGURANÇA AUTOMÁTICA",
+            "title": "Claude detecta zero-days no código",
+            "highlight": "zero-days",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "NOVO PRODUTO",
+            "title": "Claude Security em beta",
+            "highlight": "Security",
+            "body": "",
+            "stat": "Automático",
+            "stat_label": "scanning de vulnerabilidades",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE FAZ",
+            "title": "Scanning + analysis + fix proposals",
+            "highlight": "Scanning",
+            "body": "Claude Security: scans automáticos de código procurando vulns (SQL injection, XSS, buffer overflow, race conditions). Usa Opus 4.7 pra análise. Propõe patches automaticamente. Resultado: relatório detalhado + remediação.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDA O CÓDIGO DE SEGURANÇA",
+            "title": "Code review vai de lento a automático",
+            "highlight": "automático",
+            "body": "Antes: senior dev revisa code uma vez por sprint. Demora dias. Falha às vezes. Agora: Claude Security roda TODO DIA. Nunca cansa. Nunca perde nada. Descobrem vulns em horas, não dias.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO USA",
+            "title": "Scanning agendado ou direcionado",
+            "highlight": "direcionado",
+            "body": "Setup: dá acesso ao repo. Claude Security configura scan (agendado: todo dia, todo mês; direcionado: testa feature específica). Roda. Reporta vulns encontradas + patches propostos.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO EMPREENDEDOR",
+            "title": "Previne breach, breach = perda total",
+            "highlight": "breach",
+            "body": "Dev/startup rodando produção: zero-day em código = atacante entra = dados vazam = cliente sai = lawsuite. Claude Security roda TODO DIA pra evitar isso. Isso é não-negociável.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "SEGURANÇA AGORA",
+            "title": "Segurança é built-in, não add-on",
+            "highlight": "built-in",
+            "body": "Anthropic entendeu: segurança não pode ser 'coisa que revisamos às vezes'. Precisa ser automática, contínua, nativa. Claude Security é isso: segurança embutida no development flow.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Pede acesso a Claude Security",
+            "highlight": "pede",
+            "body": "Se tá em Claude Enterprise, pede acesso a Claude Security. Beta, mas funcionando. Setup é rápido. Depois marca a gente pra fazer security audit do teu projeto.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    }
+  ],
+  "whatsapp": "📡 RADAR IA — 2026-05-05\n\n1. Anthropic $1.5B + Goldman/Blackstone — Deploy Claude em mid-market 🔥\nhttps://www.cnbc.com/2026/05/04/anthropic-goldman-blackstone-ai-venture.html\n\n2. Claude em Adobe, Canva, Blender — IA nativa em 6 ferramentas criativas\nhttps://www.edtechinnovationhub.com/news/adobe-canva-and-autodesk-sign-up-as-anthropic-brings-claude-ai-into-creative-software-and-art-school-classrooms\n\n3. ChatGPT Advanced Security — Passkeys + backup keys + login alerts\nhttps://help.openai.com/en/articles/6825453-chatgpt-release-notes\n\n4. ChatGPT Interactive Learning — 70+ módulos visuais (math, science)\nhttps://help.openai.com/en/articles/6825453-chatgpt-release-notes\n\n5. Google Omni VAZOU — Novo modelo omni-vídeo 3 dias antes do I/O\nhttps://wavespeed.ai/blog/posts/google-omni-video-model-leak-i-o-2026/\n\n6. Veo 3.1 domina — 4K cinematic com áudio nativo integrado\nhttps://deepmind.google/models/veo/\n\n7. IA virou commodity — Preço caiu 100x: US$ 30 → <US$ 1/Mi tokens\nhttps://pricepertoken.com/trends\n\n8. Grok 4.1 liberado — Auto mode em X, web, iOS, Android\nhttps://docs.x.ai/developers/release-notes\n\n9. Meta Llama 4 — Open-weight natively multimodal, Grok-level\nhttps://ai.meta.com/blog/llama-4-multimodal-intelligence/\n\n10. Claude Security — Scanning automático de zero-days no código\nhttps://www.anthropic.com/news/enterprise-ai-services-company\n\nDashboard: https://rafaelondei.appnaia.com",
+  "instagram": "🔥 RADAR IA — 10 movimentos que vão mexer no mercado em maio\n\nA semana começou PESADA em IA. 10 notícias que não pode perder.\n\n1️⃣ Anthropic bateu na porta de Wall Street: US$ 1.5B com Goldman, Blackstone e H&F. Nova empresa dedicada? Deploy Claude em mid-market companies. Significa: IA corporativa saiu de buzzword pro caixa de verdade.\n\n2️⃣ Claude tá em Adobe, Canva, Blender (+ 3 ferramentas). Designer não precisa mais sair da ferramenta pra usar IA. Ideação, copy, automation — tudo nativo. Anthropic parceiou com RISD, Ringling, Goldsmiths: próxima geração de designers JÁ tá aprendendo integrado.\n\n3️⃣ OpenAI reforçou segurança em ChatGPT. Passkeys, security keys, backup keys. Fim da era de email/SMS recovery (vetor de ataque #1). Se tá rodando dados sensíveis em ChatGPT — ativa isso no mesmo dia.\n\n4️⃣ ChatGPT virou professor interativo: 70+ módulos visuais de math e science. Pythagorean, gas laws, lentes. Aluno mexe no slider, fórmula atualiza em tempo real. Educação deixa de ser teórica e fica hands-on.\n\n5️⃣ Google VAZOU Omni: novo modelo omni-vídeo (UI strings descobrem 3 dias antes do I/O). Se confirmar em 19-20 maio, é primeira omni-model rodando vídeo+imagem nativa. Sora tá ficando pra trás.\n\n6️⃣ Veo 3.1 domina: 8 segundos em 4K com áudio nativo. Câmera cinematic, sync perfeito. Production houses brasileiras? 10 comerciais pelo custo de 1. B-roll profissional em 5 minutos.\n\n7️⃣ IA virou commodity: GPT-4-level custava US$ 30/Mi em 2023. Hoje: <US$ 1/Mi (100x em 2 anos). Kimi K2.6 lidera: US$ 0.95/Mi. Barreira não é mais preço — é IMAGINAÇÃO de como usar.\n\n8️⃣ Grok 4.1 liberado pra todos (não é beta). grok.com, X, iOS, Android. Auto mode ON. Nova API: Speech-to-Text + Text-to-Speech multilíngue. Criador agora faz conteúdo em voz nativo.\n\n9️⃣ Meta Llama 4 Scout/Maverick: natively multimodal, open-weight, Grok-level. Meta entrou full-time em IA. Open-source tá fechando gap com proprietary. Dev BR agora roda IA local, zero custo, controle total.\n\n🔟 Claude Security beta: scanning automático de código. Detecta zero-days + propõe fixes (Opus 4.7). Roda todo dia, nunca cansa, nunca perde. Segurança virou built-in, não add-on.\n\n▬▬▬▬▬▬▬▬▬▬▬▬\n\nO que tá acontecendo: IA saiu de \"serviço corporativo caro\" e entrou em \"commodity que custa quase nada\". Wall Street (Goldman, Blackstone) entrou. Google tá revanchista (Omni vem aí). Meta tá full-time. Anthropic tá escalando. xAI tá liberando pra mundo.\n\nQuem não tá usando IA pra seus clientes em 2026 = deixando 3x receita na mesa.\n\nPróximo passo? Acompanha @rafaondei todo dia. Radar em tempo real dos movimentos que vão impactar o teu negócio ANTES dos outros.\n\n#IA #InteligenciaArtificial #Claude #OpenAI #Google #Meta #xAI #Mercado #Tech #Empreendedorismo #Innovation #FuturoDosTrabalo #Startups #Tendências #ArtificialIntelligence"
+}

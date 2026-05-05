@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-05-04T07:30:00-03:00",
+  "updated_at": "2026-05-05T07:30:01-03:00",
   "executions": [
+    {
+      "date": "2026-05-05",
+      "key": "2026-05-05",
+      "topic": "mercado de IA",
+      "summary": "Anthropic $1.5B com Goldman/Blackstone (PE deploy); Veo 3.1 domina vídeo 4K; IA virou commodity (<US$ 1/Mi tokens); Google Omni vazou (I/O em maio); Claude em Adobe/Canva nativo",
+      "items_count": 10
+    },
     {
       "date": "2026-05-04",
       "key": "2026-05-04",
