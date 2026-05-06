@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-05-05T07:30:01-03:00",
+  "updated_at": "2026-05-06T07:00:01-03:00",
   "executions": [
+    {
+      "date": "2026-05-06",
+      "key": "2026-05-06",
+      "topic": "mercado de IA",
+      "summary": "Perplexity Computer Enterprise +50% MRR (R$ 450M ARR); agentes viraram negócio (100+ clientes em 1 fim de semana); Claude 4.7 vs GPT-5.5 (64.3% vs 58.6% SWE-Bench); DeepSeek V4 iguala reasoning frontier; Cursor v3.0 (50% Fortune 500)",
+      "items_count": 10
+    },
     {
       "date": "2026-05-05",
       "key": "2026-05-05",

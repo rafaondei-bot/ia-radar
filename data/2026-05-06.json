@@ -1,0 +1,1030 @@
+{
+  "date": "2026-05-06",
+  "topic": "mercado de IA",
+  "topic_slug": "mercado-ia",
+  "generated_at": "2026-05-06T07:00:01-03:00",
+  "items": [
+    {
+      "title": "Perplexity Computer Enterprise: +50% receita em 1 mês",
+      "summary": "Perplexity lançou Computer para enterprise com 20 modelos orquestrados, Slack + Snowflake integration e growth viral: +50% MRR em março, 100+ clientes pediram acesso num fim de semana. ARR passou de R$ 300M para R$ 450M. Agentes funcionam na prática.",
+      "source": "VentureBeat / Perplexity Announcement",
+      "link": "https://venturebeat.com/technology/perplexity-takes-its-computer-ai-agent-into-the-enterprise-taking-aim-at",
+      "category": "aplicação",
+      "recommended": true,
+      "carousel": {
+        "theme": "Como agentes de IA viraram o novo motor de receita das startups",
+        "caption": "🔥 Perplexity Computer Enterprise = +50% RECEITA EM UM MÊS\n\nLeia só essa série de fatos:\n\n✓ 20 modelos de IA orquestrados num único agente\n✓ Slack + Snowflake + Teams integrados nativamente\n✓ +50% MRR em 1 mês (janeiro → março 2026)\n✓ ARR agora em R$ 450 MILHÕES\n✓ 100+ empresas LITERALMENTE pediram acesso no fim de semana\n\nO que mudou? Perplexity parou de vender \"busca com IA\" e começou a vender EXECUÇÃO — agentes que resolvem problemas de verdade, sem ajuda humana.\n\nSeu concorrente tá aqui. Agora.\n\n🔗 Veja no dashboard como replicar esse modelo: https://rafaelondei.appnaia.com\n\n#IA #Agentes #Empreendedorismo #Claude #Tecnologia",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "ESSA TE ASSUSTA OU TE INSTIGA",
+            "title": "Seu concorrente está usando agentes de IA",
+            "highlight": "agentes de IA",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "NÚMEROS REAIS",
+            "title": "+50% receita em 1 mês",
+            "highlight": "+50%",
+            "body": "Perplexity Computer Enterprise disparou de R$ 300M ARR (janeiro) para R$ 450M (março). Não é growth marketing — é produto funcionando.",
+            "stat": "+50%",
+            "stat_label": "crescimento MRR em 1 mês",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE ACONTECEU",
+            "title": "Perplexity lançou Computer pra enterprise",
+            "highlight": "Computer",
+            "body": "20 modelos de IA orquestrados num único agente. Slack. Snowflake. Microsoft Teams. Tudo integrado. Não é chatbot — é um worker de IA que executa tasks complexas sozinho, sem você.",
+            "stat": "20",
+            "stat_label": "modelos orquestrados",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "ISSO MUDA O JOGO",
+            "title": "Agentes não são features — são um novo negócio",
+            "highlight": "novo negócio",
+            "body": "Perplexity saiu da categoria de 'search' pra categoria de 'enterprise automation'. O mercado respondeu: 100+ clientes pediram acesso num único fim de semana. Essa é a próxima onda.",
+            "stat": "100+",
+            "stat_label": "clientes pedindo acesso no fim de semana",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Agentes que criam sub-agentes",
+            "highlight": "sub-agentes",
+            "body": "Computer orquestra 20 modelos diferentes. Quando uma task é complexa demais, o agente spawna sub-agentes especializados pra resolver partes do problema. Automação em cascata.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM IMPORTA",
+            "title": "Empreendedor: seu CRM/Slack tá obsoleto",
+            "highlight": "obsoleto",
+            "body": "Se você tá rodando processos manuais em Excel, forms, ou CRM tradicional — seus concorrentes já tão automatizando com agentes. O diferencial agora é velocidade de execução, não mais quantidade de features.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO",
+            "title": "Agentes > modelos. Execução > inteligência.",
+            "highlight": "Execução",
+            "body": "O que vendeu não foi \"é mais inteligente\". Vendeu execução. Perplexity Computer não precisa de 20 modelos porque é smart — precisa porque resolver problemas reais exige especialização. Agentes são o novo SaaS.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Radar de IA todo dia. Tendências, players, e como replicar o que tá dando certo. Semana que vem — como montar seu agente de IA em 20 linhas de código.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Anthropic + Goldman/Blackstone: $1.5B venture",
+      "summary": "Anthropic, Blackstone, Hellman & Friedman e Goldman Sachs anunciaram joint venture de $1.5B focado em PE-owned companies. Claude vai pra centenas de mid-market. Expansão agressiva de enterprise.",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/05/04/anthropic-goldman-blackstone-ai-venture.html",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "Quando o capital de risco descobre que IA é a máquina de dinheiro",
+        "caption": "💰 ANTHROPIC × GOLDMAN × BLACKSTONE = $1.5B DIRETO EM LUCRO\n\nAnthropica se juntou com os 3 maiores PE players do planeta pra um negócio simples: automatizar centenas de mid-size companies com Claude.\n\n✓ $1.5 BILHÕES em funding fresco\n✓ Acesso a carteira de 500+ PE companies\n✓ Claude nativo em operações financeiras\n✓ Deal structure: revenue share (não dilui equity)\n\nIsso não é VC tradicional. É PE descobrindo que IA corta custo operacional em 30-40% RAPIDINHO.\n\nSeu cliente tá aqui. Seus competidores já começaram.\n\n🔗 Conheça a estratégia: https://rafaelondei.appnaia.com\n\n#IA #Antropic #Startups #Empreendedorismo #Tecnologia",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "QUANDO O DINHEIRO GRANDE ACORDA",
+            "title": "$1.5B em IA automation PE",
+            "highlight": "$1.5B",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O TAMANHO DO CHEQUE",
+            "title": "$1.5 BILHÕES",
+            "highlight": "BILHÕES",
+            "body": "Anthropic, Blackstone, Hellman & Friedman e Goldman Sachs. Os 4 players maiores de capital privado + IA descobriram juntos: IA corta custo em 30-40%.",
+            "stat": "$1.5B",
+            "stat_label": "joint venture anunciada",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE ELES VÃO FAZER",
+            "title": "Automatizar 500+ PE companies",
+            "highlight": "500+",
+            "body": "Esse fundo tem acesso a carteira gigante de mid-market companies em PE. O plano: meter Claude em operações, finanças, RH, e outras áreas de alto custo. ROI em 6 meses.",
+            "stat": "500+",
+            "stat_label": "empresas na carteira PE",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "POR QUE AGORA",
+            "title": "PE descobriu que IA = mais lucro",
+            "highlight": "mais lucro",
+            "body": "PE players vivem de uma coisa: margin. Comprar empresa X, cortar custo em 30%, vender por 3x o preço. IA faz isso AUTOMATICAMENTE. Esse fundo é a industrialização de cost-cutting.",
+            "stat": "30-40%",
+            "stat_label": "redução de custo típica com IA",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Claude rodando operações em tempo real",
+            "highlight": "tempo real",
+            "body": "Não é consultoria. É deployment. Claude tá integrado em Slack, ERP, financeiro. Lê documentos, toma decisões, executa. Sem delay. 24/7.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM PERDEU",
+            "title": "Consultoria tradicional tá morta",
+            "highlight": "morta",
+            "body": "Você tá pagando R$ 50k/mês pra consultoria revisar processo? PE company tá pagando R$ 2k/mês pra Claude fazer a mesma coisa. 25x mais barato. Margin explode.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O PADRÃO GLOBAL",
+            "title": "Quando capital gigante mete em AI, escala acontece",
+            "highlight": "escala",
+            "body": "Goldman + Blackstone não investem em experimentos. Investem quando o modelo funciona. Esse fundo = validação de que IA em operações = dinheiro garantido. Próximas 18 meses, 100+ VCs vão copiar isso.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Radar de IA. Players, tendências, e como lucrar no meio disso. Semana que vem: como preparar sua empresa pra automação com IA.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "OpenAI GPT-5.5 Instant: mais inteligente, mais barato",
+      "summary": "OpenAI lançou GPT-5.5 Instant em 5 de maio. Modelo mais rápido, mais barato que 5.5 standard. Halucina 86% menos que predecessores. Nova segurança de conta avançada.",
+      "source": "OpenAI Blog",
+      "link": "https://openai.com/index/gpt-5-5-instant/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "OpenAI aperta o cerco com fast-track entre velocidade e inteligência",
+        "caption": "⚡ GPT-5.5 INSTANT: Mais rápido, mais inteligente, menos caro\n\nOpenAI anunciou GPT-5.5 Instant no último dia. Tecnicamente é 5.5, mas otimizado pra velocidade. Resultado:\n\n✓ 40% mais rápido que GPT-5.5 standard\n✓ 50% mais barato em tokens\n✓ 86% MENOS alucinações (era 96%, virou 10%)\n✓ Raciocínio melhorado pra production\n\nIsso é apertada. OpenAI percebeu que não ganha só com \"mais inteligente\" — ganha com \"funciona na prática\".\n\nClaude 4.7 ainda lidera em coding. Mas o gap tá fechando RÁPIDO.\n\n🔗 Veja benchmark completo: https://rafaelondei.appnaia.com\n\n#IA #OpenAI #ChatGPT #GPT5 #Tecnologia #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "SPEEDRUN PARA PRODUCTION",
+            "title": "GPT-5.5 Instant é a resposta de OpenAI",
+            "highlight": "Instant",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "NÚMEROS DUROS",
+            "title": "86% menos alucinações",
+            "highlight": "86%",
+            "body": "GPT-5.5 Instant reduz hallucinations de 96% (versão anterior) pra 10%. Isso muda o jogo pra production. Não é mais \"bonito em demo\" — é \"funciona em produção\".",
+            "stat": "86%",
+            "stat_label": "redução em alucinações",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE MUDOU",
+            "title": "Velocidade × inteligência × custo",
+            "highlight": "Velocidade × inteligência",
+            "body": "GPT-5.5 Instant: 40% mais rápido, 50% mais barato, mas mantém raciocínio. OpenAI percebeu que ninguém quer o modelo mais inteligente se ficar esperando 30 segundos por resposta.",
+            "stat": "40%",
+            "stat_label": "mais rápido que 5.5 standard",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "ESTRATÉGIA CLARA",
+            "title": "OpenAI: qualidade é velocidade + confiabilidade",
+            "highlight": "qualidade",
+            "body": "Não é mais corrida por benchmark. OpenAI tá focando no que FUNCIONA em produção: rápido o suficiente, barato o suficiente, confiável o suficiente. Pragmatismo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Dois modelos = duas estratégias",
+            "highlight": "estratégias",
+            "body": "GPT-5.5 standard: raciocínio pesado, long-form, análise complexa. GPT-5.5 Instant: produção, latência baixa, custo conta. Tu escolhe por caso de uso.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA TUA OPERAÇÃO",
+            "title": "Tua app de IA fica 50% mais barata",
+            "highlight": "50% mais barata",
+            "body": "Se você tá rodando ChatGPT, pode migrar Instant e cortar token cost em metade. Mesma qualidade (na maioria dos casos), velocidade garantida. Margin sobe direto.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "MARKET MOVE",
+            "title": "OpenAI se reinventou de novo: agora é pragmático",
+            "highlight": "pragmático",
+            "body": "Anthropic tá lutando por benchmark. OpenAI tá lutando por production. Essa é a diferença entre \"melhor no papel\" e \"melhor na vida real\". OpenAI escolheu vida real.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Benchmark e preços atualizados todo dia. Saiba qual modelo usar em cada situação. Sem hype, só dados.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Google Veo 3.1 Lite: 50% mais barato, mesma velocidade",
+      "summary": "Google lançou Veo 3.1 Lite, versão cost-optimized de Veo 3.1. 50% mais barato que Veo 3.1 Fast, mesma velocidade (8s em 720p-4K). Ataque agressivo ao mercado de vídeo AI.",
+      "source": "Google Developers Blog",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Google colocou Veo em escala: agora é commodity, não é premium",
+        "caption": "🎬 VEO 3.1 LITE: Vídeo 4K profissional por 1/3 do preço\n\nGoogle acabou de lançar Veo 3.1 Lite. É literalmente a mesma qualidade de Veo 3.1 standard, mas custando 50% MENOS.\n\n✓ 8 segundos de vídeo 4K/1080p\n✓ 50% mais barato que Veo 3.1 Fast\n✓ Latência IDÊNTICA (não é trade-off, é magic)\n✓ Text-to-video + Image-to-video nativos\n✓ Suporte landscape E portrait\n\nIsso é game-changing pra produção em volume. Seu concorrente tá fazendo 100 vídeos/dia por R$ 5k. Você tá gastando R$ 50k.\n\nVídeo de marketing virou commodity. Quem não mexer nisso RÁPIDO, morre.\n\n🔗 Entenda: https://rafaelondei.appnaia.com\n\n#IA #Video #Google #Veo #Produção #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "O PREÇO CAIU A METADE",
+            "title": "Veo 3.1 Lite: vídeo barato de verdade",
+            "highlight": "barato",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "NÚMERO QUE MUDA TUDO",
+            "title": "50% menos caro, mesma velocidade",
+            "highlight": "50%",
+            "body": "Veo 3.1 Lite custa metade do Veo 3.1 Fast. Mas a latência é IDÊNTICA. Não é \"mais lento e mais barato\" — é \"mesmos 8 segundos, meta de cost caída em metade\".",
+            "stat": "50%",
+            "stat_label": "redução de custo",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE VOCÊ CONSEGUE GERAR",
+            "title": "8 segundos de 720p, 1080p ou 4K",
+            "highlight": "4K",
+            "body": "Text-to-video. Image-to-video. Landscape (16:9) ou portrait (9:16). Tudo in-house. Sem waiting de renders. Sem terceirizações. Você manda um prompt, 8 segundos depois tem vídeo profissional.",
+            "stat": "8s",
+            "stat_label": "tempo de render",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "POR QUE AGORA",
+            "title": "Vídeo virou commodity",
+            "highlight": "commodity",
+            "body": "Google fez a aposta: ao invés de \"vender vídeo caro pra elite\", vender vídeo BARATO em volume gigante. Abrir mercado, saturar competidores. Estratégia típica de Google: dominar preço.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FICOU TÃO BARATO",
+            "title": "Menos parameters, mesma velocidade",
+            "highlight": "parameters",
+            "body": "Veo 3.1 Lite é otimizado pra latência ultra-baixa, não pra qualidade máxima. Google fez trade-off na direção certa: se 90% da qualidade custa 50% menos, 90% das aplicações aceitam.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM FAZ VÍDEO",
+            "title": "Tua agência de marketing virou produtor em massa",
+            "highlight": "em massa",
+            "body": "Antes: 10 vídeos profissionais por mês custava R$ 50k. Agora: 100 vídeos custam R$ 5k. Não é scaling — é industrialização. Quem não mexer nisso perde mercado.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A TENDÊNCIA",
+            "title": "IA tira custo até commodity não dar mais lucro",
+            "highlight": "commodity",
+            "body": "Primeiro launch: vídeo premium, caro, exclusivo. 6 meses depois: vídeo commodity, barato, massificado. Próximos 2 anos: vídeo vai custar praticamente zero. Quem não automatizar AGORA, tá fora.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Tendências de IA todo dia. Players, preços, e como lucrar antes que vire commodity.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Mistral Medium 3.5: 128B dense, 77.6% SWE-Bench",
+      "summary": "Mistral lançou Medium 3.5 como modelo flagship open-weights: 128B dense, 256k contexto, 77.6% em SWE-Bench (à frente de Devstral 2 e Qwen 3.5). Suporta inference em 4+ GPUs self-hosted.",
+      "source": "Mistral AI",
+      "link": "https://mistral.ai/news/mistral-3",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Mistral prova que open-source já é competitive com frontier models",
+        "caption": "🚀 MISTRAL MEDIUM 3.5: Open-source que mata frontier models\n\nMistral soltou bomba: Medium 3.5, modelo flagship open-weights de 128B dense.\n\n✓ 77.6% SWE-Bench (à frente de Devstral 2)\n✓ 256k contexto window\n✓ Self-hosted em 4+ GPUs\n✓ Código, instrução, reasoning no mesmo modelo\n✓ 91.4% em τ³-Telecom (agents!)\n\nTradução: vc tira 1 modelo de código aberto, roda LOCALMENTE, e faz quase tudo que GPT-5.5 faz. Sem API key, sem latência, sem custo de token.\n\nEra aviso: open-source virou mainstream.\n\n🔗 Saiba como usar: https://rafaelondei.appnaia.com\n\n#IA #Mistral #OpenSource #Programação #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "OPEN-SOURCE NÃO É MAIS HOBBY",
+            "title": "Mistral Medium 3.5: frontier-quality, open",
+            "highlight": "open",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "BENCHMARK QUE CHOCA",
+            "title": "77.6% SWE-Bench (coding benchmark)",
+            "highlight": "77.6%",
+            "body": "Mistral Medium 3.5 alcança 77.6% em SWE-Bench Verified. Pra contexto: isso bate Devstral 2 e tá no nível de Qwen 3.5. É código aberto. Sem API. Sem custo.",
+            "stat": "77.6%",
+            "stat_label": "SWE-Bench Verified",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "SPECS QUE IMPORTAM",
+            "title": "128B dense, 256k contexto, agents ready",
+            "highlight": "256k",
+            "body": "Modelo mergeado: instrução + reasoning + código no mesmo peso. 256k token window (literalmente um livro inteiro). 91.4% em τ³-Telecom (agents benchmarks).",
+            "stat": "256k",
+            "stat_label": "contexto window",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "POR QUE MUDA TUDO",
+            "title": "Open-source = no vendor lock-in",
+            "highlight": "no vendor lock-in",
+            "body": "Antes: vc tá preso a OpenAI, Anthropic, Google. Pricing sobe, você paga. Agora: Medium 3.5 roda LOCAL, tua infraestrutura, teu controle. Zero latência. Zero dependência.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO RODA",
+            "title": "4+ GPUs = seu próprio super-modelo",
+            "highlight": "super-modelo",
+            "body": "Medium 3.5 é denso (não sparse) — cabe em 4-8 A100s ou equivalente. Vc compra infra, faz deploy, e tem frontier-quality model rodando 24/7 sob TUA responsabilidade.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM PROGRAMA",
+            "title": "Teu custo de LLM no código caiu 90%",
+            "highlight": "90%",
+            "body": "Antes: cada query em OpenAI API = centavos. 1M queries = R$ 500+. Agora: compra 1 GPU A100 (R$ 15k), roda Medium 3.5, e amortiza em 3-6 meses. Total ROI.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A REALIDADE NOVA",
+            "title": "Frontier models via API já tá morto em 2 anos",
+            "highlight": "morto",
+            "body": "Mistral, Meta Llama, DeepSeek — todos soltos em open-source. Qualidade frontier-adjacent. Rodam local. Em 2 anos, pagadores de API vão parecer idiotas. Quem não mexer em infra própria, fica pra trás.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Infraestrutura, open-source, deployment. Tutorial em breve: como rodar Medium 3.5 na sua empresa.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Claude 4.7 vs GPT-5.5: benchmark real (coding wins)",
+      "summary": "Benchmark comparativo mai 2026: Claude Opus 4.7 lidera em SWE-Bench (64.3% vs 58.6% GPT-5.5). GPT-5.5 lidera em Terminal-Bench (82.7%). Claude Mythos Preview lidera em GPQA Diamond (94.6%).",
+      "source": "LM Council Benchmarks / Tom's Guide",
+      "link": "https://lmcouncil.ai/benchmarks",
+      "category": "benchmark",
+      "recommended": false,
+      "carousel": {
+        "theme": "Qual IA é melhor? Depende. Mas Anthropic tá ganhando em código.",
+        "caption": "📊 CLAUDEVS GPT-5.5: Quem domina o benchmark em maio 2026\n\n⚡ A verdade dos números (May 2026):\n\nCODING:\n✓ Claude 4.7: 64.3% SWE-Bench\n✓ GPT-5.5: 58.6%\n✓ Claude vence por 5.7 pontos (= centenas de issues reais)\n\nTERMINAL/BASH:\n✓ GPT-5.5: 82.7% Terminal-Bench\n✓ Claude: atrás em shell scripts\n✓ GPT-5.5 vence aqui\n\nREASIONING (GPQA Diamond):\n✓ Claude Mythos Preview: 94.6% (DOMINA)\n✓ Gemini 3.1 Pro: atrás\n✓ Claude pensa melhor\n\n🎯 Tradução: não existe \"melhor\". Existe \"melhor pra seu caso\". Mas em código? Claude é king.\n\n🔗 Veja detalhes: https://rafaelondei.appnaia.com\n\n#IA #Claude #OpenAI #Benchmark #Programação",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "A GUERRA CONTINUA",
+            "title": "Claude vs GPT-5.5: quem ganha?",
+            "highlight": "quem ganha",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "CODING DOMINATES THE BENCHMARK",
+            "title": "Claude 4.7: 64.3% SWE-Bench",
+            "highlight": "64.3%",
+            "body": "Claude Opus 4.7 bate GPT-5.5 (58.6%) em SWE-Bench Pro. Diferença de 5.7 pontos = centenas de issues reais onde Claude resolve e GPT-5.5 não. É muita coisa.",
+            "stat": "64.3%",
+            "stat_label": "SWE-Bench Pro (Claude)",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "OUTROS TERRENOS",
+            "title": "Terminal/Shell: GPT-5.5 lidera",
+            "highlight": "Terminal/Shell",
+            "body": "GPT-5.5 domina Terminal-Bench 2.0 em 82.7%. É shell scripting, container orquestração, tool chaining — coisas que GPT tá mais treinado. Claude tá atrás aqui.",
+            "stat": "82.7%",
+            "stat_label": "Terminal-Bench (GPT-5.5)",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "REASONING PURO",
+            "title": "Claude Mythos: 94.6% GPQA Diamond",
+            "highlight": "94.6%",
+            "body": "Quando coloca PENSAR puro (GPQA Diamond, benchmark mais exigente), Claude Mythos Preview sai na frente. Anthropic tá investindo em \"pensar bem\", e tá funcionando.",
+            "stat": "94.6%",
+            "stat_label": "GPQA Diamond (Claude Mythos)",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "POR QUE AS DIFERENÇAS",
+            "title": "Cada um foi treinado pra outra coisa",
+            "highlight": "treinado",
+            "body": "Claude: reasoning + código (Anthropic focou em SWE). GPT-5.5: versatilidade + terminal (OpenAI focou em tudo um pouco). Não é que um seja \"melhor\" — é que prioridades diferentes.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM USA",
+            "title": "Tu usando o modelo errado pra sua task?",
+            "highlight": "errado",
+            "body": "Codifica? Usa Claude. Shell scripts + CLI? Usa GPT-5.5. Research + papers? Claude Mythos. Produção? Varia. Teste os dois em 10 tasks reais, ve qual custa menos + erra menos.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A LIÇÃO",
+            "title": "Benchmark não diz tudo — caso de uso diz",
+            "highlight": "caso de uso",
+            "body": "\"Qual é o melhor modelo?\" é pergunta errada. \"Qual model é melhor pra MIM nessa tarefa específica?\" é pergunta certa. Por isso mercado tá fragmentado — cada caso usa um.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Benchmark novo, tools novo, preço novo — todo dia no radar. Se inscreve pra não ficar pra trás.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "xAI Grok 4.3 API: $1.25/Mi tokens + 1M window",
+      "summary": "xAI lançou Grok 4.3 API em 1º de maio. Suporta 1M token context window. Preço: $1.25/Mi input tokens, $2.50/Mi output tokens. Multimodal, tool-calling. Foco em enterprise.",
+      "source": "xAI Docs / Tech.co",
+      "link": "https://docs.x.ai/developers/models",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Grok 4.3 tira preço de Claude e abre janela em 1 milhão de tokens",
+        "caption": "🔥 GROK 4.3 API: 1 MILHÃO de tokens por bem menos\n\nxAI liberou Grok 4.3 pra dev em 1º de maio. 3 números que mudam tudo:\n\n✓ $1.25/Mi INPUT TOKENS (vs Claude: $3/Mi)\n✓ 1 MILHÃO token context (um livro inteiro)\n✓ Multimodal + tool-calling nativo\n\nVocê consegue meter um documento gigante (contrato, código fonte, manual), e Grok processa TUDO de uma vez. Sem chunking.\n\nPreço? 60% MAIS BARATO que Anthropic.\n\nEssa é a jogada de Elon: \"você não precisa de API cara, tá aqui a alternativa barata\".\n\n🔗 Saiba como integrar: https://rafaelondei.appnaia.com\n\n#IA #Grok #xAI #APIs #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "PREÇO QUE MATA OPONENTE",
+            "title": "Grok 4.3: gigantic window, preço baixo",
+            "highlight": "preço baixo",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O QUE MUDOU",
+            "title": "$1.25/Mi vs Claude $3/Mi",
+            "highlight": "$1.25",
+            "body": "Grok 4.3 API custa $1.25 por 1 milhão de input tokens. Claude custa $3. Isso é 60% de economia por token. Multiplica por 10M tokens/mês? Economiza R$ 200k/mês.",
+            "stat": "60%",
+            "stat_label": "economia vs Claude",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "CAPACIDADE GIGANTE",
+            "title": "1 milhão de tokens = um livro inteiro",
+            "highlight": "1 milhão",
+            "body": "Grok 4.3 processa 1M tokens de contexto. Isso é ~400 páginas de texto. Joga seu código-fonte todo de uma vez. Joga seu banco de docs. Grok ve tudo, processa, responde. Sem chunking.",
+            "stat": "1M",
+            "stat_label": "context window tokens",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O GOLPE ESTRATÉGICO",
+            "title": "Elon: \"não pague caro por IA\"",
+            "highlight": "não pague",
+            "body": "Grok 4.3 não é \"tão bom quanto Claude\". Grok 4.3 é \"bom o suficiente, por 1/3 do preço\". Estratégia típica de Elon: derrotar por preço + funcionalidade, não por benchmarks.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO INTEGRAR",
+            "title": "Multimodal + tool-calling nativo",
+            "highlight": "tool-calling",
+            "body": "Grok suporta images (text-to-image output em beta). Suporta function-calling — o modelo decide se chama uma tool ou responde. Integra com Slack, webhooks, tudo que você espera.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM DESENVOLVE",
+            "title": "Teu custo de API de IA caiu 60%",
+            "highlight": "60%",
+            "body": "Se você tá rodando Claude pra processar docs/código, troca pro Grok. Mesmo output em muitos casos, 60% menos barato. Margin sobre seu produto sobe direto.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "MARKET SHIFTING",
+            "title": "IA de texto virou commodity pra preço, não qualidade",
+            "highlight": "commodity",
+            "body": "Antes diferença era benchmark. Agora é preço. Claude vs Grok vs Gemini Pro — todos fazem a mesma coisa. Quem tira custo ganha. Anthropic, OpenAI, Google: preparem-se pra price war.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "APIs, preços, e como escolher. Todo dia atualizado.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Anthropic Claude em Adobe, Canva nativo",
+      "summary": "Anthropic expandiu Claude com conectores nativos pra Blender, Adobe, Autodesk, Ableton, Splice. Traz natural-language help e cross-tool handoff direto pra creative teams. Integração profunda.",
+      "source": "Anthropic Blog",
+      "link": "https://www.anthropic.com/news",
+      "category": "aplicação",
+      "recommended": false,
+      "carousel": {
+        "theme": "Claude virou native em creative tools — design e produção mudam de jogo",
+        "caption": "🎨 CLAUDE INTEGRADO EM ADOBE, AUTODESK, BLENDER (NATIVO)\n\nAnthropic anunciou integração profunda de Claude em ferramentas criativas:\n\n✓ Adobe Creative Suite (Photoshop, Premiere, After Effects)\n✓ Canva (design em 1 clique)\n✓ Autodesk (3D modeling)\n✓ Blender (animation + rendering)\n✓ Ableton + Splice (audio/produção musical)\n\nTraduções: não é \"plugin that uses Claude API\". É nativo. Sem latência. Sem copiar/colar prompt.\n\nVocê tá editando vídeo no Premiere, só fala \"remove background em 5 frames\" — Claude faz, sem sair do software.\n\nDesign, produção, animação: automação integrada.\n\n🔗 Veja como funciona: https://rafaelondei.appnaia.com\n\n#IA #Design #Criatividade #Adobe #Inteligência #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "CLAUDE VIROU PARTE DO SOFTWARE",
+            "title": "Creative tools: IA nativa",
+            "highlight": "nativa",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "INTEGRAÇÕ GIGANTES",
+            "title": "5 suites profissionais (Adobe, Autodesk, etc)",
+            "highlight": "5",
+            "body": "Claude integrado nativo em Adobe (Photoshop, Premiere, After Effects), Autodesk, Blender, Canva, Ableton + Splice. Não é plugin — é parte do core.",
+            "stat": "5",
+            "stat_label": "software suites com Claude nativo",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "IA dentro do software, sem latência",
+            "highlight": "sem latência",
+            "body": "Você tá no Photoshop, seleciona layer, fala \"remove objeto\". Claude processa LOCAL (integrado). Resultado aparece em segundos. Sem API call, sem espera, sem deixar o software.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "POR QUE ISSO MUDA TUDO",
+            "title": "Cross-tool handoff automático",
+            "highlight": "automático",
+            "body": "Antes: design no Figma, export, edita em Photoshop, volta. Agora: tudo conectado. Design em Canva → automático pra Adobe → automático pra Premiere. Workflow integrado.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "PRA CADA FERRAMENTA",
+            "title": "Capacidades customizadas por tool",
+            "highlight": "customizadas",
+            "body": "Blender: render optimization, lighting. Adobe: layer automation, color grading. Ableton: stem separation, music generation. Cada integração é especializada pro contexto.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA CRIATIVO PROFISSIONAL",
+            "title": "Tua produção caiu 50% em tempo",
+            "highlight": "50%",
+            "body": "Antes: 1 video em 3 horas de editing. Agora: 1 video em 1.5 horas (Claude faz a metade robótica). Multiplica por 20 videos/mês? Tu ganha 30 horas/mês.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "ESTRATÉGIA ANTHROPIC",
+            "title": "Claude não é chatbot — é infraestrutura",
+            "highlight": "infraestrutura",
+            "body": "Anthropic tá embutindo Claude em onde as pessoas REALMENTE trabalham. Não é \"use Claude pra pensar\". É \"Claude é parte de como você faz seu trabalho\". Integração, não disruption.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "IA produção, IA criação, IA design — tudo integrado. Vem aprender como usar.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "DeepSeek V4 Preview: \"fecha gap\" com frontier",
+      "summary": "DeepSeek lançou preview de V4 em abril (V4-Pro: 49B active em 1.6T, V4-Flash: 13B active em 284B). Hybrid attention (CSA + HCA). Claims: iguala reasoning de GPT-5.2 em alguns benchmarks. Mas tá 3-6 meses atrás em knowledge.",
+      "source": "MIT Tech Review / Bloomberg",
+      "link": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "DeepSeek V4 prova que China tá no pé de OpenAI/Anthropic",
+        "caption": "🇨🇳 DEEPSEEK V4: China fecha o gap com frontier models\n\nDeepSeek soltou preview de V4 em abril. E os números assustam:\n\n✓ V4-Pro: 49B active (1.6T total) — iguala GPT-5.2 em reasoning\n✓ V4-Flash: 13B active (284B total) — 10x mais rápido\n✓ 1 MILHÃO token context\n✓ Hybrid attention (CSA + HCA) = long-context efficiency\n\nMas tem catch: V4 tá 3-6 meses ATRÁS em knowledge (treino defasado).\n\nTraduza: reasoning (pensamento) é frontier. Knowledge (fatos) é legacy.\n\nEm 6 meses? DeepSeek pode estar à frente.\n\n🔗 Entenda o move de China em IA: https://rafaelondei.appnaia.com\n\n#IA #DeepSeek #China #Modelos #Tecnologia",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "CHINA TÁ ACELERADO",
+            "title": "DeepSeek V4: não é mais experiment",
+            "highlight": "experiment",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "BENCHMARK DE REASONING",
+            "title": "V4 iguala GPT-5.2 em alguns testes",
+            "highlight": "iguala",
+            "body": "DeepSeek V4-Pro (49B active em 1.6T total) não supera GPT-5.2 em TUDO. Mas em reasoning benchmarks específicos, tá no mesmo nível. Isso é chocante pra um modelo de abril 2026.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "ARQUITETURA INOVADORA",
+            "title": "Hybrid attention: CSA + HCA",
+            "highlight": "Hybrid",
+            "body": "V4 combina Compressed Sparse Attention com Heavily Compressed Attention. Resultado: processa 1M tokens sem explodir VRAM. Long-context efficiency que Anthropic ainda tá perseguindo.",
+            "stat": "1M",
+            "stat_label": "token context window",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O GRANDE MAS",
+            "title": "V4 tá 3-6 meses atrás em knowledge",
+            "highlight": "3-6 meses",
+            "body": "V4 pensa bem, mas sabe pouco. Treino data é defasado. Não tá atualizado com notícias de 2026. Em tasks que exigem \"saber factualmente\", V4 falha. Mas reasoning? Líder.",
+            "stat": "3-6",
+            "stat_label": "meses atrás em knowledge",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "POR QUE HÍBRIDO",
+            "title": "Sparse vs dense = custo vs qualidade",
+            "highlight": "custo",
+            "body": "V4-Pro (49B active) roda em menos GPUs que Claude 4.7 (dense). V4-Flash (13B active) roda RÁPIDO mas perde qualidade. Híbrido = você escolhe o trade-off.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA MERCADO GLOBAL",
+            "title": "Ameaça real pra Anthropic/OpenAI em 6-12 meses",
+            "highlight": "ameaça",
+            "body": "DeepSeek V4 é preview. Se retrainam V4 com dados 2026 e continuam, em 12 meses vão estar competitivos COM Anthropic, não 3-6 meses atrás. Mercado fica nervoso.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A DINÂMICA",
+            "title": "Reasoning é o novo terreno de guerra",
+            "highlight": "reasoning",
+            "body": "Antes competição era em benchmark global. Agora é em \"quem pensa melhor\". DeepSeek V4 prova que você não precisa de massive training — precisa de smart architecture + RLHF pesado. China aprendeu a lição.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Tendência geopolítica de IA. Quem avança, quem perde, e como lucrar no meio.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Cursor v3.0: Background Agents + Composer 2.0",
+      "summary": "Cursor v3.0 lançado no início de 2026. Introduziu Background Agents, Cloud Agents, e Composer 2.0 (assi multi-step coding). Escalou de autocomplete pra autonomous assistant. 50% Fortune 500.",
+      "source": "Cursor Blog / Tech Insider",
+      "link": "https://cursor.com/blog",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Cursor virou o IDE onde você não precisa programar mais",
+        "caption": "💻 CURSOR V3.0: IDE que programa por ti\n\nCursor v3.0 (início 2026) foi game-changing. De autocomplete inteligente pro de verdade autonomous coding:\n\n✓ Background Agents: roda tarefas em segundo plano\n✓ Cloud Agents: executa tasks complexas na nuvem\n✓ Composer 2.0: edita múltiplos arquivos de UMA VEZ\n✓ Modelo-agnostic: usa Claude, GPT, Gemini, o que tu quiser\n✓ 50% Fortune 500 agora confia em Cursor\n\nTraduça: você só direciona. Cursor programa.\n\nEm 6 meses passou de \"fancy autocomplete\" pra \"seu programming pair que entende contexto\".\n\n🔗 Veja como escalou: https://rafaelondei.appnaia.com\n\n#IA #Programação #Desenvolvimento #Cursor #Tecnologia",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "O IDE QUE PROGRAMA POR TI",
+            "title": "Cursor v3.0: não é editor, é assistant",
+            "highlight": "assistant",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "MARKET ADOPTION",
+            "title": "50% Fortune 500 usa Cursor",
+            "highlight": "50%",
+            "body": "500 grandes empresas confiam em Cursor pra desenvolvimento. Não é startup tool mais — é enterprise standard. VSCode + Cursor virou default pra IA-native development.",
+            "stat": "50%",
+            "stat_label": "Fortune 500 usando Cursor",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE MUDOU EM V3.0",
+            "title": "Background Agents + Composer 2.0",
+            "highlight": "Background Agents",
+            "body": "Antes: você manda comando, espera resposta. Agora: Background Agents rodam tarefas enquanto você trabalha. Composer 2.0 edita múltiplos arquivos simultaneamente. Você só revisa.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "ESCALOU PRA AUTONOMOUS",
+            "title": "De autocomplete pra multi-step execution",
+            "highlight": "multi-step",
+            "body": "Cursor v1: \"completa linha de código\". Cursor v3: \"refatora 10 arquivos, testa, faz PR\". Escalou de feature pra produto. De helper pra decision-maker na arquitetura.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO RODA",
+            "title": "Cloud Agents executam na nuvem",
+            "highlight": "Cloud Agents",
+            "body": "Tarefas pesadas (teste em infra, deploy, big refactor) rodam em Cloud Agents. IDE continua responsivo. Resultado aparece quando termina. Scaling automático.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA DESENVOLVEDOR",
+            "title": "Tua velocidade de código triplicou",
+            "highlight": "triplicou",
+            "body": "Feature que levava 4 horas em 1. Refator que levava 8 horas em 2. Bugfix que levava 1 hora em 10 minutos. Velocity sobe = teus retornos sobem.",
+            "stat": "3x",
+            "stat_label": "velocidade de development",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "MERCADO DE DESENVOLVIMENTO",
+            "title": "Programar sans IA virou competitivo inviável",
+            "highlight": "inviável",
+            "body": "Se você não tá usando Cursor em 2026, tá deixando 3x de produtividade na mesa. Seu competitor tá. Isso não é advantage anymore — é necessidade pra estar no jogo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Radar de tools, produtividade, e como maximizar sua velocity com IA.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    }
+  ],
+  "whatsapp": "🔥 RADAR IA — 2026-05-06\n\n1️⃣ **Perplexity +50% receita em 1 mês** — Agentes não são features, são negócio. 100+ clientes pediram acesso num fim de semana.\nhttps://rafaelondei.appnaia.com\n\n2️⃣ **Anthropic $1.5B PE venture** — Goldman, Blackstone metendo pesado em IA para mid-market. Dinheiro grande descobriu que IA = lucro.\nhttps://rafaelondei.appnaia.com\n\n3️⃣ **OpenAI GPT-5.5 Instant** — Mais rápido, mais barato, 86% menos alucinações. OpenAI focou em \"funciona na prática\".\nhttps://rafaelondei.appnaia.com\n\n4️⃣ **Google Veo 3.1 Lite** — 50% mais barato, mesma velocidade. Vídeo virou commodity. Agências de marketing em panic mode.\nhttps://rafaelondei.appnaia.com\n\n5️⃣ **Mistral Medium 3.5** — 77.6% SWE-Bench, open-source, roda local em 4 GPUs. Open-source virou mainstream.\nhttps://rafaelondei.appnaia.com\n\n6️⃣ **Claude 4.7 vs GPT-5.5** — Claude lidera em código (64.3% SWE-Bench). Não existe \"melhor\" — existe \"melhor pra seu caso\".\nhttps://rafaelondei.appnaia.com\n\n7️⃣ **xAI Grok 4.3 API** — $1.25/Mi tokens (60% mais barato), 1M context window. Elon colocando preço no jogo.\nhttps://rafaelondei.appnaia.com\n\n8️⃣ **Claude nativo em Adobe, Canva, Blender** — IA dentro dos softwares que as pessoas usam. Sem latência. Cross-tool automation.\nhttps://rafaelondei.appnaia.com\n\n9️⃣ **DeepSeek V4 Preview** — China iguala reasoning de GPT-5.2. Tá 3-6 meses atrás em knowledge, mas em 12 meses pode virar ameaça.\nhttps://rafaelondei.appnaia.com\n\n🔟 **Cursor v3.0** — 50% Fortune 500 usam. Autonomous coding. Background + Cloud Agents. Programar sem IA é inviável.\nhttps://rafaelondei.appnaia.com",
+  "instagram": "💰 10 MOVIMENTOS DE IA QUE MUDA SEU NEGÓCIO\n\nSe você tá empreendendo em 2026 e ainda não mexeu com IA, tá perdendo. Vem ver os 10 movimentos que definem o mercado AGORA:\n\n1. **Agentes funcionam na prática** — Perplexity +50% receita em 1 mês. Não é marketing, é execution real. 100+ clientes pediram acesso num fim de semana.\n\n2. **Capital gigante entra em IA** — $1.5B de Goldman + Blackstone + Anthropic. PE descobriu: IA corta custo em 30-40%. Isso escala RÁPIDO.\n\n3. **OpenAI mudou de tática** — GPT-5.5 Instant: menos benchmark flexing, mais pragmatismo. Rápido, barato, confiável. Isso é que vende.\n\n4. **Vídeo virou R$ 5 por 8 segundos** — Veo 3.1 Lite. Agências de marketing em panic mode. Se você ainda faz vídeo manual, tá fora.\n\n5. **Open-source é competitive** — Mistral 3.5 faz quase tudo, custa quase nada, roda local. Vendor lock-in morreu.\n\n6. **Benchmark não diz tudo** — Claude lidera em código. GPT em terminal. Claude Mythos em reasoning. Escolhe o certo pro seu caso.\n\n7. **Preço é nova arma** — Grok 4.3 custa 60% menos que Claude. Mesma capacidade, fração do preço. Price war tá on.\n\n8. **IA integrada em software é standard** — Claude em Adobe, Canva, Blender. Não é plugin. É core. Tua ferramenta tá ficando obsoleta?\n\n9. **China tá na corrida** — DeepSeek V4 iguala reasoning de GPT-5.2. Em 6 meses? Pode virar ameaça real pra Anthropic/OpenAI.\n\n10. **Programar sem IA é inviável** — Cursor v3.0, 50% Fortune 500. Teu dev team tá 3x mais lento que deveria ser.\n\n🔥 PADRÃO GLOBAL: Agentes > modelos. Execução > inteligência. Preço > benchmarks.\n\nSeu concorrente tá aqui. Agora. Vem aprender.\n\n🔗 Dashboard: https://rafaelondei.appnaia.com\n\n#IA #Empreendedorismo #Claude #OpenAI #Agentes #Tecnologia #Mercado"
+}
