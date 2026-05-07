@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-05-06T07:00:01-03:00",
+  "updated_at": "2026-05-07T07:00:01-03:00",
   "executions": [
+    {
+      "date": "2026-05-07",
+      "key": "2026-05-07",
+      "topic": "mercado de IA",
+      "summary": "Agents +23% receita; Anthropic x SpaceX 300MW; GPT-5.5 52% menos alucinações; Cursor 3 com agents visuais; Google I/O Gemini 4.0; Perplexity $20B; DeepSeek 35x barato; benchmarks 2026=especialização; Sora dead; Grok $10",
+      "items_count": 10
+    },
     {
       "date": "2026-05-06",
       "key": "2026-05-06",

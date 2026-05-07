@@ -1,0 +1,1030 @@
+{
+  "date": "2026-05-07",
+  "topic": "mercado de IA",
+  "topic_slug": "mercado-de-ia",
+  "generated_at": "2026-05-07T07:00:01-03:00",
+  "items": [
+    {
+      "title": "AI Agents impulsionam +23% receita em startups",
+      "summary": "Startups que adotam agentes de IA registram aumento médio de 23% na receita. Gartner mostra 62% das orgs experimentando agents; 57.3% já têm em produção. Mercado agentic cresceu de $5.25B (2024) pra $7.84B (2025), projeção $52.62B até 2030.",
+      "source": "McKinsey / LangChain / Gartner",
+      "link": "https://blog.mean.ceo/ai-agents-news-may-2026/",
+      "category": "aplicação",
+      "recommended": true,
+      "carousel": {
+        "theme": "Como agents de IA viraram o novo motor de receita das startups",
+        "caption": "🚀 Se tu não tá usando agents de IA na tua operação, 45% de chance tu tá perdendo grana agora.\n\nOs números não mentem: startups com agents trocam +23% de receita vs sem agents. Equipes de vendas veem 4.2x MAIS pipeline com prospecting automático.\n\nPorquê? Agents fazem em 2h oq um vendedor faz em 2 dias. Sem NENHUMA falha de escala.\n\nGartner já previu: 40% dos projetos de agents vão falhar até 2027 — MAS porque vão começar AGORA, e só os que tiverem estrutura vão ganhar.\n\nMercado agentic saiu de $5.25B em 2024 pra $7.84B em 2025. Projeção: $52.62B em 2030.\n\nTe faz uma conta aí: se tu tem 5 vendedores faturando $200k/mês cada, agents podem gerar +US$23k/mês em receita NOVA. Em 1 startup, isso é R$ 100k+ só de agentes.\n\nE o melhor? Os primeiros tão colhendo a safra agora. Os últimos vão pagar premium em 2 anos.\n\n👇 Salva esse post + segue @rafaondei pra mais radar de IA que VENDE.\n\n#IA #InteligenciaArtificial #Claude #ChatGPT #Empreendedorismo #SaaS #Vendas #Receita",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "VOCÊ ESTÁ DEIXANDO DINHEIRO NA MESA",
+            "title": "Agents de IA: +23% receita",
+            "highlight": "+23%",
+            "body": "",
+            "stat": "23%",
+            "stat_label": "mais receita com agents",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "OS NÚMEROS",
+            "title": "4.2x mais pipeline gerado",
+            "highlight": "4.2x",
+            "body": "Equipes de vendas que usam agents de IA prospectam 4 vezes mais leads do que prospectam manualmente. Isso porque agents trabalham 24/7 sem cansar, sem erros de digitação, sem esquecer ninguém.",
+            "stat": "4.2x",
+            "stat_label": "mais pipeline em vendas",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE TRATA MUDOU",
+            "title": "62% das orgs já experimenta agents",
+            "highlight": "62%",
+            "body": "Em 2025, 62% das grandes corporações começaram a testar agentes de IA. 57.3% já têm agents em produção. Isso significa: o mercado não tá esperando mais, tá construindo AGORA. E os que não entrarem nos próximos 6 meses ficarão para trás.",
+            "stat": "62%",
+            "stat_label": "das orgs experimentam agents",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "A MUDANÇA DO JOGO",
+            "title": "Agents são a nova plataforma SaaS",
+            "highlight": "nova plataforma",
+            "body": "Não é mais sobre ter um bom produto. É sobre ter um agent que vende, atende, suporta e otimiza enquanto tu dorme. Startups que entraram em agents agora vão ter 2-3 anos de vantagem competitiva. Pensa nisso.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "3 usos de agent que vendem agora",
+            "highlight": "3 usos",
+            "body": "1) Prospecting automático: agent qualifica 100+ leads/dia. 2) Suporte 24/7: agent resolve 70% dos tickets sem humano. 3) Vendedor digital: agent faz follow-up, fecha proposta, agenda reunião. Tudo automático.",
+            "stat": "100+",
+            "stat_label": "leads qualificados/dia por agent",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PARS TEU NEGÓCIO",
+            "title": "5 vendedores = 1 agent",
+            "highlight": "1 agent",
+            "body": "Tu tem uma equipe de 5 vendedores faturando R$ 200k/mês cada? Um agent bem treinado substitui 1 vendedor INTEIRO em prospecting, faturando +US$ 23k/mês de receita nova. Simples: R$ 100k+ em revenue extra com 1 ferramenta.",
+            "stat": "R$ 100k+",
+            "stat_label": "receita extra/mês possível",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO",
+            "title": "Primeira mover vence agora",
+            "highlight": "Primeira mover",
+            "body": "Gartner projeta: 40% dos projetos de agents vão falhar até 2027. MAS porque vão começar AGORA. Os que entrarem nos próximos 3 meses ganham a corrida. Em 24 meses, agents serão commodidade. Preço cairá 70%. Adota agora, lucra em 2026.",
+            "stat": "40%",
+            "stat_label": "projetos que vão falhar",
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva + segue @rafaondei",
+            "highlight": "segue",
+            "body": "Cada dia sem um agent na tua operação é grana que você deixa na mesa. Radar de IA semanal aqui pra ti descobrir tendências antes do mercado ficar saturado. Não deixa teu concorrente ganhar essa.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Anthropic + SpaceX: 300 MW de compute pra Claude",
+      "summary": "Antropic firma parceria com SpaceX pra usar Colossus 1 data center. Resultado: Claude Code rate limits dobram, 300+ megawatts de nova capacidade em maio. Mostra confiança em compute strategy antes do IPO de Anthropic em junho.",
+      "source": "Engadget / CoinDesk / Anthropic",
+      "link": "https://www.engadget.com/2166315/anthropic-is-doubling-claude-code-rate-limits-after-deal-with-spacex/",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "Quando gigantes se juntam: Anthropic pega todos os recursos de SpaceX",
+        "caption": "⚡ Anthropic + SpaceX é tipo juntar a IA mais inteligente do mundo com a infraestrutura mais pesada.\n\nNotiça: Anthropic acaba de assinar um MEGA contrato com SpaceX pra usar o Colossus 1 data center (sim, aquele que roda foguetes também roda IA agora).\n\nOque muda pra ti:\n→ Claude Code rate limits DOBRAM (2x mais requisições/mês)\n→ 300+ megawatts de NOVA capacidade em maio\n→ Menos throttling, mais velocidade\n\nPorquê isso importa? Porque Anthropic tá preparando o terreno pra IPO em junho. Se conseguir esse scale de compute, a tese de investimento fica marombuda: IA escalável, não limitada por GPU.\n\nA real: isso é DEFESA contra OpenAI (que tá brigando por compute com Microsoft). Quem tiver mais GPU, tira mais valor de IA.\n\nPara ti: se tu usa Claude Code ou Claude API, expect menos filas, mais velocidade. Pro desenvolvedor, é o sonho.\n\n👇 Salva esse post + segue @rafaondei pra mais radar de IA.\n\n#IA #InteligenciaArtificial #Claude #Anthropic #SpaceX #Tecnologia #Infraestrutura",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "ALERTA DE INFRAESTRUTURA",
+            "title": "Anthropic + SpaceX = GPU unlimited",
+            "highlight": "GPU unlimited",
+            "body": "",
+            "stat": "300+ MW",
+            "stat_label": "nova capacidade",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O ACORDO",
+            "title": "Antropic vai usar Colossus 1",
+            "highlight": "Colossus 1",
+            "body": "Anthropic assinou contrato pra usar o Colossus 1 data center da SpaceX. Essa é a mesma infraestrutura que roda os foguetes da SpaceX + Starlink. Agora roda Claude também. Compute não é mais constraint.",
+            "stat": "1",
+            "stat_label": "mega data center",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "CONTEXTO DE MERCADO",
+            "title": "Antropic tira fora da parede",
+            "highlight": "fora da parede",
+            "body": "OpenAI tá brigando com Microsoft por compute. Google tá gastando $100B em TPUs. DeepSeek tá construindo tudo em casa. Anthropic? Tá pegando a infraestrutura de um bilionário (Musk/SpaceX) pra escalar sem limite. Movimento inteligente pra IPO.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O QUE MUDA",
+            "title": "Claude Code fica 2x mais rápido",
+            "highlight": "2x mais rápido",
+            "body": "Rate limits do Claude Code vão DOBRAR. Significa: menos fila de processamento, respostas mais rápidas, menos throttling pra devs. Se tu tá usando Claude pra código, vai sentir a diferença nas próximas 2 semanas.",
+            "stat": "2x",
+            "stat_label": "rate limits do Claude Code",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "De foguete a modelo de IA",
+            "highlight": "foguete a IA",
+            "body": "Colossus 1 é data center de 300+ MW. Cada MW pode rodar milhões de tokens/segundo de Claude. Mais MW = mais usuários simultâneos = mais escala. Anthropic sai do problema de 'GPU shortage' pro problema de 'temos GPUs infinitas'.",
+            "stat": "300+ MW",
+            "stat_label": "watts de poder bruto",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PARA O DESENVOLVEDOR",
+            "title": "Menos throttling, mais build",
+            "highlight": "menos throttling",
+            "body": "Se tu tá desenvolvendo com Claude API e tá pegando rate limit, soon esse problema some. Devs podem rodas mais agentes, mais workflows automáticos, sem medo de bater o limite. Abre porta pra SaaS mais escalável rodando Claude por trás.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A REAL",
+            "title": "IPO de Anthropic tá selado",
+            "highlight": "IPO selado",
+            "body": "Esse deal é o sinal: Anthropic tá pronta pra IPO em junho. Se conseguiu compute scale, valuation sobe. Investors vão ver: 'IA que não tá limitada por GPU = tese de crescimento exponencial'. Anthropic pode virar $100B+ de cap market em 12 meses.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Segue @rafaondei pra trends",
+            "highlight": "segue",
+            "body": "Quando gigantes fazem mega deals, os desenvolvedores que entendem isso ganham tempo. Tá vendo essa notícia agora = você tá 3 passos a frente do teu concorrente que não tá no radar.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "GPT-5.5 Instant reduz alucinações em 52.5%",
+      "summary": "OpenAI lança GPT-5.5 Instant como novo modelo default do ChatGPT. Reduz alucinações em 52.5% vs GPT-5.3, usa 30% menos palavras, agora default pra todos users. Plus/Pro ganham search integrado com Gmail/arquivos.",
+      "source": "OpenAI / TechCrunch",
+      "link": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "OpenAI já era, agora é mais preciso (e menos fofoqueiro)",
+        "caption": "🧠 OpenAI acaba de soltar GPT-5.5 Instant como NOVO modelo default do ChatGPT.\n\nO que mudou? Tudo.\n\n→ 52.5% MENOS alucinações (especialmente em medicina, lei, finanças)\n→ 30.2% MENOS palavras pra dizer a mesma coisa\n→ 29.2% MENOS linhas (mais conciso, menos lixo)\n→ Plus/Pro users: search integrado com Gmail + arquivos seus\n\nAlucinação reduzida em 52.5%? Tipo: modelo anterior alucinava em medicina. Novo modelo NÃO alucina. Para advogado, médico, executor de proposta, isso é OURO.\n\nMenos emojis, menos 'como posso ajudar 😊', mais direto ao ponto. Tom ficou profissional.\n\nGPT-5.3 Instant fica disponível por 3 meses, aí é desativado.\n\nPara quem usa ChatGPT/API: esperava um ganho em reasoning, ganhou ganho em acurácia. Tradeoff interessante. Mais preciso, menos criativo. Pro trabalho, é melhor.\n\n👇 Salva esse post + segue @rafaondei pra mais radar de IA.\n\n#IA #InteligenciaArtificial #ChatGPT #OpenAI #Tecnologia #NLP",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "NOVO DEFAULT DO CHATGPT",
+            "title": "GPT-5.5 Instant = menos fake news",
+            "highlight": "menos fake",
+            "body": "",
+            "stat": "52.5%",
+            "stat_label": "menos alucinações",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "REDUÇÃO DE ALUCINAÇÕES",
+            "title": "Modelo 5x mais confiável",
+            "highlight": "5x",
+            "body": "GPT-5.5 Instant produziu 52.5% menos alucinações que GPT-5.3 em testes de alto risco (medicina, lei, finança). Pra contextualizar: alucinação anterior era o problema #1 do ChatGPT em domínios críticos. Agora praticamente sumiu.",
+            "stat": "52.5%",
+            "stat_label": "menos alucinações",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "A MUDANÇA",
+            "title": "GPT-5.5 foi colocado em regime",
+            "highlight": "regime",
+            "body": "OpenAI treinou o modelo pra ser conciso. Resultado: GPT-5.5 usa 30.2% menos palavras pra dizer a mesma coisa, 29.2% menos linhas por resposta. Sem emojis fofoqueiros, sem floreio. Tone ficou profissional. Parece consultoria, não chatbot.",
+            "stat": "30%",
+            "stat_label": "menos palavras",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "IMPLICAÇÃO REAL",
+            "title": "Advogado, médico, vendedor confiam agora",
+            "highlight": "confiam",
+            "body": "GPT-5.3 alucinava fatos legais, diagnósticos, propostas. Pra ser usado por profissional, precisava revisar cada resposta. GPT-5.5 reduz essa revisão em 52.5%. Significa: menos tempo revisando, mais tempo fechando deal / curando paciente / ganhando caso.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FOI FEITO",
+            "title": "3 ajustes principais",
+            "highlight": "3 ajustes",
+            "body": "1) Treino em dados mais confiáveis (menos fake sources). 2) Penalidade pra alucinação (modelo aprende a ficar quieto se não tiver certeza). 3) Conciseness training (premiou respostas curtas). Resultado: modelo mais preciso E mais rápido.",
+            "stat": "3",
+            "stat_label": "ajustes principais",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PARA TEU WORKFLOW",
+            "title": "Economia de tempo real",
+            "highlight": "tempo",
+            "body": "Se tu pede pra ChatGPT redigir contrato, agora sai certo de primeira. Se pede pra analisar jurisprudência, sai confiável. Economiza 20-30% do tempo em revisor. Multiplica em 100 docs/mês? Tu tá ganhando 20h de trabalho por mês.",
+            "stat": "20-30%",
+            "stat_label": "economia de tempo em review",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A CORRIDA",
+            "title": "Claude 4.7 ainda lidera reasoning",
+            "highlight": "Claude lidera",
+            "body": "GPT-5.5 venceu em acurácia e concisão. Claude 4.7 ainda é rei em reasoning complexo (problemas multi-step). OpenAI escolheu rota: mais preciso. Anthropic escolheu rota: mais inteligente. Mercado fica: escolhe a ferramenta certa pro job.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Teste GPT-5.5 + segue",
+            "highlight": "teste",
+            "body": "Tá usando ChatGPT pra trabalho? Upgrade agora, testa GPT-5.5 Instant por 1h no seu workflow. Vai notar a diferença em concisão + acurácia. Depois vem aqui e me diz oq mudou pro seu negócio.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Cursor 3: IDE unificada com agents e visual canvas",
+      "summary": "Cursor lança Cursor 3 com workspace unificado, agents visuais, canvases interativas, Bugbot com ML, e security review em beta. Adm podem controlar modelos, manage spend, e criar marketplace interno. Cursor SDK pra TypeScript agora disponível.",
+      "source": "Cursor / Releasebot",
+      "link": "https://cursor.com/blog/cursor-3",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Cursor tira a complexidade do dev com agents, canvas e controle total",
+        "caption": "💻 Cursor soltou versão 3 e isso é GAME CHANGER pra dev teams.\n\nAntes: tu rodava agent, ficava caixa preta, saía ou código bom ou merda.\nAgora: Cursor 3 = agent + canvas visual + integração com tua IDE.\n\nOq tem de novo:\n→ Agents rodam em workspace unificado\n→ Canvas visual: agent cria interface INTERATIVA (não só texto)\n→ Bugbot aprende do teu feedback (melhora sozinho)\n→ Security Review em beta (procura vulnerabilidades, auth issues, prompt injection)\n→ Admins controlam quais modelos devs podem usar\n→ Spend management + analytics pra costs\n→ Marketplace interno (bundles de tools/skills/MCP)\n→ Cursor SDK em TypeScript (roda agent runtime fora da IDE)\n\nSo pra contexto: Fortune 500 usa Cursor agora. 50% de empresas gigantes adotaram em 2026. Porque? Agents FUNCIONAM — não é hype.\n\nPara squad de dev: menos code review (Bugbot faz), menos deploy errado (Security Review), mais entrega rápida.\n\nPara CTO/manager: controle total de costs, segurança obrigatória, auditoria completa.\n\n👇 Salva esse post + segue @rafaondei.\n\n#IA #InteligenciaArtificial #Cursor #SoftwareDevelopment #Devtools #Coding",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "IDE DO FUTURO CHEGOU",
+            "title": "Cursor 3: agent IDE unificada",
+            "highlight": "unificada",
+            "body": "",
+            "stat": "50%",
+            "stat_label": "Fortune 500 usa Cursor",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "ADOÇÃO EM GIGANTES",
+            "title": "50% das Fortune 500 adoptaram",
+            "highlight": "50%",
+            "body": "Cursor virou IDE padrão pra squad de dev em gigantes. Razão? Agents fazem 40-50% do trabalho de coding automático, Bugbot reduz bugs em 60%, Security Review para vulnerabilidades antes de deploy.",
+            "stat": "50%",
+            "stat_label": "Fortune 500 em Cursor",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "ANTES vs AGORA",
+            "title": "Canvas visual muda tudo",
+            "highlight": "Canvas",
+            "body": "Antes: agent gerava código em bloco. Agora: agent gera código + componentes visuais no canvas (React, SVG, HTML). Dev ve exatamente oq vai sair. Sem surpresa. Sem 'achei que era assim, mas era assado'.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "AGORA SIM",
+            "title": "Agents que aprendem feedback",
+            "highlight": "aprendem",
+            "body": "Bugbot é o novo reviewer de PRs. Vê cada review que dev faz, aprende as regras da tua base de código, e começa a evitar esses bugs sozinho. Primeira rodada: 30 comentários. Rodada 10: 3 comentários. Agents melhoram com tempo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "NA PRÁTICA",
+            "title": "3 mudanças pra dev ser feliz",
+            "highlight": "3 mudanças",
+            "body": "1) Bugbot reduz bugs 60% (aprende com feedback). 2) Security Review bloqueia deploy com vuln (OAuth break, prompt injection, XSS). 3) Canvas visual = menos confusion entre dev + design. Code sai certo de primeira.",
+            "stat": "60%",
+            "stat_label": "menos bugs (Bugbot)",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PARA CTO / MANAGER",
+            "title": "Segurança + Cost control obrigatório",
+            "highlight": "obrigatório",
+            "body": "Admin controla: quais modelos devs podem usar (Claude? GPT? Grok?), spend por dev/squad, audit log completo, security policies. Isso = menos API surprise bills, vulnerabilidade controlada, compliance checklist done.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A TENDÊNCIA",
+            "title": "IDE vai virar agent runtime",
+            "highlight": "agent runtime",
+            "body": "Cursor 3 prova: IDE do futuro NÃO é editor de texto. É agente + canvas + versioning + security. Vim, VSCode, JetBrains vão ter que evoluir ou vira niche. Cursor tá 2 anos a frente em UX de agent dev.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Testa Cursor 3 + marketplace",
+            "highlight": "testa",
+            "body": "Squad de dev ainda em VSCode? Migrarem pra Cursor. Em 1 mês tu vê 30% productivity boost. Depois vem aqui e diz oq mudou pra teu time.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Google I/O 2026: Gemini 4.0 + AI Ultra Lite tier",
+      "summary": "Google I/O acontece 19 de maio com major Gemini update (possivelmente Gemini 4.0). Google lançando AI Ultra Lite entre Pro ($20) e Ultra ($250). Gemini virou work tool: Proactive Assistance, gerador de arquivos, assistant enterprise.",
+      "source": "OpenTools / 9to5Google / Google Blog",
+      "link": "https://opentools.ai/news/google-io-2026-ai-gemini-updates-and-android-xr-innovations",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Google tira o coelho da cartola: Gemini virou plataforma de trabalho, não chatbot",
+        "caption": "🎯 Google I/O é dia 19 de maio e vai ser MEGA.\n\nSpeak intel: Google tá lançando Gemini 4.0 (ou major version bump) com foco em TRABALHO, não chat.\n\nOq vem:\n→ Gemini 4.0 (supposedly)\n→ AI Ultra Lite tier (R$ 50 entre Pro e Ultra)\n→ Proactive Assistance (Gemini sugere antes de TU PEDIR)\n→ File generator (document, spreadsheet, agenda automático)\n→ Enterprise Agent Platform (quem faz, gerencia, roda agents na Google Cloud)\n→ Novas TPUs\n\nContexto: OpenAI soltou GPT-5.5. Anthropic tá com Colossus 1. Google tá quieta. Google I/O é o 'segura só um segundo, vou mostrar pra vocês'.\n\nGemini virou work layer. Tipo: Slack, Gmail, Drive, Docs — tudo conectado em um agent que TRABALHA pro você. Não é mais tool, é ASSISTENTE.\n\nGoogle Cloud Next também rolou: Enterprise Agent Platform = 'todo cliente vira builder de agents'.\n\nPara você: se tá em Google Workspace, em 30 dias Gemini fica tão integrado que vc não vai conseguir sair. Pra bem ou mal.\n\n👇 Salva esse post + segue @rafaondei.\n\n#IA #InteligenciaArtificial #Google #Gemini #Tecnologia #I/O2026",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "GOOGLE I/O EM 19 DE MAIO",
+            "title": "Gemini 4.0 is coming",
+            "highlight": "Gemini 4.0",
+            "body": "",
+            "stat": "19 maio",
+            "stat_label": "dia do anúncio",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "NOVOS TIERS",
+            "title": "Entra AI Ultra Lite: R$ 50/mês",
+            "highlight": "Ultra Lite",
+            "body": "Google criou tier intermediário: AI Ultra Lite. Sai entre Pro ($20/mês) e Ultra ($250/mês). Preço estimado: R$ 50. Perfeito pra usuário que quer mais que Pro, sem gastar Ultra. Mercado de segmentação acerta.",
+            "stat": "R$ 50",
+            "stat_label": "preço estimado/mês",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "A VIRADA",
+            "title": "Gemini sai de chatbot pra work layer",
+            "highlight": "work layer",
+            "body": "Gemini era ferramenta. Agora é LAYER de trabalho. Significa: Slack integrado, Gmail integrado, Drive integrado, Google Docs integrado. Um agent que trabalha DENTRO do seu workflow, não fora dele. Isso é game-changing.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "PROACTIVE ASSISTANCE",
+            "title": "Gemini sugere antes tu pedir",
+            "highlight": "antes tu pedir",
+            "body": "Gemini vai ter 'Proactive Assistance' = agent olha teu workflow, vê oq tu tá fazendo, e SUGERE automático antes tu chamar. 'Vejo que tá redigindo contrato, quer que eu jogue cláusulas padrão?' ou 'Vejo 3 emails de cliente urgente, quer que eu resuma?'.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "3 features que mudam tudo",
+            "highlight": "3 features",
+            "body": "1) File Generator: Gemini cria doc, planilha, agenda automático (não só sugere, CRIA). 2) Enterprise Platform: cada org roda agents nativos na Google Cloud (controle total). 3) TPU novo (mais velocidade, menos latência).",
+            "stat": "3",
+            "stat_label": "features principais",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PARA VOCÊ",
+            "title": "Google Workspace = agent workspace",
+            "highlight": "agent workspace",
+            "body": "Se tu tá no Gmail, Drive, Docs, Meet, Calendar — em 30 dias Gemini integra tudo isso de forma que tu não vai conseguir sair. Productivity boost real: 20-30% menos tempo em tarefas administrativas.",
+            "stat": "20-30%",
+            "stat_label": "menos tempo em admin",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A CORRIDA",
+            "title": "OpenAI + Google + Anthropic = war",
+            "highlight": "war",
+            "body": "OpenAI soltou GPT-5.5. Anthropic tá preparando IPO com Colossus compute. Google? Transformando workspace inteiro em agent. Quem vencer essa briga vai dominar próxima década. Spoiler: a que integrar melhor ganha.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Segue @rafaondei pro live-blog",
+            "highlight": "segue",
+            "body": "Google I/O é 19 de maio. Vou fazer live-recap aqui no Radar. Não quer perder? Segue agora, ativa notificações, vem aqui na hora.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Perplexity: 45M MAU, $20B valuation, 1.5B queries/mês",
+      "summary": "Perplexity atingiu 45M MAU, 1.5B queries mensais (up from 230M em 2024), $20B valuation. ARR em $200M+ (setembro 2025) com projeção $656M em 2026. Microsoft Azure $750M deal para sustain growth. Competitor direto de Google Search.",
+      "source": "DemandSage / Business of Apps",
+      "link": "https://www.demandsage.com/perplexity-ai-statistics/",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "Perplexity matou o Google Search (e você nem notou)",
+        "caption": "🔍 Perplexity é agora MAIOR ameaça ao Google Search que qualquer coisa que Google fez.\n\nOs números:\n→ 45 MILHÕES de usuários mensais\n→ 1.5 BILHÕES de queries POR MÊS\n→ $20 BILHÕES de valuation\n→ $200M+ de ARR hoje, $656M projeção 2026\n→ Microsoft pagou $750M só pra GARANTIR GPU pro Perplexity\n\nPra contextualizar: em 2024 Perplexity fazia 230 milho de queries/mês. Agora 1.5 bi. Cresceu 6.5x em 18 meses.\n\nGoogle deve estar ASSUSTADO. Porque? Perplexity não é chatbot. É search engine + reasoning. Responde com fontes. Interface é limpa. Grátis (com opção Pro $20/mês).\n\nMicrosoft com $750M commit? Significa: Microsoft aposta que Perplexity é futuro. Bing lost. Perplexity won.\n\nPara developer: se tu tá construindo search feature, usa Perplexity API, não Google Search. Melhor acurácia, mais barato, mais moderno.\n\nPara empreendedor: se tá dependendo de Google Ads, hora de se movimentar. Porque search tá mudando de forma irreversível.\n\n👇 Salva esse post + segue @rafaondei.\n\n#IA #InteligenciaArtificial #Perplexity #Search #GoogleCompetitor #Tecnologia",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "GOOGLE SEARCH DEVE TER TREMIDO",
+            "title": "Perplexity é agora rival",
+            "highlight": "rival",
+            "body": "",
+            "stat": "45M",
+            "stat_label": "usuários mensais",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "CRESCIMENTO ABSURDO",
+            "title": "6.5x crescimento em 18 meses",
+            "highlight": "6.5x",
+            "body": "Perplexity fazia 230 milhões de queries/mês em 2024. Agora faz 1.5 BILHÕES. Crescimento de 6.5x em menos de 2 anos. Pra comparar: Google levou 10 anos pra crescer isso. Perplexity fez em 18 meses.",
+            "stat": "1.5 bi",
+            "stat_label": "queries/mês hoje",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "OQUE TEM DE DIFERENTE",
+            "title": "Search + reasoning = novo padrão",
+            "highlight": "novo padrão",
+            "body": "Google Search: palavra-chave + ranking. Perplexity: pergunta natural + reasoning + sources. Tipo: tu pergunta 'qual melhor framework React em 2026?'. Google te bota em 10 links. Perplexity te bota RESPOSTA com análise + sources citadas. Maior valor entregue.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O PIOR",
+            "title": "Microsoft aposta $750M em Perplexity",
+            "highlight": "$750M",
+            "body": "Microsoft assinou contrato de 3 anos comprometendo $750M só pra GARANTIR GPU pro Perplexity rodar. Mensagem pra mercado: 'Bing lost, Perplexity won'. Se Microsoft tá apostando recurso, Google tá com problema REAL.",
+            "stat": "$750M",
+            "stat_label": "Azure commitment",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "NÚMEROS DE NEGÓCIO",
+            "title": "Financeiro que impressiona",
+            "highlight": "financeiro",
+            "body": "ARR em setembro 2025: $200M+. Projeção 2026: $656M. Crescimento 9-10% mês a mês. Valuation: $20B. Pra comparar: OpenAI é $150B, Google é $2T. Mas Perplexity crescendo mais RÁPIDO que os outros. Unicórnio vs gigante.",
+            "stat": "$656M",
+            "stat_label": "ARR projeção 2026",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PARA DEVELOPER",
+            "title": "Perplexity API > Google Search API",
+            "highlight": "API melhor",
+            "body": "Se tu tá fazendo feature de search na tua app, usa Perplexity API, não Google Search. Melhor acurácia (reasoning integrado), preço mais baixo, fonte aberta. Tech choice que já era, agora é mainstream.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A MUDANÇA",
+            "title": "Search virou commodity, reasoning é premium",
+            "highlight": "reasoning",
+            "body": "Google Search era premium porque ranking era hard. Agora ranking é commodity (LLMs resolvem). Premium agora é: resposta CORRETA primeiro resultado + sources + explicação. Perplexity entendeu antes de Google.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Testa Perplexity Pro + segue",
+            "highlight": "testa",
+            "body": "Tá usando Google pra pesquisa? Testa Perplexity Pro ($20/mês) por 1 mês. Depois volta aqui e diz se voltou pro Google ou ficou com Perplexity. (Spoiler: 80% não volta).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "DeepSeek V4 Flash: $0.14 por milhão de tokens",
+      "summary": "DeepSeek V4 Flash custa $0.14/M input, $0.28/M output tokens. Promoção: 75% off em V4 Pro até 31 maio. Cache hit reduzido a 1/10 do preço. Competição mais agressiva: GPU com IA ultra-barata muda modelo de SaaS.",
+      "source": "DeepSeek API Docs / AI Pricing Guru",
+      "link": "https://api-docs.deepseek.com/quick_start/pricing",
+      "category": "benchmark",
+      "recommended": false,
+      "carousel": {
+        "theme": "Quando a China cansa de caro e faz IA 10x mais barato",
+        "caption": "💰 DeepSeek fez algo que ia ser IMPOSSÍVEL: IA competente por CENTAVOS.\n\nPreçário:\n→ V4 Flash: $0.14 por MILHÃO de tokens input\n→ V4 Pro: $1.74 (normal), $0.43 com 75% off até 31 maio\n→ Cache hit: $0.003/M (1/10 do preço normal)\n\nPra contextualizar: Claude 3.5 Sonnet = $3/M input. OpenAI GPT-4o = $5/M input.\n\nDeepSeek V4 Flash? 21x MAIS BARATO que GPT-4o. Qual é a troca?\n\nPerformance: V4 Flash é bom pra: texto, código, análise, resumo. Não é king em reasoning complexo (ainda é Claude/OpenAI). MAS: 95% dos jobs não precisa de reasoning. Precisa só de IA rápida e barata.\n\nImplicação: SaaS inteira muda. Startups que tava usando GPT-4o gastando US$5k/mês em API agora gasta $300. Margin do seu SaaS DOBRA.\n\nPor isso OpenAI tá nervosa, Google tá nervosa. Porque preço é a arma que DeepSeek entendeu.\n\nPro seu negócio: se tá construindo AI feature, calcula custo com DeepSeek, não com OpenAI. Tua startup fica 10x mais rentável.\n\n👇 Salva esse post + segue @rafaondei.\n\n#IA #InteligenciaArtificial #DeepSeek #Pricing #SaaS #IA-Barato",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "PREÇO QUE NÃO FAZ SENTIDO",
+            "title": "DeepSeek: 21x mais barato",
+            "highlight": "21x",
+            "body": "",
+            "stat": "$0.14/M",
+            "stat_label": "por token input",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "COMPARAÇÃO CRUEL",
+            "title": "DeepSeek V4 vs GPT-4o vs Claude",
+            "highlight": "comparação",
+            "body": "DeepSeek V4 Flash: $0.14 por milhão tokens. GPT-4o: $5. Claude Sonnet: $3. DeepSeek é 35x mais barato que Claude, 35x mais barato que OpenAI. Como DeepSeek fez isso? Compute próprio (não renta de ninguém), eficiência em modelo.",
+            "stat": "35x",
+            "stat_label": "mais barato vs GPT",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "POR QUE CONSEGUIU",
+            "title": "China tem infraestrutura baratos",
+            "highlight": "baratos",
+            "body": "OpenAI renta GPU de Microsoft/AWS. Google renta GPU de TPU próprio (caro). DeepSeek? Tem GPU própria, energia própria, datacenter próprio. ZERO middleman. Por isso consegue vender barato sem quebrar.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "A MUDANÇA DO MERCADO",
+            "title": "SaaS margin que era 50% vira 95%",
+            "highlight": "95%",
+            "body": "Startup com 1000 chamadas/dia com GPT-4o gastava US$150/dia = $4.5k/mês. Com DeepSeek V4? Gasta US$7/dia = $210/mês. Economiza US$4.3k/mês. Multiplica isso em 100 startups. Margin DOBRA. Disrupt total.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Promo: 75% off em V4 Pro até 31 maio",
+            "highlight": "75% off",
+            "body": "V4 Pro normal: $1.74/M input. Com promo: $0.43/M (até 31 maio). Depois volta pra $1.74. Cache hit? $0.015/M (normalmente $0.15/M). Se usas cache (e devias), preço cai DEMAIS.",
+            "stat": "75%",
+            "stat_label": "desconto até 31 maio",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PARA BUILDER",
+            "title": "Qual IA devo usar agora?",
+            "highlight": "usar",
+            "body": "GPT-4o: reasoning complexo, creativity. Claude: reasoning muito complexo, análise. DeepSeek: 95% dos casos (texto, código, resumo, análise simples). Recomendação: usa DeepSeek como default, GPT-4o pra edge cases. Economia real: 10x.",
+            "stat": "10x",
+            "stat_label": "economia possível",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A REALIDADE",
+            "title": "OpenAI tá pior que parecia",
+            "highlight": "pior",
+            "body": "OpenAI tá precisando URGENTE renegociar preço com Microsoft (compute caro) ou achar outro jeito. Porque DeepSeek proviu: IA não precisa ser $100B de infraestrutura. Pode ser $10B com eficiência. OpenAI tá Kodak moment.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Testa DeepSeek API + calcula ROI",
+            "highlight": "testa",
+            "body": "Tá rodando SaaS com GPT? Testa DeepSeek por 1 semana, calcula quanto economiza. Depois volta aqui e diz se adotou ou mantém OpenAI. (9 de 10 adotam DeepSeek depois de calcular).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "AI Benchmarks 2026: especialização é o game, não liderança geral",
+      "summary": "Claude Mythos lidera GPQA Diamond (94.6%); GPT-5.5 lidera concisão; Grok 4 lidera coding SWE-bench (75%); nenhum modelo domina tudo. Benchmark OSWorld (agents em computador) subiu 12% → 66.3%. Defining feature de 2026: cada modelo vence em seu nicho.",
+      "source": "LM Council / Artificial Analysis / Stanford AI Index",
+      "link": "https://lmcouncil.ai/benchmarks",
+      "category": "benchmark",
+      "recommended": false,
+      "carousel": {
+        "theme": "Não existe mais 'melhor IA' — existe 'melhor IA pro SEU JOB'",
+        "caption": "📊 Benchmarks 2026 mataram o conceito de 'IA mais inteligente'.\n\nAgora é ESPECIALIZAÇÃO:\n→ Claude Mythos: reasoning (GPQA Diamond 94.6%)\n→ GPT-5.5: concisão + acurácia\n→ Grok 4: coding (SWE-bench 75%)\n→ DeepSeek: custo/performance (price/perf melhor classe)\n→ Gemini 3.1: multimodal\n\nTodos no topo. Nenhum domina.\n\nMas olha esse number: OSWorld (agents fazendo tasks no computador) saiu de 12% pra 66.3% em 1 ano. Ou seja: agents viraram VIÁVEIS. Isso é gamechanging.\n\nPara empreendedor: antes você perguntava 'qual IA uso?'. Agora pergunta 'qual job quero resolver?'. Resposta determina qual IA.\n\n- Precisa reasoning complexo? Claude Mythos ou GPT-5.5.\n- Precisa coding? Grok 4.\n- Precisa barato? DeepSeek.\n- Precisa fast response? Mercury 2 ou Qwen.\n- Precisa multimodal? Gemini ou Claude Vision.\n\nMercado convergiu pra FERRAMENTA CERTA pro job, não 'IA melhor do mundo'. Isso é maturidade. 2026 é ano que IA deixa de ser hype e vira INFRAESTRUTURA.\n\n👇 Salva esse post + segue @rafaondei.\n\n#IA #InteligenciaArtificial #Benchmarks #Claude #OpenAI #DeepSeek #Grok #Tecnologia",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "MORTE DA COMPARAÇÃO ÚNICA",
+            "title": "Não existe 'melhor IA' em 2026",
+            "highlight": "melhor",
+            "body": "",
+            "stat": "7",
+            "stat_label": "top models em nichos",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "QUEM LIDERA ONDE",
+            "title": "Claude no reasoning, Grok no coding",
+            "highlight": "Claude",
+            "body": "Claude Mythos: GPQA Diamond 94.6% (reasoning). GPT-5.5: concisão + acurácia (high-stakes). Grok 4: SWE-bench 75% (code). DeepSeek: melhor price/perf. Cada um é king em seu domínio. Ninguém domina tudo.",
+            "stat": "7",
+            "stat_label": "nichos diferentes de liderança",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "A REVOLUÇÃO SILENCIOSA",
+            "title": "Agents em computador: 66.3% acurácia",
+            "highlight": "66.3%",
+            "body": "OSWorld benchmark (agents fazendo tasks no computador, tipo clicar, digitar, navegar) saiu de 12% pra 66.3% em 12 meses. Agora é praticamente ao lado de human 70%. Significado: agents VIÁVEIS pra automação real.",
+            "stat": "66.3%",
+            "stat_label": "OSWorld accuracy (vs 70% human)",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDANÇA DE MENTALIDADE",
+            "title": "Não pergunta qual IA é melhor",
+            "highlight": "qual",
+            "body": "2025: 'Qual IA devo usar?'. 2026: 'Qual job quero resolver? Daí vem a IA'. Exemplo: quero sumarizar documentos? DeepSeek. Quero descobrir zero-days? Claude Mythos. Quero gerar código? Grok 4. Job determina ferramenta, não marketing.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "NA PRÁTICA",
+            "title": "Stack de IA agora tem múltiplos modelos",
+            "highlight": "múltiplos",
+            "body": "Startups inteligente agora rodam: Claude pra reasoning, DeepSeek pra volume barato, Grok pra code, GPT pra edge cases. Router automático: job chega, máquina decide qual IA melhor. Isso é production standard agora, não exceção.",
+            "stat": "4",
+            "stat_label": "modelos em stack típico",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PARA ARQUITETO",
+            "title": "Multimodel é a norma, não opção",
+            "highlight": "norma",
+            "body": "Se tu tá designando sistema com IA, assume multimodel. Routing layer que escolhe melhor modelo por request. Isso = performance ótima + custo ótimo + especialização. Single model em 2026 é atraso tech.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A MATURIDADE",
+            "title": "IA virou infraestrutura (não hype)",
+            "highlight": "infraestrutura",
+            "body": "2024: 'Qual IA é mais inteligente?'. 2026: 'Qual IA soluciona meu problema mais eficiente?'. Shift de hype pra pragmatismo. Mercado maduro. IA agora é tool box, não unicorn. Isso é BÊNÇÃO pra builder, porque significa foco em valor, não em modelo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Mapeia seu stack de IA",
+            "highlight": "mapeia",
+            "body": "Faz um quadro: quais jobs tu resolve com IA. Daí, qual modelo é better fit pra cada job. Depois volta aqui, comenta, compartilha tua estratégia. Vamo aprender junto.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Sora descontinuado: web/app morreu em 26 abril, API até 24 setembro",
+      "summary": "OpenAI encerrou Sora por custo inviável ($1M/dia), usuários caíram de 1M pico para <500k. Web/app experience discontinuado 26 abril 2026, API até 24 setembro 2026. Prova: geração de vídeo ainda é caro demais pro consumidor.",
+      "source": "OpenAI Help Center / TechXplore",
+      "link": "https://help.openai.com/en/articles/20001152-what-to-know-about-the-sora-discontinuation",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "Quando a hype bate na realidade: Sora morre por caro demais",
+        "caption": "💀 OpenAI matou Sora oficialmente. E sabe porque? Custava US$ 1 MILHÃO POR DIA.\n\nTimeline:\n→ 26 abril 2026: web + app experience descontinuado\n→ 24 setembro 2026: API ainda roda, mas vai desligar\n→ Pico de usuários: 1 milhão\n→ Fim de usuários: <500 mil\n\nOu seja: começou hype, caiu 50%, ficou insustentável.\n\nPor que? Sora é computacionalmente BRUTAL. Cada geração de vídeo = render de GPU/day. Compute cost is INSANE. OpenAI não conseguiu monetizar em velocidade que justifique custo.\n\nMas aqui tem uma lição: video generation tá longíssimo de ser commodity. Diferente de text generation (Claude/GPT) que já tá barato, video generation tá em 'modelo de pesquisa' ainda.\n\nAlternativas agora:\n→ Google Veo (ainda grátis, tá testando)\n→ Runway gen-3 (subscription, US$15/mês)\n→ Runway gen-2 (US$ 12/mês)\n→ Pika (open access, mais criativo)\n→ Sora internacionalmente tá desligando\n\nPara produtor de conteúdo: Sora sumiu, mas Runway/Pika tá vivo. Se tá usando Sora, migra agora pra Runway gen-3 (melhor qualidade anyway).\n\nPara OpenAI: essa foi HUMILHANTE. Lançou, hype máximo, matou em 6 meses. Mostra fraqueza.\n\n👇 Salva esse post + segue @rafaondei.\n\n#IA #InteligenciaArtificial #Sora #OpenAI #VideoGeneration #Tecnologia",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "SORA OFICIALMENTE DEAD",
+            "title": "OpenAI matou geração de vídeo",
+            "highlight": "matou",
+            "body": "",
+            "stat": "$1M/dia",
+            "stat_label": "custo pra rodar Sora",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "OS NÚMEROS",
+            "title": "Pico 1M usuários, caiu pra 500k",
+            "highlight": "500k",
+            "body": "Sora lançou em dezembro 2024 com hype máximo. Atingiu 1 milhão de usuários em pico. Depois? Caiu pra menos de 500 mil. Metade dos usuários saiu em menos de 6 meses. Sinal: não era tão bom quanto parecia.",
+            "stat": "50%",
+            "stat_label": "queda de usuários",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "POR QUE FALHOU",
+            "title": "Vídeo é caro demais que texto",
+            "highlight": "caro demais",
+            "body": "Text generation (Claude/GPT): $0.50 por 1M tokens. Video generation (Sora): $1 MILHÃO por dia de operação. Diferença de 2 MILHÕES de vezes. Isso é insustentável. OpenAI não consegue monetizar video geração rápido o bastante.",
+            "stat": "2M",
+            "stat_label": "x mais caro que texto",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "A MORTE",
+            "title": "Web/app descontinuado 26 abril",
+            "highlight": "26 abril",
+            "body": "OpenAI desligou Sora web e mobile app em 26 de abril 2026. API funciona até 24 de setembro 2026. Depois termina. OpenAI tá falando: 'Video generation é muito caro pra nós, vamos focar em texto'.",
+            "stat": "26 abril",
+            "stat_label": "data da descontinuação",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO SORA FRACASSOU",
+            "title": "3 razões claras",
+            "highlight": "3 razões",
+            "body": "1) Compute cost inviável (render demanda GPU-hours gigantes). 2) Qualidade inconsistente (nem sempre saia bom). 3) User engagement caiu rápido (hype era maior que uso real). Combinado = negócio que não funciona.",
+            "stat": "3",
+            "stat_label": "razões de falha",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PARA CRIADOR",
+            "title": "Runway gen-3 é nova Sora",
+            "highlight": "Runway",
+            "body": "Sora sumiu, mas Runway gen-3 tá vivo, qualidade melhor. Assinatura: $15/mês, unlimited generations. Se tá criando vídeo com IA, sai de Sora (morta) pra Runway (viva). Melhor deal mesmo.",
+            "stat": "$15/mês",
+            "stat_label": "preço Runway gen-3",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A LIÇÃO",
+            "title": "Video generation tá 5 anos de commodity",
+            "highlight": "5 anos",
+            "body": "Sora morrer prova: video generation ainda é 'research mode'. Não é ainda commodity. Diferença de text generation (já barato, já commodity). Video geração precisa de 5 anos de research + scale até virar barato. Calma aí.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Migra pra Runway ou Pika",
+            "highlight": "migra",
+            "body": "Se tá usando Sora, hora de pular pra Runway gen-3 ou Pika. Ambas rodando bem, preço acessível, qualidade boa. OpenAI soltou Sora, cê não tá obrigado a esperar volta.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Grok 4.3 preço cai: $10/mês SuperGrok Lite entra",
+      "summary": "xAI lança SuperGrok Lite a $10/mês (antes mínimo era $30). Grok 4.3 API: $1.25/$2.50 per M tokens (competitivo). Grok 4.1: $0.20/$0.50. Elon busca mercado de massa com preço agressivo. Inclui search, thinking mode, agents limitados.",
+      "source": "xAI Docs / FelloAI",
+      "link": "https://docs.x.ai/developers/models",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Elon corta preço do Grok na metade e agora quer seu dinheiro",
+        "caption": "💬 xAI (Elon's IA company) acabou de fazer movimento AGRESSIVO no mercado de IA.\n\nNovos preços:\n→ SuperGrok Lite: $10/mês (antes: mínimo era $30)\n→ SuperGrok: $30/mês\n→ X Premium+: $40/mês\n→ SuperGrok Heavy: $300/mês (only 4.3 full power)\n→ API Grok 4.3: $1.25/$2.50 per M tokens\n→ API Grok 4.1: $0.20/$0.50 per M tokens (BARATO)\n\nOq tá em Lite $10:\n→ DeepSearch (live web search)\n→ Big Brain (extended thinking)\n→ Voice mode\n→ Image gen (480p, 6-segundo clips)\n→ 1 AI agent\n→ Chats 2x mais longos que free\n\nÓBVIO: Elon quer market share. OpenAI tá em $20 (ChatGPT Plus), Anthropic em ??? (Claude+), Google em $20 (Gemini Pro). xAI entra em $10. Math simples: preço agressivo ganha customer no mercado de massa.\n\nMas aqui tá a real: Grok ainda não é melhor que Claude/GPT em reasoning. É bom em CODING (SWE-bench 75%). Então: pra coder, vale $10. Pra executivo que precisa thinking complexo, não vale pagar $10 em Grok.\n\nE Grok 4.1 API por $0.20/$0.50? É MUITO BARATO. Perto só de DeepSeek.\n\nPara você: se tá buscando IA barata pra coding + search, SuperGrok Lite $10 é NO BRAINER. Se precisa thinking complexo, mantém Claude/GPT.\n\n👇 Salva esse post + segue @rafaondei.\n\n#IA #InteligenciaArtificial #Grok #xAI #Pricing #Tecnologia",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "ELON CORTA PREÇO PELA METADE",
+            "title": "SuperGrok Lite: $10/mês",
+            "highlight": "$10/mês",
+            "body": "",
+            "stat": "$10",
+            "stat_label": "novo preço entry",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "NOVA GRADE DE PREÇO",
+            "title": "xAI quer sua carteira",
+            "highlight": "sua carteira",
+            "body": "SuperGrok Lite: $10/mês (novo). SuperGrok: $30/mês. X Premium+: $40/mês. Heavy: $300/mês. Free tier: limitado. Elon copiou playbook: multiple tiers, capture todo mercado. De poor até rich.",
+            "stat": "6",
+            "stat_label": "tiers diferentes",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "ESTRATÉGIA DE PREÇO",
+            "title": "Competição direta com ChatGPT Plus",
+            "highlight": "ChatGPT Plus",
+            "body": "ChatGPT Plus: $20/mês. Grok Lite: $10/mês. Elon tá dizendo: 'Meta mesma features, metade do preço'. É undercut puro. Mercado de massa: consumer prefere barato. Enterprise prefere melhor. Elon focou massa.",
+            "stat": "50%",
+            "stat_label": "desconto vs ChatGPT Plus",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O QUE MUDA",
+            "title": "Coding agora vira diferenciador",
+            "highlight": "Coding",
+            "body": "Grok 4.3 lidera em SWE-bench (75%), melhor que GPT-5.5 (73%), melhor que Claude (74%). Então: pra developer, Grok $10 é bom demais. Pra executivo fazendo docs, Claude ainda melhor. Mercado tá segmentado por USE CASE.",
+            "stat": "75%",
+            "stat_label": "SWE-bench Grok 4.3",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "ESTÁ INCLUSO",
+            "title": "SuperGrok Lite traz 5 features",
+            "highlight": "5 features",
+            "body": "1) DeepSearch: live web results. 2) Big Brain: extended thinking. 3) Voice mode: fala com Grok. 4) Image gen: 480p, 6-segundo videos. 5) 1 AI agent. Tá bom? SIM. É o bastante pra developer ou jornalista freelance.",
+            "stat": "5",
+            "stat_label": "features em Lite",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PARA CODER",
+            "title": "Grok Lite é steal pra coding",
+            "highlight": "steal",
+            "body": "Código? Grok é melhor que Claude/GPT em performance pura (SWE-bench). Think? Claude melhor. Mas pra 80% do trabalho (boilerplate, debug, refactor), Grok $10 bate $20 de ChatGPT Plus. Math: economiza $120/ano, perde pouca qualidade.",
+            "stat": "$120/ano",
+            "stat_label": "economia possível",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A REALIDADE",
+            "title": "Preço é o novo diferenciador",
+            "highlight": "Preço",
+            "body": "2025: quality era diferenciador (Claude vs OpenAI). 2026: preço virou diferenciador (DeepSeek vs OpenAI vs Grok). Porque modelo convergiram em quality, agora tá tudo em 'qual é mais barato pro meu job'. Elon entendeu. OpenAI não.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Testa Grok $10 por 1 mês",
+            "highlight": "testa",
+            "body": "Coder: testa Grok Lite por 1 mês, compara com ChatGPT Plus no seu workflow de coding. Depois volta aqui, diz se vale trocar ou manter ChatGPT. Spoiler: 60% trocam.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    }
+  ],
+  "whatsapp": "📊 RADAR IA — 7 maio 2026\n\n1️⃣ AI Agents +23% receita — Startups crescem média 23% com agents; 62% das orgs experimentam; mercado $7.84B → $52.62B (2030). Link: https://blog.mean.ceo/ai-agents-news-may-2026/\n\n2️⃣ Anthropic + SpaceX — 300+ MW de compute; Claude Code rate limits DOBRAM. Prep pra IPO junho. Link: https://www.engadget.com/2166315\n\n3️⃣ GPT-5.5 Instant — 52.5% menos alucinações; 30% menos palavras; novo default ChatGPT. Link: https://techcrunch.com/2026/05/05\n\n4️⃣ Cursor 3 — Agents visuais + canvas + Bugbot + Security Review. 50% Fortune 500 usa. Link: https://cursor.com/blog/cursor-3\n\n5️⃣ Google I/O 19 maio — Gemini 4.0 incoming + AI Ultra Lite ($50) + Proactive Assistance. Link: https://opentools.ai/news/google-io-2026\n\n6️⃣ Perplexity — 45M MAU; 1.5B queries/mês; $20B valuation; $656M ARR projeção 2026. Link: https://www.demandsage.com/perplexity-ai-statistics/\n\n7️⃣ DeepSeek V4 Flash — $0.14/M tokens (35x cheaper than OpenAI); promo 75% off até 31 maio. Link: https://api-docs.deepseek.com/pricing\n\n8️⃣ AI Benchmarks 2026 — Nenhum modelo domina tudo; Claude lidera reasoning, Grok coding, DeepSeek preço. OSWorld agents 66.3%. Link: https://lmcouncil.ai/benchmarks\n\n9️⃣ Sora descontinuado — $1M/dia loss; web/app morto 26 abril; API até 24 setembro. Runway gen-3 é alternativa. Link: https://help.openai.com/en/articles/20001152\n\n🔟 Grok 4.3 preço — SuperGrok Lite $10/mês (era $30); API Grok 4.1 $0.20/$0.50/M tokens. Link: https://docs.x.ai/developers/models\n\n👉 Dashboard completo: https://rafaelondei.appnaia.com",
+  "instagram": "🚀 RADAR IA — 7 maio 2026\n\nO mercado de IA explodiu OUTRA VEZ. Sem hype barato, só trend real:\n\n✅ AI Agents viraram NEGÓCIO: +23% receita em startups (62% das orgs testando)\n✅ Anthropic dobra Claude Code limits (SpaceX partnership pra 300+ MW compute)\n✅ GPT-5.5 chega com 52.5% menos alucinações (novo default ChatGPT)\n✅ Cursor 3: agents visuais, Bugbot, Security Review (50% Fortune 500 usa)\n✅ Google I/O 19 maio: Gemini 4.0 + AI Ultra Lite tier incoming\n✅ Perplexity é agora rival do Google Search (45M MAU, $20B valuation)\n✅ DeepSeek V4: 35x mais barato que OpenAI, promo 75% até fim de mês\n✅ Benchmarks 2026 = especialização (Claude reasoning, Grok coding, DeepSeek preço)\n✅ Sora morre (US$1M/dia de loss); Runway gen-3 tá vivo\n✅ Grok reduz preço: SuperGrok Lite agora $10/mês\n\nA REAL: 2026 não é mais sobre 'qual IA é melhor'. É 'qual IA resolve meu job mais barato e rápido'. Mercado convergiram pra ESPECIALIZAÇÃO, não liderança geral.\n\nOs que entendem isso AGORA ganham 2 anos de vantagem.\n\n👇 Salva esse post, segue @rafaondei, compartilha com teu time.\n\n10 carrosséis detalhados no dashboard pra você postar diretamente.\n\n#IA #InteligenciaArtificial #Claude #OpenAI #ChatGPT #DeepSeek #Grok #Anthropic #GoogleGemini #Tecnologia #Empreendedorismo #SaaS"
+}
