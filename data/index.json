@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-05-07T07:00:01-03:00",
+  "updated_at": "2026-05-08T07:00:01-03:00",
   "executions": [
+    {
+      "date": "2026-05-08",
+      "key": "2026-05-08",
+      "topic": "mercado de IA",
+      "summary": "Claude Dreaming (agents auto-melhora); Wall Street adota Opus 4.7; rate limits 2x (SpaceX); Grok voice CarPlay; Llama 4 vence GPT-4o; Sora morreu; Veo Lite -50%; Preços -93% (margem explode); Sierra $15.8B; Regulação (jun/ago)",
+      "items_count": 10
+    },
     {
       "date": "2026-05-07",
       "key": "2026-05-07",

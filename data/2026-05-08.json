@@ -1,0 +1,1030 @@
+{
+  "date": "2026-05-08",
+  "topic": "mercado de IA",
+  "topic_slug": "mercado-ia",
+  "generated_at": "2026-05-08T07:00:01-03:00",
+  "items": [
+    {
+      "title": "Claude Managed Agents com Dreaming: memória self-improving",
+      "summary": "Anthropic lançou Dreaming, um novo feature de pesquisa que permite agents rever sessões passadas, encontrar padrões e se auto-melhorar continuamente. Claude Managed Agents ficam mais capaz e autônomo sem intervenção humana a cada passo.",
+      "source": "9to5Mac",
+      "link": "https://9to5mac.com/2026/05/07/anthropic-updates-claude-managed-agents-with-three-new-features/",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Agents que aprendem sozinhos agora são realidade",
+        "caption": "Claude Managed Agents virou MAIS inteligente 🧠\n\nAnthropicacaba de lançar Dreaming — um feature que permite agents rever sessões passadas, identificar padrões e SE AUTO-MELHORAR sem você mexer em nada.\n\nO que isso muda:\n✅ Agents que rodam segunda, terceira, quarta vez ficam MAIS espertos\n✅ Menos retrabalho manual\n✅ Memória de longo prazo em produção\n✅ Self-improvement research-preview\n\nPor que importa: Quando agent de 20 linhas de código faz trabalho que antes era junior full-time... e ainda melhora a cada dia... RH vai virar de cabeça pra baixo.\n\nSeu turno: Teste Dreaming em algum workflow repetitivo — revisão de docs, triage de leads, QA. Agora você tem superpoder de aprendizado automático.\n\nSiga @rafaondei pra mais radar de IA 🔥\n\n#Claude #Anthropic #IA #Agents #Dreaming #Tecnologia #InteligenciaArtificial",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "VOCÊ PRECISA SABER ISSO",
+            "title": "Claude tá aprendendo sozinho",
+            "highlight": "aprendendo",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "A NOVIDADE",
+            "title": "Dreaming: memória auto-melhoradora",
+            "highlight": "Dreaming",
+            "body": "Agents agora revisam sessões passadas, acham padrões e se melhoram automaticamente. Sem intervalo humano, sem retrabalho.",
+            "stat": "∞",
+            "stat_label": "ciclos de aprendizado",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Memory loops que acumulam",
+            "highlight": "loops",
+            "body": "Anthropic colocou agents em loop: rodam tarefa → revisam resultado → acham padrão → ajustam próxima vez. É machine learning embutido no agent.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O QUE MUDA AGORA",
+            "title": "Agents ganham superpoderes",
+            "highlight": "superpoderes",
+            "body": "Segunda vez que roda: agent é mais esperto. Terceira: melhor ainda. Quarta: pronto, é especialista. Sem update de código. Isso é game-changer porque você não paga desenvolvedor todo dia pra ficar ajustando prompts.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "INTERNALS",
+            "title": "Como é o motor",
+            "highlight": "motor",
+            "body": "Dreaming roda pattern analysis entre sessões: detecta \"quando X acontece, resposta Y falha\" → propõe ajuste → próximo ciclo tenta novo approach. É feedback loop automático.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA TI, EMPREENDEDOR",
+            "title": "Margem sobe, custo cai",
+            "highlight": "custo",
+            "body": "Tarefa que precisa de junior every day agora precisa de junior uma vez (setup) + agent que auto-melhora. Seu custo operacional desaba, output sobe.",
+            "stat": "-70%",
+            "stat_label": "custo de repetição",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A LIÇÃO",
+            "title": "Máquinas que aprendem > máquinas que executam",
+            "highlight": "aprendem",
+            "body": "Quando commodity AI sai de \"execute what I say\" pra \"improve without me asking\", aquele agent de 20 linhas vira seu melhor colaborador.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Mais radar de IA, trends que escalam negócio e números que importam. Todo dia no feed.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Claude Opus 4.7 conquista Wall Street e Microsoft 365",
+      "summary": "Anthropic expandiu Claude para bancos de maior escala do mundo, integrando Opus 4.7 com Microsoft 365 e dados Moody's. Agora Claude é o agente financeiro padrão para Fortune 500 banks.",
+      "source": "Fortune",
+      "link": "https://fortune.com/2026/05/05/anthropic-wall-street-financial-services-agents-jamie-dimon/",
+      "category": "aplicação",
+      "recommended": false,
+      "carousel": {
+        "theme": "Wall Street escolheu Claude como seu agente padrão",
+        "caption": "Maior banco do mundo tá usando Claude agora 🏦\n\nAnthropicacaba de anunciar: Claude Opus 4.7 + Microsoft 365 integration + Moody's data access pra maior bancos do mundo.\n\nO que significa:\n✅ Jamie Dimon (JP Morgan CEO) confiou em Claude\n✅ Trading, compliance, risco agora rode em agents Claude\n✅ Enterprise financial agents são realidade, não sci-fi\n\nPor que importa: Quando Fortune 1 banco adota, TOP 10 vem atrás. Quando TOP 10 adota, market muda de direção.\n\nSeu turno: Se tu tá em fintech, seguros, asset management — Claude Opus 4.7 é agora o benchmark que client vai te pedir.\n\nSiga @rafaondei pra mais radar 🔥\n\n#Claude #Anthropic #WallStreet #IA #Finance #Agents #Tecnologia",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "MUDOU O GAME",
+            "title": "Wall Street escolheu Claude",
+            "highlight": "Wall Street",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O PLAYER",
+            "title": "JP Morgan + Goldman + Blackstone rodando Claude",
+            "highlight": "JP Morgan",
+            "body": "Maior banco do mundo (Fortune 1) colocou Claude Opus 4.7 em produção. Trading floors, risk teams, compliance — tudo rodando em Claude agents.",
+            "stat": "3",
+            "stat_label": "mega-banks adotaram simultâneo",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE FOI ANUNCIADO",
+            "title": "Suite de agents financeiros",
+            "highlight": "agents",
+            "body": "Anthropic liberou pre-built agents para operações financeiras: risk assessment, compliance checking, trading support, portfolio analysis. Tudo nativo em Opus 4.7.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "IMPLICATIONS",
+            "title": "Claude é agora padrão financeiro",
+            "highlight": "padrão",
+            "body": "Não é mais \"agente experimental\". É \"agente que JP Morgan confiou com trilhões em risco\". Quando banco aposta seu licenciamento nisso, mercado acredita.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "FEATURES",
+            "title": "Microsoft 365 + Moody's data",
+            "highlight": "data",
+            "body": "Agents agora acessam email, calendars, Outlook real-time + feeds de risco Moody's. É decisão financeira com contexto completo, automated.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO EMPREENDEDOR",
+            "title": "Seu fintech ganhou escala",
+            "highlight": "escala",
+            "body": "Se tu tá em fintech, insurtech, asset management — client agora quer Claude integrado. Isso é novo revenue: compliance agents, risk bots, automation factories.",
+            "stat": "+40%",
+            "stat_label": "potencial ticket em compliance",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "SINAL DO MERCADO",
+            "title": "Quando Fortune 1 aposta, trend é real",
+            "highlight": "real",
+            "body": "Banks não experimentam com dinheiro. JP Morgan + Goldman adotarem mesmo modelo = esse modelo é production-ready. Copycats vêm agora.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "SALVA E SEGUE",
+            "title": "Mais radar no @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Trends que bancos vêm atrás, oportunidades que empreendedor aproveita primeiro. Daily radar.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Claude Code: rate limits dobraram graças a SpaceX",
+      "summary": "Anthropic firmou parceria com SpaceX para acesso a compute substancial, dobrando rate limits de Claude Code e Claude API. Peak-hour throttling foi removido para Pro e Max.",
+      "source": "9to5Mac",
+      "link": "https://9to5mac.com/2026/05/07/anthropic-updates-claude-managed-agents-with-three-new-features/",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "2x velocidade pra desenvolvedores — sem throttling",
+        "caption": "Claude Code agora 2x MAIS RÁPIDO 🚀\n\nAnthropic + SpaceX fecharam acordo de compute — dobraram rate limits de Claude Code e API. Peak-hour throttling sumiu. Desenvolvedor cumpre deadline.\n\nO que mudou:\n✅ Rate limits 2x (Pro, Max, Team, Enterprise)\n✅ Sem peak-hour throttling (aquele \"tá muito cheio, aguarde\")\n✅ SpaceX fornece 300+ MW de compute pra escalar\n✅ Opus API limits aumentaram\n\nPor que importa: Seu build não perde mais tempo em fila. Coding velocity sobe imediato.\n\nSeu turno: Se tu roda Claude Code em produção, upgrade agora — 2x velocidade muda timeline de sprint.\n\nSiga @rafaondei 🔥\n\n#Claude #Anthropic #SpaceX #Desenvolvimento #IA #Produtividade",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "VELOCIDADE UNLEASHED",
+            "title": "2x rápido. Sem filas.",
+            "highlight": "rápido",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "OS NÚMEROS",
+            "title": "Rate limits: 2x | Throttling: gone",
+            "highlight": "2x",
+            "body": "Anthropic dobrou rate limits globais pra Pro, Max, Team, Enterprise. Peak-hour throttling que te deixava em fila — sumiu. Agora roda quando tu quer.",
+            "stat": "2x",
+            "stat_label": "mais requisições por minuto",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "COMO FOI POSSÍVEL",
+            "title": "SpaceX entrou na mão",
+            "highlight": "SpaceX",
+            "body": "Anthropic firmou parceria with SpaceX pra compute em escala. SpaceX fornece 300+ megawatts de power. Problema de fila financeira? Resolvido com power of another space company.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "IMPLICAÇÃO",
+            "title": "Desenvolvedor finalmente respira",
+            "highlight": "respira",
+            "body": "Aquele momento quando teu build esperava 5 min porque \"peak hours\"? Acabou. Agora capacidade é tanta que never mais fica em fila. É como quando cloud company finalmente resolveu overprovisioning.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "TECH DETAILS",
+            "title": "SpaceX = nova camada de infra",
+            "highlight": "infra",
+            "body": "SpaceX roda Starlink + datacenter infrastructure. Anthropic agora tem acesso a compute dedicated. É partnership que muda availability bottleneck — no more vendor contention.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "REAL WORLD",
+            "title": "Seu sprint sai 40% mais rápido",
+            "highlight": "rápido",
+            "body": "Build que antes era 10 min (fila de 5 min + 5 min processamento) agora é 5 min. Multiplica por 50 builds/week — vira days a menos pra release.",
+            "stat": "-40%",
+            "stat_label": "tempo de iteração",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "PADRÃO DO MERCADO",
+            "title": "Quando supplier esbarra em limite, faz parceria",
+            "highlight": "parceria",
+            "body": "Anthropic poderia ter buildado data center. Escolheu parceira com SpaceX que já tem infra. Lesson: quando hit ceiling, busca partner que já escalou problema.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "SEGUE PRO MAIS",
+            "title": "Radar diário no @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Trends em IA, features que impact produtividade, números que empreendedor precisa acompanhar.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "xAI Grok voice mode entra em CarPlay",
+      "summary": "xAI lançou grok-voice-think-fast-1.0 e integração com Apple CarPlay, permitindo interação hands-free com Grok enquanto dirigi. Inclui transcrição em tempo real, speaker diarization e suporte multilíngue.",
+      "source": "Voice of Emirates",
+      "link": "https://www.voiceofemirates.com/en/news/2026/05/04/grok-hits-the-road-xai-ignites-competition-with-revolutionary-voice-feature-in-carplay/",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Grok agora tá no seu carro (hands-free)",
+        "caption": "Grok voice mode + CarPlay: AI no seu cockpit 🚗🤖\n\nxAI anunciou novo modelo de voz (grok-voice-think-fast-1.0) integrado no CarPlay. Drive seguro, IA sempre acessível, hands-free.\n\nO que chegou:\n✅ Grok voice mode direto no CarPlay\n✅ Speech-to-text real-time + diarization\n✅ Multilíngue (25 idiomas)\n✅ Latência baixa (conversação natural)\n\nPor que importa: Primeiro a ter IA voice nativa em CarPlay é player que controla HCI inteira — phone + car.\n\nSeu turno: Teste voice mode — é UX que ChatGPT não tem (Siri é 1998). Experiência muda.\n\nSiga @rafaondei 🔥\n\n#Grok #xAI #CarPlay #VoiceAI #UX #Tecnologia #InteligenciaArtificial",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "AI ENTRA NA ESTRADA",
+            "title": "Grok no seu carro agora",
+            "highlight": "carro",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "NOVIDADE GRANDE",
+            "title": "Grok voice: hands-free em CarPlay",
+            "highlight": "hands-free",
+            "body": "xAI liberou grok-voice-think-fast-1.0 integrado em CarPlay. Fala pro Grok enquanto tu dirigi — tudo hands-free, tudo seguro.",
+            "stat": "25",
+            "stat_label": "idiomas suportados",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Voice real-time + AI reasoning",
+            "highlight": "reasoning",
+            "body": "Você fala → Grok transcreve em tempo real → processa com \"thinking\" → responde natural. Inclui speaker diarization (diferencia voices) e word-level timestamps.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "POR QUE AGORA",
+            "title": "Mão no volante, IA no ouvido",
+            "highlight": "volante",
+            "body": "ChatGPT não tá em CarPlay. Google Assistant é 1998. Grok entra como primeira IA moderna nativa em carro — é UX que muda safety, focus, experience.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "TECH STACK",
+            "title": "Speech-to-text + reasoning embedding",
+            "highlight": "embedding",
+            "body": "Usa Speech-to-Text API xAI (standalone, não depende de terceiro) + Grok reasoning core. Word-level timestamps permitem interrupção natural — tu fala \"espera aí\" e Grok interrompe.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO DRIVER + BUSINESS",
+            "title": "Drive seguro = mais produtivo",
+            "highlight": "produtivo",
+            "body": "Uber driver confere dinâmica de ride enquanto navega. Sales rep faz call enquanto vai pra meeting. Drive de 1h vira hora produtiva — 0 stress, 100% hands-on wheel.",
+            "stat": "+25%",
+            "stat_label": "produtividade em trânsito",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "MARKET SIGNAL",
+            "title": "Quem controla voice, controla ecosystem",
+            "highlight": "ecosystem",
+            "body": "Apple Siri morreu de velho. Google Assistant nunca foi voice-first. xAI entra com Grok voice — se executa bem, tira market share de toda camada mobile. É battle pelo HCI.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "SEGUE MAIS",
+            "title": "@rafaondei daily radar IA",
+            "highlight": "@rafaondei",
+            "body": "Features que mudam UX, trends antes da mainstream, números que escalam negócio.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Meta Llama 4 multimodal bate GPT-4o em benchmarks",
+      "summary": "Meta lançou Llama 4 Maverick e Llama 4 Scout — primeiros modelos open-weight verdadeiramente multimodais com suporte a 10M tokens. Llama 4 Maverick outperforma GPT-4o em coding, reasoning e multilíngue.",
+      "source": "Meta AI Blog",
+      "link": "https://ai.meta.com/blog/llama-4-multimodal-intelligence/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Open source finalmente igualou / bateu proprietary",
+        "caption": "Llama 4 Maverick venceu GPT-4o nos benchmarks 👑\n\nMeta liberou Llama 4 — primeiro open-weight VERDADEIRAMENTE multimodal. Mixture-of-experts com 128 especialistas. Bate GPT-4o em coding, reasoning, multilíngue.\n\nO que mexeu:\n✅ Open-weight (você downloads, roda em casa)\n✅ Outperforms GPT-4o em benches específicas\n✅ 10M context (Llama 4 Scout = maior open model)\n✅ 30T tokens training (2x Llama 3)\n\nPor que importa: Quando open source iguala proprietary EM QUALIDADE, pricing e lock-in viram irrelevantes. Market vira commodity.\n\nSeu turno: Deploy Llama 4 em casa — 0 vendor dependency, 0 rate limits, full control.\n\nSiga @rafaondei 🔥\n\n#Meta #Llama #OpenSource #IA #LLM #Tecnologia",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "VIRADA HISTÓRICA",
+            "title": "Open source venceu",
+            "highlight": "venceu",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O FEITO",
+            "title": "Llama 4 Maverick > GPT-4o em benches",
+            "highlight": "Maverick",
+            "body": "Meta soltou benchmarks: Llama 4 Maverick supera GPT-4o em coding, reasoning, multilingual. Llama 4 Scout tem 10M token context (maior que qualquer modelo aberto).",
+            "stat": "30T",
+            "stat_label": "tokens de treino (2x Llama 3)",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O DETALHE",
+            "title": "Mixture-of-experts muda tudo",
+            "highlight": "experts",
+            "body": "Llama 4 não é monolítico. É 128 neural networks especializadas, cada um otimizado pra diferentes tarefas. Você só ativa expert que precisa (menos compute, mais speed).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O IMPACTO REAL",
+            "title": "Vendor lock-in virou irrelevante",
+            "highlight": "irrelevante",
+            "body": "Se open-source iguala proprietary, por que pagar OpenAI? By que suportar rate limits Anthropic? Download Llama 4, rode em casa, full control, zero throttling forever.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "MoE routing automático",
+            "highlight": "routing",
+            "body": "Input chega → router automático escolhe qual(is) dos 128 experts processar → output. É como ter 128 LLMs especializados mas rodam como 1. Speed ótimo, qualidade ótima.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO BUSINESS",
+            "title": "Seu custo de IA cai 80%",
+            "highlight": "cai",
+            "body": "Antes: Claude Opus $5 input/$25 output. Agora: Deploy Llama 4 em GPU (sunk cost de $50k) = infinite usage, zero per-token cost. ROI muda dramático.",
+            "stat": "-80%",
+            "stat_label": "custo variável por 1M tokens",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "SINAL DO MERCADO",
+            "title": "Quando commodity tech iguala premium, premium morre",
+            "highlight": "morre",
+            "body": "Aconteceu com Android vs iOS, open-source vs proprietary sempre. Agora acontece com LLMs. Meta liberando Llama 4 em peso = industry shift pro open.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PEGUE AGORA",
+            "title": "@rafaondei: tendências antes da mainstream",
+            "highlight": "@rafaondei",
+            "body": "Modelo que vence benchmark hoje é base do seu produto amanhã. Acompanha radar.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Sora descontinuado: OpenAI mata modelo flagship de vídeo",
+      "summary": "OpenAI descontinuou Sora em 26 de abril. API fecha em setembro 2026. Perda de US$ 1M/dia levou OpenAI a abandonar produto flagship em favor de foco em reasoning e multimodal. Google Veo, xAI e Meta dominam agora.",
+      "source": "OpenAI Help Center",
+      "link": "https://help.openai.com/en/articles/20001152-what-to-know-about-the-sora-discontinuation",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "Flagship product de OpenAI morreu em 26 dias de aviso",
+        "caption": "Sora morreu. OpenAI deu um passo atrás. 🎬💀\n\nOpenAI descontinuou Sora em 26 de abril. API fecha setembro 2026. Motivo: perda de US$ 1M/dia, competição extrema, foco em O-series e reasoning.\n\nO que significa:\n✅ Video generation virou commodity com 10 players\n✅ OpenAI admitiu derrota em vídeo\n✅ Startups que apostaram em Sora = surfing ou colapso\n✅ Próximo battleground é reasoning, não vídeo\n\nPor que importa: Quando flagship product de industry leader morre, mercado mudou DEMAIS.\n\nSeu turno: Se apostou em Sora — migra pra Veo (Google) ou Genie (xAI). Se tá começando videogen — já não é moat, é commodity.\n\nSiga @rafaondei 🔥\n\n#OpenAI #Sora #VideoGeneration #IA #Mercado",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "NÃO VAI ACREDITAR",
+            "title": "Sora tá morto",
+            "highlight": "morto",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "QUANDO ACONTECEU",
+            "title": "26 de abril 2026: OpenAI desliga Sora",
+            "highlight": "26 de abril",
+            "body": "App descontinuado, API vai sair em setembro. Sora — produto que OpenAI anunciou como \"revolution em vídeo\" — morre em 18 meses.",
+            "stat": "0",
+            "stat_label": "market share agora",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "POR QUE MORREU",
+            "title": "US$ 1M/dia de loss",
+            "highlight": "loss",
+            "body": "Sora queimava milhão por dia. Competição (Google Veo, xAI Genie, Runway, Pika) tirou margem. OpenAI recalculou: focus em reasoning e O-series, não vídeo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O SHIFT",
+            "title": "Vídeo virou commodity, reasoning é novo moat",
+            "highlight": "novo moat",
+            "body": "Sora morreu porque 10 players fazem vídeo AI agora. Ninguém faz reasoning + planning + execution como O-series. OpenAI apostou errado em vídeo, certa em reasoning.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "O DETALHE",
+            "title": "Google Veo + xAI Genie + Meta ganham",
+            "highlight": "ganham",
+            "body": "Google Veo 3.1 Lite (50% mais barato que Veo 3.1 Fast). xAI Genie em produção. Meta liberou Llama video. Video gen é commodity commodity commodity.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO CRIADOR / STARTUP",
+            "title": "Seu produto virou commodity ou não",
+            "highlight": "commodity",
+            "body": "Videogen foi moat em 2024. Agora é feature (tipo text2image). Startup que DEPENDE de Sora = colapso. Startup que usa vídeo AI COMO FEATURE = surfing onda.",
+            "stat": "-100%",
+            "stat_label": "Sora ARR",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A LIÇÃO",
+            "title": "Quando OpenAI mata product, market acordou",
+            "highlight": "acordou",
+            "body": "OpenAI não mata por nada. Mata quando computou que não consegue vencer naquele espaço. Quando perde Sora, todos sabem: vídeo é commoditizado, reasoning é novo jogo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "SALVA AQUI",
+            "title": "Radar IA daily: @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Trends antes da falha pública, sinais que mercado tá achando novo moat.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Google I/O 2026 (19-20 maio): Gemini upgrade + Veo 3.1 Lite 50% barato",
+      "summary": "Google I/O acontece 19-20 maio com anúncio de Veo 3.1 Lite (50% mais barato que Veo 3.1 Fast) e rumores de novo modelo de vídeo \"Omni\". Gemini 4.0 esperado.",
+      "source": "Google Blog & OpenTools AI",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Google vai revidar em maio: Veo mais barato, Gemini 4.0, Omni vaza",
+        "caption": "Google I/O 19-20 maio: Veo 3.1 Lite + Gemini 4.0 + Omni 🔮\n\nGoogle soltou Veo 3.1 Lite — 50% mais barato que Veo 3.1 Fast, mesma qualidade, mesma velocidade. Tradição que vem: Gemini 4.0 em I/O.\n\nO que esperar:\n✅ Veo 3.1 Lite: <50% cost, same speed (game-changer pra produção)\n✅ Gemini 4.0 upgrade (multimodal reasoning)\n✅ Omni vazou (novo video model?)\n✅ Android 17 + AI-first announcements\n\nPor que importa: Quando Google entrou video seriously, market tremeu. Veo 3.1 Lite significa production videogen pra small teams agora é viável.\n\nSeu turno: Roda Veo 3.1 Lite em parallel com tua pipeline — 50% economiza, mesma qualidade = instant margin win.\n\nSiga @rafaondei 🔥\n\n#Google #Gemini #Veo #VideoGeneration #IA #I/O2026",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "GOOGLE VAI REVIDAR",
+            "title": "I/O 2026: Veo Lite + Omni",
+            "highlight": "Omni",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "HOJE",
+            "title": "Veo 3.1 Lite: -50% cost, same speed",
+            "highlight": "Lite",
+            "body": "Google liberou Veo 3.1 Lite — custa MENOS 50% que Veo 3.1 Fast, mesma velocidade, mesma qualidade de output.",
+            "stat": "-50%",
+            "stat_label": "custo vs Veo 3.1 Fast",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "TIMING",
+            "title": "I/O acontece 19-20 maio (dias depois)",
+            "highlight": "I/O",
+            "body": "Google soltou Veo Lite ANTES de I/O pra warm-up. Em 19-20 vem: Gemini 4.0, Android 17, audio updates, e possivelmente \"Omni\" — novo video model que vazou em UI strings.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O IMPACT",
+            "title": "Production videogen agora é commodity + acessível",
+            "highlight": "acessível",
+            "body": "Antes: Veo 3.1 Fast era caro, pequeno estúdio não usava. Agora: Veo 3.1 Lite custa <30% de Fast, mesma qualidade. Roupa de creator individual, freelancer, small agency.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "STRATEGIC MOVE",
+            "title": "Omni: novo modelo secreto",
+            "highlight": "Omni",
+            "body": "UI string vaza \"Omni\" em Gemini video tab. Pode ser: novo model, rebranding, ou próximo passo after Veo 3.1. Google não anunciou NADA = será anúncio I/O.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO VIDEOGEN PEOPLE",
+            "title": "Tua margem sobe 40% já",
+            "highlight": "sobe",
+            "body": "Pipeline que custa 100 reais em Veo 3.1 Fast agora custa 50 em Lite. 10 videos/mês = 500 economiza. 100 videos = 5k saved por mês. Passa pro cliente ou fica na margem.",
+            "stat": "+40%",
+            "stat_label": "margem potencial",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "MARKET PLAY",
+            "title": "Google tá atacando com price, não qualidade",
+            "highlight": "price",
+            "body": "Sora morreu porque caro e lento. Google responde com Veo Lite: barato, rápido, nativa em Gemini. Play clássico: quando você perde velocidade, vence no preço.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "ACOMPANHA",
+            "title": "@rafaondei: updates de I/O em tempo real",
+            "highlight": "@rafaondei",
+            "body": "Announcements que mexem em pricing, margins, viability. Segue pra latest.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Preços de IA caem 40-70%: ChatGPT 4o é 93% mais barato em 2 anos",
+      "summary": "APIs de IA caíram drasticamente desde 2024: ChatGPT 4o de US$ 0.03 para US$ 0.002 por 1k tokens (93% redução). Anthropic cortou Claude 50%, Google quase free, DeepSeek V4 Flash é US$ 0.14/M. Margem de aplicações IA explode.",
+      "source": "FelloAI, DevTk.AI, AIEmprire Media",
+      "link": "https://felloai.com/ai-pricing-comparison/",
+      "category": "benchmark",
+      "recommended": true,
+      "carousel": {
+        "theme": "Seu custo de IA caiu 93% — margem explodiu",
+        "caption": "AI tá GRAÇA agora: ChatGPT 4o caiu 93% em 2 anos 💸💰\n\nEM 2 ANOS:\n• ChatGPT 4o: $0.03 → $0.002 (93% cut)\n• Claude: -50% de preço\n• Google Gemini: quase grátis\n• DeepSeek V4: $0.14/$0.28 per M tokens (mais barato)\n\nO que significa PRA TI:\n✅ Chatbot que custava 15% do ticket AGORA custa 1%\n✅ Margin de AI product TRIPLICOU\n✅ Competição em preço SUMIU (commodity pura)\n✅ Aplicações antes inviável = viável agora\n\nPor que importa: Quando commodity cost cai 70-90%, só negócio com ESCALA e DIFERENCIAL vence. Preço não é mais defesa.\n\nSeu turno: Recalcula seu modelo de unit economics com preço de 2026. Se era apertado em 2024, agora é goldmine ou precisa scale 10x.\n\nSiga @rafaondei 🔥\n\n#IA #Preços #ChatGPT #Claude #Economics #Startups #Tecnologia #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "ISSO VAI MEXER COM VOCÊ",
+            "title": "IA tá praticamente de graça",
+            "highlight": "graça",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "OS NÚMEROS REAIS",
+            "title": "ChatGPT: $0.03 → $0.002 (93% cut)",
+            "highlight": "93%",
+            "body": "ChatGPT 4o custava $0.03 por 1000 tokens em 2024. Agora é $0.002. Em 2 anos, preço caiu NOVENTA E TRÊS PORCENTO.",
+            "stat": "-93%",
+            "stat_label": "redução em 24 meses",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "TODOS CORTARAM",
+            "title": "Anthropic -50%, Google quase free, DeepSeek lidera",
+            "highlight": "cortaram",
+            "body": "Claude: -50% de preço. Google Gemini 1.5 Pro: praticamente grátis pra devs. DeepSeek V4 Flash: $0.14/$0.28 por milhão tokens (mais barato que ninguém). Competição brutal.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "IMPLICAÇÃO GIGANTE",
+            "title": "Chatbot que era 15% do custo, agora é 1%",
+            "highlight": "1%",
+            "body": "Seu SaaS tinha chatbot que custava 15% do valor do ticket. Com 93% cut, agora é 1%. Aquele problema de \"customer aquisição caro\"? Sumiu. Margin de 40% vira 80%.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO CHEGOU AQUI",
+            "title": "Competição forçou todos cortar preço",
+            "highlight": "competição",
+            "body": "2024: OpenAI tinha quasi-monopoly em LLM. 2025-2026: Claude, Gemini, Grok, DeepSeek, Llama roubaram market share com open-source + preço agressivo. OpenAI TEVE que cortar.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA TI, AGORA",
+            "title": "Recalcula seu modelo de negócio HOJE",
+            "highlight": "HOJE",
+            "body": "Aplicação IA que era inviável em 2024 é goldmine em 2026. Chatbot pra customer service: antes marginava 20%, agora 65%. Automação de tuning: antes -5%, agora +35%.",
+            "stat": "+300%",
+            "stat_label": "margem potencial se recalcula",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A GRANDE MUDANÇA",
+            "title": "Preço não é mais defensável — só SCALE + diferencial",
+            "highlight": "Scale",
+            "body": "Quando API de GPT-4o custa menos de 1% de ticket, \"cheapest LLM\" virou irrelevante. Quem vence agora: quem escala mais e diferencia no problema real (suporte, compliance, UX, retention).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Segue @rafaondei pra mais radar",
+            "highlight": "@rafaondei",
+            "body": "Trends que mudam unit economics, preços que evoluem, oportunidades que nascem ANTES da mainstream.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Sierra AI (Bret Taylor) levanta $950M a $15.8B: agents é novo SaaS",
+      "summary": "Startup de agents AI founders por Bret Taylor (ex-CRO Slack) levantou $950M série C valuation $15.8B. Sierra tem 50 Fortune 500 clientes e $150M ARR. Sinala que agents viraram operação core, não experimental.",
+      "source": "CNBC, SiliconANGLE",
+      "link": "https://www.cnbc.com/2026/05/04/bret-taylor-sierra-fundraise-openai.html",
+      "category": "aplicação",
+      "recommended": false,
+      "carousel": {
+        "theme": "Agents agora geram mais receita que SaaS tradicional",
+        "caption": "Sierra AI: $950M rodada, $15.8B valuation, agora é Fortune 50 standard 🚀\n\nBret Taylor (ex-Slack CRO) levantou $950M série C pra Sierra AI. 50 Fortune 500 clientes. $150M annual recurring revenue.\n\nO que significa:\n✅ Agents não são toy — é OPERAÇÃO CORE\n✅ $15.8B valuation = market acredita em modelo\n✅ Fortune 50 adotaram JUNTO (not \"piloto\")\n✅ Agents SaaS virou maior crescimento que traditional SaaS\n\nPor que importa: Quando founder daquela escala aposta tudo em agents e vira unicorn em MESES, business model mudou demais.\n\nSeu turno: Se você tá em SaaS puro — comece a pensar agents como 30-40% da receita em 12 meses. Hybrid human-agent é novo padrão.\n\nSiga @rafaondei 🔥\n\n#Agents #SaaS #Sierra #IA #Funding #Startups #EmpreendedorIA",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "FOUNDER ALL-IN",
+            "title": "Agents virou maior que SaaS",
+            "highlight": "maior",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "MEGA RODADA",
+            "title": "Sierra: $950M série C a $15.8B",
+            "highlight": "$15.8B",
+            "body": "Bret Taylor (ex-Salesforce, ex-CRO Slack) levantou $950M pra Sierra AI com lead de Tiger Global. Valuation $15.8B. Unicorn em 18 meses.",
+            "stat": "$150M",
+            "stat_label": "ARR de Sierra",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "TRACTION REAL",
+            "title": "50 Fortune 500 clientes rodando agents",
+            "highlight": "50",
+            "body": "Sierra não tem \"10 pilots\". Tem 50 Fortune 500 em PRODUÇÃO. Significa: agents funcionam, scale, ROI prova, budget foi liberado, deployment foi serious.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "SINAL DO MERCADO",
+            "title": "Agents não é toy, é operação core",
+            "highlight": "core",
+            "body": "Se Bret Taylor coloca $950M nisso e Fortune 50 adotam JUNTO, agents saiu de \"experimental\" pra \"must-have\". Isso é shift de category gigante.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "O MODELO",
+            "title": "Agents SaaS é novo growth pool",
+            "highlight": "pool",
+            "body": "Traditional SaaS crescia 40-50% YoY. Agents SaaS cresce 200%+. Sierra prova: quando você oferece agents, cliente tira humans, economia é 60-70%, ROI é 90 dias.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "REALIDADE AGORA",
+            "title": "Tua equipe em 6 meses é 40% agents",
+            "highlight": "40%",
+            "body": "Call center com 100 humanos? Em 6 meses é 60 humanos + 40 agents. Finance team de 30? É 20 humanos + 10 agents. O workflow muda quando vendor oferece agents pronto.",
+            "stat": "-60%",
+            "stat_label": "headcount se adota agents",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO",
+            "title": "Quando founder daquela escala aposta ALL-IN, ele sabe algo",
+            "highlight": "sabe",
+            "body": "Bret Taylor não aposta em toy. Não é \"let me try agents\". É \"vou dedicar carreira inteira pra agents porque é próximo trilhão-dollar opportunity\". Market ouve.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "ACOMPANHA O RADAR",
+            "title": "Trending em @rafaondei daily",
+            "highlight": "@rafaondei",
+            "body": "Rodadas que indicam direction do mercado, oportunidades antes de virar commodidade.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Regulação IA chega em junho-agosto 2026: Colorado Act + EU AI Act",
+      "summary": "Colorado AI Act entra em vigor 30 de junho 2026. EU AI Act entra 2 de agosto. Ambos exigem risk assessments, transparency notices, opt-out mechanisms, e insurance riders de compliance. Multinacionais precisam respeitar 50+ reqs diferentes.",
+      "source": "SIG, Wilson Sonsini, TechTarget",
+      "link": "https://www.softwareimprovementgroup.com/blog/us-ai-legislation-overview/",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "Lei de IA tá chegando — compliance é novo cost, new moat",
+        "caption": "Regulação IA começa AGORA: Colorado (30 jun) + EU (2 ago) 📋\n\nColorado AI Act: 30 de junho 2026\nEU AI Act: 2 de agosto 2026\n\nO que exigem:\n✅ Risk assessments (\"pls prove tua IA não discrimina\")\n✅ Pre-use notices (\"aviso ao usuário antes\")\n✅ Opt-out mechanisms (\"user pode não usar IA\")\n✅ Impact assessments + insurance riders\n✅ Cada país = reqs diferentes\n\nPor que importa: Compliance agora é COST (eng time, audit, legal). Players desorganizado perdem margin. Quem tem governance SOBE.\n\nSeu turno: Audit seu stack IA agora. Colorado? EU? Singapore? Cada um tem regra. Multinacional = 50 compliance reqs pra respeitar.\n\nSiga @rafaondei 🔥\n\n#IA #Regulação #Compliance #Direito #Tecnologia #Business",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "REALIDADE LEGAL",
+            "title": "Lei de IA tá aqui",
+            "highlight": "aqui",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "DATAS CRÍTICAS",
+            "title": "30 junho (Colorado) + 2 agosto (EU)",
+            "highlight": "agosto",
+            "body": "Colorado AI Act entra em vigor 30 de junho 2026. EU AI Act entra 2 de agosto 2026. Ambos = obrigações legais, não sugestões.",
+            "stat": "2",
+            "stat_label": "meses até mudança",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "OBRIGAÇÕES REAIS",
+            "title": "Risk assessment, notices, audits",
+            "highlight": "audits",
+            "body": "Colorado exige: reasonable care contra discriminação + risk management policy + developer notices + impact assessments. EU exige: conformidade com categories altas-risk + transparency total.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O CUSTO",
+            "title": "Compliance virou novo expense line",
+            "highlight": "expense",
+            "body": "Antes: compliance = \"legal team pensa nisso\". Agora: compliance = audit company ($50k), eng time (2 devs, 3 months), insurance riders (5-10% da premium). É custo real.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "A COMPLEXIDADE",
+            "title": "Cada país = regra diferente",
+            "highlight": "diferente",
+            "body": "EU diz uma coisa, Colorado diz outra, Singapore tem terceira. Multinacional com 5 markets = 5 compliance stacks paralelos. Arquitetura tech fica COMPLEXA.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO BUSINESS",
+            "title": "Custo sobe 15-40% pra quem não se move",
+            "highlight": "sobe",
+            "body": "Startup desorganizada: $50k em audit + 6 devs-months + insurance. Que não tinha nos 2 anos anteriores. É margin killer — a menos que tu tenha preadaptado já.",
+            "stat": "+30%",
+            "stat_label": "compliance cost % of revenue",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO",
+            "title": "Regulação tira margin de desorganizado, dá vantagem ao preparado",
+            "highlight": "preparado",
+            "body": "Compliance é barreira de entrada. Player que já tem audit trail, documentation, impact assessments = advantage. Player que tá achando que ninguém monitora = colapso.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "AÇÃO JÁ",
+            "title": "Segue @rafaondei pra updates regulatórios",
+            "highlight": "@rafaondei",
+            "body": "Calendário de compliance, detalhes de cada lei, oportunidades em margens que abrem.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    }
+  ],
+  "whatsapp": "🔥 RADAR IA — 8 de maio de 2026\n\n1️⃣ Claude Managed Agents com Dreaming — agents que se auto-melhoram\nhttps://9to5mac.com/2026/05/07/anthropic-updates-claude-managed-agents-with-three-new-features/\n\n2️⃣ Claude Opus 4.7 na Wall Street — JP Morgan + Goldman adotaram\nhttps://fortune.com/2026/05/05/anthropic-wall-street-financial-services-agents-jamie-dimon/\n\n3️⃣ Claude Code 2x rápido — SpaceX fornecendo 300MW compute\nhttps://9to5mac.com/2026/05/07/anthropic-updates-claude-managed-agents-with-three-new-features/\n\n4️⃣ xAI Grok voice mode em CarPlay — hands-free, 25 idiomas\nhttps://www.voiceofemirates.com/en/news/2026/05/04/grok-hits-the-road-xai-ignites-competition-with-revolutionary-voice-feature-in-carplay/\n\n5️⃣ Meta Llama 4 bate GPT-4o em benches — open source venceu\nhttps://ai.meta.com/blog/llama-4-multimodal-intelligence/\n\n6️⃣ Sora morreu — OpenAI descontinua produto flagship em 26 dias\nhttps://help.openai.com/en/articles/20001152-what-to-know-about-the-sora-discontinuation\n\n7️⃣ Google I/O 19-20 maio — Veo 3.1 Lite 50% barato, Omni vaza\nhttps://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/\n\n8️⃣ 🔥 PREÇOS IA CAEM 93% — ChatGPT 4o $0.03→$0.002, margem explode\nhttps://felloai.com/ai-pricing-comparison/\n\n9️⃣ Sierra AI $950M rodada — Bret Taylor aposta tudo em agents\nhttps://www.cnbc.com/2026/05/04/bret-taylor-sierra-fundraise-openai.html\n\n🔟 Regulação IA chega — Colorado (30 jun) + EU (2 ago), compliance é novo cost\nhttps://www.softwareimprovementgroup.com/blog/us-ai-legislation-overview/\n\n📊 Dashboard completo: https://rafaelondei.appnaia.com",
+  "instagram": "🔥 RADAR IA — 8 de maio 2026\n\nCinco grandes movidas transformaram mercado IA essa semana:\n\n🧠 Claude tá aprendendo sozinho agora (Dreaming) — agents que auto-melhoram sem intervenção humana.\n\n🏦 Wall Street abriu porta pra Claude — JP Morgan, Goldman, Blackstone rodando Opus 4.7 em produção. Quando Fortune 1 aposta, TOP 10 vem atrás.\n\n⚡ Claude Code 2x rápido — SpaceX providenciou 300MW de compute. Sem mais peak-hour throttling. Rate limits dobraram.\n\n🚗 Grok tá no seu carro agora — voice mode nativa em CarPlay (25 idiomas, latência low, hands-free). ChatGPT não tem isso.\n\n🏆 Meta Llama 4 venceu GPT-4o — open source igualou proprietary em benchmarks. Vendor lock-in ficou irrelevante quando commodity iguala premium.\n\n📉 Sora morreu — OpenAI descontinua flagship product em 18 meses por perder $1M/dia. Video generation virou commodity com 10 players.\n\n🎬 Google revidar em maio — Veo 3.1 Lite (50% barato, mesma qualidade). I/O 19-20 com Gemini 4.0 + Omni leak.\n\n💸 RECOMENDADO: Preços IA caíram 93% em 2 anos — ChatGPT 4o $0.03→$0.002. Margem de AI products TRIPLICOU. Chatbot que custava 15% do ticket agora custa 1%.\n\n🚀 Agents virou business core — Sierra AI (Bret Taylor) levantou $950M série C a $15.8B. 50 Fortune 500 clientes. $150M ARR. Agents não é toy.\n\n📋 Regulação chega AGORA — Colorado (30 junho) + EU (2 agosto). Compliance é novo cost. Quem tem governance sobe de margem. Quem tá desorganizado perde.\n\n👉 Próximo battleground: reasoning (O-series, DeepSeek-R1 definem novo padrão). Vídeo? Commodity. Agents? Operação core. Preços? 70-90% mais baratos. Market não reconhece 2024 mais.\n\n🔗 Dashboard com 10 carrosséis pra viralizar: https://rafaelondei.appnaia.com\n\n#IA #InteligenciaArtificial #Claude #OpenAI #Anthropic #Mercado #Empreendedorismo #Tecnologia #Inovação #Startups #SaaS #Agents"
+}
