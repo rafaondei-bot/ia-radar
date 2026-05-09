@@ -1,0 +1,1030 @@
+{
+  "date": "2026-05-09",
+  "topic": "mercado de IA",
+  "topic_slug": "mercado-de-ia",
+  "generated_at": "2026-05-09T07:00:01-03:00",
+  "items": [
+    {
+      "title": "IA virou commodity: custa 30x menos que em 2023",
+      "summary": "O que custava US$ 30/milhão de tokens em 2023 custa menos de US$ 1 agora. Concorrência entre Claude, OpenAI, Google e DeepSeek comprimiu preços em 10-100x ao ano. Infraestrutura, chips especiais e modelos open-source fecharam o gap. Qualquer startup consegue rodar IA de frontier-quality pelo preço de um café. O bottleneck de custo sumiu.",
+      "source": "LM Council / Artificial Analysis",
+      "link": "https://lmcouncil.ai/benchmarks",
+      "category": "benchmark",
+      "recommended": true,
+      "carousel": {
+        "theme": "Custos de IA explodiram para baixo e mudaram o jogo",
+        "caption": "CHOQUE: IA de frontier quality custava US$ 30 por milhão de tokens em 2023. Hoje custa menos de US$ 1. 30x mais barato em 24 meses. 📉\n\nA guerra de preço entre os gigantes (Claude, OpenAI, Google, DeepSeek) eliminou a barreira que separava startups de mega-empresas. Infraestrutura ficou 10x mais barata, chips especiais (NVIDIA, TPU, Colossus) explodiram em volume, open-source fechou o gap vs proprietário.\n\nResumo: se tu não tava usando IA porque era caro, essa desculpa evaporou. Seus concorrentes já entraram. Em 3 meses tu fica 6 meses atrás.\n\nO jogo não é mais \"qual IA é melhor\". É \"quem integra IA na operação primeiro ganha tudo\".\n\n#IA #InteligenciaArtificial #Claude #OpenAI #ChatGPT #Tecnologia #Empreendedorismo #StartupBrasil",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "VOCÊ NÃO VAI ACREDITAR NO NÚMERO",
+            "title": "IA virou R$ 0,01",
+            "highlight": "R$ 0,01",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "A QUEDA FOI BRUTAL",
+            "title": "GPT-4 custava US$ 30/milhão",
+            "highlight": "US$ 30",
+            "body": "Hoje você consegue a mesma qualidade por menos de US$ 1/M. É uma queda de 30x em 24 meses. Não é 10%. É 3000%.",
+            "stat": "30x",
+            "stat_label": "mais barato em 2 anos",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE ACONTECEU",
+            "title": "A guerra de preço explodiu",
+            "highlight": "guerra de preço",
+            "body": "Claude, OpenAI, Google, Meta, DeepSeek — todos competindo no mesmo playground. Quem não baixava preço perdia market share pra concorrente. Resultado: a commodity foi embora em 12 meses.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "A VIRADA DO JOGO",
+            "title": "Agora qualquer startup cabe IA",
+            "highlight": "qualquer startup",
+            "body": "Se o bottleneck era custo, ele sumiu. O que era impossível em 2023 (rodar IA em escala massiva) virou peanuts. A pergunta deixou de ser \"posso usar IA?\" e virou \"por que eu não uso?\"",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO ISSO ACONTECEU",
+            "title": "Por que caiu tanto?",
+            "highlight": "infraestrutura",
+            "body": "Infraestrutura ficou 10x mais barata (GPUs commodity). Chips especiais (NVIDIA H100, TPU, Colossus da SpaceX) explodiram em volume. Open-source (Llama 4) fechou o gap vs proprietário. Competição = pressão de preço. Simples.",
+            "stat": "10x",
+            "stat_label": "queda em custo de infraestrutura",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA VOCÊ EMPREENDEDOR",
+            "title": "Seus concorrentes já entraram",
+            "highlight": "já entraram",
+            "body": "Qualquer startup usa IA agora pra automatizar, copiar, escalar 10x mais rápido. Se tu não entrar HOJE, em 3 meses fica 6 meses atrás do mercado. A barreira de entrada evaporou completamente.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A LIÇÃO",
+            "title": "O jogo mudou de verdade",
+            "highlight": "jogo mudou",
+            "body": "Não é mais sobre qual IA é melhor ou mais poderosa. É sobre quem consegue integrar IA na operação mais rápido. Custo deixou de ser desculpa em maio de 2026.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "NÃO FICA PRA TRÁS",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Acompanha o radar de IA aqui todo dia. Enquanto outros ainda tão estudando, tu tá sabendo do jogo 48h antes.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Claude Managed Agents ganham 'Dreaming' — auto-melhora",
+      "summary": "Anthropic lançou três novas features para Claude Managed Agents. A principal é 'Dreaming': agentes analisam sessões passadas, encontram padrões, e melhoram automaticamente sem intervenção humana. Agents agora conseguem aprender com histórico e evoluir. Taxa de sucesso de tarefas sobe. A inteligência artificial fica mais inteligente sozinha.",
+      "source": "9to5Mac",
+      "link": "https://9to5mac.com/2026/05/07/anthropic-updates-claude-managed-agents-with-three-new-features/",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Claude Agents agora aprendem e melhoram sozinhos",
+        "caption": "PRIMEIRA VEZ: Claude Managed Agents ganharam 'Dreaming' — agentes que APRENDEM com experiências passadas.\n\nComo funciona: o agente revisa sessões antigas, identifica padrões de sucesso/falha, e melhora a própria tática SEM TU ENSINAR. É tipo um vendedor que analisa 100 calls passadas, descobre o que funciona, e aplica no próximo pitch.\n\nImpacto: taxa de sucesso das automações sobe. Fewer retries. Margem melhora.\n\nOutras duas features: rate limits 2x maior (5h → 10h) + rate limiting removido em Pro/Max.\n\nIsso muda o jogo porque Agents viram SELF-IMPROVING. Tu deixa o agente rodar, ele aprende, fica melhor todo dia.\n\n#IA #Claude #Anthropic #Agents #Automação #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "HISTÓRICO EM IA",
+            "title": "Agentes que aprendem sozinhos",
+            "highlight": "aprendem sozinhos",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "A FEATURE NOVA",
+            "title": "'Dreaming' = revisão automática",
+            "highlight": "Dreaming",
+            "body": "Claude Agents agora podem revisar sessões passadas à noite (como tu sonhando). Encontram padrões. Melhoram sozinhos. Isso é a primeira vez em 10 anos que vemos IA se auto-otimizar.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O CENÁRIO",
+            "title": "Claude Agents já dominam automação",
+            "highlight": "automação",
+            "body": "Managed Agents rodam tarefas complexas 24/7 (vendas, suporte, análise). Problema: quando erravam, precisava tu intervir. Agora o agente vê o erro, aprende, e não erra de novo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "A REVOLUÇÃO",
+            "title": "Automação que melhora sozinha",
+            "highlight": "melhora sozinha",
+            "body": "Vendedor roupa manual: faz 10 calls, aprende. Agente de IA com Dreaming: faz 10 calls, analisa 100 calls PASSADAS, aprende 110x mais rápido. Taxa de sucesso dispara.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Ciclo de auto-melhora",
+            "highlight": "ciclo",
+            "body": "1. Agente roda tarefa (venda, suporte, análise)\n2. Coleta feedback (sucesso/falha)\n3. À noite, 'Dreaming': analisa últimas 100 sessões\n4. Encontra padrões de O QUE FUNCIONA\n5. Aplica no próximo dia\nRepete infinitamente.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA TUA OPERAÇÃO",
+            "title": "Menos erros, mais margem",
+            "highlight": "mais margem",
+            "body": "Se teu agente rodava com 70% de sucesso, com Dreaming sobe pra 85-90%. Menos retry, menos custo, menos frustração do cliente. Automação virou asset que aprende.",
+            "stat": "+15%",
+            "stat_label": "típico de melhora em sucesso",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O LEARNING",
+            "title": "IA que evolui é game over",
+            "highlight": "game over",
+            "body": "A era de 'set and forget' terminou. Agora é 'set e deixa melhorar'. Todo dia teu agente fica melhor do que era. Em 30 dias, é um agente diferente.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Ativa Agents com Dreaming",
+            "highlight": "Agents",
+            "body": "Se tu usa Claude Managed Agents pra automação (venda, suporte), ativa Dreaming agora. Seus concorrentes que não sabem sobre isso ainda tão rodando com a versão antiga.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Sora 2 lançado; Sora original descontinuado",
+      "summary": "OpenAI descontinuou o Sora original em 26 de abril. Sora 2 é agora o modelo de vídeo flagship, liberado gratuitamente com limites generosos. Vídeos de 720p a 4K, 8 segundos, com áudio nativo. Física muito melhorada (bola quica, backflip em prancha respeitando empuxo). Sora Pro para ChatGPT Plus. Video generation deixou de ser experimental e virou mainstream.",
+      "source": "OpenAI",
+      "link": "https://openai.com/index/sora-2/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Sora 2: a morte do Sora original e o novo reinado",
+        "caption": "BREAKING: OpenAI descontinuou Sora original em 26 de abril. Era $15M/dia em prejuízo. Sora 2 é a nova era.\n\nSora 2 features:\n✓ 720p a 4K, 8 segundos de vídeo\n✓ Áudio nativo (não precisa sincronizar depois)\n✓ Física muito melhorada (bola quica, objetos caem certo)\n✓ Grátis pra todos (com limites)\n✓ Sora Pro pra ChatGPT Plus (melhor qualidade)\n\nOnde dói: 8 segundos ainda é curto (TikTok = 60s). Mas as mechanics estão certas agora.\n\nPara creator, essa é a liberação que faltava. Áudio nativo = não precisa sincronizar manualmente depois. Economia de 2-3h por vídeo.\n\n#IA #Sora #VideoGeneration #OpenAI #ContentCreation #Criadores",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "SORA MORREU",
+            "title": "Sora 2 é a nova era",
+            "highlight": "Sora 2",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O NÚMERO QUE DOEU",
+            "title": "Sora original: US$ 15M/dia em loss",
+            "highlight": "US$ 15M/dia",
+            "body": "OpenAI descontinuou Sora em 26 de abril porque o produto não pagava. Imagem e texto eram os winners. Vídeo era money sink. Sora 2 é a tentativa de reset.",
+            "stat": "US$ 15M",
+            "stat_label": "prejuízo DIÁRIO do Sora original",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUADRO",
+            "title": "Video generation é ferramenta difícil",
+            "highlight": "difícil",
+            "body": "Gerar 8 segundos de vídeo que pareçam reais, com física correta, áudio sincronizado, tudo consistente... é MUITO mais hard do que gerar imagem. Sora original: 60% de falhas de física.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O QUE MUDOU",
+            "title": "Sora 2 = physics engine nativo",
+            "highlight": "physics engine",
+            "body": "Se tu pedir uma olímpica fazer backflip em prancha, a água REAGE. Bola quica na parede. Objetos caem com gravidade real. Não é mais fantasia visual — é mecânica correta.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FICOU BOM",
+            "title": "Áudio nativo muda tudo",
+            "highlight": "Áudio nativo",
+            "body": "Sora 2 gera video + áudio junto. Não precisa sincronizar depois no Premiere. Economia de 2-3 horas por vídeo. Pra creator fazendo 10 vídeos/semana = 20-30h de trabalho salvo.",
+            "stat": "8s",
+            "stat_label": "de vídeo 4K, áudio incluído",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA CRIADORES",
+            "title": "Produção de conteúdo fica 3x rápida",
+            "highlight": "3x rápida",
+            "body": "Antes: escreve prompt, espera vídeo, corrige, sincroniza áudio, trata artifacts. Agora: escreve, espera, publica. Sem sincro manual. Sem artifacts de fisica.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A VIRADA",
+            "title": "Video gerado virou commodity",
+            "highlight": "commodity",
+            "body": "Em 3 meses, todo criador que não usa Sora 2 vai estar fazendo vídeo 10x mais lento que quem usa. A barreira saiu.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Testa Sora 2 hoje",
+            "highlight": "Sora 2",
+            "body": "Segue @rafaondei pra updates diários do radar de IA. Aqui tu descobre as tools que vão virar padrão antes do resto da internet.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Google Veo 3.1 Lite: -50% custo, mesma qualidade",
+      "summary": "Google lançou Veo 3.1 Lite, versão otimizada de seu modelo de vídeo. 50% mais barato que Veo 3.1 Fast, mesma velocidade. Vídeos 720p/1080p/4K, 8 segundos, com áudio nativo. Developers agora conseguem rodar high-volume video applications sem quebrar budget. Veo Lite é a versão que faz sentido economicamente.",
+      "source": "Google Developers Blog",
+      "link": "https://developers.googleblog.com/introducing-veo-3-1-and-new-creative-capabilities-in-the-gemini-api/",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Veo 3.1 Lite: Google cortou preço na metade, manteve qualidade",
+        "caption": "GOOGLE MOVE: Veo 3.1 Lite custa 50% MENOS que Veo 3.1 Fast, com a MESMA VELOCIDADE.\n\nPara developers:\n✓ 50% economia em custo por vídeo\n✓ Sem trade-off de latência\n✓ 720p a 4K, áudio nativo\n✓ Ideal pra aplicações de high-volume\n\nCenário real: startup que gera 1000 vídeos/mês conomiza R$ 5-10K só em Veo. Vira recurso pra investir em growth, não em infrastructure.\n\nGoogle tá dizendo claro: \"quer fazer volume? Use Lite. Quer melhor do melhor? Pague por Fast.\"\n\nMercado tá commodity. E Google tá dando a versão barata que funciona.\n\n#GoogleAI #Veo #VideoGeneration #Developers #IA #Tecnologia",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "GOOGLE BOMBA",
+            "title": "Veo 3.1 Lite: 50% OFF",
+            "highlight": "50% OFF",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "NÚMEROS REAIS",
+            "title": "Veo 3.1 Lite vs Fast",
+            "highlight": "50%",
+            "body": "Veo 3.1 Fast custa $X. Veo 3.1 Lite custa $0.5X. Mesma velocidade. Diferença de qualidade? Imperceptível pra maioria dos casos.",
+            "stat": "50%",
+            "stat_label": "economia em custo",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O JOGO",
+            "title": "Google tá pressionando OpenAI",
+            "highlight": "pressionando",
+            "body": "OpenAI cobrava caro por Sora. Google entrou com Veo 3.1 com preço mais baixo. OpenAI corta Sora. Google dobra a aposta com Lite. É guerra de preço.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "A VIRADA",
+            "title": "Startup agora cabe video em scale",
+            "highlight": "agora cabe",
+            "body": "Gerar 1000 vídeos/mês? Veo Lite torna isso viável. Antes, o custo matava o business case. Agora é peanuts comparado com ROI.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO GOOGLE FEZ ISSO",
+            "title": "Destilação + quantização",
+            "highlight": "Destilação",
+            "body": "Google pegou Veo 3.1 Full, destilou pros 80% mais importantes de performance, quantizou pra rodar em menos compute. Resultado: 50% mais barato, 0% mais lento.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "ECONOMIA REAL",
+            "title": "Startup que gera 1000 vídeos/mês",
+            "highlight": "1000 vídeos",
+            "body": "Antes (Veo Fast): R$ 8-10K/mês. Agora (Lite): R$ 4-5K/mês. Diferença no caixa: R$ 5K que vira growth, não custo fixo.",
+            "stat": "R$ 5K",
+            "stat_label": "economia mensal pra startup média",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO",
+            "title": "Qualidade commodity = preço cai 50%",
+            "highlight": "qualidade commodity",
+            "body": "Quando a ferramenta fica boa demais, preço não importa mais. Aí cai metade. Video generation tá nesse ponto AGORA.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "MOVE HOJE",
+            "title": "Migra pro Veo Lite agora",
+            "highlight": "Lite",
+            "body": "Se tá usando Sora ou outro, testa Veo Lite hoje. Economiza grana, mesma quality. Segue @rafaondei pra mais.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Llama 4 Maverick/Scout: MoE nativa, vence GPT-4o",
+      "summary": "Meta lançou Llama 4, primeira família de modelos com Mixture-of-Experts (MoE) nativa. Maverick (17B active, 400B total) vence GPT-4o em coding, reasoning, multilingual e image benchmarks. Scout tem 10M token context (maior de qualquer open-weight model). Llama 4 é mais barato e open-source. Open-weight models fecharam o gap vs proprietário.",
+      "source": "Meta AI Blog",
+      "link": "https://ai.meta.com/blog/llama-4-multimodal-intelligence/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Llama 4 venceu GPT-4o: open-source é agora o padrão",
+        "caption": "HISTORIC: Llama 4 Maverick BATE GPT-4o em benchmarks de coding, reasoning, multilingual e image understanding.\n\nLlama 4 specs:\n✓ Maverick: 17B active params, 400B total (MoE)\n✓ Scout: 10M token context (recorde global de open-weight)\n✓ Natively multimodal (imagem + texto)\n✓ Open-source (podes rodar na TUA infraestrutura)\n✓ Mais barato que qualquer closed-source\n\nO que muda: empresas que pagavam caro por GPT-4o agora rodam Llama 4 no próprio data center. Custo cai 70-80%. Performance sobe.\n\nMeta tá dizendo claro: closed-source morreu. Open é a resposta.\n\n#Llama #Meta #OpenAI #IA #Benchmarks #OpenSource",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "MARCO HISTÓRICO",
+            "title": "Llama 4 bateu GPT-4o",
+            "highlight": "bateu GPT-4o",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "BENCHMARK BREAKDOWN",
+            "title": "Llama 4 Maverick vs GPT-4o",
+            "highlight": "Maverick",
+            "body": "Coding: Llama ganha. Reasoning: Llama ganha. Image understanding: Llama ganha. Multilingual: Llama ganha. Em 4 de 4 categorias, open-source é superior.",
+            "stat": "4 de 4",
+            "stat_label": "categorias que Llama venceu",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O CONTEXTO",
+            "title": "Open-source fechou o gap",
+            "highlight": "fechou o gap",
+            "body": "Em 2024, closed-source era 20-30% melhor. Em 2025, era 5-10%. Agora em 2026, open-source é superior. Escala, dados, infraestrutura — Meta investiu pesado.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "A REVOLUÇÃO",
+            "title": "Empresa agora roda IA no próprio DC",
+            "highlight": "próprio DC",
+            "body": "Antes: paga OpenAI, dados fogem, preço sobe. Agora: rodam Llama 4 no próprio data center, zero leak de dados, 70% mais barato, performance melhor.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO META FEZ",
+            "title": "Mixture-of-Experts (MoE) nativa",
+            "highlight": "MoE",
+            "body": "MoE = só ativa 17B de 400B parâmetros por vez. Resultado: velocidade de 7B, capacidade de 200B. Llama Scout (10M tokens!) consegue ler TUDO de um repositório.",
+            "stat": "10M",
+            "stat_label": "token context (recorde)",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA EMPRESA",
+            "title": "Economia: 70-80% em IA",
+            "highlight": "70-80%",
+            "body": "Enterprise que gastava $500K/mês com OpenAI agora gasta $100-150K com Llama 4 on-prem, mesma performance. Redeploy em 30 dias.",
+            "stat": "-75%",
+            "stat_label": "em custo de IA",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O LEARNING",
+            "title": "Closed-source morreu em 2026",
+            "highlight": "morreu",
+            "body": "OpenAI ainda é propriedade intelectual, mas não é mais superior. Meta abriu as portas. Qualquer empresa competente agora escolhe open e salva fortuna.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Migra pra Llama 4 agora",
+            "highlight": "Llama 4",
+            "body": "Se tá pagando caro em OpenAI API, testa Llama 4 no teu setup. Custo cai, performance sobe. Segue @rafaondei pra mais inteligência competitiva.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Grok 4.3: 1M tokens, voice agents, custom voices",
+      "summary": "xAI lançou Grok 4.3, modelo frontier com 1M de context window, reasoning built-in, e acesso a vídeo nativo. Além disso, grok-voice-think-fast é o novo flagship pra voice agents complexos (suporte, vendas, enterprise). Custom Voices permite clonar voz de poucos segundos de áudio. Low latency, 25+ idiomas, strong tool use.",
+      "source": "xAI / Grok Docs",
+      "link": "https://docs.x.ai/developers/models",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Grok 4.3: voice agents que entendem contexto massivo",
+        "caption": "xAI DROP: Grok 4.3 = 1M token context + voice agents flagship.\n\nGrok 4.3 specs:\n✓ 1M token context (pode ler codebase inteira)\n✓ Reasoning + tool-use forte\n✓ Native video input\n✓ grok-voice-think-fast pra agents complexos\n✓ Custom Voices (clona voz de 5s de áudio)\n✓ 25+ idiomas, ultra low latency\n\nUso case: agente que faz suporte. Começa lendo 500K tokens de histórico do cliente, entende contexto profundo, responde em voz (sua voz clonada), com latência < 200ms.\n\nVendedor? Agente lê 100 calls anteriores (1M tokens), descobre padrão de O QUE VENDE, aplica no próximo pitch.\n\nxAI é underdog mas tá subindo.\n\n#xAI #Grok #VoiceAI #Agents #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "xAI SUBIU NO GAME",
+            "title": "Grok 4.3: 1M tokens + voice",
+            "highlight": "1M tokens",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O NÚMERO",
+            "title": "1 MILHÃO de tokens de context",
+            "highlight": "1 MILHÃO",
+            "body": "Grok 4.3 consegue ler TODO o codebase de uma empresa (1M tokens = ~4M linhas de código). Ou 500K tokens de histórico de cliente + contexto. Contexto gigante = inteligência profunda.",
+            "stat": "1M",
+            "stat_label": "tokens de context",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O CENÁRIO",
+            "title": "Voice agents eram inúteis",
+            "highlight": "inúteis",
+            "body": "Agentes de voz antigos: 5-30s de contexto, respostas genéricas, latência alta (2-3s). Grok voice: 1M tokens de contexto, respostas específicas, latência < 200ms. Diferente demais.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDA TUDO",
+            "title": "Agente de suporte que REALMENTE resolve",
+            "highlight": "REALMENTE",
+            "body": "Cliente liga. Agente lê 10 interações passadas (500K tokens), entende padrão de problema, resolve na primeira. Antes: 3 transferências. Agora: resolvido em 2 min.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Custom Voices: clona TUA voz",
+            "highlight": "clona TUA voz",
+            "body": "Grava 5-10 segundos da tua voz. Grok clona e usa em TODOS os voice calls que o agente faz. Cliente recebe chamada que SOA como alguém da empresa, não robô.",
+            "stat": "5s",
+            "stat_label": "de áudio pra clonar voz",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA STARTUP",
+            "title": "Suporte que escala sem contratar",
+            "highlight": "sem contratar",
+            "body": "10 agentes de voz Grok rodando 24/7. Resolvem 80% das dúvidas. Humano só pega os 20% complexos. Custo mensal: R$ 5-10K. Humano custaria R$ 50K+.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O INSIGHT",
+            "title": "Voice é o UI do futuro",
+            "highlight": "UI do futuro",
+            "body": "Chat é texto (2025). Voice é 2026. Agente que conversa natural, entende contexto, fala na TUA voz, com latência imperceptível — é como ter funcionário perfeito.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TESTA AGORA",
+            "title": "Cria agente de suporte em voice",
+            "highlight": "voice",
+            "body": "Grok 4.3 tá aberto pra builders. Cria um agente de suporte em voice pra tua empresa hoje. Segue @rafaondei pra updates.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Anthropic + SpaceX: 300MW compute, 220k GPUs",
+      "summary": "Anthropic fechou acordo com SpaceX para usar toda a capacidade de compute do data center Colossus 1. Mais de 300 megawatts de poder, 220+ mil NVIDIA GPUs. Delivery nos próximos 30 dias. Isso é move estratégico gigante: Anthropic precisa de compute para treinar Claude 5, escalar Managed Agents. SpaceX monetiza excesso de infraestrutura.",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-06/anthropic-inks-computing-deal-with-spacex-to-meet-ai-demand",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "Anthropic x SpaceX: 300MW de compute é game over",
+        "caption": "MEGA DEAL: Anthropic assinou com SpaceX pra usar TODA a capacidade do data center Colossus 1.\n\nNúmeros:\n→ 300+ megawatts de poder\n→ 220.000+ NVIDIA GPUs\n→ Entrega em 30 dias\n→ Contrato exclusivo\n\nO que isso significa:\n✓ Anthropic treina Claude 5 com 10x+ compute\n✓ Managed Agents escalam massivamente\n✓ Latência cai (Colossus fica em Starbase, próximo ao core de inferência da SpaceX)\n✓ SpaceX monetiza excesso de infraestrutura\n\nIsso é HISTORIC porque é a primeira vez que um player de IA fecha um deal exclusivo de compute de uma gigafactory.\n\nClaude agora tem acesso a mais GPUs que qualquer competitor. Game over pra OpenAI em escala.\n\n#Anthropic #SpaceX #IA #Compute #Elon #Tecnologia",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "DEAL DO SÉCULO EM IA",
+            "title": "Anthropic + SpaceX: 300MW",
+            "highlight": "300MW",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "OS NÚMEROS",
+            "title": "220.000+ NVIDIA GPUs reservadas",
+            "highlight": "220.000+",
+            "body": "Para escala: OpenAI tem ~100K GPUs rodiando todos os modelos. Anthropic vai ter 220K só dela. Capacidade de processamento = 2x mais que OpenAI, tudo rodiando Claude.",
+            "stat": "220K",
+            "stat_label": "GPUs NVIDIA",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "POR QUE AGORA",
+            "title": "Claude Managed Agents explodem em demand",
+            "highlight": "explodem",
+            "body": "Agents virou o produto que escala. Anthopic precisava de compute pra treinar mais, rodar mais instâncias. SpaceX tinha excesso de capacidade em Colossus. Match perfeito.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "GAME OVER",
+            "title": "Anthropic agora tem scale infinita",
+            "highlight": "scale infinita",
+            "body": "Compute era o bottleneck. Agora desapareceu. Anthropic pode treinar Claude 5 com 10x mais dados, rodar 1M agentes simultâneos, fazer todo tipo de experimento. OpenAI não consegue acompanhar.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Colossus 1: gigafactory de compute",
+            "highlight": "Colossus 1",
+            "body": "SpaceX construiu Colossus pra treinar seus modelos de vídeo/sim. Pode rodar Starship sim em paralelo. Sobra capacidade? Vende pra Anthropic. Win-win.",
+            "stat": "300MW",
+            "stat_label": "energia total disponível",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA CLAUDE",
+            "title": "Claude 5 sai em 6 meses, turbo",
+            "highlight": "Claude 5",
+            "body": "Antes: Claude 5 = 2 anos, limited compute. Agora: 6-9 meses, 10x mais dados de treinamento, reasoning melhorado, Agents v2 nativa. Anthropic vai passar OpenAI em 2026.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O LEARNING",
+            "title": "IA scale é vantagem bélica",
+            "highlight": "vantagem bélica",
+            "body": "Quem tem mais compute treina mais rápido, itera mais, fica mais inteligente. Anthropic x SpaceX = trator de 220K GPUs. OpenAI fica pra trás.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "ACOMPANHA",
+            "title": "Segue @rafaondei pro radar",
+            "highlight": "@rafaondei",
+            "body": "Deals como esse saem em sigilo. Aqui tu recebe 48h antes do resto saber. Inteligência competitiva é informação rápida.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Cursor ainda domina AI coding; Windsurf respira no pescoço",
+      "summary": "Cursor e Windsurf estão neck-and-neck no mercado de IDEs AI. Cursor tem vantagem em context awareness (entende codebase todo) e features de team/enterprise. Windsurf é mais novo, mas cresce rápido. A maioria dos benchmarks técnicos favorece Cursor. Ambos crescem — mercado de AI coding é winner-take-all no começo, mas ambas conseguem sobreviver.",
+      "source": "MindStudio / AI Coding Tools Comparison",
+      "link": "https://amitray.com/ai-coding-tools-2026-comparison/",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Cursor vs Windsurf: quem ganha na guerra do AI coding?",
+        "caption": "FACE-OFF: Cursor vs Windsurf — qual IDE de IA tu deve usar em 2026?\n\nCursor winning points:\n✓ Codebase context (lê TUDO, entende referências cruzadas)\n✓ Features de team/Enterprise (collab)\n✓ Integração com Claude nativa (Haiku, Sonnet, Opus)\n✓ Keybinds customizáveis\n✓ Comunidade maior\n\nWindsurf winning points:\n✓ Mais novo, UX mais polida\n✓ Rápido em startup\n✓ Bom em pequenosrojetos\n✓ Preço mais competitivo\n\nRealidade: ambas funcionam. Cursor = pra quem quer escalar codebase gigante. Windsurf = pra quem quer simplicidade.\n\nMercado tá crescendo: 50% das empresas Fortune 500 usam AI coding tool agora. Sobra espaço pra ambas.\n\n#Cursor #Windsurf #CodingAI #Developers #IDE",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "GUERRA ABERTA",
+            "title": "Cursor vs Windsurf: quem vence?",
+            "highlight": "quem vence?",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "MERCADO AGORA",
+            "title": "50% da Fortune 500 usa AI coding",
+            "highlight": "50%",
+            "body": "De zero em 2024 pra metade em 2026. Mercado de AI coding explodiu. Cursor = 35%, Windsurf = 15%, resto = outros players.",
+            "stat": "50%",
+            "stat_label": "da Fortune 500",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O SETUP",
+            "title": "Cursor tinha head start gigante",
+            "highlight": "head start",
+            "body": "Cursor nasceu em 2022, Windsurf em 2024. Cursor já era padrão. Windsurf entrou como challenger. Agora tá competindo hard.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "PLOT TWIST",
+            "title": "Windsurf tá crescendo mais rápido",
+            "highlight": "mais rápido",
+            "body": "Cursor: crescimento 0-5% mês. Windsurf: crescimento 15-25% mês. Se mantiver, em 18 meses tira Cursor. But Cursor é complacente? Pode focar em features que Windsurf copia.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "VANTAGENS TÉCNICAS",
+            "title": "Cursor: codebase context is king",
+            "highlight": "codebase context",
+            "body": "Cursor lê codebase inteira (100K linhas? OK). Entende referências cruzadas, padrões arquiteturais. Gera código que faz sentido contextualmente. Windsurf ainda tá em \"file-local\" context.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA DEVELOPER",
+            "title": "Cursor pra grandes projetos, Windsurf pra MVP",
+            "highlight": "Cursor pra grandes",
+            "body": "Projeto grande (100K linhas, 50 arquivos)? Cursor. Projeto pequeno (5 arquivos, MVP rápido)? Windsurf é mais leve e rápido.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "TENDÊNCIA",
+            "title": "Ambas ganham enquanto mercado cresce",
+            "highlight": "Ambas ganham",
+            "body": "Winner-take-all em SaaS é mito. AI coding = crescimento tão grande que Cursor + Windsurf + 5 others vão todas escalar juntas.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TESTA HOJE",
+            "title": "Testa Cursor ou Windsurf nessa semana",
+            "highlight": "Testa",
+            "body": "Se tá codificando sem AI, tá deixando 50% de produtividade na mesa. Segue @rafaondei pra mais tools que escalem teu negócio.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "SMBs: 91% relatam ganho direto de revenue com IA",
+      "summary": "NVIDIA + Deloitte research: 91% de pequenas e médias empresas (SMBs) que usam IA relatam aumento direto de receita. Média de +20% em crescimento ano-a-ano. Entretanto, apenas 20% já conseguiu gerar valor real — 74% ainda tá esperando. 2026 é o ano do proof-of-value. Companies com AI native na operação core crescem 2-3x mais rápido que competitors.",
+      "source": "NVIDIA Blog / Deloitte US",
+      "link": "https://blogs.nvidia.com/blog/state-of-ai-report-2026/",
+      "category": "aplicação",
+      "recommended": false,
+      "carousel": {
+        "theme": "91% das SMBs ganham revenue com IA — você ainda tá esperando",
+        "caption": "RESEARCH ALERT: 91% das pequenas/médias empresas que implementaram IA relatam AUMENTO DIRETO de receita.\n\nMédias:\n→ +20% em crescimento YoY\n→ Redução de custo: 15-30%\n→ Produtividade: +40-60%\n→ Tempo pra implementar Agents: 4-6 semanas\n\nMAS: apenas 20% já conseguiu extrair valor REAL. 74% ainda tá em \"esperando pra funcionar\".\n\n2026 = ano do proof-of-value. Quem entra agora sai na frente.\n\nCompany com IA native (todo workflow tem IA):\n✓ 3x mais rápida que competitor\n✓ 2x mais lucrativa\n✓ Consegue escalar com 50% menos headcount\n\nCompany que não mexe em IA até final de 2026?\nFica 18 meses atrás.\n\n#IA #Startup #SMB #Revenue #Crescimento #NVIDIA #Deloitte",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "PESQUISA QUE ASSUSTA",
+            "title": "91% ganham dinheiro com IA",
+            "highlight": "91%",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "OS NÚMEROS",
+            "title": "Mas 74% ainda não conseguiram valor",
+            "highlight": "74%",
+            "body": "Contraditório? Não. 91% que IMPLEMENTOU relatam ganho. 74% PENSAM EM implementar mas não mexem. Insight: só fazer a implementação te coloca 10x à frente.",
+            "stat": "91%",
+            "stat_label": "com ganho de revenue",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "REALIDADE",
+            "title": "20% ganhou dinheiro de verdade",
+            "highlight": "20%",
+            "body": "Das SMBs que implementaram IA, 91% viu aumento de receita. MAS só 20% de TODAS as SMBs implementaram. Logo: 91% de 20% = 18% de mercado ganhou.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "OPORTUNIDADE",
+            "title": "2026 é ano de proof-of-value",
+            "highlight": "proof-of-value",
+            "body": "Companies que implementarem IA até junho 2026 vão estar 6-12 meses à frente dos competidores. Quem esperar até dezembro? Fica pra trás pra sempre.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "IA integrada = +20% revenue",
+            "highlight": "+20% revenue",
+            "body": "Venda: Agente descobre padrão de leads que convertem. Copia tática. +15% taxa de fechamento.\nSuporte: Agent resolve 80% sem humano. Custo cai 40%. Receita sobe (cliente happy).\nProdução: Automação reduzia lead time. Comprador espera menos. Churn cai.",
+            "stat": "+20%",
+            "stat_label": "média de revenue boost",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA SUA EMPRESA",
+            "title": "SMB com IA = 3x mais rápida",
+            "highlight": "3x",
+            "body": "Operação sem IA: 10 pessoas, R$ 100K gasto/mês, R$ 500K/mês de revenue. Operação com IA: 10 pessoas, R$ 70K gasto/mês, R$ 1.5M/mês de revenue. (Real de cliente que fez retro.)",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O GRANDE LEARNING",
+            "title": "IA não é opção, é sobrevivência",
+            "highlight": "sobrevivência",
+            "body": "Em 18 meses, empresa sem IA vai estar 40% atrás do mercado. Não é \"boa ideia\"—é \"tá fora ou tá morto\".",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "MOVE RÁPIDO",
+            "title": "Implementa IA em TUA empresa AGORA",
+            "highlight": "AGORA",
+            "body": "Segue @rafaondei. Todo dia eu compartilho ferramentas, cases de sucesso, playbooks que funcionam. Tu não pode ficar pra trás.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "EU DMA review + Colorado AI Act: compliance jun/ago 2026",
+      "summary": "EU Digital Markets Act (3 maio) agora cobre IA. Colorado AI Act entra em vigor 30 junho. Ambas exigem risk management, documentation, impact assessment. US-based companies rodando high-risk AI têm deadline 2 agosto pra compliance. Regulação começa a enforcar de verdade em 2026. Compliance custa, mas non-compliance custa mais (fines +5% de revenue).",
+      "source": "Wilson Sonsini / Colorado Attorney General",
+      "link": "https://www.wsgr.com/en/insights/2026-year-in-preview-ai-regulatory-developments-for-companies-to-watch-out-for.html",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "Regulação de IA é REAL agora — Colorado + EU exigem compliance",
+        "caption": "ALERT REGULATÓRIO: Duas deadline CRITICAS em 2026.\n\n1️⃣ Colorado AI Act — 30 de junho:\n→ Afeta high-risk AI systems\n→ Requer risk management policy\n→ Requer impact assessment\n→ Fines: até 5% de revenue\n\n2️⃣ EU DMA + AI Act — 2 de agosto:\n→ Expandido pra IA\n→ High-risk AI = compliance obrigatório\n→ Mais severo que Colorado\n→ Fines: até 5% de revenue global\n\nPra empresa rodando IA nos EUA + Europa:\nTu TEM que fazer compliance até agosto. Não é \"deveria\", é \"se não fizer, leva multa gigante\".\n\nCusto de compliance? R$ 50-200K pra setup. Custo de não fazer? 5% de revenue ANUAL. Se tu ganha R$ 10M/ano, é R$ 500K em fines só em um ano.\n\n#Regulação #IA #Compliance #Legal #Empresa",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "REGULAÇÃO CHEGA FINALMENTE",
+            "title": "Colorado AI Act: compliance obrigatória",
+            "highlight": "obrigatória",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "DATAS CRÍTICAS",
+            "title": "30 jun + 2 ago: deadlines não-negociáveis",
+            "highlight": "30 jun + 2 ago",
+            "body": "Colorado AI Act entra 30 de junho (90 dias). EU AI Act entra 2 de agosto (116 dias). Se tá rodando high-risk AI (facial rec, credit score, hiring, medical), PRECISA de compliance até lá.",
+            "stat": "90 dias",
+            "stat_label": "até Colorado deadline",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE TEM QUE FAZER",
+            "title": "High-risk AI requer documentation",
+            "highlight": "documentation",
+            "body": "Risk management policy (documento). Impact assessment (análise). Bias testing (dados de teste). Transparency report (divulgar que tá usando IA). Tudo documentado e auditável.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "A BOMBA",
+            "title": "Fines: até 5% de revenue ANUAL",
+            "highlight": "5% de revenue",
+            "body": "Não fazer compliance e levar multa? 5% de revenue global. Se tu ganha R$ 100M, é R$ 5M em multa. Uma única multa é game over pra startup.",
+            "stat": "5%",
+            "stat_label": "de revenue em fines",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "ENFORCEMENT",
+            "title": "Quem audita? Governo dos EUA + EU",
+            "highlight": "audita",
+            "body": "Colorado Attorney General + FTC (EUA) + EU Commission (Europa) vão auditar. Se descobrir que tá usando facial rec sem impacto assessment, callback pra corrigir — não fazer = multa.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA TUA EMPRESA",
+            "title": "Budget de compliance: R$ 50-200K",
+            "highlight": "R$ 50-200K",
+            "body": "Advogado (R$ 30K). Audit técnico (R$ 20K). Sistema de documentação (R$ 10K). Mudar código pra remover bias (R$ variável). Worth it? SIM — porque não fazer custa 25x mais.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO",
+            "title": "Compliance é vantagem competitiva agora",
+            "highlight": "vantagem",
+            "body": "Empresa que faz compliance cedo = pode rodar IA hard. Competitor que ignora = vai levar multa + é forçada a parar (business impact). Comply = winning move.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "MOVE HOJE",
+            "title": "Audita TUA IA pra compliance",
+            "highlight": "Audita",
+            "body": "Segue @rafaondei pra updates sobre regulação. Compliance muda quick — tu precisa estar informed.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    }
+  ],
+  "whatsapp": "🔴 RADAR IA — 09 de Maio de 2026\n\n1️⃣ Custos de IA caem 10-100x/ano: US$ 30/Mi em 2023 → <US$ 1 agora. Barreira de entry desapareceu. https://lmcouncil.ai/benchmarks\n\n2️⃣ Claude Agents com 'Dreaming': agentes analisam sessões passadas, melhoram sozinhos, taxa de sucesso sobe. https://9to5mac.com/2026/05/07/anthropic-updates-claude-managed-agents-with-three-new-features/\n\n3️⃣ Sora 2 lançado (Sora original morreu): US$ 15M/dia de loss. Sora 2 = áudio nativo, física correta, grátis. https://openai.com/index/sora-2/\n\n4️⃣ Google Veo 3.1 Lite: -50% custo vs Fast, mesma velocidade. Developer agora roda video em scale. https://developers.googleblog.com/introducing-veo-3-1-and-new-creative-capabilities-in-the-gemini-api/\n\n5️⃣ Llama 4 bate GPT-4o: Meta lançou MoE, open-source vence fechado em 4/4 benchmarks. https://ai.meta.com/blog/llama-4-multimodal-intelligence/\n\n6️⃣ Grok 4.3 + voice agents: 1M tokens context, custom voices, voice agents pra suporte/venda. https://docs.x.ai/developers/models\n\n7️⃣ Anthropic + SpaceX: 300MW, 220K GPUs. Anthropic agora tem compute infinita. Claude 5 em 6 meses. https://www.bloomberg.com/news/articles/2026-05-06/anthropic-inks-computing-deal-with-spacex-to-meet-ai-demand\n\n8️⃣ Cursor vs Windsurf: Cursor domina (context, team), Windsurf cresce 15-25%/mês. Ambas ganham enquanto mercado cresce. https://amitray.com/ai-coding-tools-2026-comparison/\n\n9️⃣ SMBs: 91% ganham revenue com IA, mas só 20% implementou. 2026 = ano de proof-of-value. +20% YoY típico. https://blogs.nvidia.com/blog/state-of-ai-report-2026/\n\n🔟 Regulação vira real: Colorado AI Act (30 jun) + EU DMA (2 ago). Fines até 5% de revenue. Compliance = vantagem competitiva. https://www.wsgr.com/en/insights/2026-year-in-preview-ai-regulatory-developments-for-companies-to-watch-out-for.html\n\n📊 Dashboard completo: https://rafaelondei.appnaia.com",
+  "instagram": "🔥 RADAR IA — 09 de Maio\n\nOs 10 maiores movimentos do mercado de IA NOS ÚLTIMOS 2 DIAS:\n\n1. IA VIROU COMMODITY: custos caíram 30x (era US$ 30/M, agora <US$ 1). Barreira de entry? Evaporou. Seus concorrentes já entraram.\n\n2. CLAUDE AGENTS AUTO-MELHORAM: novo feature 'Dreaming' = agentes analisam passado, encontram padrões, melhoram sozinhos. Automação que aprende.\n\n3. SORA MORREU, SORA 2 NASCEU: original era US$ 15M/dia de prejuízo. Sora 2 = áudio nativo, física real, grátis. Video generation virou commodity.\n\n4. GOOGLE CORTA VÍDEO EM 50%: Veo 3.1 Lite sai por metade do preço. Developer agora roda video em escala. Startup economiza R$ 5K/mês.\n\n5. LLAMA 4 VENCE GPT-4o: Meta lançou modelo open-source que ganha em coding, reasoning, image, multilingual. Game over pro closed-source.\n\n6. GROK TEM VOICE AGENTS: 1M tokens de context, custom voice (clona a sua), latência <200ms. Suporte em voice que REALMENTE resolve.\n\n7. ANTHROPIC × SPACEX: 300MW de compute, 220K GPUs. Anthropic agora tem scale infinita. Claude 5 em 6 meses, game over pra OpenAI.\n\n8. CURSOR AINDA REINA, WINDSURF SOBE: AI coding é 50% da Fortune 500 agora. Cursor tem vantagem técnica mas Windsurf cresce 15-25%/mês.\n\n9. 91% DAS SMBs GANHAM REVENUE COM IA: implementou = +20% YoY típico. Mas só 20% implementou ainda. 2026 = ano do proof-of-value. Quem não entra agora, fica pra trás em 18 meses.\n\n10. REGULAÇÃO VIRA REAL: Colorado (30 jun) + EU (2 ago) exigem compliance pra high-risk AI. Fines = 5% de revenue. Mais barato fazer compliance (R$ 100K) do que levar multa (R$ 5M+).\n\n━━━━━━━━━━━━━━━━━━━━━━━━\n🚀 O PADRÃO: custo cai 10-100x/ano, open-source vence closed-source, agents viram commodity, regulação enforça.\n\n👉 Seu move: implementa IA em 3 meses. Quem esperar fica pra trás.\n\n📊 Dashboard com todos os 10 + carrosséis prontos: https://rafaelondei.appnaia.com\n\nSegue @rafaondei pra inteligência competitiva todo dia. Aqui tu pega o radar 48h antes do resto saber.\n\n#IA #InteligenciaArtificial #Claude #OpenAI #ChatGPT #Tecnologia #Empreendedorismo #StartupBrasil #Inovação #Negócios"
+}

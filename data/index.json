@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-05-08T07:00:01-03:00",
+  "updated_at": "2026-05-09T07:00:01-03:00",
   "executions": [
+    {
+      "date": "2026-05-09",
+      "key": "2026-05-09",
+      "topic": "mercado de IA",
+      "summary": "Custos explodem (-30x); Claude auto-aprende; Sora 2 nasceu; Llama 4 vence GPT-4o; Grok voice; SpaceX+Anthropic 300MW; SMBs +91% revenue; regulação jun/ago",
+      "items_count": 10
+    },
     {
       "date": "2026-05-08",
       "key": "2026-05-08",
