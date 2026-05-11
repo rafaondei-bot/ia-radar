@@ -1,0 +1,1030 @@
+{
+  "date": "2026-05-11",
+  "topic": "mercado de IA",
+  "topic_slug": "mercado-ia",
+  "generated_at": "2026-05-11T07:00:01-03:00",
+  "items": [
+    {
+      "title": "Claude Opus 4.7: Novo rei dos modelos de IA em produção",
+      "summary": "Anthropic lançou Claude Opus 4.7 como modelo oficial, com ganhos significativos em tarefas de engenharia de software avançada. Agora integrado em ferramentas de produção como Claude Code, com suporte completo a Microsoft 365. Impacto direto em developers e times de tech.",
+      "source": "Anthropic Blog",
+      "link": "https://www.anthropic.com/news/claude-opus-4-7",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Claude Opus 4.7 chega com performance acima dos concorrentes",
+        "caption": "Claude Opus 4.7 acabou de ficar disponível em produção e já é o modelo mais capaz pra engenharia de software. 🚀 Integrado nativamente no Claude Code, funciona com Excel, Word, PowerPoint e Outlook via add-ins de Microsoft 365. Agents podem sonhar (dreaming feature), rever sessions passadas e se auto-melhorar. Wall Street já tá usando em produção — pitchbooks, KYC, fechamento de mês. Se tu tá rodando IA em produção, esse é o upgrade que faz diferença. Acompanha a thread pra entender o que muda no seu workflow de dev. #IA #Claude #InteligenciaArtificial #Tecnologia #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "NOVO MODELO NO AR",
+            "title": "Claude Opus 4.7 é oficialmente o novo king",
+            "highlight": "novo king",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "PERFORMANCE",
+            "title": "Ganho significativo em code",
+            "highlight": "significativo",
+            "body": "Opus 4.7 vence em tarefas complexas de engenharia de software. A melhoria é concentrada nas coisas DIFÍCEIS — debugging, refatoring, design patterns complexos. É lá que o gap vs Sonnet fica claro.",
+            "stat": "Best-in-class",
+            "stat_label": "em tarefas de software",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "INTEGRAÇÃO",
+            "title": "Funciona nativo com seu workflow",
+            "highlight": "nativo",
+            "body": "Claude Code, Excel, Word, PowerPoint, Outlook — todos conectados. Contexto passa automaticamente entre aplicações. Agents no Cowork, Claude API, Managed Agents. Wall Street tá usando pra gerar pitchbooks, processar KYC, fechar os livros contábeis no fim do mês.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O QUE MUDA",
+            "title": "Seu código fica mais inteligente automaticamente",
+            "highlight": "inteligente",
+            "body": "Agents agora sonham — revisam past sessions, encontram padrões, se auto-melhoram. Significa que seu agent fica MAIS SMART com cada rodada. Não é mais só dumb automation, é digital coworker que aprende. Isso é game-changer pra quem roda operações em AI.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Dreaming: o agente que se auto-aprende",
+            "highlight": "auto-aprende",
+            "body": "Feature chama-se dreaming. O agent analisa seu histórico, vê onde pegou, onde acertou, que padrões repetiam. Usa esses insights pra melhorar a próxima rodada. É como se teu employee assistente fizesse coaching sozinho entre tarefas.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM IMPORTA",
+            "title": "Pra startups de IA e equipes tech",
+            "highlight": "equipes tech",
+            "body": "Se você tá rodando Claude em produção (APIs, Code, Agents), esse upgrade é obrigatório. Dev firms, consultoras de software, startups de agentes — ganham logo. Marketplace de agents vai ficar mais competitivo porque a baseline sobe.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O INSIGHT",
+            "title": "Agentes que aprendem > agentes que só executam",
+            "highlight": "que aprendem",
+            "body": "A revolução não é sobre rodar 100 agentes em paralelo. É sobre agentes que ficam mais bons com tempo. Isso muda a economia das operações de IA. Seu custo operacional CAI porque o agent otimiza sozinho.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva este post e segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Mais análises do radar de IA toda semana. Entender o mercado é vantagem competitiva.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "GPT-5.5 Instant: OpenAI corta alucinações em 52% em áreas críticas",
+      "summary": "OpenAI lançou GPT-5.5 Instant como novo modelo default do ChatGPT, reduzindo alucinações em 52.5% em áreas de alto risco (direito, medicina, finanças) comparado ao GPT-5.3. Modelo mantém latência baixa e é rollout global.",
+      "source": "OpenAI Blog",
+      "link": "https://openai.com/index/gpt-5-5-instant/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "GPT-5.5: OpenAI foca em correção de erros críticos",
+        "caption": "OpenAI atualizou o default model do ChatGPT pra GPT-5.5 Instant. Resultado? 52.5% menos alucinações em direito, medicina e finanças. Isso não é melhoria de beleza, é segurança em produção. Se tu usa LLM pra gerar relatórios, análises ou documentação legal, essa é a notícia que importa. Acompanha a thread. #IA #ChatGPT #InteligenciaArtificial #Tecnologia #Segurança",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "ATUALIZAÇÃO GRANDE",
+            "title": "GPT-5.5: Menos erros em áreas sérias",
+            "highlight": "Menos erros",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "REDUÇÃO REAL",
+            "title": "52.5% menos alucinações",
+            "highlight": "52.5%",
+            "body": "Em prompts de alto risco (medicina, direito, finanças), GPT-5.5 alucinava significativamente menos que o 5.3 anterior. Não é uma margem — é CORTE de mais da metade em áreas onde erro custa dinheiro e saúde.",
+            "stat": "-52.5%",
+            "stat_label": "alucinações em high-stakes",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "CONTEXTO",
+            "title": "Por que isso importa: confiabilidade em produção",
+            "highlight": "em produção",
+            "body": "Antes, usar ChatGPT pra gerar análise legal, prescrição médica ou parecer financeiro era RISCO. Agora o modelo confessa ignorância em vez de inventar. Teu sistema não quebra, teu compliance não falha, teu advogado não fica segurando bag.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDANÇA",
+            "title": "LLMs viraram ferramenta de risco controlado",
+            "highlight": "risco controlado",
+            "body": "Essa é a linha de virada. Antes era 'LLMs são toys, não usa em produção'. Agora é 'LLMs são commodity confiável com guardrails'. O modelo não virou perfeito, mas ficou CALIBRADO pra não explodir quando importa.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONOU",
+            "title": "Fine-tuning em data de alto risco",
+            "highlight": "fine-tuning",
+            "body": "OpenAI treinou intensivo em prompts de direito, medicina, finanças — as áreas que mais alucinavam antes. Modelo aprendeu a dizer 'não sei' em vez de inventar. Latência continua baixa porque otimizaram só a qualidade, não adicionaram overhead.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM GANHA",
+            "title": "Pra quem usa GPT em produção crítica",
+            "highlight": "em produção crítica",
+            "body": "Advogados, médicos, analistas financeiros, contadores — qualquer um que precisa gerar documento que vai ser assinado. Agora pode usar GPT pra draft em vez de temer completamente. Produtividade +50%, stress -70%.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "INSIGHT",
+            "title": "Reduzir alucinações = reduzir risco jurídico",
+            "highlight": "risco jurídico",
+            "body": "A métrica que OpenAI focou não foi accuracy geral, foi 'alucinações em áreas onde erro é responsabilidade legal'. Isso mostra que a indústria entendeu o que importa: não é perfeição, é AUDITABILIDADE.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva e segue @rafaondei pro radar",
+            "highlight": "@rafaondei",
+            "body": "Acompanha atualização semanal do mercado de IA que importa pro seu negócio.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Grok 4.3: Reasoning a US$1.25/Mi tokens — 4x mais barato que antes",
+      "summary": "xAI lançou Grok 4.3 com reasoning built-in, 1M context, e preço revolucionário de US$1.25/M tokens input. Modelo é frontier-quality em raciocínio, #1 em benchmarks legais e corporativos. Grok Imagine API com Quality Mode (imagem), Speech APIs (fala) também lançadas.",
+      "source": "xAI Docs",
+      "link": "https://docs.x.ai/developers/release-notes",
+      "category": "modelo",
+      "recommended": true,
+      "carousel": {
+        "theme": "Grok 4.3: Reasoning barato finalmente é realidade",
+        "caption": "Grok 4.3 saiu hoje com preço que vai EXPLODIR o mercado: US$1.25/M tokens com reasoning built-in. Pra comparar: Claude Opus sai por ~US$15/M input. Voce leu certo — é 12x mais barato. 1M context, vence em CaseLaw v2 e CorpFin benchmarks, reasoning robusto. Isso vai forçar uma guerra de preços BRUTAL. Vem acompanhar a thread porque o mercado tá virando de cabeça para baixo. #IA #Grok #InteligenciaArtificial #Empreendedorismo #Tecnologia",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "🔥 QUEDA DE PREÇOS",
+            "title": "Grok 4.3: Reasoning por US$1.25/M",
+            "highlight": "US$1.25/M",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "BOMBSHELL DE PREÇO",
+            "title": "12x mais barato que Opus",
+            "highlight": "12x",
+            "body": "US$1.25/M tokens vs Claude Opus ~US$15/M. Grok 4.3 traz reasoning (o que Opus vende caro), context gigante (1M tokens), e undercuts o mercado DRASTICAMENTE. Esse não é brinquedo, é frontier-model com preço de commodity.",
+            "stat": "US$ 1.25/M",
+            "stat_label": "Grok 4.3 input tokens",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "CONTEXTO",
+            "title": "Por que Grok consegue fazer isso",
+            "highlight": "consegue",
+            "body": "xAI tem acesso a compute via X (Twitter). Não tem custo de enterprise sales, não tem overhead de suporte massive. Pode fazer guerra de preços. Resultado: reasoning barato finalmente é realidade. Isso força Anthropic e OpenAI a responder URGENTE ou perdem market share.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "GAME OVER",
+            "title": "Era do reasoning premium terminou",
+            "highlight": "terminou",
+            "body": "Reasoning não é mais feature premium que vc paga caro. Virou commodity. Devs e startups agora podem rodar complex reasoning em produção por CENTAVOS. Quem tava esperando pra usar IA em big-ticket problems (legal analysis, coding, research) agora tem luz verde no preço.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "ESPECIFICAÇÕES",
+            "title": "Grok 4.3 é frontier em tudo, preço é commodity",
+            "highlight": "frontier",
+            "body": "1M tokens de contexto, benchmarks #1 em CaseLaw v2 (análise legal domina), CorpFin (documentos corporativos). Vence Claude em certos domínios. Não é fallback barato — é genuinamente bom, feito com compute premium, vendido por preço agressivo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA VOCÊ",
+            "title": "Pra devs, startups de IA, consultoras",
+            "highlight": "startups de IA",
+            "body": "Seu custo de API cai em 10x HOJE. Se você tava batendo teto de spend porque LLM era caro, agora pode escalar reasoning. Pra startup de IA, isso é lucro instantâneo. Pra dev que precisa usar Claude/Opus, você agora tem alternativa séria com preço 1/10.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O INSIGHT",
+            "title": "IA virou realmente commodity em 2026",
+            "highlight": "commodity",
+            "body": "Quando reasoning, a feature mais premium, tá US$1.25/M, quer dizer que IA é utility agora. Preço não é mais fator limitante. Agora o fator é: quem consegue botar agentes pra trabalhar sem perder lucro? Quem tem produto que users pagam? Quem consegue monetizar melhor?",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "SALVA E SEGUE",
+            "title": "Mais radar toda semana em @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Acompanha o mercado de IA em tempo real. Esse tipo de notícia muda sua estratégia em 48h.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Anthropic lança 10 agentes pré-built para Wall Street e financeiro",
+      "summary": "Anthropic anunciou suite de 10 agentes AI pré-construídos para operações financeiras: geração de pitchbooks, screening KYC, fechamento de livros contábeis, processamento de retornos, hipotecas. Agentes já processam bilhões de transações reais em bancos. Disponível em Claude Code e Managed Agents.",
+      "source": "Fortune",
+      "link": "https://fortune.com/2026/05/05/anthropic-wall-street-financial-services-agents/",
+      "category": "aplicação",
+      "recommended": false,
+      "carousel": {
+        "theme": "10 agentes prontos pra Wall Street — bilhões de transações rodam em Claude",
+        "caption": "Anthropic lançou 10 agentes pré-built pra operações financeiras e Wall Street tá USANDO EM PRODUÇÃO HOJE. Pitchbooks automáticos, KYC screening, fechamento contábil, processamento de hipotecas, controle de retornos. Cada agente é especialista em seu domínio, roda de graça via plugin em Claude Code, ou via Managed Agents (production-grade). Os maiores bancos estão rodando esses agentes processando BILHÕES de transações. Pra você que tá pensando em montar agentes, aqui tá a inspiração: Anthropic mostrou como fazer agentes que banks confiam. Vem pela thread. #IA #Agents #FinTech #InteligenciaArtificial",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "WALL STREET JÁ TRATA",
+            "title": "10 agentes prontos pra financeiro",
+            "highlight": "10 agentes",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "ESCALA REAL",
+            "title": "Bilhões de transações rodando",
+            "highlight": "Bilhões",
+            "body": "Esses agentes não são proof-of-concept. Maiores bancos do mundo estão rodando em produção. Pitchbooks, KYC, fechamento de mês, processamento de hipotecas — todas as operações que movem TRILHÕES de dólares estão sendo automatizadas em Claude.",
+            "stat": "Bilhões",
+            "stat_label": "de transações em produção",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "QUAIS SÃO",
+            "title": "Agentes especializados que Wall Street precisa",
+            "highlight": "especializados",
+            "body": "Pitchbook generation (apresentações de investimento), KYC screening (conhecer o cliente), month-end close (contabilidade), mortgage processing (hipotecas), returns handling (devolução de produtos). Cada um é especialista. Rodam em Claude Code como plugins, ou em Managed Agents pra production.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O QUE MUDA",
+            "title": "Agentes prontos é o futuro da automação",
+            "highlight": "prontos",
+            "body": "Você não precisa reinventar. Anthropic mostrou: aqui estão 10 agentes que FUNCIONAM. Copie o padrão, adapte pra seu negócio, coloque em produção. A era de 'agentes custom tudo from scratch' terminou. Agora é template + especialização.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Agentes são plugins em Claude Code ou Managed Agents",
+            "highlight": "plugins",
+            "body": "Você baixa o template, ele vem com prompt system, tools integradas, e workflow pronto. Em Claude Code, é addon que roda na sua sessão. Em Managed Agents, é production-grade: escala, monitoring, fallbacks. Nível enterprise por design.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM IMPORTA",
+            "title": "Pra bancos, fintechs, startups de IA",
+            "highlight": "bancos",
+            "body": "Se você trabalha com financeiro, você tá atrasado se não tiver agentes. Se é dev consultora, agora tem IP (intellectual property) pronto pra oferecer. Se é founder de fintech, tem blueprint de como escalar automação sem tech debt.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LESSON",
+            "title": "Agentes especializados > agentes genéricos",
+            "highlight": "especializados",
+            "body": "A tendência que vai ganhar é SPECIALIZATION. Agente que sabe 100% de domain (KYC, pitchbook, contabilidade) é infinitamente mais útil que agente que sabe 10% de tudo. Antropic provou: especializar em domínio = agente confiável que bancos usam.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "SALVA E SEGUE",
+            "title": "Mais análise toda semana em @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Vem aprender os padrões que Wall Street tá usando em IA.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Sierra raises $950M: IA agents são o bet do VC de 2026",
+      "summary": "Sierra, startup de AI agents para enterprise, levantou US$950M em rodada Series C, atingindo valuation de US$15B. Agentes da Sierra já processam bilhões de interações: hipotecas, seguros, fundraising nonprofits, devoluções. Liderada por Tiger Global e GV.",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "Sierra $950M: VC aposta tudo em agentes de IA para enterprise",
+        "caption": "Sierra levantou US$950M e tá avaliada em US$15B. Pra quem não acompanhou: Sierra faz agentes de IA que lidam com customer service, back-office, e operações. Os agentes já processam BILHÕES de interações reais: hipotecas (banco), apólices (seguros), campanhas (nonprofit fundraising), devoluções (e-commerce). Tiger Global e GV lideraram a rodada. Quer dizer: o VC inteligente tá APOSTANDO PESADO que agentes especializados pra enterprise é o negócio dos próximos 3-5 anos. Se you're building agents, Sierra é a validação de mercado que vc precisa. #IA #Agents #VC #Startups #InteligenciaArtificial",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "🔥 MEGA RODADA",
+            "title": "Sierra levanta US$950M",
+            "highlight": "US$950M",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "ESCALA DO NEGÓCIO",
+            "title": "Valuation: US$ 15 bilhões",
+            "highlight": "US$ 15B",
+            "body": "Uma startup de agentes de IA tá avaliada em QUINZE BILHÕES DE DÓLARES. Não é seed stage, não é growth stage — é MEGA ESCALA. Pra referência, Stripe tá 95B, OpenAI tá 80B. Sierra tá no círculo dos unicórnios de primeira liga.",
+            "stat": "US$ 15B",
+            "stat_label": "valuation pós-rodada",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O PRODUTO",
+            "title": "Agentes que processam bilhões de operações reais",
+            "highlight": "bilhões",
+            "body": "Sierra vende agentes que lidam com customer service complexo e back-office. Hipotecas em banco, apólices em seguros, campanhas de fundraising em nonprofits, processamento de devoluções em e-commerce. Os agentes rodam EM PRODUÇÃO HOJE, processando operações de DINHEIRO REAL.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "SINAL DO MERCADO",
+            "title": "VC colocou US$950M pq agents funcionam",
+            "highlight": "funcionam",
+            "body": "Tiger Global não coloca quase 1 BILHÃO de dólares em bluff. Quando VC inteligente aposta pesado, é porque o mercado tá se movendo. Quer dizer: agentes de IA pra enterprise não é hipótese, é FATO. Alguém tá rodando em produção, processando operações, economizando headcount, gerando ROI.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "MODELO DE NEGÓCIO",
+            "title": "Enterprise paga por agente robusto",
+            "highlight": "robusto",
+            "body": "Sierra não vende tokens de LLM. Vende agentes ESPECIALIZADOS que sabem fazer hipoteca, ou seguro, ou fundraising. Enterprise paga porque agent reduz headcount por 60%, tira erro humano, e processa 24/7. ROI é óbvio — por isso contratam.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "IMPACTO",
+            "title": "Pra startup que quer escalar agent business",
+            "highlight": "escalar",
+            "body": "Se você tá montando agentes pra clientes corporativos, Sierra é PROVA que o mercado tá abrindo carteira. Aqui tá documento que VC acredita. Se você já tem MVP de agent, pode levantar com essa notícia como validação. Mercado de agentes enterprise tá decolando AGORA.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LESSON",
+            "title": "Dinheiro real vai pra quem automatiza operações reais",
+            "highlight": "operações reais",
+            "body": "Não é VC financiando hype. É VC vendo customers reais pagando por agentes que economizam dinheiro. Sierra tá lucrando porque bancos, seguradoras, nonprofits lucram usando agentes. Esse é o ciclo virtuoso que indica fundo de balde.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "SALVA E SEGUE",
+            "title": "Acompanha trends de IA em @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Quando VC coloca bilhão, é hora de prestar atenção.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Apple Intelligence abre pra 3rd-party AI: Claude, Gemini, Grok vão direto",
+      "summary": "Apple anunciou que iOS 27, iPadOS 27 e macOS 27 permitirão usuários escolher entre múltiplos provedores de IA para Apple Intelligence: Claude (Anthropic), Gemini (Google), e outros. Via 'Extensions', usuário seleciona seu provedor preferido. Shift estratégico de lock-in.",
+      "source": "Apple News",
+      "link": "https://developer.apple.com/news/?id=2026-04-apple-intelligence-3party",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "Apple abre Apple Intelligence: 3rd-party AI providers são bem-vindos",
+        "caption": "Apple tá abrindo Apple Intelligence pra outros modelos. Em iOS 27, iPadOS 27 e macOS 27, os usuários vão poder escolher: usar Claude (Anthropic), ou Gemini (Google), ou outro modelo no lugar de tudo Apple. Isso não é brinquedo — é Apple reconhecendo que 'melhor IA' não é feito em Cupertino. Estratégico porque: (1) Apple mantém lock-in do sistema, (2) passa a responsabilidade de IA pra quem sabe, (3) usuarios ganham liberdade. OpenAI provavelmente tá negociando também. Vem acompanhar a thread. #IA #Apple #Claude #InteligenciaArtificial",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "ESTRATÉGICO",
+            "title": "Apple abre portas pra IA externa",
+            "highlight": "abre portas",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "PLAYERS CONFIRMADOS",
+            "title": "Claude e Gemini dentro de Apple",
+            "highlight": "Claude e Gemini",
+            "body": "iOS 27, iPadOS 27, macOS 27 vão permitir seleção de provedor. Confirmado: Claude (Anthropic) e Gemini (Google) vão rodar nativamente. Provavelmente OpenAI negocia. xAI/Grok talvez entre também. Apple Intelligence não é mais Apple-only.",
+            "stat": "3+",
+            "stat_label": "provedores de IA",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "CONTEXTO",
+            "title": "Por que Apple fez isso",
+            "highlight": "fez isso",
+            "body": "Apple sabe que construir LLM world-class leva 5+ anos e bilhões de dólares. Sabe que Anthropic, Google, OpenAI, xAI já têm models que seus usuários (premium, tech-savvy) PREFEREM. Melhor strategy: let users choose, keep ecosystem lock-in via OS/hardware.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDANÇA DE JOGO",
+            "title": "Competição de IA virou mercado aberto",
+            "highlight": "mercado aberto",
+            "body": "Antes: cada empresa queria seu próprio modelo (Apple Intelligence = Apple model). Agora: Apple reconhece que melhor AI não sai de empresa hardware, e abre pra melhor oferta. Isso é DERROTA ESTRATÉGICA de Apple no front de IA — mas vitória pragmática de usuário.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO RODA",
+            "title": "Extensions: seleção no settings",
+            "highlight": "Extensions",
+            "body": "Usuário entra em Settings > Intelligence > IA Provider, escolhe Claude ou Gemini. Quando toca Magic Wand, Rewrite, ou qualquer feature de IA, roda o modelo escolhido. API call transparente, privacidade mantida (Apple não vê o prompt de novo).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PARA QUEM",
+            "title": "Pra Anthropic, Google, OpenAI — mercado massivo",
+            "highlight": "mercado massivo",
+            "body": "Apple tem 2B+ users ativos. Mesmo que 20% escolha Claude em vez de Gemini, é 400M users consumindo Anthropic APIs. Volume de token bills vai EXPLODIR. Anthropic consegue 10x de volume de um dia pro outro.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LESSON",
+            "title": "Hardware não ganhar em IA — talento ganha",
+            "highlight": "talento",
+            "body": "Apple percebeu: você não consegue montar tim de 10k PhDs que ganha de DeepMind, Anthropic, OpenAI. Melhor strategy: controla hardware + OS, deixa talent war com AI/ML pros experts. É Zen mas é real.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "NEXT",
+            "title": "Salva e segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Movimentos estratégicos do mercado toda semana.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Google Gemini em 4M veículos GM: maior deployment de IA em carros",
+      "summary": "Google Gemini foi integrada aos automóveis de General Motors (Cadillac, Chevrolet, Buick, GMC) modelos 2022+. 4 milhões de veículos nos EUA são elegíveis para o update. Representa maior deployment de Gemini no mercado corporativo e transformação de cars em IA-first vehicles.",
+      "source": "GM News",
+      "link": "https://news.gm.com/home.detail.html/Pages/news/us/en/2026/apr/0428-Google-Gemini.html",
+      "category": "aplicação",
+      "recommended": false,
+      "carousel": {
+        "theme": "4M carros GM agora rodam Google Gemini — maior deploy de IA em veículos",
+        "caption": "Google Gemini foi integrada à Cadillac, Chevrolet, Buick, GMC (modelo 2022 em diante). 4 MILHÕES de veículos nos EUA viraram IA-first vehicles de um dia pro outro. Voce pede ao carro 'me mostre rota pro hospital mais próximo' ou 'problema do motor', Gemini tá lá respondendo nativamente. Sem carplay, só direto no infotainment do carro. Isso é maior deployment de IA em mercado consumer corporativo até agora — maior que Siri em iPhones. Thread com detalhes. #IA #Gemini #Carros #InteligenciaArtificial #Tecnologia",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "🚗 EM 4 MILHÕES DE CARROS",
+            "title": "Google Gemini nos veículos GM",
+            "highlight": "Gemini",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "ESCALA MASSIVA",
+            "title": "4M veículos elegíveis pro update",
+            "highlight": "4M",
+            "body": "Cadillac, Chevrolet, Buick, GMC — tudo que é General Motors modelo 2022 em diante. Em um país só (EUA), isso é 4 MILHÕES DE CARROS virando Gemini-powered de um dia pro outro. Maior deployment de IA em mercado corporativo até agora.",
+            "stat": "4 Milhões",
+            "stat_label": "veículos elegíveis",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "NO CARRO",
+            "title": "Gemini roda nativo no infotainment",
+            "highlight": "nativo",
+            "body": "Não é CarPlay. Não é app separada. Gemini tá integrada direto no sistema de infotainment do carro. Usuário fala pro carro, Gemini responde. Navegação, problemas do motor, busca de restaurante — tudo roda no even sem conexão ideal via edge compute.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "TRANSFORMAÇÃO",
+            "title": "Carro virou computador com IA",
+            "highlight": "computador",
+            "body": "Antes, carro era máquina + rádio. Agora é máquina + computador com IA. Você guia o carro conversando com Gemini — sobre rota, mecânica, emergência médica. Google em 4M carros significa que a geração de motoristas que tá nascendo aprende com IA desde o first day.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Voz → Gemini → Ação no carro",
+            "highlight": "Voz",
+            "body": "Usuário: 'Qual é a rota mais rápida pra hospital?' Gemini entende, integra com maps nativo do carro, mostra rota. Ou: 'Tá vazando óleo?' Gemini checka diagnostics do carro, explica. É conversação natural, não menus de texto.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "MERCADO",
+            "title": "Pra Google: 4M usuários daily IA",
+            "highlight": "4M usuários",
+            "body": "Google tá usando GM pra colocar Gemini na rotina diária de 4M drivers. Dados de uso, feedback, opportunity de monetização via car ads, marketplace de serviços. É 4M captive users pra Google aprender do real-world usage.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LESSON",
+            "title": "Hardware partnership é novo moat",
+            "highlight": "partnership",
+            "body": "Google não vende Gemini como modelo. Vende integração. GM não quer lidar com LLM — quer ofertar AI-first experience. Partnership desses dois: Google coloca Gemini como default, GM fica premium vs Tesla. Esse padrão vai se repetir em 100 categorias de hardware.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "SEGUE RADAR",
+            "title": "Mais análise em @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Acompanha deployment de IA em consumer devices.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Meta Llama 4: Primeiro modelo multimodal nativo open-source",
+      "summary": "Meta lançou Llama 4 Scout e Llama 4 Maverick, primeiros modelos abertos nativamente multimodal (texto + imagem + vídeo) com suporte a mixture-of-experts e contexto massivo. Disponível em Hugging Face download direto. Também integrado em WhatsApp, Messenger, Instagram DM.",
+      "source": "Meta AI Blog",
+      "link": "https://ai.meta.com/blog/llama-4-multimodal-intelligence/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Llama 4: Meta lança primeira multimodal aberta verdadeira",
+        "caption": "Meta soltou Llama 4 Scout e Llama 4 Maverick — primeiros modelos open-source que entendem texto, imagem, e vídeo NATIVAMENTE. Não é texto + vision bolted on, é arquitetura desenhada desde o início pra multimodal. Mixture-of-experts, contexto gigante, e tudo rodando open. Você baixa em Hugging Face, roda localmente, fine-tunes pra seu caso. Também tá integrado em WhatsApp, Messenger, Instagram DM — bilhões de users têm Llama 4 de graça sem saber. Thread com detalhes. #IA #Llama #MetaAI #OpenSource #Multimodal",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "OPEN-SOURCE",
+            "title": "Llama 4: Multimodal verdadeiro",
+            "highlight": "verdadeiro",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "CAPACIDADE",
+            "title": "Primeira multimodal open nativa",
+            "highlight": "Primeira",
+            "body": "Llama 4 Scout e Maverick entendem texto, imagem E vídeo desde a arquitetura. Não é hack de 'coloca modelo de visão, coloca modelo de texto'. É pipeline unificado desenhado pra multimodal. Acesso a Hugging Face — você baixa, roda seu hardware, zero vendor lock.",
+            "stat": "3 modalidades",
+            "stat_label": "texto, imagem, vídeo",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "RELEVÂNCIA",
+            "title": "Por que multimodal aberta importa",
+            "highlight": "aberta",
+            "body": "Até agora, multimodal era privilégio de closed models (GPT-4V, Gemini Pro Vision, Claude 3.5). Meta liberou aberto, rodável localmente. Pra devs, pra researchers, pra startups — agora você tem foundation model world-class sem pagar subscription. Isso democratiza multimodal.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "IMPACTO",
+            "title": "Open models viraram parity com closed",
+            "highlight": "parity",
+            "body": "Quando Meta lançou Llama 4, a linha que dividia open e closed ficou BORRIDA. Agora you can build multimodal app in open (Llama 4) com mesmo nível de capability que building in Claude/GPT. Isso muda a economia inteira de AI — você não precisa pagar subscription agora.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "ARQUITETURA",
+            "title": "Mixture-of-experts nativa",
+            "highlight": "MoE",
+            "body": "Llama 4 usa architecture tipo Google's MoE: modelo tem múltiplos 'experts', cada um especialista em tópico. Query ativa só os experts relevantes. Isso reduz compute at inference (mais rápido, mais barato) sem perder capability.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "MERCADO",
+            "title": "Pra developers e startups: freedom de arquitetura",
+            "highlight": "freedom",
+            "body": "Você não precisa rodar Claude API e pagar 15 centavos por 1K tokens. Download Llama 4, roda seu próprio hardware (ou cheap cloud instance), fine-tune pra seu caso. Economia de 90% no longo prazo vs proprietary models.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LESSON",
+            "title": "Open é agora opção viável pra production",
+            "highlight": "production",
+            "body": "Llama 4 era proof que Meta tá serious em open AI. Não é Meta tentando competir com Anthropic/OpenAI em closed models — é Meta oferecendo alternativa open para quem quer independência, e esperando ganhar mindshare.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "SALVA E SEGUE",
+            "title": "Mais radar em @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Open source AI é o futuro. Acompanha.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "AI Agents crescem 327% MoM: 40% de apps corporativas incluem agents",
+      "summary": "Pesquisa de mercado mostra que multi-agent systems cresceram 327% em menos de 4 meses. 40% das aplicações enterprise agora incluem agentes IA (up from <5% em 2025). 80% das empresas em telecom estão deploying agentic AI, retail/CPG em 47%.",
+      "source": "Gartner / Enterprise AI Landscape",
+      "link": "https://www.kai-waehner.de/blog/2026/04/06/enterprise-agentic-ai-landscape-2026-trust-flexibility-and-vendor-lock-in/",
+      "category": "benchmark",
+      "recommended": false,
+      "carousel": {
+        "theme": "Agentes de IA explodem: 327% em 4 meses, 40% de apps enterprise têm agentes",
+        "caption": "Dados do mercado enterprise IA mostram: multi-agent systems cresceram 327% (isso é 3x mais que 3x) em MENOS DE 4 MESES. 40% das aplicações enterprise já rodam agentes IA. Em telecom, 80% das companies tá deploying. Em retail/CPG, 47%. Quer dizer: agentes NÃO SÃO MAIS FUTURE. SÃO PRESENT. Se você não tá planejando agents pro seu negócio, você tá ficando pra trás HOJE, não amanhã. Thread com detalhes. #IA #Agents #Enterprise #Tendências",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "🚀 CRESCIMENTO EXPONENCIAL",
+            "title": "Agentes crescem 327% em 4 meses",
+            "highlight": "327%",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "ADOÇÃO MASSIVA",
+            "title": "40% de apps enterprise têm agentes",
+            "highlight": "40%",
+            "body": "Um terço das aplicações corporativas AGORA rodam agentes IA. Eram menos de 5% há 12 meses. Isso não é roadmap, não é piloto — é PRODUÇÃO. Pra telecom: 80% das companies deploying. Retail/CPG: 47%. Banking: em alta também.",
+            "stat": "40%",
+            "stat_label": "de apps enterprise com agentes",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "SETOR POR SETOR",
+            "title": "Adoção por indústria",
+            "highlight": "indústria",
+            "body": "Telecom 80% (automação de customer support complexo). Retail/CPG 47% (inventory intelligence, customer service, supply chain). Finance em crescimento rápido (back-office, lending decisions). Saúde chegando (appointment scheduling, patient triage). Cada setor tá descobrindo seu use case killer.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "IMPLICAÇÃO",
+            "title": "Agentes viraram infraestrutura, não brinquedo",
+            "highlight": "infraestrutura",
+            "body": "Quando 40% de apps CRITICAS usa algo, virou infraestrutura. Agentes saíram de 'vamos tentar' pra 'como a gente não tinha antes?'. Isso significa: job cuts, salary pressure em baixo skill, reorg em volta de agent workflows. É disruptivo AGORA, não em 5 anos.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "POR QUÊ",
+            "title": "Multi-agent systems > single-agent",
+            "highlight": "Multi-agent",
+            "body": "Agora você não coloca 1 agente faz-tudo. Você orquestra 3-5 agentes especializados. Um pega customer query, outro faz pesquisa, terceiro toma decisão, quarto prepara resposta. Cada um é expert em seu domínio. Isso é 10x mais robusto.",
+            "stat": "327%",
+            "stat_label": "crescimento MoM em multi-agent",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA TI",
+            "title": "Se você tá em corporate, prepare-se",
+            "highlight": "corporate",
+            "body": "Se seu job é high-volume, low-complexity (data entry, customer triage, report generation), um agent vai fazer em 1/100 do tempo. Empresa tá vendo esse ROI e não vai deixar passar. Reskill agora pra lidar com agents, não compete com.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LESSON",
+            "title": "Agentes não é wave do futuro, é onda do presente",
+            "highlight": "presente",
+            "body": "40% de aplicações rodando agents é tipping point. Isso não é adoção early, é mainstream. Daqui a 6 meses vai ser 60%. Daqui a 1 ano vai ser 85%. Curva S de adopção tá bem ali, crescendo agora — você tá no meio da adoção massiva.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "SALVA E SEGUE",
+            "title": "Acompanha trends em @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Mercado de agentes tá se movendo agora.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Meta Muse Spark: Goodbye Llama Open, Hello proprietary IA",
+      "summary": "Meta lançou Muse Spark, novo modelo proprietário liderado pelo Chief AI Officer Alexandr Wang, afastando-se da estratégia open-source de Llama. Meta diz haver 'esperança' de abrir futuras versões, mas Muse Spark é closed. Publishers processam Meta por treinar Llama em material pirata.",
+      "source": "The New Stack",
+      "link": "https://www.newstack.io/meta-abandons-llama-spark/",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "Meta abandona Llama open, lança Muse Spark proprietary — pivot estratégico ou confusão?",
+        "caption": "Meta tá fazendo pivot estratégico: Llama foi open, Muse Spark é proprietary. Alexandr Wang (Chief AI Officer, recém-contratado em dez/2025) tá liderando. Meta diz 'hope to open future versions', mas isso é enrolação — por enquanto, Muse Spark é closed, pago, rodado em Meta infrastructure. Ao mesmo tempo, Meta tá sendo processada por 5 publishers gigantes (Elsevier, Cengage, Hachette, Macmillan, McGraw Hill) alegando que treinou Llama em conteúdo pirata. Quer dizer: Meta saiu de 'open democratizes AI' pra 'AI é vantagem competitiva, mantem fechado'. Thread com o que isso significa. #IA #Meta #Llama #InteligenciaArtificial #OpenSource",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "📍 MUDANÇA ESTRATÉGICA",
+            "title": "Meta abandona Llama open",
+            "highlight": "abandona",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "NOVO MODELO",
+            "title": "Muse Spark: proprietary",
+            "highlight": "proprietary",
+            "body": "Muse Spark é primeiro grande model de Meta liderado por Alexandr Wang (Chief AI Officer, hired 9 meses atrás). Diferente de Llama (open, weights públicos), Muse Spark é closed. Você usa via API Meta, roda em Meta infrastructure, paga por tokens. Não baixa, não fine-tune local.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "CONTEXTO",
+            "title": "Por que Meta pivotou",
+            "highlight": "pivotou",
+            "body": "Meta percebeu que open-source não ganha. Anthropic, OpenAI, Google têm closed models mais capazes. Meta pensa: 'Vamos fazer proprietary, competir direto, manter margem'. Ao mesmo tempo, 5 publishers (Elsevier, Hachette, etc) processam por pirataria — talvez Meta queira se afastar de open pra evitar culpa legal.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "IMPLICAÇÃO",
+            "title": "Open AI não era moda, era strategy",
+            "highlight": "strategy",
+            "body": "Meta tá dizendo: 'Open AI é bom pra marketng, mas não ganha dinheiro e traz risco legal'. Muse Spark é Meta tentando monetizar como Anthropic/OpenAI. Isso é pivô de 180 graus. Não é 'hope to open future versions' — é 'vamos competir fechado'.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "CONTRASTE",
+            "title": "Llama open vs Muse proprietary",
+            "highlight": "contraste",
+            "body": "Llama: weights públicos, você roda, você fine-tunes, você monetiza (com crédito a Meta). Muse: você chama API, Meta roda, Meta tira margem. Economicamente, Muse é 1000x melhor pra Meta. Pra community, Muse é perdição.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "MERCADO",
+            "title": "Pra quem usava Llama: vai migrar pra OpenAI/Claude",
+            "highlight": "migrar",
+            "body": "Se você tava contando com Meta ser open forever, prepare-se. Muse é competidor de Anthropic/OpenAI, não diferente deles. Devs que amavam Llama vão pra Llama proprietary (via cloud) ou OpenAI. Meta tá alienando a community open-source deliberadamente.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LESSON",
+            "title": "Open-source é bom pra evangelize, closed é bom pra lucrar",
+            "highlight": "lucrar",
+            "body": "Meta tá provando que open-source é ferramenta de marketing, não estratégia de negócio. Quando chegou hora de competir e lucrar, Meta fechou. Isso é pragmático mas desonesto — Meta devia dizer 'we're closing Llama' em vez de 'hope to open future versions'.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "SALVA E SEGUE",
+            "title": "Mais análise em @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Movimentos estratégicos do mercado de IA toda semana.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    }
+  ],
+  "whatsapp": "🚀 RADAR IA — 11.MAI.2026\n\n1️⃣ Claude Opus 4.7 em produção — novo king de software engineering. Wall Street usando. Agentes aprendem via dreaming feature.\nhttps://www.anthropic.com/news/claude-opus-4-7\n\n2️⃣ GPT-5.5 Instant default — 52.5% menos alucinações em direito, medicina, finanças. OpenAI foca em segurança high-stakes.\nhttps://openai.com/index/gpt-5-5-instant/\n\n3️⃣ Grok 4.3 por US$1.25/M — 12x mais barato que Opus com reasoning built-in, 1M context. IA virou commodity.\nhttps://docs.x.ai/developers/release-notes\n\n4️⃣ Anthropic lança 10 agentes pré-build — pitchbooks, KYC, contabilidade, hipotecas. Wall Street processa bilhões em produção.\nhttps://fortune.com/2026/05/05/anthropic-wall-street-financial-services-agents/\n\n5️⃣ Sierra raises US$950M — valuação US$15B em agentes enterprise. VC aposta pesado que agents funcionam.\nhttps://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/\n\n6️⃣ Apple abre Intelligence pra 3rd-party IA — Claude, Gemini, Grok vão rodar nativo em iOS 27. Apple abdica da IA própria.\nhttps://developer.apple.com/news/?id=2026-04-apple-intelligence-3party\n\n7️⃣ Google Gemini em 4M carros GM — Cadillac, Chevrolet, Buick, GMC 2022+. Maior deploy de IA em consumer corporativo.\nhttps://news.gm.com/home.detail.html/Pages/news/us/en/2026/apr/0428-Google-Gemini.html\n\n8️⃣ Meta Llama 4 multimodal — primeira aberta nativa (texto+imagem+vídeo). Mixture-of-experts, low-cost inference. Download Hugging Face.\nhttps://ai.meta.com/blog/llama-4-multimodal-intelligence/\n\n9️⃣ Agents crescem 327% MoM — 40% de apps enterprise já tem agentes. Telecom 80%, retail 47%. Agents virou infraestrutura.\nhttps://www.kai-waehner.de/blog/2026/04/06/enterprise-agentic-ai-landscape-2026/\n\n🔟 Meta Muse Spark proprietary — Meta abandona Llama open, lança modelo fechado. Estratégia: compete closed (como OpenAI), não open.\nhttps://www.newstack.io/meta-abandons-llama-spark/\n\n📊 Dashboard completo: https://rafaelondei.appnaia.com",
+  "instagram": "RADAR IA — 11.MAI.2026 🚀\n\nOs 10 movimentos mais importantes do mercado de IA essa semana:\n\n1️⃣ Claude Opus 4.7 é officially o king de software — melhor modelo em tarefas difíceis, agora em produção com \"dreaming\" (agentes que aprendem sozinhos). Wall Street tá rodando. Se tá em IA em produção, esse é seu upgrade.\n\n2️⃣ OpenAI lançou GPT-5.5 Instant —modelo default novo com 52.5% menos alucinações em áreas críticas (medicina, direito, finanças). Segurança passou de 'scary' pra 'confiável'. Relatórios legais agora tem cobertura.\n\n3️⃣ Grok 4.3 exploade com preço: US$1.25/M tokens = 12x MAIS BARATO que Claude Opus. Reasoning em commodity. Essa notícia vai viralizar amanhã entre devs.\n\n4️⃣ Anthropic liberou 10 agentes pré-prontos pros maiores bancos: pitchbooks automáticos, KYC, contabilidade, hipotecas. Banks já processam BILHÕES. Inspiração pra sua startup de agents.\n\n5️⃣ Sierra levanta US$950M a US$15B de valuation — VC colocou 1 bilhão de dólares em agentes de IA pra enterprise. Não é hype, é sinal de mercado que agentes FUNCIONAM.\n\n6️⃣ Apple abre Apple Intelligence pra Claude, Gemini, Grok — usuário escolhe seu modelo favorito em Settings. Apple abdica de fazer IA própria, quer ser o hardware premium.\n\n7️⃣ Google Gemini em 4 MILHÕES de carros GM (Cadillac, Chevrolet, Buick). Maior deploy de IA em consumer corporativo até agora. Seu carro virou computador com IA.\n\n8️⃣ Meta Llama 4 multimodal open — primeira foundation model aberta que entende TEXTO + IMAGEM + VÍDEO nativamente. Você baixa em HugginFace, roda seu hardware, zero vendor lock.\n\n9️⃣ AI Agents crescem 327% em 4 MESES — 40% de apps enterprise AGORA têm agentes. Telecom 80% deploying. Retail 47%. Agents não é future, é PRESENT.\n\n🔟 Meta Muse Spark = pivô estratégico — Meta abandona open-source Llama, lança modelo proprietary fechado. Quer monetizar como OpenAI/Anthropic, não ser comunidade.\n\nMelhor notícia pra viralizar? Grok 4.3 por US$1.25/M — é o gancho de preço que empreendedor BR entende: \"Reasoning agora custa 1/10 de antes\". Isso muda seu projeto de IA de inviável pra viável.\n\nSalva esse post e segue @rafaondei pro radar de IA que importa toda semana. 🚀\n\n#IA #InteligenciaArtificial #Claude #OpenAI #ChatGPT #Grok #Agents #Tecnologia #Empreendedorismo #Startup"
+}

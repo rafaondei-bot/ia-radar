@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-05-09T07:00:01-03:00",
+  "updated_at": "2026-05-11T07:00:01-03:00",
   "executions": [
+    {
+      "date": "2026-05-11",
+      "key": "2026-05-11",
+      "topic": "mercado de IA",
+      "summary": "Claude Opus 4.7 em produção; GPT-5.5 -52% alucinações; Grok 4.3 por US$1.25/M (12x cheaper); Anthropic 10 agentes Wall Street; Sierra $950M $15B; Apple opens Intelligence 3rd-party; Gemini 4M GM cars; Llama 4 multimodal; Agents +327% MoM; Meta Muse proprietary",
+      "items_count": 10
+    },
     {
       "date": "2026-05-09",
       "key": "2026-05-09",
