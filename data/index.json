@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-05-11T07:00:01-03:00",
+  "updated_at": "2026-05-12T07:00:01-03:00",
   "executions": [
+    {
+      "date": "2026-05-12",
+      "key": "2026-05-12",
+      "topic": "mercado de IA",
+      "summary": "Custos IA caem 67% YoY (-93% GPT-4o desde 2024); Grok Computer controla desktop; GPT-5.5 -52.5% alucinações; Anthropic Orbit lançado; Claude Financial Agents; DeepSeek-V4 open-source frontier-grade; Gemini RAG multimodal; Sora descontinuado (Veo 3.1 + Kling herdam); Microsoft perde exclusividade OpenAI; Llama 4 multimodal compete com GPT-4.5",
+      "items_count": 10
+    },
     {
       "date": "2026-05-11",
       "key": "2026-05-11",

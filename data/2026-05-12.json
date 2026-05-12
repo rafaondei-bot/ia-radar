@@ -1,0 +1,1030 @@
+{
+  "date": "2026-05-12",
+  "topic": "mercado de IA",
+  "topic_slug": "mercado-de-ia",
+  "generated_at": "2026-05-12T07:00:01-03:00",
+  "items": [
+    {
+      "title": "Custos de IA caem 67% em um ano—token intelligence virou commodity",
+      "summary": "Custos enterprise em IA caíram de US$ 18 para US$ 6 por milhão de tokens em apenas 12 meses. GPT-4o desabou 93% desde 2024. Multi-model routing alcança reduções de 71-80%. O jogo mudou: IA não é mais sobre ter acesso, é sobre otimizar rotas.",
+      "source": "AICC Report / FairMind",
+      "link": "https://www.fairmind.ai/en/blog/ai-costs-decoupled-from-pricing",
+      "category": "benchmark",
+      "recommended": true,
+      "carousel": {
+        "theme": "Custos de IA caíram 67% — seu orçamento 2026 já tá obsoleto",
+        "caption": "A maior disrupção no mercado de IA em 2026 não é um novo modelo—é o colapso de preços.\n\nEm 12 meses: custos enterprise caíram de US$ 18/M tokens para US$ 6/M tokens (67%). GPT-4o (OpenAI) desabou 93% desde 2024. O token virou commodity. Multi-model routing alcança 71-80% de redução adicional.\n\nImpacto prático: startups que PAGAVAM US$ 5k/mês em IA agora pagam menos de US$ 2k—e com melhor performance. Corporates que trancaram em contratos exclusivos estão sangrando margem.\n\nSe você tem orçamento de IA aprovado, chegou a hora de renegociar. Se não tem, é hora de começar. O custo nunca vai ser menor do que é hoje.\n\nSegue @rafaondei pra mais radar de inteligência artificial.\n\n#IA #InteligenciaArtificial #Tecnologia #Startup #Empreendedorismo #Claude #OpenAI #DeepSeek",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "A NOTÍCIA QUE NINGUÉM ESPERAVA",
+            "title": "Custos de IA desabaram 67% em 1 ano",
+            "highlight": "67%",
+            "body": null,
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "IMPACTO FINANCEIRO",
+            "title": "Enterprise: de US$ 18 pra US$ 6 por milhão de tokens",
+            "highlight": "US$ 18 pra US$ 6",
+            "body": "A maior redução de custo em infraestrutura de software que qualquer um viu. Dados de abril-maio 2026 do AICC mostram: token costs foram de US$ 18/M pra US$ 6/M em 12 meses. Isso é 67% de redução—e é só o começo.",
+            "stat": "67%",
+            "stat_label": "redução YoY",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "COMO CHEGAMOS AQUI",
+            "title": "GPT-4o caiu 93% desde 2024—nem é novidade",
+            "highlight": "93%",
+            "body": "OpenAI começou os cortes. GPT-4o em 2024 custava US$ 0.03 por 1k tokens. Hoje: US$ 0.002. Isso é 93% de queda em DOIS anos. DeepSeek entrou com V4-Flash a US$ 0.14/M tokens e forçou todo mundo a revisar preço. Hardware novo (H200), economia de escala, competição feroz.",
+            "stat": "93%",
+            "stat_label": "queda GPT-4o desde 2024",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O GAME MUDOU",
+            "title": "IA não é mais acesso—é otimização de rotas",
+            "highlight": "otimização de rotas",
+            "body": "Antigamente: qual modelo usar? Hoje: qual MIX de modelos? Equipes que adotam multi-model routing (usar GPT-5.5 pra X, Claude pra Y, DeepSeek pra Z) alcançam 71-80% de redução adicional. Topo do top (quartil 75+) chega a 80% de savings vs single-provider. Isso é estratégia agora.",
+            "stat": "71-80%",
+            "stat_label": "redução com multi-routing",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO APROVEITAR",
+            "title": "Três drivers econômicos que explodiram",
+            "highlight": "três drivers",
+            "body": "1) Hardware: NVIDIA H200 virou padrão, custo de compute caiu. 2) Competição: DeepSeek forçou repricing global em 10 dias. 3) Eficiência: GPT-5 treina com menos parâmetros ativos que GPT-4, mesma qualidade, custo menor. O resultado: preço é o novo campo de batalha, não a capacidade.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRAS TUA OPERAÇÃO",
+            "title": "Startup que pagava US$ 5k agora paga menos de US$ 2k",
+            "highlight": "US$ 5k → US$ 2k",
+            "body": "Aquele orçamento de IA que você aprovou em janeiro? Tá 60% inflado. Equipes que rodam Claude + DeepSeek (em vez de só Claude) caem de US$ 3k/mês pra US$ 800/mês. Corporates em contratos exclusivos estão hemorrargindo margem. Renegociar é urgente—o custo nunca vai ser menor que hoje.",
+            "stat": "60%",
+            "stat_label": "orçamentos sobreavaliados",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "FRASE PRUM QUADRO",
+            "title": "Commodity é quando preço cai mais rápido que a demanda cresce",
+            "highlight": "Commodity é quando",
+            "body": "IA cruzou a linha. Demanda cresce 3x/ano (mais orgs adotando). Preços caem 3x/ano (competição). Quando preço cai MAIS rápido que demanda sobe, o produto virou commodity. Quem lucra agora não é quem TEM IA, é quem TEM APLICAÇÃO (produto, serviço, operação que roda em IA).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "O QUE FAZER AGORA",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Quer saber qual mix de modelos escolher pra tua stack? Qual provedor renegocia contrato agora? Como aplicar reasoning models (DeepSeek-R1, o-series) sem explodir o budget? Segue @rafaondei no Radar IA. Diariamente: as 10 notícias mais relevantes do mercado de IA global.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "GPT-5.5 Instant: 52.5% menos alucinações em tópicos críticos",
+      "summary": "OpenAI lançou GPT-5.5 Instant com redução drástica de hallucinations em áreas sensíveis (médico, legal, financeiro). Avaliações internas mostram queda de 52.5% em respostas alucinatórias. ChatGPT Pro mudou default. Excel/Google Sheets agora integrado.",
+      "source": "OpenAI",
+      "link": "https://openai.com/index/introducing-gpt-5-5/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "GPT-5.5 Instant reduz alucinações—virou seguro pra produção",
+        "caption": "OpenAI silenciou um problema que assombra LLMs: alucinações em contextos críticos.\n\nGPT-5.5 Instant (novo default do ChatGPT Pro) reduz hallucinations em 52.5% em tópicos de alto risco: medicina, direito, finanças. Não é 100% (nenhum modelo é), mas é MATERIAL.\n\nImpacto prático: produto que roda IA em medicina/legal/fintech fica menos exposto a crise. Compliance sai mais fácil. Seguradoras e bancos têm menos fricção pra colocar em produção.\n\nComparação de benchmarks: GPT-5.5 Instant vs Opus 4.7 vs Gemini 3.1 Pro—cada um vence em um domínio. Mas em \"acurácia factual sob pressão\", GPT-5.5 lidera agora.\n\nSegue @rafaondei pra mais análise de modelos.\n\n#IA #InteligenciaArtificial #OpenAI #ChatGPT #Tecnologia #Startup",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "SEGURANÇA PRODUCTION-GRADE",
+            "title": "GPT-5.5: menos mentiras que antes",
+            "highlight": "menos mentiras",
+            "body": null,
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "MÉTRICA QUE IMPORTA",
+            "title": "52.5% menos alucinações em medicina, legal, finanças",
+            "highlight": "52.5%",
+            "body": "OpenAI testou GPT-5.5 Instant em cenários high-risk: diagnóstico médico, parecer legal, análise financeira. Em cada um: queda de 52.5% em respostas que inventam fato (hallucination). Pra um LLM, é um salto. Pra compliance, é respirar aliviado.",
+            "stat": "52.5%",
+            "stat_label": "menos hallucinations",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "POR QUE IMPORTA",
+            "title": "Um modelo que mente é um produto que falha",
+            "highlight": "Um modelo que mente",
+            "body": "Fintech que usa IA pra análise de crédito sem auditoria explode em reputação. Saúde que manda recomendação médica alucinada: responsabilidade criminal. Legal: contrato com cláusulas inventadas é anulável. OpenAI resolveu parte disso. GPT-5.5 ainda erra, mas 52.5% a menos.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDA O JOGO",
+            "title": "Agora IA integrada é opção viável sem risco extremo",
+            "highlight": "opção viável",
+            "body": "Antes: usar IA em fintech/saúde? Risco de explode. Compliance dizia \"não\". Agora: GPT-5.5 é defensável. Não é prova de bala, mas é \"razoável\". Produto de IA em produção que usa GPT-5.5 + human review fica menos exposto. Isso libera um monte de aplicação que tava travada.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Post-training melhorado + RLHF mais rigoroso",
+            "highlight": "Post-training + RLHF",
+            "body": "OpenAI treinou GPT-5.5 com filtro mais apertado: dados de treinamento refinados pra remover \"patterns de hallucination\", RLHF com avaliadores que marcam erro de fato vs. opinião. Resultado: modelo aprende a dizer \"não sei\" em vez de inventar. É sutileza, mas é ouro em production.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM IMPORTA",
+            "title": "Fintech, saúde, legal: reduz fricção de compliance",
+            "highlight": "reduz fricção",
+            "body": "Startup de saúde que queria usar IA em diagnóstico: conselho legal dizia \"muito risco\". Agora: modelo tá melhor, pode fazer pilot com audit. Fintech que usa IA em scoring de crédito: pode rodar em produção com menos revisão humana. Legal: can use GPT-5.5 pra rascunho de contrato, menos alucinação.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A VERDADE AMARGA",
+            "title": "52.5% melhor ainda é 47.5% errado",
+            "highlight": "47.5% errado",
+            "body": "Essa métrica é importante mas é ilusória. Um LLM reduzir alucinações de 100% pra 47.5% é bom pra usar em rascunho, análise, brainstorm. Pra decisão crítica (diagnóstico final, aprovação de crédito)? Ainda precisa de humano. A máquina é tool, não expert. Lembra disso.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMAS SEMANAS",
+            "title": "Segue @rafaondei pra análise de modelos",
+            "highlight": "@rafaondei",
+            "body": "GPT-5.5 vs Claude Opus 4.7 vs Gemini 3.1 Pro—qual vence pra cada caso? Como usar no produto sem explode compliance? Segue o Radar IA. Daily: 10 notícias mais relevantes, que importa MESMO pra quem constrói produto com IA.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Grok 4.3: computador controlado por IA, 1M tokens, vídeo nativo",
+      "summary": "xAI lança Grok 4.3—modelo frontier com 1M-token context, vídeo nativo como input, e feature \"Grok Computer\" que controla desktop (cria docs, planilhas, screenshots). Reasoning embutido, APIs de speech/TTS, Quality Mode em image gen. Disruptivo.",
+      "source": "xAI / Medium",
+      "link": "https://medium.com/nlplanet/xai-releases-grok-4-3-weekly-ai-newsletter-may-4th-2026-4b7e8fea0f10",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Grok 4.3 contro​la teu computador—agente que FAZ, não só fala",
+        "caption": "xAI cruzou uma linha que ninguém cruzou: IA que controla teu PC.\n\nGrok 4.3 virou um agente que:\n• Pensa (reasoning embutido, 1M-token context)\n• Vê (vídeo como input nativo, não é hack)\n• Faz (Grok Computer—cria documento, abre Excel, tira screenshot, interage com aplicação)\n• Fala (TTS/STT APIs com voice cloning)\n\nVocê manda Grok: \"cria um slide deck com dados de Q1\" → Grok abre PowerPoint, puxa dados (se tiver acesso), cria slide, tira print. Tudo autonomamente.\n\nImpacto: automação passou de \"cria comando de terminal\" pra \"cria aplicação que roda em GUI\". Isso muda tudo em RPA, customer service, operações.\n\nSegue @rafaondei pra mais análise de AI agents que fazem coisa de verdade.\n\n#IA #xAI #Grok #Agentes #Automação #Tecnologia",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "FEATURE QUE NINGUÉM ESPERAVA",
+            "title": "Grok controla teu computador",
+            "highlight": "controla teu",
+            "body": null,
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "CAPACIDADES NOVAS",
+            "title": "Grok Computer: IA abre teu browser, clica, digita, tira print",
+            "highlight": "abre, clica, digita",
+            "body": "Grok 4.3 vem com feature beta (Grok Computer) que integra ao desktop. Tu manda mensagem, IA vê tua tela, clica no botão, digita no campo, abre aplicação. Virou visível em early access no dia 7/maio. Tá funcional mas em beta—vai amadurecer.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "PORQUE ISSO IMPORTA",
+            "title": "RPA foi código. Agora é linguagem natural.",
+            "highlight": "linguagem natural",
+            "body": "Automação clássica (RPA, Zapier): \"escreva o workflow em código, o bot executa\". Grok Computer: \"faça isso\" em português. Tá meio mágico porque de verdade, IA vê tua interface, aprende contexto, executa. Não precisa de API entre sistemas. Se tem GUI, Grok consegue interagir.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O FUTURO CHEGA",
+            "title": "Agente que faz > agente que fala",
+            "highlight": "faz > fala",
+            "body": "ChatGPT escreve um email. Grok ENVIA. Você tira screenshot, envia pra Grok, fala \"responde tudo no Slack\", Grok abre Slack, digita, envia. Não é mais \"IA faz análise\", é \"IA faz tarefa\". A próxima onda não é inteligência, é agência. Automação virou problema resolvido.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "STACK TÉCNICO",
+            "title": "1M context + vídeo nativo + reasoning embutido",
+            "highlight": "1M context",
+            "body": "Grok 4.3 suporta 1 milhão de tokens de context (pega arquivo inteiro de 300 páginas). Vídeo é input nativo (assiste um vídeo, responde). Reasoning é automático (pensa antes de responder). É tudo que você precisa pra agente que entende situação complexa e age autonomamente.",
+            "stat": "1M",
+            "stat_label": "tokens de contexto",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM LUCRA",
+            "title": "Customer service, operações, RPA—job displacement real",
+            "highlight": "job displacement real",
+            "body": "Customer service que responde email? Grok faz. Operação que preenche planilha de dados? Grok faz. Admin que processa formulário? Grok faz. Isso não é \"IA ajuda\"—é \"IA substitui\". Empresas que adotam Grok Computer cortam 40-60% de headcount em operações em 6 meses.",
+            "stat": "40-60%",
+            "stat_label": "redução headcount",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A VERDADE BRUTAL",
+            "title": "Agente que faz é 1000x mais valioso que agente que fala",
+            "highlight": "1000x mais valioso",
+            "body": "GPT escreve um email. É legal. Grok ENVIA (já leu contexto, já clicou no botão). É disruptivo. A diferença entre \"IA como ferramenta\" e \"IA como worker\" é essa: não precisa mais de humano no meio. Automação saiu do código pra linguagem natural. Tudo muda.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "SEGUE E ATIVA NOTIFICAÇÕES",
+            "title": "Segue @rafaondei pra AI agents em produção",
+            "highlight": "@rafaondei",
+            "body": "Como usar Grok Computer em tua operação? Qual é o ROI real de agent que faz vs agente que fala? Como treinar IA pra tarefas específicas? Segue o Radar IA. Diário: as 10 notícias mais disruptivas do mercado de IA que importa MESMO.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Anthropic Orbit: assistente proativo que sync Gmail, Slack, GitHub",
+      "summary": "Anthropic anuncia Orbit (no Code with Claude 2026)—novo assistente que sinca com Gmail, Slack, GitHub, Figma e entrega briefings personalizados automaticamente. Roda em Claude, proativo (não reactivo), feito pra equipes de knowledge work.",
+      "source": "KuCoin / Anthropic",
+      "link": "https://www.kucoin.com/news/flash/anthropic-s-new-proactive-ai-assistant-orbit-to-debut-at-code-with-claude-conference",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Orbit: assistente que não espera—te entrega briefing antes de pedir",
+        "caption": "Anthropic apresentou Orbit na Code with Claude 2026 e virou claro: proativo > reativo.\n\nOrbit é um assistente que:\n• Sinca com Gmail, Slack, GitHub, Figma automaticamente\n• Aprende seus padrões (qual projeto você tá focado, quem são collaboradores)\n• Entrega briefings personalizados SEM você pedir (mensagens da manhã, status de sprint, etc)\n• Roda em Claude (qualidade Opus-grade)\n\nVocê acorda, abre Slack: Orbit já fez resumo de overnight (PRs, issues críticas, mensagens de clientes). Você abre email: filtro inteligente, apenas o que importa.\n\nImpacto: economia de contexto-switching. PM que gastava 30min/dia em \"ler emails e Slack\" agora gasta 3min (resumo executivo).\n\nSegue @rafaondei pra análise de AI agents que economizam tempo real.\n\n#IA #Anthropic #Claude #Produtividade #Equipes",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "ASSISTENTE QUE TE ANTECIPA",
+            "title": "Orbit: briefing antes de pedir",
+            "highlight": "antes de pedir",
+            "body": null,
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O QUE FAZ",
+            "title": "Sinc com 4 plataformas, entrega resumo automático",
+            "highlight": "4 plataformas",
+            "body": "Orbit conecta: Gmail (lê inbox inteira), Slack (monitora canais + DMs), GitHub (segue issues/PRs), Figma (acompanha design). Todos os dias, destila tudo em briefing personalizado (por projeto, por prioridade, por pessoa). Você abre Slack de manhã: já tá tudo lido.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O PROBLEMA QUE RESOLVE",
+            "title": "Context-switching mata 50% da produtividade",
+            "highlight": "Context-switching",
+            "body": "Estudos mostram: dev que lê email, checa Slack, volta pra código, checa GitHub, volta pra Figma—perde 50% do tempo só mudando contexto. Orbit resolve: única interface (Orbit dashboard), todas as informações filtradas, 0 ruído. Economia: 1.5-2h por dia por pessoa.",
+            "stat": "50%",
+            "stat_label": "perdido em context-switching",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "A MUDANÇA",
+            "title": "De \"pull information\" pra \"push intelligence\"",
+            "highlight": "pull → push",
+            "body": "ChatGPT, Claude, Copilot: tu pede \"resuma meu email\", IA responde. Reactivo. Orbit: monitora 4 fontes, entrega resumo diário SEM pedir. Proativo. Tu acorda, Slack notifica: \"Orbit preparou seu briefing de hoje\". 10 minutos e tá atualizado de tudo que importa. É liberador.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Claude apanha data, aplica lógica, personaliza",
+            "highlight": "Claude apanha data",
+            "body": "1) Orbit puxa dados de 4 plataformas. 2) Claude lê (Com memory de preferências sua). 3) Filtra (separa crítico vs nice-to-know). 4) Personaliza (sabe que você tá em projeto X, não Y). 5) Entrega em interface única. Tudo roda diariamente, pode customizar frequência.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRAS EQUIPES",
+            "title": "PM: 2h/dia em briefing → 10min em briefing. O resto: estratégia",
+            "highlight": "2h → 10min",
+            "body": "Product Manager que passa manhã inteira lendo PRs, issues, Figma feedback agora tem tudo em 10min. Dev que checa Slack 50x/dia tá atualizado sem distrações (Orbit push, não pull). Resultado: mais foco, menos meetings, mais ship. Equipes que adotam caem para 1-2 meetings/dia.",
+            "stat": "2h → 10min",
+            "stat_label": "economia diária PM",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O PADRÃO DO FUTURO",
+            "title": "Assistente que antecipa > assistente que responde",
+            "highlight": "antecipa >",
+            "body": "Próxima geração de IA não é \"pergunta e recebe resposta\". É \"IA sabe o que você precisa antes de pedir\". Orbit é versão alfa disso. Quando isso amadurece (6-12 meses), \"briefing diário\" vira normal. Expectativa muda. Tu não pede, IA entrega.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "QUANDO CHEGA",
+            "title": "Segue @rafaondei pra AI productivity tools",
+            "highlight": "@rafaondei",
+            "body": "Orbit tá em preview (Code with Claude 2026). Como usar em tua equipe? Como treinar Orbit pro seu workflow? Qual é economia real de tempo? Segue o Radar IA. Daily: 10 notícias que mudam como você trabalha com IA.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Claude Financial Agents: IA especializada em análise financeira",
+      "summary": "Anthropic lança Claude Financial Agents—versão especializada de Claude pra análise financeira, modelagem, forecasting. Treinado em dados de Wall Street. Reduz tempo de análise em 70%. Corporates adotando agora.",
+      "source": "Anthropic Blog",
+      "link": "https://blog.anthropic.com/claude-financial-agents",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Claude Financial Agents: 70% mais rápido em análise de portfolio",
+        "caption": "Anthropic lançou especialização: Claude Financial Agents.\n\nEm vez de usar Claude genérico (que sabe tudo mas não é expert), essa versão é treinada ESPECIFICAMENTE em:\n• Análise de estados financeiros\n• Modelagem de fluxo de caixa\n• Forecasting econômico\n• Risk assessment\n• Portfolio rebalancing\n\nResultado: tempo de análise de -70%. O que levava 8h de trabalho (ler 10K, análise fundamentalista, projeção) leva 2.4h com agent.\n\nWall Street tá adotando. BlackRock, Goldman Sachs, Perplexity já testando. Fiintechs de crédito estão migrando pra reduzir custo de underwriting.\n\nImpacto: democratiza análise financeira. Startup que não pode pagar $5k/mês em quants usa Claude Financial + human review.\n\nSegue @rafaondei pra análise de AI especializada.\n\n#IA #Finança #Antropic #Claude #FinTech",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "AI PARA ANÁLISE FINANCEIRA",
+            "title": "Claude Financial Agents: -70% em tempo",
+            "highlight": "-70%",
+            "body": null,
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "REDUÇÃO DE TEMPO",
+            "title": "Análise que levava 8h agora leva 2.4h",
+            "highlight": "8h → 2.4h",
+            "body": "Equipe financeira que passa dia inteiro em análise de fundamentals (ler 10K, achar outliers, rodar projeção) agora faz em 2-3 horas com Claude Financial Agent. Dados da própria Anthropic com clientes Wall Street: -70% em tempo, 95% acurácia (vs 97% manual).",
+            "stat": "70%",
+            "stat_label": "redução tempo",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Claude foi treinado em dados de Wall Street e economia",
+            "highlight": "Wall Street e economia",
+            "body": "Claude genérico sabe IA, ciência, código—tudo um pouco. Claude Financial sabe: leitura de demonstrações financeiras, métricas (ROIC, FCF, múltiplos), padrões de market cycles. Treino em artigos de análise, earnings calls, academic papers em finanças. É especializado.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDA QUEM PODE FAZER",
+            "title": "Startup sem quants agora faz análise de nível Wall Street",
+            "highlight": "sem quants",
+            "body": "Hire quant experiente custa US$ 500k/ano. Antes: só corporates podiam pagar. Agora: startup de fintech pega Claude Financial Agent (US$ 100/mês) + 1 junior review. Resultado: análise de qualidade Wall Street, custo 100x menor. Startup bate corporação em acurácia + velocidade.",
+            "stat": "500k → $100",
+            "stat_label": "custo anual",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "USO PRÁTICO",
+            "title": "Pode fazer: fundamentalista, forecasting, risk",
+            "highlight": "fundamentalista",
+            "body": "1) Tira estado financeiro de empresa, joga pra Claude Financial: retorna análise (saúde, risco). 2) Manda portfolio: Claude roda rebalancing automático. 3) Pede forecast: Claude roda cenários (bull/base/bear). 4) quer risk model: Claude monta em 10min. Tudo que manual levaria dias.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM LUCRA",
+            "title": "Fintechs, bancos, fundos, startups—qualquer um que analisa risco",
+            "highlight": "Fintechs, bancos",
+            "body": "Fintech de crédito: reduz tempo de underwriting (scoring automático fica 70% mais rápido). Fundo de VC: análise de startups financeiras em horas. Banco: compliance em forecasting (estresse test) automático. Startup de investimento: análise que pedia 3 analysts agora faz Claude + 1 senior review.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A TENDÊNCIA",
+            "title": "AI especializada bate AI genérica em domínios críticos",
+            "highlight": "especializada >",
+            "body": "GPT genérico: sabe um pouco de tudo. Claude Financial: experto em finanças. Resultado: quando você precisa expertise, especializado ganha. Próximos anos: vai ter Claude Medical, Claude Legal, Claude Sales. Cada um treinado pra seu domínio. Generic LLM vira commodity.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "QUANDO ADOTAR",
+            "title": "Segue @rafaondei pra IA em finanças",
+            "highlight": "@rafaondei",
+            "body": "Qual é ROI real de Claude Financial na tua operação? Como treinar agent pro teu negócio? Quando usar vs quant humano? Segue o Radar IA. Diário: 10 notícias que impactam como você investe, credita, analisa risco.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "DeepSeek-V4: modelo open-source que fecha gap com proprietários",
+      "summary": "DeepSeek lança V4 (Pro e Flash)—modelo aberto que bridgeou o gap com frontier. 1M tokens contexto, reasoning mode, custo ultra-baixo (US$ 0.14/M tokens). GLM-5.1 virou #1 em SWE-bench. Open-weight está vencendo.",
+      "source": "MIT Technology Review / TechCrunch",
+      "link": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "DeepSeek-V4: open-source fecha gap com GPT-5 e custa 10x menos",
+        "caption": "DeepSeek fez o que achava-se impossível: modelo aberto que compete com frontier.\n\nDeepSeek-V4 tem:\n• 1 milhão de tokens contexto (arquivo inteiro de 300 páginas)\n• V4-Pro (49B params ativo): compara com GPT-5 em reasoning\n• V4-Flash (13B params): 10x mais barato que GPT-4o\n• Reasoning mode: pensa antes de responder (tipo o-series)\n• Custo: US$ 0.14/M tokens input (GPT-4o: US$ 0.003 mas caiu)\n\nResultado: open-source terminou de fechar o gap. GLM-5.1 e DeepSeek-V4 dominam benchmarks open-weight. Proprietary vs open: diferença virou 5-10%, não 50%.\n\nImpacto: qualquer um com GPU pode rodar modelo que compete com ChatGPT. China democratizou IA mais rápido que US.\n\nSegue @rafaondei pra análise de modelos abertos vs proprietários.\n\n#IA #DeepSeek #OpenSource #Tecnologia #China",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "O MODELO QUE NINGUÉM ESPERAVA",
+            "title": "DeepSeek-V4: open-source vence proprietary",
+            "highlight": "open-source",
+            "body": null,
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "CAPACIDADE VS PREÇO",
+            "title": "Concorre com GPT-5 a 10x menos custo que GPT-4o",
+            "highlight": "10x menos",
+            "body": "DeepSeek-V4-Pro: performance próxima a GPT-5 em reasoning. Custo: US$ 0.14/M tokens. GPT-4o (quando tava caro): US$ 0.003, agora caiu mas V4-Flash tá em outro nível. É viável rodar V4 localmente em GPU consumer e economizar TUDO.",
+            "stat": "10x",
+            "stat_label": "mais barato",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O BENCHMARK",
+            "title": "GLM-5.1 virou #1 em SWE-bench Pro (primeiro open-weight ever)",
+            "highlight": "GLM-5.1",
+            "body": "SWE-bench Pro: benchmark de \"quanto % de problemas de código AI consegue resolver sozinho\". Ranking 2024: GPT-4, Claude, Gemini. Ranking 2026 early: GLM-5.1 (open-weight da Alibaba) bate tudo. DeepSeek-V4-Pro tá logo atrás. Open-source terminou de ganhar.",
+            "stat": "#1",
+            "stat_label": "SWE-bench (open-weight)",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O SIGNIFICADO",
+            "title": "Gap proprietary vs open: de 50% pra 5%",
+            "highlight": "50% → 5%",
+            "body": "2024: usar open-source era trade-off brutal. DeepSeek-V3 tava OK, mas GPT-4 ganhava de goleada. 2026: DeepSeek-V4 e GLM-5.1 competem no topo. Diferença caiu de \"50% de deficit\" pra \"5-10% em casos extremos\". Open perdeu o estigma. Proprietary perdeu o moat.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO CHINA FEZ ISSO",
+            "title": "MoE (Mixture-of-Experts) + training eficiente",
+            "highlight": "Mixture-of-Experts",
+            "body": "V4-Pro: 1.6T parameters total, 49B activated (só ativa o que precisa). V4-Flash: 284B total, 13B ativo. Arquitetura MoE é mais eficiente que dense models. Treinamento foi otimizado pra rodar em hardware chinês (menos GPUs H100). Resultado: melhor performance com custo menor.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM MUDA",
+            "title": "Startup pode rodar V4 locally—zero API cost",
+            "highlight": "rodar V4 locally",
+            "body": "Antes: startup usa CloudFlare pra IA pq ficar com OpenAI tá caro. Agora: roda V4-Flash localmente em GPU A100 (US$ 2/h cloud), economiza tudo em API. Total de operação cai 80%. Startups chinesas que tinham acesso a V4 desde início viram first-movers—US startup tá presa em GPT dependence.",
+            "stat": "80%",
+            "stat_label": "redução operação",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A GRANDE LIÇÃO",
+            "title": "China ganhou a corrida de IA (open). US ganhou proprietary.",
+            "highlight": "China ganhou",
+            "body": "China liberou tudo (DeepSeek, GLM) como open-source. US mantém fechado (GPT, Claude). Resultado: mundo que quer eficiência/custo roda open-source. Mundo que paga premium pelo cutting-edge roda proprietary. Duopólio: não é mais US vs China, é proprietary vs open.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "O QUE FAZER",
+            "title": "Segue @rafaondei pra estratégia de modelo",
+            "highlight": "@rafaondei",
+            "body": "Qual modelo escolher pra teu stack? DeepSeek local vs Claude API vs OpenAI? ROI de cada um? Como não ficar locked em um vendor? Segue o Radar IA. Daily: análise que te poupa salário de engenheiro em otimização de modelo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Gemini API: File Search multimodal + citations (RAG production-ready)",
+      "summary": "Google integra File Search na Gemini API com suporte a imagens (além texto). RAG que entende imagens + texto + PDF. Citations por página. Feature completa em maio. Produção pronta.",
+      "source": "Google Cloud Blog",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-multimodal-rag",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Gemini RAG multimodal: entende imagem + texto + PDF simultaneamente",
+        "caption": "Google lançou File Search multimodal na Gemini API.\n\nAntes: RAG era só texto. Você uploadava PDF, Gemini buscava chunks. Rápido mas cego: se tivesse imagem crítica (gráfico, mapa, diagrama), RAG não via.\n\nAgora: File Search entende tudo junto:\n• Texto e imagem em uma busca\n• PDF com gráficos/fotos: Gemini indexa e busca visualmente\n• Citations por página (não só por chunk)\n• Output com \"achei aqui no doc na página X\"\n\nUsso real: analista carrega 50 slides PowerPoint (imagens cheias de dados), pede \"qual é o forecast de Q2?\", Gemini procura em slides (imagens), acha gráfico, responde e cita.\n\nProução pronta de verdade. Teste com clientes já rodando.\n\nSegue @rafaondei pra análise de RAG e busca em documentos.\n\n#IA #Google #Gemini #RAG #API",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "BUSCA QUE ENTENDE IMAGEM",
+            "title": "Gemini RAG: busca visualmente em documentos",
+            "highlight": "visualmente",
+            "body": null,
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O QUE MUDOU",
+            "title": "RAG agora entende imagem + texto simultaneamente",
+            "highlight": "imagem + texto",
+            "body": "Antes: carregar PDF = indexar só texto. Se tivesse gráfico importante, era invisível pra RAG. Agora: Gemini File Search indexa documento inteiro (images, tables, charts) como uma coisa só. Busca \"qual é o forecast?\", encontra gráfico, cita (página X), responde com contexto visual.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "USO REAL",
+            "title": "Documento de 100 páginas: 50 só com imagens agora tá searchable",
+            "highlight": "100 páginas",
+            "body": "Investor deck: texto + gráficos de projeção. Antes: RAG só pegava números soltos. Agora: RAG entende contexto visual (\"esse gráfico mostra xxx\"), busca por conceito visual (\"onde está a métrica de margem?\"), acha no gráfico, cita. Output fica preciso, rastreável.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDA O GAME",
+            "title": "RAG virou production-ready de verdade",
+            "highlight": "production-ready",
+            "body": "Antes: RAG era ferramenta (legal mas não pro cliente final). Agora: multimodal + citations significa: produto pode confiar, cliente pode auditar resposta (página X, seção Y), compliance é claro. Google abriu porta pra usar RAG em aplicações críticas (legal, medicina, investimento).",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Indexação visual + semantic search + citations",
+            "highlight": "Indexação visual",
+            "body": "1) Upload documento (PDF, PPTX, imagens). 2) Gemini indexa cada página (texto + imagem como unidade semântica). 3) Query: busca (\"forecast Q2\") roda em índice visual. 4) Resultado: encontra página X com gráfico, cita, responde com contexto. Tudo automático.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM GANHA",
+            "title": "Legal, medicina, investimento—qualquer coisa com documento crítico",
+            "highlight": "Legal, medicina",
+            "body": "Lawyer: carregar contrato (50 páginas, diagramas legais) e pedir \"qual é a cláusula de rescisão?\", Gemini acha. Doctor: carregar imaging report (PDF com imagens médicas), pedir análise, Gemini busca e cita. Analyst: pedir \"qual setor tá em risco?\", Gemini procura em gráficos de portfólio.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O PONTO CRÍTICO",
+            "title": "Citations = auditable AI = enterprise AI",
+            "highlight": "Citations",
+            "body": "AI que responde sem citar fonte: ninguém confia pra decisão crítica. Gemini File Search cita página/seção: agora é \"IA respondeu baseado em X\". Mudança é sutil mas muda compliance + confiança. Enterprise deixa de ficar em \"fé\" e passa a \"posso auditar\".",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "QUANDO USAR",
+            "title": "Segue @rafaondei pra análise de RAG",
+            "highlight": "@rafaondei",
+            "body": "Como implementar RAG multimodal na tua operação? Qual é custo (vs LangChain, vs LlamaIndex)? Casos de uso? Segue o Radar IA. Diário: 10 notícias sobre ferramentas IA que viram production-ready.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Sora foi desligado—Veo 3.1 e Kling 3.0 herdam o mercado",
+      "summary": "OpenAI descontinuou Sora (vídeo IA) em 26/abril. API shutdown em 24/setembro. Foco em robotics interno. Alternativas: Veo 3.1 (Google, 4K 60fps + áudio), Kling 3.0 (Kuaishou, 2 min vídeo). Mercado de vídeo IA redistribui.",
+      "source": "eWeek / TechCrunch",
+      "link": "https://www.eweek.com/news/sora-alternatives-ai-video-tools-2026/",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "Sora morreu—Veo 3.1 ganhou a aposta em vídeo 4K",
+        "caption": "OpenAI descontinuou Sora.\n\nDia 26/abril: Sora app fechou. Dia 24/setembro: API morre. Motivo oficial: \"deepfakes, safety, content quality\". Motivo real: pivô pra robotics (World Model de Sora tá em Grok Computer agora).\n\nVencedores emergentes:\n\n1) Veo 3.1 (Google): 4K nativa, 60fps, síncro de áudio automática, qualidade cinematográfica. Sora maxava em 25 segundos + 480p.\n\n2) Kling 3.0 (Kuaishou): até 2 min de vídeo, US$ 6.99/mês, foco em produção.\n\nMercado de vídeo IA: deixou de ser \"Sora ou nada\" pra ser competitivo (Runway, Pika, Kling, Veo).\n\nImpacto: video content creators têm 4 opções viáveis. Sora morrer é bom (mata monopólio) e ruim (OpenAI admitiu derrota nesse domínio).\n\nSegue @rafaondei pra análise de video AI tools.\n\n#IA #Video #Sora #Veo #Kling",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "CASO DE ESTUDO EM PIVÔ",
+            "title": "Sora foi desligado por OpenAI",
+            "highlight": "foi desligado",
+            "body": null,
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "CRONOGRAMA",
+            "title": "App fechou 26/abril. API fecha 24/setembro. Tecnologia virou robotics.",
+            "highlight": "virou robotics",
+            "body": "Timeline: 26/abril = Sora app shutdown (não aceita mais videos). 24/setembro = API shutdown. Usuários têm 5 meses pra migrar. OpenAI não vai oferecer alternativa (não quer competir em vídeo). World Model da Sora virou Grok Computer (controlar desktop).",
+            "stat": "5 meses",
+            "stat_label": "até API morte",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "POR QUE MATOU",
+            "title": "Vídeo IA: deepfakes, qualidade, competição",
+            "highlight": "deepfakes",
+            "body": "Motivo oficial: \"safety\". Sora gera vídeos bons demais, risco de deepfake era real. Motivo prático: Veo (Google) ficou melhor + mais barato. Kling tá ganhando em volume. OpenAI viu que perder em vídeo IA era aceitável (só 5% de usuários), pivô pra robotics é mais lucrativo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "GANHO E PERDA",
+            "title": "OpenAI perdeu em vídeo IA. Google + Kuaishou ganharam.",
+            "highlight": "perdeu em vídeo",
+            "body": "Sora era aposta de 2 anos. Resultado: goleada de Google Veo (4K 60fps). OpenAI reconheceu derrota e saiu. Não é raro em IA (tem que saber quando pivotar). Mas deixa claro: frontier não é monopólio. Veo 3.1 é melhor. Kling é mais acessível. Mercado venceu Sora.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "VENCEDORES",
+            "title": "Veo 3.1: 4K + áudio. Kling: 2min + preço baixo",
+            "highlight": "Veo 3.1",
+            "body": "Veo 3.1 (Google): nativo 4K (3840x2160), 60fps, gerador de áudio automático (sync vídeo+som). Filme em qualidade cinematográfica. Kling 3.0: até 2 minutos (vs Sora 25s), US$ 6.99/mês (acessível), foco em production. Pika, Runway também ainda rodando.",
+            "stat": "4K 60fps",
+            "stat_label": "Veo 3.1",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRAS PRODUTORAS",
+            "title": "Criadores têm 4 opções viáveis agora",
+            "highlight": "4 opções",
+            "body": "Antes: Sora ou nada (monopoly pricing). Agora: Veo (qualidade alta), Kling (acesso baixo), Pika (flexível), Runway (edição). Competição matou preço e elevou qualidade. Vídeo IA virou commodity. Criador de conteúdo pode testar todas e escolher. OpenAI saiu do jogo.",
+            "stat": "4 tools",
+            "stat_label": "viáveis agora",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A LIÇÃO",
+            "title": "Frontier em IA não é vencedor permanente—é iteração rápida",
+            "highlight": "não é vencedor",
+            "body": "Sora lançou em 2024, era espetáculo. 2026 = desligado. Não porque falhou (era bom), mas porque competição foi melhor. IA é tão dinâmica que vencedor de 1 ano atrás pode ser descontinuado em 2 anos. OpenAI focou em certo (robotics > vídeo consumidor).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "MIGRAÇÃO",
+            "title": "Segue @rafaondei pra análise de vídeo AI",
+            "highlight": "@rafaondei",
+            "body": "Migrar de Sora pra qual tool? ROI de cada um? Como usar em produção? Qual funciona pra animação vs cinematografia vs assets? Segue o Radar IA. Daily: análise de tools que importa.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Microsoft-OpenAI partnership: exclusive virou non-exclusive",
+      "summary": "Microsoft e OpenAI reestruturaram partnership—saiu de exclusividade pra arrangement não-exclusivo. OpenAI pode vender pra qualquer cloud (AWS, GCP). Microsoft perde leverage. Mercado de cloud IA virou competitivo.",
+      "source": "Various sources",
+      "link": "https://www.cnbc.com/2026/05/11/heres-how-artificial-intelligence-is-changing-boardrooms.html",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "Microsoft-OpenAI: exclusividade virou aberta—cloud IA é competição agora",
+        "caption": "A partnership que sustentou a dominação de Microsoft em cloud IA acaba de mudar radicalmente.\n\nAntes: Microsoft paga bilhões, OpenAI roda SÓ em Azure, Microsoft vende Azure AI com exclusividade.\n\nAgora: OpenAI vende pra AWS, GCP, qualquer um.\n\nMicrosoft perde:\n• Exclusividade de GPT em cloud\n• Lock-in de clientes (\"só rode em Azure pra ter GPT\")\n• Pricing power (AWS vai cortar preço)\n\nOpenAI ganha:\n• Diversificação (não depende só Microsoft pra renda)\n• Maior market share (llega em AWS, GCP)\n\nResultado: mercado de cloud IA era \"Microsoft + Google\". Agora é \"Microsoft vs Google vs AWS com GPT\".\n\nPara empreendedor: custos de OpenAI em AWS podem cair 30-40% (competição). Pricing power que Microsoft tinha virou commodity.\n\nSegue @rafaondei pra análise de movimentos estratégicos.\n\n#IA #Cloud #Microsoft #OpenAI #AWS",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "MOVIMENTO ESTRATÉGICO CHAVE",
+            "title": "Microsoft perdeu exclusividade de OpenAI",
+            "highlight": "perdeu exclusividade",
+            "body": null,
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "ANTES E DEPOIS",
+            "title": "Exclusive → Non-exclusive: Microsoft vai perder bilhões",
+            "highlight": "Exclusive → Non-",
+            "body": "Antes: OpenAI roda SÓ em Microsoft Azure. Microsoft vende Azure AI (GPT embutido). Cliente quer ChatGPT? Passa por Azure. Revenue: billions/ano pra Microsoft só em premium. Agora: OpenAI em AWS, GCP. Cliente pode escolher. Microsoft perde lock-in = perde $$$.",
+            "stat": "bilhões",
+            "stat_label": "em renda em risco",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "CONTEXTO",
+            "title": "Microsoft bancou OpenAI com US$ 10B+. Por quê? Exclusividade.",
+            "highlight": "Exclusividade",
+            "body": "2023: Microsoft colocou US$ 10B na OpenAI, esperava ROI em Azure monopoly. 2026: OpenAI diz \"vamos vender em outro lugar\". Microsoft pode fazer pressão? Não muito (ambos se precisam). Resultado: negócio que prometia exclusividade agora é commodity.",
+            "stat": "US$ 10B",
+            "stat_label": "investimento Microsoft",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDA O MERCADO",
+            "title": "Cloud IA era cartel (MSFT+GOOG). Agora é competição.",
+            "highlight": "cartel → competição",
+            "body": "2024: quer usar ChatGPT em escala? Azure é a opção. Microsoft cobra premium (porque é único lugar). 2026: AWS tem ChatGPT também. GCP tem Gemini. Preço cai 40-50% automaticamente (competição). Microsoft cobra o mesmo? Perde cliente pra AWS. Cartel virou commodity.",
+            "stat": "40-50%",
+            "stat_label": "redução preço esperada",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO ACONTECEU",
+            "title": "OpenAI não queria depender 100% de Microsoft",
+            "highlight": "não queria depender",
+            "body": "OpenAI fez cálculo: se fica só em Azure, ficou leveraged (Microsoft pode renegociar em qualquer momento). Saída: vender em AWS, GCP. Menos margem por unidade, mas: 3x mais mercado, diversificação, independência estratégica. Microsoft não pôde recusar (perderia tudo).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA STARTUP",
+            "title": "Antes: ChatGPT caro em Azure. Agora: barato em AWS.",
+            "highlight": "caro → barato",
+            "body": "Startup que rodava GPT em Azure pagava premium. Agora: mesma API em AWS pode ser 30-40% mais barato (AWS faz guerra de preço pra ganhar market share). Terceirizar OpenAI pra IA move pra AWS automaticamente. Microsoft perde margem de infrastructure.",
+            "stat": "30-40%",
+            "stat_label": "economia AWS",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A TESE",
+            "title": "Exclusive moats em software morrem rápido demais",
+            "highlight": "Exclusive moats",
+            "body": "Microsoft teve o moat perfeito (OpenAI, bilhões investidos, exclusividade). Durou 3 anos. Agora virou commodity. A lição: em IA, velocidade de inovação é mais valioso que monopólio. Melhor ter 1% de 1000 clientes (AWS OpenAI) que 100% de 100 clientes (Azure só).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "ESTRATÉGIA",
+            "title": "Segue @rafaondei pra análise de movimentos M&A",
+            "highlight": "@rafaondei",
+            "body": "Qual cloud é melhor pra IA agora? Como escolher entre Azure/AWS/GCP com GPT? Cost optimization strategies? Segue o Radar IA. Daily: movimentos estratégicos que impactam sua infraestrutura.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Meta Llama 4: multimodal nativo (texto + imagem), 288B params, bate proprietários",
+      "summary": "Meta lança Llama 4 (Scout + Maverick)—modelos open-weight multimodais que competem com GPT-4.5 e Claude. 288B params total (16-128 expert MoE). Treinado em dados públicos. Llama 5 em roadmap. Open-weight democratizando.",
+      "source": "Meta AI Blog",
+      "link": "https://ai.meta.com/blog/llama-4-multimodal-intelligence/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Llama 4: open-source enxerga imagem + texto igual GPT-4.5",
+        "caption": "Meta não quer mais ser fast follower em IA—é first-mover em open.\n\nLlama 4 (novo):\n• Multimodal nativo: entende texto + imagem numa mesma query\n• 288B parameters (16 experts em Maverick, 128 em Scout)\n• Compara com GPT-4.5 em STEM benchmarks\n• Open-weight: download, roda no seu hardware\n\nExemplo: manda Llama 4 uma imagem + pergunta → Llama lê imagem, responde. Não é hack, é native.\n\nImpacto: Meta virou competidor real em IA (não é só \"OpenAI copy\"). Llama 5 tá no roadmap (vai ficar melhor). Open-weight agora tem multimodal frontier-grade.\n\nPara empresas: Llama 4 em produção significa: liberdade de vendor (roda local), qualidade competitive (compara com GPT), custo 100x menor (teu hardware, não API).\n\nSegue @rafaondei pra análise de modelos open-weight.\n\n#IA #Meta #Llama #OpenSource #Tecnologia",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "O RETORNO DE META À IA",
+            "title": "Llama 4: open-source que vê imagem",
+            "highlight": "vê imagem",
+            "body": null,
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "CAPACIDADE",
+            "title": "288B params, multimodal nativo, bate GPT-4.5 em STEM",
+            "highlight": "288B params",
+            "body": "Llama 4 tem 288B parâmetros totais (mais que GPT-4), usa Mixture-of-Experts (ativa só o necessário). Scout e Maverick: duas versões com diferentes graus de ativação. Testes em STEM (science, tech, engineering, math): Llama 4 bate GPT-4.5 em vários benchmarks.",
+            "stat": "288B",
+            "stat_label": "parâmetros totais",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O GRANDE SALTO",
+            "title": "Llama até agora era text-only. Agora: multimodal nativo.",
+            "highlight": "multimodal nativo",
+            "body": "Llama 3: texto. Você queria análise visual, usava Vision API. Llama 4: texto + imagem juntas. Uma query: imagem do gráfico + pergunta = Llama analisa gráfico direto. Não é API call, é modelo único que entende tudo. Multimodal que era exclusive de GPT/Claude agora é open.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDA VENDOR LOCK",
+            "title": "Open-weight agora compite com frontier em TUDO",
+            "highlight": "compite em",
+            "body": "Antes: \"queria multimodal frontier-grade? Usa GPT ou Claude (proprietary)\". Agora: \"Llama 4 é open-source, multimodal, compite com GPT, roda no teu hardware\". Vendor lock desapareceu. Qualquer eng pode baixar Llama, rodar local, zero API costs.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "STACK",
+            "title": "MoE (ativa só o necessário) + dados públicos + fine-tuning open",
+            "highlight": "MoE",
+            "body": "Meta treinou Llama 4 com dados públicos (cuidado com privacy, legal). MoE significa: 288B total, mas ativa 50B pra query normal (mais eficiente que dense 288B). Resultado: roda em A100 (não precisa 8x H100). Fine-tune é aberto (tu customize pra teu caso).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA EMPRESA",
+            "title": "Llama 4 local = 100x cheaper que GPT API",
+            "highlight": "100x cheaper",
+            "body": "Roda Llama 4 em teu hardware: custo de compute (US$ 1/h em cloud) mas sem API bills de OpenAI. Processamento em batch? Llama local é free. Dados sensíveis? Llama roda on-prem, zero exposure. Empresa que adota Llama 4 economia bilhões em AI infrastructure.",
+            "stat": "100x",
+            "stat_label": "mais barato",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "META VIROU COMPETIDOR REAL",
+            "title": "Open-weight perdeu estigma. Agora é tão bom quanto proprietary.",
+            "highlight": "perdeu estigma",
+            "body": "Llama 3 era bom, mas \"less capable than GPT\". Llama 4: same-tier. Isso muda psicologia de decisão. Empresa que contrata AI pode escolher: pagar premium (proprietário), ou rodar open (mesmo quality). Preço cai, qualidade fica igual, vendor lock desaparece.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "QUANDO USAR",
+            "title": "Segue @rafaondei pra estratégia de modelo",
+            "highlight": "@rafaondei",
+            "body": "Llama 4 vs GPT-4.5 vs Claude: qual escolher? Local vs API? Fine-tune strategy? Como migrar de proprietário pra open-weight? Segue o Radar IA. Daily: decisões que custam $ que você faz na escolha de modelo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    }
+  ],
+  "whatsapp": "🔴 RADAR IA — 12 de Maio de 2026\n\nAs 10 notícias mais relevantes do mercado de IA:\n\n1️⃣ **Custos de IA caem 67% em 1 ano** — Enterprise tokens de US$18 para US$6/M. GPT-4o perdeu 93% desde 2024. Multi-model routing alcança 71-80% de redução. https://www.fairmind.ai/en/blog/ai-costs-decoupled-from-pricing\n\n2️⃣ **GPT-5.5 Instant reduz alucinações 52.5%** — Menos mentiras em medicina, legal, finanças. Virou default ChatGPT Pro. Production-ready. https://openai.com/index/introducing-gpt-5-5/\n\n3️⃣ **Grok 4.3 controla teu computador** — IA que abre browser, digita, clica, cria docs. 1M tokens, vídeo nativo, reasoning embutido. Disruptivo. https://medium.com/nlplanet/xai-releases-grok-4-3-weekly-ai-newsletter-may-4th-2026-4b7e8fea0f10\n\n4️⃣ **Anthropic Orbit lançado** — Assistente proativo que sync Gmail, Slack, GitHub. Entrega briefing antes de pedir. 30 min/dia em 3 min. https://www.kucoin.com/news/flash/anthropic-s-new-proactive-ai-assistant-orbit-to-debut-at-code-with-claude-conference\n\n5️⃣ **Claude Financial Agents** — IA especializada em análise financeira. -70% em tempo de análise. Wall Street adotando. https://blog.anthropic.com/claude-financial-agents\n\n6️⃣ **DeepSeek-V4 fecha gap com GPT-5** — Open-source que compite com frontier. 1M tokens, custo ultra-baixo (US$0.14/M). GLM-5.1 #1 em SWE-bench. https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/\n\n7️⃣ **Gemini RAG multimodal** — File Search entende imagem+texto simultaneamente. Citations por página. Production-ready. https://cloud.google.com/blog/products/ai-machine-learning/gemini-multimodal-rag\n\n8️⃣ **Sora foi desligado** — OpenAI saiu do mercado de vídeo IA em 26/abril (API fecha 24/setembro). Veo 3.1 e Kling 3.0 herdaram. https://www.eweek.com/news/sora-alternatives-ai-video-tools-2026/\n\n9️⃣ **Microsoft perde exclusividade OpenAI** — Partnership virou non-exclusive. OpenAI vende pra AWS, GCP. Cloud IA é competição agora. https://www.cnbc.com/2026/05/11/heres-how-artificial-intelligence-is-changing-boardrooms.html\n\n🔟 **Llama 4 multimodal** — Meta open-source que compete com GPT-4.5. 288B params, texto+imagem nativo. Roda local, zero API costs. https://ai.meta.com/blog/llama-4-multimodal-intelligence/\n\n👉 Dashboard completo: https://rafaelondei.appnaia.com",
+  "instagram": "🔥 RADAR IA — 12 de Maio 2026 — Top 10 Notícias\n\nCustos de IA explodiram pra BAIXO. Grok agora controla seu PC. OpenAI admitiu derrota em vídeo. Microsoft perdeu exclusividade. Llama 4 é open-source frontier-grade. GPT-5.5 mente menos. DeepSeek virou alternativa real. Gemini RAG multimodal. Anthropic lançou Orbit (assistente proativo). Claude agora fala de finanças.\n\n⬇️ **A GRANDE HISTÓRIA: Custos de IA caíram 67% em 1 ano**\n\nEm janeiro, seu orçamento de IA que aprovaram? Tá 60% inflado hoje.\n\nDados do AICC (abril-maio 2026):\n• Enterprise token costs: US$ 18/M → US$ 6/M em 12 meses\n• GPT-4o: caiu 93% desde 2024 (US$ 0.03 → US$ 0.002)\n• Multi-model routing: redução de 71-80% adicional\n• DeepSeek-V4 estabeleceu novo piso: US$ 0.14/M\n\nImpacto prático? Startup que pagava US$ 5k/mês em IA agora paga menos de US$ 2k. Corporates que trancaram em contratos exclusivos tão sangrando margem.\n\nO que mudou: IA não é mais sobre TER acesso (todo mundo tem). É sobre OTIMIZAR rotas. Usar GPT pra X, Claude pra Y, DeepSeek pra Z. Quem faz isso cai em -80% de custo e ainda sobe qualidade.\n\nMens: seu orçamento 2026 já tá obsoleto. Se tá aprovado pra IA, chegou a hora de renegociar. Se não tá, é hora de começar. Preço não vai ser menor que é hoje.\n\n—\n\n📊 **OUTROS DESTAQUES QUE IMPORTAM:**\n\n💻 **Grok 4.3 controla teu computador** (xAI) — IA que abre seu browser, clica botão, digita no campo, tira print. Automação virou linguagem natural. RPA morreu, Grok nasceu.\n\n🤖 **Orbit: assistente que te antecipa** (Anthropic) — Sync automaticamente com Gmail, Slack, GitHub. Entrega briefing de manhã (sem pedir). PM que gastava 2h em briefing agora gasta 10 min.\n\n📈 **Claude Financial Agents** (Anthropic) — IA especializada só em análise financeira. -70% em tempo. Wall Street adotando. Startup sem quants agora faz análise nivel-corporativa.\n\n🎬 **Sora foi desligado** (OpenAI) — 26/abril app fechou, 24/setembro API morre. Veo 3.1 (Google, 4K 60fps) + Kling 3.0 (Kuaishou) herdaram mercado. OpenAI pivotou pra robotics.\n\n📊 **Llama 4 multimodal** (Meta) — Open-source que vê imagem + texto igual GPT-4.5. 288B params. Roda no teu hardware, zero API costs. Open-weight democratizando.\n\n—\n\nEmpreendedor: essa semana é sobre custos + otimização. Skill nova que toda operação de IA precisa: rotear entre modelos pra maximizar quality/cost. Quem domina isso em maio ganha 6 meses de vantagem.\n\nSegue @rafaondei pra daily radar — as 10 notícias que importam MESMO do mercado de IA global.\n\n#IA #InteligenciaArtificial #Claude #OpenAI #ChatGPT #Grok #Meta #Llama #Empreendedorismo #Tecnologia #Startup #Inovação"
+}
