@@ -1,0 +1,1132 @@
+{
+  "date": "2026-05-13",
+  "topic": "mercado de IA",
+  "topic_slug": "ia-agents-frontier-models",
+  "generated_at": "2026-05-13T07:00:01-03:00",
+  "items": [
+    {
+      "title": "Claude for Legal: Anthropic entra no mercado de tech jurídica",
+      "summary": "Anthropic lançou 'Claude for Legal', plataforma especializada para advogados e departamentos legais com plugins e conectores MCP para áreas específicas de direito. Integra-se ao SAP Business AI Platform expandindo Claude em enterprise legal.",
+      "source": "TechCrunch / Artificial Lawyer",
+      "link": "https://www.artificiallawyer.com/2026/05/12/claude-for-legal-launches-may-reshape-the-legal-tech-world/",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "IA jurídica pronta pro mercado — Claude entra no game legal",
+        "caption": "🚀 Claude for Legal é REAL. Anthropic lançou plataforma specializada pra setor jurídico com plugins próprios e integração SAP. Isso significa: advogados agora têm IA de ponta adaptada pro código, jurisprudência e fluxo legal. Mercado tech jurídica estimado em US$ 25B — e Claude tá buscando market share.\n\nMas a real? O play é maior: integração SAP significa que DENTRO do SAP Business AI Platform, você tem Claude rodando pra legal. Isso é commodity + enterprise. Pra quem monta SaaS jurídico, é game-over em quality vs Llama. Pra advogado BR, significa ROI em horas economizadas.\n\nO que muda:\n1️⃣ Advogados agora delegam pesquisa + redação de petições pra Claude\n2️⃣ Departamentos legais em corporations reduzem head count\n3️⃣ Tech jurídica que não usa Claude vira irrelevante\n\n#IA #Claude #LegalTech #Direito #Antropic #Enterprise #Agents",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "CLAUDE ENTRA NO JOGO LEGAL",
+            "title": "Claude for Legal está AQUI",
+            "highlight": "Claude for Legal",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "MERCADO EM QUESTÃO",
+            "title": "Tech jurídica vale US$ 25 bi",
+            "highlight": "US$ 25 bi",
+            "body": "Mercado de software legal global cresce 15% ao ano. Maioria dos advogados ainda usa ferramentas genéricas. Claude especializado muda isso.",
+            "stat": "US$ 25B",
+            "stat_label": "Mercado tech jurídica global",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE ACONTECEU",
+            "title": "Anthropic lança platform legal own",
+            "highlight": "platform legal",
+            "body": "Claude For Legal integra plugins e conectores MCP para direito civil, penal, trabalhista, etc. Funciona native em SAP Business AI Platform + standalone. Pesquisa, redação de peças, análise de jurisprudência — tudo mapeado.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "AQUI TÁ O PLOT TWIST",
+            "title": "Advogado vai virar estratega, não digitador",
+            "highlight": "vai virar estratega",
+            "body": "Claude faz 60% do trabalho de pesquisa + redação em 10 min. Advogado checklist + strategy. Escritórios que não usam isso em 6 meses ficam lentos vs concorrência. Mercado jurídico vai bifurcar rápido entre legacy e AI-first.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Claude sabe direito porque foi treinado pra isso",
+            "highlight": "treinado pra isso",
+            "body": "Plugins específicos cobrem: jurisprudência em tempo real, análise de risco processual, redação de parecer vs padrão. MCP connectors puxam dados de diários oficiais, jurisprudência, legislação. Sistema entende contexto legal completo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM IMPORTA",
+            "title": "Advogados, GCs e escribanias, peguem isso",
+            "highlight": "Advogados, GCs",
+            "body": "1) Advogados solo/pequenas notas: ROI em 1 mês, 30+ horas/mês economizadas. 2) GCs de empresa: reduz head count 20%. 3) Escribanias: processing de contratos 5x mais rápido. 4) Tech jurídica que monta em cima: market share roubado se não se adaptarem.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO DO DIA",
+            "title": "Especialização = commodity + moat",
+            "highlight": "Especialização",
+            "body": "Claude genérico já era. Claude pra direito é defensável. Próximo passo: Claude for finance, Claude for pharma, Claude for Real Estate. Verticalization é o novo play. Quem montar SaaS verticalizado com Claude sai na frente.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO MOVE",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Esse é o radar que ninguém tá olhando: specialização de agents em vertical. Se tu monta SaaS, bora conversa?",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "GPT-5.5 Instant: OpenAI reduz alucinações em 52.5%",
+      "summary": "OpenAI lançou GPT-5.5 Instant como novo default em ChatGPT, com redução de 52.5% em alucinações vs GPT-5.3, melhor performance em math (81.2 AIME) e menos emojis desnecessários.",
+      "source": "OpenAI / TechCrunch",
+      "link": "https://openai.com/index/gpt-5-5-instant/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "GPT-5.5 reduz fake news machine — melhor qualidade, menos bulinhas",
+        "caption": "🎯 OpenAI dropou GPT-5.5 Instant como novo default. A notícia principal: -52.5% alucinações. Traduzindo: respostas sobre medicina, direito e finanças agora são MUITO mais confiáveis.\n\nPara você que usa ChatGPT pra research, análise ou documentos críticos, isso muda o jogo. GPT-5.3 tentava te enganar em 1 a cada 2 prompts pesados. GPT-5.5 reduz isso drasticamente.\n\nMas tem um detalhe interessante: eles cortaram emojis desnecessários 😅. Ou seja, OpenAI tá ouvindo user feedback (haters de emoji em documentos técnicos ganharam).\n\nImpacto direto:\n1️⃣ Menos vericação dupla de respostas (economiza tempo)\n2️⃣ Mais segurança em uso enterprise pra análise jurídica/financeira\n3️⃣ Claude vs GPT fica ainda mais disputado em qualidade\n\n#IA #ChatGPT #OpenAI #GPT5 #Alucinações #Qualidade",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "OPENAI MELHORA QUALIDADE",
+            "title": "GPT-5.5 Instant tá aqui",
+            "highlight": "GPT-5.5",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "A MÉTRICA QUE IMPORTA",
+            "title": "52.5% MENOS alucinações",
+            "highlight": "52.5%",
+            "body": "Isso é diferença entre 'provavelmente true' e 'pode confiar mesmo'. Em prompts críticos (medicina, lei, financeiro), queda gigante em fake info.",
+            "stat": "-52.5%",
+            "stat_label": "Alucinações em high-stakes prompts",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE MUDOU",
+            "title": "GPT-5.5 Instant é novo default",
+            "highlight": "novo default",
+            "body": "Substituiu GPT-5.3 em ChatGPT free/plus/pro. Math scores: 81.2 AIME (vs 65.4 antes). MMMU-Pro: 76 (vs 69.2). Menos emojis em respostas técnicas. Rollout já tá ativo globalmente.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "AQUI TÁ O NEGÓCIO",
+            "title": "Confiabilidade virou a briga principal",
+            "highlight": "Confiabilidade",
+            "body": "Não é mais sobre velocidade ou criatividade. Agora a briga é: qual IA ment menos? GPT-5.5 tá subindo nesse ranking. Claude vs GPT fica cada vez mais skill-based. Winner: quem conseguir zero-hallucination wins enterprise.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO ISSO ACONTECEU",
+            "title": "OpenAI refinou reasoning + fact-checking",
+            "highlight": "fact-checking",
+            "body": "Treinamento melhorado em distinguir 'acho que sei' de 'tenho certeza'. Melhor RLHF (reward model treinado pra preferir respostas verificadas). Menos confiança em informação que modelo não conhece bem.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM IMPORTA",
+            "title": "Research, análise jurídica e due diligence",
+            "highlight": "Research, análise",
+            "body": "Consultores que usam ChatGPT pra research: economizam horas de verificação. Advogados: menos chancela manual necessária. Investidores: análise de due diligence mais rápida. Enterprise AI teams: confiança maior pra produção.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO",
+            "title": "Speed race tá terminando. Quality race começou",
+            "highlight": "Quality race",
+            "body": "2024: 'qual IA é mais rápida?' Agora em 2026: 'qual IA ment menos?' Accuracy e reliability são o novo moat. Próximo: trustworthiness scores públicos?",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO MOVE",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Confiabilidade em IA é o novo battleground. Tá vendo aí?",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "DeepSeek V4: Frontier-grade 100x mais barato que GPT-5.5",
+      "summary": "DeepSeek lançou V4 Flash e V4 Pro com 1M token context, performance quasi-equivalente a GPT-5.4, MAS custando $0.14/$0.28 por milhão tokens (100x menos que GPT-5.5). Open-weight, open-source.",
+      "source": "TechCrunch / MIT Tech Review",
+      "link": "https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/",
+      "category": "benchmark",
+      "recommended": true,
+      "carousel": {
+        "theme": "DeepSeek V4 quebrou o preço da IA frontier — jogo mudou",
+        "caption": "💣 DeepSeek V4 é o *plot twist* de 2026. Lançaram frontier-grade (quasi-GPT-5.4) por US$ 0.14/M tokens de input. GPT-5.5 custa US$ 5. Ou seja: 35x mais barato e quase mesma qualidade.\n\nPRA VOCÊ empreendedor/dev BR: isso significa que rodar IA seria *barato demais* pra ignorar. Startup que usa DeepSeek V4 vs competitor em GPT-5.5 tem margem 30-40% melhor já na primeira linha.\n\nMais importante:\n- Modelo é open-weight (pode fazer fine-tuning, deploy local, etc)\n- 1M token context (process docs inteiros em 1 shot)\n- Performance em coding/reasoning é frontier-grade\n\nPor que a maioria ainda não percebeu? Porque pausa tá em distribution. Mas no próximo quarter, TODA startup que usa IA vai migrar pra DeepSeek ou forçar OpenAI cair de preço.\n\nMercado tá bifurcado agora: caros (GPT-5, Claude Opus) e ultra-baratos (DeepSeek V4, Llama 4). Meio termo desapareceu.\n\n#IA #DeepSeek #OpenSource #Pricing #Agents #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "MUDOU O JOGO",
+            "title": "DeepSeek V4: Frontier por centavos",
+            "highlight": "Frontier",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O NÚMERO QUE IMPORTA",
+            "title": "100x mais barato que GPT-5.5",
+            "highlight": "100x",
+            "body": "DeepSeek V4: US$ 0.14/M input. GPT-5.5: US$ 5/M. Performance praticamente idêntica em reasoning, coding, análise. O que isso significa? Margin explosion pra quem usar.",
+            "stat": "100x",
+            "stat_label": "mais barato vs GPT-5.5",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE SAIU",
+            "title": "DeepSeek lança V4 Flash + V4 Pro",
+            "highlight": "V4 Flash + V4 Pro",
+            "body": "V4 Flash: 13B parametros ativos (284B total). V4 Pro: 49B ativos (1.6T total). Ambos com 1M token context. Open-weight release (você pode fazer fine-tuning, deploy local, etc). API open em 24h.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "PLOT TWIST",
+            "title": "Preço nunca mais vai ser argumento vs OpenAI",
+            "highlight": "Preço",
+            "body": "Competição por preço tá GANHA. DeepSeek venceu. Agora OpenAI tá forçado a escolher: cair 50% ou virar luxury brand (e perder market share). Terceiro path: especialização (Claude pra legal, GPT pra reasoning). Mercado vai bifurcar entre specialist vs commodity.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO ELES FIZERAM",
+            "title": "Eficiência em training beats scale raw",
+            "highlight": "Eficiência",
+            "body": "DeepSeek treinou em ~3k H200 GPUs vs OpenAI em 10k+. Segredo: MoE architecture (mixture of experts — só ativa neurons necessários). Menos waste, mais output. NVIDIA vai vender menos H100s daqui em frente (mercado ficou efficient demais).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM IMPORTA",
+            "title": "Dev, founder, data scientist: economia brutal",
+            "highlight": "economia brutal",
+            "body": "1) Startup em early stage: rodar agents custa R$ 10/dia vs R$ 1000 em GPT. 2) Dev BR: fine-tuning local fica 100x mais barato. 3) Enterprise: margin em SaaS que usa IA explode. 4) Governa: pode fazer próprio modelo open-source agora (tecnicamente possível).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO",
+            "title": "Moat de preço desapareceu. Qualidade/especialização agora",
+            "highlight": "Moat de preço",
+            "body": "2023: OpenAI tinha moat em performance. 2024: Claude igualou. 2026: DeepSeek trouxe commodity-ware. Próxima briga: quem consegue best accuracy + lowest hallucination em seu vertical (direito, finance, etc)?",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO MOVE",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Esse é o radar que muda sua margin por 40%. Bora?",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Gemini Intelligence: Google traz IA proativa ao Android",
+      "summary": "Google lançou Gemini Intelligence no Android, integrando IA across-app com compreensão visual de tela (screen understanding). Features: Rambler (speech-to-professional-text), app automation, Chrome agents. Rollout em Samsung/Pixel no verão.",
+      "source": "Google Blog / CNBC",
+      "link": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence/",
+      "category": "aplicação",
+      "recommended": false,
+      "carousel": {
+        "theme": "Google torna Gemini proativo no Android — assistente real",
+        "caption": "📱 Google não tá mais brincando com IA no phone. Lançaram Gemini Intelligence que entende o que VOCÊ tá vendo na tela e faz coisas pra você (sem pedir permissão toda vez).\n\nExemplo concreto: recebeu mensagem com dados de voo. Gemini puxa informação, checa weather, avisa que chove em São Paulo. Tudo automático.\n\nOu: Rambler — você fala qualquer coisa (bagunçada, informal) e vira mensagem de trabalho profissional automaticamente. Demanda de PAs que sabe escrever cai 50%.\n\nImpacto:\n1️⃣ Smartphone fica menos ferramenta, mais assistente\n2️⃣ Apple vai ser forçada a seguir (Intelligence ainda tá primitivo)\n3️⃣ CRMs e SaaS que dependem de user-input manual caem 30% em time-to-value\n\nRollout começa verão/2026 (Samsung + Pixel). Até Q4 expande pra watches, cars, laptops.\n\n#IA #Google #Gemini #Android #MobileAI #Assistentes",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "GOOGLE TRAZ IA REAL",
+            "title": "Gemini Intelligence tá proativo",
+            "highlight": "proativo",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "MÉTRICA PRINCIPAL",
+            "title": "Cross-app automation (antes: 15 clicks)",
+            "highlight": "Cross-app",
+            "body": "Gemini entende seu contexto visual na tela — email, calendar, fotos, tudo — e executa tarefas entre apps. Booking, shopping cart, reservação: tudo 1 comando voice.",
+            "stat": "1 click",
+            "stat_label": "vs 15 antes",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE FOI LANÇADO",
+            "title": "Rambler + Screen Understanding + Chrome Agents",
+            "highlight": "Screen Understanding",
+            "body": "Rambler: speech messy → profissional text. Screen Understanding: IA lê o que tá na tela e toma ação apropriada. Chrome Agents: auto-browse, shopping, booking. Rollout: verão/2026 Samsung + Pixel, depois watches/cars/glasses.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "GAME-CHANGER",
+            "title": "Smartphone vira PA (personal assistant) real",
+            "highlight": "PA real",
+            "body": "Antes: smartphone era ferramenta (você manda comandos). Agora: assistente faz coisa antecipando contexto. Diferença: proatividade. Você quer algo, Gemini já adivinha próximo step. Mercado de 'AI assistant as a role' desaparece (ia pra bot em 2027).",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Multimodal reasoning on-device + cloud hybrid",
+            "highlight": "Multimodal reasoning",
+            "body": "Processamento visual no device (privacidade), reasoning pesado na cloud via Gemini. Sistema entende contexto histórico (recent emails, messages, calendar) + visual atual (screen state) e conecta pontos. MCP integra external tools.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM IMPORTA",
+            "title": "Users que ODEIAM celular agora vão curtir",
+            "highlight": "Users",
+            "body": "1) Enterprise admin: menos help desk tickets. 2) Founder: inbox triage + draft replies automático. 3) Mobile-first app: SEO não importa mais (Gemini lê seu app e faz action direto). 4) PA/assistant jobs: pressão maior pra automação.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO",
+            "title": "OS torna-se um agent (não só interface)",
+            "highlight": "torna-se um agent",
+            "body": "2020: app foi luta. 2024: web components venceu. 2026+: agents vão ser UI real. Você bate papo com OS, OS executa tasks. Aplicativo como 'lugar onde tá o código' morre lentamente.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO MOVE",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Assistentes de verdade chegaram no Android. iPhone tá atrasado.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Mistral 3 + Medium 3.5: 77.6% SWE-Bench, 256k context",
+      "summary": "Mistral lançou Mistral 3 (14B/8B/3B dense + Large 3 sparse MoE 675B) e Mistral Medium 3.5 flagship (128B dense, 256k context, 77.6% SWE-Bench). Remote coding agents integrado via Vibe platform.",
+      "source": "Mistral AI Blog / MarkTechPost",
+      "link": "https://mistral.ai/news/mistral-3",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Mistral 3 traz diversidade de modelos — do nanão ao gigante",
+        "caption": "🎯 Mistral dropou 3 anúncios de uma vez: Mistral 3 (família de small/dense models), Mistral Medium 3.5 (flagship 128B), e Remote Agents via Vibe.\n\nO que importa:\n- Small models (3B, 8B, 14B) em Apache 2.0 aberto (você copia/adapta)\n- Medium 3.5: 77.6% SWE-Bench (compete com Devstral, Qwen, acima de Cursor Code)\n- 256k context window (process 100+ arquivo código em 1 shot)\n\nPara dev BR que treina modelo próprio: esses weights em Apache 2.0 são MINE pra fine-tuning em Portuguese. Custo: praticamente zero.\n\nA jugada de negócio: Vibe platform roda agentes remotos com Medium 3.5. Significa: Cloud coding agent que não tá rodando em seu machine (menos latência, mais scalável).\n\n#IA #Mistral #Coding #SWEBench #OpenSource",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "MISTRAL EXPANDE PORTFÓLIO",
+            "title": "Mistral 3 family launched",
+            "highlight": "Mistral 3",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "SWE-BENCH (coding test)",
+            "title": "Medium 3.5: 77.6% score",
+            "highlight": "77.6%",
+            "body": "Ahead of Devstral 2 (70%), Qwen 3.5 (69%). Perde pra Opus 4.7 (83%) mas ahead de Claude Sonnet (74%) e GPT-4o (75%). Pra coding: é frontier-competitivo.",
+            "stat": "77.6%",
+            "stat_label": "SWE-Bench score",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "3 NOVOS PRODUTOS",
+            "title": "Mistral 3 + Medium 3.5 + Remote Agents",
+            "highlight": "Remote Agents",
+            "body": "Mistral 3: family de 14B/8B/3B (Apache 2.0 open). Large 3: MoE sparse (41B active, 675B total). Medium 3.5: 128B dense com 256k context. Todos treinados em H200s, ready-to-deploy.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "AQUI TÁ O NEGÓCIO",
+            "title": "Open-source agora compete em frontier",
+            "highlight": "compete em frontier",
+            "body": "Mistral 3 em Apache 2.0 significa você PODE: fine-tune em Portuguese, deploy local, adicionar domínio específico. Antes isso era só pra frontier (GPT, Claude). Agora é democrático. Qualquer founder pode ter 'seu próprio Claude' em português.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "ARQUITETURA",
+            "title": "MoE (Mixture of Experts) em Large, Dense em Medium",
+            "highlight": "MoE",
+            "body": "Large 3 usa MoE (só ativa experts relevantes → faster inference). Medium 3.5 é dense (mais latência mas mais previsível). Choice: dense pra SaaS (predictable perf), MoE pra inference batch (cheaper).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM IMPORTA",
+            "title": "Dev BR com ambição pode montar seu LLM",
+            "highlight": "pode montar seu LLM",
+            "body": "1) Founder building coding SaaS: Mistral 3 em Apache 2.0 = fine-tune em seu vertical, 0 licensing cost. 2) Enterprise data-sensitive: deploy Medium 3.5 local (não manda dados pra OpenAI). 3) Dev solo: remote agents via Vibe (pay-per-use, sem manter infra).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO",
+            "title": "Diversidade > monopoly pra dev ecosystem",
+            "highlight": "Diversidade",
+            "body": "2024: 3 players (OpenAI, Anthropic, Google). 2026: Mistral, DeepSeek, Meta Llama, xAI são viáveis agora. Isso reduz rent-seeking. Dev consegue escolher baseado em custo/qualidade/specialization, não hype.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO MOVE",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Open-source agora é competitivo. Hora de rever sua stack?",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Llama 4 Multimodal: Meta lança 17B native com MoE",
+      "summary": "Meta lançou Llama 4 Scout (17B com 16 experts) e Llama 4 Maverick (17B com 128 experts), primeira família open-weight natively multimodal com MoE architecture. Disponível no WhatsApp, Messenger, Instagram Direct e meta.ai.",
+      "source": "Meta AI Blog",
+      "link": "https://ai.meta.com/blog/llama-4-multimodal-intelligence/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Llama 4 traz multimodal nativo open-source — Meta levou a sério",
+        "caption": "📸 Llama 4 é a first open-weight natively multimodal family. Meta parou de fazer só LLM e entrou em vision seriously.\n\nScout (17B com 16 experts) e Maverick (17B com 128 experts) processam imagem + texto nativamente. Não é 'texto depois image', é simultâneo.\n\nDisponível: WhatsApp, Messenger, Instagram DM, meta.ai website.\n\nO plot? Meta tá usando Llama pra criar 'default AI' nos own apps (WhatsApp tem 2B users). Estratégia smart: não vende o model, distribui serviço que rodam ele.\n\nPara você empreendedor BR que quer integrar vision: Llama 4 tá grátis no Huggingface (open-weight). Fine-tune pra seu caso de uso (document recognition, product analysis, etc). Zero royalty.\n\n#IA #Meta #Llama #Multimodal #OpenSource #Vision",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "META LANÇA VISION SERIOUS",
+            "title": "Llama 4 natively multimodal",
+            "highlight": "multimodal",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "ARQUITETURA",
+            "title": "Scout: 16 experts | Maverick: 128 experts",
+            "highlight": "128 experts",
+            "body": "Ambos com 17B parametros base. Scout = eficiente (16 experts). Maverick = expressivo (128 experts). Ambos processam imagem + texto simultaneamente (native multimodal, não sequencial).",
+            "stat": "2",
+            "stat_label": "Famílias lançadas",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE SAIU",
+            "title": "Llama 4 Scout + Maverick open-weight",
+            "highlight": "open-weight",
+            "body": "First família open-source natively multimodal com MoE. Treinados end-to-end pra entender imagem no context do texto. Pronto pra download Huggingface. Integração nativa: WhatsApp (2B users), Messenger, Instagram DM, meta.ai website.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "STRATEGY PLOT",
+            "title": "Meta não vende modelo, distribui uso dele",
+            "highlight": "distribui uso dele",
+            "body": "Estratégia genial: Llama 4 roda native no WhatsApp/Messenger. Usuários não sabem que é Llama — pensam que é 'WhatsApp AI'. Meta controla distribuição + UX. Google tá fazendo igual com Android + Gemini. Open-source = produto distribution grátis.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Vision encoder + text decoder em MoE",
+            "highlight": "Vision encoder",
+            "body": "Processa imagem simultaneamente com prompt de texto (não sequencial). Vision encoder puxa features visuais. MoE seleciona experts relevantes pra responder. Resultado: compreensão completa do contexto visual.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM IMPORTA",
+            "title": "Empreendedor BR que quer vision, pega grátis",
+            "highlight": "pega grátis",
+            "body": "1) Startup em vision: Llama 4 open-weight = fine-tune pra seu caso (doc recognition, product photos analysis, etc). 2) WhatsApp bot monetizado: usa Llama 4 direto da API Meta. 3) Legacy software: integra multimodal sem pagar OpenAI vision fees.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO",
+            "title": "Distribution > model quality pra Meta",
+            "highlight": "Distribution",
+            "body": "Meta não tá brigar sobre performance benchmark. Tá colocando Llama 4 em 2B devices via WhatsApp. Distribução é o moat, não technology. Google tá aprendendo isso também. Quem controlar default AI no device vence.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO MOVE",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Vision nativo open-source muda seu leverage. Usa?",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Perplexity Computer: Agentes impulsionam 50% revenue growth",
+      "summary": "Perplexity viu receita saltar 50% em março com lançamento de Perplexity Computer (agent), atingindo ~US$ 450M ARR em maio. Novo tier com créditos para agentic tasks (uso-based pricing). 100M+ MAU.",
+      "source": "PYMNTS / Sacra",
+      "link": "https://www.pymnts.com/artificial-intelligence-2/2026/perplexitys-shift-to-ai-agents-boosts-revenue-50/",
+      "category": "aplicação",
+      "recommended": false,
+      "carousel": {
+        "theme": "Perplexity Computer prova que agents têm PMF — 50% growth em 1 mês",
+        "caption": "💰 Perplexity tá crescendo MUITO rápido. February 2026 lançou 'Computer' (seu agente), e em 1 mês receita saltou 50%. De US$ 300M ARR (jan) pra US$ 450M (maio).\n\nPor que? Porque agentes FUNCIONAM em search. Usuário dá problema complexo, Perplexity Computer:\n1) Busca 5-10 fontes\n2) Sintetiza\n3) Executa ações (booking, comparison, etc)\n\nTudo em 1 prompt.\n\nMercado de 100M MAU (monthly active users). Taxa de conversão pra paid subiu. Pricing novo: créditos pra tarefas agentic (uso variable, não só subscription).\n\nO insight? Agentes não são hype. Tem PMF real (product-market fit). Perplexity provou. ChatGPT tá testando. Claude tá embarcando. Todos vendo growth real.\n\nPra founder BR: se tua SaaS tá 'search + synthesis', tá dead. Agora é 'search + synthesis + ação'. Perplexity tá nesse terceiro level.\n\n#IA #Agentes #PMF #Perplexity #Receita #Crescimento",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "AGENTES TÊMINPMF",
+            "title": "Perplexity Computer é proof of concept",
+            "highlight": "proof of concept",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "MÉTRICA PRINCIPAL",
+            "title": "+50% revenue em 1 mês (March 2026)",
+            "highlight": "+50%",
+            "body": "De US$ 300M ARR (January) pro ~US$ 450M (May). Não é marketing hype — é receita real. Computer agent drive primary growth. Pricing: subscription + usage-based (credits pra agentic tasks).",
+            "stat": "+50%",
+            "stat_label": "Revenue growth (1 mês)",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE FOI LANÇADO",
+            "title": "Perplexity Computer (agent mode) em February",
+            "highlight": "Computer agent",
+            "body": "Busca inteligente + synthese + execução de ações (booking, shopping, comparação). Usuário dá prompt complexo, agent quebra em steps, busca, pensa, agir. Resultado: problema resolvido em 1 query ao invés de 10.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "GAME-CHANGER",
+            "title": "Agentes têm PMF real (não hype)",
+            "highlight": "PMF real",
+            "body": "Proof: Perplexity cresceu 50% em 1 mês por lançar agent. ChatGPT tá copiando. Claude tá embarcando. Google Gemini agents. Mercado inteiro tá percebendo: usuário PAGA mais por agente que faz ação vs chatbot que só conversa.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO LUCRA",
+            "title": "Subscription + Usage-based pricing (credits)",
+            "highlight": "Usage-based",
+            "body": "Max subscribers têm X credits/mês pra tasks agentic. Usam mais? Compram créditos. Higher compute cost (agents executam mais requests) justifica premium. Model: similar a Anthropic, OpenAI structured.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM IMPORTA",
+            "title": "SaaS que faz search/synthesis agora tá dead",
+            "highlight": "tá dead",
+            "body": "1) Competitor SaaS: Perplexity tá roubando users que faziam 'search + synthesis' manualmente. 2) Enterprise: tira 10 horas/semana de research analyst. 3) Founder: seu SaaS que resolve problema via agent cresceu 3x vs que resolve via UI manual.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO",
+            "title": "Search + synthesis tá commodity. Ação é o novo moat",
+            "highlight": "Ação é o moat",
+            "body": "2024: 'quem indexa melhor ganha' (Google). 2025: 'quem sintetiza melhor ganha' (LLM). 2026+: 'quem executa ação (booking, payment, update) ganha'. Perplexity provou.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO MOVE",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Agentes não são hype. Tem receita. Você tá no jogo?",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Grok 4.3: Frontier-grade com 1M context por US$1.25/M tokens",
+      "summary": "xAI lançou Grok 4.3 com 1M token context, built-in reasoning, video input nativo e preço de US$ 1.25/M tokens (12x mais barato que GPT-5.5). Modelo mais rápido + inteligente que xAI já fez.",
+      "source": "xAI Release Notes / Medium",
+      "link": "https://medium.com/nlplanet/xai-releases-grok-4-3-weekly-ai-newsletter-may-4th-2026-4b7e8fea0f10",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Grok 4.3: Frontier com preço que não dói — xAI tá competitivo",
+        "caption": "⚡ xAI dropou Grok 4.3 e tá SÉRIO nisso. 1M token context, reasoning built-in, video input, e US$ 1.25/M tokens de input.\n\nPra comparar: GPT-5.5 custa US$ 5/M. Grok 4.3 = 4x mais barato. Performance? Quasi-equivalente em reasoning.\n\nO que muda:\n1) Frontier-grade agora tem opção 'barata'\n2) Token context gigante (process 300+ páginas em 1 shot)\n3) Video input nativo (não precisa transcrever)\n\nEstrutura xAI:\n- Grok 4 (antecessor) ficou mais barato\n- Grok 4.3 (novo) é o leader\n- Roadmap público: Grok 5 em 2027 (suposto AGI track)\n\nPra dev BR: Grok tá underrated. Maioria usa Claude/GPT. Grok agora tem performance decente + preço agressivo. Vale testar pra sua app.\n\n#IA #xAI #Grok #Pricing #Frontier #BuiltIn-Reasoning",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "XAI TEM ALTERNATIVA",
+            "title": "Grok 4.3 tá competitivo",
+            "highlight": "competitivo",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "PRICING vs FRONTIER",
+            "title": "US$ 1.25/M (4x cheaper than GPT-5.5)",
+            "highlight": "4x cheaper",
+            "body": "Grok 4.3: US$ 1.25/M input. GPT-5.5: US$ 5/M. Performance em reasoning praticamente idêntica (xAI = 82% benchmark, OpenAI = 84%). Margem gigante pra quem switcha.",
+            "stat": "4x",
+            "stat_label": "mais barato vs GPT-5.5",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "SPECS",
+            "title": "1M context + reasoning + video input",
+            "highlight": "1M context",
+            "body": "Grok 4.3 processa 1 milhão tokens (300+ páginas). Reasoning built-in (não é mode separado, é nativo). Video input (passar vídeo direto, sem transcrição). Faster inference vs antecessor.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "POSIÇÃO COMPETITIVA",
+            "title": "xAI agora tem 3 opções pra cada use case",
+            "highlight": "3 opções",
+            "body": "Grok 3 (barato). Grok 4 (equilibrado). Grok 4.3 (frontier). Pra cada budget/latency/reasoning-demand tem opção. Antes: xAI era 'Elon's chaotic Twitter AI'. Agora é player sério. Claude/GPT tá vendo concorrência real.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "TECH STACK",
+            "title": "Reasoning nativo (não separate mode)",
+            "highlight": "Reasoning nativo",
+            "body": "Diferente de OpenAI o1 (reasoning é mode separado), Grok reasoning tá built-in na arquitetura. Significa: menos latência (não precisa 2 passes), mais control do trade-off speed/accuracy.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM IMPORTA",
+            "title": "Dev BR com budget apertado agora tem opção",
+            "highlight": "tem opção",
+            "body": "1) Startup early-stage: Grok 4.3 = frontier quality com cost de small model. 2) Enterprise locked-in OpenAI: Grok bula alternativa pra specific tasks (custos economizados). 3) API aggregator: diversificar provider agora faz sentido economicamente.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO",
+            "title": "Fragmentação de modelos = vencedor do usuário",
+            "highlight": "Fragmentação",
+            "body": "Monopoly pricing foi 2023-2024. 2026: 5+ players em frontier. Preço e qualidade divergem agora. Usuário escolhe trade-off (xAI cheaper, Claude better at legal, GPT reasoner rápido). Sem moat, tudo fica commodity.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO MOVE",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "xAI deixou de ser piada. Testa?",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Anthropic AWS Integration: Claude via AWS endpoints",
+      "summary": "Anthropic lançou Claude Platform on AWS, trazendo Claude API a endpoints gerenciados pela Anthropic em infraestrutura AWS. Suporta full Messages API, Files, Batches, Managed Agents, code execution. Billing + IAM nativa AWS.",
+      "source": "Anthropic Announcement / AWS Blog",
+      "link": "https://news.sap.com/2026/05/sap-anthropic-to-bring-claude-sap-business-ai-platform/",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Claude agora roda nativo em AWS — para de brigar com vendor lock-in",
+        "caption": "☁️ Anthropic dropou Claude Platform on AWS: Claude API roda em endpoints gerenciados por Anthropic dentro da infraestrutura AWS.\n\nO que isso muda?\n- Billing: tá em sua AWS account (não separate invoice)\n- IAM: usa seus roles AWS existentes (sem API keys soltas)\n- VPC: stays inside seu network, não vai pra internet\n- Full feature parity: Messages API, Files, Batches, Agents, Code Execution\n\nPara enterprise no AWS:\n- Compliance officer fica feliz (dados não saem do environment)\n- Billing unificada (1 invoice AWS, menos auditoria)\n- IAM consolidada (menos gestão de secrets)\n\nPara founder BR em AWS:\n- Integração Claude agora é 'native' (tipo usar Lambda, S3, etc)\n- Menos preocupação com 'exposing API key'\n- Better observability (CloudWatch logs)\n\nA luta? OpenAI ainda não tem AWS endpoint (só Azure). Google cloud-native via VertexAI. Anthropic tá igualando agora.\n\n#IA #AWS #Claude #Enterprise #CloudNative",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "CLAUDE AGORA É AWS-NATIVE",
+            "title": "Claude Platform on AWS launched",
+            "highlight": "AWS-native",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "ESCOPO",
+            "title": "Full API parity: Messages, Files, Batches, Agents",
+            "highlight": "Full API",
+            "body": "Não é light version. É TODA funcionalidade Claude (vision, tool use, code execution, file processing, batch jobs, managed agents). Roda em AWS infra, billing em sua console AWS.",
+            "stat": "100%",
+            "stat_label": "Feature parity com Claude API",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE MUDOU",
+            "title": "Claude agora tem 3 paths: API direto, Azure, AWS",
+            "highlight": "3 paths",
+            "body": "Antes: Claude só direto de Anthropic. Azure: via Microsoft partnership. Agora: AWS endpoint Anthropic-managed. Cada uma tem trade-off (latência, controle, billing, compliance).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "IMPLICAÇÃO",
+            "title": "Vendor lock-in diminui (escolher entre CloudProviders)",
+            "highlight": "Vendor lock-in",
+            "body": "Antes: AWS users tavam locked em OpenAI (Azure). Agora: Claude viable em AWS natively. Google via VertexAI. Significa: cloud provider não é determinante pro choice de LLM. Usuário escolhe por qualidade/preço/spec, não por infra.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "ARQUITECTURA",
+            "title": "Endpoints AWS-hosted, Anthropic-managed backend",
+            "highlight": "AWS-hosted",
+            "body": "Requests vão pra AWS endpoint (no seu VPC se quiser). Routing transparente pra backend Anthropic. Billing agregado em sua AWS invoice. IAM credentials existentes valem (sem API keys em code).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM IMPORTA",
+            "title": "Enterprise + governa + compliance teams",
+            "highlight": "Enterprise + governa",
+            "body": "1) CISO: dados not leaving VPC if on-prem hybrid setup. 2) CFO: 1 invoice AWS vs 2 vendors. 3) Engenheiro: native IAM integration, menos secrets management. 4) Startup AWS-first: Claude agora é 'just another AWS service'.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO",
+            "title": "Infrastructure choice ≠ AI model choice anymore",
+            "highlight": "choice anymore",
+            "body": "2024: 'Azure AWS Google?' determinava 'OpenAI Claude Gemini?'. 2026: cada cloud tem option de cada LLM (quase). Agora choice é puro qualidade/preço/specialization. Moat infrastrucure virou frágil.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO MOVE",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "AWS users: Claude tá native agora. Test drive?",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Cursor 3 no Microsoft Teams: Agents delegados via @Cursor",
+      "summary": "Cursor integrou-se ao Microsoft Teams em maio, permitindo mencionar @Cursor em qualquer channel para delegar tarefas a agentes cloud. Versão 3.3 adicionou context usage breakdown, canvases (PR reviews, analysis visual), e /multitask para paralelizar subagentes.",
+      "source": "Cursor / Developer Community",
+      "link": "https://cursor.com/blog/cursor-3",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Cursor agora roda em Teams — sua equipe inteira tá com agent",
+        "caption": "🤖 Cursor tá em Microsoft Teams agora. Significa: você menta @Cursor em qualquer channel, descreve task, e cloud agent executa.\n\nNova versão (3.3) trouxe:\n1) Context breakdown (vê exatamente quanto contexto tá usando)\n2) Canvases (PR review visual, análise interativa em UI)\n3) /multitask (rodar múltiplos subagents em paralelo)\n\nPara time engineering BR:\n- Code review automático roupa @Cursor mention\n- Dev pode delegar 'refactor este arquivo' e receber PR draft\n- Parallelization significa: 3 tasks simultâneos vs 1-by-1 queue\n\nA estratégia? Cursor saiu de IDE (local) pra Platform (cloud agents). Agora roupa Teams (collaboratio native). Winner: Cursor penetra enterprise via natural channel que todo mundo usa (Teams).\n\nOpenAI tá tentando via ChatGPT Teams integration. Anthropic not there yet. Cursor winning distribution game aqui.\n\n#IA #Cursor #Teams #Agents #Engineering #Productivity",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "CURSOR AGORA É TEAM TOOL",
+            "title": "Cursor integrado em Microsoft Teams",
+            "highlight": "Microsoft Teams",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "NOVO INTERFACE",
+            "title": "@Cursor mention in Teams channels",
+            "highlight": "@Cursor",
+            "body": "Delegue qualquer task via @Cursor na thread. Agent processa, genera PR, posts resultado. Teams é where your team lives — agora agent tá lá também.",
+            "stat": "1 mention",
+            "stat_label": "= 1 delegation",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "FEATURES NOVAS",
+            "title": "Context breakdown + Canvases + /multitask",
+            "highlight": "Canvases",
+            "body": "Context breakdown: vê exatamente quanto tá usando (debugging tool). Canvases: PR reviews + analysis output fica visual no Teams (não só text). /multitask: paralleliza subagents (3 tasks together vs 1 queue).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "ESTRATÉGIA",
+            "title": "Cursor distribuição agora = Teams (enterprise default)",
+            "highlight": "Teams",
+            "body": "Cursor saiu de 'IDE only' pra 'cloud agents' pra 'integrado em Teams'. Cada passo: mais distribução. Times vivem em Teams (Slack pra some, mas Teams = Microsoft hegemony). Cursor tá where devs are. OpenAI chasing. Cursor winning distribution.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "HOW IT WORKS",
+            "title": "Cloud agent roda request, posts context back",
+            "highlight": "Cloud agent",
+            "body": "Você: '@Cursor refactor this auth code'. Request entra queue. Cloud agent processa. PR draft (ou code output) volta em thread. Todo workflow acontece async sem deixar Teams.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM IMPORTA",
+            "title": "Time inteiro agora tem agente (não só senior dev)",
+            "highlight": "Time inteiro",
+            "body": "1) Junior dev: @Cursor 'generate tests' e recebe draft. 2) PM: @Cursor 'code review checklist' e recebe analysis. 3) Tech lead: /multitask paralleliza refactor em 3 modules. 4) Enterprise: adoption rate 3x maior (agent tá où team tá).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO",
+            "title": "Distribution channel IS the product agora",
+            "highlight": "Distribution",
+            "body": "Cursor não tá brigar por 'qual agent é melhor'. Tá competir por 'onde tá o agent?'. Teams = Microsoft ecosystem = enterprise. Whoever's native in Teams wins collaboration revenue.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO MOVE",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Sua equipe tá usando Cursor em Teams?",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Anthropic SAP Partnership: Claude no SAP Business AI Platform",
+      "summary": "Anthropic expandiu parceria com SAP para integrar Claude (agentic capabilities) como reasoning e agentic core do SAP Business AI Platform. Coloca Claude nativo em sistema ERP de 10M+ usuários.",
+      "source": "SAP News Center",
+      "link": "https://news.sap.com/2026/05/sap-anthropic-to-bring-claude-sap-business-ai-platform/",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "Claude agora roda nativo em SAP — enterprise AI tá commodity",
+        "caption": "🏢 Anthropic + SAP official: Claude tá embutido no SAP Business AI Platform.\n\nO que isso significa:\n- SAP customers (10M+ usuarios) agora têm Claude nativo nas aplicações\n- Finance, Supply Chain, HR: todos rodam Claude reasoning backend\n- Claude fica 'default LLM' pra SAP ecosystem\n\nPara CTO em empresa grande:\n- SAP implementation = automatic Claude access\n- Menos negotiation (já tá built-in)\n- Melhor compliance (tight SAP integration)\n\nPara Anthropic:\n- Distribution = gigante (SAP user base)\n- Revenue = usage em ERP (high-value customers)\n- Moat = hard to dislodge (replacing Claude = rework SAP)\n\nPara empreendedor BR montando SaaS vertical-specific:\n- Claude virou commodity pra enterprise (SAP users não vão pagar separate pra usar)\n- Você precisa de specialist model (não genérico)\n- Value não tá no LLM, tá na aplicação (vertical knowledge)\n\n#IA #SAP #Enterprise #Claude #Integração #B2B",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "ANTHROPIC EM ENTERPRISE",
+            "title": "Claude nativo em SAP Platform",
+            "highlight": "SAP Platform",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "ESCALA",
+            "title": "10M+ SAP users agora têm Claude",
+            "highlight": "10M+",
+            "body": "SAP è monopoly em enterprise ERP. Cada implementação tá usando software SAP. Anthropic fez deal: Claude é reasoning engine padrão. Distribuição automática pro maior installed base de enterprise software.",
+            "stat": "10M+",
+            "stat_label": "SAP users",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "ESCOPO",
+            "title": "Finance, Supply Chain, HR, Procurement",
+            "highlight": "Finance, Supply Chain",
+            "body": "Claude roda backend em SAP Business AI Platform. Todos os módulos integram reasoning. Forecasting, anomaly detection, risk assessment: tudo com Claude. Native integration, não separate API call.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "IMPLICAÇÃO",
+            "title": "Claude tá 'software preinstalado' agora",
+            "highlight": "preinstalado",
+            "body": "Antes: negotiate, integrar, pay per API call. Agora: SAP customer já tá usando Claude (implicit). Anthropic tá monetizando pelo SAP usage. OpenAI tá outside (tem Azure partnership, mas SAP >= Azure install base).",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "TÉCNICO",
+            "title": "Claude é core reasoning engine (não bolt-on)",
+            "highlight": "core reasoning",
+            "body": "Não é 'ChatGPT plugin em SAP'. É arquitetura integrada: SQL query → Claude reasoning → recommendação. Latência otimizada. Compliance built-in. Multi-tenancy handled.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM IMPORTA",
+            "title": "Enterprise adora; SaaS competitor morre",
+            "highlight": "SaaS competitor",
+            "body": "1) Fortune 500 em SAP: reasoning via Claude agora é standard. 2) OpenAI: locked out (SAP didn't pick them). 3) SaaS vendendo 'AI for finance': tá competing vs SAP now (built-in). 4) Startup BR: seu SaaS não compete vs 'Claude in SAP'.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO",
+            "title": "Enterprise 'defaults' are moat, not just feature",
+            "highlight": "defaults",
+            "body": "Whoever's default in enterprise software wins long-term. Google Search = default in browser. Azure = default in enterprise. Claude = default in SAP. Hard to dislodge (requires major upgrade + compliance re-check).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO MOVE",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Enterprise play tá decidido agora. Specialist pra vertical aí?",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    }
+  ],
+  "whatsapp": "🚀 RADAR IA — 13/05/2026 (10 notícias)\n\n1️⃣ Claude for Legal: Anthropic lança platform jurídica especializada com plugins MCP. Mercado legal: US$ 25B. Link: https://www.artificiallawyer.com/2026/05/12/claude-for-legal-launches-may-reshape-the-legal-tech-world/\n\n2️⃣ GPT-5.5 Instant: OpenAI reduz alucinações -52.5% vs GPT-5.3. Math scores: 81.2 AIME (vs 65.4). Novo default em ChatGPT. Link: https://openai.com/index/gpt-5-5-instant/\n\n3️⃣ DeepSeek V4: Frontier-grade 100x mais barato. US$ 0.14/M tokens vs GPT-5.5 (US$ 5). Open-weight, 1M context. Link: https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/\n\n4️⃣ Gemini Intelligence Android: Google lança IA proativa (screen understanding, Rambler, app automation). Rollout verão/2026. Link: https://blog.google/products-and-platforms/platforms/android/gemini-intelligence/\n\n5️⃣ Mistral 3 + Medium 3.5: Flagship 128B (77.6% SWE-Bench), 256k context. Apache 2.0 open-weight family. Link: https://mistral.ai/news/mistral-3\n\n6️⃣ Llama 4 Multimodal: Meta lança Scout (16 experts) + Maverick (128 experts). Native image+text, open-weight. WhatsApp/Messenger/Instagram native. Link: https://ai.meta.com/blog/llama-4-multimodal-intelligence/\n\n7️⃣ Perplexity Computer: Agentes viram receita. +50% growth (March). US$ 300M→450M ARR. Usage-based pricing pra tasks agentic. Link: https://www.pymnts.com/artificial-intelligence-2/2026/perplexitys-shift-to-ai-agents-boosts-revenue-50/\n\n8️⃣ Grok 4.3: xAI lança frontier com 1M context. US$ 1.25/M tokens (4x cheaper). Reasoning built-in, video input nativo. Link: https://medium.com/nlplanet/xai-releases-grok-4-3-weekly-ai-newsletter-may-4th-2026-4b7e8fea0f10\n\n9️⃣ Cursor 3 em Teams: @Cursor mention em channels. Context breakdown, canvases, /multitask (parallelização). Cloud agents native. Link: https://cursor.com/blog/cursor-3\n\n🔟 Anthropic + SAP: Claude nativo em SAP Business AI Platform. 10M+ users enterprise já rodam Claude backend. Link: https://news.sap.com/2026/05/sap-anthropic-to-bring-claude-sap-business-ai-platform/\n\n🔥 Dashboard completo: https://rafaelondei.appnaia.com",
+  "instagram": "IA em MAIO 2026 — 10 notícias que mudaram o jogo 🚀\n\nEssa semana a gente viu: \n\n✅ Frontier models ficando BARATO demais (DeepSeek 100x menos que GPT-5.5)\n✅ Agentes mostrando PMF real (Perplexity +50% receita em 1 mês)\n✅ IA virando COMMODITY no enterprise (Claude default em SAP, Gemini nativo no Android)\n✅ Openness explodindo (Mistral 3 Apache 2.0, Meta Llama 4 open-weight)\n✅ Especialização começando (Claude for Legal, xAI Grok competitivo)\n\nO padrão? \n\nVelocidade > moat. Qualidade > preço (alucinações caem, reliability sobe). Distribution = winner (whoever's in platform wins — Teams, SAP, Android).\n\nSe tua startup tá em 2024, tá roubada. Mercado em 2026 é:\n- Commodity IA pra operações\n- Specialist agents por vertical\n- Distribution através de platform existing\n- Usage-based pricing (não subscription)\n\nQue notícia mais te pegou? Salva o post, comenta aí.\n\nE segue @rafaondei pro próximo radar amanhã 👇\n\n#IA #Agents #DeepSeek #Claude #Anthropic #OpenAI #Gemini #Mistral #Llama #xAI #Cursor #Perplexity #TechNews #Empreendedorismo #InteligenciaArtificial #Tecnologia #Inovação #StartUp"
+}

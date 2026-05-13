@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-05-12T07:00:01-03:00",
+  "updated_at": "2026-05-13T07:00:01-03:00",
   "executions": [
+    {
+      "date": "2026-05-13",
+      "key": "2026-05-13",
+      "topic": "mercado de IA",
+      "summary": "Claude for Legal lançado; GPT-5.5 -52.5% alucinações; DeepSeek V4 100x mais barato (frontier-grade); Gemini Intelligence Android; Mistral 3+Medium 3.5 77.6% SWE-Bench; Llama 4 multimodal nativo; Perplexity agents +50% growth; Grok 4.3 US$1.25/M; Cursor em Teams; Anthropic+SAP default",
+      "items_count": 10
+    },
     {
       "date": "2026-05-12",
       "key": "2026-05-12",
