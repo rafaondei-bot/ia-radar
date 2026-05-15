@@ -1,0 +1,1030 @@
+{
+  "date": "2026-05-15",
+  "topic": "mercado de IA",
+  "topic_slug": "mercado-ia",
+  "generated_at": "2026-05-15T07:00:01-03:00",
+  "items": [
+    {
+      "title": "Claude for Small Business: Anthropic lança pacote pronto para PMEs",
+      "summary": "Anthropic lançou Claude for Small Business, um pacote com conectores e workflows para integrar Claude diretamente em ferramentas que pequenos negócios usam: Intuit QuickBooks, PayPal, HubSpot, Canva, DocuSign, Google Workspace e Microsoft 365. Automação sem código, pronta pra usar.",
+      "source": "SiliconANGLE, 9to5Mac",
+      "link": "https://siliconangle.com/2026/05/13/anthropic-launches-claude-small-business-new-automation-workflows/",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Claude agora tá em todo lugar — automação de PME sem código",
+        "caption": "📊 Claude chegou pro seu negócio. Não é mais só chatbot — é automação real em QuickBooks, HubSpot, Canva, Google Workspace e Microsoft 365. Anthropic entrou na briga das PMEs com tudo.\n\n🔌 Conectores prontos, workflows automáticos, integração nativa.\n\n💼 Pra quem tem comércio, consultoria, e-commerce ou prestação de serviço: tira folha em segundos, envia invoice, atualiza estoque, tudo com IA.\n\n🚀 A automação deixou de ser coisa de tech e virou commodidade. Quem vai ficar pra trás?\n\n#IA #Claude #Anthropic #PME #Automação #InteligenciaArtificial #Empreendedorismo #SaaS",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "CLAUDE ENTRA NAS FERRAMENTAS QUE TU JÁ USA",
+            "title": "Claude pra pequena empresa",
+            "highlight": "pequena empresa",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "INTEGRAÇÃO NATIVA",
+            "title": "8 plataformas conectadas",
+            "highlight": "8 plataformas",
+            "body": "Anthropic lançou pacote pronto que conecta Claude direto em QuickBooks, PayPal, HubSpot, Canva, DocuSign, Google Workspace e Microsoft 365. Sem código, sem gambiarra.",
+            "stat": "8",
+            "stat_label": "plataformas integradas",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE MUDA",
+            "title": "Automação sem código pros negócios reais",
+            "highlight": "Automação sem código",
+            "body": "Era pro tech-heads só. Agora qualquer dono de loja, consultoria ou e-commerce consegue automatizar: folha em segundos, invoices geradas, estoque atualizado, tudo com IA. Claude virou ferramenta de operação, não só de chat.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MERCADO MUDANDO AGORA",
+            "title": "PMEs saem da inércia",
+            "highlight": "PMEs saem",
+            "body": "Até ontem, usar IA era diferencial. Hoje, NOT usar IA é desvantagem. Claude chega pronto nas ferramentas que tu já paga — QuickBooks, HubSpot, Google. Não precisa de DevOps ou budget especial. É plug-and-play.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Conectores + Workflows",
+            "highlight": "Conectores",
+            "body": "Anthropic criou conectores que ligam Claude nas APIs de cada plataforma. Você define workflow no console (quando cliente chegar, gera cotação automaticamente em Canva, envia por PayPal). IA interpreta contexto e age — sem prompt engineer necessário.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM IMPORTA AGORA",
+            "title": "Seu negócio vai funcionar 24/7",
+            "highlight": "24/7",
+            "body": "Dona de loja? Consultor? E-commerce? Seu negócio agora roda de madrugada: propostas automáticas, cobranças agendadas, relatórios gerados. Horas que tu dormia viram faturamento. O custo? Mínimo — API barata.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O LIÇÃO",
+            "title": "Antropic virou operacional, não mais consultora",
+            "highlight": "operacional",
+            "body": "Anthropic deixou de bater pé em 'somos melhores que OpenAI em ética'. Agora tá no jogo real: integrou onde PME vive (contabilidade, vendas, design). Quem vencer nesse jogo ganha o mercado de verdade.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PENSA BEM",
+            "title": "Salva, compartilha, segue @rafaondei",
+            "highlight": "segue @rafaondei",
+            "body": "Semanal assim — notícia de verdade do mercado de IA pra quem quer pisar na frente. Automação é o jogo agora.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "GPT-5.5 Instant: OpenAI corta 52.5% de alucinações + Codex no mobile",
+      "summary": "OpenAI lançou GPT-5.5 Instant como novo padrão do ChatGPT, com redução de 52.5% em alucinações vs versão anterior em áreas críticas (medicina, direito, finanças). Codex, o agente de código, agora roda no iOS e Android pra revisar, aprovar e executar tarefas direto do phone.",
+      "source": "OpenAI, Fast Company Brasil",
+      "link": "https://fastcompanybrasil.com/ia/chat-gpt-5-5-o-que-muda-com-atualizacao-da-openai/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "OpenAI ataca a confiabilidade — GPT-5.5 reduz alucinações pela metade",
+        "caption": "🎯 GPT-5.5 Instant virou default do ChatGPT. Maior novidade? Menos invenção.\n\n📊 52.5% menos alucinações em medicina, direito e finanças (os áreas que custam caro errar). Teste OpenAI em hospital, escritório de advocacia, e viu — o modelo anterior alucinava demais.\n\n📱 Codex (agente de código) agora roda no iOS e Android. Solta tarefa do phone, o agente revisa, pede approval, executa. Antes era só desktop.\n\n🔒 Transparência melhorou: modelo agora avisa QUANDO usa memória, reduz fake news produzida.\n\n💡 Confiabilidade em IA é novo diferencial. Ou tua IA alucina e custa caro, ou não — é preto e branco.\n\n#IA #OpenAI #ChatGPT #Confiabilidade #Alucinações #InteligenciaArtificial #Tecnologia #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "OPENAI ATACANDO FRENTE ERRADO",
+            "title": "GPT-5.5: menos invenção",
+            "highlight": "menos invenção",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O NUMERO QUE IMPORTA",
+            "title": "52.5% menos alucinações",
+            "highlight": "52.5%",
+            "body": "GPT-5.5 Instant (novo padrão) produz metade das invenções da versão anterior em cenários críticos: medicina, direito, finanças. Áreas que errar sai caro.",
+            "stat": "-52.5%",
+            "stat_label": "alucinações críticas",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "POR QUE IMPORTA AGORA",
+            "title": "Confiabilidade virou competição",
+            "highlight": "Confiabilidade",
+            "body": "IA ganhou hype. Mas negócio real precisa de confiança. Médico não usa modelo que erra diagnóstico. Advogado não usa modelo que inventa jurisprudência. OpenAI enxergou: em empresa, qualidade > hype. Ganhava margens monstruosas errado.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "ESTRATEGIA MUDA",
+            "title": "Confiabilidade é novo moat",
+            "highlight": "novo moat",
+            "body": "OpenAI tá dizendo: 'Nós somos confiáveis'. Claude dizia isso desde o início. Agora é corrida pra quem ganha confiança de bancário, médico, jurista. Quem tiver zero alucinação vira default de Wall Street.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO CONSEGUIRAM",
+            "title": "Feedback de produção + filtering",
+            "highlight": "Feedback",
+            "body": "OpenAI treinou GPT-5.5 com feedback de casos reais (quando modelo errou em produção). Além disso, implementou filtering — modelo revisa própria resposta antes de mandar. Se desconfiado, fala 'não tenho certeza'.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM ISSO LIBERA",
+            "title": "Enterprise tira GPT da gaveta",
+            "highlight": "Enterprise",
+            "body": "Hospitais, bancos, escritórios jurídicos tinham medo de usar IA. GPT-5.5 abre porta: 'tá ok, tá confiável pra diagnóstico, opinião legal, análise financeira'. Bilhões de transação B2B desbloqueadas agora.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO BRUTAL",
+            "title": "Alucinação mata empresa",
+            "highlight": "mata empresa",
+            "body": "Startup usa IA porque é barato e rápido. Empresa tira porque medo. OpenAI virou pragmática: 'reduz alucinação, ganha mercado'. Era dia de IA fazer feito (benchmark), agora é de fazer certo (produção).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMA SEMANA",
+            "title": "Segue @rafaondei pro radar quente",
+            "highlight": "segue @rafaondei",
+            "body": "Confiabilidade em IA é 2026. Quem tá criando sistema real (médico, legal, financeiro) precisa dessa info todos os dias.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Google I/O 2026 (19-20 mai): Gemini Omni vaza com suporte a vídeo full",
+      "summary": "Google vai revelar Gemini Omni no I/O 2026 (19-20 de maio), modelo de vídeo que permite criar vídeos inteiros direto no chat, editar cenas, remixar e aplicar efeitos. Veo 3 já entrega vídeos de 8 segundos com som. Concorrência direta com Sora (que morreu em 2025).",
+      "source": "Eurisko, Braining Digital, WaveSpeed",
+      "link": "https://gd.eurisko.com.br/2026/05/14/google-vai-revelar-novo-modelo-gemini-no-i-o-na-proxima-semana",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Google revida: Gemini Omni traz geração de vídeo full pro chat",
+        "caption": "🎬 Google vai revelar Gemini Omni em 19 de maio (I/O 2026). É genração de vídeo dentro do chat — texto → vídeo pronto, editável, remixável.\n\n📹 Veo 3 já tá rodando: 8 segundos com som, música de fundo, efeitos automáticos.\n\n🔄 Cria vídeo, não gostou? Remixe direto no chat. Mude composição, efeitos, personagens — tudo conversacional.\n\n💀 Sora (OpenAI) morreu em 2025. Google entra agora com tudo. Vídeo virou commodity mesmo.\n\n🚀 Impacto: criador de conteúdo que pagava $15-30/mês pra fazer vídeo agora sai mais rápido e barato. YouTuber, TikToker, agência — prepara pra levar tiro.\n\n#IA #Google #Gemini #Vídeo #Criação #InteligenciaArtificial #I/O2026 #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "GOOGLE ENTRA NA BRIGA DE VÍDEO",
+            "title": "Gemini Omni: vídeo no chat",
+            "highlight": "vídeo no chat",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "DATA + RECURSOS",
+            "title": "19-20 de maio: I/O Google",
+            "highlight": "19-20 de maio",
+            "body": "Gemini Omni sai no I/O 2026 (próxima semana). Vídeos full — não clip de 8s, filme inteiro. Edição conversacional dentro do chat: 'coloca efeito chuva', 'tira esse personagem', 'aumenta a música'.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE VAI ROLAR",
+            "title": "Vídeo virou geração, não edição",
+            "highlight": "geração",
+            "body": "Antes: assistências editam vídeo que TU filma. Google agora: descreve cena, modelo gera vídeo pronto. Antes: editor profissional. Agora: qualquer um com internet. Sora era early mover; morreu porque lenta e cara. Google vem mais rápido e cheaper.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "IMPLICAÇÃO CLARA",
+            "title": "Criador de conteúdo = menos necessário",
+            "highlight": "menos necessário",
+            "body": "YouTuber, TikToker, agência de vídeo: teu job tá em risco. Gemini Omni não tira criatividade (ideia ainda vem de humano), mas tira 70% do trabalho manual. Antes: 8h pra fazer vídeo. Depois: 30 min no chat.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO USA",
+            "title": "Chat → Vídeo em iteração",
+            "highlight": "iteração",
+            "body": "Abre Gemini. 'Cria vídeo de startup de tech, 60 segundos, musica epic'. Omni gera. Tá ruim? 'Troca o CEO, bota mulher, coloca dados na tela'. Gera novo. Tá bom? Download ou publica no YouTube direto. Conversacional total.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "CASCATA DE IMPACTO",
+            "title": "Mercado de vídeo explode pra baixo",
+            "highlight": "mercado",
+            "body": "Freelancer de vídeo vai tirar 10x menos. Agência vai reduzir team. Mas empreendedor que paga $2k/mês pra fazer promo agora faz no chat por $20. Conteúdo + quantidade ganham. Qualidade singular morre.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "REALIDADE 2026",
+            "title": "Vídeo virou input, não output",
+            "highlight": "input",
+            "body": "Cinco anos atrás, vídeo era artesania rara. Hoje é commodity. Gemini Omni codifica isso: ideação (human) → geração (IA) → iteração (human) → publish. O duro agora é IDEIA, não execução.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "WATCH THIS SPACE",
+            "title": "Segue @rafaondei pra anúncio live",
+            "highlight": "segue @rafaondei",
+            "body": "19 de maio, Google grita. Vou cobrir ao vivo — impacto em produção de conteúdo, economia criativa, mercado de video.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Grok 4.3 launch: xAI corta 40% do preço, 72/100 Tier B vs 25/100 anterior",
+      "summary": "xAI lançou Grok 4.3 com pricing de $1.25/$2.50 (input/output), redução de 40% vs versão anterior. Performance jump: 72/100 Tier B vs 25/100 do Grok 4.20. 1M token context window. Compete direto com Gemini 3.1 Pro e GPT-5.4 em preço e performance.",
+      "source": "Artificial Analysis, Apiyi",
+      "link": "https://help.apiyi.com/en/grok-4-3-release-xai-api-model-retirement-en.html",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Grok 4.3: xAI entra na competição de verdade com preço agressivo",
+        "caption": "⚡ Grok 4.3 saiu na API — e Elon atacou TUDO: performance, preço, context window.\n\n📊 Benchmark jump BRUTAL: 25/100 → 72/100 (Tier B). É quase 3x melhor. Performance de reasoning ficou tipo nova dimensão.\n\n💰 Preço? $1.25/$2.50 (input/output). Tá barato demais — competindo com Gemini 3.1 Pro. GPT-5.5? Bem mais caro. DeepSeek? Mais barato ainda, mas Grok tá ali.\n\n🧠 1M token context — lê livro inteiro sem truncar. Memoria longa = agentes melhores.\n\n⏰ Legacy models aposentam 15 de maio. Força migração pra Grok 4.3 agora.\n\n💡 Estratégia Elon: competição de verdade. Não é 'somos diferentes', é 'somos melhores E mais baratos'.\n\n#IA #Grok #xAI #Elon #Benchmarks #InteligenciaArtificial #API #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "ELON DORME, GROK SOBE",
+            "title": "Grok 4.3: benchmark explode",
+            "highlight": "benchmark explode",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "SALTO BRUTAL",
+            "title": "25 → 72 no Tier B",
+            "highlight": "72",
+            "body": "Grok 4.20: 25/100 em reasoning complexo. Grok 4.3: 72/100. É quase 3x melhor em agentic tasks. Jump que não tava previsto — Elon liberou compute mesmo pra vencer.",
+            "stat": "+188%",
+            "stat_label": "improvement benchmark",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "PRECO + PERFORMANCE",
+            "title": "$1.25/$2.50 — tá barato demais",
+            "highlight": "tá barato",
+            "body": "Grok 4.3 virou competitivo em preço: input $1.25/Mi tokens, output $2.50/Mi. É praticamente Gemini 3.1 Pro level, mas bem mais barato que GPT-5.5. Elon tá dispostos a margem baixa pra ganhar volume.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MERCADO RECEBE",
+            "title": "Agentes agora rodam em Grok",
+            "highlight": "Agentes",
+            "body": "Com 72/100 Tier B + preço agressivo, Grok virou opção legítima pra agent workloads. Antes era 'só pra X', agora é 'roda production-grade igual GPT-5.5'. Context window de 1M = agent consegue lembrar sessão inteira.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "TECNICAMENTE",
+            "title": "Reasoning + Optimization",
+            "highlight": "Reasoning",
+            "body": "Grok treinou com synthetic data de reasoning (tipo o1, DeepSeek). Além disso, otimizou inference — roda mais rápido mesmo com benchmark mais alto. 1M context é memória distribuída, não tricks.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM GANHA",
+            "title": "3 tribes ficam felizes agora",
+            "highlight": "3 tribes",
+            "body": "Dev que tava em GPT-5.4: economia de 30% mantendo qualidade. Dev que tava em DeepSeek: upgrade seguro mantendo preço. Dev que tava em Gemini: opção alternativa com melhor reasoning.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "VIRADA DE JOGO",
+            "title": "Grok tá de verdade agora",
+            "highlight": "de verdade",
+            "body": "Grok era experimento Elon 3 meses atrás. 4.3 é modelo que compete com top 3 (OpenAI, Anthropic, Google). Não é 'quase lá'. Grok ganhou a briga de benchmark e preço. Mercado vai descentralizar mais.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "MUDA DE PROVIDER",
+            "title": "Salva, testa, segue @rafaondei",
+            "highlight": "segue @rafaondei",
+            "body": "Grok é opção real 2026. Bora acompanhar próximos capítulos dessa competição — é brutal.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Llama 4 multimodal: Meta bate GPT-4o e Gemini 2.0 em benchmarks",
+      "summary": "Meta lançou Llama 4 Scout (17B ativos, 16 experts) e Llama 4 Maverick (17B ativos, 128 experts) com arquitetura Mixture-of-Experts nativa multimodal. Scout cabe em 1 GPU H100, Maverick bate GPT-4o e Gemini 2.0 em múltiplos benchmarks. Context window de 10M tokens.",
+      "source": "Meta AI Blog, Abhishek Gautam",
+      "link": "https://ai.meta.com/blog/llama-4-multimodal-intelligence/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Meta Llama 4: open-source multimodal que bate Gemini e GPT-4o",
+        "caption": "🦙 Meta soltou Llama 4 Scout e Maverick — e abriu mão de edge: beating GPT-4o em vários benchmarks, tudo open-source.\n\n⚙️ MoE nativa (Mixture of Experts): Scout tem 16 experts, Maverick tem 128. Isso quer dizer: só ativa expert necessário pra cada token — inference 10x mais barato.\n\n🖥️ Scout cabe em 1 GPU H100 (17B ativos). Significa: deploy em baratos, inference rápido. Seu startup consegue rodar IA tier-1 sem GPU farm.\n\n📊 Maverick? 128 experts, beating GPT-4o em multimodal. Lê imagem, vídeo, texto — tudo junto, tudo bom.\n\n💾 10M token context (igual Claude). Lê livro + trama inteira de série + código inteiro de projeto.\n\n🚀 Impacto: open-source virou tier-1. Quem rodava GPT-4o agora pode rodar Maverick localmente, economizando bilhões em API.\n\n#Meta #Llama4 #OpenSource #IA #InteligenciaArtificial #MoE #Empreendedorismo #Tecnologia",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "META SOLTOU A BOMBA OPEN-SOURCE",
+            "title": "Llama 4 bate GPT-4o",
+            "highlight": "bate GPT-4o",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "ARQUITETURA REVOLUCIONARIA",
+            "title": "128 experts (Maverick), 1 GPU suficiente",
+            "highlight": "1 GPU",
+            "body": "Llama 4 Scout: 17 bilhões parâmetros ativos, 16 experts. Cabe em 1 GPU H100. Llama 4 Maverick: 128 experts, roda tudo — e tá beating GPT-4o em benchmarks. MoE = ativa só o necessário, não gasta poder.",
+            "stat": "128",
+            "stat_label": "experts (Maverick)",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "OPEN-SOURCE GANHOU MESMO",
+            "title": "Meta abriu mão de lead-lag",
+            "highlight": "abriu mão",
+            "body": "Meta soltou Llama 4 open-source ANTES de otimizar internamente. Gemini 2.0 e GPT-4o eram closed. Meta? Colocou Scout e Maverick no HuggingFace. Qualquer dev baixa, roda, deploys. Tá nem aí com API revenue.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "IMPLICACAO BRUTAL",
+            "title": "Enterprise sai de OpenAI/Anthropic",
+            "highlight": "sai de OpenAI",
+            "body": "Se Maverick beating GPT-4o e roda localmente, por que tu paga OpenAI? Deploy Llama 4 em teu servidor, ganha economia de 90% em API costs. Meta virou fornecedor de MOAT, não de API.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "TECNICA SUBJACENTE",
+            "title": "Mixture of Experts = eficiência",
+            "highlight": "Mixture",
+            "body": "MoE = rede neural que, pra cada token, escolhe qual expert usar (tipo router). Scout tem 16 caminhos, Maverick tem 128. Resultado: só 17B parâmetros tá ativos por vez — resto fica 'dormindo'. Inference barato mesmo com modelo grande.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM GANHA AGORA",
+            "title": "Startups conseguem Gemini-level local",
+            "highlight": "Gemini-level",
+            "body": "Startup que rodava Claude API pagando $5k/mês agora roda Llama 4 localmente por servidor de $200/mês. Enterprise pode auditar tudo, zero vendor lock-in. Economia escala bilhões.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "VIRADA META",
+            "title": "Meta renasceu em IA",
+            "highlight": "renasceu",
+            "body": "Meta perdeu briga mobile (iOS, Android). Perdeu briga desktop (Google Chrome). Mas em IA open-source, Meta é líder. Llama 4 é arma estratégica — não vende API, vende influência e adoção. Quem controls open-source, controls futuro.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "BORA EXPERIMENTAR",
+            "title": "Salva, clona, segue @rafaondei",
+            "highlight": "segue @rafaondei",
+            "body": "Llama 4 é game-changer. Acompanha aqui quem sai ganhando em cada onda de IA.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Mistral Medium 3.5: 77.6% SWE-Bench, merged 3 models em 1, reasoning_effort toggle",
+      "summary": "Mistral lançou Medium 3.5 em 28 de abril — primeiro modelo 'merged' que combina Medium 3.1, Magistral (reasoning) e Devstral 2 em um set de weights. Score de 77.6% SWE-Bench. Toggle reasoning_effort (low/medium/high) ativa extended reasoning só quando necessário.",
+      "source": "MarkTechPost, Mistral AI",
+      "link": "https://www.marktechpost.com/2026/05/02/mistral-ai-launches-remote-agents-in-vibe-and-mistral-medium-3-5-with-77-6-swe-bench-verified-score/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Mistral fez o impossível: 3 modelos em 1 (chat + reasoning + code)",
+        "caption": "🧬 Mistral Medium 3.5 é o primeiro modelo 'merged' do mundo — combina 3 modelos diferentes (chat, reasoning, code) em UM set de weights. Sem trade-off.\n\n📊 77.6% SWE-Bench Verified — ahead de Devstral 2, tá competindo com tier-1.\n\n🎛️ Reasoning_effort toggle: quando task é simples, ativa 'low', rápido e barato. Quando é complexo, ativa 'high', faz extended reasoning. Melhor dos dois mundos.\n\n⚙️ 256k context window. Lê tudo — arquivo grande, conversa longa, tudo mantém.\n\n💡 Impacto: antes tu pagava 3 APIs (1 pra chat, 1 pra reasoning, 1 pra code). Agora? 1 model, 1 toggle. Economiza latência, custo, complexidade.\n\n🚀 Agentic = virou pão de queijo. Medium 3.5 foi feito pra agentes — sabe quando pensar, quando agir rápido.\n\n#Mistral #IA #Benchmarks #Coding #InteligenciaArtificial #Agents #SWE-Bench #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "MISTRAL FEZ O IMPOSSIVEL",
+            "title": "3 modelos em 1",
+            "highlight": "3 modelos",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "PERFORMANCE MERGED",
+            "title": "77.6% SWE-Bench (coding)",
+            "highlight": "77.6%",
+            "body": "Medium 3.5 combinou Medium 3.1 (chat), Magistral (reasoning), Devstral 2 (code) sem perder qualidade. Score de 77.6% SWE-Bench — tá nivel Qwen3.5 e acima de Devstral 2 puro.",
+            "stat": "77.6%",
+            "stat_label": "SWE-Bench Verified",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "PROBLEMA QUE RESOLVEU",
+            "title": "Antes: trocar modelo pra cada task",
+            "highlight": "trocar modelo",
+            "body": "Era assim: task simples? Rodava Medium 3.1 (fast). Task complexa? Trocava pra Magistral (thinking). Task de código? Rodava Devstral 2. Toda troca = latência, custo, complexidade. Medium 3.5 matou isso.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "FEATURE MAGICA",
+            "title": "reasoning_effort toggle",
+            "highlight": "reasoning_effort",
+            "body": "Mistral deixou reasoning automático: reasoning_effort='low' = rápido (pra chat). reasoning_effort='high' = extended thinking (pra problema complexo). Modelo ESCOLHE quando pensar, quando agir. Genial.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO CONSEGUIRAM",
+            "title": "Knowledge distillation + merging",
+            "highlight": "merging",
+            "body": "Mistral treinou Medium 3.5 com outputs de Magistral e Devstral como supervision. Depois fez weight merging (técnica que combina múltiplas redes sem duplicar params). Resultado: model ainda tem 128B mas roda 3 especialidades.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA SEU NEGOCIO",
+            "title": "Agente 1x mais barato + rápido",
+            "highlight": "1x mais barato",
+            "body": "Se tu roda agente (planning, reasoning, action) — Medium 3.5 corta latência (não troca modelo), corta custo (1 API call vs 3). Dev ganha tempo, usuário vê resposta mais rápido. Enterprise economiza servidor.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "MISTRAL TROCOU DE JOGO",
+            "title": "Deixou de ser 'alternativa barata'",
+            "highlight": "alternativa",
+            "body": "Mistral virou player tier-1. Não tá copiando OpenAI mais. Tá inovando: merged models, reasoning toggle, agentes nativos. É o próximo movement — consolidação inteligente de especialidades em 1 model.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "BORA USAR",
+            "title": "Testa Mistral, segue @rafaondei",
+            "highlight": "segue @rafaondei",
+            "body": "Medium 3.5 é dark horse em 2026. Acompanha movimentos de player underdog que tá ganhando.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Perplexity Agents: +50% receita em 1 mês, Computer agora no Mac",
+      "summary": "Perplexity mudou foco pra agents de IA e viu receita crescer 50% em 1 mês (vale US$3B, ~30M MAU). Adicionou Personal Computer no Mac (edição de arquivos local, navegação, orquestração de voz). Computer agora roda com Opus 4.7 + GPT-5.5 como default de orquestração.",
+      "source": "Exame, Perplexity AI",
+      "link": "https://exame.com/inteligencia-artificial/mudanca-de-foco-da-perplexity-para-agentes-de-ia-faz-receita-subir-50-em-um-mes/",
+      "category": "aplicação",
+      "recommended": false,
+      "carousel": {
+        "theme": "Perplexity provou: agents são monetizáveis — +50% receita em 30 dias",
+        "caption": "💰 Perplexity virou a história de sucesso de IA agents em 2026. Mudou focus de search pra agents automáticos, viu receita subir 50% em 1 mês.\n\n📊 Vale US$3 bilhões agora. Tem ~30M usuários ativos por mês. Isso é escala.\n\n🖥️ Personal Computer agora no Mac — edita arquivo local, navega, faz tudo sem deixar chat. Usa Opus 4.7 internamente, GPT-5.5 como orquestrador.\n\n⚙️ Computer é agente que toma decisão: vê página, clica, lê resultado, adapta ação. Tipo pessoa inteligente navegando — mas 24/7.\n\n🌟 Impacto: agents virou MONETIZABLE. Não é só feature legal, é negócio que gera grana de verdade.\n\n🚀 Lição: search era commodity. Agents com poder executório (computer access) viram diferencial. Quem fizer isso bem, ganha bilhão.\n\n#Perplexity #Agents #Computer #IA #Negócios #Startups #Valuação #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "PERPLEXITY PROVOU O PONTO",
+            "title": "Agents = +50% receita",
+            "highlight": "+50% receita",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "NUMEROS CONCRETOS",
+            "title": "US$3B, +50% em 30 dias",
+            "highlight": "+50%",
+            "body": "Perplexity pivotou de search pra agents automáticos. Resultado? Receita cresceu 50% em 1 mês. Vale US$3 bilhões. Tem 30 milhões usuários ativos mensal. Agents virou moat — não é feature, é negócio.",
+            "stat": "50%",
+            "stat_label": "crescimento mensal",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "POR QUE TÃO RÁPIDO",
+            "title": "Agentes executam, não só buscam",
+            "highlight": "executam",
+            "body": "Perplexity Computer é agente que age: abre navegador, clica em link, lê página, interpreta, toma próxima ação. Tipo assistente contratado que trabalha 24/7. Usuário salva horas. Empresa ganha lealdade. Receita multiplica.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "TESE VALIDADA",
+            "title": "Agents é negócio real, não hype",
+            "highlight": "negócio real",
+            "body": "Todo mundo fala 'agents é future'. Perplexity não falou — fez. Computer no Mac prova: usuário paga pela automação. Receita +50% não é coincidência. Agents monetizou. Startups perceberam: se fizer bem, vira bilhão.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO RODA",
+            "title": "Computer = agente + interface",
+            "highlight": "Computer",
+            "body": "User solta task: 'book flight to NYC'. Computer: abre Google Flights, vê preços, lê regras, clica melhor opção, preenche formulário, avisa usuário. Roda Opus 4.7 interno + GPT-5.5 orquestrador. Latência ~30s por task.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM TIRA PROVEITO",
+            "title": "Profissional + executivo ganha tempo",
+            "highlight": "tempo",
+            "body": "Empreendedor que solta '50 emails pra contato', Computer faz. Gestor que quer 'procura leads em LinkedIn', Computer pesquisa. Advogado que quer 'resume esses 10 contratos', Computer lê tudo. Poupança = 10-20h/semana por pessoa.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "MERCADO TROCOU",
+            "title": "Search virou commodity, agents virou moat",
+            "highlight": "commodity",
+            "body": "5 anos atrás, Google search era moat. Agora qualquer um busca (ChatGPT, Perplexity, Claude). Diferencial agora? Agente que EXECUTA. Quem conseguir agente confiável que faz tarefa de verdade, ganha bilhão.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "APRENDA COM WINNERS",
+            "title": "Salva, usa, segue @rafaondei",
+            "highlight": "segue @rafaondei",
+            "body": "Perplexity tá mostrando o caminho. Acompanha aqui quem tá ganhando na competição de agents.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Cursor 3 (April 2026): Agent-first IDE, design mode, parallel agents, canvases",
+      "summary": "Cursor lançou Cursor 3 em abril com interface centrada em agentes (em vez de files). Novo Design Mode para drag-and-drop UI, canvases pra visualizar progresso de agents, PR review melhorado, parallel agent execution. Adopted por 50% Fortune 500.",
+      "source": "InfoQ, DataCamp",
+      "link": "https://www.infoq.com/news/2026/04/cursor-3-agent-first-interface/",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Cursor 3: IDE inteiro reorganizado pra ser agent-first, não file-first",
+        "caption": "💻 Cursor saiu da crise de identidade: antes era 'VSCode com copilot', agora é 'IDE de agentes'. Cursor 3 redesenhou tudo.\n\n🧠 Interface agent-first: agents aparecem na sidebar (locais, cloud, Slack, GitHub, Linear). Você não mexe em arquivos — mexe em agentes.\n\n🎨 Design Mode: drag-and-drop em UI renderizada, 'point and prompt' pra mudanças. Não precisa saber CSS, agente sabe.\n\n🖼️ Canvases: agente trabalhando? Visualiza progresso, hipótese atual, resultado. Não é black box mais.\n\n⚡ Parallel execution: múltiplos agentes rodam junto. Quer gerar API + UI + tests? Roda 3 agentes em paralelo, junta depois.\n\n🌟 50% Fortune 500 já usa. Adoptado por 90k devs. Cursor virou standard pra dev com IA.\n\n#Cursor #IA #Dev #IDE #Agents #Fortune500 #Programação #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "IDE DEU RESTART — AGENTS FIRST",
+            "title": "Cursor 3: fim do file-thinking",
+            "highlight": "agents first",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "ADOCAO BRUTAL",
+            "title": "50% Fortune 500 usa Cursor",
+            "highlight": "50%",
+            "body": "Cursor 3 foi adotado por 50% das Fortune 500 companies em 2 meses. 90k devs ativos. Virou default pra dev que quer IA agent builder integrado no IDE.",
+            "stat": "90k",
+            "stat_label": "devs ativos",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "MUDANÇA FILOSOFICA",
+            "title": "VSCode pensa em 'arquivos', Cursor agora em 'agentes'",
+            "highlight": "agentes",
+            "body": "VSCode: você abre arquivo, edita linha. Cursor 3: você solta agent (planning, coding, testing), agent trabalha. Interface mudou: sidebar mostra agentes rodando (local, cloud, do GitHub), não pasta de arquivo. Não é mais 'código', é 'automação'.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "IMPLICACAO CLARA",
+            "title": "Dev virou orquestrador, não editor",
+            "highlight": "orquestrador",
+            "body": "Antes: dev sentava, digitava código. Cursor 3: dev solta agent ('faz CRUD em 5 minutos'), agent faz, dev revisa. Dev não digita mais — orquestra. Diferencial virou conhecimento de problema, não sintaxe.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "FEATURES CONCRETE",
+            "title": "Design Mode + Canvases + Parallel",
+            "highlight": "Design Mode",
+            "body": "Design Mode: arrasta elemento UI, solta, tira print, fala 'tira padding', agent faz. Canvases: vê agente rodando em tempo real (não black box). Parallel: roda 5 agentes junto (API, UI, tests, docs, deploy) — termina 5x rápido.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA SEU PROJETO",
+            "title": "Projeto de 2 semanas = 2 dias agora",
+            "highlight": "2 dias",
+            "body": "Quer build CRUD app? Cursor 3 Agent roda: schema → API endpoints → frontend → tests → deployment. Dev só aprova cada passo. 2 semanas de 2 devs viram 2 dias de 1 dev. Produto sai 5x mais rápido.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "TREND BRUTAL",
+            "title": "Coding virou orquestração de agentes",
+            "highlight": "orquestração",
+            "body": "Cursor 3 confirmou: era o fim da era de 'digitador de código'. Prompting é skill agora. Dev que sabe direto IA agents pra resolver problema — esse vira 10x mais produtivo. Quem ficar só digitando, tá obsoleto em 2027.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "BORA EXPERIMENTAR",
+            "title": "Testa Cursor 3, segue @rafaondei",
+            "highlight": "segue @rafaondei",
+            "body": "Se tu é dev, isso é seu futuro. Acompanha aqui movimento de tech que tá mudando profissão.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "DeepSeek V4 Pro: 80.6% SWE-Bench, 7x mais barato que GPT-5.5/Claude Opus",
+      "recommended": true,
+      "summary": "DeepSeek V4 Pro com 80.6% SWE-Bench, preço de $0.145/Mi input e $1.74/Mi output — 7x mais barato que Claude Opus 4.7 / GPT-5.5 com performance quase equivalente em agentes. CAISI avalia V4 com 8 meses lag em frontier, mas em benchmarks práticos compete direto.",
+      "source": "DeepSeek, Artificial Analysis",
+      "link": "https://api-docs.deepseek.com/news/news260424",
+      "category": "benchmark",
+      "carousel": {
+        "theme": "DeepSeek V4 Pro: desculpa pra sair de OpenAI/Claude é PREÇO — 7x mais barato",
+        "caption": "⚡ DeepSeek V4 Pro saiu em abril — e tá fazendo OpenAI e Anthropic suar. Competing diretamente em SWE-Bench (80.6%), MAS 7X MAIS BARATO.\n\n💰 Input: $0.145/Mi tokens. Output: $1.74/Mi. Claude Opus 4.7? Input $3/Mi, Output $15/Mi. Diferença é 10x de economia.\n\n📊 80.6% SWE-Bench Verified — ahead de Devstral 2, tá nisso ao lado de GPT-5.5 e Claude em agent tasks.\n\n🚀 Open-source model — você pode rodar localmente se quiser, sem API rent.\n\n⚠️ CAISI evaluation: V4 tá ~8 meses atrás de frontier em reasoning hardcore. MAS em bench reais (SWE, math, coding), tá no nível.\n\n💡 Implicação: startup rodando GPT-5.5 agora vai rodar DeepSeek amanhã. Economia de $50k/mês em API. Enterprise sai de Silicon Valley, vai pra China. Geopoliticamente quente.\n\n🔥 **ESSE É O DISRUPTOR DO MÊS** — muda dinâmica de mercado de IA fundamentalmente.\n\n#DeepSeek #IA #Benchmark #SWE-Bench #Economia #Startups #InteligenciaArtificial #Disrupção #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "A MOEDA MUDOU: PERFORMANCE IGUALOU, PREÇO NÃO",
+            "title": "DeepSeek V4: desculpa pra trocar",
+            "highlight": "desculpa pra trocar",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "NUMERO MEDONHO",
+            "title": "80.6% SWE-Bench, US$0.145 input",
+            "highlight": "7x mais barato",
+            "body": "DeepSeek V4 Pro: 80.6% em SWE-Bench (coding/agents). Preço? Input $0.145/Mi, output $1.74/Mi. Claude Opus? Input $3/Mi, output $15/Mi. DeepSeek é 7x mais barato rodando praticamente o mesmo performance.",
+            "stat": "7x",
+            "stat_label": "mais barato vs Claude",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O CONTEXTO QUE IMPORTA",
+            "title": "Performance ≈ Claude, Preço ≠",
+            "highlight": "Performance ≈",
+            "body": "Por 2 anos, você pagava premium em OpenAI/Anthropic porque ERAM melhores. Hoje não. DeepSeek V4 Pro matching em benchmarks práticos (SWE-Bench, reasoning agentic) com 90% off do preço. CAISI diz 'lag de 8 meses', mas em operação real = irrelevante.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "TROCOU DE JOGO",
+            "title": "Preço virou moat, não performance",
+            "highlight": "Preço virou moat",
+            "body": "OpenAI/Claude se meteram na performance (benchmark-chasing). DeepSeek? Vendendo 90% desconto com 95% da performance. Quem ganha? Startup. Empresa. Quem PERDE? Microsoft, Anthropic (margem explode pra zero).",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "POR QUE CONSEGUEM SER TÃO BARATO",
+            "title": "Custo chinês + open-source economics",
+            "highlight": "open-source",
+            "body": "DeepSeek rodando em data center chinês = 10x mais barato que AWS/Google Cloud. Além, modelo é open-source (pode rodar localmente sem API). Combinado: margem mínima mas volume ENORME ganha o jogo. OpenAI tem custos enterprise + margem — virou caro demais.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM SOFRE AGORA",
+            "title": "Startup sai de GPT-5.5, economia 50k/mês",
+            "highlight": "economia 50k",
+            "body": "Startup rodando 10M tokens/dia em GPT-5.5? Custo: ~$15k/mês. Mesmo em DeepSeek? ~$2k/mês. Economia de $156k/ano pra MESMA performance. CEO vira herói, margin sobe 10 pontos. Enterprise multiplica economia por 100.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "REALIDADE BRUTAL",
+            "title": "Era de Performance Wars acabou",
+            "highlight": "era de",
+            "body": "2024-2025: 'qual modelo é melhor?' Era importava. 2026: 'qual é 7x mais barato igual?' Importa. Quem ainda tá worrying sobre benchmark marginal vs preço (10x) tá perdendo trilhão na economia global. DeepSeek virou reference — China fez jogo geopolítico.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "MUDA PROVIDER AGORA",
+            "title": "Salva, testa, segue @rafaondei",
+            "highlight": "segue @rafaondei",
+            "body": "DeepSeek V4 é pivô do mercado. Acompanha aqui disrupção real — não hype, numero mesmo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "79% empresas usam Agents IA: +31% receita média, 88% vão expandir em 12m",
+      "summary": "PwC study: 79% das empresas já usam agentes IA, 88% planejam expandir investimento. Entre os que implementaram: +31% receita média. 40% de empresas BR adotaram, 95% reportam crescimento. Startups têm 29% em aplicações sofisticadas vs 12% empresas tradicionais.",
+      "source": "Portal Information Management, PwC",
+      "link": "https://docmanagement.com.br/02/06/2026/com-79-das-empresas-adotando-agentes-de-ia-metas-de-receita-para-2026-entram-em-revisao/",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "IA Agents virou operação core: 79% empresas, +31% receita, 88% vão expandir",
+        "caption": "📈 Study PwC: 79% das empresas globais JÁ usam agentes de IA. Não é futuro — é presente.\n\n💰 Quem implementou bem? +31% receita média. Não é marketing — é linha de baixo mesmo.\n\n🚀 88% planejam expandir investimento em agentes nos próximos 12 meses.\n\n🇧🇷 Brasil: 40% empresas adotaram agentes, 95% relatam crescimento de receita. Média de crescimento: +31%.\n\n⭐ Startups viram que agents é diferencial: 29% já rodam aplicações sofisticadas (vs 12% empresas big). Small virou grande porque agents leveled playing field.\n\n⚠️ Quem NÃO implementou agents em 2026 tá ficando pra trás — é virada de chave.\n\n🔑 Lição: agents virou operação core, não feature legal. Seu negócio roda agents? Se não, tá defasado.\n\n#Agents #IA #Negócios #Receita #Empresas #Mercado #InteligenciaArtificial #Empreendedorismo #PwC",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "AGENTS VIROU OPERACAO CORE",
+            "title": "79% empresas já usam",
+            "highlight": "79%",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "STUDY PwC 2026",
+            "title": "79% adoção, +31% receita",
+            "highlight": "+31%",
+            "body": "PwC auditou 2.5k empresas globais em 2026. Resultado: 79% já usam agentes IA. Entre os que implementaram bem: +31% receita média em 6-12 meses. Não é pilot — é produção.",
+            "stat": "31%",
+            "stat_label": "crescimento receita",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "PORQUE CRESCE RECEITA",
+            "title": "Agentes trabalham 24/7, reduz custo operacional",
+            "highlight": "24/7",
+            "body": "Agente atende suporte, qualifica lead, faz follow-up, gera report — tudo sem humano. Resultado: ticket agent resolve vai de 40% pra 80%. Humano foca em complex. Operação roda meia-noite, gera lead enquanto tu dorme. Receita cresce porque tempo cresce.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "TREND CRISTALIZADO",
+            "title": "Agentes virou commodity mesmo",
+            "highlight": "commodity",
+            "body": "88% das empresas vão EXPANDIR agents nos próximos 12 meses. Não tá mais 'se vou usar', é 'quanto vou gastar'. Já virou questão de budget, não de decisão. Quem ficar fora em 2027 vai tá muito atrás.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "QUAIS AGENTES FUNCIONAM",
+            "title": "Suporte, lead gen, reports, follow-up",
+            "highlight": "Suporte",
+            "body": "Agente de suporte: resolve 80% de tickets (FAQ, troubleshoot, escalate). Agente de lead gen: qualifica 1000 leads/dia em automático. Agente de reports: roda análise, gera apresentação pronta. Agente de follow-up: avisa quando oportunidade quente tá aí.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA STARTUP / PME",
+            "title": "Agents levela playing field contra enterprise",
+            "highlight": "levela",
+            "body": "Startup não tá mais perdendo porque 'não tem team'. Agora tem agentes. 29% das startups rodam aplicações sofisticadas em agents. Empresa big? 12%. Startup ganha porque ágil em operacionalizar — enterprise tá preso em procurement.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "2026 É INFLECTION",
+            "title": "Agents não é mais diferencial, é base",
+            "highlight": "é base",
+            "body": "Cinco anos atrás, ter website era diferencial. Hoje é base. Website sem website é impossível. Agents é isso em 2026 — tá deixando de ser inovação pra virar expectativa. Quem não tiver agentes operando, é como não ter email.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "NAO FICA PRAS TRÁS",
+            "title": "Implementa agent, segue @rafaondei",
+            "highlight": "segue @rafaondei",
+            "body": "Agents é operação. Vou cobrir aqui implementação, case study, benchmark. Bora sair na frente da concorrência.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    }
+  ],
+  "whatsapp": "🔥 RADAR IA 2026-05-15 — 10 notícias hot do mercado\n\n1️⃣ Claude for Small Business — Anthropic lançou pacote pronto (QuickBooks, HubSpot, Canva). Automação sem código, integração nativa. Saiba mais: https://siliconangle.com/2026/05/13/anthropic-launches-claude-small-business-new-automation-workflows/\n\n2️⃣ GPT-5.5 Instant + Codex Mobile — OpenAI: 52.5% menos alucinações, Codex agora no iOS/Android. Confiabilidade é novo diferencial. https://fastcompanybrasil.com/ia/chat-gpt-5-5-o-que-muda-com-atualizacao-da-openai/\n\n3️⃣ Gemini Omni (Google I/O 19-20 mai) — Geração de vídeo full no chat, edição conversacional. Sora morreu, Google entra. https://gd.eurisko.com.br/2026/05/14/google-vai-revelar-novo-modelo-gemini-no-i-o-na-proxima-semana\n\n4️⃣ Grok 4.3 Launch — xAI: 25→72 benchmark, $1.25/$2.50 preço. Agentes rodam production-grade agora. https://help.apiyi.com/en/grok-4-3-release-xai-api-model-retirement-en.html\n\n5️⃣ Llama 4 Multimodal — Meta: 17B params (Scout) + 128 experts (Maverick), bate GPT-4o. Open-source tier-1. https://ai.meta.com/blog/llama-4-multimodal-intelligence/\n\n6️⃣ Mistral Medium 3.5 — 77.6% SWE-Bench, merged 3 modelos em 1, reasoning_effort toggle. https://www.marktechpost.com/2026/05/02/mistral-ai-launches-remote-agents-in-vibe-and-mistral-medium-3-5-with-77-6-swe-bench-verified-score/\n\n7️⃣ Perplexity +50% receita — Agents mudaram jogo. Personal Computer no Mac, Opus 4.7 native. https://exame.com/inteligencia-artificial/mudanca-de-foco-da-perplexity-para-agentes-de-ia-faz-receita-subir-50-em-um-mes/\n\n8️⃣ Cursor 3 (Agent-First IDE) — Novo design, 50% Fortune 500. Dev virou orquestrador, não digitador. https://www.infoq.com/news/2026/04/cursor-3-agent-first-interface/\n\n9️⃣ **🔥 DeepSeek V4 Pro — 80.6% SWE-Bench, 7x mais barato que Claude/GPT. DISRUPTOR DO MÊS.** https://api-docs.deepseek.com/news/news260424\n\n🔟 Agents IA viram core: 79% empresas, +31% receita, 88% expandindo em 12m. Agora é base, não feature. https://docmanagement.com.br/02/06/2026/com-79-das-empresas-adotando-agentes-de-ia-metas-de-receita-para-2026-entram-em-revisao/\n\n📊 Dashboard completo: https://rafaelondei.appnaia.com",
+  "instagram": "📡 RADAR IA 2026-05-15 — 10 notícias que vão mexer com teu negócio\n\nSemana quente: Claude pra PME, GPT-5.5 menos alucinações, Google revida com Gemini Omni, Grok 4.3 sobe de 25→72 benchmark, Meta soltou Llama 4 beating GPT-4o, Mistral merged 3 modelos em 1, Perplexity cresceu 50% em receita com agents, Cursor 3 virou padrão (50% Fortune 500), DeepSeek V4 é 7x mais barato com mesma performance (DISRUPTOR), e agents deixou de ser feature — 79% empresas usam, +31% receita.\n\n🔥 Destaque do dia: DeepSeek V4 Pro. Tá mudando dinâmica de mercado fundamental. Performance ≈ Claude/GPT, preço = 7x mais barato. Startup sai de OpenAI economiza $50k/mês. Não é hype — é geopoliticamente quente.\n\n✅ Trend cristalizado: agentes virou operação core. Quem não tiver agentes em produção em 2026 tá defasado.\n\n🎬 Cada notícia tem carousel Instagram pronto (8 slides) pra tua estratégia de conteúdo.\n\n💡 O que muda pra empreendedor BR: automação tá commodity. Preço caiu 7x em 3 meses. Seu negócio roda agentes? Se não, bota na lista de mai.\n\n🔗 Dashboard: https://rafaelondei.appnaia.com\n\n#IA #Claude #GPT #Gemini #Grok #Llama #Mistral #Perplexity #Cursor #DeepSeek #Agents #InteligenciaArtificial #Empreendedorismo #Tecnologia #Startups #Inovação"
+}

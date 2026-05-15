@@ -1,0 +1,1132 @@
+{
+  "date": "2026-05-14",
+  "topic": "mercado de IA",
+  "topic_slug": "mercado-ia",
+  "generated_at": "2026-05-14T07:00:01-03:00",
+  "items": [
+    {
+      "title": "Claude for Small Business: IA integrada em QuickBooks, PayPal, HubSpot",
+      "summary": "Anthropic lançou Claude for Small Business em 13 de maio com 15 skills prontas que conectam direto em QuickBooks, PayPal, HubSpot, Canva, Docusign, Google Workspace e Microsoft 365. PMEs conseguem automatizar folha, contabilidade, campanhas de marketing e onboarding de pessoas sem código.",
+      "source": "Anthropic / TechCrunch",
+      "link": "https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/",
+      "category": "ferramenta",
+      "recommended": true,
+      "carousel": {
+        "theme": "IA que funciona com as ferramentas que tua PME já usa",
+        "caption": "Anthropic acabou de lançar Claude for Small Business — IA que sabe QuickBooks, PayPal, HubSpot, Canva, Google Workspace. Sem integração manual. Sem prompt engenharia. 15 skills prontos: folha, contabilidade, CRM, marketing, hiring, relatórios. Tua PME vira consultoria digital sem contratar dev. Pra quem vende B2B, coordena team, quer 40% mais receita sem duplicar operação. Mercado de SaaS pra PME = $800B em 2026. Claude for Small Business + agentes = sua vantagem competitiva. #IA #Claude #PME #Automação",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "ISSO VAI MUDAR COMO VOCÊ TRABALHA",
+            "title": "Claude sabe QuickBooks, PayPal, Canva, HubSpot",
+            "highlight": "Claude",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "ANTHROPIC ENTREGA",
+            "title": "15 skills prontos, zero integração manual",
+            "highlight": "15 skills",
+            "body": "Não precisa conectar. Não precisa de developer. Claude já sabe ler folha de pagamento, entender sua receita no PayPal, organizar seus clientes no HubSpot e criar campanhas no Canva.",
+            "stat": "15",
+            "stat_label": "skills prontos para trabalhar",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE MUDA HOJE",
+            "title": "As ferramentas que você usa viram inteligentes",
+            "highlight": "inteligentes",
+            "body": "Até ontem, tua IA não sabia o que tava acontecendo em QuickBooks. Agora Claude abre o seu dashboard financeiro, entende padrão de vendas, avisa quando alguém tá pagando atrasado e propõe ação. Mesma coisa com PayPal, HubSpot, Canva.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "DISRUPÇÃO CLARA",
+            "title": "PME com folha, contabilidade, marketing automatizados",
+            "highlight": "automatizados",
+            "body": "Tua operation costava 3 pessoas fazendo o mesmo que Claude agora faz em 5 minutos. Folha de pagamento não é mais uma dor. Reconciliação bancária vira um report que Claude entrega todo mês. Marketing campaign é 1 briefing, Claude faz tudo: cria ad copy, design no Canva, publica.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Claude lê dados reais de cada ferramenta",
+            "highlight": "dados reais",
+            "body": "É diferente de IA genérica. Claude vai em QuickBooks, ve seus lançamentos, entende contexto (essa venda é recorrente?), propõe ação automática (já reconciliou, já aviso o cliente). Conecta em PayPal (viu qdo recebeu), HubSpot (viu histórico do cliente), Docusign (viu contrato que assinaram). Tudo junto.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM IMPORTA",
+            "title": "Empreendedor BR que vende B2B e B2C",
+            "highlight": "Empreendedor BR",
+            "body": "Se tu vende software, serviço, consultoria ou produto — IA agora tira 20-30 horas de administrativo teu por semana. Headcount não cresce, receita cresce. Margem explode. Teu time foca vendas e produto, não planilha.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO DO DIA",
+            "title": "IA não é consultoria, é colega de trabalho",
+            "highlight": "colega",
+            "body": "2024: IA era ferramenta pra copiar-colar. 2025: IA era agente de tarefas. 2026: IA é seu Operations Manager que entende cada dado da empresa. Não precisa treinar. Não precisa arquivo. Entra em cada software que tu usa e opera.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "SEU PRÓXIMO PASSO",
+            "title": "Salva esse post e segue @rafaondei pro radar diário",
+            "highlight": "@rafaondei",
+            "body": "10 notícias de IA todo dia. Qual move de tech vai virar seu negócio? Acompanha aqui.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Claude Opus 4.7: visão 5x melhor, reasoning 13% mais forte",
+      "summary": "Anthropic liberou Claude Opus 4.7 em maio com melhorias em coding complexo (software engineering), tasks de longa duração e visão em alta resolução. É a versão mais capaz de Claude que existe, vencendo concorrentes em benchmark SWE-Bench.",
+      "source": "Anthropic",
+      "link": "https://www.anthropic.com/news/claude-opus-4-7",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Claude agora vê imagens nítidas e entende código melhor que qualquer IA",
+        "caption": "Claude Opus 4.7 tá no ar. A notícia boa: esse é o Claude mais inteligente que existe. Melhor em coding (software engineering e tarefas longas de debug). Visão 5x mais nítida (resolve problemas visuais complexos). Reasoning lógico 13% melhor que a versão anterior. Seu benchmark SWE-Bench = 64.3% (GPT-5.5 = 58.6%). Pra dev que precisa depurar, refatorar sistema legado ou arquitetar nova feature — Claude 4.7 é seu novo melhor amigo. Ganha tempo, custa menos que Opus anterior. #Claude #IA #Desenvolvimento #Coding",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "NOVO RECORDE",
+            "title": "Claude Opus 4.7 domina em visão e código",
+            "highlight": "Opus 4.7",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "OS NÚMEROS",
+            "title": "64.3% em SWE-Bench vs 58.6% GPT-5.5",
+            "highlight": "64.3%",
+            "body": "Quando software engineers testam ambas IAs em problem solving real (coding tasks que importam), Claude Opus 4.7 vence goleada. Mais lógica, menos alucinação.",
+            "stat": "64.3%",
+            "stat_label": "SWE-Bench (vs GPT-5.5: 58.6%)",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "TIMELINE DO ACONTECIMENTO",
+            "title": "Anthropic liberou Opus 4.7 fora do beta",
+            "highlight": "fora do beta",
+            "body": "Maio 2026. Depois de meses testando com Dev, Stripe, Canva. Agora todo dev tem acesso. Não precisa esperar fila. Não precisa pedir early access. Tá lá, aberto, pronto pra debug seu código.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O QUE MUDA",
+            "title": "Tarefas de coding que duravam 2 horas agora duram 15 min",
+            "highlight": "duram 15 min",
+            "body": "Refatoração de código legado (Opus 4.7 entende contexto do sistema inteiro). Debug de problema que você não sabe por onde começar (Claude vê a imagem da stack trace, lê o erro, propõe exato a fix). Arquitetura de nova feature sem design doc (Claude dá 3 opções com tradeoff).",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FICOU MELHOR",
+            "title": "Visão 5x mais nítida + reasoning 13% mais forte",
+            "highlight": "5x mais nítida",
+            "body": "Antes: Claude via imagem em baixa resolução, perdia detalhe. Agora: enxerga print de erro, lê cada pixel. Antes: Claude raciocínio era linear. Agora: segue ramificações complexas. Resultado: menos voltas, menos erros.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM GANHA",
+            "title": "Dev em startup, freelancer, time de 2 pessoas",
+            "highlight": "Dev",
+            "body": "Se você programa, você ganha velocidade. Se você lidera time técnico, sua leverage cresce 40-60%. Se você é freelancer, seus 10 projects virando 15 projetos com mesmo time.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "VERDADE DO MERCADO",
+            "title": "Melhor LLM ≠ mais receita, a menos que use agentes",
+            "highlight": "agentes",
+            "body": "Claude Opus 4.7 é mais inteligente, mas sua receita não cresce 13% só porque o modelo ficou melhor. Só cresce se você USAR isso em agente que resolve problema real do cliente. IA pura = commodity. IA em workflow = moat.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Testa Claude 4.7 hoje e segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Qual IA vai resolver seu gargalo de desenvolvimento? Acompanha aqui pra descobrir.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Claude Platform on AWS: Anthropic traz API pra infraestrutura AWS",
+      "summary": "Anthropic lançou Claude Platform on AWS em maio, trazendo Claude API direto na infraestrutura gerenciada pela Anthropic em AWS. Inclui agentes gerenciados, execução de código, web tools, skills, prompt caching, e novos modelos com billing e autenticação IAM.",
+      "source": "Anthropic",
+      "link": "https://www.anthropic.com/news/claude-platform-on-aws",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Claude sai da OpenAI, entra em AWS de verdade",
+        "caption": "Anthropic + Amazon. Claude Platform on AWS = Claude API roda em infraestrutura gerenciada pela própria Anthropic que tá em AWS. Billing direto na sua conta AWS. Autenticação via IAM (mesma que você usa pra Lambda, RDS, S3). Inclui: agentes, web tools, skills, prompt caching, execução de código. Pra enterprise que quer IA com compliance, auditoria, segurança. Nada de 3ª parte. Tudo first-party (Anthropic + AWS). #Claude #AWS #Enterprise #IA",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "MUDANÇA ESTRATÉGICA",
+            "title": "Claude sai de OpenAI, chega em AWS",
+            "highlight": "Claude",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O QUE VEM",
+            "title": "Claude API + gerenciamento de Anthropic em AWS",
+            "highlight": "Claude API",
+            "body": "Antes: você usava Claude via API pública. Agora: você usa Claude em infraestrutura AWS que Anthropic gere. Tudo dentro da tua VPC se quiser. Tudo dentro da tua conta.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "CONTEXTO EMPRESARIAL",
+            "title": "Enterprise + compliance virou prioridade para IA",
+            "highlight": "Enterprise",
+            "body": "Antes, empresas gigantes usavam IA em "sandbox" porque medo de regulação, auditoria, segurança. Agora: Anthropic + AWS = compliance ready (ISO 27001, SOC2, HIPAA viável). Dados não saem do ecossistema AWS-Anthropic.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "DISRUPÇÃO QUIETA",
+            "title": "Enterprise agora adopta Claude sem medo",
+            "highlight": "sem medo",
+            "body": "Fortune 500 que tem compliance officer, auditoria anual, regulação específica (financeira, saúde) — agora pode usar Claude com confiança. Tudo rastreável. Tudo em logs. Tudo com IAM. Era barreira, agora deixou de ser.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "STACK TÉCNICO",
+            "title": "Agentes + web tools + skills + prompt caching",
+            "highlight": "Agentes",
+            "body": "Você cria agente que roda em Lambda. Agente chama Claude API em Anthropic-managed infra em AWS. Resultado cai em DynamoDB. Tudo em uma conta, um IAM role. Prompt caching economiza 90% latência se precisar repetir context.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM SE BENEFICIA",
+            "title": "Banco, healthcare, fintech com compliance officer",
+            "highlight": "Banco",
+            "body": "Se você trabalha em regulated industry e precisa de IA — essa é sua porta de entrada. Não precisa negociar com OpenAI. Não precisa compromisso de dados. Anthropic garante em contrato.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "ESTRATÉGIA 2026",
+            "title": "Anthropic tá virando infraestrutura, não só software",
+            "highlight": "infraestrutura",
+            "body": "Ano passado: Anthropic era 'IA mais segura que OpenAI'. Hoje: Anthropic é infraestrutura (AWS + agents + compliance + pricing). Diferença = defensibilidade. AWS não sai do seu lock-in. Anthropic agora fica ali também.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "SE VOCÊ É EMPRESA",
+            "title": "Salva esse post + segue @rafaondei pro radar",
+            "highlight": "@rafaondei",
+            "body": "Qual IA vai resolver seu compliance? Acompanha aqui.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Google Gemini Omni vaza antes do I/O: multi-modal em 1 modelo",
+      "summary": "Em 2 de maio, desenvolvedor descobriu 'Omni' dentro de código do Gemini — modelo unreleased que unifica text, image e video generation em pipeline único. Esperado lançamento em Google I/O 2026 (19-20 maio) com release pública 2-4 semanas depois.",
+      "source": "iMini AI / Google I/O 2026 Rumors",
+      "link": "https://imini.com/blogs/gemini-omni-google-io-2026",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Google lança IA que cria texto, imagem e vídeo do zero",
+        "caption": "Gemini Omni é o segredo que Google tá guardando pro Google I/O 2026 (19-20 maio). Código vazou no dia 2 maio. Uma única IA que gera: texto (como ChatGPT), imagem (como Midjourney), vídeo (como Sora). Sem trocar de ferramenta. Sem prompt separado. Um briefing, 3 outputs. Early leaks mostram melhora em prompt adherence vs Veo 3.1. Prós: tudo em 1 lugar. Contras: Google sempre cobra plano premium. Pra produtor de conteúdo, marketer, criativo. #GoogleIO #Gemini #IA",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "O SEGREDO VAZOU",
+            "title": "Gemini Omni: 1 IA que cria tudo",
+            "highlight": "Omni",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "TIMELINE",
+            "title": "Vaza em 2 maio, lança em 19-20 maio",
+            "highlight": "19-20 maio",
+            "body": "Desenvolvedor achou string 'Start with an idea or try a template. Powered by Omni' dentro do Gemini. Quer dizer: Google tá meses de lançamento. Google I/O 2026 = dia exato.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE GOOGLE DESCOBRIU",
+            "title": "Um modelo pra tudo vira realidade",
+            "highlight": "realidade",
+            "body": "Até agora, IA era especializada: OpenAI/GPT = texto, Midjourney = imagem, Sora = vídeo. Google disse: não, vamos fazer um modelo que faz OS TRÊS no mesmo contexto. Entende prompt una vez. Gera em 3 dimensões.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "IMPACTO REAL",
+            "title": "Produtor de conteúdo não precisa de 4 assinaturas",
+            "highlight": "produtor",
+            "body": "Hoje: você paga ChatGPT (texto) + Midjourney (imagem) + Sora (vídeo) + Adobe Premium (edição) = US$ 200-300/mês. Com Omni: 1 assinatura. 1 login. 1 interface. Produz em velocidade 4x.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Omni é pipeline único de text+image+video",
+            "highlight": "pipeline único",
+            "body": "Tu escreve: 'mulher fazendo yoga ao nascer do sol, cores quentes, vídeo 10 segundos'. Omni: gera script curto (texto), cria 3 imagens (reference), anima em vídeo. Tudo coerente porque é MESMO modelo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM VIRA HERÓI",
+            "title": "Marketer, content creator, agência, TikToker",
+            "highlight": "Marketer",
+            "body": "Se você produz conteúdo (redes, YouTube, ads), Omni é seu novo poder. Menos clicks, menos tempo, mesma qualidade. Team de 2 pessoas vira time de 5.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO PROFUNDA",
+            "title": "Multi-modal em 1 modelo = novo padrão",
+            "highlight": "novo padrão",
+            "body": "2024: especialistas venciam generalistas. 2025: especialistas de verdade dominam. 2026: 1 modelo que faz TUDO bem vira melhor que 3 especialistas. Convergência > dispersão.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TEM MAIS POR VIR",
+            "title": "Segue @rafaondei pro radar de Google I/O",
+            "highlight": "@rafaondei",
+            "body": "Qual IA vai virar sua arma secreta em marketing? Acompanha aqui.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "xAI Grok 4.3: modelo mais rápido, preço 20% menor",
+      "summary": "xAI lançou Grok 4.3 em 6 de maio como modelo mais rápido e inteligente que Grok 4.20, com 20% de queda no custo por token. Custa US$ 1.25 por milhão de tokens vs concorrentes muito mais caros. Melhora 300 Elo em benchmarks específicos vs versão anterior.",
+      "source": "Artificial Analysis / VentureBeat",
+      "link": "https://artificialanalysis.ai/articles/xai-launches-grok-4-3-with-improved-agentic-performance-and-lower-pricing",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Grok 4.3: IA que não queima orçamento de API",
+        "caption": "xAI lançou Grok 4.3 no dia 6 maio. A notícia: mais inteligente, mais rápido, 20% mais barato que versão anterior. Custa US$ 1.25 por milhão de tokens (OpenAI GPT-4o = US$ 5-7, Claude 3.5 = US$ 3-4). Ganhou 300 pontos Elo em benchmarks que importam (CaseLaw v2, CorpFin). Pra startup que queima US$ 2k/mês em API — Grok pode ser US$ 500. Pra grande empresa que quer alternativa a OpenAI — Grok deixou de ser hobby. #Grok #xAI #IA #CustoParaEmpresa",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "DISRUPÇÃO DE PREÇO",
+            "title": "Grok 4.3: IA que não quebra orçamento",
+            "highlight": "Grok 4.3",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "OS NÚMEROS FINAIS",
+            "title": "US$ 1.25/M tokens vs US$ 5-7 (OpenAI)",
+            "highlight": "US$ 1.25",
+            "body": "Grok 4.3 custa 4-6x menos que GPT-4o. Pra empresa que processa 1 bilhão de tokens/mês: diferença é US$ 5k vs US$ 6k. Pra empresa de 100 bilhões: diferença é US$ 100k vs US$ 600k.",
+            "stat": "US$ 1.25",
+            "stat_label": "por milhão de tokens",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O MERCADO HOJE",
+            "title": "IA ficou commodity, preço virou o diferencial",
+            "highlight": "commodity",
+            "body": "Todos os top modelos (GPT-5.5, Claude 4.7, Grok 4.3, Gemini 3.1) são 'bons o suficiente' pra maioria dos casos. Diferença de 5% em benchmark não importa. Diferença de preço importa MUITO.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "DINÂMICA QUE MUDA",
+            "title": "Startups saem de OpenAI e vão pra Grok",
+            "highlight": "Startups",
+            "body": "Se você roda agente que processa 500M tokens/mês, Grok vs OpenAI = US$ 600 vs US$ 3500. Com Grok, você coloca 2x mais users GRÁTIS (margem cresce). Não é 'IA melhor', é 'IA que deixa você lucrar'.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO ISSO ACONTECE",
+            "title": "xAI treinou melhor, otimizou hardware, absorve margem",
+            "highlight": "otimizou",
+            "body": "Grok roda em hardware X (Tesla, SpaceX infrastructure). OpenAI roda em hardware Y (Azure). xAI descobriu como fazer Grok 4.3 com menos operações (mais eficiente). Passa economia pro cliente.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM GANHA",
+            "title": "Startup IA, agências, consultoria, SaaS",
+            "highlight": "Startup IA",
+            "body": "Se seu negócio depende de chamar IA por API, Grok 4.3 deixa seu produto 4x mais rentável (mesma receita, 1/4 dos custos). Se você vende IA pra cliente, você marca Grok em vez de OpenAI, ganha a margem.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O FUTURO DA IA",
+            "title": "Inteligência se commoditizou, preço é novo moat",
+            "highlight": "preço",
+            "body": "Quem ganha em IA 2026 não é quem tem melhor modelo. É quem roda modelo mais eficiente ao menor custo. xAI entendeu. OpenAI tá caro demais. Claude tá caro demais. Grok virou escolha racional.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMA MOVE",
+            "title": "Seu stack de IA tá otimizado? Segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Qual IA custa menos e roda igual? Acompanha aqui.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Meta Llama 4: open-source multimodal que bate GPT-4o",
+      "summary": "Meta lançou Llama 4 Scout (17B active params, 16 experts) e Llama 4 Maverick (17B active params, 128 experts) como modelos open-weight nativa multimodal com contexto de 10M tokens. Llama 4 Maverick bate GPT-4o e Gemini 2.0 Flash em benchmarks amplos com metade dos parâmetros de competitors.",
+      "source": "Meta AI Blog",
+      "link": "https://ai.meta.com/blog/llama-4-multimodal-intelligence/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Open-source que bate modelo proprietário de paga",
+        "caption": "Meta lançou Llama 4 Scout e Llama 4 Maverick em maio 2026. A novidade: open-source, roda em sua máquina, entende texto+imagem+vídeo, contexto gigante (10M tokens = livros inteiros). Llama 4 Maverick bate GPT-4o em benchmarks com METADE dos parâmetros. Pra dev/empresa que quer IA poderosa sem dar dado pro OpenAI/Google. Roda em-casa se precisar. Segurança total, zero edge cases de prompt injection de competitor. #Llama #Meta #OpenSource #IA",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "OPEN SOURCE CHEGOU JUNTO",
+            "title": "Llama 4 é open e bate GPT-4o",
+            "highlight": "open",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "COMPARAÇÃO DIRETA",
+            "title": "Llama 4 Maverick = GPT-4o performance, 50% dos parâmetros",
+            "highlight": "50%",
+            "body": "Llama 4 Maverick: 17 bilhões parâmetros ativos. GPT-4o: ~100+ bilhões. Mesmo resultado, modelo muito menor. Quer dizer: roda em GPU consumer (NVIDIA 4090), não precisa cloud caríssima.",
+            "stat": "50%",
+            "stat_label": "do tamanho de GPT-4o, mesmo resultado",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "META TA FAZENDO",
+            "title": "Open-source de verdade (roda local, sem enviar dado pra ninguém)",
+            "highlight": "local",
+            "body": "Llama 4 é open-weight = você baixa arquivo, coloca em servidor seu, roda. Nenhum dado vai pra Meta, Google, OpenAI. Seu próprio modelo de verdade.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDANÇA ESTRUTURAL",
+            "title": "Empresa agora pode usar IA sem confiar em ninguém",
+            "highlight": "sem confiar",
+            "body": "OpenAI tá no cloud de umas. Google tá em outro cloud de outros. Meta vai: 'pegue o modelo, roda aí mesmo'. Implicação = empresa que quer full compliance, segurança, sem dependência de US cloud provider — Llama é resposta.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Llama 4 Maverick: 128 experts, mistura dinâmica",
+            "highlight": "128 experts",
+            "body": "Modelo usa 'mixture of experts' = em vez de 1 rede neural gigante, tem 128 especialistas. Pra tarefa de código, acorda experts de código. Pra image, acorda de image. Resultado: eficiência 4x melhor que dense network.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM FICA PODEROSO",
+            "title": "Dev independente, empresa que quer dados privados, EU govs",
+            "highlight": "Dev",
+            "body": "Dev pode criar produto sem pagar API OpenAI. Empresa pode usar IA com regulação europeia (GDPR) sem problema. Government pode treinar IA classificada sem US cloud.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "VERDADE 2026",
+            "title": "Open-source IA agora é competitor real de proprietary",
+            "highlight": "competitor",
+            "body": "Antes: Open source era brinquedo. Agora: Open source bate closed source em performance. Questão não é mais 'qual é melhor', é 'qual quer usar sem dar dado'.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "MONTE SEU STACK",
+            "title": "Open-source mudou o jogo. Segue @rafaondei pro radar",
+            "highlight": "@rafaondei",
+            "body": "Qual IA open te interessa? Acompanha aqui.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "OpenAI GPT-5.5: 52% menos alucinações, novas security models",
+      "summary": "OpenAI lançou GPT-5.5 em 23 de abril com 52% redução de alucinações vs GPT-4o. Também lançou GPT-5.5-Cyber (security), advanced voice intelligence models na API, Trusted Contact em ChatGPT. API disponível desde 24 abril.",
+      "source": "OpenAI News / ChatGPT Release Notes",
+      "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "GPT-5.5: IA que mente menos e entende voz melhor",
+        "caption": "OpenAI lançou GPT-5.5 em 23 abril (API em 24 abril). A melhoria: 52% menos alucinação (IA não inventa fatos). Também: GPT-5.5-Cyber pra security research, voice intelligence models pra app que ouve. Pra quem usa IA em produção, alucinação é pior que lentidão (confiança fica zero). Esse update deixa GPT-5.5 competitivo outra vez vs Claude 4.7. #GPT #OpenAI #IA",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "MELHORIA CRUCIAL",
+            "title": "GPT-5.5 mente 52% menos",
+            "highlight": "mente",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "MÉTRICA QUE IMPORTA",
+            "title": "52% redução em alucinações vs GPT-4o",
+            "highlight": "52%",
+            "body": "Alucinação = IA inventa fato que não existe. GPT-4o mente em 1 a cada 10 respostas. GPT-5.5 mente em 1 a cada 20. Diferença enorme pra produção.",
+            "stat": "52%",
+            "stat_label": "menos alucinação",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O PROBLEMA ANTIGO",
+            "title": "IA generativa tinha problema de confiança",
+            "highlight": "confiança",
+            "body": "Você coloca ChatGPT em produção, cria agente que recomenda investimento pra cliente. IA alucina 'investimento X tem retorno 300%' (mentira). Cliente perde dinheiro. Seu negócio perde credibilidade.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "GAME CHANGER",
+            "title": "Agora é seguro colocar IA em workflow crítico",
+            "highlight": "seguro",
+            "body": "52% menos alucinação = confiança sobe MUITO. Você consegue usar IA como primeira filtro (reduz work pra human). Human faz validação final (risco controlado). Antes disso era irresponsável.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FIZERAM",
+            "title": "OpenAI retreinou com dados mais limpnos",
+            "highlight": "retreinou",
+            "body": "Provavelmente: menos dados ruins, mais validação human em training, técnicas de prompting melhoradas no modelo. Resultado: modelo pisa menos em terreno incerto (inventa menos).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM RESPIRA",
+            "title": "Enterprise, legal, healthcare, fintech",
+            "highlight": "Enterprise",
+            "body": "Se você vende IA pra banco ou hospital, agora consegue justificar 'IA que mente menos'. Se você usa IA internamente, consegue controlar risco melhor.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO DA HISTÓRIA",
+            "title": "Confiança é 10x mais difícil que inteligência",
+            "highlight": "Confiança",
+            "body": "É fácil treinar IA que parece inteligente (diz coisas com confiança). É MUITO difícil treinar IA que é confiável (diz coisas verdadeiras). 52% menos erro = enorme progresso.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Teste GPT-5.5 e segue @rafaondei pro radar",
+            "highlight": "@rafaondei",
+            "body": "Qual IA é confiável pro seu caso? Acompanha aqui.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Google Veo 3.1 Lite: gerador de vídeo 4K mais rápido e barato",
+      "summary": "Google lançou Veo 3.1 Lite como versão otimizada do Veo 3.1 — gera vídeo 4K em qualidade próxima ao Veo cheio com velocidade 2x e custo 50% menor. Disponível para devs via API e experimentos em Gemini Advanced. Compite com Sora de novo após Sora descontinuar.",
+      "source": "Google Blog - Veo 3.1 Lite",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Vídeo 4K em 30 segundos, custa 1/4 de antes",
+        "caption": "Google lançou Veo 3.1 Lite — mesmo vídeo 4K que Veo 3.1 full, mas 2x mais rápido e 50% mais barato. Pra produtor que gera 10-20 vídeos por dia: diferença é US$ 100 vs US$ 500. Sora morreu em abril (OpenAI discontinued). Veo 3.1 Lite tá no lugar. Qualidade boa, preço barato. #Google #Veo #VideoAI",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "SORA TA MORTO",
+            "title": "Veo 3.1 Lite é o novo rei de vídeo",
+            "highlight": "Veo",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "NÚMEROS DA DISRUPÇÃO",
+            "title": "2x mais rápido, 50% mais barato que Veo 3.1 full",
+            "highlight": "50%",
+            "body": "Veo 3.1 full: 1 minuto pra gerar video de 30s, custa US$ 0.20. Veo 3.1 Lite: 30 segundos pra mesmo video, custa US$ 0.10. Qualidade = 95% mesma.",
+            "stat": "50%",
+            "stat_label": "mais barato",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "CONTEXTO: SORA MORREU",
+            "title": "OpenAI descontinuou Sora em 26 abril",
+            "highlight": "Sora",
+            "body": "Sora era generational tech. OpenAI achou que não rentabilizava rápido. Descontinuou. Veo 3.1 toma lugar. Google tá ganhando mercado por default.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O QUE SIGNIFICA",
+            "title": "Produtor de conteúdo agora confia em Google",
+            "highlight": "Google",
+            "body": "Vídeo gerado por IA virou ferramenta real (não hobby). Produtor que faz 10 vídeos/dia: Veo 3.1 Lite = gerador automático. Custa menos que 1 freelancer. Gera melhor que 50% dos videos caseiros.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO GOOGLE FEZ",
+            "title": "Veo 3.1 Lite é destilação de Veo 3.1 full",
+            "highlight": "destilação",
+            "body": "Google pegou Veo cheio, destilou (treinamento menor mas smarter), cortou features que ninguém usa, otimizou pra Google Cloud infra. Resultado: rápido, barato, qualidade 95%.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM FUNCIONA",
+            "title": "Marketer, TikToker, YouTuber, agência, startup",
+            "highlight": "Marketer",
+            "body": "Se tu cria conteúdo, Veo 3.1 Lite = potência. Se tu roda agência de video, Veo = 3x mais delivery, mesma gente. Se tu precisa de video de produto, Veo = DIY em 5 minutos.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO PARA NEGÓCIO",
+            "title": "Quando startup falha, big tech adapta e ganha",
+            "highlight": "big tech",
+            "body": "OpenAI fez Sora, falhou em monetizar. Google fez Veo, viu que Lite = casamento perfeito (rápido, barato, bom). Sora morreu. Veo ganha. Leadership é adaptação.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "SEU PRÓXIMO VIDEO",
+            "title": "Testa Veo e segue @rafaondei pro radar",
+            "highlight": "@rafaondei",
+            "body": "Qual ferramenta de video vai multiplicar seu conteúdo? Acompanha aqui.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Claude Design: criar UI/UX junto com IA (novo produto Anthropic)",
+      "summary": "Anthropic lançou Claude Design em maio de 2026 — novo produto que deixa você colaborar com Claude pra criar visuais: designs, protótipos, slides, one-pagers. Junto com Opus 4.7, Design é parte do ecossistema visual de Anthropic.",
+      "source": "Anthropic",
+      "link": "https://www.anthropic.com/news/claude-design",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Designer não precisa saber Figma, só briefing",
+        "caption": "Anthropic lançou Claude Design — IA que cria: designs, protótipos, slides, one-pagers. Você dá briefing, Claude gera visual. Pra empreendedor que não sabe Figma mas precisa de material pronto. Pra time de design que quer 10x velocidade. Pra startup que não pode pagar designer full-time. #Claude #Design #IA",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "DESIGN SEM DESIGNER",
+            "title": "Claude Design: criar visual só com briefing",
+            "highlight": "Design",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O QUE CRIA",
+            "title": "Designs, protótipos, slides, one-pagers",
+            "highlight": "protótipos",
+            "body": "Tu escreve: 'landing page pra app de delivery, tons quentes, botão CTA laranja gigante'. Claude Design gera layout, cores, tipografia, componentes prontos.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "MERCADO DE DESIGN",
+            "title": "Designer freelancer custa US$ 50-150/hora",
+            "highlight": "freelancer",
+            "body": "Briefing > wait 1-2 semanas > primeira versão > 3-4 iterações > vira bom. Total: US$ 1500-2500 por design. Claude Design: US$ 20/mês, resultado em 30 segundos.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDA TUDO",
+            "title": "Startup não precisa mais de designer contratado",
+            "highlight": "contratado",
+            "body": "Antes: design era gargalo (caro, lento). Agora: design é commodity (rápido, barato). Startup de 3 pessoas que tinha que pagar designer — agora usa Claude Design e paga 1/100 do custo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Claude entende design patterns, refaz em segundos",
+            "highlight": "refaz",
+            "body": "Claude foi treinado em milhões de designs (Dribbble, Behance, landing pages). Tu dá contexto (indústria, tom, público), Claude gera usando patterns que funcionam. Se não gostar, pede 'mais moderno' ou 'mais minimalista', Claude refaz em 5 segundos.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM DOMINA",
+            "title": "Founder, PM, marketer que precisa de visual",
+            "highlight": "Founder",
+            "body": "Se você é founder e precisa de slide pra pitch investor, Claude Design faz em 2 minutos. Se você é PM e precisa de mockup pra spec, Claude Design faz em 5 minutos.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "VERDADE FUNDA",
+            "title": "Criatividade ≠ skill técnico. IA liberou a 1ª",
+            "highlight": "Criatividade",
+            "body": "Antes: pra ter boa design, precisava de skill técnico (Figma, Adobe). Agora: só precisa de criatividade (saber o que tu quer). IA faz o técnico. Democratiza design.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO DESIGN",
+            "title": "Cria teu design e segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Qual design tu precisa fazer hoje? Acompanha aqui pro radar.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Sierra levanta US$ 950M: enterprise AI agents deixam de ser ficção",
+      "summary": "Sierra levantou US$ 950 milhões em rodada Serie B+ liderada por Tiger Global e GV, atingindo valuation de US$ 15 bilhões. Empresa usa agentes de IA pra automação de customer support, operações, vendas. Rodada mostra que mercado tá pronto pra AI agents em enterprise.",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "Enterprise AI agents valem bilhões de dólares",
+        "caption": "Sierra levantou US$ 950M em funding (valuation US$ 15B) em maio 2026. Empresa usa agentes de IA pra customer support, vendas, operações em empresa grande. Investidor vê caso de uso real (economiza 30-50% de headcount em support). Mercado de AI agents pra enterprise = novo ouro. Pra empreendedor que quer vender pra B2B: o dinheiro tá saindo agora. #Startup #Funding #AIAgents #Enterprise",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "MERCADO SÃO ACREDITADO",
+            "title": "US$ 950M em funding pra AI agents",
+            "highlight": "US$ 950M",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "NÚMEROS GIGANTES",
+            "title": "Sierra com valuation de US$ 15 bilhões",
+            "highlight": "US$ 15B",
+            "body": "Company de 3 anos, valuation 15 bilhões. Comparação: OpenAI com 11 anos, valuation 157 bilhões. Ratio de velocidade: Sierra tá crescendo 10x mais rápido por ano.",
+            "stat": "US$ 15B",
+            "stat_label": "valuation Sierra",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O MERCADO",
+            "title": "Enterprise gasta US$ 300B/ano com customer support",
+            "highlight": "US$ 300B",
+            "body": "Fortune 500 tem team de support gigante (100-1000 pessoas por empresa). 40% do custo é just 'responder pergunta padrão'. IA agora faz isso. Economia = real.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "DINÂMICA NOVA",
+            "title": "Fortune 500 agora corre pra usar AI agents",
+            "highlight": "corre",
+            "body": "Antes: IA era 'interessante, talvez no futuro'. Agora: IA é 'se não usar, perco margem pro concorrente'. Empresa que usa agente poupa 30-50% de support cost. Margem cresce. Stock price sobe. CEO quer.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Sierra coloca agente que responde cliente",
+            "highlight": "agente",
+            "body": "Cliente chega: 'quero saber status do meu pedido'. Agente Sierra lê database da empresa, vê que pedido tá em trânsito, avisa cliente com tracking. 0 humans involved. Se problema é complexo (precisa reembolso), escala pra human.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "OPORTUNIDADE",
+            "title": "Startup que cria AI agents pra vertical específica",
+            "highlight": "Startup",
+            "body": "Se você cria AI agent pra 'support de fintech' ou 'vendas de SaaS' ou 'onboarding de healthcare' — mercado tá COMPRANDO. Sierra provou que ROI existe. Agora todo VC quer mais Sierra-like.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO",
+            "title": "Dinheiro em VC segue casos de uso, não tecnologia",
+            "highlight": "casos",
+            "body": "2024: VC dava grana pra 'IA generalista melhor'. 2025: VC dava pra 'IA que resolve problema real'. 2026: VC dá bilhão pra 'IA que economiza 40% de custo pro cliente'. Sierra = 2026.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "SEU PRÓXIMO PRODUTO",
+            "title": "Qual problema de enterprise IA resolve pra você?",
+            "highlight": "@rafaondei",
+            "body": "Segue @rafaondei pro radar de funding e oportunidade.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Benchmark: GPT-5.5 vs Claude 4.7 vs Grok 4.3 em 20 testes",
+      "summary": "Artificial Analysis e LM Council rodaram 20 benchmarks em maio 2026 comparando GPT-5.5, Claude 4.7, Gemini 3.1, Grok 4.3 e DeepSeek. Resultado: não há 'melhor' universal — cada modelo vence em casos específicos. GPT-5.5 lidera em math (AIME 2026), Claude em science (GPQA), Gemini em coding. Trade-off = inteligência vs custo vs velocidade.",
+      "source": "Artificial Analysis / LM Council",
+      "link": "https://lmcouncil.ai/benchmarks",
+      "category": "benchmark",
+      "recommended": false,
+      "carousel": {
+        "theme": "Não existe melhor IA, existe melhor pra SUA tarefa",
+        "caption": "Benchmarks em maio 2026 mostram verdade: cada modelo domina em algo. GPT-5.5 é PhD em math (AIME). Claude é PhD em science (GPQA). Gemini é PhD em coding. Grok é barato. Llama é open. Escolha depende: precisa resolver math? GPT-5.5. Precisa análise científica? Claude. Precisa codigo rapido? Gemini. Tem orçamento apertado? Grok. #Benchmark #IA #LLM",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "VERDADE INCÔMODA",
+            "title": "Não existe melhor IA, existe melhor pra VOCÊ",
+            "highlight": "melhor",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "BENCHMARKS REAIS",
+            "title": "GPT-5.5 vence math, Claude vence science, Gemini vence code",
+            "highlight": "vence",
+            "body": "20 testes rodados em maio. AIME 2026 (math complexa): GPT-5.5 100%. GPQA Diamond (science): Claude 94.6%. CodingArena: Gemini 1º. Resultado: especialização venceu generalização.",
+            "stat": "20",
+            "stat_label": "benchmarks diferentes",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O MERCADO APRENDEU",
+            "title": "2024 era 'qual IA é melhor'. 2026 é 'qual IA pro meu caso'",
+            "highlight": "caso",
+            "body": "Antes: VC perguntava 'qual modelo usar?'. Resposta: 'o melhor'. Agora: resposta é 'depende'. Dev pergunta 'preciso math ou code?'. Answer muda. Isso é maturidade.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "IMPLICAÇÃO",
+            "title": "Sua stack de IA agora tem 3-5 modelos diferentes",
+            "highlight": "3-5",
+            "body": "Empresa séria hoje: usa GPT-5.5 pra math/analysis, Claude pra reasoning/writing, Gemini pra code, Grok pra economia. Não usa 1 modelo. Usa melhor pra cada task.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO DECIDIR",
+            "title": "Trade-off: Inteligência vs Custo vs Velocidade",
+            "highlight": "Trade-off",
+            "body": "GPT-5.5: mais inteligente, caro. Claude: balanced, médio custo. Grok: mais barato, velocidade. Gemini: rápido, bom pra web. Llama: open, free se roda local. Escolha seu eixo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM VENCE",
+            "title": "Dev que roota no melhor modelo pra cada task",
+            "highlight": "Dev",
+            "body": "Se você programava com 1 modelo (Claude), agora escolhe: CLaude pra docs, GPT pra math, Gemini pra web. Resultado: 30% mais rápido, 20% menos erro, sem aumentar budget.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO PROFUNDA",
+            "title": "Especialização sempre vence generalização",
+            "highlight": "Especialização",
+            "body": "2022-2024: maior modelo = melhor. 2025-2026: maior modelo = commoditizado. Futuro: especialista em cada task = vencedor. Mercado tá nessa transição agora.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "OTIMIZA TUA STACK",
+            "title": "Qual IA resolve tua tarefa? Segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Radar de IA especializada. Acompanha aqui.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    }
+  ],
+  "whatsapp": "📊 RADAR IA 14.05.2026 — 10 NOTÍCIAS\n\n1️⃣ Claude for Small Business — 15 skills prontos em QuickBooks, PayPal, HubSpot, Canva. PME automatiza folha, contabilidade, marketing sem código.\nhttps://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/\n\n2️⃣ Claude Opus 4.7 — 64.3% SWE-Bench, visão 5x melhor, roda tarefas de 2h em 15min.\nhttps://www.anthropic.com/news/claude-opus-4-7\n\n3️⃣ Claude Platform on AWS — IA em infraestrutura Anthropic gerenciada em AWS, billing direto.\nhttps://www.anthropic.com/news/claude-platform-on-aws\n\n4️⃣ Gemini Omni (Google I/O) — Vaza antes do lançamento: 1 modelo pra texto + imagem + vídeo. Expected May 19-20.\nhttps://imini.com/blogs/gemini-omni-google-io-2026\n\n5️⃣ Grok 4.3 — US$ 1.25/M tokens (4-6x mais barato que GPT-4o). Performance +300 Elo vs Grok 4.20.\nhttps://artificialanalysis.ai/articles/xai-launches-grok-4-3-with-improved-agentic-performance-and-lower-pricing\n\n6️⃣ Llama 4 Scout + Maverick (Meta) — Open-source multimodal. Llama 4 Maverick bate GPT-4o com 50% dos parâmetros.\nhttps://ai.meta.com/blog/llama-4-multimodal-intelligence/\n\n7️⃣ GPT-5.5 — 52% menos alucinações vs GPT-4o. API desde 24 abril.\nhttps://help.openai.com/en/articles/6825453-chatgpt-release-notes\n\n8️⃣ Google Veo 3.1 Lite — Vídeo 4K 2x mais rápido, 50% mais barato. Sora morreu, Veo herda.\nhttps://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/\n\n9️⃣ Claude Design — IA que cria designs, protótipos, slides, one-pagers. Briefing → visual em 30s.\nhttps://www.anthropic.com/news/claude-design\n\n🔟 Sierra US$ 950M funding (US$ 15B valuation) — AI agents pra enterprise. Mercado de automation = ouro.\nhttps://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/\n\n📊 Bonus: Benchmarks 2026 — GPT-5.5 vence math, Claude vence science, Gemini vence code. Especialização > generalização.\nhttps://lmcouncil.ai/benchmarks\n\n👉 Acompanha radar completo em https://rafaelondei.appnaia.com",
+  "instagram": "🔴 10 NOTÍCIAS DE IA QUE MUDA O JOGO EM 14.05.2026\n\nOntem saiu: Claude for Small Business (15 skills prontos pra PME automatizar folha, CRM, marketing). Google Gemini Omni vazou (1 IA que faz texto + imagem + vídeo). Meta Llama 4 bate GPT-4o open-source. Grok 4.3 custa 4x menos que OpenAI. Sierra levantou US$ 950M (enterprise AI agents valem bilhões).\n\nEsse é o ano da ESPECIALIZAÇÃO: cada IA domina sua tarefa. GPT-5.5 = math, Claude = science, Gemini = code, Grok = preço. Não existe 'melhor IA'. Existe 'melhor IA pro seu problema'.\n\nPra PME: Claude for Small Business muda tudo (automatiza 30-40% do backoffice). Pra dev: cada modelo tem seu nicho agora — escolhe bem. Pra empresa que vende B2B: ai agents (Sierra provou) têm ROI — o mercado tá comprando agora.\n\nRadar completo: 🔗 https://rafaelondei.appnaia.com\n\nTem dúvida? Comenta aí qual notícia mais te interessou.\n\n#IA #Claude #ChatGPT #Gemini #Llama #Grok #InteligenciaArtificial #Empreendedorismo #Tech #Tecnologia"
+}
