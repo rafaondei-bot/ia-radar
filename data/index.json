@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-05-15T07:00:01-03:00",
+  "updated_at": "2026-05-16T07:00:01-03:00",
   "executions": [
+    {
+      "date": "2026-05-16",
+      "key": "2026-05-16",
+      "topic": "mercado de IA",
+      "summary": "Claude for PME (8 plataformas integradas), Grok 4.3 + Build (2M tokens, 12x barato), Llama 4 multimodal open-weight beats GPT-4.5, IA -93% preço, Gemini Omni video I/O, Perplexity 24/7 auto, Mistral Medium 3.5 77.6% SWE, Anthropic+Gates US$200M impact, Cursor /multitask paralelo, GPT-5.5 78.7% OSWorld",
+      "items_count": 10
+    },
     {
       "date": "2026-05-15",
       "key": "2026-05-15",

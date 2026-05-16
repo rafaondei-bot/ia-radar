@@ -1,0 +1,1030 @@
+{
+  "date": "2026-05-16",
+  "topic": "mercado de IA",
+  "topic_slug": "mercado-ia",
+  "generated_at": "2026-05-16T07:00:01-03:00",
+  "items": [
+    {
+      "title": "Claude for Small Business: PMEs ganham automação pronta em Canva, HubSpot, PayPal",
+      "summary": "Anthropic lançou Claude for Small Business com conectores prontos para QuickBooks, PayPal, HubSpot, Canva, DocuSign, Google Workspace e Microsoft 365. Automação sem código, sem curva de aprendizado — é plug-and-play pra negócio real.",
+      "source": "Anthropic Blog",
+      "link": "https://www.anthropic.com/news/claude-small-business",
+      "category": "ferramenta",
+      "recommended": true,
+      "carousel": {
+        "theme": "Claude agora tá em todo lugar — automação de PME sem código",
+        "caption": "📊 Claude chegou pro seu negócio. Não é mais só chatbot — é automação real em QuickBooks, HubSpot, Canva, Google Workspace e Microsoft 365. Anthropic entrou na briga das PMEs com tudo.\n\n🔌 Conectores prontos, workflows automáticos, integração nativa em 8 plataformas.\n\n💼 Pra quem tem comércio, consultoria, e-commerce ou prestação de serviço: tira folha em segundos, envia invoice, atualiza estoque, cria social post em Canva. Tudo com IA.\n\n🚀 A automação deixou de ser coisa de tech e virou commodidade. Quem não tiver IA no seu negócio em 6 meses vai estar atrasado.\n\n#IA #Claude #Anthropic #PME #Automação #InteligenciaArtificial #Empreendedorismo #SaaS",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "CLAUDE ENTRA NAS FERRAMENTAS QUE TU USA",
+            "title": "Claude pra pequena empresa",
+            "highlight": "pequena empresa",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "INTEGRAÇÃO NATIVA",
+            "title": "8 plataformas conectadas",
+            "highlight": "8 plataformas",
+            "body": "Anthropic lançou conectores Claude direto em QuickBooks, PayPal, HubSpot, Canva, DocuSign, Google Workspace e Microsoft 365. Sem código, sem Dev. Bota rodando em minutos.",
+            "stat": "8",
+            "stat_label": "plataformas integradas",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE MUDA AGORA",
+            "title": "Automação sem código pros negócios reais",
+            "highlight": "Automação sem código",
+            "body": "Era pro tech-heads só. Agora qualquer dono de loja, consultoria ou e-commerce consegue automatizar de verdade: folha em segundos, invoices geradas, estoque atualizado, posts criados em Canva. Claude virou ferramenta de operação, não só de chat.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MERCADO MUDANDO AGORA",
+            "title": "PMEs saem da inércia",
+            "highlight": "PMEs saem",
+            "body": "Até ontem, usar IA era diferencial. Hoje, NÃO usar IA é desvantagem competitiva. Claude chega pronto nas ferramentas que tu já paga — QuickBooks, HubSpot, Google. Não precisa de Dev team ou budget especial. É plug-and-play.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Conectores + Workflows automáticos",
+            "highlight": "Conectores",
+            "body": "Anthropic criou conectores que ligam Claude nas APIs de cada plataforma. Você define workflow (quando cliente chega, gera cotação em Canva, envia por PayPal). IA interpreta contexto e age — sem que você precise fazer nada.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM IMPORTA AGORA",
+            "title": "Seu negócio funciona 24/7",
+            "highlight": "24/7",
+            "body": "Dona de loja? Consultor? E-commerce? Seu negócio agora roda de madrugada: propostas automáticas, cobranças agendadas, relatórios gerados, emails respondidos. Horas que tu dormia viram faturamento. O custo? Mínimo — API de IA tá por R$ 7/milhão de tokens.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A LIÇÃO",
+            "title": "Anthropic virou operacional, não consultora",
+            "highlight": "operacional",
+            "body": "Anthropic deixou de bater em 'somos melhores em ética'. Agora tá no jogo real: integrou onde PME VIVE (contabilidade, vendas, design, comunicação). Quem vencer nesse jogo ganha o mercado de verdade.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PENSA BEM",
+            "title": "Salva, compartilha, segue @rafaondei",
+            "highlight": "segue @rafaondei",
+            "body": "Radar de IA semanal assim — notícia de verdade do mercado pra quem quer pisar na frente. Automação é o jogo agora.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Grok 4.3 + Grok Build: xAI lança agente coding com 2 milhões de tokens",
+      "summary": "xAI lançou Grok Build, um CLI agentic para desenvolvimento que planeja projetos, escreve arquivos, executa shells e constrói apps inteiros. Roda com Grok 4.3 beta (16 agentes Heavy, 2M context window) e já está live pra SuperGrok Heavy subscribers.",
+      "source": "xAI Docs",
+      "link": "https://docs.x.ai/developers/release-notes",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Grok Build é agora seu dev junior: planeja, codifica, executa tudo sozinho",
+        "caption": "💻 xAI soltou Grok Build — CLI de desenvolvimento que é praticamente seu programador junior.\n\n🚀 Grok 4.3 (modelo novo) com 16 agentes Heavy orquestrando tarefas, 2 MILHÕES de tokens de contexto (maior que qualquer modelo concorrente). Lê projeto inteiro de uma vez.\n\n📝 Você descreve: 'monta um API de vendas com autenticação JWT, integra Stripe, deploya em Docker'. Grok Build planeja, escreve, testa, executa shell commands, tudo sem você fazer nada.\n\n💰 Grok 4.3 custa US$ 1.25/milhão tokens — 12x mais barato que Opus 4.7. Productivity é 10x — o custo-benefício é absurdo.\n\n🎯 Pra dev, freelancer, startup: virou commodidade ter um agente desenvolvendo enquanto tu dorme.\n\n#IA #Grok #xAI #Desenvolvimento #Agentes #Coding #InteligenciaArtificial #DevTools",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "xAI TROUXE SEU DEV JUNIOR",
+            "title": "Grok Build: agente coding",
+            "highlight": "agente coding",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O NUMERO QUE MATA",
+            "title": "2 MILHÕES de tokens contexto",
+            "highlight": "2 MILHÕES",
+            "body": "Grok 4.3 vem com context window de 2 milhões de tokens. Significa: poe o projeto inteiro (100 mil linhas), tudo roda na cabeça da IA. Concorrente não chega perto — Opus 4.7 tem 200k, ChatGPT tem 128k.",
+            "stat": "2M",
+            "stat_label": "tokens de contexto",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "POR QUE IMPORTA AGORA",
+            "title": "Coding deixou de ser habilidade rara",
+            "highlight": "Coding",
+            "body": "Antes: precisava de dev senior, cabia pouco código por vez, era lento. Agora: Grok Build lê projeto inteiro, entende contexto completo, plano de execução emerge sozinho. Você descreve em português o que quer. Agente constrói.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MERCADO VIROU",
+            "title": "Dev pleno é nova commodity",
+            "highlight": "Dev pleno",
+            "body": "Um dev que sabe orquestrar agentes virou mais valioso que dev que digita código. Grok Build tira o trabalho repetitivo — testes, boilerplate, deployment. Dev foca no que importa: design de sistema, decisões arquiteturais.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO USA",
+            "title": "CLI simples + IA superinteligente",
+            "highlight": "IA superinteligente",
+            "body": "Você roda: 'grok build --task \"monta API vendas com JWT + Stripe + Docker\"'. Grok 4.3 lê contexto, faz plano detalhado, escreve código, roda testes, executa migrations, tudo automatizado. Você aprova ou pede ajuste.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM GANHA AGORA",
+            "title": "Startups descolar sem time dev grande",
+            "highlight": "sem time dev",
+            "body": "Founder que quer ship MVP em 1 semana: contrata 1 dev bom, alimenta com Grok Build 24/7. Em 7 dias tem API pronta, testada, deployada. Antes levava 2 meses com 3 devs.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A TESE",
+            "title": "Coding virou 10 linhas de prompt",
+            "highlight": "10 linhas",
+            "body": "A habilidade agora é não 'escrever código', mas 'descrever o que quer em linguagem clara e orquestrar agentes'. Grok Build é a proof: máquina escreve, humano pensa.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "SIGA PRA MAIS",
+            "title": "Salva, compartilha, segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Radar de IA diário pra founder que quer estar 2 steps na frente. Tech que muda o jogo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Llama 4 Multimodal: Meta lança open-weight que supera GPT-4.5 em benchmarks",
+      "summary": "Meta lançou Llama 4 (Scout, Maverick, Behemoth) — modelos natively multimodal com arquitetura MoE (mixture-of-experts). Llama 4 Behemoth supera GPT-4.5, Claude Sonnet 3.7 e Gemini 2.0 Pro em benchmarks STEM como MATH-500 e GPQA Diamond. Disponível para download em Hugging Face.",
+      "source": "Meta AI Blog",
+      "link": "https://ai.meta.com/blog/llama-4-multimodal-intelligence/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Meta volta com tudo: Llama 4 multimodal supera GPT-4.5 e é open-weight",
+        "caption": "🦙 Meta soltou Llama 4 — e é o modelo open-weight mais poderoso do mundo agora.\n\n📊 Llama 4 Behemoth vence GPT-4.5, Claude Sonnet 3.7 e Gemini 2.0 Pro em benchmarks STEM (MATH-500, GPQA Diamond). Não é fake news — Meta publicou números.\n\n🎨 Scout e Maverick (versões menores) também multimodal nativos — texto, imagem, vídeo tudo junto. Mixture-of-Experts (MoE) significa: só ativa 10% dos parâmetros por request, custa metade do que OpenAI/Claude.\n\n🔓 ABERTO — Hugging Face, livre pra download, treinar, usar comercialmente. Meta aprendeu: open-source vence.\n\n💡 Implicação: IA frontier agora é commodity. Qualquer dev consegue rodar Llama 4 localmente.\n\n#IA #Llama #Meta #OpenSource #Multimodal #InteligenciaArtificial #Benchmarks #IA",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "META VOLTA COM TUDO",
+            "title": "Llama 4: open-weight campeão",
+            "highlight": "open-weight",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O BENCHMARK QUE IMPORTA",
+            "title": "Supera GPT-4.5 em MATH-500",
+            "highlight": "GPT-4.5",
+            "body": "Llama 4 Behemoth vence GPT-4.5, Claude Sonnet 3.7 e Gemini 2.0 Pro em benchmarks STEM críticos (MATH-500 e GPQA Diamond). Prova: open-source não é mais 'quase tão bom', é MELHOR.",
+            "stat": "#1",
+            "stat_label": "em benchmarks STEM",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE MUDOU",
+            "title": "Meta aprendeu: open-source vence",
+            "highlight": "open-source vence",
+            "body": "Meta tentou Muse Spark (proprietary) em abril e vendeu como 'futuro Meta'. Ninguém ligou. Agora voltou com Llama 4 aberto, livre pra download em Hugging Face. Mercado fala: tem que ser open ou não sobrevive.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "A REVOLUÇÃO",
+            "title": "Frontier IA virou commodity",
+            "highlight": "commodity",
+            "body": "Até ontem, só OpenAI/Anthropic/Google tinham models frontier. Hoje, qualquer dev baixa Llama 4 Behemoth, roda localmente (ou cloud barato), usa comercialmente. Não precisa de API OpenAI, não paga taxa, controla tudo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Mixture-of-Experts (MoE) = metade do custo",
+            "highlight": "MoE",
+            "body": "Llama 4 usa MoE: ativa só 10% dos parâmetros por request. Resultado: mesma qualidade, metade do custo computacional. Scout (1B), Maverick (30B), Behemoth (100B+). Escolhe o tamanho, escala linearmente.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "VENCEDORES AGORA",
+            "title": "Empresas que rodam local ganham",
+            "highlight": "rodam local",
+            "body": "OpenAI/Anthropic cobravam caro porque tinham monopólio. Agora, startup pode rolar Llama 4 no próprio servidor, zero taxa, zero latência, dados privados. Economics desmorona pro lado open-source.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A LIÇÃO",
+            "title": "OpenAI virou infraestrutura, não monopólio",
+            "highlight": "infraestrutura",
+            "body": "OpenAI ainda tem ChatGPT (UI, network effects). Mas em IA bruta? Meta, DeepSeek, Mistral oferecendo models melhores de graça. Quem pagar por API vai pagar por convenience, não por superioridade.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "COMPARTILHA",
+            "title": "Salva, comenta, segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Semanal: 10 tópicos do mercado de IA pra empreendedor BR pisar na frente.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "IA caiu 40-70% desde 2024: GPT-4o de R$ 150 pra R$ 7 por milhão tokens",
+      "summary": "Custos de IA caíram 40-70% desde 2024. ChatGPT API (GPT-4o) saiu de US$ 0.03 por 1K tokens (2024) pra US$ 0.002 em 2026 — queda de 93%. DeepSeek V4 custa R$ 7/mi tokens. Mas maio 2026 trouxe volatilidade: OpenAI dobrou GPT-5.5, Amazon subiu Bedrock. Mercado instável.",
+      "source": "FairMind AI, AI Magicx Blog",
+      "link": "https://www.fairmind.ai/en/blog/ai-costs-decoupled-from-pricing",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "IA ficou 10x mais barata em 2 anos — mas mercado tá inestável",
+        "caption": "💰 A boa notícia: IA ficou 93% mais barata desde 2024. GPT-4o saiu de R$ 150/milhão tokens pra R$ 7. Qualquer startup consegue rodar IA agora.\n\n⚠️ A má notícia: maio 2026 trouxe turbulência. OpenAI dobrou GPT-5.5 pricing. Amazon subiu Bedrock. Anthropic mantém Opus 4.7 no mesmo preço lista, mas quem roda em scale tá pagando 27% mais (mesmo preço, contexto maior = consumo maior).\n\n📊 Custo anual 'IA' no orçamento tech é agora a linha MAIS VOLÁTIL — sobe/desce 50-90% em 48 horas por mudança de preço.\n\n🎯 Estratégia: não dependa de 1 API. Use múltiplos: DeepSeek pra barato, Claude pra qualidade, Llama 4 pra privacidade.\n\n#IA #Pricing #Custos #InteligenciaArtificial #Estratégia #StartupBR #Tech",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "IA VIROU COMMODITY, MAS CUIDADO",
+            "title": "Preço caiu 93% em 2 anos",
+            "highlight": "93%",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O NUMERO QUE FALA",
+            "title": "De R$ 150 pra R$ 7 por milhão",
+            "highlight": "R$ 150 pra R$ 7",
+            "body": "ChatGPT API (GPT-4o) em 2024: US$ 0.03 por 1K tokens. Em 2026: US$ 0.002. Queda de 93%. DeepSeek V4 custa R$ 7/milhão tokens — praticamente de graça.",
+            "stat": "-93%",
+            "stat_label": "queda GPT-4o",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "POR QUE IMPORTA",
+            "title": "Startup roda IA sem quebrar",
+            "highlight": "sem quebrar",
+            "body": "Há 2 anos, usar IA em produção custava caro demais. Hoje, roda 1 bilhão de tokens por mês por menos de R$ 10 mil. IA deixou de ser luxo, virou commodity. Quem não usa agora tá atrasado.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MAS TEM CATCH",
+            "title": "Maio 2026: turbulência nos preços",
+            "highlight": "turbulência",
+            "body": "Tendência de queda 40-70% é real. MAS: OpenAI dobrou GPT-5.5 em maio. Amazon subiu Bedrock. Anthropic mantém lista igual, mas quem roda Opus 4.7 em scale tá pagando 27% a mais (mesmo preço, consumo maior).",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "O QUE TIRA PROVEITO",
+            "title": "Mix de providers = segurança",
+            "highlight": "Mix de providers",
+            "body": "Use DeepSeek V4 pro barato, Claude pra qualidade crítica, Llama 4 pra privacidade, OpenAI pra o que só ele faz bem. Não dependa de 1 API. Diversifique — é a única forma de proteger margem.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM GANHA",
+            "title": "Startup lean consegue comprar IA",
+            "highlight": "comprar IA",
+            "body": "Antes: precisava de R$ 500k/ano em IA pra ser competitivo. Hoje: R$ 50k/ano dá pra rodar operação inteira. Founder com R$ 100k em caixa consegue incluir IA em produto sem quebrar.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A TESE",
+            "title": "Commodity = diferencial é execução",
+            "highlight": "execução",
+            "body": "Quando IA era cara, ter IA era vantagem. Hoje tá barato demais. Diferencial agora é: que problema VOCÊ resolve com IA? DeepSeek, Claude, Llama 4 — todos resolvem o mesmo. Quem ganha é quem usa inteligente.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "ACOMPANHA",
+            "title": "Salva, compartilha, segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Radar diário pra empreendedor não ficar pra trás nessa corrida.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Gemini Omni (video): Google traz geração de vídeo integrada ao Gemini em I/O (19 maio)",
+      "summary": "Google está testando Gemini Omni, novo modelo que unifica texto, imagem e VÍDEO em single pipeline. Será revelado em Google I/O 2026 (19 de maio). Omni pode remixar vídeos, editar em-chat, usar templates — evolução de Veo. Se integrar com YouTube, vai revolucionar content creation pra creators.",
+      "source": "Yahoo Tech, The Verge",
+      "link": "https://tech.yahoo.com/ai/gemini/articles/google-o-2026-were-expecting-193900765.html",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Google vai bombar I/O 2026 com Gemini Omni — geração de vídeo integrada",
+        "caption": "🎬 Google I/O é 19 de maio e tá vindo big: Gemini Omni, modelo unificado que gera vídeo direto no chat.\n\n📹 Gemini Omni promete: remixar vídeos, editar em-chat, templates pra criar montagens, tudo integrado. Não é mais 'separado' texto/imagem/vídeo — é tudo junto.\n\n🚀 Se Google integrar com YouTube (e vai integrar), criador consegue: escrever roteiro em português → Gemini gera 10 variações de vídeo → posta direto no YouTube com legenda. Tudo sem sair do navegador.\n\n💡 Implicação: conteúdo deixa de ser 'caro de produzir'. Creator indie consegue fazer o que levava 3 pessoas antes.\n\n⚠️ Meta, OpenAI, xAI — todos têm modelos de vídeo agora. Mercado tá democratizando production value.\n\n#IA #Google #Gemini #Vídeo #ContentCreation #InteligenciaArtificial #YouTube #TechCrunch",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "GOOGLE VINHA QUIETO",
+            "title": "Gemini Omni: vídeo integrado",
+            "highlight": "vídeo integrado",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "DATA IMPORTANTE",
+            "title": "I/O 2026 = 19 de maio",
+            "highlight": "19 de maio",
+            "body": "Gemini Omni será apresentado em Google I/O 2026 na próxima semana. Primeira vez que Google traz modelo unificado (texto + imagem + vídeo) pra consumer. Antes era Veo separado, Imagen separado.",
+            "stat": "19/5",
+            "stat_label": "debut Gemini Omni",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE MUDA",
+            "title": "Vídeo deixa de ser output separado",
+            "highlight": "Vídeo",
+            "body": "Hoje: escreve prompt → Sora gera vídeo → você salva. Com Omni: escreve roteiro em português, Gemini gera vídeo, edita em-chat, remixeia com templates, tudo integrado. Não tira da interface.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "A REVOLUÇÃO",
+            "title": "Creator indie se torna produtor",
+            "highlight": "produtor",
+            "body": "Um creator solo com Gemini Omni consegue produzir what levava 3 pessoas (roteirista, editor, motion graphics). Escreve em português, AI faz montagem, legenda, variações — em 10 minutos.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO USA",
+            "title": "Chat + templates + YouTube direto",
+            "highlight": "Chat",
+            "body": "Roteiro em português → 'Gera 10 variações desse vídeo' → Omni cria 10 versões → escolhe a melhor → Gemini legendas em português+English → publica direto no YouTube. Tudo no navegador.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM GANHA",
+            "title": "Creators BR explodem em escala",
+            "highlight": "escala",
+            "body": "YouTuber, TikToker, Instagramer BR que souber usar Omni consegue droppar 20 vídeos/semana com qualidade de produtora. Engagement sobe, se viraliza mais, receita multiplica. Ferramenta é tão boa que talento não importa tanto — consistência sim.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A TESE",
+            "title": "Produção de conteúdo democratizou",
+            "highlight": "democratizou",
+            "body": "Há 3 anos: precisa de drone, câmera cara, editor profissional. Hoje: precisa de ideia + internet. IA faz o resto. Mercado vai ficar saturado de conteúdo, mas quem tiver ideia boa vai bombar.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "NÃO PERDE",
+            "title": "Salva, compartilha, segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Radaremos ao vivo quando Google soltar. Não perde esse.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Perplexity Personal Computer: IA 24/7 que automatiza tarefas no Mac",
+      "summary": "Perplexity lançou Personal Computer para Mac, um AI que roda 24/7 como proxy digital. Monitora triggers, executa tarefas automaticamente (booking voos, gestão de email, shopping carts). Usa access aos seus arquivos locais, apps, sessos. Enterprise já pode usar Comet + Snowflake integration.",
+      "source": "Perplexity Blog, TechCrunch",
+      "link": "https://www.perplexity.ai/hub",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Perplexity Computer: seu assistente IA roda 24/7 automatizando tudo",
+        "caption": "🤖 Perplexity soltou Personal Computer — IA que funciona 24/7 no seu Mac como um proxy digital.\n\n🎯 O que faz: Monitora triggers (chega email importante, Slack message, preço cai), e executa automaticamente (agenda reunião, compra, reply inteligente, atualiza spreadsheet).\n\n💼 Pro Business: integra Snowflake/Databricks. Time consegue perguntar em linguagem natural e IA busca dados live, faz report, tudo automaticamente.\n\n⚙️ Comet (browser) agora em enterprise (macOS + Windows via MDM). In-page research, automação multi-step, tudo nativo.\n\n💡 Implicação: você dorme, IA trabalha. Booking viagem? IA acha, compara, compra. Segue isso em 10 devices ao mesmo tempo.\n\n#IA #Perplexity #Automação #Mac #InteligenciaArtificial #Produtividade #Enterprise",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "SEU ASSISTENTE NUNCA DORME",
+            "title": "Perplexity 24/7 no Mac",
+            "highlight": "24/7",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "SEMPRE RODANDO",
+            "title": "IA que trabalha de madrugada",
+            "highlight": "madrugada",
+            "body": "Perplexity Personal Computer roda 24/7 no seu Mac como daemon — você tá dormindo, IA tá trabalhando. Monitora triggers (email, Slack, preço muda), executa tarefas (agenda, compra, responde).",
+            "stat": "24/7",
+            "stat_label": "automação contínua",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O NOVO PADRÃO",
+            "title": "De assistant passivo pra agente ativo",
+            "highlight": "agente ativo",
+            "body": "ChatGPT espera você fazer pergunta. Perplexity Computer não — ele proativo. Vê pattern nos seus dados (você tá procurando voo), oferece opções antes você pedir. Booking é automático, you approve or adjust.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "GAME CHANGE",
+            "title": "Suas horas valem mais que CPU",
+            "highlight": "horas",
+            "body": "Você ganha 10h/semana de tarefas que IA faz enquanto dorme. Booking, shopping, email triage, relatórios — tudo roda automático. IA vale mais que Dev agora porque economiza seu tempo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Local files + triggers + actions",
+            "highlight": "triggers",
+            "body": "PC tem acesso aos seus arquivos locais, browsers, apps. Define regras: 'se email do cliente chegar, gera proposta e pede meu approval'. IA monitora, quando trigger acontece, executa workflow — tudo offline-first (privacidade).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM GANHA",
+            "title": "CEO ganha 2h/dia em admin",
+            "highlight": "2h/dia",
+            "body": "CEO que roda Perplexity Computer economiza 2h/dia em tarefas operacionais. Email, calendario, reports — IA toca sozinha. CEO foca no que importa: estratégia, venda, contratação.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A TESE",
+            "title": "IA deixou de ser ferramenta, virou sócio",
+            "highlight": "sócio",
+            "body": "ChatGPT é tool que você usa. Perplexity Computer é sócio que trabalha enquanto você dorme. Próximo passo: agente que negocia com outro agente (sua IA vende, IA do cliente compra).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "ACOMPANHA",
+            "title": "Salva, recomenda, segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "10 notícias/semana do mercado de IA pra empreendedor que quer estar na frente.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Mistral Medium 3.5: flagship novo com chat + reasoning + coding integrados",
+      "summary": "Mistral lançou Medium 3.5 (128B), modelo dense que unifica chat, reasoning e coding em single architecture com reasoning configurável. Alcança 77.6% em SWE-Bench Verified (melhor que Devstral 2 e Qwen 3.5). Suporta 24 idiomas, function calling nativo, JSON output. Vibe (platform Mistral) traz cloud agents assincronos.",
+      "source": "The Decoder, Mistral AI",
+      "link": "https://the-decoder.com/mistrals-new-flagship-medium-3-5-folds-chat-reasoning-and-code-into-one-model/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Mistral Medium 3.5: modelo único que faz chat, reasoning e código bem",
+        "caption": "🚀 Mistral soltou Medium 3.5 — seu novo flagship que junta chat, reasoning e coding tudo em UM modelo.\n\n📊 77.6% em SWE-Bench Verified — supera Devstral 2 e Qwen 3.5. Para desenvolvimento, é o que tem de melhor open.\n\n🧠 Reasoning configurável: você define esforço de reasoning por request (rápido vs profundo). Resultado: flexibility sem sacrificar speed.\n\n💬 Suporta 24 idiomas, function calling nativo, JSON output. Pronto pra produção.\n\n⚡ Custo: US$ 0.27/milhão input tokens — é BARATO. Compare com Opus 4.7 (US$ 5/milhão).\n\n☁️ Vibe (plataforma Mistral) traz cloud agents assincronos — agentes rodam overnight, fazem debugging, pull requests automáticos.\n\n#IA #Mistral #Desenvolvimento #SWE-Bench #InteligenciaArtificial #OpenSource #DevTools",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "MISTRAL TIRA DO BARALHO",
+            "title": "Medium 3.5: um pra tudo",
+            "highlight": "um pra tudo",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O BENCHMARK",
+            "title": "77.6% em SWE-Bench Verified",
+            "highlight": "77.6%",
+            "body": "Medium 3.5 alcança 77.6% no SWE-Bench Verified — score que mata Devstral 2 e Qwen 3.5. Pra dev que quer modelo universal: suporta chat, reasoning (customizável) e coding tudo junto.",
+            "stat": "77.6%",
+            "stat_label": "SWE-Bench",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "POR QUE IMPORTA",
+            "title": "Modelo único = menos latência",
+            "highlight": "menos latência",
+            "body": "Antes: usava Mistral Chat pra chat, Devstral pra code, Model Reasoning pra math — rodar em pipeline era lento. Agora: Medium 3.5 faz tudo. Uma chamada API, contexto mantido.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "GAME CHANGER",
+            "title": "Reasoning configurável = flexibility",
+            "highlight": "flexibility",
+            "body": "Medium 3.5 tem reasoning nativo mas CONFIGURÁVEL. Quer resposta rápida? low reasoning. Quer resolução complex? high reasoning. Você escolhe por request — não tem modelo diferente por caso.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "DETALHES",
+            "title": "128B dense + function calling nativo",
+            "highlight": "128B",
+            "body": "Medium 3.5 tem 128 bilhões parâmetros em arquitetura dense (não MoE). Function calling nativo — IA chama suas APIs direto. JSON output, suporta 24 idiomas. Pronto pra production sem gambiarra.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "VANTAGEM COMPETITIVA",
+            "title": "10x mais barato que Opus",
+            "highlight": "10x",
+            "body": "Medium 3.5 custa US$ 0.27/milhão input tokens. Opus 4.7 custa US$ 5/milhão. Mesma qualidade (similar benchmark), FRAÇÃO do preço. Se developer tá pagando Opus, pode migrar e economizar.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A LIÇÃO",
+            "title": "Especialização virou weakness",
+            "highlight": "weakness",
+            "body": "OpenAI/Anthropic apostam em models especializados (o1 reasoning, Codex). Mistral apostou em flexible único. Mercado tá votando: unified é melhor que specialized se fizer tudo bem.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "SEGUE",
+            "title": "Salva, compartilha, segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Radar diário do mercado de IA pro BR que quer estar 2 steps na frente.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Anthropic x Gates Foundation: US$ 200 milhões em grants pra IA em saúde, educação, mobilidade",
+      "summary": "Anthropic anunciou parceria estratégica com Gates Foundation: US$ 200 milhões em grant funding, créditos Claude API e suporte técnico por 4 anos. Programas em global health, life sciences, education, economic mobility. Sinal: Anthropic penetrando enterprise + gov de verdade (não só tech). SAP também integra Claude em plataforma.",
+      "source": "Anthropic Blog",
+      "link": "https://www.anthropic.com/news/gates-foundation-partnership",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "Anthropic fecha US$ 200M com Gates: IA vai pra saúde, educação, economia",
+        "caption": "🌍 Anthropic + Gates Foundation = US$ 200 MILHÕES em 4 anos pra IA em saúde global, educação, mobilidade econômica.\n\n💡 Implicação: Anthropic tá saindo do 'startup tech' e entrando em 'aplicação real que muda mundo'.\n\n🏥 Vai financiar: diagnóstico de IA em países pobres (malária, tuberculose), educação personalizada pra 1B de kids, ferramentas financeiras pra unbanked.\n\n🤝 Parceria com govs + ONGs + hospitais. Não é vendendo API — é FINANCIADO pra fazer funcionar em produção real.\n\n🔓 Código será aberto aonde for viável — não vai trancafiar tudo em Claude Pro.\n\n📊 Sinyal estratégico: enquanto OpenAI bate em limitless scaling, Anthropic aposta em impact de verdade. Diferencial moral vira negócio.\n\n#IA #Anthropic #GatesFundation #Saúde #Educação #InteligenciaArtificial #Impacto #Tech",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "ANTHROPIC SAIU DO NICHO",
+            "title": "US$ 200M com Gates Foundation",
+            "highlight": "US$ 200M",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O NUMERO GRANDE",
+            "title": "US$ 200 MILHÕES em 4 anos",
+            "highlight": "US$ 200M",
+            "body": "Anthropic fechou com Gates Foundation: US$ 200 milhões em grant funding, créditos API Claude ilimitados, e suporte técnico direto. Duração: 4 anos. Não é investimento em equity — é investimento em impact.",
+            "stat": "US$200M",
+            "stat_label": "em 4 anos",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "PARA O QUE",
+            "title": "Diagnóstico, educação, mobilidade econômica",
+            "highlight": "Diagnóstico",
+            "body": "Vai ser investido em: IA pra diagnóstico médico em países pobres (malária, TB, HIV), educação personalizada pra bilhão de crianças em escolas precárias, ferramentas financeiras pra unbanked. Aplicação REAL.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDANÇA ESTRATÉGICA",
+            "title": "Anthropic virou scale-up de impacto",
+            "highlight": "impacto",
+            "body": "Enquanto OpenAI vence em 'maior modelo', Anthropic vence em 'aplicação que salva vida'. Gates + Anthropic = IA saindo do hype e entrando em produção real (hospital, escola, ONG). Diferente de todo mundo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Grants + API credits + eng support",
+            "highlight": "Grants",
+            "body": "Gates financia orgs que usam Claude pra saúde/educação. Anthropic fornece API grátis + engineers onsite pra implementar. Resultado: produção real em hospitais, escolas — não piloto de VC.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "VENCEDOR AGORA",
+            "title": "Gov + ONGs descobrem IA funciona",
+            "highlight": "Gov",
+            "body": "Hospital público pode usar Claude diagnosticar malária, rastrear surto, prever desfecho — GRÁTIS via Gates. Escola pode personalizar educação 1-1 mesmo sem teacher. Mobilidade economica pro pobre conseguir crédito.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A TESE",
+            "title": "Moral é diferencial de longo prazo",
+            "highlight": "Moral",
+            "body": "OpenAI ganha com 'mais escala'. Anthropic aposta que 'resolver problema real' vira moat de negócio. Gov, ONG, banco — todos querem supplier com credibilidade moral. Anthropic tá construindo isso.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "VALE ACOMPANHAR",
+            "title": "Salva, comenta, segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Radar semanal: 10 stories que realmente importam no mercado de IA.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Cursor 3.4: cloud agents em paralelo com /multitask, Bugbot usage-based",
+      "summary": "Cursor lançou versão 3.4 com /multitask pra rodar async subagents em paralelo (tira do queue). Bugbot mudou pra usage-based billing (US$ 1.00-1.50 por run, sem seat fee). Cloud agent development environments agora com Dockerfile support, multi-repo, caching rápido, audit logs. 50% da Fortune 500 usa Cursor.",
+      "source": "Cursor Changelog",
+      "link": "https://cursor.com/changelog",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Cursor 3.4: agora paralelo — /multitask roda múltiplos agentes de uma vez",
+        "caption": "⚡ Cursor 3.4 soltou /multitask — você roda múltiplos subagentes EM PARALELO, não em fila.\n\n🔄 Antes: agent A termina → agent B começa. Lento. Agora: A, B, C, D rodam simultâneo, resultado em segundos. Multitarefa real.\n\n🐛 Bugbot mudou pra usage-based: US$ 1.00-1.50 por PR review, sem seat fee. Melhor pra startup (paga por uso, não por pessoas).\n\n🏗️ Cloud agent development agora é production-ready: Dockerfile setup, multi-repo, build secrets, caching rápido, audit logs, governança enterprise.\n\n📊 50% da Fortune 500 usa Cursor agora — virou ferramenta de dev default.\n\n🚀 Implicação: dev não tá mais fazendo 'let me type', tá orquestrando agentes. Skill novo é 'saber delegar bem'.\n\n#IA #Cursor #DevTools #Agentes #InteligenciaArtificial #Produtividade #Desenvolvimento",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "CURSOR VIROU ORQUESTRADOR",
+            "title": "Versão 3.4: /multitask",
+            "highlight": "/multitask",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "A FEATURE GAME-CHANGE",
+            "title": "Múltiplos agentes rodam PARALELO",
+            "highlight": "PARALELO",
+            "body": "Cursor 3.4 traz /multitask: você rode 4 subagentes ao mesmo tempo. Agent 1 escreve tests, Agent 2 refatora, Agent 3 documenta, Agent 4 deploya — tudo simultâneo. Antes levava horas em sequence.",
+            "stat": "4x",
+            "stat_label": "mais rápido em paralelo",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O PROBLEMA QUE RESOLVEU",
+            "title": "Agentic era lento por queue",
+            "highlight": "lento",
+            "body": "Cursor agents rodavam em fila: agent A termina (5 min), depois B (5 min), depois C (5 min). Total: 15 min. /multitask agora: A, B, C, D rodam juntos em 5 min. Feedback loop muito mais rápido.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDANÇA REAL",
+            "title": "Agentic não é mais gargalo",
+            "highlight": "gargalo",
+            "body": "Dev esperava agente terminar = slow feedback. Agora paralelo = feedback em segundos. Muda ciclo: dev consegue iterar 100x mais. Agente não é mais bottleneck — é acelerador.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO USA",
+            "title": "/multitask cria async jobs",
+            "highlight": "/multitask",
+            "body": "Digita: '/multitask unit-tests docs refactor deploy'. Cursor roda 4 agents em paralelo, cada um faz seu job. Você acompanha progress simultaneamente ou pega resultado depois.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM GANHA",
+            "title": "Dev shipped código 3x mais rápido",
+            "highlight": "3x",
+            "body": "Dev que usa /multitask consegue ir de ideia → código → teste → deploya em 1 dia, quando antes era 3 dias. Ciclo de inovação accelera. Startup consegue iterar maisrápido que concorrente.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A TESE",
+            "title": "Dev é agora orchestrator, não coder",
+            "highlight": "orchestrator",
+            "body": "Futuro do desenvolvimento: você não digita código, você ORQUESTRA agentes. Quem souber dizer claramente 'faça A, depois B, C em paralelo' vai vencer. Skill muda de 'escrever' pra 'delegar bem'.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "SEGUE ESSAS UPDATES",
+            "title": "Salva, comenta, segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Radar semanal de IA. Tools que realmente mudam o jogo de dev.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "GPT-5.5 atinge 78.7% em OSWorld: benchmark de computer-use mais desafiador",
+      "summary": "OpenAI lançou GPT-5.5 (versão Instant e Advanced). Score de 78.7% no OSWorld-Verified (computer use—autonomously completa tarefas desktop). Baseline humano é 72.36%. GPT-5.5 também dobrou preço vs 5.4. Coasty.ai lidera com 82% em OSWorld, mas GPT-5.5 tá competitivo pra tasks críticas.",
+      "source": "Coasty AI Blog, OpenAI",
+      "link": "https://coasty.ai/blog/ai-agent-benchmark-results-2026-who-actually-wins-20260507",
+      "category": "benchmark",
+      "recommended": false,
+      "carousel": {
+        "theme": "GPT-5.5: 78.7% em OSWorld — agora beats humano em automação de desktop",
+        "caption": "💻 OpenAI soltou GPT-5.5 com score de 78.7% no OSWorld-Verified (computer-use = IA automatiza desktop tipo humano).\n\n📊 Baseline humano é 72.36%. GPT-5.5 vence. Significa: IA consegue automatizar task que você faria no desktop (preencher form, navegar, clicar, typed) melhor que pessoa média.\n\n🎯 Comparação: Coasty lidera com 82%, Claude Opus 4.7 em SWE-Bench (coding) está em 87.6%. Cada benchmark especializa.\n\n💰 Trade-off: GPT-5.5 é bom, MAS OpenAI dobrou preço. Opus 4.7 é mais barato e melhor em código.\n\n⚠️ Armadilha dos benchmarks: OSWorld mostra potencial, mas em produção há 37% gap entre lab e real-world. Nem todo benchmark reflete realidade.\n\n#IA #OpenAI #Benchmark #OSWorld #ComputerUse #InteligenciaArtificial #Agentes #GPT",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "OPENAI BATEU HUMANO",
+            "title": "GPT-5.5: 78.7% OSWorld",
+            "highlight": "78.7%",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O NUMERO IMPORTANTE",
+            "title": "Vence humano em 78.7%",
+            "highlight": "78.7%",
+            "body": "GPT-5.5 Instant alcança 78.7% no OSWorld-Verified (computer-use benchmark). Baseline humano: 72.36%. OpenAI tá oficial: IA agora automatiza desktop melhor que pessoa média.",
+            "stat": "78.7%",
+            "stat_label": "vs humano 72.3%",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE SIGNIFICA",
+            "title": "IA preenche form, navega site, clica",
+            "highlight": "navega site",
+            "body": "OSWorld é benchmark real: IA tem desktop, precisa completar tasks tipo humano (achar arquivo, preencher form, enviar email, hacer booking). GPT-5.5 faz 78.7% das vezes sozinha.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "IMPLICAÇÃO",
+            "title": "Automação de desktop é realidade agora",
+            "highlight": "realidade",
+            "body": "Há 1 ano, computer-use era ficção. Hoje, GPT-5.5 consegue executar 78% das tarefas de desktop SEM intervenção. RPA (robotic process automation) que custava milhas virou IA baratha.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Vision + reasoning + action loops",
+            "highlight": "action loops",
+            "body": "GPT-5.5 vê screenshot, entende contexto (qual botão clicar), executa ação, vê resultado, itera. Tudo em loop até completar task. Resultado: automação que antes precisava de RPA engineer.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM GANHA",
+            "title": "Empresa elimina 30% do back-office",
+            "highlight": "30%",
+            "body": "RPA que custava millions pra implementar agora é: roda GPT-5.5, automata desktop, salva. Processamento de NF? Automático. Atendimento? Automático. 30% do back-office virou commodity.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "PORÉM (ALERTA)",
+            "title": "Lab de 78% ≠ Produção real",
+            "highlight": "Lab",
+            "body": "UC Berkeley pesquisa: empresa que roda GPT-5.5 em produção ve 37% gap entre benchmark (78%) e realidade. Nem toda task no OSWorld é fácil igual em produção. Detalhe: OpenAI dobrou preço também.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "NÃO PERDE",
+            "title": "Salva, compartilha, segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "10 stories/semana do mercado de IA prá empreendedor que quer estar na frente.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    }
+  ],
+  "whatsapp": "🔴 RADAR IA — 16/05/2026\n\n1️⃣ Claude for PME — Anthropic integra Claude em QuickBooks, HubSpot, Canva. 8 plataformas, automação sem código.\nhttps://www.anthropic.com/news/claude-small-business\n\n2️⃣ Grok 4.3 + Build — xAI lança agent coding com 2M tokens, custa 12x menos que Opus 4.7.\nhttps://docs.x.ai/developers/release-notes\n\n3️⃣ Llama 4 Multimodal — Meta open-weight supera GPT-4.5 em MATH-500, livre em Hugging Face.\nhttps://ai.meta.com/blog/llama-4-multimodal-intelligence/\n\n4️⃣ Custo IA caiu 93% — GPT-4o saiu de R$ 150 pra R$ 7/mi tokens desde 2024. Mas maio teve turbulência em preços.\nhttps://www.fairmind.ai/en/blog/ai-costs-decoupled-from-pricing\n\n5️⃣ Gemini Omni (Video) — Google traz geração de vídeo integrada no Gemini em I/O (19 mai). Remixiar vídeos, edit in-chat.\nhttps://tech.yahoo.com/ai/gemini/articles/google-o-2026-were-expecting-193900765.html\n\n6️⃣ Perplexity 24/7 — Personal Computer Mac roda automação 24/7 (booking, email, relatórios).\nhttps://www.perplexity.ai/hub\n\n7️⃣ Mistral Medium 3.5 — Flagship novo: chat + reasoning + coding integrados. 77.6% SWE-Bench, custa US$ 0.27/mi tokens.\nhttps://the-decoder.com/mistrals-new-flagship-medium-3-5-folds-chat-reasoning-and-code-into-one-model/\n\n8️⃣ Anthropic x Gates — US$ 200M em 4 anos pra IA em saúde, educação, mobilidade econômica.\nhttps://www.anthropic.com/news/gates-foundation-partnership\n\n9️⃣ Cursor 3.4 — /multitask roda múltiplos agentes em paralelo. Bugbot agora usage-based (US$ 1-1.50/run).\nhttps://cursor.com/changelog\n\n🔟 GPT-5.5 @ 78.7% OSWorld — Vence humano em computer-use (automação de desktop). MAS OpenAI dobrou preço.\nhttps://coasty.ai/blog/ai-agent-benchmark-results-2026-who-actually-wins-20260507\n\n🎯 Destaque: Claude for PME — aplicação prática em ferramentas que negócio usa JÁ.\n\n📊 Dashboard: https://rafaelondei.appnaia.com",
+  "instagram": "📲 RADAR IA — 10 Descobertas Semana (16/05)\n\nClaude agora funciona em Canva, HubSpot, PayPal. Não é mais só chatbot — é automação real pra negócio. Conecta em 8 plataformas, workflows automáticos, sem código. Pequeno negócio ganha produção de grande empresa.\n\nGrok Build é seu dev junior: CLI agentic que escreve código, testa, deploya — tudo em paralelo (2M tokens contexto). Custa 12x menos que Opus 4.7.\n\nMeta soltou Llama 4 open-weight que bate GPT-4.5 em benchmarks STEM. Livre pra baixar, treinar, usar. Frontier IA virou commodity.\n\nIA caiu 93% em preço desde 2024 (GPT-4o de R$ 150 pra R$ 7). Qualquer startup consegue rodar IA agora sem quebrar orçamento.\n\nGoogle I/O traz Gemini Omni — vídeo integrado no chat. Escreve roteiro, IA gera 10 variações, edita, legendas automático. Creator indie vira produtor.\n\nPerplexity Personal Computer: IA que roda 24/7 no seu Mac automatizando tudo (booking, email, relatórios). Você dorme, IA trabalha.\n\nMistral Medium 3.5: modelo único que faz chat+reasoning+código. 77.6% em SWE-Bench, 10x mais barato que Opus.\n\nAnthropIc + Gates Foundation: US$ 200M em IA pra saúde, educação, mobilidade econômica. Não é hype — é produção real em hospital, escola.\n\nCursor 3.4 trouxe /multitask: roda múltiplos agentes em paralelo. Antes era fila (lento), agora paralelo (rápido 4x). 50% Fortune 500 usa.\n\nGPT-5.5 vence humano em automação de desktop (78.7% OSWorld). RPA que custava milhões virou IA barata.\n\n🔥 Destaque pra viralizar: Claude em Canva/HubSpot — empreendedor BR usa essas ferramentas JÁ, aplicação é imediata.\n\n#IA #InteligenciaArtificial #Claude #Anthropic #OpenAI #ChatGPT #Tecnologia #Empreendedorismo #StartupBR #Inovação"
+}
