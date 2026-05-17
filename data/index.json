@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-05-16T07:00:01-03:00",
+  "updated_at": "2026-05-17T07:00:01-03:00",
   "executions": [
+    {
+      "date": "2026-05-17",
+      "key": "2026-05-17",
+      "topic": "mercado de IA",
+      "summary": "Perplexity +50% ARR agents explode; Claude for PME 8 integrations; GPT-5.5 -52.5% alucinações; Gemini Omni (I/O próx semana); Grok Build US$300; Meta kills Llama, Muse Spark proprietary; Morgan Stanley + Apollo use Grok; Mistral Medium 3.5 77.6% SWE-Bench; Cursor Teams @mentions; DeepSeek V4 -75% preço",
+      "items_count": 10
+    },
     {
       "date": "2026-05-16",
       "key": "2026-05-16",
