@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-05-17T07:00:01-03:00",
+  "updated_at": "2026-05-18T07:00:01-03:00",
   "executions": [
+    {
+      "date": "2026-05-18",
+      "key": "2026-05-18",
+      "topic": "mercado de IA",
+      "summary": "Claude Mythos descobre 270 zeros-days Firefox; Anthropic US$ 30B ARR; GPT-5.5 Instant -52.5% alucinações; Google redesenha Android em Intelligence System; OpenAI Daybreak security AI vs Mythos; Sierra US$ 950M ($15B+); IA reduz energia 100x neuro-symbolic; Claude Orbit proactive assistant; Mythos lidera GPQA 94.6%; Parallel US$ 230M agents infrastructure",
+      "items_count": 10
+    },
     {
       "date": "2026-05-17",
       "key": "2026-05-17",

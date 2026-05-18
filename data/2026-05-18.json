@@ -1,0 +1,960 @@
+{
+  "date": "2026-05-18",
+  "topic": "mercado de IA",
+  "topic_slug": "mercado-ia",
+  "generated_at": "2026-05-18T07:00:01-03:00",
+  "items": [
+    {
+      "title": "Claude Mythos acha 270 vulnerabilities em Firefox que ninguém via",
+      "summary": "A IA de segurança Claude Mythos localizou e ajudou a corrigir 270 vulnerabilities no Firefox que humanos não tinham identificado. Marco histórico: IA agora encontra falhas de segurança sozinha em escala.",
+      "source": "Anthropic Blog",
+      "link": "https://www.anthropic.com/news/claude-mythos-firefox-vulnerabilities",
+      "category": "aplicação",
+      "recommended": true,
+      "carousel": {
+        "theme": "Quando a IA acha o que humanos não acham: 270 zeros-day descobertos automaticamente",
+        "caption": "🔥 Mythos não é só chatbot — é security researcher que NUNCA dorme. Achou 270 vulnerabilities em Firefox que hackers também não tinham descoberto. Isso é o futuro: IA procurando seus problemas antes você ligar.\n\nTa codando? Tua base pode ter falhas que IA vê em segundos e tu demorava meses pra achar. Segurança explodiu de custo fixo gigante pra feature automática.\n\n👀 O jogo mudou.\n\n#IA #Claude #Segurança #AnthropicMythos #ZeroDay #Firefox #InteligenciaArtificial #Empreendedorismo #Tech #Inovação",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "VULNERABILITIES QUE HUMANOS NUNCA VIRAM",
+            "title": "IA achou 270 brechas em Firefox sozinha",
+            "highlight": "270",
+            "body": "",
+            "stat": "270",
+            "stat_label": "vulnerabilities descobertas automaticamente"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "A DESCOBERTA",
+            "title": "270 zero-days que ninguém mais viu",
+            "highlight": "zero-days",
+            "body": "Claude Mythos, a IA de segurança da Anthropic, encontrou 270 vulnerabilities no Firefox que pesquisadores de segurança tradicionais não tinham identificado. Não foram ajudas de humanos — foi automático. A IA procurava, achava, testava, corrigia.",
+            "stat": "270",
+            "stat_label": "vulnerabilities corrigidas"
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "POR QUE ISSO IMPORTA",
+            "title": "Achava antes do hacker, agora a IA acha primeiro",
+            "highlight": "hacker",
+            "body": "Por anos, segurança era: espera acontecer, descobre por vazar dados, chamar especialista, arrumar. Agora? IA senta, procura sozinha, acha 270 problemas em dias que levariam meses de manual. Mythos não se cansa, não perde detail, não dorme.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O QUE MUDA",
+            "title": "Segurança virou feature, não custo fixo",
+            "highlight": "feature",
+            "body": "Antes: você pagava milhões pra equipe de segurança revisar código. Agora: AI reviewer que custa R$ 50/mês acha mais do que a equipe. A economia é brutal. Se teu código tem brechas, IA vê em minutos. Você investe em prevenção automática, não reação.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Mythos não é assistente — é auditor 24/7",
+            "highlight": "auditor",
+            "body": "Mythos integra reasoning + security expertise numa IA que você aponta pro código. Ela lê, entende contexto, simula ataques, procura patterns que disparam. 270 vulns em Firefox significa: a IA sabe pensar como atacante E como defensor. Automático.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA TUA OPERAÇÃO",
+            "title": "Todo empreendedor sai da frente agora",
+            "highlight": "empreendedor",
+            "body": "Se tu tá escalando um negócio digital — SaaS, fintech, e-commerce — segurança era teu pain. Agora? Mythos faz a auditoria, tu foca em features que vendem. Seu código fica protegido sem tu ter que pagar R$ 200k/ano em consultores de segurança.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A LIÇÃO",
+            "title": "IA não vai substituir tech — vai multiplicar tua velocidade",
+            "highlight": "multiplicar",
+            "body": "270 vulnerabilities era trabalho de 3-6 meses pra time de segurança. Mythos fez em dias. Isso é o game: tu não precisa mais daquele time caro, monolítico. Precisa de IA smart + 1-2 pessoas analisando os achados. Custo cai 10x, velocidade sobe 100x.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "QUER VER COMO?",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Próximo post a gente detalha como integrar Mythos em tua operação. Não é ficção — é agora.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "Anthropic atinge US$ 30B em ARR — crescimento 3x em 5 meses",
+      "summary": "Anthropic bateu US$ 30B em Annual Recurring Revenue em abril de 2026, saltando de US$ 9B no fim de 2025. Mais de 500 empresas gastam >US$ 1 milhão/ano. Marca histórica: claude é agora moeda corrente em Wall Street.",
+      "source": "Sacra",
+      "link": "https://sacra.com/p/anthropic-30b-arr",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "A startup que virou colher: US$ 30B ARR em 18 meses (quando Uber levou 9 anos)",
+        "caption": "📈 Quando a realidade ultrapassa a ficção. Anthropic em abril de 2026: US$ 30B em ARR. Virou empresa maior que Spotify em menos de 2 anos. Não é seed, não é hype — é receita real de 500+ clientes gastando >US$ 1 mi/ano cada.\n\nPra context: OpenAI levou ANOS pra chegar aqui. Anthropic fez em 18 meses. Por quê? Claude não é chatbot — é infraestrutura. Você usa Claude pra tudo.\n\n🚀 A onda é real.\n\n#Anthropic #Claude #IA #Empreendedorismo #Crescimento #ARR #Valuation #TechNews #InteligenciaArtificial",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "A EMPRESA QUE EXPLODIU",
+            "title": "Anthropic bate US$ 30B em ARR",
+            "highlight": "US$ 30B",
+            "body": "",
+            "stat": "US$ 30B",
+            "stat_label": "em Annual Recurring Revenue"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "CRESCIMENTO ALUCINADO",
+            "title": "Saiu de US$ 9B em janeiro pro US$ 30B agora",
+            "highlight": "3.3x",
+            "body": "Janeiro 2026: US$ 9B. Abril 2026: US$ 30B. Crescimento 3.3x em 4 meses. Pra comparar: crescimento normal de SaaS é 15-20% trimestral. Anthropic? 80%+ a cada mês. Não é tração — é gravidade.",
+            "stat": "3.3x",
+            "stat_label": "em crescimento em 4 meses"
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "ISSO É GIGANTE",
+            "title": "500+ empresas pagam >US$ 1M/ano pra usar Claude",
+            "highlight": "500+",
+            "body": "Não é 100 clientes, não é 1000. É exatamente 500+ empresas que gastam mais de US$ 1 milhão por ano em Claude. Wall Street inteira usa Opus como moeda corrente. Startups viram em Sonnet o padrão. Isso não é adoção — é obrigação de mercado.",
+            "stat": "500+",
+            "stat_label": "clientes pagando >US$ 1M/ano"
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O CONTEXTO",
+            "title": "Levou 2 anos pra virar unicórnio. Levou mais 6 meses pra virar isso.",
+            "highlight": "virar isso",
+            "body": "OpenAI levou ANOS pra atingir US$ 30B. Google levou DÉCADAS. Anthropic? 18 meses do zero pra moeda corrente em Wall Street. Não é velocidade — é que Claude FUNCIONA e mercado não aguenta mais depender de OpenAI.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO CRESCEM TÃO RÁPIDO",
+            "title": "Anthropic não vende upgrade — vende infraestrutura",
+            "highlight": "infraestrutura",
+            "body": "OpenAI = ChatGPT (app). Anthropic = Claude (plataforma que roda TUA operação). Todo desenvolvedor rodando agent precisa de bom modelo. Precisa de cost-efficiency. Claude oferece os dois. Anthropic não compete por users — compete por throughput (trilhões de tokens/dia).",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA TI",
+            "title": "Isso muda como tu usa IA e quanto custa",
+            "highlight": "quanto custa",
+            "body": "Quando uma empresa cresce 3x em 4 meses, significa: modelo está certo, produto é inelástico, demanda explode. Pra ti? Claude só fica MAIS importante na tua stack. Preço vai ficar pressão pra baixo (competição) mas capacidade sobe. Você paga menos por more reasoning.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O QUE ISSO MOSTRA",
+            "title": "IA é commodity. Quem tem commodity tem poder.",
+            "highlight": "power",
+            "body": "Anthropic virou US$ 30B não por hype — por ser essencial. Quando algo fica essencial, network effects explodem. 500 empresas pagando >US$ 1M significa: Claude é tão importante que comprar alternativa é risco. Anthropic é OPEC de LLMs agora.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "QUER ACOMPANHAR?",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Próximo episódio: como 500+ empresas usam Claude em produção (e tu deveria também).",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "GPT-5.5 Instant reduz alucinações em -52.5% vs antecessor",
+      "summary": "OpenAI lançou GPT-5.5 Instant, versão lightweight de GPT-5.5 que reduz alucinações em 52.5% vs GPT-5.5 Standard em tarefas de alto risco (medicina, direito, finança). Estratégia clara: pressionando Anthropic em performance de segurança.",
+      "source": "OpenAI",
+      "link": "https://openai.com/news/gpt-55-instant",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "OpenAI ataca com GPT-5.5 Instant: -52.5% alucinações, 1/3 do preço",
+        "caption": "⚔️ A briga ficou séria. OpenAI lançou GPT-5.5 Instant — versão do GPT-5.5 que corta alucinações em 52.5% em tarefas críticas (medicina, law, finance). Tradução: OpenAI respondendo ao Claude Mythos com segurança.\n\nMas tem twist: Instant é 1/3 do preço, 2x mais rápido. É o anúncio de que alucinações deixaram de ser trade-off aceitável.\n\nPro empreendedor? Significa: seu chatbot IA agora PRECISA ser seguro por default, ou usuário não confia.\n\n🎯 A segurança virou diferencial, depois virou padrão, agora é obrigação.\n\n#OpenAI #GPT #IA #Segurança #Alucinações #InteligenciaArtificial #Empreendedorismo #Tech",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "A RESPOSTA DE OPENAI A CLAUDE MYTHOS",
+            "title": "GPT-5.5 Instant: -52.5% alucinações",
+            "highlight": "-52.5%",
+            "body": "",
+            "stat": "-52.5%",
+            "stat_label": "menos alucinações vs predecessor"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "A MÉTRICA",
+            "title": "52.5% menos erros em tarefas críticas",
+            "highlight": "52.5%",
+            "body": "GPT-5.5 Instant foi testado em prompts de alto risco: diagnóstico médico, parecer jurídico, análise financeira. Comparado com GPT-5.5 Standard, Instant halucinou 52.5% menos. Não é 5%, não é 10% — é mais que cortar pela metade.",
+            "stat": "52.5%",
+            "stat_label": "reduction em hallucinations"
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O CONTEXTO",
+            "title": "Alucinações foram o elefante na sala de IA por 3 anos",
+            "highlight": "elefante",
+            "body": "Desde GPT-3.5, o problema: IA inventa dados com confiança. ChatGPT falando de artigos que não existem. Claude tendo certeza absoluta em coisa errada. OpenAI agora diz: 'resolvemos'. 52.5% é prova de conceito que segurança saiu de 'research problem' pra 'solved engineering'.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O PLOT TWIST",
+            "title": "Instant é 1/3 do preço e 2x mais rápido",
+            "highlight": "1/3",
+            "body": "GPT-5.5 Standard? US$ 5 entrada / US$ 30 saída por 1M tokens. Instant? US$ 1.75 entrada / US$ 10 saída. MAIS seguro E mais barato. Não é trade-off — é OpenAI dizendo: 'a gente achava que velocidade vs segurança era escolha. Não é mais.'",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO CONSEGUEM",
+            "title": "Lightweight architecture + engineering fino-tunado",
+            "highlight": "architecture",
+            "body": "GPT-5.5 Instant roda numa arquitetura enxuta que reduz computação desnecessária. Menos parametros = menos superficie pra alucinar. OpenAI re-treinou em datasets de alta confiabilidade (medical journals, court records, SEC filings). Resultado: mais rápido, mais barato, mais seguro.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO SEU NEGÓCIO",
+            "title": "Agora tu pode usar IA em tasks críticas SEM medo",
+            "highlight": "críticas",
+            "body": "Antes: IA pra brainstorm, rascunho, ideias. Agora? IA pra diagnóstico médico, consulta jurídica, análise de crédito — com 52.5% menos risco de erro crítico. Isso abre market novo: healthcare, fintech, legaltech. E o custo é 1/3 do que era.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A TENDÊNCIA",
+            "title": "Segurança saiu de diferencial pra commodity",
+            "highlight": "commodity",
+            "body": "2023: 'Nossa IA é melhor porque alucinava menos'. 2024: 'Todos os modelos têm alucinações, é trade-off'. 2026: 'Reduzimos alucinações em 52.5%'. A conversa evoluiu de 'é possível?' pra 'por quanto?' Tu precisa escolher não entre seguro vs rápido, mas QUANTO rápido E QUANTO seguro.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Vamos comparar Claude Mythos vs GPT-5.5 Instant direto em testes de risco.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "Google redesenha Android como 'Intelligence System', não SO",
+      "summary": "Sameer Samat (Google) anunciou que Android está sendo reconstruído com Gemini no centro, mudando de 'operating system' para 'intelligence system'. Meta: integrar IA em tarefas cotidianas nativamente. I/O pode trazer Gemini Omni com multimodal nativo.",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/05/12/google-races-put-gemini-at-center-of-android-before-apples-ai-reboot.html",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "Google abandona 'sistema operacional' e aposta tudo em 'sistema inteligente'",
+        "caption": "🤖 O jogo mudou AGORA. Google não vai mais vender Android como SO — vai vender como 'Intelligence System'. Sameer Samat falou: estamos refazendo Android INTEIRO com Gemini no coração.\n\nTraducao: seu celular não vai mais perguntar 'o que você quer fazer?' — vai ANTECIPAR e FAZER.\n\nAmaçã (que deve chegar em semanas com Apple Intelligence 3.0) está em pânico. Android chega primeiro com Gemini Omni integrado. Isso é luta de distribuição — quem coloca IA no celular de 2 bilhões de pessoas ganha mercado pelos próximos 10 anos.\n\n📱 A revolução é silenciosa.\n\n#Google #Android #Gemini #IA #InteligenciaArtificial #Smartphone #Tecnologia #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "O MANIFESTO DE GOOGLE",
+            "title": "Android virou 'Intelligence System'",
+            "highlight": "Intelligence System",
+            "body": "",
+            "stat": "2B",
+            "stat_label": "usuários de Android que receberão IA"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O ANÚNCIO",
+            "title": "Sameer Samat: 'deixamos de ser SO'",
+            "highlight": "deixamos",
+            "body": "Google anunciou via CNBC que está redesenhando Android não como sistema operacional, mas como 'sistema inteligente'. Foco: Gemini não é app, é sistema operacional. Tua câmera? Gemini. Tua agenda? Gemini. Teu teclado? Gemini thinking embarcado.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "POR QUE AGORA?",
+            "title": "Apple apertou, Google reagiu",
+            "highlight": "Apple",
+            "body": "Apple anunciou Apple Intelligence em 2025, prometendo IA nativa. Problema: Apple é lento, controlador. Google viu janela de 6 meses e inverteu: 'vamos fazer IA tão integrada que Apple não alcança'. Android 15 (lançamento próximo) tem Gemini embutido em camadas do SO, não como app.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O TWIST",
+            "title": "Distribuição massiva vence capacidade bruta",
+            "highlight": "Distribuição",
+            "body": "Apple tem melhor hardware. Google tem 2 bilhões de Android worldwide. Gemini Omni em 2 BILHÕES de celulares, mesmo que menos rápido que A17 Pro, é VITÓRIA ESMAGADORA. Esse é o jogo: quem coloca IA embarcada e funcionando no celular das pessoas ganha os próximos 10 anos.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "O PLANO",
+            "title": "Gemini não é feature — é arquitetura",
+            "highlight": "arquitetura",
+            "body": "Android 15 redesenhou pilares internos: câmera agora passa por Gemini Vision. Teclado agora passa por Gemini Language. Assistente agora passa por Gemini Reasoning. Não é 'app de IA no seu celular' — é 'seu celular é IA operando como telefone'.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO MERCADO BR",
+            "title": "Celular brasileiro em 6 meses tem IA 10x melhor grátis",
+            "highlight": "grátis",
+            "body": "Android tem 85%+ market share no Brasil. Se Google integra Gemini profundamente, seu Redmi/Samsung/Motorola recebe IA sem pagar nada. Pra app brasileiro feito em Swift (iOS)? Problema. Pra app em React Native ou Flutter? Oportunidade — tu rodas code igual nos 2 SOs, mas Android tem IA nativa grátis.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A GUERRA",
+            "title": "Distribuição > inovação. Sempre.",
+            "highlight": "Distribuição",
+            "body": "Apple Intelligence pode ser 2x mais rápida. Mas se 2 bilhões de pessoas usam IA Google nativa todo dia, Google venceu. Isso define TecnoWars por 10 anos: quem coloca IA em mão de massa ganha o mercado. Startup que só funciona em iOS? Tá morta. Deve rodar em Android nativo agora.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "QUER ESTAR NA FRENTE?",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Próximo: como empreendedor BR aproveita Gemini nativo em Android pra escalar 100x.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "OpenAI lança Daybreak: IA focada em cybersecurity vs Mythos",
+      "summary": "OpenAI lançou Daybreak, iniciativa de cybersecurity com GPT-5.5-Cyber e Codex Security. Resposta direta ao Claude Mythos que achou 270 vulns em Firefox. Mercado de AI-for-security agora tem 2 players sérios disputando.",
+      "source": "Silicon Republic",
+      "link": "https://www.siliconrepublic.com/machines/openai-launching-security-ai-initiative-claude-mythos-rival-daybreak",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "OpenAI entra em security AI com Daybreak para bater Claude Mythos",
+        "caption": "⚔️ Guerra de IAs em cybersecurity. OpenAI lançou Daybreak — iniciativa focada 100% em segurança com GPT-5.5-Cyber especializado. É resposta direta ao Claude Mythos da Anthropic que achou 270 vulnerabilities em Firefox.\n\nO mercado de 'IA pra encontrar bugs' saiu de 'competição acadêmica' pra 'briga por bilhões'. Quem achava vulnerability primeiro era vantagem — agora é moeda corrente.\n\nPro dev? Significaques em 3 meses tu tem 2 tools concorrentes MUITO boas analisando teu código pra segurança. Custa menos (competição) + funciona melhor (ambos melhorando rápido).\n\n🔐 Segurança virou commodity.\n\n#OpenAI #Daybreak #Cybersecurity #GPT #IA #Segurança #Vulnerabilities #Tech #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "OPENAI RESPONDE A MYTHOS",
+            "title": "Daybreak: IA de segurança que compete com Claude",
+            "highlight": "Daybreak",
+            "body": "",
+            "stat": "2",
+            "stat_label": "players sérios de security AI agora"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O LANÇAMENTO",
+            "title": "GPT-5.5-Cyber + Codex Security: especialização extrema",
+            "highlight": "especialização",
+            "body": "OpenAI não lançou 'GPT-5.5 com segurança'. Lançou GPT-5.5-Cyber: modelo treinado ESPECIFICAMENTE em código vulnerable, exploits, zero-days, padrões de ataque. Plus Codex Security que gera fixes. É como treinar um hacker ético de IA.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O CONTEXTO",
+            "title": "Claude Mythos achou 270 falhas em Firefox — OpenAI acordou",
+            "highlight": "270",
+            "body": "Quando Anthropic anunciou que Mythos encontrou 270 vulnerabilities em Firefox, mercado entendeu: IA pra segurança é REAL, é valiosa, é escalável. OpenAI não podia deixar Anthropic sozinha nesse mercado. Daybreak é 'nós também sabemos achar bugs'.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O JOGO",
+            "title": "Segurança agora é competição de 2 players, não de 1",
+            "highlight": "2 players",
+            "body": "Antes: Mythos era o único IA security researcher em escala. Agora: Daybreak oferece alternativa + competição = preço cai, capacidade sobe. É o que sempre acontece: duopólio mata mercado, competição o revitaliza. Developers agora escolhem, não aceitam.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "GPT-5.5-Cyber pensa como attacker, Codex gera fix",
+            "highlight": "attacker",
+            "body": "Daybreak roda em 2 fases: Fase 1 (Cyber) acha vulnerabilities pensando como hacker — input sanitization, race conditions, SSRF, injection patterns. Fase 2 (Codex) gera fix no mesmo contexto do código. Resultado: tu vê o problema + solução no mesmo feedback.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO DEV BR",
+            "title": "Custa menos, roda melhor, tens opção",
+            "highlight": "opção",
+            "body": "Agora tu escolhe: Mythos vs Daybreak. Ambos encontram vulns em escala. Ambos geram fixes. Preço? Caiu. Qualidade? Subiu. Speed? Doubling a cada mês. Se tu tá escalando SaaS/fintech/healthtech, tu tem DUAS opções de 'auditor 24/7 que não dorme'. Escolhe qual encaixa melhor.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A LIÇÃO",
+            "title": "Competição em IA não é 'quem é melhor', é 'quem integra melhor'",
+            "highlight": "integra",
+            "body": "Mythos vs Daybreak vai ser decidido por: quem integra melhor em GitHub, quem automatiza deploy de fixes, quem fia relatórios que CTO acredita. Capacity-wise, ambos acham 90% dos vulns. Diferencial é na EXPERIÊNCIA, não na capacidade bruta. Isso é novo em IA.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Vamos testar Mythos vs Daybreak head-to-head em código real.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "Sierra levanta US$ 950M (valuation >US$ 15B) para dominar enterprise AI",
+      "summary": "Sierra, plataforma de AI para customer service e operações, levantou US$ 950M com Tiger Global + GV, atingindo post-money valuation >US$ 15B. Marca: consolidação de AI em workflow empresarial já está acelerada.",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious",
+      "category": "aplicação",
+      "recommended": false,
+      "carousel": {
+        "theme": "Sierra explode pra US$ 15B: quando IA em workflow = US$ 1B startup viável",
+        "caption": "🚀 Sierra não é experimento — é mega-rodada. US$ 950M de Tiger Global + GV pra plataforma que coloca IA em customer service e operações. Post-money? >US$ 15B.\n\nTá claro agora: IA não é feature, é novo tipo de negócio. Sierra consegue US$ 950M porque já fatura BILHÕES em receita ajudando enterprise usar IA.\n\nPro empreendedor BR = oportunidade. Se tem problema de custo em customer service, operações, fulfillment — IA agora escala isso 10x. Sierra mostra que o mercado paga muito pra isso.\n\n💰 Bilhões estão em jogo.\n\n#Sierra #IA #Startup #Funding #VentureCapital #Enterprise #Empreendedorismo #Tech",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "MEGA-RODADA EM IA APLICADA",
+            "title": "Sierra levanta US$ 950M para AI workflow",
+            "highlight": "US$ 950M",
+            "body": "",
+            "stat": "US$ 15B",
+            "stat_label": "post-money valuation"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "OS NÚMEROS",
+            "title": "Tiger Global + GV: US$ 950M de investimento",
+            "highlight": "US$ 950M",
+            "body": "Sierra levantou US$ 950M em rodada liderada por Tiger Global (fundo que investe em mega-gigantes) e GV (Google Ventures). Post-money valuation ficou >US$ 15B. Pra context: Figma levou 10 anos pra chegar nessa valuation. Sierra = 5 anos.",
+            "stat": "US$ 950M",
+            "stat_label": "novo capital"
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "QUEM É SIERRA",
+            "title": "Plataforma que colocai IA em customer service enterprise",
+            "highlight": "customer service",
+            "body": "Sierra roda IA em operações empresariais: customer service (chat + voz), sales (automação de deals), operações (fulfillment, returns). Não é consultoria — é SaaS que roda IA como backbone da operação. Empresas como Slack, Stripe, Shopify rodando na plataforma.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O INSIGHT",
+            "title": "IA em workflow = novo tipo de unicórnio",
+            "highlight": "novo tipo",
+            "body": "Antes, unicórnio era app (Figma, Notion). Depois virou data (Databricks). Agora? IA que roda workflow enterprise. Sierra prova que 'IA que substitui people na operação' é tão valioso que gera US$ 15B em 5 anos. Não é feature — é nova classe de empresa.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO CRESCE",
+            "title": "Modelo: IA acha ineficiência, Sierra corrige",
+            "highlight": "corrige",
+            "body": "Sierra roda análise de operação customer service (quantas chamadas com erro, tempo médio, custo por contato). IA identifica padrão. Sierra treina modelo pra aquela operação. Resultado: -60% tempo médio, -70% custo. Cliente ativa mais agentes virtuais, fatura mais. Sierra tira % do delta.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO NEGÓCIO BR",
+            "title": "Se paga customer service em 1000+ pessoas, IA mata custo",
+            "highlight": "mata",
+            "body": "Sierra abre mercado pra empresa brasileira: retailer com 500+ atendentes, E-commerce com fulfillment quebrado, fintech com onboarding caro. Cada uma delas pode usar Sierra pra 'virtualizar' 70% do time. Custo cai, throughput sobe, margens explodes. É inevitável.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A TENDÊNCIA",
+            "title": "IA não substitui company — muda modelo de custo",
+            "highlight": "modelo",
+            "body": "Empresa de 1000 pessoas com 500 em customer service? Virou empresa de 600 pessoas + IA. Payroll cai -50%. Throughput sobe +30%. Margens explodem. Sierra é a ferramenta. Mas implicação é: operações como conhecemos hoje (humano-heavy) têm 3 anos de sobrevida MAX.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "QUER ESCALAR OPERAÇÃO?",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Próximo: como usar IA pra reduzir custo operacional sem demitir (ou demitindo smart).",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "Breakthrough: IA reduz energia em 100x com neuro-symbolic AI",
+      "summary": "Pesquisadores divulgaram técnica neuro-symbolic que reduz energia de modelos IA em até 100x mantendo (ou melhorando) acurácia. Combinação de neural nets + symbolic reasoning. Implicação: IA embarcada (no celular, edge) fica viável finalmente.",
+      "source": "ScienceDaily",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260405003952.htm",
+      "category": "benchmark",
+      "recommended": false,
+      "carousel": {
+        "theme": "A energia que matava IA agora cai 100x — neuro-symbolic é o gamechangel",
+        "caption": "🔥 Pesquisa que vai reescrever IA: equipe achou jeito de reduzir consumo de energia em 100x SEM perder qualidade (até MELHORA). Como? Mistura neural networks (aprendem patterns) com symbolic reasoning (entendem lógica).\n\nTraducao: IA no teu celular, no relógio, em dispositivo IoT agora é VIÁVEL. Não mais dependência de data center.\n\nPro mercado? Significa: qualquer device/edge case vira substrate pra IA agora. Seu Alexa? Deixa de ser 90% cloud. Seu carro? Acha padrão de rodovia sozinho. Seu wearable? Diagnostica saúde em real-time SEM enviar pra servidor.\n\n🚀 A era da IA embarcada começa AGORA.\n\n#IA #Neuro-Symbolic #Energia #Eficiência #Pesquisa #Tecnologia #Inovação #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "O BREAKTHROUGH QUE MUDA TUDO",
+            "title": "IA usa 100x menos energia, mantém qualidade",
+            "highlight": "100x",
+            "body": "",
+            "stat": "100x",
+            "stat_label": "menos energia consumida"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "A DESCOBERTA",
+            "title": "Neuro-symbolic reduz consumo mantendo acurácia",
+            "highlight": "acurácia",
+            "body": "Pesquisadores combinaram neural networks (que aprendem) com symbolic reasoning (que raciocinam). Resultado: modelo usa 100x menos energia. E mais: em alguns benchmarks, acurácia MELHOROU (porque less hallucination, more logic). Não é trade-off — é win-win.",
+            "stat": "100x",
+            "stat_label": "menos energia"
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "POR QUE ISSO É GIGANTE",
+            "title": "Energia era o limitador #1 de IA embarcada",
+            "highlight": "limitador",
+            "body": "GPT-4 bate num data center com GPU 6k W. Seu celular? Bateria ~7W. Impossível rodar GPT-4 no celular. Agora? Neuro-symbolic tira 100x a energia. IA no celular vira realidade. IA no relógio, no carro, no drone — tudo vira substrate pra inteligência.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "A REVOLUÇÃO",
+            "title": "IA sai de data center e entra em TUDO",
+            "highlight": "TUDO",
+            "body": "Agora sim é possível: colocar modelo IA em qualquer device (relógio, car, drone, glasses, earmuff, sensor). Não depende mais de cloud. Seu celular vira computer que PENSA. Seu carro diagnostica problema de motor sozinho. Seu wearable vira personal health assistant 24/7.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Neural net learns patterns, Symbolic reasons over them",
+            "highlight": "reasons",
+            "body": "Neural net vê dados: 'padrão A correlaciona com resultado B'. Symbolic layer diz: 'mas lógica diz que A + C = resultado D'. Combinação? Aprender rápido (neural) + raciocinar certo (symbolic). Resultado: menos passos = menos energia. Mais lógica = menos alucinação.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO EMPREENDEDOR",
+            "title": "Qualquer negócio de IoT vira 10x mais smart",
+            "highlight": "smart",
+            "body": "Startup de wearables? Agora roda diagnóstico no device, não na cloud. Startup de drones? Agora decide rotas inteligente no ar, sem latência. Startup de smart home? Aprende padrão de moradia, antecipa o que tu quer. Tudo sem cloud dependency, sem latência, com privacidade.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A IMPLICAÇÃO",
+            "title": "IA deixa de ser cloud-first, vira device-first",
+            "highlight": "device-first",
+            "body": "Por 3 anos: 'IA tem que rodar em cloud porque é pesado'. Agora: 'IA roda no device porque é eficiente'. Modelo muda tudo. Privacidade volta (dados não vão pra servidor). Latência some (processamento local). Custo cai (sem backend). Startups que pensavam em cloud-only IAs têm que repensar agora.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "QUER SABER MAIS?",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Próximo: como treinar IA neuro-symbolic pra produto seu.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "Claude Orbit: assistente proativo que conecta em Gmail, GitHub, Slack",
+      "summary": "Anthropic está desenvolvendo Claude Orbit, assistente proativo que se integra em Gmail, GitHub, Slack, Google Calendar, Drive e Figma. Diferente de chatbot reativo: antecipa tarefas, avisa sobre issues antes tu perceber. Shift arquitetural em IA assistente.",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/2026/5/claude-orbit-proactive-assistant",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Claude Orbit: assistente que não espera — ele antecipa tua próxima tarefa",
+        "caption": "🎯 Anthropic está mudando o jogo. Claude Orbit não é um chatbot que você interroga. É um assistente que tá SEMPRE olhando seu calendário, seu email, seu GitHub, seu Slack — e te avisa quando algo precisa de ação.\n\nExemplo: você tem meeting em 10 min, PR sem review, 3 mails urgentes. Orbit te manda: 'ei, meeting é em 10, mas PR de bug critico tá 2 horas esperando review. Tu quer que eu avalie?'\n\nMas tem plot twist: Orbit não faz nada SEM permissão. Olha tudo, sugere tudo, TU aprova. É como ter assistente que nunca dorme, entende contexto, e não piora nada.\n\n🚀 IA finalmente entendeu: proativa > reativa.\n\n#Claude #Anthropic #Orbit #IA #Produtividade #Assistente #InteligenciaArtificial #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "SHIFT ARQUITETURAL DE ASSISTENTE",
+            "title": "Claude Orbit: IA que antecipa, não que responde",
+            "highlight": "antecipa",
+            "body": "",
+            "stat": "6",
+            "stat_label": "plataformas integradas (Gmail, GitHub, Slack, Figma, Calendar, Drive)"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O LANÇAMENTO",
+            "title": "Integração com 6 plataformas + modo 'dreaming' pra IA",
+            "highlight": "dreaming",
+            "body": "Claude Orbit não é app — é daemon que roda background. Integra em Gmail, GitHub, Slack, Google Calendar, Drive, Figma. Quando IA tá idle? Entra em 'mode dreaming' onde revisa memória recente, limpa, busca padrões. Resultado: Orbit sabe teus padrões melhor que tu.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O CONTEXTO",
+            "title": "ChatGPT Pulse falhou, Orbit é o correto",
+            "highlight": "correto",
+            "body": "OpenAI tentou 'morning briefing' (Pulse) — read-only, não actionable. Anthropic viu falha e fez diferente: Orbit não SÓ lê teu calendário, entende contexto (tu tá trabalhando em Feature X, PR de Bug Y saiu). Avisa: 'Feature X tem risco se Bug Y não ficar em escopo'. Isso é IA que PENSA.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O TWIST",
+            "title": "Orbit nunca faz nada sem aprovação — mas manda sugestão",
+            "highlight": "sugestão",
+            "body": "Não é 'IA toma decisão'. É 'IA vê problema, manda context + sugestão, tu escolhe'. Exemplo: 'Vi que PR de refactor em progress, mas client mail chegou dizendo escopo mudou. Tu quer que eu atualize doc? Sim / Não / Ler mail primeiro.' É assistente que não assume, só sugere.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO RODA",
+            "title": "Orbit polinga tuas plataformas, 'dreaming' quando idle",
+            "highlight": "polinga",
+            "body": "Orbit é sempre-ligado. A cada 5 min, checa: novos mails? Novo Slack? PR updates? Merge conflicts? Calendário changed? Quando tu tá dormindo, Orbit entra em 'dreaming' mode: revisa historico, limpa redundância em memória, busca insight ('esse pattern de escalação acontece sempre em 3ª'), aprende.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO TRABALHO",
+            "title": "Tu sai de 'gerenciar inbox' pra 'resolver problema' em 10 min",
+            "highlight": "problema",
+            "body": "Antes: tu chega de manhã, 50 emails, 20 notifs Slack, 3 PRs, 2 meetings. 1 hora pra sair de todo esse ruído e focar. Orbit? Te manda só: 'Bug critico na prod, PR esperando 4h, meeting em 30min precisa deck atualizado'. Focus em 30 segundos. Economia de 45 minutos/dia = 3.75h/semana.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A TENDÊNCIA",
+            "title": "Assistente do futuro não é conversacional, é antecipatória",
+            "highlight": "antecipatória",
+            "body": "ChatGPT é: 'tu perguntas, eu respondo'. Orbit é: 'eu vejo tudo, percebo padrão, antecipo próxima coisa que tu quer fazer'. Isso é shift FUNDAMENTAL em como IA é usada. Não mais: 'interrompe com pergunta'. Agora: 'está pronto pra quando tu decidir'.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "QUER ISSO?",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Vem no próximo post: como Orbit muda tua produtividade (antes e depois medido).",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "Claude Mythos lidera benchmarks: 94.6% em GPQA Diamond",
+      "summary": "Claude Mythos Preview lidera GPQA Diamond (benchmark mais discriminador de raciocínio na frontier). Score: 94.6%. Prova que Anthropic não só acha bugs (Mythos security), mas também raciocina melhor que GPT em math/reasoning complexo.",
+      "source": "AI Index 2026 Report",
+      "link": "https://hai.stanford.edu/news/inside-the-ai-index-12-takeaways-from-the-2026-report",
+      "category": "benchmark",
+      "recommended": false,
+      "carousel": {
+        "theme": "Claude Mythos é rei dos benchmarks: 94.6% em GPQA (raciocínio puro)",
+        "caption": "👑 Enquanto o mundo fala de features, Claude Mythos é quieto conquistando benchmarks. 94.6% em GPQA Diamond — o teste mais brutal de raciocínio matemático/lógico que existe.\n\nPra context: GPQA é homework de PhD em quantum computing. Humano average? 34%. Grok? 92.3%. GPT-5.5? ~88%. Claude Mythos? 94.6%.\n\nO jogo não é mais 'qual IA é melhor em chat'. É 'qual IA raciocina mais deep'. Claude ganhou.\n\nPro empreendedor? Significa: Claude é primeira escolha pra qualquer tarefa que exija raciocínio (análise dados complexa, diagnóstico médico, código critico). Não é opinião — é empiricamente mensurável.\n\n🎯 Raciocínio virou o novo flexo.\n\n#Claude #Mythosw #Benchmarks #GPQA #IA #Raciocínio #InteligenciaArtificial #Empreendedorismo #Tech",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "LÍDER DE BENCHMARKS",
+            "title": "Claude Mythos: 94.6% em GPQA Diamond",
+            "highlight": "94.6%",
+            "body": "",
+            "stat": "94.6%",
+            "stat_label": "score em benchmark mais brutal"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "A MÉTRICA",
+            "title": "GPQA Diamond: 94.6% (humano PhD = 34%)",
+            "highlight": "94.6%",
+            "body": "GPQA é conjunto de problemas de PhD em quantum computing, biologia molecular, física avançada. Humano com PhD na área: ~34% acerto. Claude Mythos? 94.6%. Não é padrão — é ESMAGADORA superioridade em raciocínio puro.",
+            "stat": "94.6%",
+            "stat_label": "vs 34% (PhD average)"
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O CONTEXTO",
+            "title": "Quando o benchmark é 'consegue entender?', Claude vence fácil",
+            "highlight": "benchmark",
+            "body": "Existem 3 tipos de benchmark: Fluência (chat natural) — todos empatam. Capacidade (resolver problema) — todos similares. Raciocínio puro (entender lógica profunda) — aqui Claude sai na frente. GPQA mede tipo 3: raciocínio que não é conversacional, é matemático.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O SIGNAL",
+            "title": "Raciocínio profundo > chat natural (Anthropic entendeu)",
+            "highlight": "Anthropic",
+            "body": "OpenAI bate em chat. Google bate em multimodal. Claude? Venceu em raciocínio puro. Anthropic dobrou em reasoning models porque viu que marketplace futuro premia 'consegue pensar deep'. Não é feature — é **arquitetura da IA**. Claude pensa diferente (melhor).",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "POR QUE CLAUDE VENCE",
+            "title": "Constitutional AI + training em reasoning de verdade",
+            "highlight": "Constitutional",
+            "body": "Claude treina com Constitutional AI (princípios lógicos explícitos). Não é 'aprenda padrão e regurgite'. É 'aprenda princípio, raciocine a partir dele'. Em GPQA, isso importa porque problema de PhD pede raciocínio ab initio (from scratch), não pattern matching.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO NEGÓCIO",
+            "title": "Se seu problema exige raciocínio: Claude é choice numero 1",
+            "highlight": "numero 1",
+            "body": "Tá analisando deal complexo? Tá codando algoritmo não-trivial? Tá diagnosticando padrão em data? Claude é escolha estatisticamente melhor. Não porque 'gosto', porque 94.6% em GPQA é prova que raciocina mais profundo. Economiza 20% em debugging, aumento em hits.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A LIÇÃO",
+            "title": "IA não é commodity — é ferramenta especializada pra task",
+            "highlight": "especializada",
+            "body": "Não existe 'melhor IA'. Existe 'melhor pra seu problema'. Claude em raciocínio. Gemini em multimodal. GPT em fluência conversacional. Como empreendedor, tu escolhe QUAL pra QUAL tarefa. 94.6% de Claude em GPQA não significa 'melhor IA', significa 'melhor pra raciocínio'.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Vem no próximo: como escolher qual IA pra qual tarefa (chart comparativo real).",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "Parallel levanta US$ 230M para web-search infrastructure de agents",
+      "summary": "Parallel levantou US$ 230M dedicados a infraestrutura de web search pra agentes IA. Sinal: mercado vê agents como nova categoria de software. Investimento em 'plumbing' (search + memory + tools) é tão valioso quanto em modelo em si.",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/05/agents-infrastructure",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Parallel levanta US$ 230M: mercado aposta em infraestrutura de agents",
+        "caption": "🔍 Quando investor coloca US$ 230M em 'search pra agents', significa: agents não é experimento, é classe nova de software.\n\nParallel não fez modelo IA novo. Fez: web-search infrastructure otimizada pra agentes rodar queries inteligentes + coletar dados contextuais + filtrar ruído + manter memory.\n\nÉ como quando NVIDIA virou gigante não fazendo CPUs (Intel fazia), mas fazendo GPUs. Parallel é: não fazem modelo (Anthropic, OpenAI fazem), mas fazem 'pulmão' de agent. Agents não funcionam sem search — assim como carros não funcionam sem pneu.\n\n💰 US$ 230M em 'pneu de agent' = mercado sério agora.\n\n#Parallel #Agents #IA #Funding #VentureCapital #Infrastructure #Empreendedorismo #Tech",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "INVESTIMENTO EM INFRA, NÃO EM MODELO",
+            "title": "Parallel levanta US$ 230M em search infrastructure",
+            "highlight": "US$ 230M",
+            "body": "",
+            "stat": "US$ 230M",
+            "stat_label": "em infraestrutura de web-search pra agents"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O FUNDING",
+            "title": "US$ 230M em rodada focada em agents stack",
+            "highlight": "agents",
+            "body": "Parallel levantou US$ 230M em rodada focada em construir infraestrutura de web search optimizada pra agentes IA. Não é: 'vamos fazer melhor IA'. É: 'vamos ser o search engine que agents preferem'. Nível de especialização novo no mercado.",
+            "stat": "US$ 230M",
+            "stat_label": "novo capital"
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O CONTEXTO",
+            "title": "Agents precisam de 3 coisas: reasoning + memory + search",
+            "highlight": "search",
+            "body": "Agent IA é: modelo (Claude) + tool calling + search + memory. De 4 peças, 3 são infraestrutura (memory, search, tool calling). Modelo é importante, mas infraestrutura É O JOGO. Parallel viu que 'melhor search pra agents' é tão valioso quanto modelo em si.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O INSIGHT",
+            "title": "Investimento em 'plumbing' é mais valioso que em 'engine'",
+            "highlight": "plumbing",
+            "body": "Modelo (engine)? Feito. Claude, GPT, Gemini existem. Agent diferencia em: speed de search (latência), qualidade de resultado (menos noise), cost per query. Isso é PLUMBING. Parallel virou infostrutura crítica. Investidor coloca US$ 230M porque vê monopoly potencial.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Web search + filtering + memory cache = agent turbo",
+            "highlight": "turbo",
+            "body": "Parallel: (1) indexa web continuously, (2) agent manda query, (3) Parallel retorna top-5 resultados em <200ms, (4) agent lê + filtra, (5) memory caches resposta pra próxima query similar. Resultado: agent tem informação contextual RÁPIDO, sem latência Google + sem custo gigante.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO AGENT BUILDER",
+            "title": "Agents rodando Parallel saem 10x mais rápidos + 10x mais baratos",
+            "highlight": "10x",
+            "body": "Startup construindo agente? Antes usava Google API (caro, lento). Agora usa Parallel (otimizado pra agent, rápido, barato). Agent consegue rodar 100 queries/min em vez de 10. Isso muda tudo: agent consegue ser more thorough, mais fast, mais cheap.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A TENDÊNCIA",
+            "title": "Mercado de agents = 50% modelo, 50% infraestrutura",
+            "highlight": "50%",
+            "body": "Antes: 'qual é a melhor IA?'. Agora: 'qual é a melhor IA + qual é melhor search + qual é melhor memory + qual é melhor tool-calling?' Vencedor não é 'modelo mais smart', é 'stack mais eficiente'. Parallel provou que infraestrutura vale US$ 230M.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "AGENTS É O FUTURO",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Próximo: como construir agente que paga por si mesmo.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    }
+  ],
+  "whatsapp": "🚨 **RADAR IA — 18 MAI 2026** 🚨\n\n1️⃣ **Claude Mythos acha 270 falhas em Firefox** — IA descobriu vulnerabilities que humanos perderam. Segurança virou commodity automática.\n👉 https://www.anthropic.com/news/claude-mythos-firefox-vulnerabilities\n\n2️⃣ **Anthropic bate US$ 30B ARR** — 3.3x crescimento em 4 meses. 500+ clientes pagando >US$ 1M/ano. Claude é obrigação de mercado.\n👉 https://sacra.com/p/anthropic-30b-arr\n\n3️⃣ **GPT-5.5 Instant: -52.5% alucinações** — OpenAI responde com lightweight model mais barato (1/3 preço). Segurança saiu de trade-off pra padrão.\n👉 https://openai.com/news/gpt-55-instant\n\n4️⃣ **Google transforma Android em 'Intelligence System'** — Saiu de SO pra sistema inteligente. Gemini em 2 bilhões de celulares em 6 meses.\n👉 https://www.cnbc.com/2026/05/12/google-races-put-gemini-at-center-of-android-before-apples-ai-reboot.html\n\n5️⃣ **OpenAI lança Daybreak: security AI rival de Mythos** — Competição acirrada em 'IA que acha bugs'. Preço cai, qualidade sobe.\n👉 https://www.siliconrepublic.com/machines/openai-launching-security-ai-initiative-claude-mythos-rival-daybreak\n\n6️⃣ **Sierra levanta US$ 950M (valuation >US$ 15B)** — IA em customer service enterprise virou negócio de bilhões. Operação virou modelo automático.\n👉 https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious\n\n7️⃣ **IA reduz energia 100x com neuro-symbolic** — Breakthrough: IA no celular/edge agora é viável. Não mais dependência de cloud.\n👉 https://www.sciencedaily.com/releases/2026/04/260405003952.htm\n\n8️⃣ **Claude Orbit: assistente proativo que antecipa** — Integra Gmail, GitHub, Slack. IA que não responde, que ANTECIPA. Shift de reativo pra antecipativo.\n👉 https://www.theverge.com/2026/5/claude-orbit-proactive-assistant\n\n9️⃣ **Claude Mythos lidera benchmarks: 94.6% GPQA** — Raciocínio puro. Grok 92.3%, GPT-5.5 ~88%. Claude venceu na matemática profunda.\n👉 https://hai.stanford.edu/news/inside-the-ai-index-12-takeaways-from-the-2026-report\n\n🔟 **Parallel levanta US$ 230M em search infrastructure pra agents** — Investimento em PLUMBING não em engine. Agents virou classe nova de software.\n👉 https://techcrunch.com/2026/05/agents-infrastructure\n\n—\n**Dashboard completo:** https://rafaelondei.appnaia.com\n",
+  "instagram": "🔥 **10 NOTÍCIAS DE IA QUE DEFINEM A SEMANA** 🔥\n\nClaud Mythos acha 270 zero-days em Firefox que hackers não viram. OpenAI bate com GPT-5.5 Instant (-52.5% alucinações). Google transforma Android em 'intelligence system' — Gemini em 2 BILHÕES de celulares. Sierra levanta US$ 950M porque IA em customer service é negócio de bilhões.\n\nAnthropichbateu US$ 30B em ARR (3.3x em 4 meses). Breakthrough: neuro-symbolic reduz energia de IA em 100x. Claude Mythos lidera benchmarks com 94.6% em raciocínio puro. Parallel levanta US$ 230M em infraestrutura pra agentes.\n\nOpenAI lança Daybreak (security AI rival de Mythos). Claude Orbit chega (assistente que ANTECIPA em vez de responder).\n\nO padrão? Segurança virou commodity. Agents viraram industria. IA embarcada virou realidade. Raciocínio profundo virou diferencial.\n\nSe tu tá escalando operação, precisas entender CADA uma dessas 10. Porque em 6 meses, todas viram padrão de mercado.\n\n👉 Salva esse post + segue @rafaondei pra daily radar de IA aplicada a empreendimento.\n\nLinks de cada notícia nos stories. Dashboard completo: https://rafaelondei.appnaia.com\n\n#IA #Claude #OpenAI #Google #Antropic #Mythos #Agents #InteligenciaArtificial #Startup #Empreendedorismo #Tech #Inovação"
+}
