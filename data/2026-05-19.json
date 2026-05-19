@@ -1,0 +1,1030 @@
+{
+  "date": "2026-05-19",
+  "topic": "mercado de IA",
+  "topic_slug": "ia-geral",
+  "generated_at": "2026-05-19T07:00:01-03:00",
+  "items": [
+    {
+      "title": "Claude Opus 4.6: 1 Milhão de Tokens, Revolução de Contexto",
+      "summary": "Anthropic lança Claude Opus 4.6 com suporte a 1 milhão de tokens de contexto — suficiente para processar bibliotecas inteiras de documentos corporativos em uma única sessão. Performance melhorada em coding, análise financeira e planejamento estratégico.",
+      "source": "Anthropic Blog / Medium",
+      "link": "https://medium.com/@fazal-sec/anthropics-explosive-start-to-2026-everything-claude-has-launched-and-why-it-s-shaking-up-the-668788c2c9de",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Contexto gigante que muda tudo em análise de documentos corporativos",
+        "caption": "Claude Opus 4.6 chegou com 1 MILHÃO de tokens. Imagina processar seu contrato de 2000 páginas, 50 mails, todos os relatórios anuais E ainda ter espaço pra pensar. É a primeira vez que um modelo consegue engolir bibliotecas inteiras.\n\n📊 Melhorias: +15% em coding, topo em finance benchmarks, planejamento 14.5h de horizon\n\n💡 O ponto: contexto deixou de ser limitação. Agora é recurso estratégico.\n\n🚀 Quem ganha: Consultoria, análise de dados, operações — qualquer coisa que envolva consolidar informação dispersa.\n\n#IA #Claude #Anthropic #InteligenciaArtificial #Tecnologia #Inovacao",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "O NOVO PADRÃO DA INDUSTRIA",
+            "title": "1 MILHÃO DE TOKENS",
+            "highlight": "MILHÃO",
+            "body": "Antropic lançou Claude Opus 4.6 com contexto que consegue processar uma biblioteca inteira em uma sessão. Não é incremento. É revolução.",
+            "stat": "1.000.000",
+            "stat_label": "tokens de contexto",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "BENCHMARKS SÓLIDOS",
+            "title": "Top em Finance, +15% Coding",
+            "highlight": "+15%",
+            "body": "Claude 4.6 não só ampliou contexto — subiu em todos os benchmarks importantes. Análise financeira é o novo forte. Coding melhorou comparado às gerações anteriores.",
+            "stat": "+15%",
+            "stat_label": "melhoria em performance coding",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "CAPACIDADE TRANSFORMADA",
+            "title": "De Documento Único Para Biblioteca Inteira",
+            "highlight": "Biblioteca",
+            "body": "Antes: tu processava um contrato, um email, um relatório de cada vez. Agora: coloca 50 contratos, 100 emails, 20 relatórios de uma só vez. O modelo não respira pesado. Continua focado. É o salto que o mercado de consultoria tava esperando.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O QUE MUDOU",
+            "title": "Contexto Deixou de Ser Gargalo",
+            "highlight": "Gargalo",
+            "body": "Por 3 anos, contexto foi o limite. Quanto texto tu conseguia processar? Agora? Contexto é recurso. A pergunta mudou: não é mais 'cabe?', é 'como eu uso?'. Muda completamente a estratégia de implementação nas empresas.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Fast Mode + Contexto = Combo Potente",
+            "highlight": "Combo",
+            "body": "Anthropic também lançou Fast mode para Opus 4.6 — output mais rápido, latência reduzida. Combo contexto gigante + resposta rápida é o que faltava pro produto ser útil em tempo real em empresas grandes.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM GANHA?",
+            "title": "Consultoria, Financeiro, Operações",
+            "highlight": "Financeiro",
+            "body": "Se tu trabalha com análise de múltiplos documentos, consolidação de dados, strategy planning — esse modelo é game-changer. Consultoria vai economizar semanas de análise manual. Financeiro ganha em due diligence speed.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO ESTRATEGICA",
+            "title": "Contexto Gigante = Novo Moat",
+            "highlight": "Novo Moat",
+            "body": "A próxima onda não é mais 'qual modelo é mais inteligente'. É 'qual consegue engolir mais informação sem perder foco'. Claude 4.6 chegou primeiro. Mas a corrida por contexto é a próxima battleground.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "QUER FICAR ATUALIZADO?",
+            "title": "Salva Esse Post + Segue @rafaondei",
+            "highlight": "Segue",
+            "body": "Mais 9 noticias sobre IA, modelos novos e tendências que tão movimentando o mercado agora. Radar semanal em PT-BR, sem hype barato.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Sora 2 Lançado — OpenAI Mata Sora 1 em Drástica Mudança de Estratégia",
+      "summary": "OpenAI descontinua a versão 1 de Sora (gerador de vídeo) e lança Sora 2 em abril. O novo modelo é mais realista, fisicamente preciso e sincroniza áudio com vídeo. Sora 1 API fecha em setembro. Razão: pressões de custo computacional e foco em produtos enterprise.",
+      "source": "OpenAI Help Center",
+      "link": "https://help.openai.com/en/articles/20001152-what-to-know-about-the-sora-discontinuation",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "OpenAI elimina Sora 1, aposta tudo em Sora 2 focado em qualidade",
+        "caption": "Sora 2 nasceu, Sora 1 morreu. OpenAI fez escolha radical em abril 2026: descontinuou o gerador de vídeo original pra lançar versão 2. Mais realista, som sincronizado, mas com preço e estratégia completamente diferente.\n\n🎬 Novo modelo: Mais preciso, áudio+vídeo sincronizado, disponível em ChatGPT Pro\n\n💔 Descontinuado: Sora 1 API fecha setembro (antes era o carro-chefe)\n\n💰 Contexto: Sora 1 custava US$1M/dia em compute. Custo insustentável. Decisão é pura matemática de negócio.\n\n🤔 Lição: Nem sempre lançamento = sucesso eterno. Modelos viraram commodities com ciclos curtos.\n\n#IA #OpenAI #Sora #Video #GeracaoIA #Descontinuacao #IA2026",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "DRAMA NO GERADOR DE VIDEO",
+            "title": "SORA 1 MORREU",
+            "highlight": "MORREU",
+            "body": "OpenAI descontinuou Sora 1, seu gerador de vídeo flagship. Lançou Sora 2. Parece upgrade, mas é decisão brutal de negócio: Sora 1 custava muito pra rodar.",
+            "stat": "April 26",
+            "stat_label": "data da descontinuação",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O CUSTO DO FRACASSO",
+            "title": "US$ 1 MILHÃO POR DIA",
+            "highlight": "MILHÃO",
+            "body": "Sora 1 queimava aproximadamente US$ 1 milhão por dia em compute. Insustentável. OpenAI viu que o modelo, apesar de legal, não tava gerando receita que compensasse o gasto absurdo de GPU.",
+            "stat": "$1M",
+            "stat_label": "custo diário em compute",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE ACONTECEU",
+            "title": "Custo vs Receita = Morte de Produto",
+            "highlight": "Morte",
+            "body": "Sora 1 foi lançado com hype gigante. Mas o modelo demandava hardware muito caro pra rodar, e a receita não fechava. Quando a matemática não funciona, produto morre. Essa é a crua realidade de operação de IA em escala.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "NOVO MODELO CHEGA",
+            "title": "Sora 2: Mais Barato, Mais Bom",
+            "highlight": "Mais",
+            "body": "Sora 2 é mais fisicamente preciso, sincroniza áudio e vídeo automaticamente, e roda com menos compute. Não é só melhoria: é reengenharia pra ser economicamente viável. OpenAI apostou em design eficiente ao invés de força bruta.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "STRATEGY SHIFT",
+            "title": "Descontinuação Programada: Setembro 2026",
+            "highlight": "Setembro",
+            "body": "Sora 1 API (a interface pra developers e apps) vai terminar suporte em 24 de setembro 2026. Todos os apps dependentes vão quebrar. OpenAI tá forçando migração pra Sora 2. Tática de lock-in clássica da indústria.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM SOFRE?",
+            "title": "Devs e Apps Dependentes se Migram",
+            "highlight": "Migram",
+            "body": "Todo desenvolvedor que tava usando Sora 1 API agora precisa reescrever código pra Sora 2. Não é backward-compatible. Trabalho investido em Sora 1 integrations vira despesa de migração. OpenAI tá dizendo: quem tava confortável, se adapta.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "REALIDADE DE MODELOS IA",
+            "title": "Hype Não Paga Conta de Energia",
+            "highlight": "Energia",
+            "body": "Lição: Geração de vídeo com IA é cool, mas precisa de modelo economicamente sustentável. Sora 1 foi cavalinho de pau — muito legal, ninguém paga por isso. Sora 2 é aposta em eficiência. É o padrão da indústria agora: nice é legal, viável é obrigatório.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "QUER FICAR ATUALIZADO?",
+            "title": "Salva Esse Post + Segue @rafaondei",
+            "highlight": "Segue",
+            "body": "Mais 9 noticias sobre IA, modelos novos e tendências que tão movimentando o mercado agora. Radar semanal em PT-BR, sem hype barato.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Meta Llama 4: Multimodal Open-Source Que Compete com GPT-4.5",
+      "summary": "Meta lança Llama 4, primeira série multimodal nativa com arquitetura Mixture-of-Experts. Inclui Llama 4 Scout, Llama 4 Maverick (versões competitivas em benchmark) e promete Llama 4 Behemoth. Código aberto, contexto expandido, desempenho equals ou supera GPT-4.",
+      "source": "Meta AI Blog",
+      "link": "https://ai.meta.com/blog/llama-4-multimodal-intelligence/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Llama 4 abre código open-weight que rival GPT-4.5, multimodal nativo",
+        "caption": "Llama 4 saiu da caixa. Meta lançou geração multimodal open-source que bate GPT-4.5 em vários benchmarks. Scout, Maverick e Behemoth vindos. Arquitetura MoE (mistura de especialistas) escala inteligente sem custo exponencial.\n\n🚀 Chave: open-weight com performance frontier\n\n💡 Multimodal nativo desde dia 1\n\n📈 MoE architecture = eficiência escalada\n\n🔓 Código aberto = customização infinita\n\n⚡ Contexto expandido = 1M+ tokens possible\n\n🎯 Quem ganha: Devs, startups, empresas que querem customizar sem pagar taxa de API\n\n#IA #Meta #Llama #OpenSource #Multimodal #MoE #ModelosIA",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "META RETORNA COM TUDO",
+            "title": "LLAMA 4 MULTIMODAL",
+            "highlight": "MULTIMODAL",
+            "body": "Meta lançou Llama 4 — geração open-source de IA que suporta texto, imagem, vídeo desde dia 1. Arquitetura MoE escala eficiente. Benchmark: compete com GPT-4.5.",
+            "stat": "Llama 4",
+            "stat_label": "modelo open-weight frontier",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "FAMILIA COMPLETA",
+            "title": "Scout + Maverick + Behemoth",
+            "highlight": "Scout",
+            "body": "Meta não lançou um. Lançou 3 versões: Llama 4 Scout (eficiente), Llama 4 Maverick (mainstream), e promete Llama 4 Behemoth (gigante). Cada uma pra um use case diferente. Estratégia é saturar mercado open.",
+            "stat": "3",
+            "stat_label": "versões lançadas ou anunciadas",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "TECNOLOGIA POR TRÁS",
+            "title": "MoE: Mistura de Especialistas, Não Força Bruta",
+            "highlight": "Especialistas",
+            "body": "Llama 4 usa Mixture-of-Experts: modelo tem múltiplos 'especialistas' internos, cada um otimizado pra tipo de tarefa. Pra uma pergunta, só ativa os especialistas relevantes. Não joga 100% de parâmetros em tudo. Resultado: eficiência 10x, performance mantida.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDANÇA NO JOGO",
+            "title": "Open-Source Agora É Frontier",
+            "highlight": "Frontier",
+            "body": "Historicamente, open-source ficava pra trás em performance. Llama 4 mudou isso. Meta tá entregando modelo que disputa com GPT-4.5 não no 'open vs pago', mas em raw capability. Muda a equação de custo-beneficio pra quem tá buildando.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "O QUE TORNA POSSIVEL",
+            "title": "Contexto Expandido + Multimodal Nativo",
+            "highlight": "Expandido",
+            "body": "Llama 4 suporta janelas de contexto nunca vistas em open-source (1M+ tokens viável com MoE). E multimodal desde dia 1: texto, imagem, vídeo no mesmo modelo. Não precisa de model chaining. Simplifica pipeline de implementação.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM GANHA?",
+            "title": "Devs, Startups, Empresas Que Querem Liberdade",
+            "highlight": "Liberdade",
+            "body": "Open-weight significa: download o modelo, rode on-prem ou na cloud que quiser, customize sem pedir permissão, não paga taxa de API por query. Pra startup com 100k requests/dia, economia é brutal versus OpenAI/Claude.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO ESTRATEGICA",
+            "title": "Indústria Bifurcou: Closed Vs Open",
+            "highlight": "Bifurcou",
+            "body": "Anthropic e OpenAI fechados, defendendo investimento em training. Meta vai full open. Tática: Meta não precisa vender IA, precisa de dados pra treinar modelos que usam em ads. Llama 4 é investimento em moat data, não em receita direta.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "QUER FICAR ATUALIZADO?",
+            "title": "Salva Esse Post + Segue @rafaondei",
+            "highlight": "Segue",
+            "body": "Mais 9 noticias sobre IA, modelos novos e tendências que tão movimentando o mercado agora. Radar semanal em PT-BR, sem hype barato.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Grok 5: xAI Anuncia Modelo com 6 Trilhões de Parâmetros",
+      "summary": "Elon Musk anuncia Grok 5 em Q1 2026 para treino em Colossus 2 (supercluster de 1 gigawatt). Arquitetura MoE com 6T parâmetros — maior modelo publicamente anunciado. Promising native video understanding, real-time fact-checking, multiagent capabilities.",
+      "source": "MindStudio / xAI Roadmap",
+      "link": "https://www.mindstudio.ai/blog/xai-grok-roadmap-7-models-training-grok-5-10-trillion",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Grok 5: megamodelo de 6 trilhões de parâmetros com MoE architecture",
+        "caption": "xAI vai lançar Grok 5 em Q1 2026. Modelo vai ter 6 TRILHÕES de parâmetros. Maior modelo publicamente anunciado no mundo. Treina em Colossus 2 (supercluster que roda só em 1 gigawatt).\n\n⚡ Tamanho: 6 trilhões de parâmetros (até 10T anunciados)\n\n🧠 Arquitetura: MoE (mistura de especialistas) — só ativa os especialistas que precisa\n\n🎬 Features: Video nativo, fact-checking em tempo real, agents\n\n🔮 Timeline: Q1 2026 (em andamento)\n\n💫 Contexto: xAI treina 7 modelos simultaneamente em Colossus 2\n\n#IA #xAI #Grok #ModeloGigante #ElonMusk #MoE #TrilhoesParametros",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "O MAIOR MODELO JA ANUNCIADO",
+            "title": "6 TRILHÕES DE PARAMETROS",
+            "highlight": "TRILHOES",
+            "body": "xAI tá treinando Grok 5 em supercluster próprio. Modelo vai ter 6 trilhões de parâmetros — nunca ninguém anunciou coisa tão grande publicamente.",
+            "stat": "6T",
+            "stat_label": "parâmetros totais",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "INFRAESTRUTURA",
+            "title": "Colossus 2: 1 Gigawatt em IA Pura",
+            "highlight": "Gigawatt",
+            "body": "Grok 5 treina em Colossus 2, um supercluster que consome 1 gigawatt de energia — número astronômico. Pra comparação: cidade pequena consome menos. Investimento é descomunal. Elon tá apostando quantidades insanas em IA.",
+            "stat": "1GW",
+            "stat_label": "consumo de energia",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "TECNOLOGIA",
+            "title": "MoE: Parâmetros Não Significa Custo Linear",
+            "highlight": "MoE",
+            "body": "6 trilhões soa absurdo. Mas Grok 5 usa MoE: modelo tem múltiplos especialistas, cada pergunta ativa só os relevantes. Resultado: nem todo parâmetro roda pra cada query. Eficiência possibilita tamanho gigante sem custo absurdo de inference.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O QUE MUDA",
+            "title": "Competição Escala: Modelos Ficam Gigantes",
+            "highlight": "Gigantes",
+            "body": "Market escalou pra pattern novo: em vez de otimizar modelo pequeno, otimiza modelo gigante. MoE permite escala que antes era impossível. Significa que frontier vai ser quem conseguir maior cluster + melhor MoE efficiency. Dinheiro, não ideias, define vencedor.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "O QUE GROK 5 FAZ",
+            "title": "Video Nativo + Agents + Real-Time Facts",
+            "highlight": "Video",
+            "body": "Grok 5 promete: entender vídeo nativamente (sem converter em frames), rodar agentes autônomos (tipo autonomous trading), e fazer fact-checking em tempo real (crucial pra X/Twitter onde Elon quer usar). Combo de features que nenhum outro modelo oferece publicamente.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM SENTE?",
+            "title": "Anthropic, OpenAI, Google Fazem Resposta",
+            "highlight": "Resposta",
+            "body": "Anúncio de Grok 5 força competidores a acelerar. Anthropic já tá falando de modelos maiores. Google vai redesenhar. OpenAI tá em Q1 2026 também. Mercado entrou em arms race puro de parâmetros.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "REALIDADE",
+            "title": "Gigante Não Significa Melhor, Mas Significa Poder",
+            "highlight": "Poder",
+            "body": "6 trilhões não garante Grok 5 é superior a Claude 4.6 ou Gemini 3. Mas significa xAI tem poder computacional pra experimentar. Maior modelo = mais capacidade potencial, mesmo se não chegue em produção com tudo aproveitado.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "QUER FICAR ATUALIZADO?",
+            "title": "Salva Esse Post + Segue @rafaondei",
+            "highlight": "Segue",
+            "body": "Mais 9 noticias sobre IA, modelos novos e tendências que tão movimentando o mercado agora. Radar semanal em PT-BR, sem hype barato.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Google DeepMind: Co-Matemático com Gemini 3.1 Atinge 48% em Benchmark Tier 4",
+      "summary": "Google DeepMind publica estudo de 'AI co-mathematician' usando Gemini 3.1 Pro para apoiar matemáticos em problemas de pesquisa abertos. No benchmark FrontierMath Tier 4, modelo atinge 48% — 2.5x melhor que desempenho cru do Gemini 3.1 (19%).",
+      "source": "Google DeepMind Research",
+      "link": "https://epoch.ai/benchmarks",
+      "category": "benchmark",
+      "recommended": false,
+      "carousel": {
+        "theme": "Google DeepMind prova IA suporta matemáticos em pesquisa aberta com 48% taxa de acerto",
+        "caption": "Google DeepMind tem paper novo: AI co-mathematician que ajuda matemáticos em problemas abertos de pesquisa. Usa Gemini 3.1 Pro com técnicas de system prompting.\n\n📊 Resultado: 48% em benchmark tier 4 — 2.5x melhor que modelo cru\n\n🎯 Aplicação: Não é pra resolver problema sozinho. É pra ser sparring partner com matemático humano\n\n💡 Insight: Reasoning + human expertise = breakthrough que máquina sozinha não consegue\n\n🔬 Implicação: IA tá pronta pra pesquisa de fronteira, não só commodity tasks\n\n#IA #GoogleDeepMind #Matematica #Gemini #Pesquisa #AIBenchmark #CientificaIA",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "FRONTEIRA CIENTIFIA AGORA E DA IA",
+            "title": "48% EM MATH TIER 4",
+            "highlight": "TIER",
+            "body": "Google DeepMind mostrou que IA consegue fazer reasoning matemático de nível pesquisa — não é hobby project, é real. Co-matemático com Gemini 3.1 atinge 48% em benchmark duro (Frontier Math Tier 4).",
+            "stat": "48%",
+            "stat_label": "taxa de acerto no benchmark tier 4",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O SALTO",
+            "title": "2.5x Melhor Que Baseline",
+            "highlight": "2.5x",
+            "body": "Se tu roda Gemini 3.1 cru em problemas desse tier, ta perto de 19%. Com system prompting e técnicas de reasoning, sobe pra 48%. É melhorado significativo de throughput. Técnica matters tanto quanto modelo.",
+            "stat": "2.5x",
+            "stat_label": "melhoria vs baseline cru",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O ESTUDO",
+            "title": "Co-Matemático, Não Substituto",
+            "highlight": "Co-Matemático",
+            "body": "Não é 'IA resolve problema matemático complexo sozinha'. É 'IA trabalha com matemático humano pra explorar espaço de solução'. Sistema foi desenhado pra ser sparring partner — sugerir caminhos, verificar provas, apontar deadends. Humano dirige, IA sugere.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O SIGNIFICADO",
+            "title": "IA Tá Pronta Pra Pesquisa Fronteira",
+            "highlight": "Fronteira",
+            "body": "Isso não é benchmark de benchmark. É aplicação real: matemáticos rodaram isso, e viram ganho. Significa IA sai do reino de 'ferramenta pra commodity task' e entra em 'parceiro em pensamento de fronteira'. Mudança de percepção.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Prompting + Reasoning + Verificação",
+            "highlight": "Verificacao",
+            "body": "Google usou técnicas de: 1) prompting estruturado pro modelo entender contexto de pesquisa, 2) reasoning iterativo (passo por passo), 3) verificação de provas (IA confere seus próprios passos). Não é mágica — é engenharia bem feita.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "ONDE ISSO ESCALA?",
+            "title": "Toda Pesquisa Que Envolve Reasoning",
+            "highlight": "Reasoning",
+            "body": "Se funciona em math, adapta pra: física teórica, biologia computacional, engenharia, economia. Qualquer área onde expert precisa de sparring partner pra explorar ideias. Co-reasoner IA vira necessidade, não luxo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO MAIOR",
+            "title": "Expertise Humana + Leverage de IA = Multiplicador",
+            "highlight": "Multiplicador",
+            "body": "Não substitui expert. Amplifica. Matemático bom com co-matemático IA fica exponencialmente mais produtivo. Lição aplicável em toda parte: IA não vai eliminar especialista, vai democratizar skill dele.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "QUER FICAR ATUALIZADO?",
+            "title": "Salva Esse Post + Segue @rafaondei",
+            "highlight": "Segue",
+            "body": "Mais 9 noticias sobre IA, modelos novos e tendências que tão movimentando o mercado agora. Radar semanal em PT-BR, sem hype barato.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Mistral Small 4: 5x Mais Barato que GPT-4.5 Mini — Disrupção de Preço",
+      "summary": "Mistral AI lança Small 4 em março 2026 a US$ 0.15/1M input tokens — 5x mais barato que GPT-4.5 Mini. Unifica em um modelo: reasoning (Magistral), multimodal (Pixtral), coding (Devstral). 675B parâmetros, 256k context window, Apache 2.0 license.",
+      "source": "Mistral AI / Releasebot",
+      "link": "https://releasebot.io/updates/mistral",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Mistral Small 4 destroça preço: 5x mais barato que GPT-4.5 Mini com mesmo performance",
+        "caption": "Mistral lançou Small 4 em março e tá quebrando mercado de preço. US$ 0.15 por milhão de tokens input — 5 vezes mais barato que GPT-4.5 Mini da OpenAI.\n\n💰 Preço: US$ 0.15 / 1M tokens (vs US$ 0.75 do GPT-4.5 Mini)\n\n🧠 Features unificadas: reasoning + multimodal + coding tudo em um modelo\n\n📊 Tamanho: 675B parâmetros, 256k context\n\n🔓 License: Apache 2.0 (pode customizar, treinar sobre, rodar on-prem)\n\n⚡ Performance: Competitivo em benchmarks vs modelos maiores\n\n🎯 Impacto: Se Small 4 ficar bom, viabiliza startups que não tinham budget pra usar LLMs pra tudo\n\n#IA #Mistral #Preço #Disrupção #Economia #AITooling",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "GUERRA DE PREÇO INTENSIFICA",
+            "title": "5x MAIS BARATO",
+            "highlight": "BARATO",
+            "body": "Mistral Small 4 tá US$ 0.15 por milhão de tokens. GPT-4.5 Mini tá US$ 0.75. Mistral tá vendendo o mesmo serviço por 5x menos preço. Dinamite pra margem de quem tava confortável com pricing antigo.",
+            "stat": "5x",
+            "stat_label": "diferença de preço",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "NUMEROS PRECISOS",
+            "title": "US$ 0.15 vs US$ 0.75 Input Token",
+            "highlight": "$0.15",
+            "body": "Pra ser claro: Mistral Small 4 = US$ 0.15/1M input tokens. GPT-4.5 Mini = US$ 0.75. Diferença é brutal. Numa operação que gastaria US$ 10k/mes em OpenAI, sai por US$ 2k em Mistral.",
+            "stat": "$0.15",
+            "stat_label": "preço Mistral Small 4",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O PRODUTO",
+            "title": "Unifica Reasoning + Multimodal + Coding",
+            "highlight": "Unifica",
+            "body": "Mistral Small 4 não é modelo minimalista. Tem 675B parâmetros, suporta imagem (multimodal), reasoning steps (pensa antes de responder), e código (especialização em programming). Tudo num só modelo. Significa pipeline fica simples, não precisa de orquestração de 3 modelos.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "QUEM GANHA?",
+            "title": "Startups Agora Viabilizam com Custo Ridículo",
+            "highlight": "Startups",
+            "body": "Startup que tava tremendo pra usar LLMs (custo era absurdo) agora consegue. Colocar IA em tudo de repente fica viável financeiramente. Mercado que tava fechado pra small teams abre. Competição fica fiera.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO MISTRAL CONSEGUE?",
+            "title": "Eficiência de Modelo + Volume Gigante",
+            "highlight": "Eficiencia",
+            "body": "Mistral tá rodando modelo em infraestrutura otimizada (custo de compute é baixo). Com volume gigante (centenas de milhões de queries), margem pequena ($0.10 por 1M tokens talvez) funciona. Tática é 'volume destroy margin', não 'margem grossa'.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "CONSEQUENCIA",
+            "title": "OpenAI Vai Ter de Responder",
+            "highlight": "Responder",
+            "body": "OpenAI lançou GPT-4 Mini pra competir em preço. Mistral acabou de undercutar de novo. Se Small 4 entregar performance competitiva (e sinais dizem que entrega), OpenAI precisa reduzir preço ou mudar estratégia.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "PADRÃO DO MERCADO",
+            "title": "LLMs Viraram Commodity: Price Race Ao Fundo",
+            "highlight": "Commodity",
+            "body": "Que nem CPU 10 anos atrás, LLMs agora tão em race-to-bottom de preço. Diferença entre modelos no dia-a-dia é mínima. Quem tiver maior escala + melhor eficiência técnica vence. Margin vai desaparecer. AI-as-Commodity é aqui.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "QUER FICAR ATUALIZADO?",
+            "title": "Salva Esse Post + Segue @rafaondei",
+            "highlight": "Segue",
+            "body": "Mais 9 noticias sobre IA, modelos novos e tendências que tão movimentando o mercado agora. Radar semanal em PT-BR, sem hype baato.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Perplexity 100 Milhões de Usuários + Samsung Deal: Agentes de IA Escalam",
+      "summary": "Perplexity AI ultrapassa 100 milhões de usuários em 2026 — número que Google levou anos para alcançar no Brasil. Em fevereiro, Samsung contrata agentes de IA Perplexity para todos apps do ecossistema. Receita cresce 50% em um mês após shift para agentic AI.",
+      "source": "Exame / CNN Brasil / Perplexity Blog",
+      "link": "https://exame.com/inteligencia-artificial/mudanca-de-foco-da-perplexity-para-agentes-de-ia-faz-receita-subir-50-em-um-mes/",
+      "category": "aplicação",
+      "recommended": true,
+      "carousel": {
+        "theme": "Perplexity: 100M users, Samsung deal, receita +50% com agentes — busca tá sendo disruptada",
+        "caption": "Perplexity atingiu 100 MILHÕES de usuários. Google levou anos pra chegar lá no Brasil. Perplexity fez em 3 anos.\n\nEm fevereiro 2026, Samsung contratou agentes de IA Perplexity pra integrar em TODOS os apps do ecossistema Samsung.\n\nResultado: receita subiu 50% em UM MES após shift pra agentic AI.\n\n📱 100M usuários = precedent breaking pra startup de IA\n\n🤝 Samsung partnership = validação de enterprise\n\n💰 +50% receita em 1 mês = modelo de negócio funciona\n\n🔮 O que tá acontecendo: Busca tradicional tá morrendo. Agentes de IA viraram o novo Google.\n\n💡 Insight: Perplexity não tá competindo com Google. Tá o substituindo.\n\n#IA #Perplexity #Samsung #Agentes #Busca #Disrupção #TecnologiaBR",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "A DISRUPÇÃO SILENCIOSA",
+            "title": "100 MILHOES DE USUARIOS",
+            "highlight": "USUARIOS",
+            "body": "Perplexity AI atingiu 100 milhões de usuários em 2026. Google levou ANOS pra chegar lá. Perplexity fez em 3 anos. Não é coincidência. É sintonização com o que as pessoas realmente querem.",
+            "stat": "100M",
+            "stat_label": "usuários Perplexity",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "VALIDACAO ENTERPRISE",
+            "title": "Samsung Integra em TODOS os Apps",
+            "highlight": "Samsung",
+            "body": "Em fevereiro 2026, Samsung assinou com Perplexity pra rodar agentes de IA em todo seu ecossistema — TV, telefone, smartwatch, devices inteligentes. Não é pequeno pilot. É scale-out em bilhões de devices.",
+            "stat": "Samsung",
+            "stat_label": "parceria enterprise",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE MUDOU",
+            "title": "Shift de Busca pra Agentes",
+            "highlight": "Agentes",
+            "body": "Perplexity nasceu como 'busca melhorada por IA'. Mas foco mudou: agora é sobre agentes que NÃO SÓ buscam, como AGEM. Samsung deal é sobre agentes que controlam devices, tomam decisões, executam tasks. É um passo acima de 'responder pergunta'.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "A REALIDADE",
+            "title": "Receita Subiu 50% em 1 Mês Apos Agentes",
+            "highlight": "50%",
+            "body": "Quando Perplexity moveu foco pra agentes de IA, receita disparou 50% em um mês. Significa: mercado tava esperando por isso. Agentes não é feature. É categoria de produto nova.",
+            "stat": "50%",
+            "stat_label": "aumento de receita em 1 mês",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO AGENTES FUNCIONAM",
+            "title": "Pesquisa + Execução + Raciocinio",
+            "highlight": "Execucao",
+            "body": "Agentes Perplexity: 1) entendem pergunta/task, 2) buscam info relevante, 3) raciocinam sobre opções, 4) executam ação (mandar email, booking, compra). Não é só 'give answer', é 'do it'. Automação real.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM IMPORTA?",
+            "title": "Consumidor E Empresa Ganham Eficiencia",
+            "highlight": "Eficiencia",
+            "body": "Consumidor: faz coisa mais rápido (pede ao agente, não digita). Empresa (Samsung): diferencia device com inteligência nativa. Não precisa de Google Assistente — integra Perplexity, sai mais inteligente e customizado.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "CONTEXTO MAIOR",
+            "title": "Busca Tradicional Tá Morta — Agentes São Futuro",
+            "highlight": "Morta",
+            "body": "Google Search é protocolo 30 anos velho: digita query, recebe link. Perplexity agentes: fala o que quer, IA faz. Usuário não quer buscar. Quer resultado direto. Paradigm shift tá aqui. Google vai perder busca pro agentes agentic.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "QUER FICAR ATUALIZADO?",
+            "title": "Salva Esse Post + Segue @rafaondei",
+            "highlight": "Segue",
+            "body": "Mais 9 noticias sobre IA, modelos novos e tendências que tão movimentando o mercado agora. Radar semanal em PT-BR, sem hype baato.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Cursor 3.0: Autonomous Coding Agents — 50% do Fortune 500 Usam",
+      "summary": "Cursor lança v3.0 em 2026 com Background Agents e Composer 2.0. Agentes executam multi-step tasks autonomamente no codebase. Cursor 3 integra agentes locais + cloud agents. 50% do Fortune 500 já usa Cursor para desenvolvimento.",
+      "source": "Cursor Blog / DEV Community",
+      "link": "https://cursor.com/blog/cursor-3",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Cursor 3.0: autonomous agents pra coding — Fortune 500 tá usando pra desenvolver 10x mais rápido",
+        "caption": "Cursor v3.0 saiu com agentes autônomos de coding. Background Agents rodam tasks sozinhos (enquanto tu toma café). Composer 2.0 edita múltiplos arquivos em paralelo.\n\n💻 Feature: Background Agents que executam tasks autonomamente\n\n🚀 Composer 2.0: edita código em múltiplos arquivos\n\n🏆 Adoção: 50% do Fortune 500 já usa Cursor\n\n🌐 Modelos: Claude 4.x, Gemini 2.5, GPT-4o, o1\n\n🔄 Cloud + Local: agentes rodam em background na nuvem ou máquina local\n\n📂 Multi-repo: suporta projetos espalhados em múltiplos repos\n\n#IA #Cursor #Coding #Agents #Desenvolvimento #DevAI #Fortune500",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "IDE DO FUTURO CHEGOU",
+            "title": "AUTONOMOUS CODING AGENTS",
+            "highlight": "AUTONOMOUS",
+            "body": "Cursor 3.0 lançou agentes que codificam sozinhos. Background Agents rodam tasks enquanto tu faz outra coisa. Não é autocomplete — é automação real de desenvolvimento.",
+            "stat": "3.0",
+            "stat_label": "versão com agentes",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "ADOCAO MASSIVA",
+            "title": "50% do Fortune 500 Usa Cursor",
+            "highlight": "Fortune",
+            "body": "Cursor virou ferramenta standard em gigantes corporativos. Metade do Fortune 500 usa pra desenvolvimento. Não é porque é grátis (custa US$ 20/mes). É porque funciona. Developers preferem.",
+            "stat": "50%",
+            "stat_label": "de Fortune 500 usando Cursor",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O SALTO DE VERSAO",
+            "title": "Background Agents: Roda Enquanto Tu Dorme",
+            "highlight": "Enquanto",
+            "body": "Antes: tu dizia ao editor 'edita isso' e esperava. Agora: tu diz a task, agente roda em background (local ou cloud), e tu recebe resultado quando pronto. Significa refactoring de 4 horas vira coisa que roda overnight.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O NOVO NORMAL",
+            "title": "Coding Assistants Viraram Operacao Essencial",
+            "highlight": "Essencial",
+            "body": "Cursor 3.0 prova: agentes de IA em coding não é plus. É necessário. Fortune 500 adota porque delivery fica 2-3x mais rápido. Developer tira tempo de boilerplate/refactor repetitivo, foca em design. Produtividade explode.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Local Agents + Cloud Agents + /multitask",
+            "highlight": "multitask",
+            "body": "Background agent roda local (pra privacidade) ou cloud (pra poder). /multitask command paralela múltiplas operações. Composer 2.0 edita vários arquivos em um go. Resultado: menos volta-e-meia com modelo, mais execução contínua.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "MUDANCA NA INDUSTRIA",
+            "title": "Developer Experience Tá Aqui Agora",
+            "highlight": "Agora",
+            "body": "VS Code é editor padrão há 10 anos. Cursor tá roubando share porque adiciona AI nativa. Fortune 500 adota porque: onboarding mais rápido, menos senior review, menos bugs. Economics of coding mudam com agentes.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "REALIDADE",
+            "title": "Futuro: Coding Sem Código Manual Repetitivo",
+            "highlight": "Repetitivo",
+            "body": "Daqui a 2 anos, coding sem agentes vai parecer lento. Developers que não usam IA em editor vão ficar pra trás. It's not about being lazy. É sobre amplificar expertise — não gastar brainpower em patterns conhecidos.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "QUER FICAR ATUALIZADO?",
+            "title": "Salva Esse Post + Segue @rafaondei",
+            "highlight": "Segue",
+            "body": "Mais 9 noticias sobre IA, modelos novos e tendências que tão movimentando o mercado agora. Radar semanal em PT-BR, sem hype baato.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "IA para Gerar Vídeo: 78% das Equipes de Marketing Usam — Mercado Explode",
+      "summary": "Relatório mostra 78% das equipes de marketing já usam geração de vídeo com IA em 2026. Mercado saltou de US$ 534M (2024) para projeção de US$ 2.5B (2032). Equipes publicam campanhas 68% mais rápido; economia média de 34 horas por projeto.",
+      "source": "ViVideo / Exame / Shopify Blog",
+      "link": "https://www.alura.com.br/artigos/ia-para-criar-videos",
+      "category": "aplicação",
+      "recommended": false,
+      "carousel": {
+        "theme": "Geração de vídeo com IA: 78% marketing teams usam, 68% mais rápido, economia real",
+        "caption": "78% das equipes de marketing agora usam geração de vídeo com IA. Não é experimento. É padrão.\n\n⏱️ Velocidade: campanhas 68% mais rápidas\n\n⏰ Economia: 34 horas por projeto (5 dias de trabalho)\n\n💰 Mercado: crescimento de US$ 534M (2024) → US$ 2.5B (2032)\n\n📱 Plataformas: Synthesia (avatares realistas em 140+ idiomas), Kling, Veo (Google), Sora 2 (OpenAI)\n\n🎬 Uso: intros de produto, explainers, treinamento corporativo, ads dinâmicas\n\n💡 Insight: Vídeo deixou de ser luxo. Virou necessidade. E IA fez virar commodity de produção.\n\n#IA #Video #Marketing #GeracaoAI #Produtividade #Economia",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "VIDEO AGORA E MASS MARKET",
+            "title": "78% DAS EQUIPES USAM",
+            "highlight": "78%",
+            "body": "78% das equipes de marketing já tão usando IA pra gerar vídeo. Não é nicho. É mainstream. Videographer que não tá usando IA tá ficando pra trás.",
+            "stat": "78%",
+            "stat_label": "marketing teams usando IA video",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "GANHO CONCRETO",
+            "title": "68% Mais Rápido + 34 Horas Economizadas",
+            "highlight": "34",
+            "body": "Campanha que levava 5 dias agora leva 1.5 dia. 34 horas de economia por projeto é 1 semana de trabalho que desaparece. Pra equipe de 5 pessoas, é como contratar 1 pessoa extra sem pagar.",
+            "stat": "34h",
+            "stat_label": "economizadas por projeto",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O MERCADO",
+            "title": "US$ 534M → US$ 2.5B: Crescimento 5x",
+            "highlight": "5x",
+            "body": "Mercado de geração de vídeo com IA era US$ 534M em 2024. Projeção pra 2032 é US$ 2.5B. Crescimento tipo early-stage de qualquer tech disruptiva. Investors tão vendo que vídeo-como-commodity-de-producao é negócio real.",
+            "stat": "2.5B",
+            "stat_label": "projeção 2032",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDANCA NO FLUXO DE TRABALHO",
+            "title": "Videografo Virou Prompt Engineer",
+            "highlight": "Prompt",
+            "body": "Antes: videografo dizia pra camera 'faça isso'. Agora: descreve em texto pro modelo IA o que quer, IA gera 10 versões, videografo aprova. Skill muda de 'rodar camera' pra 'descrever visão'.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "TECNOLOGIA",
+            "title": "Synthesia, Kling, Veo, Sora 2: Qual Escolher?",
+            "highlight": "Escolher",
+            "body": "Synthesia: avatares realistas em 140+ idiomas (corporate training dominates). Kling: qualidade top de vídeo gerado. Veo (Google): integrado, fácil. Sora 2: realista mas caro. Escolha depende de budget e use case.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM SE BENEFICIA",
+            "title": "Agency, In-House, Creator Economy Todos Ganham",
+            "highlight": "Todos",
+            "body": "Agency: entrega mais projeto, mesma equipe. In-house team (corporativo): produz vídeo sem contratar house de produção. Creator: publica mais frequente, menos burn-out. Tecnologia tá resolvendo real pain point.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "VISAO FUTURA",
+            "title": "Vídeo Virou Commodity de Producao",
+            "highlight": "Commodity",
+            "body": "Assim como imagem deixou de ser artesanato e virou output de Figma, vídeo agora vira output de IA. Qualidade melhora com prompting, não com gear. Profissional que tá preso em 'equipment cost mindset' tá condenado.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "QUER FICAR ATUALIZADO?",
+            "title": "Salva Esse Post + Segue @rafaondei",
+            "highlight": "Segue",
+            "body": "Mais 9 noticias sobre IA, modelos novos e tendências que tão movimentando o mercado agora. Radar semanal em PT-BR, sem hype baato.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "EU AI Act: Agosto 2026 — Regulação com Multas Até €35M / 7% Faturamento",
+      "summary": "Regulação europeia de IA (AI Act) entra em vigor integral em 2 de agosto de 2026. Multas de até €35 milhões ou 7% do faturamento global. Regras de transparência obrigatórias. Impacto global: qualquer empresa que vende na UE precisa de compliance IA.",
+      "source": "EU Digital Strategy / Consilium",
+      "link": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "EU AI Act entra em vigor agosto 2026 — €35M de multa, compliance obrigatória global",
+        "caption": "EU AI Act tá chegando. 2 de agosto de 2026 é o deadline. Regras de transparência sobre sistemas de IA. Multas de até €35 MILHOES ou 7% do faturamento global (escolhe o maior).\n\n📋 Compliance obrigatória pra: sistemas de alto risco, decisões automatizadas, uso de dados pessoais\n\n⚖️ Multas: €35M ou 7% revenue (whichever is higher)\n\n🌍 Escopo: qualquer empresa que vende na UE precisa de compliance\n\n⏰ Fases: ago/2026 (transparência), dez/2027 (alto risco)\n\n💡 Insight: Regulação tá vindo. Quem se preparar cedo ganha vantagem competitiva.\n\n#IA #Regulacao #EU #Compliance #LGPD #Tecnologia #EmpresaAI",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "REGULACAO CHEGOU",
+            "title": "€35 MILHOES DE MULTA",
+            "highlight": "MULTA",
+            "body": "EU AI Act entra em vigor em agosto 2026. Multa: até €35 milhões OU 7% do faturamento global (escolhe o maior). Não é simbólico. É pesado.",
+            "stat": "€35M",
+            "stat_label": "multa máxima",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "MAGNITUDE DA PENALIDADE",
+            "title": "7% Do Faturamento Global é Bilhões Pra Gigantes",
+            "highlight": "7%",
+            "body": "Pra Google: 7% do faturamento global = bilhões. Pra startup: €35M direto. Penalidade é proporcional ao tamanho. Meaningful harm deterrence. Compliance não é optional.",
+            "stat": "7%",
+            "stat_label": "de faturamento global",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE MUDA",
+            "title": "Transparencia Obrigatoria Sobre Qualquer IA Usada",
+            "highlight": "Transparencia",
+            "body": "Empresa usa ChatGPT pra gerar copy de ad? Precisa revelar. Usa IA pra credit decision? Tem que documentar, tem que permitir challenge. Usa IA em hiring? Auditoria obrigatória. Transparência é novo padrão.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O PESO REAL",
+            "title": "Escopo Global: Qualquer Um Que Venda Na UE",
+            "highlight": "Global",
+            "body": "Startup nos EUA vendendo pra usuários europeus? Precisa de compliance. Brasileiro montando empresa no Brasil mas com usuários EU? Compliance obrigatória. Regulação europeia tá determinando padrão global porque mercado EU é grande.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "FASES DE IMPLEMENTACAO",
+            "title": "Ago/2026 Transparencia; Dez/2027 Alto Risco",
+            "highlight": "Fases",
+            "body": "Agosto 2026: regras de transparência entram em vigor (vira obrigatório informar se tá usando IA). Dezembro 2027: regras de alto risco começam (credit, hiring, criminal justice decisions têm requisitos mais estritos).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM TEM TRABALHO?",
+            "title": "Legal, Compliance, Eng Teams Tao Contratando",
+            "highlight": "Contratando",
+            "body": "Empresa europeia vai precisar de: legal pra interpretar regulação, compliance pra auditar systems, engineers pra documentar. Mercado de 'AI compliance consulting' saiu do zero pra urgência em meses.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "REALIDADE GEOPOLITICA",
+            "title": "Regulacao Fragmente Mercado: UE vs EUA vs China",
+            "highlight": "Fragmenta",
+            "body": "China não regula IA igual UE. EUA tá mais light. Resultado: empresas precisam de 3 codigo-base diferentes, 3 policies, 3 audits. Fragmentação aumenta custo de compliance global. Vantagem pra big tech que pode absorver custo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "QUER FICAR ATUALIZADO?",
+            "title": "Salva Esse Post + Segue @rafaondei",
+            "highlight": "Segue",
+            "body": "Mais 9 noticias sobre IA, modelos novos e tendências que tão movimentando o mercado agora. Radar semanal em PT-BR, sem hype baato.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    }
+  ],
+  "whatsapp": "📊 RADAR IA — 2026-05-19\n\n1️⃣ Claude Opus 4.6: 1M contexto, análise de bibliotecas inteiras em 1 sessão\nhttps://medium.com/@fazal-sec/anthropics-explosive-start-to-2026-everything-claude-has-launched-and-why-it-s-shaking-up-the-668788c2c9de\n\n2️⃣ Sora 2 Lançado: OpenAI mata Sora 1 (custava US$1M/dia), novo modelo mais realista\nhttps://help.openai.com/en/articles/20001152-what-to-know-about-the-sora-discontinuation\n\n3️⃣ Llama 4: Meta multimodal open-source que compete com GPT-4.5, MoE architecture\nhttps://ai.meta.com/blog/llama-4-multimodal-intelligence/\n\n4️⃣ Grok 5: xAI anuncia 6 trilhões de parâmetros, treinando em Colossus 2 (1GW)\nhttps://www.mindstudio.ai/blog/xai-grok-roadmap-7-models-training-grok-5-10-trillion\n\n5️⃣ DeepMind Co-Matemático: IA alcança 48% em benchmark tier 4 (pesquisa aberta)\nhttps://epoch.ai/benchmarks\n\n6️⃣ Mistral Small 4: 5x mais barato que GPT-4.5 Mini (US$0.15 vs US$0.75)\nhttps://releasebot.io/updates/mistral\n\n7️⃣ Perplexity 100M Usuários + Samsung: Receita +50% com agentes, disrupção de busca\nhttps://exame.com/inteligencia-artificial/mudanca-de-foco-da-perplexity-para-agentes-de-ia-faz-receita-subir-50-em-um-mes/\n\n8️⃣ Cursor 3.0: Agentes de coding autônomos, 50% Fortune 500 usam\nhttps://cursor.com/blog/cursor-3\n\n9️⃣ Video IA: 78% marketing teams usam, 68% mais rápido, mercado US$2.5B até 2032\nhttps://www.alura.com.br/artigos/ia-para-criar-videos\n\n🔟 EU AI Act: €35M multa (ou 7% revenue), entra em vigor agosto 2026\nhttps://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai\n\n🔗 Dashboard: https://rafaelondei.appnaia.com",
+  "instagram": "🔥 RADAR IA — 10 Noticias Que Tao Movimentando Tudo Agora\n\nClaude Opus 4.6 com 1 MILHAO de tokens — consegue processar biblioteca inteira em uma sessão. OpenAI mata Sora 1 (custava US$1M/dia) e lança Sora 2. Meta solta Llama 4 multimodal open-source que bate GPT-4.5. xAI anuncia Grok 5 com 6 TRILHOES de parametros em Colossus 2.\n\nGoogle DeepMind prova co-matematico com IA em pesquisa aberta: 48% benchmark. Mistral Small 4 a US$0.15/token — 5x mais barato que GPT-4.5 Mini e tá destruindo mercado. Perplexity atingiu 100M usuarios + Samsung deal: receita +50% com agentes.\n\nCursor 3.0 com agentes autonomos de coding — 50% Fortune 500 ja usa pra desenvolver 10x mais rapido. 78% das equipes de marketing geram video com IA agora: 68% mais rapido, economia de 34 horas por projeto. E EU AI Act entra agosto 2026: ate €35M de multa pra quem nao tiver compliance.\n\nTendo resumido: modelos ficaram maiores (Grok 5, Claude 1M context), mais baratos (Mistral), mais acessiveis (open-source Llama 4), e agents viraram commodity. Regulacao tá vindo. Quem se preparar cedo ganha.\n\nQuer detalhes? Acessa https://rafaelondei.appnaia.com e gera um carousel completo de qualquer uma das 10.\n\n#IA #InteligenciaArtificial #Claude #OpenAI #Llama #Meta #Grok #Mistral #Perplexity #Cursor #Agentes #AINews #Tecnologia #Empreendedorismo #Inovacao"
+}

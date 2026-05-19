@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-05-18T07:00:01-03:00",
+  "updated_at": "2026-05-19T07:00:01-03:00",
   "executions": [
+    {
+      "date": "2026-05-19",
+      "key": "2026-05-19",
+      "topic": "mercado de IA",
+      "summary": "Claude Opus 4.6 (1M tokens), Sora 2 (descontinua Sora 1 $1M/dia), Llama 4 multimodal open-source, Grok 5 (6T params MoE), DeepMind co-matemático 48% tier 4, Mistral Small 4 (5x barato), Perplexity 100M users +50% revenue Samsung, Cursor 3.0 agentes Fortune 500, video IA 78% marketing +68% speed, EU AI Act €35M agosto",
+      "items_count": 10
+    },
     {
       "date": "2026-05-18",
       "key": "2026-05-18",
