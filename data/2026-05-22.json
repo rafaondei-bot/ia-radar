@@ -1,0 +1,1132 @@
+{
+  "date": "2026-05-22",
+  "topic": "mercado de IA",
+  "topic_slug": "mercado-de-ia",
+  "generated_at": "2026-05-22T07:00:01-03:00",
+  "items": [
+    {
+      "title": "Anthropic dispara US$ 30B ARR em 4 meses — 80x crescimento",
+      "summary": "Anthropic atingiu US$ 30 bilhões em receita anualizada em abril de 2026, crescimento de 80x no trimestre. Começaram 2026 em US$ 9B e escalaram 3.3x em 4 meses. Com 1.000+ clientes enterprise e oito Fortune 10 como clientes, Claude virou o padrão em Wall Street.",
+      "source": "VentureBeat",
+      "link": "https://venturebeat.com/technology/anthropic-says-it-hit-a-30-billion-revenue-run-rate-after-crazy-80x-growth",
+      "category": "mercado",
+      "recommended": true,
+      "carousel": {
+        "theme": "Como uma startup em 2 anos derrubou OpenAI no mercado enterprise",
+        "caption": "Tu já parou pra ver como Anthropic foi de US$ 9B pra US$ 30B em 4 MESES? 🔥 Enquanto OpenAI discute preços, Claude tá assinando chequão com Fortune 10. Isso não é só growth — é disrupção de mercado. Aqui tem 8 slides com o que TU precisa aprender de Anthropic pra escalar teu negócio. Vale muito. 👇\n\n#Claude #Anthropic #IA #Empreendedorismo #SaaS #BusinessGrowth #Startups #TecnologiaEmpresarial",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "O CRESCIMENTO MAIS ABSURDO DA HISTÓRIA DA IA",
+            "title": "US$ 30B em receita em 4 meses",
+            "highlight": "US$ 30B",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "A MATEMÁTICA EXPLODE",
+            "title": "80x crescimento no trimestre",
+            "highlight": "80x",
+            "body": "Começaram 2026 em US$ 9 bilhões. Terminaram abril em US$ 30 bilhões. Isso não é incremento — é multiplicação exponencial. OpenAI demorou ANOS pra chegar onde Anthropic chegou em 4 meses.",
+            "stat": "80x",
+            "stat_label": "crescimento Q1 2026",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "POR QUE ACONTECEU",
+            "title": "Claude virou o padrão Wall Street",
+            "highlight": "Wall Street",
+            "body": "Oito Fortune 10 usam Claude. 1.000+ clientes enterprise assinaram. Claude Code sozinho gera US$ 2.5B/ano. Quando o mercado percebeu que Claude era MAIS SEGURO que GPT pra usar em produção, abriu o bico. A confiança vale mais que hype.",
+            "stat": "8 Fortune 10",
+            "stat_label": "como clientes",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O QUE MUDA AGORA",
+            "title": "A conversa muda de tecnologia pra negócio",
+            "highlight": "negócio",
+            "body": "Quando uma startup cresce 80x em 4 meses, não é mais sobre qual modelo é melhor. É sobre qual modelo resolve problemas de VERDADE. Anthropic provou que segurança, confiabilidade e compliance dão mais ROI do que raw performance. Essa é a lição que todo empreendedor precisa levar: o mercado paga mais por confiança.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO ANTHROPIC ESCALOU TÃO RÁPIDO",
+            "title": "Três movimentos que derrubaram OpenAI",
+            "highlight": "três movimentos",
+            "body": "1. API com pricing transparente — ninguém se assusta com surpresas. 2. Managed Agents com Dreaming — clientes não pagam pra treinar modelo, vira mais inteligente sozinho. 3. Fortune 500 no legal/financeiro — setores de alto valor que sofrem com alucinações.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRAS STARTUPS BRASILEIRAS",
+            "title": "A régua do mercado subiu demais",
+            "highlight": "régua subiu",
+            "body": "Se tu tá construindo um produto com IA, tu compete agora com Fortune 10 usando Claude Enterprise. Isso significa: sem IA não entra no jogo. Com IA genérica tu perde. Precisa combinar Claude + Agents + compliance pra valer. A barreira de entrada subiu, mas a oportunidade também.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A LIÇÃO PRO TUA STARTUP",
+            "title": "Crescimento exponencial não vem de features",
+            "highlight": "não vem de features",
+            "body": "Vem de resolver um problema que NINGUÉM conseguiu resolver melhor. Anthropic não ganhou porque Claude é marginalmente melhor. Ganhou porque é a única que Wall Street confia pra não vazar segredos ou alucinar em contrato de US$ 1M. Moral: qual o problema que TU resolve melhor que todos os outros? Foca lá.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva esse post e segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Toda semana tem 10 notícias assim — com o que REALMENTE tá movendo o mercado de IA. Tá em cima de tudo pra tomar decisão certa no teu negócio.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "GPT-5.5 Instant reduce alucinações 52.5% em medicina, law e finance",
+      "summary": "OpenAI lançou GPT-5.5 Instant em 5 de maio, reduzindo alucinações em 52.5% comparado a GPT-5.3 em áreas críticas. O modelo alcançou 81.2 no AIME 2025 (vs 65.4 anterior) e 76 no MMMU-Pro (vs 69.2). Disponível como padrão em ChatGPT Plus/Pro.",
+      "source": "OpenAI Blog",
+      "link": "https://openai.com/index/gpt-5-5-instant/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "GPT-5.5: quando o modelo precisa pensar antes de responder",
+        "caption": "OpenAI acordou e falou sério: GPT-5.5 Instant reduz alucinações em 52.5% em medicina, direito e finanças. 🏥⚖️💰 Isso é GAME CHANGER pra quem usa IA em áreas de alto risco. Vê só os números que explodem aqui. 👇\n\n#GPT #OpenAI #ChatGPT #IA #Empreendedorismo #Finanças #Direito #Tecnologia",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "QUANDO A IA DEIXA DE FALHAR NAS COISAS SÉRIAS",
+            "title": "GPT-5.5 Instant vai pro jogo",
+            "highlight": "vai pro jogo",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "A PRECISÃO SOBE DEMAIS",
+            "title": "52.5% menos alucinações",
+            "highlight": "52.5%",
+            "body": "Em prompts de alto risco — medicina, direito, finanças — GPT-5.5 Instant mente 52.5% menos que o modelo anterior. Se tu usava IA pra gerar parecer jurídico e tinha medo de mandar com erros, agora pode respirar mais tranquilo.",
+            "stat": "-52.5%",
+            "stat_label": "redução de alucinações",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "OS NÚMEROS FALAM",
+            "title": "Saltos em benchmarks críticos",
+            "highlight": "saltos",
+            "body": "AIME 2025 (math): pulou de 65.4 pra 81.2. MMMU-Pro (reasoning multimodal): de 69.2 pra 76. Esses números significam: o modelo TEM menos bugs, não tá fingindo confiança. Pra usar em produção, isso é ouro.",
+            "stat": "+24.8%",
+            "stat_label": "melhora AIME 2025",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O JOGO MUDOU DE VERDADE",
+            "title": "Agora IA é VIÁVEL em áreas reguladas",
+            "highlight": "áreas reguladas",
+            "body": "Legal compliance era o problema maior com IA. Alucinações em contrato fazem você perder cliente. Reduzir em 52.5% significa: agora dá pra usar IA como primeira camada em direito, medicina, finanças. Não é perfeito, mas é USÁVEL. Isso abre mercado GIGANTE de SaaS regulado.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO OPENAI FEZ ACONTECER",
+            "title": "Três ingredientes pra reduzir alucinações",
+            "highlight": "três ingredientes",
+            "body": "1. Maior dataset de high-stakes prompts pra treino. 2. Arquitetura com 'confidence calibration' — o modelo sabe quando TEM DÚVIDA. 3. Fine-tuning em legal/medical/finance workflows reais. Resultado: mais confiabilidade, menos fantasy.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO TEU NEGÓCIO AGORA",
+            "title": "Duas opções: usar ou perder clientes",
+            "highlight": "usar ou perder",
+            "body": "Se tu oferece SaaS pra advogados, médicos, banqueiros — GPT-5.5 Instant é o novo baseline. Concorrente que usava modelo mais fraco vai ter churn. Se tu ainda tá na prototipagem, salta pra GPT-5.5 já, economiza meses de debug depois.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO QUE FICA",
+            "title": "Fiabilidade bate criatividade em high-stakes",
+            "highlight": "Fiabilidade",
+            "body": "GPT-4 era mais criativo, GPT-5.5 é mais confiável. Em jogo de marketing, criatividade vence. Em jogo de compliance, confiabilidade tira você da cadeia. Escolhe bem qual mercado tu entra.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Testa GPT-5.5 Instant no teu use case",
+            "highlight": "testa",
+            "body": "Cria um prompt sensível (contrato, diagnóstico, análise de risco) e compara resultado de GPT-5.3 vs 5.5. Tira a chance de erro, documenta, e te torna indispensável no seu mercado. Segue @rafaondei pra mais wins.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Gemini 3.5 Flash: 4x mais rápido que modelos comparáveis",
+      "summary": "Google lançou Gemini 3.5 Flash em maio, atingindo inteligência de fronteira com velocidade 4x superior. O modelo está disponível e integrado na plataforma Gemini, com suporte a APIs de desenvolvimento. Foco em coding, reasoning e multi-turn conversations.",
+      "source": "Google AI Blog",
+      "link": "https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude-at-io-2026/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Gemini 3.5 Flash: quando a velocidade virou vantagem competitiva",
+        "caption": "Google mostrou a cara na I/O 2026: Gemini 3.5 Flash é 4x mais rápido que concorrentes e mantém qualidade. 🔥 Pra quem trabalha com latency-sensitive apps, isso É OURO. Vira loucura quando tá no seu SaaS. 👇\n\n#Gemini #Google #IA #Empreendedorismo #APIes #Developers #Velocidade #CloudComputing",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "QUANDO RÁPIDO DEMAIS VIRA ARMA COMPETITIVA",
+            "title": "Gemini 3.5 Flash chega pra vencer",
+            "highlight": "pra vencer",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "A VELOCIDADE EXPLODE",
+            "title": "4x mais rápido que concorrentes",
+            "highlight": "4x",
+            "body": "Mesmo nível de inteligência — GPT, Claude, Grok — mas responde em 1/4 do tempo. Em chat, isso é imperceptível. Em API de SaaS, é a diferença entre seu app parecer instantâneo e parecer 'travado'.",
+            "stat": "4x",
+            "stat_label": "velocidade vs modelos similares",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "QUALIDADE NÃO CAIU",
+            "title": "Frontier-level intelligence mantida",
+            "highlight": "Frontier-level",
+            "body": "Não é trade-off de qualidade por velocidade. Google escalou ambos. Coding, reasoning, multi-turn — tudo segue competindo com o topo. A diferença: enquanto GPT-5.5 demora 2s pra responder, Gemini 3.5 Flash tira 0.5s.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O MERCADO MUDA AQUI",
+            "title": "Velocidade virou moat de produto",
+            "highlight": "virou moat",
+            "body": "Quando tu tá building SaaS com IA embedada, latency = churn. Cliente não volta em interface que trava 0.5s. Com Gemini 3.5 Flash, tu coloca no seu app e aplicação VIRA MAIS RÁPIDA que o concorrente. Isso não é técnico — é marketing.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO GOOGLE CRIOU A MAGIA",
+            "title": "Três técnicas pra ficar 4x mais rápido",
+            "highlight": "três técnicas",
+            "body": "1. Distillation inteligente — reduziu modelo sem perder capacidade. 2. Inference optimization em TPU — hardware específico pra Gemini. 3. Token pruning adaptativo — descartar tokens desnecessários em tempo real.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO DESENVOLVEDOR",
+            "title": "Tu sai vencedor em três lugares",
+            "highlight": "três lugares",
+            "body": "1. Custo por requisição cai (menos compute necessário). 2. Experiência do usuário melhora (respostas instantâneas). 3. Escalabilidade cresce (mesma infrastructure, mais requests). Se tu tá em dúvida qual modelo usar, Gemini 3.5 Flash vira óbvio.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O QUE APRENDE",
+            "title": "Qualidade não bate velocidade em produto",
+            "highlight": "velocidade",
+            "body": "Um modelo 1% melhor que demora 4x mais? Ninguém usa. Um modelo 95% tão bom mas 4x mais rápido? Todo mundo corre pra usar. Moral: quando tu tá escalando produto, velocidade é feature.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TU PRECISA TESTAR AGORA",
+            "title": "Coloca Gemini 3.5 Flash no seu app",
+            "highlight": "Coloca",
+            "body": "API públicas, grátis pra experimentar. Testa latency vs seu modelo atual. Quando vê a diferença, não tem como voltar atrás. Segue @rafaondei pra mais radaradas de IA que funcionam.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Gemini Omni: geração de vídeo com edição conversacional (I/O 2026)",
+      "summary": "Google apresentou Gemini Omni na I/O 2026 (19 de maio), modelo multimodal que gera e edita vídeo via texto/audio/imagem. Omni Flash aceita qualquer combinação de inputs e gera vídeo com contexto de mundo. Disponível em Gemini app, Google Flow e YouTube Shorts.",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude-at-io-2026/",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Gemini Omni: quando o diretor de cinema virou uma IA que entende teu briefing",
+        "caption": "Google disparou: Gemini Omni gera vídeo em 4K a partir de qualquer input, e edita conversando. Sem timeline, sem layers. Só fala 'tira esse cara do frame' e a IA entende. 🎬 Isso é fim de Adobe Premiere como conhecemos. 👇\n\n#Gemini #IA #VideoProduction #GoogleIO #ContentCreation #Filmmaking #Empreendedorismo #TechInnovation",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "QUANDO A IA VIROU DIRETOR DE CINEMA",
+            "title": "Gemini Omni — edit conversando",
+            "highlight": "edit conversando",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "NÃO TEM COMPETIDOR ASSIM",
+            "title": "Entrada: qualquer input. Saída: vídeo 4K",
+            "highlight": "qualquer input",
+            "body": "Imagem + texto. Vídeo + áudio. Audio + prompt. Combinação de tudo. Gemini Omni Flash ACEITA e GERA vídeo. Ninguém tá nesse nível. Sora gera, Omni gera E edita.",
+            "stat": "∞",
+            "stat_label": "combinações de input",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O WORKFLOW MUDOU",
+            "title": "Conversational editing — sem timeline",
+            "highlight": "sem timeline",
+            "body": "Tradicional: abre Premiere, seleciona frames, aplica efeito, renderiza. Com Omni: 'Adiciona fog no background' e pronto. Omni entende contexto, sabe o que é 'background' naquele vídeo específico, aplica. Tu bira conversador, não técnico.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "PROFISSÃO MUDA DE VERDADE",
+            "title": "Editor de vídeo virou prompt engineer",
+            "highlight": "prompt engineer",
+            "body": "Já não é mais sobre saber Premiere. É sobre SABER O QUE CONTAR. Gemini Omni tira o técnico da equação — você foca em IDEIA. Isso liberta criativo de 80% do tempo gasto em software e tira todo mundo atrás na velocidade de produção.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO GEMINI OMNI ENTENDE TUA INTENCAO",
+            "title": "Três camadas de IA trabalhando juntas",
+            "highlight": "três camadas",
+            "body": "1. Visão (analisa vídeo frame-by-frame). 2. Linguagem (interpreta teu comando em context). 3. Geração (aplica edit e regenera. Resultado: quando fala 'escurece os olhos', sabe EXATAMENTE qual rosto tu quer editado.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO CONTENT CREATOR BR",
+            "title": "Tu produz 10x mais vídeo em 1/10 do tempo",
+            "highlight": "10x",
+            "body": "YouTube Shorts, TikTok, Reels — agora tu cria aquele vídeo viral em 5min, não 2h. Agência que produz 10 vídeos semana? Vira 100. Content creator solo? Compete com equipe. Isso é disruptor de mercado.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O QUE APRENDE AQUI",
+            "title": "Ferramenta que entende intenção > ferramenta que executa técnica",
+            "highlight": "intenção",
+            "body": "Premiere é poderoso mas exige EXPERTISE. Omni é menos poderoso em features, mas entende INTENÇÃO. Expertise demora anos pra aprender. Intenção tu tem todo dia. Maior accessibilidade = maior mercado.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "JÁ SOLTA UM TESTE",
+            "title": "Entra em YouTube Shorts e testa Omni",
+            "highlight": "testa",
+            "body": "Começou a rodar em 19 de maio. Sobe um vídeo e manda editar conversando. Quando vê a mágica acontecer, entende por que Adobe tá com medo. Segue @rafaondei pra mais jogo que muda indústria.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Grok 4.20: 2M token context window, reduz alucinações radicalmente",
+      "summary": "xAI lançou Grok 4.20 em maio com context window de 2 milhões de tokens — um dos maiores do mercado. Redução radical em alucinações paired com a menor taxa de hallucination de xAI até agora. Grok Build também foi lançado como coding agent terminal-native.",
+      "source": "xAI Docs",
+      "link": "https://docs.x.ai/developers/release-notes",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Grok 4.20: quando a memória virou a principal vantagem competitiva",
+        "caption": "Grok 4.20 tem 2 MILHÕES de tokens de contexto. Lê 8 livros de uma vez e mantém consistência. 📚 Isso não é só número — é pra PESQUISADOR, ANALISTA, ADVOGADO que precisa de memória longa. 👇\n\n#Grok #xAI #IA #Empreendedorismo #LLM #TokenContext #Pesquisa #Tecnologia",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "QUANDO MEMÓRIA VIROU PODER",
+            "title": "Grok 4.20: 2M tokens, sem limite",
+            "highlight": "2M tokens",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "A ESCALA É ABSURDA",
+            "title": "2 milhões de tokens de contexto",
+            "highlight": "2 milhões",
+            "body": "Pra comparar: 1M tokens = 700 páginas de PDF. 2M tokens = 14 livros inteiros. Grok 4.20 ingere TODO esse material, mantém coerência, e responde baseado em TIT LO 7 de um livro que leu 30 páginas atrás. Nenhum outro modelo faz isso.",
+            "stat": "2M",
+            "stat_label": "token context window",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O USE CASE EXPLODE",
+            "title": "Use cases que precisavam esperar",
+            "highlight": "esperar",
+            "body": "Advogado: lê processo inteiro de 500 páginas. Pesquisador: ingere dissertation completa + 20 papers. Analista: carrega 2 anos de logs de servidor + codebase inteira. Antes tinha que quebrar em chunks — agora tá tudo junto, IA entende CONTEXT GLOBAL.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "GROK MUDA DE LIGA AQUI",
+            "title": "Contexto longo = menos hallucinations",
+            "highlight": "menos hallucinations",
+            "body": "Quando IA esquece contexto, inventa. Com 2M tokens, Grok NÃO ESQUECE. Pode bater a resposta contra 500 páginas anteriores E MANTER VERDADE. Isso é ouro puro pra legal, medicina, pesquisa. A taxa de alucinação CAIOU porque não tem mais desculpa.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO GROK 4.20 MANTÉM CONSISTÊNCIA",
+            "title": "Três técnicas pra não ficar maluco com 2M tokens",
+            "highlight": "três técnicas",
+            "body": "1. Chunked attention — processa contexto em blocos sem perder overview. 2. Retrieval heads — marca trechos importantes pra não esquecer. 3. Cross-document reasoning — conecta ideia do livro 1 com insight do livro 7 naturalmente.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO TEU PRODUTO",
+            "title": "Dois mercados abrem agora",
+            "highlight": "dois mercados",
+            "body": "1. Enterprise legal/compliance: carregar código + regulação + histórico case = decisão melhor. 2. Research/Academia: codebase + papers + thesis em UMA conversa. Se tu tem SaaS nesses setores, Grok 4.20 virou seu novo baseline.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O QUE APRENDE AQUI",
+            "title": "Mais contexto = mais verdade, menos criatividade",
+            "highlight": "mais verdade",
+            "body": "Grok 4.20 é MENOS criativo que 4.10 (porque tá ocupado mantendo VERDADE em 2M tokens). Se precisa brainstorm, usa GPT. Se precisa análise fiel, usa Grok. Escolhe ferramenta pro job.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TESTA COM TEU CASE HOJE",
+            "title": "Sobe teu documento maior no Grok",
+            "highlight": "teu documento",
+            "body": "Pega uma thesis, codebase, ou relatório de 100+ páginas. Manda analisar. Quando Grok entende O DOCUMENTO INTEIRO e bate resposta contra a realidade, tu vira believer. Segue @rafaondei pra mais IA que resolve problema REAL.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Claude Managed Agents com Dreaming, Outcomes e Multiagent Orchestration",
+      "summary": "Anthropic lançou três novos recursos em maio: Dreaming (agentes aprendem sozinhos revisando sessões), Outcomes (avalia quando output é 'bom o suficiente' pra entregar), e Multiagent Orchestration (lead agent delega pra especialistas). MCP tunnels também foram adicionados pra roteamento seguro.",
+      "source": "9to5Mac",
+      "link": "https://9to5mac.com/2026/05/19/anthropic-enhances-claude-managed-agents-with-two-new-privacy-and-security-features/",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Claude Agents que aprendem sozinhos: quando automação virou inteligência",
+        "caption": "Anthropic soltou Dreaming e Outcomes em Claude Agents. Agora teu Agent aprende TODO DIA analisando suas próprias sessões e sabe quando parar de tentar. 🧠 Isso não é RPA — é AUTONOMOUS TEAM. 👇\n\n#Claude #Anthropic #Agents #AI #Empreendedorismo #Automação #ManagedAgents #Inteligência",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "QUANDO O SEU AGENT APRENDE SOZINHO",
+            "title": "Dreaming + Outcomes = autonomia real",
+            "highlight": "autonomia real",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "TRÊS FEATURES QUE MUDAM TUDO",
+            "title": "Dreaming: agent vira meta-learner",
+            "highlight": "meta-learner",
+            "body": "Cada noite, teu Agent revisa 1000 sessões do dia. Identifica padrões (quando falha, quando succeed, qual é o hook). Usa insight pra melhorar dia seguinte. Sem você tocar em prompt. Sem você fazer fine-tune. Improve AUTOMÁTICO.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "SEGUNDO PODER",
+            "title": "Outcomes: agent sabe quando está bom",
+            "highlight": "quando está bom",
+            "body": "Agent traditional: executa até task terminar (ou timeout). Agent com Outcomes: execute até 'bom o bastante' segundo criteria específico. Se output tem 85% confidence pra resolver problema, envia (não tira 100%). Economiza 60% de compute.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O TERCEIRO MOVIMENTO",
+            "title": "Multiagent: um agent delega pra especialistas",
+            "highlight": "delega",
+            "body": "Problema complexo chega. Lead Agent vê que precisa de 3 skills: search, análise de código, law research. Cria 3 Sub-agents especializadas, delega, coordena resultado. Cada agent tem seu prompt, seu model, suas tools. Resultado: TEAM INTELIGENTE, não 1 agent travado.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO ISSO FUNCIONA NA PRÁTICA",
+            "title": "O workflow real de multiagent",
+            "highlight": "workflow",
+            "body": "1. Problema chega (análise de contrato bancário). 2. Lead Agent roteeia: cria Agent de Legal + Agent de Finance. 3. Legal Agent tira cláusulas de risco. Finance Agent valida numbers. 4. Lead Agent sintetiza em recomendação final. Resultado: análise 10x mais fundo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO EMPREENDEDOR",
+            "title": "Tu escala operação em 90 dias",
+            "highlight": "90 dias",
+            "body": "Antigamente: contratar 3 people pra fazer job de Agent. Agora: 1 Multiagent Team resolve. Com Dreaming, todo dia fica MAIS SMART. Com Outcomes, não gasta compute desnecessário. Margem de SaaS sobe 40% de repente.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A LIÇÃO QUE FICA",
+            "title": "Automação inteligente > Automação burra",
+            "highlight": "inteligente",
+            "body": "RPA é robo que segue script. Managed Agents com Dreaming é equipe que APRENDE do script. 100x mais poderoso. 100x mais barato. A diferença é: Dreaming muda a curva — cada dia é melhor que ontem.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "HOJE, TU PENSA",
+            "title": "Qual processo tu terceirizaria pro Agent?",
+            "highlight": "terceirizaria",
+            "body": "Lista 3 processos repetitivos no teu negócio. Imagina como Multiagent Team resolveria cada um. Depois testa em Managed Agents beta. Segue @rafaondei pra mais IA que multiplica teu tempo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "DeepSeek V4 + labs chinesas: coding models 75% mais baratos",
+      "summary": "Quatro labs chineses (DeepSeek, Z.ai, MiniMax, Moonshot) lançaram modelos de coding em 12 dias em maio: DeepSeek V4, GLM-5.1, M2.7, Kimi K2.6. Todos atingem capability frontier de reasoning e agentic engineering com custo 75% menor que concorrentes ocidentais. Disrupção de preço em andamento.",
+      "source": "Air Street Press",
+      "link": "https://press.airstreet.com/p/state-of-ai-may-2026",
+      "category": "benchmark",
+      "recommended": false,
+      "carousel": {
+        "theme": "DeepSeek V4: quando Ocidente perdeu a guerra de preço",
+        "caption": "Quatro labs chineses derrubaram preço de coding models em 75% em 12 dias. DeepSeek V4 tá no MESMO nível que GPT-5.5 em reasoning, mas custa R$ 0,07 por milhão de tokens. 🔥 O mercado não é mais quem é mais inteligente — é quem é mais barato. 👇\n\n#DeepSeek #IA #China #Mercado #Tecnologia #Empreendedorismo #CodingAI #Disrupção",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "QUANDO CHINA TIROU SEU JOGO",
+            "title": "DeepSeek V4: 75% mais barato, mesma qualidade",
+            "highlight": "75%",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O NÚMERO QUE ASSUSTA OCIDENTE",
+            "title": "4 labs, 12 dias, mesmo ceiling",
+            "highlight": "12 dias",
+            "body": "DeepSeek V4. GLM-5.1 (Z.ai). M2.7 (MiniMax). Kimi K2.6 (Moonshot). Todos de china, todos lançados em 12 dias em maio. TODOS atingem frontier-grade reasoning. TODOS são 75% mais baratos. Não é coincidência — é ofensiva coordenada.",
+            "stat": "4",
+            "stat_label": "labs chinesas em 12 dias",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "POR QUE ISSO IMPORTA",
+            "title": "Agentic engineering já não paga OpenAI/Anthropic",
+            "highlight": "já não paga",
+            "body": "Se teu SaaS usa 10M requests/mês de GPT-5.5 = $30k/mês. Com DeepSeek V4 = $7.5k/mês. Mesma saída. 20% do preço. Alguém AINDA paga premium? Só quem TEM que pagar (Fortune 500 com SLA de confiabilidade). O 80% rest virou DeepSeek overnight.",
+            "stat": "-75%",
+            "stat_label": "custo vs frontier models",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O MERCADO MUDA AQUI",
+            "title": "Preço virou arma estratégica",
+            "highlight": "arma estratégica",
+            "body": "Era 'qual modelo é melhor em benchmark'. Ficou 'qual modelo deixa mais margin pra mim'. DeepSeek V4 tira 60% do custo do SaaS de IA. Seu competitor que AINDA usa GPT? Tu undercuta 50% no preço mantendo qualidade. Game over.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO CHINA FEZ ACONTECER",
+            "title": "Três vantagens que Ocidente não tem",
+            "highlight": "três vantagens",
+            "body": "1. Custo de infraestrutura 3x menor. 2. Poder computacional paralelo (sem regulação de export). 3. Modelo de open-source (não precisa manter closed-source pra rentabilidade). Resultado: podem preficar 75% menos e AINDA lucrar.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "OPORTUNIDADE PARA TI",
+            "title": "Margem explode, captura de mercado dispara",
+            "highlight": "Margem",
+            "body": "Se tu migra pra DeepSeek V4: margin sobe 40-60%. Se oferecer preço similar a GPT, margin é ABSURDO. Se undercut 20%, customer chega correndo (mesma qualidade, preço menor). Escolhe a estratégia e ganha market share.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO",
+            "title": "Frontera não é mais monopólio dos EUA",
+            "highlight": "não é mais monopólio",
+            "body": "Três anos atrás: EUA tinha tecnologia, China tinha custo. Agora: China tem AMBAS. Disrupção de preço é VIOLENTA — tirou 5-7 anos de OpenAI/Anthropic em 12 dias. Oriente virou competidor de verdade.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TESTA HOJE",
+            "title": "Roda DeepSeek V4 vs seu modelo atual",
+            "highlight": "Roda",
+            "body": "Mesmo prompt, 3 rodadas. Tira latency, qualidade, custo. Quando vê que tá 10% pior mas custa 75% menos, a conta fica óbvia. Segue @rafaondei pra mais mercado que tá sendo disrruptado.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Claude Code gera US$ 2.5B em ARR anualizado — driver de crescimento",
+      "summary": "Claude Code sozinho gera US$ 2.5 bilhões em receita anualizada. É o maior componente de receita da Anthropic dentro do écossistema Claude. Demonstra que developers estão dispostos a pagar premium por ferramentas de IA integradas em workflow de coding.",
+      "source": "MindStudio",
+      "link": "https://www.mindstudio.ai/blog/anthropic-30b-arr-4-months-pulling-ahead-openai",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "Claude Code: quando developers viraram a moeda de ouro da IA",
+        "caption": "Claude Code gera US$ 2.5B/ano SOZINHO. 8% da receita total da Anthropic. Developers estão pagando premium por editor que ENTENDE código deles. 💻 Isso nunca foi a maior oportunidade — ERA A ÓBVIA. 👇\n\n#Claude #Claude Code #Developers #IA #Empreendedorismo #Softwaredev #Coders #Mercado",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "QUANDO O DEVELOPER VIROU O CLIENTE MAIS VALIOSO",
+            "title": "Claude Code: US$ 2.5B/ano de receita",
+            "highlight": "US$ 2.5B",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "A PROPORÇÃO QUE CHOCA",
+            "title": "8% da receita Anthropic = US$ 2.5B",
+            "highlight": "8%",
+            "body": "Anthropic faz US$ 30B total. Claude Code é 8% disso = US$ 2.5B. Um SUBPRODUTO da Anthropic gera MAIS receita que 99% das startups SaaS inteiras. Isso não é acidente — é porque developer vai pagar QUALQUER preço por ferramenta que economiza 3h/dia.",
+            "stat": "$2.5B",
+            "stat_label": "Claude Code ARR",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "POR QUE DEVELOPERS PAGAM PREMIUM",
+            "title": "Qualidade > preço no dev toolkit",
+            "highlight": "Qualidade",
+            "body": "Developer típico: pago R$ 200/hora. Se Claude Code me economiza 2h/dia = R$ 2400/mês em valor gerado. Cobra R$ 50/mês? Deal. Vs Cursor ou GitHub Copilot: mesma função, preço similar — mas Claude integração Managed Agents vira 10x mais poderoso.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O MERCADO INTEIRO ENTENDEU",
+            "title": "Developers = aquele mercado que PAGA MESMO",
+            "highlight": "PAGA MESMO",
+            "body": "Consumer: paga R$ 10/mês mas cancela se muda de aba. Developer: paga R$ 100/mês porque economiza 10h. Enterprise: negocia. Developer: PAGA porque dependency do tooling é mais alto. OpenAI entendeu, Anthropic entendeu, Cursor entendeu. Quem não entendeu? Todo mundo construindo pra marketers.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO CLAUDE CODE CRIOU ESSE MOAT",
+            "title": "Três movimentos que trancaram o mercado",
+            "highlight": "três movimentos",
+            "body": "1. Integração nativa em VSCode + JetBrains (não é plugin, é part da IDE). 2. Context awareness de REPO INTEIRO (Cursor competition: apenas arquivo aberto). 3. Managed Agents que decompõe problema em subtasks. Resultado: competidor não consegue imitar.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "OPORTUNIDADE PRO TI",
+            "title": "Developer tools é mercado de R$ 10B+ no BR",
+            "highlight": "mercado de R$10B+",
+            "body": "400k developers no BR. 20% usando Claude Code. Cada um paga R$ 100-300/mês. Isso é BILHÕES em total addressable market. Se tu faz qualquer coisa PERTO disso (deployment helper, debug agent, performance profiler IA), tem customer pronto pra pagar.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O QUE APRENDE",
+            "title": "Tier de monetização: developer > consumer > enterprise",
+            "highlight": "developer",
+            "body": "Consumer churn 80%. Enterprise negocia meses. Developer? Paga todo mês, cancela raramente, volta quando brinca com versão free de concorrente. É o melhor customer profile do SaaS. Claude Code provou isso com US$ 2.5B.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "SUA VEZ DE CONSTRUIR",
+            "title": "Que problema do developer TU resolve melhor?",
+            "highlight": "TU resolve",
+            "body": "Pega 10 developers amigos, pergunta qual é o pain point MAIOR deles. Deploy? Debug? Refactoring? Test writing? Qualquer um é mercado de US$ 100M+. Segue @rafaondei pra mais oportunidade que tá escancarada.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Cursor Pricing Model: shift para credit-based (225 requests/mês vs 500 antes)",
+      "summary": "Cursor mudou modelo de preço em junho 2025 de fixed 500-request/mês para credit-based system. Efeito: Pro tier ($20/mês) agora oferece ~225 requests mensais (vs 500 antes). Redução de 55% em valor entregue, mesmo preço. Impacto: churn de usuarios, oportunidade pra Anthropic/OpenAI APIs.",
+      "source": "SaaSworthy",
+      "link": "https://www.saasworthy.com/product/cursor-sh-tool/pricing",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "Cursor reduz valor 55% = oportunidade pra competidor",
+        "caption": "Cursor cortou requests de 500 pra 225 por mês mantendo preço de R$ 120. Churn explodiu. Developers migraram pra Claude Code, Copilot, Aider. Quando tu tira valor sem avisar, cliente SAI. 👇\n\n#Cursor #SaaS #Pricing #Developers #IA #Competição #Mercado #Startup",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "QUANDO A GANÂNCIA PERDE CLIENTE",
+            "title": "Cursor cortou valor 55%, manteve preço",
+            "highlight": "cortou valor",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "OS NÚMEROS CONCRETOS",
+            "title": "500 requests → 225 requests, mesmo preço",
+            "highlight": "225",
+            "body": "Pro tier: R$ 120/mês. Antes: 500 requests. Agora: 225 requests. Redução: 55%. Preço: zero mudança. Resultado: developer pensa 'por que tô pagando Cursor agora?' e testa concorrente.",
+            "stat": "-55%",
+            "stat_label": "valor entregue",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O MOVIMENTO QUE FUDEU CURSOR",
+            "title": "Shift pra credit-based foi Trojan Horse",
+            "highlight": "Trojan Horse",
+            "body": "Ideía: mudar pra credit-based permite preço dinâmico depois. Realidade: developer não entende 'créditos' — entende 'quantas coisas faço por mês'. Tirar 55% sem aviso PRÉVIO = churn imediato. Cursor não comunicou bem, e market punitu.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "A OPORTUNIDADE ABRIU",
+            "title": "Competidor de preço = Anthropic/OpenAI direto",
+            "highlight": "Competidor",
+            "body": "Claude Code: mesma qualidade, mas via Managed Agents + native VSCode. Copilot: mais barato, integrado no GitHub. Aider: open-source, zero custo. Cursor perdeu developers porque TIROU VALOR. A resposta correta era: 'cortamos requests mas REDUZI PREÇO 30%'.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO CURSOR QUEIMOU CONFIANÇA",
+            "title": "Três erros de pricing que matam SaaS",
+            "highlight": "três erros",
+            "body": "1. Mudar produto (valor entregue) sem avisar com 30 dias. 2. Manter preço igual quando tira 55% de uso. 3. Não oferecer grandfathering pra clientes antigos. Developer sente: 'fui traído'. Sai em 48h.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO DESENVOLVEDOR",
+            "title": "Tu agora tem 5 opções melhores",
+            "highlight": "5 opções",
+            "body": "Claude Code ($20 unlimited). GitHub Copilot ($10 cheaper). Aider (free). Codeium (free tier). Tabnine (open). Nenhuma cortou valor — Cursor passou. Churn foi MASSIVO, e justificado.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A LIÇÃO PRO EMPREENDEDOR",
+            "title": "Preço é promessa — quebra promessa = morte",
+            "highlight": "quebra promessa",
+            "body": "Cursor era promessa: 'ilimitado pra R$ 120'. Quebrou: '55% menos por R$ 120'. Developer não perdoou. Moral: quando precisa mudar preço/valor, comunica 60 dias antes, grandfathers clientes antigos, ou MORRE de churn.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "SE TU É EMPREENDEDOR",
+            "title": "Analisa teu pricing strategy ANTES de mudar",
+            "highlight": "ANTES de mudar",
+            "body": "Cursor ia ser US$ 500M company easy. Uma mudança de pricing burra virou US$ 100M company. Não seja Cursor. Quando mudar modelo, comunica honesto, protege clientes antigos, ou aprende com erro deles. Segue @rafaondei pra mais lição de mercado.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Vercel AI SDK 6 + Grok Build 0.1 support: agents in production",
+      "summary": "Vercel integrou Grok Build 0.1 como modelo de coding na AI SDK, disponível via xai/grok-build-0.1. Também adicionou Gemini 3.5 Flash suporte. Chat SDK agora tem createChatTools integrado pra wiring agent actions. Vercel AI Gateway com observabilidade built-in.",
+      "source": "Vercel Changelog",
+      "link": "https://vercel.com/changelog",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Vercel AI SDK 6: quando deploy virou AI-native",
+        "caption": "Vercel AI SDK 6 já tem Grok Build + Gemini 3.5 wired in. Solta agent direto em produção sem CONFIG EXTRA. 🚀 Isso é framework democratizando agents em deployment. 👇\n\n#Vercel #AISDK #Grok #Gemini #Developers #Deployment #Empreendedorismo #DevTools",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "QUANDO DEPLOY VIROU AI-NATIVO",
+            "title": "Vercel AI SDK 6: agents ready-to-ship",
+            "highlight": "ready-to-ship",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "INTEGRAÇÃO COMPLETA",
+            "title": "Grok Build + Gemini 3.5 em 1 linha",
+            "highlight": "1 linha",
+            "body": "Vercel AI SDK 6: model: 'xai/grok-build-0.1' (coding agent). Ou model: 'google/gemini-3.5-flash' (reasoning). Pronto. Nenhum config de API key, nenhum ajuste — Vercel Gateway cuida. Deploy seu agent em 10 minutos.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE MUDOU NO WORKFLOW",
+            "title": "createChatTools: agora wiring é automático",
+            "highlight": "wiring",
+            "body": "Antes: criar agent, listar tools, registrar manualmente, testar integração. Agora: um createChatTools(chat) e SDK pega Read/Write do Chat SDK e tira pro agent. Resultado: menos boilerplate, mais focus em lógica do agent.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "DEVELOPERS AGORA GANHAM",
+            "title": "Zero-friction agent deployment = market capture",
+            "highlight": "Zero-friction",
+            "body": "Antes: build agent, worry sobre routing, monitoring, costs, fallbacks. Agora: write 50 lines, vercel deploy, agent is LIVE em staging + prod com observability free. Isso MUDA o game — developers vagabond agora podem build agents production-grade.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO VERCEL VENCEU AQUI",
+            "title": "Três vantagens que ninguém tem",
+            "highlight": "três vantagens",
+            "body": "1. AI Gateway com intelligent routing (se Grok fail, tenta Gemini). 2. Observability built-in (não precisa adicionar logging). 3. Deployment edge-native (agent roda em 300+ edge locations). Resultado: production-grade agent setup sem pensar.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "OPORTUNIDADE PRAS STARTUPS",
+            "title": "Agents agora são commodity — quem ganha?",
+            "highlight": "commodity",
+            "body": "Quando agent hosting fica fácil, whoever tem MELHOR PRODUCT LOGIC ganha. Não é mais 'consigo fazer agent'. É 'qual agent resolve problema melhor'. Isso liberta startup pra focar em diferencial, não infra.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O QUE APRENDE",
+            "title": "Abstração bem feita = mercado se abre",
+            "highlight": "Abstração",
+            "body": "Vercel abstracting away agent complexity = developers não precisam entender Grok/Gemini/routing/observability. Focam em 'qual agent behavior meu customer precisa'. Isso é democratização real — 10k devs fazem agora o que 100 faziam antes.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TU TESTA AGORA",
+            "title": "Deploy seu agent no Vercel em 10min",
+            "highlight": "Deploy",
+            "body": "npm install @vercel/ai, createChatTools, model='xai/grok-build-0.1', vercel deploy. Agent is live. Quando funciona, entende a magia de framework bom. Segue @rafaondei pra mais framework que muda o jogo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Meta Llama 4 vs Meta Muse Spark: proprietary turn-around",
+      "summary": "Meta mantém Llama 4 (Scout 17B, Maverick 400B aberto), MAS lançou Muse Spark em abril — primeiro modelo proprietary fechado de Meta. Muse Spark só roda em meta.ai, sem pesos disponíveis. Marca virada estratégica: Meta abandonando open-source pra competir direto com OpenAI/Anthropic.",
+      "source": "Meta AI Blog",
+      "link": "https://ai.meta.com/blog/llama-4-multimodal-intelligence/",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "Meta Muse Spark: quando open-source virou armadilha",
+        "caption": "Meta abriu Llama 4 (open) e criou Muse Spark (fechado). Por quê? Porque open-source deu poder DEMAIS pros competidores. Agora vira jogo de monetização direto. 📱 Tática de guerra entre Meta, OpenAI e Anthropic. 👇\n\n#Meta #Llama #MuseSpark #IA #OpenSource #Competição #Tecnologia #Estratégia",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "QUANDO O OPEN-SOURCE VIROU TÁTICA",
+            "title": "Meta Muse Spark: proprietary, zero weights",
+            "highlight": "proprietary",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O PLOT TWIST",
+            "title": "Meta criou DOIS modelos antagônicos",
+            "highlight": "DOIS modelos",
+            "body": "Llama 4: open-weights, 17B (Scout) até 400B (Maverick). Livre pra usar, finetune, deploy. Muse Spark: Meta ONLY, API exclusiva. Zero weights. Pergunta: por que Meta faz os dois? Resposta: testar qual estratégia vence.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O CONTEXTO HISTÓRICO",
+            "title": "Open-source deu demais poder pro competidor",
+            "highlight": "competidor",
+            "body": "Llama 3.1 (open) foi tão bom que acionou DeepSeek e Chinese labs pra competir. Meta criou aquele inimigo ao dar weights grátis. Lição aprendida: open-source é arma de duplo gume. Llama 4 aberto = bom pra developers. Muse Spark fechado = bom pra Meta ARR.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "A ESTRATÉGIA VERDADEIRA",
+            "title": "Bifurcação: open pra volume, closed pra margem",
+            "highlight": "bifurcação",
+            "body": "Llama 4 open: pega desenvolvedores que não querem pagar. Estratégia de volume, market share, ecosystem lock. Muse Spark fechado: pega enterprise que precisa de SLA, compliance, suporte. Estratégia de margem, ARR, direct revenue. Meta tá apostando em AMBAS.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO META LUCRA COM ISSO",
+            "title": "Três movimentos de monetização",
+            "highlight": "três movimentos",
+            "body": "1. Llama: locks developers em Meta infra (can't move easy). 2. Muse Spark: charges enterprise premium (api.meta.ai). 3. WhatsApp Agents: integra Muse Spark em chat (monetize user time). Resultado: Meta ganha monetização directa OU pela via longa (lock-in).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "MERCADO BRASILEIRO",
+            "title": "Qual modelo usa vai virar armadilha",
+            "highlight": "armadilha",
+            "body": "Se usa Llama 4 open: gratuito NOW, mas Meta pode 'warm up' pricing depois quando tem traction. Se usa Muse Spark: paga agora, mas cê LÊ Meta's roadmap. Escolhe: risco de pricing surprise ou certeza de custo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A LIÇÃO PRO VOCÊ",
+            "title": "Open-source é positioning, não filantrofia",
+            "highlight": "positioning",
+            "body": "Meta liberou Llama 3 para: 1) virar padrão dos devs, 2) bloquear concorrente (OpenAI/Anthropic não conseguem competir em volume), 3) criar fundação pra Muse Spark depois (agora todo mundo em Meta ecosystem). Genial. Brutal. Legal.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "SUA LIÇÃO",
+            "title": "Que modelo TU vai usar pra seu produto?",
+            "highlight": "TU vai usar",
+            "body": "Se estratégia é volume/lock-in: Llama open. Se estratégia é premium/compliance: Muse Spark ou Claude. Não existe 'melhor' — existe 'melhor pra TUA tática'. Entende a diferença. Segue @rafaondei pra mais estratégia disfarçada de technology.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    }
+  ],
+  "whatsapp": "📋 RADAR IA — 10 notícias de hoje (22/05):\n\n1️⃣ **Anthropic $30B ARR** — Cresceu 80x em 4 meses. Claude virou padrão Wall Street. https://venturebeat.com/technology/anthropic-says-it-hit-a-30-billion-revenue-run-rate-after-crazy-80x-growth\n\n2️⃣ **GPT-5.5 Instant** — 52.5% menos alucinações em medicina, direito, finanças. https://openai.com/index/gpt-5-5-instant/\n\n3️⃣ **Gemini 3.5 Flash** — 4x mais rápido que concorrentes, mesma qualidade. https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude-at-io-2026/\n\n4️⃣ **Gemini Omni Video** — Geração + edição conversacional (I/O 2026). https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude-at-io-2026/\n\n5️⃣ **Grok 4.20** — 2M token context window, reduz alucinações drasticamente. https://docs.x.ai/developers/release-notes\n\n6️⃣ **Claude Managed Agents** — Dreaming (aprende sozinho), Outcomes (sabe quando parar), Multiagent. https://9to5mac.com/2026/05/19/anthropic-enhances-claude-managed-agents-with-two-new-privacy-and-security-features/\n\n7️⃣ **DeepSeek V4** — 75% mais barato, mesma qualidade frontier. China disruptor total. https://press.airstreet.com/p/state-of-ai-may-2026\n\n8️⃣ **Claude Code $2.5B ARR** — 8% da receita Anthropic em 1 subproduto. Developers é o mercado. https://www.mindstudio.ai/blog/anthropic-30b-arr-4-months-pulling-ahead-openai\n\n9️⃣ **Cursor Pricing Shift** — Cortou requests 55%, manteve preço. Churn explodiu. Oportunidade pra Claude/Copilot. https://www.saasworthy.com/product/cursor-sh-tool/pricing\n\n🔟 **Vercel AI SDK 6** — Grok Build + Gemini 3.5 integrados, deploy agents em 10 min. https://vercel.com/changelog\n\n👉 Dashboard completo: https://rafaelondei.appnaia.com",
+  "instagram": "🔥 RADAR IA SEMANAL — 10 movimentos que tá quebrando a indústria (22/05)\n\nAnthropic $30B em 4 meses. Gemini 3.5 Flash 4x mais rápido. GPT-5.5 com 52% menos alucinação. DeepSeek V4 por 75% menos. E aí? Tu tá acompanhando ou tá perdido?\n\nMercado de IA não é mais quem tem melhor tecnologia — é quem resolve problema real, mais rápido, mais barato, com mais confiança.\n\nEssas 10 notícias são o tabuleiro de xadrez do mercado AGORA. Cada move aqui afeta seu negócio diretamente:\n\n→ Developers (Cursor tá derretendo, Claude Code explodiu)\n→ Empreendedor SaaS (preço caiu 75%, margin virou tática)\n→ Creator de vídeo (Gemini Omni tirou Adobe do jogo)\n→ Analista de dados (Grok 4.20 lê datasets inteiros em UMA conversa)\n→ Advogado (GPT-5.5 Instant agora não mente em contrato)\n\nEssas 10 notícias não são 'interessante legal'. São 'sua decisão de hoje define seu negócio em agosto'.\n\nQual é o move que muda teu jogo? Qual modelo tu adota? Qual competidor tu tira do caminho?\n\n👉 Tudo tá nos 8-slide carrosséis do dashboard. Explora lá, tira o que aproveita, monta tua estratégia.\n\nSe tu constrói ferramenta de IA, tá OPA. Se TU ainda tá discutindo qual é melhor modelo em benchmark, tu perdeu 3 meses de execução.\n\n🔔 Segue pra não perder o radar semanal. Cada quinta tem 10 notícias novas que tá quebrando o mercado. Isso não é newsletter — é cheat code.\n\n#IA #Tecnologia #Empreendedorismo #Claude #Anthropic #OpenAI #GoogleGemini #Grok #DeepSeek #Mercado #SaaS #Inteligência-Artificial #Inovação #Business"
+}
