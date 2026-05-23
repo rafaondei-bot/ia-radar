@@ -2,6 +2,13 @@
   "updated_at": "2026-05-19T07:00:01-03:00",
   "executions": [
     {
+      "date": "2026-05-23",
+      "key": "2026-05-23",
+      "topic": "mercado de IA",
+      "summary": "Claude Mythos 99/99 benchmarks + 270 zero-days Firefox; GPT-5.5 Instant -52.5% alucinações; Gemini 3.5 Flash supera Pro em coding; Opus 4.7 visão HD (64.3% SWE-Bench); Meta $115-135B IA 2026 (dobro); Anthropic 1M TPUs Google Cloud; Grok 4.3 voice cloning; Google Googlebook laptop AI; Claude Agents dreaming; OpenAI Deployment $4B",
+      "items_count": 10
+    },
+    {
       "date": "2026-05-19",
       "key": "2026-05-19",
       "topic": "mercado de IA",

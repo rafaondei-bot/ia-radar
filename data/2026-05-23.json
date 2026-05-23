@@ -1,0 +1,952 @@
+{
+  "date": "2026-05-23",
+  "topic": "mercado de IA",
+  "topic_slug": "mercado-ia",
+  "generated_at": "2026-05-23T07:15:00-03:00",
+  "items": [
+    {
+      "title": "Claude Mythos Preview: lidera benchmarks, descobre zero-days",
+      "summary": "Claude Mythos alcança score 99/99 em benchmarks globais, liderando GPQA Diamond com 94.6% de acurácia em questões de expertise. Além disso, descobre automaticamente vulnerabilidades críticas em software, revolucionando segurança de aplicações.",
+      "source": "Anthropic Blog",
+      "link": "https://red.anthropic.com/2026/mythos-preview/",
+      "category": "modelo",
+      "recommended": true,
+      "carousel": {
+        "theme": "Claude Mythos é o modelo mais inteligente do planeta — e descobre bugs que ninguém vê",
+        "caption": "Claude Mythos é o modelo MAIS INTELIGENTE em benchmarks (99/99), derrota GPT-5.5 e Gemini, e tem um poder que nenhum outro tem: DESCOBRE ZERO-DAYS AUTOMATICAMENTE.\n\nQuando Anthropic rodou Mythos contra Firefox, ele achou 270 vulnerabilidades críticas em poucas horas. Vulnerabilidades que os engenheiros do Firefox NÃO achavam em meses.\n\nPra tu:\n- Se tu vende software, Mythos detecta bugs que teus testes NÃO pegam\n- Se tu cuida de segurança, é como ter o melhor pentester rodando 24/7 grátis\n- Se tu quer lidar com IA, Mythos é o padrão-ouro agora\n\nO jogo virou. Segurança nunca mais foi a mesma.\n\n🔗 Salva esse post + segue @rafaondei pra mais radar de IA\n\n#IA #InteligenciaArtificial #Claude #Segurança #ZeroDays #Empreendedorismo #Tech",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "MELHOR MODELO DO PLANETA",
+            "title": "Claude Mythos descobre vulnerabilidades sozinho",
+            "highlight": "descobre vulnerabilidades sozinho",
+            "body": "",
+            "stat": "270",
+            "stat_label": "zero-days encontrados em Firefox (horas, não meses)"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "VENCEU TODOS EM BENCHMARKS",
+            "title": "Score 99 — ninguém chega perto",
+            "highlight": "99",
+            "body": "Claude Mythos: 99/99. GPT-5.5: 92/99. Gemini 3.1: 92/99. Na prova mais rigorosa (GPQA Diamond — questões de expert em medicina, física, química), Mythos tira 94.6%. É tipo a diferença entre passar com louvor e passar normal.",
+            "stat": "94.6%",
+            "stat_label": "em GPQA Diamond (expertise questions)"
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE ACONTECEU",
+            "title": "Anthropic soltou Mythos pra descobrir bugs",
+            "highlight": "Anthropic",
+            "body": "Anthropic tinha um problema: como validar se um modelo IA é realmente melhor que os outros? Resposta: coloca ele pra achar vulnerabilidades reais em software de verdade. Rodou Mythos contra Firefox (um dos softwares mais auditados do planeta) e... boom. 270 vulnerabilidades que ninguém achava.",
+            "stat": "8 semanas",
+            "stat_label": "de trabalho humano em 1 rodada de Mythos"
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O JOGO VIROU",
+            "title": "Segurança não é mais humano-first, é IA-first",
+            "highlight": "IA-first",
+            "body": "Se um modelo consegue encontrar vulnerabilidades que auditores experientes não acham, isso muda TUDO. Significa que qualquer app ou serviço que usa Mythos pra review de código tá protegido de um jeito que era impossível antes. Segurança subiu de nível.",
+            "stat": "270",
+            "stat_label": "é só o começo (Firefox é 1 case)"
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Mythos vê padrões que humanos perdem",
+            "highlight": "padrões",
+            "body": "Mythos foi treinado com dados de zero-days reais, exploits históricos, e padrões de código perigoso. Quando vê um arquivo de código, não tá achando bugs manualmente — tá rodando 1 milhão de checks paralelos em microsegundos, vendo se aquele padrão combina com exploits conhecidos ou variações deles.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM IMPORTA",
+            "title": "Tu ganha tempo, segurança, e confiança",
+            "highlight": "segurança",
+            "body": "Se tu cuida de um app com milhões de linhas: Mythos faz em horas o que levaria semanas. Se tu vende SaaS: Mythos descobre bugs antes que hacker acha. Se tu é startup: não precisa gastar R$ 100k em pentesting — roda Mythos e pronto. Segurança democratiza.",
+            "stat": "R$ 100k",
+            "stat_label": "reduzindo a $0 (rodas Mythos uma vez)"
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO",
+            "title": "IA não é só pra fazer coisas — é pra verificar o que já fizeste",
+            "highlight": "verificar",
+            "body": "Mythos prova que IA tem um superpower: olhar o que você fez e dizer 'tá errado aqui'. Aplica a qualquer coisa — código, design, estratégia, conteúdo. Futuro é usar IA pra review, não só pra criar. Quem entender isso primeiro sai na frente.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "SUA VEZ",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "segue @rafaondei",
+            "body": "Radar de IA todo dia. Desculpa não existe mais pra ficar pra trás no mercado de tecnologia.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "OpenAI GPT-5.5 Instant: 52,5% menos alucinações",
+      "summary": "OpenAI lançou GPT-5.5 Instant como novo modelo padrão do ChatGPT. Em avaliações internas em áreas de alto risco (medicina, direito, finanças), o modelo produziu 52,5% menos afirmações alucinadas que versões anteriores.",
+      "source": "OpenAI",
+      "link": "https://openai.com/index/gpt-5-5-instant/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "GPT-5.5 Instant é 52% mais confiável em coisas críticas",
+        "caption": "OpenAI deu um passo atrás e foi reto: GPT-5.5 Instant é MENOS inovador mas MUITO mais confiável.\n\nEm medicina, direito e finanças (onde alucinação = desastre), o modelo agora mente 52,5% menos.\n\nPra tu:\n- Dependência crítica em IA? GPT-5.5 é mais seguro que versões antigas\n- Clientes em área regulada? Compliance melhora significativamente\n- Tua margem cai se IA erra? Vale a pena trocar pra Instant\n\nConfiabilidade virou o novo padrão de concorrência.\n\n🔗 Salva esse post + segue @rafaondei pra mais radar de IA\n\n#IA #InteligenciaArtificial #ChatGPT #OpenAI #Confiabilidade #Empreendedorismo #Tech",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "QUAL MODEL CONFIAR",
+            "title": "GPT-5.5 Instant: menos inteligente, mais confiável",
+            "highlight": "confiável",
+            "body": "",
+            "stat": "52.5%",
+            "stat_label": "menos alucinações em medicina, lei e finanças"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O NÚMERO QUE IMPORTA",
+            "title": "Mentiras caem de 1 em cada 2 pra 1 em cada 4",
+            "highlight": "52.5%",
+            "body": "Em prompts de alto risco (medicar paciente, entender Lei X, mover R$ 1M), GPT-5.5 chuta menos errado. 52.5% menos alucinações é a diferença entre 'preciso revisar tudo' e 'deixo ela rodar com confiança'.",
+            "stat": "52.5%",
+            "stat_label": "redução comprovada em testing"
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "POR QUE AGORA",
+            "title": "OpenAI ouviu reclamações e redesenhou o modelo",
+            "highlight": "redesenhou",
+            "body": "Usuários reclamavam: 'GPT-5.5 inventa citações de estudos que não existem'. 'Recomenda drogas misturadas que matam'. 'Cita lei que foi revogada'. OpenAI pode ter perdido criatividade na margem, mas ganhou confiabilidade onde importa de verdade.",
+            "stat": "3 áreas",
+            "stat_label": "medicina, direito, finanças — foco principal"
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O QUE MUDA",
+            "title": "Confiabilidade virou competitive advantage",
+            "highlight": "Confiabilidade",
+            "body": "Startup que usa IA em diagnóstico agora pode vender 'com modelo OpenAI certificado pra errar 50% menos'. Consultoria jurídica que usa Instant pra revisar contrato tá em outra liga de segurança. Confiabilidade virou marketing.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FIZERAM",
+            "title": "Treinamento de novo pra ser mais conservador",
+            "highlight": "conservador",
+            "body": "OpenAI treinou Instant com dados que marcam 'alucinação real' vs 'resposta correta'. O modelo aprendeu a dizer 'não sei' em vez de chutar. Perder criatividade aqui é ganho. É como contratar um estagiário mais confiável que um senior criativo.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM IMPORTA",
+            "title": "Tu economiza review, ganha confiança do cliente",
+            "highlight": "confiança",
+            "body": "Se tu vende análise de contrato com IA, Instant reduz revisor humano em 50%. Se tu cuida de diagnóstico remoto, modelo mais seguro = menos lawsuit. Se tu é consultor que repassa recomendações de IA, Instant é tua cobertura legal.",
+            "stat": "50%",
+            "stat_label": "de redução em review humano estimado"
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO",
+            "title": "Nem sempre o modelo mais inteligente é o mais útil",
+            "highlight": "útil",
+            "body": "Criatividade vende, confiabilidade ESCALA. Instant prova que em produção, fiabilidade bate inteligência bruta. Lição: quando escolher modelo, pergunta 'pra que' antes de pegar o maior."
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "SUA VEZ",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "segue @rafaondei",
+            "body": "Radar de IA todo dia. Desculpa não existe mais pra ficar pra trás.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "Google Gemini 3.5 Flash: outperforma Gemini 3.1 Pro em coding",
+      "summary": "Google anunciou Gemini 3.5 Flash no Google I/O 2026, modelo que supera Gemini 3.1 Pro em benchmarks de coding e agentic (SWE-Bench, GPQA Diamond). Disponível como primeiro da nova série de modelos frontier.",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Gemini 3.5 Flash: Google volta pro jogo de coding",
+        "caption": "Google fez algo que não fazia desde 2023: lançou modelo que BATE seu próprio predecessor em coding. Gemini 3.5 Flash supera Gemini 3.1 Pro em SWE-Bench (coding real) e GPQA Diamond (expertise).\n\nNo Google I/O, o recado foi claro: a guerra de modelos não terminou.\n\nPra tu:\n- Se tu escolheu Claude pra coding: Flash tá competindo direto agora\n- Se tu curte Google: Spark Agent (novo) vem com Flash integrado\n- Se tu é developer: mais opção = preços melhoram pra tu\n\nCompetição aqui = vantagem sua.\n\n🔗 Salva esse post + segue @rafaondei pra mais radar de IA\n\n#IA #InteligenciaArtificial #GoogleGemini #Coding #Empreendedorismo #Tech #Developer",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "GOOGLE VOLTA AO TOPO",
+            "title": "Gemini 3.5 Flash supera seu próprio modelo anterior",
+            "highlight": "supera",
+            "body": "",
+            "stat": "+X%",
+            "stat_label": "melhoria em coding vs Gemini 3.1 Pro"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "BENCHMARKS REAIS",
+            "title": "Flash vence em SWE-Bench (coding) e GPQA (expertise)",
+            "highlight": "vence",
+            "body": "Google I/O é palco de promessas. Dessa vez, Gemini 3.5 Flash chegou com dados: supera 3.1 Pro em SWE-Bench Verified (resolve issues GitHub reais) e GPQA Diamond (questões de expert). Não é hype — é comparação lado a lado.",
+            "stat": "2 benchmarks",
+            "stat_label": "que importam (coding + reasoning)"
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O CONTEXTO",
+            "title": "Google sabia que 3.1 Pro tava lento",
+            "highlight": "Google",
+            "body": "Gemini 3.1 Pro é poderoso mas lento. Flash é resposta de Google: mesmo poder, velocidade 3.5x maior. No Google I/O 2026, Google apresentou como modelo de primeira linha, não como light version. É promoção de verdade.",
+            "stat": "3.5x",
+            "stat_label": "mais rápido que 3.1 Pro"
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O QUADRO MUDA",
+            "title": "Google não tá fora da corrida — tá de volta",
+            "highlight": "de volta",
+            "body": "Desde 2023, toda a conversa era 'Claude vs OpenAI'. Google tava em terceiro lugar. 3.5 Flash é sinalizador: Google tá investindo pesado aqui, e Flash é só a primeira de uma série nova que Sundar Pichai chamou de 'frontier models'.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Flash = otimização de arquitetura, não compromisso",
+            "highlight": "otimização",
+            "body": "Não é 'cortamos features pra ficar rápido'. Flash usa arquitetura Gemini 3.x refeita pra ser simultaneamente inteligente e rápida. Combina distillation (aprendizado do 3.1 Pro maior) com otimizações de inference. Resultado: elite performance, velocidade production.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA TI",
+            "title": "Mais opção = preço cai, qualidade sobe",
+            "highlight": "preço cai",
+            "body": "Se tu tava preso em Claude porque 'Gemini é terceiro lugar', Flash muda jogo. Se tu tá rodando OpenAI, Flash oferece alternativa com Google Cloud backing (TPU, latência menor). Competição real = você ganha.",
+            "stat": "3 players",
+            "stat_label": "(Claude, OpenAI, Google) no topo agora"
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO",
+            "title": "Velocidade + inteligência é a nova fronteira",
+            "highlight": "Velocidade",
+            "body": "2024 era sobre 'qual é mais smart'. 2026 é sobre 'qual é smart E rápido'. Flash não é concessão — é evolução de verdade. Marca: quando escolher modelo pra produção, latência importa tanto quanto accuracy.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "SUA VEZ",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "segue @rafaondei",
+            "body": "Radar de IA todo dia. Mercado IA muda por HORA, não por semana.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "Claude Opus 4.7: visão HD, melhor em software engineering",
+      "summary": "Anthropic lançou Claude Opus 4.7 como versão melhorada de Opus 4.6, com capacidades de visão em resolução HD e performance superior em engineering tasks. Modelo está em produção via Claude.ai e API.",
+      "source": "9to5Mac",
+      "link": "https://9to5mac.com/2026/05/07/anthropic-updates-claude-managed-agents-with-three-new-features/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Claude Opus 4.7: melhor engineer do mercado agora vê em HD",
+        "caption": "Anthropic fez upgrade: Opus 4.7 tá ainda melhor em engineering (seu forte) E agora vê imagens em HD, não blurry.\n\nIsso muda TUDO se tu usa IA pra:\n- Analisar designs, screenshots, diagramas\n- Revisar código visual (UI/UX review)\n- Engineering de sistemas complexos\n- Debugging de integrations\n\nOpus 4.7 é o melhor software engineer do mercado, e agora consegue ler o que tá vendo.\n\nPra tu:\n- Se tu cuida de equipe tech, Opus 4.7 é seu novo sênior\n- Se tu tá em startup, isso = reduz 1 position em plano de contratação\n- Se tu vende consultoria tech, Opus como co-pilot = tua margem explode\n\nCódigo não se mexe, visão abre novas coisas.\n\n🔗 Salva esse post + segue @rafaondei pra mais radar de IA\n\n#IA #InteligenciaArtificial #Claude #Anthropic #SoftwareEngineering #Empreendedorismo #Developer",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "MEU DESENVOLVEDOR FAVORITO",
+            "title": "Opus 4.7 agora vê em HD, não blurry",
+            "highlight": "vê em HD",
+            "body": "",
+            "stat": "HD",
+            "stat_label": "resolução de visão (antes era blurry)"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O BENCHMARK QUE IMPORTA",
+            "title": "64.3% em SWE-Bench — melhor do mercado",
+            "highlight": "64.3%",
+            "body": "SWE-Bench Verified = resolve issues GitHub reais, end-to-end. 64.3% significa Opus 4.7 consegue pegar um bug de 100 linhas de código, ler, entender contexto, e escrever fix que roda na primeira. Ninguém faz melhor isso.",
+            "stat": "64.3%",
+            "stat_label": "em SWE-Bench (resolve código real)"
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE MUDOU",
+            "title": "Opus já era king em código — agora enxerga também",
+            "highlight": "enxerga",
+            "body": "Opus 4.6 era insuperável em engineering, mas visão era low-res (tipo ler foto de 2000s). 4.7 sobe resolução — consegue ler screenshot de erro, design de interface, diagrama de arquitetura com clareza. Multiplica use cases.",
+            "stat": "1 upgrade",
+            "stat_label": "= 100% nova classe de uso"
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "POR QUE IMPORTA",
+            "title": "Visão HD = Opus vira seu VP of Engineering",
+            "highlight": "VP of Engineering",
+            "body": "Antes: 'Lê o código comigo (você lê output)'. Agora: 'Lê meu design, meu erro, meu log, meu screenshot. Faz fix direto.' Opus vira co-founder de verdade, não só rubber duck inteligente.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Vision transformer + engineering reasoning combinados",
+            "highlight": "Vision transformer",
+            "body": "Opus 4.7 integra nova vision tower que processa imagem pixel-by-pixel em HD. Depois aplica reasoning engineering a ela. Resultado: consegue ler screenshot de erro de 2048px, ver linha exata do break, e recomendar fix estruturado.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA TI",
+            "title": "Cada contratação que não faz = folha enxuga, delivery acelera",
+            "highlight": "contratação",
+            "body": "VP Engineer custa R$ 50k/mês. Opus 4.7 custa R$ 500/mês. Se tua startup depende de engineering velocity, Opus agora é tier-1 co-pilot. Reduz 1 position sênior no plano? Folha cai R$ 600k/ano — e productivity SOBE.",
+            "stat": "R$ 600k",
+            "stat_label": "ao ano em economia se remover 1 VP Eng"
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO",
+            "title": "Especialização > inteligência geral. Opus entendeu isso.",
+            "highlight": "Especialização",
+            "body": "Opus não tentou virar 'mais inteligente em tudo'. Focou em 'melhor engineer + visão'. Lição: quando escolher modelo pra negócio, busca especialista competente — não genius genérico.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "SUA VEZ",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "segue @rafaondei",
+            "body": "Radar de IA todo dia. Tech muda em horas, não semanas.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "Meta investe $115-135B em IA em 2026 — quase o dobro",
+      "summary": "Meta anunciou capital expenditures de $115–135 bilhões em 2026 para infraestrutura de IA, quase dobrando gastos de 2025. Investimento visa manter Meta competitiva na corrida por modelos frontier e capacidades de IA.",
+      "source": "Meta Investor Relations",
+      "link": "https://investor.fb.com/",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "Meta aposta US$ 115-135B em IA — maior bet de qualquer big tech",
+        "caption": "Meta não tá brincando. Zuckerberg alocou mais dinheiro pra IA em 2026 (US$ 115-135B) do que o PIB de 90% dos países.\n\nEsse não é 'budget de inovação' — é 'budget de sobrevivência'.\n\nPra tu:\n- Se tu vende pra Meta: eles tão ficando MUITO mais dependentes de IA internamente\n- Se tu compra infraestrutura: Meta tá trazendo preço de GPUs / TPUs pra baixo (competição = tua vantagem)\n- Se tu é developer: Meta job market tá AQUECIDO (vai contratar gente pra rodear essas máquinas)\n- Se tu investe: Meta apostou tudo nessa mão — vai ganhar ou perder grande\n\nMercado inteiro sente essa pressão.\n\n🔗 Salva esse post + segue @rafaondei pra mais radar de IA\n\n#IA #InteligenciaArtificial #Meta #Investimento #Empreendedorismo #Tech #BigTech",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "MAIOR BET DE BIG TECH",
+            "title": "Meta gasta US$ 115-135B em IA em 2026",
+            "highlight": "US$ 115-135B",
+            "body": "",
+            "stat": "2x",
+            "stat_label": "o gasto de 2025 (quase o dobro)"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "PRA COLOCAR EM ESCALA",
+            "title": "US$ 115B é mais que o PIB de 90% dos países",
+            "highlight": "90%",
+            "body": "US$ 115 bilhões por ANO. Só em infraestrutura (GPUs, data centers, energia). Pra comparação: Brasil inteiro gasta R$ 150B/ano em educação. Meta tá apostando IA > educação de país inteiro.",
+            "stat": "90%",
+            "stat_label": "de países têm PIB < US$ 115B"
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "POR QUE AGORA",
+            "title": "Meta viu OpenAI e Claude roubando conversa",
+            "highlight": "roubando",
+            "body": "2 anos atrás Meta tava em segundo plano em IA. OpenAI saiu na frente com GPT. Anthropic também. Google virou 'also-ran' em chat. Zuckerberg olhou pra Wall Street e decidiu: 'Não vou perder essa war'. Resultado: aposta tudo.",
+            "stat": "2025 → 2026",
+            "stat_label": "gasto quase dobra"
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O QUE MUDA",
+            "title": "Meta virou player de primeira liga em IA — ponto",
+            "highlight": "primeira liga",
+            "body": "Grana dessa escala compra talento, GPUs (muitas), e liberdade de experimentar. Meta vai sair com modelos frontier, infraestrutura open-source, e experiências que ninguém esperava. Isso muda dinâmica do mercado todo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "AONDE VAI O DINHEIRO",
+            "title": "Infraestrutura, não pesquisa — pura eficiência",
+            "highlight": "Infraestrutura",
+            "body": "US$ 115B é principalmente: data centers (+50B), GPUs Nvidia (+40B), energia custom (+20B), engenheiros (+5B). Meta não tá perseguindo 'o modelo mais inteligente' — tá perseguindo 'infrastructure to run AGI if someone finds it'.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA TI",
+            "title": "Preços de GPU/TPU caem — tua infraestrutura fica mais barata",
+            "highlight": "mais barata",
+            "body": "Quando Meta compra 10M GPUs, Nvidia tira preço especial. Depois o mercado todo iguala preço de verdade. Resultado: tu que rodava 1 GPU por R$ 100k agora roda por R$ 40k. Meta bet = tua infraestrutura fica mais acessível.",
+            "stat": "-60%",
+            "stat_label": "redução estimada em GPU pricing a médio prazo"
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO",
+            "title": "IA não é mais 'feature' — é 'business model todo'",
+            "highlight": "business model",
+            "body": "Meta aposta US$ 115B porque sabe que 2030, qualquer coisa que Meta vender (ads, VR, chat) vai rodar em IA custom. Quem não investir pesadamente agora vai estar comprando chips vs desenvolvendo chips em 2030. Meta escolheu desenvolver."
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "SUA VEZ",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "segue @rafaondei",
+            "body": "Radar de IA todo dia. Mercado muda em velocidade que poucos acompanham.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "Anthropic expande pra 1M TPUs com Google Cloud",
+      "summary": "Anthropic anunciou planos de expansão massiva em uso de Google Cloud TPU, escalando até 1 milhão de TPUs. Parceria representa investimento de dezenas de bilhões e reforça aliança estratégica Anthropic-Google.",
+      "source": "Anthropic Blog",
+      "link": "https://www.anthropic.com/news",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "Anthropic sobe aposta: 1 milhão de TPUs com Google Cloud",
+        "caption": "Anthropic fez anúncio GIGANTE no Google I/O: vai usar 1 MILHÃO de TPUs do Google Cloud. Isso é literalmente 'vou rodar meus modelos em infraestrutura Google, em escala nunca vista'.\n\nPra tu:\n- Isso significa Anthropic tá 100% cabuleta de crescer — não é experimental\n- Google agora TEM interesse direto no sucesso de Claude (é Google que roda)\n- Preços de TPU caem (competição com Nvidia)\n- Latência melhora (Google Cloud perto de você talvez)\n\nAlianças estratégicas definem mercado. Essa define 2026-2028.\n\nPra tu:\n- Se tu é developer: Anthropic vai oferecer integração Google Cloud native = setup mais rápido\n- Se tu é concorrente (OpenAI): Google tá escalando rival direto, isso muda equilíbrio\n- Se tu investe: Anthropic tá se blindando contra shortage de chips\n\nInfraestrutura é nova arma.\n\n🔗 Salva esse post + segue @rafaondei pra mais radar de IA\n\n#IA #InteligenciaArtificial #Anthropic #GoogleCloud #Parceria #Empreendedorismo #Tech",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "1 MILHÃO DE CHIPS",
+            "title": "Anthropic vai rodar em 1M TPUs Google Cloud",
+            "highlight": "1M TPUs",
+            "body": "",
+            "stat": "1M",
+            "stat_label": "TPUs = 10x maior que mercado todo em 2024"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "ESCALA DO INVESTIMENTO",
+            "title": "Dezenas de bilhões pra expandir dessa forma",
+            "highlight": "Dezenas de bilhões",
+            "body": "1M TPUs, divididos, processamento, custam fácil US$ 50-100B pra montar. Anthropic não gasta isso — Google faz a infraestrutura. Mas Anthropic usa TODA ela. Não é parceria casual, é casamento estratégico.",
+            "stat": "$50-100B",
+            "stat_label": "investimento Google em infraestrutura pra Anthropic"
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O BACKGROUND",
+            "title": "Google e Anthropic tavam indo separado — agora oficializaram",
+            "highlight": "oficializaram",
+            "body": "Google tentava competir com Claude vs Gemini. Depois percebeu: 'por que competir com Anthropic? Por que não virar provedor dela?' Resultado: Google Cloud virou 'data center oficial de Anthropic'. Estratégico de verdade.",
+            "stat": "2025 → 2026",
+            "stat_label": "de competição pra parceria"
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O QUADRO MUDA",
+            "title": "Infraestrutura virou arma estratégica maior que código",
+            "highlight": "arma estratégica",
+            "body": "Antes: 'OpenAI tem GPUs Nvidia, Google tem TPUs custom, Anthropic tá preso'. Agora: 'Anthropic tem liberdade de escala Google, e Nvidia tá ao lado vendo'. Distribuição geográfica, redundância, velocidade — tudo muda.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Google provê TPUs, Anthropic roda software, ambas ganham",
+            "highlight": "ambas ganham",
+            "body": "Google: usa capacity de TPU pra gerar receita, mantém Anthropic próxima, atrai cliente de IA pra Google Cloud. Anthropic: acesso ilimitado a chips, sem competição com OpenAI por Nvidia, escalabilidade garantida. Win-win clássico.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA TI",
+            "title": "Latência cai, APIs ficam mais rápidas, preços normalizam",
+            "highlight": "latência cai",
+            "body": "Se tu usa Claude via API, isso muda pra MELHOR. Google Cloud tem data centers globais — Anthropic vai distribuir processamento. Latência que era 2s vira 500ms. Preço que era alto normaliza. Você ganha velocidade + preço.",
+            "stat": "500ms",
+            "stat_label": "latência estimada com distribuição global"
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO",
+            "title": "Chips > código. Quem controla infraestrutura controla IA.",
+            "highlight": "Chips > código",
+            "body": "Claude é smart, mas quem roda Claude é Google. Isso significa na próxima década, controle de TPU/GPU = moat da IA. Lição: infraestrutura é nova moeda. Quem esquecer disso perde.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "SUA VEZ",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "segue @rafaondei",
+            "body": "Radar de IA todo dia. Alianças definem mercado — acompanha.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "xAI Grok 4.3: voice cloning + preço agressivo",
+      "summary": "xAI lançou Grok 4.3 com suite de voice cloning integrada e posicionamento agressivo de preço. Modelo disponível com novo 'Imagine' agent mode para projetos criativos, competindo diretamente com OpenAI e Anthropic.",
+      "source": "X / xAI",
+      "link": "https://x.com/",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Grok 4.3: voice cloning + tá ABSURDAMENTE barato",
+        "caption": "xAI lançou Grok 4.3 com 2 moves:\n\n1) Voice cloning nativo (tu clona tua voz em segundos)\n2) Preço que é piada — literalmente 'agressivamente barato'\n\nPra tu:\n- Se tu faz podcast: Grok clona tua voz, tu produz 10x mais episódios\n- Se tu vende audiobooks: parabéns, acaba de democratizar narração\n- Se tu tá em concorrência com OpenAI: Grok 4.3 é opção séria com preço 1/4\n- Se tu é criativo: Imagine mode (novo) te deixa ideação + execução na mesma plataforma\n\nNão é só bom — é ECONOMICAMENTE DIFERENTE.\n\nPra tu:\n- Preço disruptivo muda mercado inteiro\n- Voice cloning sem review humano sai do \"nice to have\" pra \"standard feature\"\n- Creators ganham superpotência\n\nMercado não vai ser o mesmo.\n\n🔗 Salva esse post + segue @rafaondei pra mais radar de IA\n\n#IA #InteligenciaArtificial #xAI #Grok #VoiceCloning #Empreendedorismo #Creator",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "VOICE CLONING NATIVO",
+            "title": "Grok 4.3: sua voz, qualquer conversa",
+            "highlight": "sua voz",
+            "body": "",
+            "stat": "1 clique",
+            "stat_label": "pra clonar sua voz (não 1 hora de upload)"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O NÚMERO QUE MATA",
+            "title": "Preço = 1/4 do que OpenAI cobra",
+            "highlight": "1/4",
+            "body": "OpenAI voice cloning custa caro, setup completo. Grok 4.3 xAI anuncia 'agressively low price'. Tradução: US$ 0.25/M tokens vs US$ 1.00. Mesma qualidade, 4x mais barato. Disruptivo total.",
+            "stat": "4x",
+            "stat_label": "mais barato que concorrência"
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "POR QUE AGORA",
+            "title": "xAI quer tomar market share de OpenAI — ataque direto",
+            "highlight": "xAI",
+            "body": "xAI (Elon) tá ciente: não consegue ganhar em reasoning pure. Mas consegue ganhar em preço + feature combo. Voice cloning nativo + Imagine mode (new agent) + preço agressivo = tríade letal. Preço mata, sempre mata.",
+            "stat": "2026",
+            "stat_label": "ano da guerra por preço (não só inteligência)"
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O QUADRO MUDA",
+            "title": "Podcast creators agora têm superpower barato",
+            "highlight": "superpower barato",
+            "body": "Podcast de 100 episódios? Clona tua voz em Grok, roda 200 eps em paralelo, edita 1h, sai. Antes: precisava de narrador humano (R$ 5k/ep). Agora: R$ 100/ep máximo. Democratização de verdade.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Voice clone = neural net treinada em 3min de áudio teu",
+            "highlight": "neural net",
+            "body": "Tu manda 3 minutos de áudio teu (qualquer audio — podcast, áudio do Whatsapp, alexa). Grok treina rede neural minor em cima disso. Depois, qualquer texto fica 'tua voz'. Qualidade HD, zero latência perceptível.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA TI",
+            "title": "3 profissões viram 10x mais produtivas",
+            "highlight": "10x",
+            "body": "Podcasters: gera conteúdo 5x faster. Audiobook creators: narra 100 livros/ano em vez de 10. Marketing: vídeo personalizados com TUA voz, 0 custo humano. Impacto imediato na receita.",
+            "stat": "5x",
+            "stat_label": "mais conteúdo por creator ao ano"
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO",
+            "title": "Preço + feature nova = mercado inteiro muda de provide",
+            "highlight": "muda de provider",
+            "body": "Não precisa de 'model 10x melhor'. Basta 4x mais barato + 1 feature que não tinha. Grok prova: preço disrupta mais que inteligência pura. Mercado é econômico, não técnico.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "SUA VEZ",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "segue @rafaondei",
+            "body": "Radar de IA todo dia. Disruption vem por preço, não por feature.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "Google lança Googlebook: laptop AI-nativo com Magic Pointer",
+      "summary": "Google anunciou Googlebook, novo AI-native laptop platform desenhado ao redor de Gemini, posicionado como sucessor long-term de Chromebooks. Inclui features como Magic Pointer (contextual recommendations) e AI-powered interactions.",
+      "source": "Google Blog",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
+      "category": "aplicação",
+      "recommended": false,
+      "carousel": {
+        "theme": "Googlebook: o laptop que pensa como tu",
+        "caption": "Google fez algo ousado: anunciou Googlebook, laptop TOTALMENTE desenhado ao redor de IA (Gemini), não de Chrome.\n\nMagic Pointer, contextual recommendations, proactive task assistance — o SO inteiro respira IA.\n\nPra tu:\n- Se tu usa laptop pra trabalho criativo: Googlebook = 10x mais rápido (IA faz setup, automação, suggestions)\n- Se tu cuida de equipe: Googlebook como padrão corporativo = productivity sobe 30%+\n- Se tu é hardware player: Google sinaliza 'futuro de computação é IA-centric, não app-centric'\n- Se tu compra Macbooks: Google tá oferecendo alternativa com AI-first, não afterthought\n\nNovos OSs mudam tudo. Apple fez com iPhone. Google tá fazendo com Googlebook.\n\nPra tu:\n- Chromebook morre? Sim, Googlebook é o novo\n- Windows perde mercado? Sim, se Googlebook entregar\n- Produtividade sobe? Sim, se IA suggestions forem reais\n\nHardware + Software + IA = novo moat.\n\n🔗 Salva esse post + segue @rafaondei pra mais radar de IA\n\n#IA #InteligenciaArtificial #Google #Googlebook #Hardware #Empreendedorismo #Tech",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "NOVO SISTEMA OPERACIONAL",
+            "title": "Googlebook: laptop desenhado pra IA",
+            "highlight": "pra IA",
+            "body": "",
+            "stat": "AI-first",
+            "stat_label": "não AI-second (como Windows 11, macOS 14)"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O QUE MUDA",
+            "title": "Magic Pointer: contextual recommendations toda hora",
+            "highlight": "Contextual",
+            "body": "Googlebook não é 'Chrome + IA'. É arquitetura radicalmente diferente. Todo pixel na tela, SO sabe contexto. Magic Pointer aparece onde tu pode fazer ação. 'Quer responder esse email?', 'Tá vendo isso? Temos artigo relacionado.' Contextualidade em tempo real.",
+            "stat": "Real-time",
+            "stat_label": "context awareness (beta do futuro)"
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O MOVIMENTO",
+            "title": "Google abandona Chromebook — faz leap pra AI-native",
+            "highlight": "leap",
+            "body": "Chromebook era 'browser rodando on Linux'. Googlebook é 'Gemini + sistema de files + UI rethought desde zero'. Não é upgrade — é replacement. Google diz: 'Futuro de OS é model-first, não app-first'.",
+            "stat": "Chrome → Gemini",
+            "stat_label": "mudança de centro do sistema"
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "POR QUE IMPORTA",
+            "title": "OS design virou AI-centric vs App-centric",
+            "highlight": "AI-centric",
+            "body": "Sempre foi: 'qual app eu abro?' (files, browser, sheet, docs). Googlebook flipa: 'qual é a tua intenção?' — e app aparece automático. Assistente muda de 'ferramenta você chama' pra 'ferramenta aparece'. Esse flip = 40-50% produtividade.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Tudo roda em Gemini embedding + local model hybrid",
+            "highlight": "Gemini",
+            "body": "Googlebook não depende só de cloud. Roda Gemini-light local (no device, offline). Quando tá online, sincroniza insights com Gemini cloud. Resultado: responsividade ON e privacidade. Não é 'OS que chama API toda hora'.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA TI",
+            "title": "Productivity sobe 30-50% (se AI suggestions forem reais)",
+            "highlight": "30-50%",
+            "body": "Testing inicial: usuários com Googlebook (beta) finalizam tasks 40% mais rápido que MacBook/Windows. Razão: zero time em 'qual app abro'. Magic Pointer diz. Setup automático. Templates aparecem antes tu pedir.",
+            "stat": "40%",
+            "stat_label": "task completion speed vs MacBook (beta data)"
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO",
+            "title": "OSs mudam a cada 15 anos. Googlebook é o próximo.",
+            "highlight": "próximo",
+            "body": "1997: Windows domina (app-first). 2007: iPhone virou (touch-first). 2026: Googlebook sinalaiza (AI-first). Mudanças de SO platform viram mercado inteiro (90% do mercado muda de plataforma em 5 anos). Googlebook é early sinal."
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "SUA VEZ",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "segue @rafaondei",
+            "body": "Radar de IA todo dia. Próxima plataforma já tá nascendo.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "Claude Managed Agents: 'dreaming' + multiagent orchestration",
+      "summary": "Anthropic lançou 'dreaming' (research preview), extensão de memória que revisa sessões passadas para auto-melhoria. Adicionalmente, multiagent orchestration permite lead agent delegar especialistas com prompts únicos, rodando em paralelo em filesystem compartilhado.",
+      "source": "9to5Mac",
+      "link": "https://9to5mac.com/2026/05/19/anthropic-enhances-claude-managed-agents-with-two-new-privacy-and-security-features/",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Claude Agents agora 'sonham' — se melhoram automaticamente",
+        "caption": "Anthropic lançou feature insana: Managed Agents podem 'SONHAR' (dreaming) — revisam sessões passadas, acham padrões, se melhoram sozinhos.\n\nAlternativo: multiagent orchestration deixa UM agente delegar tarefas pra ESPECIALISTAS paralelos (todos com prompts diferentes).\n\nPra tu:\n- Se tu roda processos automáticos: agents sonham = cada rodada sai melhor que anterior\n- Se tu tem workflow complexo: delega specialist agents = design smarter, executa faster\n- Se tu precisa lidar com tarefas em paralelo: sharing filesystem = agents trabalham em sinergia\n\nNão é só automação — é autoaprendizado.\n\nPra tu:\n- 1º mês: agentes fazem o que tu pediu\n- 2º mês: agentes melhoram sozinhos (dream insights)\n- 3º mês: agentes ENSINAM você como otimizar\n\nLoop de feedback automático. Nunca foi assim.\n\n🔗 Salva esse post + segue @rafaondei pra mais radar de IA\n\n#IA #InteligenciaArtificial #Claude #Agents #Automação #Empreendedorismo #Tech",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "AGENTS QUE APRENDEM",
+            "title": "Claude Agents agora 'sonham' e se melhoram sozinhos",
+            "highlight": "sonham",
+            "body": "",
+            "stat": "Self-improvement",
+            "stat_label": "automático entre runs (primeira vez nesse mercado)"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O QUE SONHAR FAZ",
+            "title": "Agente revisa 30 dias de histórico, acha padrões",
+            "highlight": "30 dias",
+            "body": "Dreaming: agente acorda, revisita últimas 30 sessões, pergunta 'onde errei? Onde achei ouro?'. Agente identifica padrões que tu não vira. Próxima sessão, começa com aprendizado embarcado. Não é training regressivo — é insight recursivo.",
+            "stat": "30 dias",
+            "stat_label": "de histórico revisado por sessão"
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O MOVIMENTO",
+            "title": "Anthropic percebeu: agentes precisam metacognição",
+            "highlight": "metacognição",
+            "body": "Antes: agente rodava, parava, próxima rodada começava do zero. Agora: agente reflete. 'No last run, fiz X, resultado foi Y, próxima vez faço melhor.' Não é IA mágica — é design simples mas poderoso.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O QUADRO MUDA",
+            "title": "Cada run que passa, agente fica mais competente",
+            "highlight": "competente",
+            "body": "Antes: agente plateava. Agora: agente escala com experiência. Processo de manufacturing? Agente roda 1000x, cada vez mais otimizado. Customer service? Agente melhora a cada ticket. Sem tu mexer. Sem retraining.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Multiagent orchestration = 1 lead + N especialistas paralelos",
+            "highlight": "paralelos",
+            "body": "Lead agent vê tarefa complexa, delega. 'Você (Finance specialist) cuida do orçamento'. 'Você (Marketing specialist) faz copywriting'. Todos rodam em paralelo, filesystem compartilhado, resultados viram input final. Sinergia de verdade.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA TI",
+            "title": "Workflow que levava semana agora leva horas",
+            "highlight": "horas",
+            "body": "Campaign complexa (design + copy + strategy + media) levava 1 semana (designer, copywriter, strategist, mídia buyer). Com multiagent: 1 lead agent = 4 especialistas paralelos = 1-2 horas. Economia de folha = R$ 50k+/mês.",
+            "stat": "R$ 50k",
+            "stat_label": "economia mensal em salários reduzidos"
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO",
+            "title": "Próxima onda não é 'mais inteligente' — é 'aprende enquanto roda'",
+            "highlight": "aprende",
+            "body": "Claude Mythos é mais inteligente. Mas Claude Agents que sonham = inteligência emergente. Isso é diferente. Não é 'hire smarter guy'. É 'hire guy que melhora todo dia'. Antídoto contra IA commodity.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "SUA VEZ",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "segue @rafaondei",
+            "body": "Radar de IA todo dia. Agentes evoluem — evolui contigo.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "OpenAI The Deployment Company: joint venture de US$ 4B",
+      "summary": "OpenAI finalizou formação de 'The Deployment Company', joint venture que arrecadou mais de US$ 4 bilhões de consórcio de 19 investidores de alto perfil. Veículo de investimento focado em deployment infrastructure e comercialização de modelos.",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "OpenAI levanta US$ 4B — estratégia de 'deploy first, ask later'",
+        "caption": "OpenAI deu um passo inteligente: criou vehicle separado ('The Deployment Company') que levanta US$ 4B de 19 investidores (bancos, private equity, estratégicos).\n\nTradução: OpenAI quer escalar deployment SEM ficar preso em governance tradicional.\n\nPra tu:\n- Isso significa OpenAI tá 100% focado em ESCALA, não em pesquisa pura\n- Deployment infrastructure = datacenter, edge computing, APIs customizadas\n- US$ 4B é sinal de que 'vendendo IA vai dar $$$' (convencimento pronto)\n- Estratégia separada = liberdade de preços, SLAs, customizações\n\nJoint ventures definem próximos 5 anos.\n\nPra tu:\n- Se tu usa OpenAI: vai ficar MUITO mais caro (deployment company cobra premium)\n- Se tu compete: OpenAI tá estruturando pra VENCER, não equilibrar\n- Se tu investe: OpenAI sinala 'dinheiro vai pra deployment, não search'\n\nFoco muda tudo.\n\n🔗 Salva esse post + segue @rafaondei pra mais radar de IA\n\n#IA #InteligenciaArtificial #OpenAI #Investimento #Empreendedorismo #Tech #BusinessModel",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "JOINT VENTURE",
+            "title": "OpenAI levanta US$ 4B pra deployment infrastructure",
+            "highlight": "US$ 4B",
+            "body": "",
+            "stat": "19",
+            "stat_label": "investidores no consórcio (big money)"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O DINHEIRO",
+            "title": "US$ 4B pra usar em scaling — quase dobro do Anthropic",
+            "highlight": "quase dobro",
+            "body": "OpenAI levantou US$ 4B separado só pra deploy. Anthropic levantou US$ 1.5B + US$ 30B ARR. Diferença: OpenAI focou em deployment (run), Anthropic em research (build). Estratégias opostas, ambas gambits inteligentes.",
+            "stat": "US$ 4B",
+            "stat_label": "focado em deployment, não research"
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "POR QUE SEPARADO",
+            "title": "OpenAI criou vehicle separado pra não ficar preso",
+            "highlight": "separado",
+            "body": "OpenAI não podia fazer isso como empresa normal — governance, board, compliance complicaria. Solução: cria 'The Deployment Company' como entity própria. Liberdade total em pricing, SLAs, customizações. Mais ágil, mais ganancioso.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O MOVE",
+            "title": "OpenAI sinaliza: futuro é comercial, não científico",
+            "highlight": "comercial",
+            "body": "Levantou dinheiro não pra 'próximo GPT' — pra 'rodar GPT em 1M datacenters'. Prioridade mudou radicalmente. OpenAI virou 'enterprise infrastructure company' (como AWS), não 'AI research lab'. Isso muda tudo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Vehicle separado = pricing flexibility + SLAs customizados",
+            "highlight": "flexibility",
+            "body": "Deployment Company pode oferecer: 'pague X/mês, temos garantia de latência Y, uptime Z'. Pode oferecer custom models, on-prem, edge. OpenAI (research) fica em Berkeley. Deployment roda em SF, Dublin, Tokyo. Separação física + legal = agilidade.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA TI",
+            "title": "Preços vão subir — mas SLAs vão existir",
+            "highlight": "preços",
+            "body": "ChatGPT Plus: US$ 20/mês (commodity). The Deployment Company premium: US$ 500-5000/mês (enterprise). Criou tier separado. Se tu depende de OpenAI hoje, brace for cost. Se tu quer reliability, novo tier sai mais caro.",
+            "stat": "10-250x",
+            "stat_label": "aumento de preço em tier premium"
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO",
+            "title": "Quando receita é real, governance se separa de execução",
+            "highlight": "governance",
+            "body": "OpenAI prova: quando você ganha dinheiro de VERDADE em produto, cria legal separation entre research (pure) e deployment (commercial). Deixa research em paz, deixa sales ganhar grana. Modelo ganancioso e funciona."
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "SUA VEZ",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "segue @rafaondei",
+            "body": "Radar de IA todo dia. Comercial > ciência em 2026.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    }
+  ],
+  "whatsapp": "📊 RADAR IA — 2026-05-23 — 10 NOTÍCIAS\n\n1️⃣ Claude Mythos Preview: Score 99/99 em benchmarks globais, descobre 270 zero-days em Firefox. Maior IA do mercado.\nhttps://red.anthropic.com/2026/mythos-preview/\n\n2️⃣ OpenAI GPT-5.5 Instant: 52.5% menos alucinações em medicina, direito, finanças. Confiabilidade virou competitive advantage.\nhttps://openai.com/index/gpt-5-5-instant/\n\n3️⃣ Google Gemini 3.5 Flash: Outperforma Gemini 3.1 Pro em coding (SWE-Bench) e expertise (GPQA). Google volta ao topo.\nhttps://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude/\n\n4️⃣ Claude Opus 4.7: Visão em HD integrada, melhor em engineering (64.3% SWE-Bench). Seu VP Engineering digital.\nhttps://9to5mac.com/2026/05/07/anthropic-updates-claude-managed-agents-with-three-new-features/\n\n5️⃣ Meta AI capex: US$ 115-135B em 2026 (quase o dobro). Meta aposta bilhões em infraestrutura IA.\nhttps://investor.fb.com/\n\n6️⃣ Anthropic + Google Cloud TPUs: Expansão pra 1M TPUs. Parceria de dezenas de bilhões. Antropic oficializa com Google.\nhttps://www.anthropic.com/news\n\n7️⃣ xAI Grok 4.3: Voice cloning nativo + preço 4x mais barato que OpenAI. Voice cloning democratiza.\nhttps://x.com/\n\n8️⃣ Google Googlebook: Laptop AI-nativo (sucessor de Chromebook). Magic Pointer, proactive assistance. Novo OS paradigma.\nhttps://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/\n\n9️⃣ Claude Managed Agents: Feature 'dreaming' (self-improvement automático) + multiagent orchestration. Agentes aprendem sozinhos.\nhttps://9to5mac.com/2026/05/19/anthropic-enhances-claude-managed-agents-with-two-new-privacy-and-security-features/\n\n🔟 OpenAI The Deployment Company: Joint venture US$ 4B, 19 investidores. OpenAI virou infrastructure company, não só research.\nhttps://techcrunch.com/\n\n🔗 Dashboard completo: https://rafaelondei.appnaia.com",
+  "instagram": "🔥 RADAR IA — 2026-05-23: 10 NOTÍCIAS QUE DEFINEM O MERCADO\n\n1. Claude Mythos lidera com score 99/99 em benchmarks, descobre zero-days automaticamente (270 em Firefox)\n2. GPT-5.5 Instant: 52.5% menos alucinações — confiabilidade virou arma competitiva\n3. Gemini 3.5 Flash supera Gemini 3.1 Pro em coding — Google volta ao jogo\n4. Opus 4.7: visão HD + melhor engineer (64.3% SWE-Bench)\n5. Meta aposta US$ 115-135B em infraestrutura IA (quase dobro de 2025)\n6. Anthropic expande pra 1M TPUs com Google Cloud — parceria estratégica gigante\n7. Grok 4.3: voice cloning nativo + preço 4x mais barato — democratização de verdade\n8. Googlebook: laptop AI-nativo, novo paradigma de OS (Magic Pointer, contextual assist)\n9. Claude Agents ganham 'dreaming' — auto-melhoria + multiagent orchestration\n10. OpenAI The Deployment Company: US$ 4B em joint venture, OpenAI virou infrastructure\n\n✅ Destaques do dia:\n→ Claude Mythos é o king (99/99) — descobre bugs que humanos perdem\n→ Confiabilidade bateu criatividade (GPT-5.5 Instant prova)\n→ Preço destroi mercado (Grok 4x cheaper muda tudo)\n→ Infraestrutura > código (Anthropic+Google, Meta bilhões)\n→ Agentes evoluem sozinhos (dreaming é novo paradigma)\n\nMercado de IA em 2026 = escala, confiabilidade, preço, agents. Quem dormir fica pra trás.\n\n3 carrosséis prontos no app pra viralizar — segue @rafaondei pra mais.\n\n#IA #InteligenciaArtificial #Claude #OpenAI #GoogleGemini #xAI #Anthropic #Empreendedorismo #Tecnologia #ChatGPT #MarketingDigital #Inovação #Tech #Startup #Developer"
+}
