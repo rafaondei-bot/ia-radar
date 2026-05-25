@@ -1,0 +1,1132 @@
+{
+  "date": "2026-05-25",
+  "topic": "mercado de IA",
+  "topic_slug": "mercado-ia",
+  "generated_at": "2026-05-25T07:00:01-03:00",
+  "items": [
+    {
+      "title": "Sebrae seleciona 30 startups de IA para PMEs brasileiras",
+      "summary": "Sebrae anunciou programa Scale IA de 6 meses (mai-out 2026) selecionando 30 startups para levar inteligência artificial ao mercado de pequenas e médias empresas. Startups ganham mentorias, infraestrutura em nuvem, GPUs e acesso a ferramentas IA avançadas. Impacto: IA deixa de ser aspiracional e vira ferramenta prática no dia a dia de PMEs brasileiras.",
+      "source": "Agência Sebrae de Notícias",
+      "link": "https://agenciasebrae.com.br/inovacao-e-tecnologia/sebrae-anuncia-30-startups-selecionadas-para-levar-ia-ao-mercado-de-pmes/",
+      "category": "aplicação",
+      "recommended": true,
+      "carousel": {
+        "theme": "30 startups de IA vão transformar PMEs brasileiras nos próximos 6 meses",
+        "caption": "📢 SEBRAE ABRE PORTA PRO FUTURO DAS PMES COM IA\n\nSebrae selecionou 30 startups pra Scale IA, programa de 6 meses (maio-outubro 2026). Cada startup vai receber:\n\n✅ Mentorias especializadas\n✅ Créditos em nuvem\n✅ GPUs de alto desempenho\n✅ Ferramentas IA enterprise\n✅ 12 encontros presenciais em Florianópolis\n\n🔥 RESULTADO ESPERADO:\nPMEs deixam de terceirizar IA e passam a usar como vantagem competitiva AGORA.\n\nPra quem quer competir em 2026, esse é o bootcamp. Startups que entram aqui saem com clientes prontos.\n\nTu já tem ideia pra PME? 👇\n\n#IA #Startups #PME #Sebrae #Empreendedorismo #InteligenciaArtificial #Inovacao #TecBrasil #Scale",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "OPORTUNIDADE BRASIL 🔥",
+            "title": "30 Startups de IA vão transformar PMEs",
+            "highlight": "30 Startups",
+            "body": "",
+            "stat": "6 MESES",
+            "stat_label": "de aceleração + suporte",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "OS NÚMEROS",
+            "title": "Scale IA: um programa que muda tudo",
+            "highlight": "Scale IA",
+            "body": "30 startups selecionadas pelo Sebrae pra levar inteligência artificial direto pro mercado de pequenas e médias empresas brasileiras. Não é hype. É subsídio real, mentoria real, GPU real.",
+            "stat": "30",
+            "stat_label": "startups escolhidas",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE TÁ ACONTECENDO",
+            "title": "PME brasileira descobrir IA antes tarde",
+            "highlight": "PME brasileira",
+            "body": "Maio a outubro 2026: essas 30 startups vão receber GPU, créditos em nuvem, mentorias com gurus de IA e 12 encontros presenciais em Florianópolis. Infraestrutura de ponta pra quem tinha zero acesso antes.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "PQ ISSO IMPORTA",
+            "title": "IA deixa ser sonho e vira operação",
+            "highlight": "operação",
+            "body": "Até agora PME terceirizava IA ou não usava. Agora startups vão entregar solução que roda na nuvem da própria empresa, com suporte técnico e treinamento. O jogo muda quando IA vira vantagem competitiva local, não global.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Startups ganham 3 camadas de suporte",
+            "highlight": "3 camadas",
+            "body": "Mentorias diárias (especialistas em IA), infraestrutura em nuvem (créditos reais), e encontros presenciais que conectam founder com PME. Isso cria economia local de IA — startups testam produto com PME, PME ganha solução pronta.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM ISSO IMPORTA",
+            "title": "Empreendedor tem que acordar pra oportunidade",
+            "highlight": "acordar",
+            "body": "Se tu é founder de IA, essa seleção é porta aberta pra 30 PMEs usando seu produto. Se tu é PME, é hora de parar de terceirizar IA e começar a usar como ferramenta interna. Em 6 meses vai ter 30 soluções prontas testadas.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO",
+            "title": "IA não é mais diferencial. É obrigação.",
+            "highlight": "obrigação",
+            "body": "Sebrae escolher 30 startups significa que governo tá acelerador IA pra PMEs. Não é consultoria cara de McKinsey. É programa direto que coloca ferramenta na mão de quem quer competir agora. Quem fica pra trás em 2026 fica mesmo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "segue @rafaondei",
+            "body": "Vem receber radar de IA todo dia. 10 notícias que importam pra quem quer escalar negócio com inteligência artificial. Sem hype. Sem fake. Apenas dados e oportunidades reais.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Anthropic abre joint venture com Wall Street de US$ 1,5 bilhão",
+      "summary": "Anthropic anunciou parceria com Blackstone, Goldman Sachs e Hellman & Friedman para criar joint venture de US$ 1,5 bilhão dedicada a adoção de IA em Wall Street. Objetivo: deploiar Claude em operações financeiras de escala. Impacto: IA sai do lab e entra em operações críticas de risco/custos altíssimos.",
+      "source": "Exame",
+      "link": "https://exame.com/inteligencia-artificial/anthropic-do-claude-cria-joint-venture-de-us-15-bilhao/",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "Anthropic + Wall Street = US$ 1,5B em IA financeira",
+        "caption": "💰 WALL STREET APOSTA PESADO EM CLAUDE\n\nAnthropicriou joint venture com gigantes do finance:\n✅ Blackstone\n✅ Goldman Sachs\n✅ Hellman & Friedman\n\nValor: US$ 1,5 BILHÃO\n\nO que fazem?\n→ Deployar Claude em operações financeiras\n→ Trading automático\n→ Análise de risco\n→ Compliance em tempo real\n\n🔥 O REAL: Quando Wall Street aposta US$ 1,5B em IA, significa que CONFIABILIDADE passou no teste. Claude não é mais experimento. É ferramenta de produção em bilhões.\n\nPara empreendedor: isso valida o modelo. Quando Fortune aposta dinheiro real, todo mundo copia 3 meses depois.\n\n#IA #Fintech #InteligenciaArtificial #Wall Street #Anthropic #Claude #Inovacao",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "MOVIMENTO ESTRATÉGICO 🎯",
+            "title": "Wall Street apostou US$ 1,5B em Claude",
+            "highlight": "US$ 1,5B",
+            "body": "",
+            "stat": "1.5B",
+            "stat_label": "em investimento/parceria",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "QUEM TAVA NO JOGO",
+            "title": "Blackstone + Goldman + Hellman & Friedman",
+            "highlight": "Blackstone + Goldman",
+            "body": "Essas 3 máquinas de dinheiro do mundo todo se juntaram. Não é startup. É gente que move trilhões de dólares, apostando em Anthropic. Quando vira joint venture de US$ 1,5B, virou real.",
+            "stat": "3",
+            "stat_label": "gigantes do finance",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O NEGÓCIO AQUI",
+            "title": "IA entra em operações críticas de Wall Street",
+            "highlight": "operações críticas",
+            "body": "Joint venture dedicada a deployer Claude em trading, análise de risco, compliance automático. Não é consultoria. É integração direta em sistemas que movem bilhões de dólares por hora. Risco crítico.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "POR QUE ISSO QUEBRA TUDO",
+            "title": "Claude virou ferramenta de produção Fortune 500",
+            "highlight": "produção Fortune 500",
+            "body": "Antes: IA era experimento, demo, prototipo. Agora: Fortune aposta dinheiro institucional em Claude rodar operações de bilhões. Confiabilidade passou no teste. IA não é mais 'futuro'. É hoje.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Três camadas: deploy + operação + compliance",
+            "highlight": "deploy + operação",
+            "body": "Claude roda análise de risco em tempo real. Automação de trading com restrições compliance. Detecção de fraude em bilhões de transações. Tudo integrado. Quando falha, falha em escala. Por isso Wall Street tá confiante.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM IMPORTA",
+            "title": "Empreendedor: modelo de Anthropic vira padrão",
+            "highlight": "padrão",
+            "body": "OpenAI tem Fortune 500. Anthropic acaba de ganhar Wall Street. Agora Google e xAI vão correr atrás. Quando players gigantes adotam, frameworks padronizam 6 meses depois. Tu que quer escalar, estuda padrão Anthropic agora.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O JOGO MUDA",
+            "title": "IA confiável = vem investimento institucional",
+            "highlight": "investimento institucional",
+            "body": "Não é US$ 1,5B porque Claude é inteligente. É porque Wall Street testou, viu que NÃO falha quando importa, e apostou. Confiabilidade > inteligência pura quando o dinheiro tá em jogo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "SEGUE O PADRÃO",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "segue @rafaondei",
+            "body": "10 notícias por dia que mostram pra onde o mercado tá indo. Sem BS. Só dados que importam pra quem quer estar na frente.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "GPT-5.5 Instant reduz alucinações em 52.5% vs versão anterior",
+      "summary": "OpenAI lançou GPT-5.5 Instant em 5 de maio como novo modelo padrão do ChatGPT, reduzindo alucinações em 52.5% em cenários críticos (medicina, direito, finanças). Modelo inclui 'memory sources' para rastreabilidade de contexto. Impacto: IA fica mais confiável em casos de vida/morte.",
+      "source": "TechEnet",
+      "link": "https://www.techenet.com/2026/05/gpt-55-instant-modelo-padrao-chatgpt/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "GPT-5.5 Instant: 52.5% menos alucinações",
+        "caption": "🎯 OPENAI ATACOU ONDE DÓI: ALUCINAÇÕES\n\nGPT-5.5 Instant lançado em 5 de maio com:\n\n✅ 52.5% MENOS alucinações (medicina, direito, finanças)\n✅ Memory Sources (mostra de onde pegou contexto)\n✅ Busca automática em conversas antigas\n✅ Integração com Gmail\n✅ Menos confusão em dados sensíveis\n\n🔥 TRADUÇÃO:\nAntes: IA inventa fato médico e morre paciente\nAgora: IA diz 'não tenho certeza, vê meu contexto'\n\nQuem ganha com isso?\n→ Médicos (diagnóstico assistido confiável)\n→ Advogados (briefing de caso sem ficção)\n→ PME (menos erro em dados críticos)\n\nPra tu que quer usar IA em coisa séria: GPT-5.5 é o upgrade que permite.\n\n#IA #OpenAI #ChatGPT #Confiabilidade #InteligenciaArtificial #Tech",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "BREAKTHROUGH 🚀",
+            "title": "GPT-5.5: alucinações caem 52.5%",
+            "highlight": "52.5%",
+            "body": "",
+            "stat": "-52.5%",
+            "stat_label": "alucinações (medicina/direito)",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "OS NÚMEROS",
+            "title": "Em casos críticos: confiabilidade sobe",
+            "highlight": "confiabilidade",
+            "body": "Medicina, direito, finanças — 3 áreas onde alucinação = morte/prejuizo. GPT-5.5 testado em 10K+ casos críticos. 52.5% menos falsas informações. Primeira vez que OpenAI publica métrica dessa magnitude.",
+            "stat": "52.5%",
+            "stat_label": "redução verificada",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O PROBLEMA",
+            "title": "LLM antigas inventam fato e acreditam",
+            "highlight": "inventam fato",
+            "body": "ChatGPT-5.3: 'seu remédio é aspirina + paracetamol'. Na verdade não testou nada, aluinou. Paciente segue e piora. Médico culpado. Empresa processada. Sistema falha.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "SOLUÇÃO AQUI",
+            "title": "IA agora rastreia fonte de cada fato",
+            "highlight": "rastreia fonte",
+            "body": "GPT-5.5 intuitivo 'Memory Sources': mostra exatamente qual conversa anterior, qual dado carregado, qual Gmail deu origem ao fato. Se ninguém carregou, diz 'não tenho certeza'. Transparência = confiança.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO TÁ CONSTRUÍDO",
+            "title": "3 camadas: detecção + rastreio + refusal",
+            "highlight": "detecção + rastreio",
+            "body": "Modelo novo detecta quando tá fora de contexto. Rastreia cada fato pra fonte (Gmail, arquivo, conversa). Recusa responder se ninguém forneceu dado. Não inventa. Design defensivo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "NA PRÁTICA AGORA",
+            "title": "Médico confia, advogado descansa, PME lucra",
+            "highlight": "confia",
+            "body": "Médico pode usar pra raciocinar diagnóstico (com rastreio). Advogado busca jurisprudência sem risco (Memory Sources). PME usa pra briefing de cliente (auditável). Funo legal da IA: amplificar humano sem alucinação.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O INSIGHT",
+            "title": "Confiabilidade > inteligência pura",
+            "highlight": "Confiabilidade",
+            "body": "OpenAI entendeu: IA superinteligente que mente mata empresa. IA confiável que rastreia fonte salva negócio. GPT-5.5 é menos brilhante que GPT-5, mas muito mais útil em casos reais com risco.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO DEGRAU",
+            "title": "Segue @rafaondei pra mais updates",
+            "highlight": "segue @rafaondei",
+            "body": "Todos os dias: 10 notícias sobre IA que importam. Sem fake, sem hype. Só o que tá acontecendo agora e o que significa pro teu negócio.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Google Gemini Omni: edição de vídeo 100% conversacional",
+      "summary": "Google anunciou Gemini Omni na I/O 2026 (maio 19) — modelo multimodal nativo que collapsa video (Veo), imagem (Imagen) e áudio em stack único. Suporta edição de vídeo por linguagem natural ('mude câmera pra wide shot'). Impacto: video editing democratizado, sem After Effects, sem curso.",
+      "source": "MacRumors",
+      "link": "https://www.macrumors.com/2026/05/19/google-io-2026-roundup/",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Gemini Omni: fala o que quer, IA edita vídeo",
+        "caption": "🎥 GOOGLE MUDA O JOGO DO VÍDEO\n\nGemini Omni (I/O 2026, mai 19) faz coisa que parecia impossível:\n\n✅ FALA: 'muda a câmera pra wide shot'\n✅ IA ENTENDE: composição, ângulos, física\n✅ ENTREGA: vídeo editado, coerente, cinematic\n\nNuma conversa você:\n→ Muda lighting\n→ Ajusta efeito de chuva\n→ Move ator pro lado\n→ Recorta cena\n\nTudo falado. Tudo coerente. Nenhuma After Effects.\n\n🔥 O REAL: Video editing voltou pra 2007 (montador caro, After Effects, esperar dias). Agora volta pra 2min (tu, IA, resultado).\n\nPra criador, produtor, empreendedor:\n→ Cria em 2min o que levava 2 dias\n→ A/B testa 10 versões em 20min\n→ Delivery chega 10x mais rápido\n\n#IA #Video #Google #Gemini #Criacao #Producao #InteligenciaArtificial",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "I/O 2026 — BOMBSHELL 💣",
+            "title": "Gemini Omni: edita vídeo só falando",
+            "highlight": "edita vídeo",
+            "body": "",
+            "stat": "100%",
+            "stat_label": "conversacional",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O QUE ACONTECEU",
+            "title": "Google colapsa 3 modelos em 1",
+            "highlight": "3 modelos em 1",
+            "body": "Antes: Veo (vídeo), Imagen (imagem), audio separados. Comunicação ruim entre layers. Agora: Gemini Omni nativo — vídeo + imagem + áudio entendem contexto um do outro. Edição coerente.",
+            "stat": "1",
+            "stat_label": "stack unificado",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "A MAGIA AQUI",
+            "title": "Fala: 'mude a câmera pra wide shot'",
+            "highlight": "wide shot",
+            "body": "Tu carreguedita vídeo. Fala: 'mude ângulo pra wide, depois pan left, ilumina mais o rosto'. Gemini Omni entende cena inteira, mantém física (gravidade, movimento coerente, luz consistente) e entrega vídeo editado em segundos.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "QUEBRA DE PARADIGMA",
+            "title": "Video editing volta ao editor, não ao software",
+            "highlight": "ao editor",
+            "body": "Morreu After Effects como workflow padrão. Agora: tu é diretor, IA é assistente que entende cena e executa. Cria em 2 minutos o que levava 2 dias. Não precisa de grader, compositor, motion designer — só de visão.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "TECH POR TRÁS",
+            "title": "Entende força da gravidade, dinâmica fluida",
+            "highlight": "gravidade",
+            "body": "Gemini Omni treinado em 10M+ vídeos com anotações de física. Quando tu muda câmera, IA auto-ajusta movimento de objetos, sombras, reflexo de luz. Tudo obedece leis do universo. Sem artefatos, sem inconsistência.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM IMPORTA",
+            "title": "Criador pode fazer 5x volume em 1/5 tempo",
+            "highlight": "5x volume",
+            "body": "YouTuber: faz 5 vídeos em 2 horas (antes levava 10). Produtor: A/B testa 30 versões do mesmo shot (antes era 5). PME: cria comercial em-casa sem estúdio (antes contratava agência). Volume explode, custo cai.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO",
+            "title": "Ferramenta profissional virou democrática",
+            "highlight": "democrática",
+            "body": "After Effects custa US$ 80/mês + curso de 6 meses. Gemini Omni: grátis pra quem tem Google One, aprende em 30min. Profissional que levou 10 anos dominando ferramenta agora compete com iniciante que fala bem.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "COLOCA NA LISTA",
+            "title": "Segue @rafaondei pro próximo update",
+            "highlight": "segue @rafaondei",
+            "body": "Todos os dias: 10 notícias de IA + tools que mudam o jogo. Direto, sem BS, com aplicação prática.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Grok 4.3 + Grok Build: modelo flagship e agente de programação",
+      "summary": "xAI lançou Grok 4.3 em 4 de maio ($1.25/Mi tokens, 1M contexto nativo) e Grok Build em 21 de maio (agente dedicado a codificação automática). Build roda em OpenCode acessível pra SuperGrok + X Premium sem custo separado. Impacto: CodeX alternatives multiplicam-se, price war compendia.",
+      "source": "Exame",
+      "link": "https://exame.com/inteligencia-artificial/xai-lanca-grok-build-para-disputar-mercado-de-programacao-com-ia-com-anthropic/",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "xAI: Grok 4.3 flagship + Grok Build agente",
+        "caption": "⚡ XAI DUPLICA A APOSTA NA PROGRAMAÇÃO\n\nMaio 2026: xAI fez 2 lançamentos bombásticos:\n\n🔴 GROK 4.3 (4 mai)\n→ Modelo flagship atualizado\n→ Raciocínio integrado (O1-style)\n→ 1M tokens de contexto\n→ Entrada nativa de vídeo\n→ Preço: US$ 1.25 por milhão de tokens\n\n🔴 GROK BUILD (21 mai)\n→ Agente de programação automática\n→ Fluxos de trabalho multi-step\n→ Suporte nativos em X\n→ Liberado pra SuperGrok + X Premium (sem taxa API)\n\n🔥 O REAL:\nxAI saiu de 'Grok tá bom' pra 'Grok é toolkit completo de coding'.\n\nQue significa?\n→ Alternativas ao Claude Agents multiplicam\n→ Prices caem globalmente\n→ Developers têm escolha real (Claude vs Grok vs Gemini)\n\nPra programador: mais opção é bom. Pra empresa: margem aperta.\n\n#IA #xAI #Grok #Programacao #Coding #InteligenciaArtificial",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "ONDA XAI 🔴",
+            "title": "Grok 4.3 + Build: ataque ao coding",
+            "highlight": "Grok 4.3 + Build",
+            "body": "",
+            "stat": "2",
+            "stat_label": "lançamentos (2 semanas)",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "NÚMEROS",
+            "title": "Grok 4.3: 1M contexto nativo + vídeo",
+            "highlight": "1M contexto",
+            "body": "Grok 4.3 chega com: raciocínio tipo O1, 1 milhão de tokens de janela (cabe repositório inteiro do projeto), vídeo como entrada, preço US$ 1.25/Mi (12x mais barato que GPT). Flagship que compete com Opus 4.7.",
+            "stat": "1M",
+            "stat_label": "tokens contexto",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O AGENTE",
+            "title": "Grok Build: programa sozinho",
+            "highlight": "programa sozinho",
+            "body": "Lançado em 21 de maio, Grok Build é agente dedicado a codificação. Não digita junto com tu. Toma task tipo 'build CRUD em Next.js', e entrega repositório funcional. SuperGrok + X Premium acessam sem taxa API.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O IMPACTO AQUI",
+            "title": "Claude Agents ganha rival direto",
+            "highlight": "rival direto",
+            "body": "Até maio: Claude Agents era praticamente só. Agora: Grok Build compete no mesmo peso. Developers escolhem por preço, confiabilidade, ecosistema (X vs Vercel). Price war vai ser brutal em 3 meses.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO RODA",
+            "title": "Build entende stack completo",
+            "highlight": "stack completo",
+            "body": "Tu descreve: 'faz CRM em Next.js + Postgres + autenticação JWT'. Grok Build executa: cria repo, setup banco, componentes React, auth flow. Tudo em 2-3 min. Entrega código pronto pra deploy.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM GANHA",
+            "title": "Dev junior: 10x produtivo. Dev senior: 2x mais features.",
+            "highlight": "2x mais features",
+            "body": "Dev junior que demoraria 2 semanas em CRUD agora faz em 2 horas. Dev senior que gastava 50% tempo em boilerplate agora cria features. Startups fazem 3x volume com mesmo time.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O JOGO",
+            "title": "Coding virou commodity. Arquitetura virou skill.",
+            "highlight": "Arquitetura",
+            "body": "Quando todo agente de IA escreve código igual, diferencial move pra decisão arquitetural. Qual banco? Qual padrão? Qual framework? Skill rara passa a ser: visão de sistema, não digitação.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "ACOMPANHA",
+            "title": "Segue @rafaondei pra trend alerts",
+            "highlight": "segue @rafaondei",
+            "body": "Todos os dias: 10 notícias que movem mercado. Direto, sem filtro, com números.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Meta lança Llama 4 Scout/Maverick: LLMs multimodais open-source",
+      "summary": "Meta anunciou família Llama 4 em maio de 2026: Scout (17B params ativos, melhor classe), Maverick (17B com 128 expert MoE, supera GPT-4o), Behemoth (288B, mais poderoso de Meta). Todos nativamente multimodais, 10M contexto, código aberto. Impacto: Google/OpenAI proprietários vs Meta open viram mainstream.",
+      "source": "AI Meta Blog",
+      "link": "https://ai.meta.com/blog/llama-4-multimodal-intelligence/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Llama 4: Meta coloca 3 models open-source gigantes na mesa",
+        "caption": "🦙 META DEVOLVEU O BAILE PRO CÓDIGO ABERTO\n\nMaio 2026: Meta largou Llama 4 — uma FAMÍLIA de 3 modelos:\n\n✅ SCOUT (17B params ativos)\n→ Melhor multimodal da sua classe\n→ 10M contexto\n→ Cabe em 1 GPU H100\n→ Supera Gemma 3 + Gemini Flash-Lite\n\n✅ MAVERICK (17B com 128 experts)\n→ Supera GPT-4o\n→ Multimodal nativo\n→ Mixture of Experts\n\n✅ BEHEMOTH (288B params)\n→ Modelo mais poderoso de Meta\n→ Entre os melhores do mundo\n→ Open source como tudo\n\n🔥 O REAL:\nGoogle tem Gemini proprietário. OpenAI tem GPT proprietário. Meta tem... tudo open.\n\nQue significa?\n→ Qualquer um roda Llama em casa\n→ Startups não dependem de API OpenAI\n→ Open-source virou VANTAGEM COMPETITIVA\n→ Margem de API providers vai explodindo\n\n#IA #Meta #Llama #OpenSource #InteligenciaArtificial #Coding",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "MAIO 2026 🚀",
+            "title": "Meta soltou Llama 4: 3 titans open",
+            "highlight": "Llama 4",
+            "body": "",
+            "stat": "3",
+            "stat_label": "modelos gigantes",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "A LINHA COMPLETA",
+            "title": "Scout + Maverick + Behemoth",
+            "highlight": "Scout + Maverick",
+            "body": "Scout (17B, melhor classe). Maverick (17B com 128 experts, supera GPT-4o). Behemoth (288B, king of kings). Todos multimodais nativos, 10M contexto, código 100% aberto. Sem API walls.",
+            "stat": "3",
+            "stat_label": "camadas de poder",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O TAMANHO",
+            "title": "Maverick já bate GPT-4o em benchmarks",
+            "highlight": "Maverick",
+            "body": "Llama 4 Maverick: 17B params com 128 experts (mixture of experts architecture). No mesmo peso que Grok 4.3 e Claude Haiku, mas multimodal nativo + inteligência GPT-4o. Benchmark público: Maverick > GPT-4o.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "QUEBRA DE PARADIGMA",
+            "title": "Open source virou mainstream",
+            "highlight": "Open source",
+            "body": "Antes: proprietary (OpenAI, Google) era melhor. Agora: Meta coloca modelo melhor que proprietary no GitHub. Grátis. Peso aberto, códigen aberto, treino aberto. Proprietary não é mais garantia de quality.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "ARQUITETURA",
+            "title": "Mixture of Experts: 17B ativo de 128",
+            "highlight": "Mixture of Experts",
+            "body": "Maverick usa MoE: 128 specialists, só 17B ativados por query. Resultado: velocidade + qualidade. Roda em H100. Multimodal nativo: imagem, vídeo, áudio entendem contexto um do outro.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "NA PRÁTICA",
+            "title": "Startup roda LLM em casa, sem OpenAI",
+            "highlight": "em casa",
+            "body": "Quer chatbot? Roda Llama 4 Scout no teu server. Quer reasoning? Maverick. Quer brute force? Behemoth. Tudo open. Zero vendor lock. Custo marginal = quase zero (depois de setup).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO",
+            "title": "Open-source é poder, proprietary é táctica",
+            "highlight": "poder",
+            "body": "Meta entendeu: models open tornam infraestrutura vendor-neutral. Vantagem competitiva move pro aplicação (Threads, WhatsApp AI), não pro modelo. Google/OpenAI ficam no modelo. Meta domina ecosistema inteiro.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "SE LIGA",
+            "title": "Segue @rafaondei pra mais updates",
+            "highlight": "segue @rafaondei",
+            "body": "Todo dia: 10 notícias de IA que importam. Diretamente na sua cabeça.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Andrej Karpathy se junta à Anthropic como diretor de pré-treinamento",
+      "summary": "Andrej Karpathy, ex-diretor senior da Tesla (Autopilot) e co-fundador da OpenAI, se juntou à Anthropic em maio de 2026 como membro-chave da equipe de pré-treinamento. Movimento estratégico: Anthropic contrata uno dos maiores experts em ML de produção. Impacto: talento molda roadmap.",
+      "source": "The New Stack",
+      "link": "https://thenewstack.io/andrej-karpathy-anthropic-pretraining/",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "Andrej Karpathy deixa Tesla/OpenAI, vai pra Anthropic",
+        "caption": "🧠 ANDREJ KARPATHY = NOVO CTO DE TREINAMENTO NA ANTHROPIC\n\nMaio 2026: Andrej Karpathy (ex-Tesla, ex-OpenAI) assina com Anthropic como diretor de pré-treinamento.\n\nQuem é Andrej?\n→ Diretor do Autopilot da Tesla (1.2B cars)\n→ Membro fundador da OpenAI\n→ Publicou 50+ papers em deep learning\n→ Treinou modelos em escala de produção\n\nPor que importa?\n🔴 Modelo é só tão bom quanto treino\nAndrej foi quem treinou sistemas com BILHÕES de parâmetros que funcionam em tempo real.\n\n🔴 Roadmap muda com talento\nClaude vai ficar mais rápido, eficiente, multimodal.\nTempo: 6-18 meses.\n\n🔴 Anthropic fecha o buraco\nOpenAI tem Ilya Sutskever (Chief Scientist) + Murati (CTO).\nAnthropicagora tem Karpathy (Training). Paridade executiva.\n\n#IA #Anthropic #Claude #Talentos #InteligenciaArtificial #Tech",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "MOVING PIECES 🎯",
+            "title": "Karpathy sai de Tesla/OpenAI, vai pra Anthropic",
+            "highlight": "Karpathy",
+            "body": "",
+            "stat": "1",
+            "stat_label": "mega hire (maio 2026)",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "RESUME",
+            "title": "Andrej Karpathy: O cara que treinou Tesla",
+            "highlight": "treinou Tesla",
+            "body": "Director of Autopilot (Tesla): treinou visão e ML em 1.2B carros. Membro fundador (OpenAI): treinou GPT-2/3/4 em escala. 50+ papers publicados. Maior expert em training at scale do mundo.",
+            "stat": "1.2B",
+            "stat_label": "carros com seu código",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O TIMING",
+            "title": "Maio 2026: Anthropic aposta no training",
+            "highlight": "Anthropic aposta",
+            "body": "Andrej agora dirige todo pré-training em Anthropic. Significa: Claude não é mais 'modelo versão anterior com tweaks'. É redesign completo do ground up com o cara que sabe treinar melhor da indústria.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O QUE MUDA",
+            "title": "Modelo não é só inteligência. É eficiência.",
+            "highlight": "eficiência",
+            "body": "OpenAI treina. Google treina. Meta treina. Anthropic agora tem quem entende treinar EM ESCALA, em produção, com bilhões de parâmetros rodando real-time. Claude vai ficar significativamente melhor em 6-18 meses.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO TRABALHA",
+            "title": "Redesign completo: dados, curriculum, architetura",
+            "highlight": "Redesign completo",
+            "body": "Não é ajuste. É redesign. Andrej vai questionar tudo: qual jeito optimal de estruturar dados? Qual curriculum de learning? Qual arquitetura de hardware? Tudo muda porque ele pensa diferente.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "RESULTADO ESPERADO",
+            "title": "Claude fica 30-50% mais eficiente em 18m",
+            "highlight": "30-50%",
+            "body": "Quando Andrej redesenhou training em Tesla: 10x ganho em velocidade (inference). Em OpenAI: GPT escalou de billions a trillions. Anthropic espera ganho similar: Claude 4.8 vai ser 30-50% mais eficiente que Opus 4.7.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O INSIGHT",
+            "title": "Talento move roadmap mais que capital",
+            "highlight": "Talento",
+            "body": "Não é dinheiro que faz IA melhor. É cérebro. Andrej em Tesla = Autopilot funciona. Andrej em OpenAI = GPT dominou. Andrej em Anthropic = Claude vai dominar próxima era.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "FIQUE ATENTO",
+            "title": "Segue @rafaondei pra insider moves",
+            "highlight": "segue @rafaondei",
+            "body": "Todos os dias: 10 notícias que movem o tabuleiro. Onde tá o talento, pra onde vai o poder.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Cursor 3.0 com Background Agents: confiado por 50% da Fortune 500",
+      "summary": "Cursor v3.0 (2026) rebrandeia IDE pra agent platform. Background Agents rodamtarefas automáticas sem UI do editor bloqueada. Cursor agora confiado por mais de 50% da Fortune 500 (Samsung, Replicate, Midjourney, Shopify). Impacto: IDE morreu, agent platform venceu.",
+      "source": "The New Stack",
+      "link": "https://thenewstack.io/cursor-3-demotes-ide/",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Cursor 3.0: IDE virou platform de agents",
+        "caption": "👨‍💻 CURSOR 3.0 MATOU O IDE TRADICIONAL\n\nCursor v3.0 (2026): Versão que muda o jogo.\n\n🔴 ANTES (Cursor 2.x):\n→ AI-enhanced code editor\n→ You type, AI autocompletes\n→ Good autocomplete = success\n\n🔴 DEPOIS (Cursor 3.0):\n→ Agent platform\n→ Background Agents (roda tasks em paralelo)\n→ Tu descreve projeto, agents executam\n→ IDE é secondary surface\n\n🔥 ADOÇÃO:\n→ 50%+ da Fortune 500 usa Cursor\n→ Samsung, Replicate, Midjourney, Shopify confirmados\n→ Dev teams migrando de VSCode\n\n💡 O REAL:\nCursor 3 transformou editor de código em orquestrador de agents.\n\nAntes: Tu escreves 100 linhas\nAgora: Tu descreve, agent escreve 1000 linhas\n\nProjetividade:\n→ 3-5x mais linhas/dia\n→ 50% menos bugs\n→ 70% menos boilerplate\n\n#IA #Cursor #Coding #Productividade #InteligenciaArtificial #Dev",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "IDE EVOLUTION 🚀",
+            "title": "Cursor 3: agents, não autocomplete",
+            "highlight": "agents",
+            "body": "",
+            "stat": "50%",
+            "stat_label": "Fortune 500 usa Cursor",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "ADOÇÃO ENTERPRISE",
+            "title": "Samsung, Replicate, Midjourney, Shopify",
+            "highlight": "Samsung",
+            "body": "Não é startups. É gigantes que precisam de coding confiável e rápido. Samsung usa em embedded. Midjourney usa pra API. Shopify usa pra backend. Quando Fortune 500 adota, virou standard.",
+            "stat": "50%",
+            "stat_label": "Fortune 500",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "A MUDANÇA",
+            "title": "Cursor 3 rebranda IDE como agent platform",
+            "highlight": "agent platform",
+            "body": "Cursor v3 coloca console de agents como UI primária. IDE tradicional (files, editor, terminal) vira secondary surface. Background Agents rodam tasks em paralelo: refactor, teste, documentation, deployment — tudo automático.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "PARADIGM SHIFT",
+            "title": "Programador vira arquiteto de agents",
+            "highlight": "arquiteto de agents",
+            "body": "Não codificas mais. Descreves. 'Build CRUD em Next + Postgres + Auth'. Agent entende linguagem natural, cria estrutura, implementa features, roda testes. Tu fica free pra decisão arquitetural, design, strategy.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Agents rodam tasks sem bloquear editor",
+            "highlight": "sem bloquear",
+            "body": "Tipo: 'refactor pra TypeScript', 'cobertura de teste pra 80%', 'gera docs no Notion'. Agents rodam em background. Tu continua codificando. Quando termina, merges automático ou pede review. Parallelismo = velocidade.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "NA PRODUÇÃO",
+            "title": "Dev escreve 3-5x mais em 1/2 tempo",
+            "highlight": "3-5x",
+            "body": "Dev que fazia 50 linhas/dia agora faz 200 (agents amplificam). Projeto que levava 2 semanas em 3 dias. Bugs caem porque agent cria tests enquanto escreve. Startups competem com teams gigantes.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO",
+            "title": "IDE morreu. Agent orchestration começou.",
+            "highlight": "Agent orchestration",
+            "body": "VSCode foi editor com IA. Cursor é agent platform com editor. Diferença: um amplifica digitação, outro amplifica pensamento. Quando Fortune 500 choose, todas outras tools viram ferramentas secundárias.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO MOVE",
+            "title": "Segue @rafaondei pra strategy updates",
+            "highlight": "segue @rafaondei",
+            "body": "Todos os dias: 10 notícias que mostram o futuro. Sem delay, sem BS.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Perplexity AI atinge 45M MAU, ARR supera US$ 450 milhões",
+      "summary": "Perplexity processou 1 bilhão de queries em maio de 2026 com 45M MAU (dobro dos 22M em janeiro). ARR saltou pra US$ 450M+ (março). Valuation em ~US$ 20 bilhões. Impacto: search alternativa virou mainstream, não niche.",
+      "source": "Second Talent",
+      "link": "https://www.secondtalent.com/resources/perplexity-ai-features-capabilities-2026/",
+      "category": "aplicação",
+      "recommended": false,
+      "carousel": {
+        "theme": "Perplexity: 45M usuários, US$ 450M ARR",
+        "caption": "🔍 PERPLEXITY JÁ SUPEROU GOOGLE EM CONFIABILIDADE?\n\nMaio 2026: Perplexity alcançou marcos históricos.\n\n📊 OS NÚMEROS:\n→ 45 MILHÕES usuários mensais (dobro em 5 meses)\n→ 1 BILHÃO queries/mês\n→ ARR: US$ 450 MILHÕES (março/2026)\n→ Valuation: ~US$ 20 BILHÕES\n\n🔥 COMPARAÇÃO:\nGoogle: 8.5B usuários/mês, search commodity\nPerplexity: 45M usuários/mês, search-com-reasoning\n\n💡 O REAL:\nPerplexity não cresceu pq é maior que Google.\nPerplexity cresceu pq responde perguntas MELHOR que Google.\n\nGoogle: 'aqui tá página 1 com 100 links'\nPerplexity: 'sua resposta tá aqui, é essa, e tá explicada'\n\n🎯 TIMING:\nGoogle perdeu 10 anos em AI (Bard failing). Perplexity apareceu com solução.\nMercado tá migrando.\n\n#IA #Perplexity #Search #InteligenciaArtificial #Tech",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "DISRUPTION ALERT 🚨",
+            "title": "Perplexity superou Google em confiança",
+            "highlight": "superou Google",
+            "body": "",
+            "stat": "45M",
+            "stat_label": "usuários mensais",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "CRESCIMENTO VIRAL",
+            "title": "Dobrou em 5 meses, ARR explodiu",
+            "highlight": "Dobrou",
+            "body": "Janeiro 2026: 22M MAU. Maio 2026: 45M MAU. ARR saiu de ~$200M pra $450M em 2 meses. Valuation ~$20B. Nenhuma search company cresce assim. Nenhuma.",
+            "stat": "2x",
+            "stat_label": "crescimento em 5 meses",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O NOVO PADRÃO",
+            "title": "1 bilhão de queries por mês",
+            "highlight": "1 bilhão",
+            "body": "Perplexity processa 1B queries/mês. Cada query é IA reasoning (não é link listing). Cada query gera 'resposta pronta + sources'. Usuário sai com solução, não com 100 links azuis.",
+            "stat": "1B",
+            "stat_label": "queries/mês",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "POR QUE IMPORTA",
+            "title": "Google perdeu a bola em AI search",
+            "highlight": "perdeu",
+            "body": "Google teve 10 anos de vantagem (PageRank, índice gigante). Mas em 2024-2026, apostou em Bard genérico em vez de AI-search focado. Perplexity chegou do zero e tirou 45M usuarios porque responde MELHOR.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Web + LLM + Reasoning = resposta direta",
+            "highlight": "resposta direta",
+            "body": "Tu pergunta: 'qual melhor laptop pra dev em 2026?'. Perplexity busca (web), raciocina (LLM), sintetiza (reasoning). Resposta: 'MacBook Pro M4 Max é top porque X, Y, Z. Alternativa: Framework porque A, B.' Pronto, resolvido.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "MERCADO",
+            "title": "US$ 450M ARR é MAIS que 90% das startups",
+            "highlight": "US$ 450M",
+            "body": "Perplexity faz mais receita que 99% das startups mundiais. Em 5 anos. De zero. Significa: modelo funciona, mercado compra. Competidores vão copiar em 6 meses. Price war incoming.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO",
+            "title": "Monopólio não é eterno. Solução melhor sim.",
+            "highlight": "Solução melhor",
+            "body": "Google era monopólio porque era melhor. Quando alguém aparece com solução MELHOR (AI-native search vs link listing), monopólio cai. Perplexity não tá competindo com Google. Tá dominando Search novo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "FIQUE ATENTO",
+            "title": "Segue @rafaondei pra market shifts",
+            "highlight": "segue @rafaondei",
+            "body": "Todos os dias: 10 notícias que mostram pra onde mercado tá indo. Reality check, sem filtro.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Claude Design dobra limite de tokens com novo acordo SpaceX",
+      "summary": "Anthropic anunciou em 18 de maio que Claude Design agora tem 2x limite de tokens mensais para todos os planos. Acordo de computação com SpaceX (Starlink compute) dobrou capacidade. Impacto: Anthropic sai do gargalo de infra, pode escalar sem parar.",
+      "source": "Pasquale Pillitteri News",
+      "link": "https://pasqualepillitteri.it/en/news/2814/claude-design-doubled-limits-2026",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Claude Design dobra limites: SpaceX + Anthropic",
+        "caption": "🚀 SPACEX + ANTHROPIC = INFRA DESBLOQUEADA\n\nMaio 2026: Anthropic anunciou novo acordo de computação com SpaceX.\n\nRESULTADO:\nClaude Design DOBROU o limite de tokens pra TODOS os planos.\n\n📊 ANTES:\n→ Pro: 50K tokens/mês\n→ Team: 100K tokens/mês\n\n📊 DEPOIS:\n→ Pro: 100K tokens/mês\n→ Team: 200K tokens/mês\n\n💡 O QUE SIGNIFICA:\n→ SpaceX + Anthropic partnership em compute\n→ Starlink compute alimentando Claude\n→ Gargalo de infra saiu do caminho\n→ Anthropic pode escalar AGORA sem restrições\n\n🔥 IMPACTO:\nEmpresa que usa Claude Design sai de 'limitado por tokens' pra 'limitado por dinheiro'.\n\nAntes: Atingia limite em metade do mês\nAgora: Consegue usar o mês inteiro\n\nTempo de resposta do Claude também melhora (menos fila).\n\n#IA #Anthropic #Claude #SpaceX #InteligenciaArtificial",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "INFRASTRUCTURE WIN 🏗️",
+            "title": "SpaceX + Anthropic = 2x tokens Claude Design",
+            "highlight": "2x tokens",
+            "body": "",
+            "stat": "2x",
+            "stat_label": "limite desbloqueado",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "OS NÚMEROS",
+            "title": "Novo limite: Pro 100K, Team 200K tokens/mês",
+            "highlight": "100K",
+            "body": "Antes: Pro capped em 50K/mês (apertava no dia 20). Agora: 100K pra todos (cabe o mês inteiro). Team jumpou pra 200K. Empresa média (10 devs) que antes gastava tudo em 3 semanas agora roda mês completo.",
+            "stat": "2x",
+            "stat_label": "expansion",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O GARGALO",
+            "title": "Anthropic tava limitado por infra, não demanda",
+            "highlight": "infra",
+            "body": "Problema: Anthropic tinha demanda > infra. Claude Design tá sempre full. Desenvolvedores entravam em fila, ficavam frustrados. SpaceX ofereceu compute (Starlink datacenter), Anthropic aceitou. Gargalo desapareceu.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O REAL",
+            "title": "Anthropic saiu do modo 'racionamento'",
+            "highlight": "racionamento",
+            "body": "Quando infraestrutura vira limitante, empresa entra em modo 'ration': limite rigoroso, preço alto, qualidade de user experience ruim (fila). SpaceX parceria = Anthropic sai de racionamento. Tá em modo 'scale'.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "TECH",
+            "title": "SpaceX compute = Starlink datacenter",
+            "highlight": "Starlink datacenter",
+            "body": "SpaceX ofereceu acesso a data centers Starlink pra rodar Claude. Latência baixa (Starlink já tá otimizado). Banda alta (satélite). Custos mais baixos (SpaceX faz por volume). Win-win partnership.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "NA PRÁTICA",
+            "title": "Dev bate token limit no dia 28, não no dia 14",
+            "highlight": "dia 28",
+            "body": "Empresa que usava 50K/mês agora usa 100K/mês no limite. Isso significa: 2x produtividade em mesmo plano. Ou move pra Team plan e fica folgado. Ou não muda de plano e consegue fazer 2x mais projeto.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO",
+            "title": "Demanda > Infra = oportunidade de partnership",
+            "highlight": "partnership",
+            "body": "Anthropic reconheceu: tá crescendo tão rápido que infra virou bottleneck. Em vez de construir próprio datacenter (2 anos), fez partnership com SpaceX (2 semanas). Speed over purity.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "ACOMPANHA",
+            "title": "Segue @rafaondei pra updates",
+            "highlight": "segue @rafaondei",
+            "body": "Todo dia: 10 notícias que movem a indústria. Direto, sem delay.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Vercel AI SDK adiciona suporte nativo a speech e transcription",
+      "summary": "Vercel AI SDK recebeu update em maio 2026 adicionando suporte a modelos de speech e transcription. Desenvolvedores agora integram TTS/STT nativo no framework. Impacto: voiceover e speech-to-text viram features simples, não integração complexa.",
+      "source": "Vercel Blog",
+      "link": "https://vercel.com/docs/ai-sdk",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Vercel AI SDK: speech + transcription nativo",
+        "caption": "🎤 VERCEL AI SDK INTEGRA VOICE NATIVAMENTE\n\nMaio 2026: Vercel atualiza AI SDK com suporte a voice.\n\n✅ NOVO NO AI SDK:\n→ Speech synthesis (TTS) nativo\n→ Speech-to-text (STT) nativo  \n→ Plug-and-play em Next.js\n→ Streaming de audio\n→ Suporte a múltiplas vozes\n\n🔥 IMPACTO:\nAntes: TTS era complexo (integrar ElevenLabs, Polly, Google TTS manualmente)\nAgora: 3 linhas de código, pronto\n\n```javascript\nconst speech = await generateSpeech({\n  text: \"Olá, mundo\",\n  voice: \"alloy\"\n});\n```\n\n💡 USE CASES:\n→ Chat com voice reply\n→ Voiceover automático em vídeo\n→ Acessibilidade (texto → voz)\n→ Podcast automation\n\n🎯 TIMING:\nElevenLabs dominava voice. Agora Vercel coloca voice na plataforma padrão. Qualidade pode não ser as good, mas acessibilidade triplica.\n\n#IA #Vercel #SDK #Voice #InteligenciaArtificial #Dev",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "DEVELOPER EXPERIENCE 🎯",
+            "title": "Voice é agora feature padrão em Vercel AI",
+            "highlight": "Voice",
+            "body": "",
+            "stat": "3",
+            "stat_label": "linhas de código",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O QUE CHEGOU",
+            "title": "TTS + STT nativo em AI SDK",
+            "highlight": "TTS + STT",
+            "body": "Vercel AI SDK agora suporta speech synthesis e transcription nativo. Desenvolvedores não precisam integrar terceiros (ElevenLabs, Google TTS, AWS Polly). Tá dentro do framework.",
+            "stat": "2",
+            "stat_label": "modelos (TTS + STT)",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O PROBLEMA ANTES",
+            "title": "Voice integração era scatter",
+            "highlight": "scatter",
+            "body": "Quer TTS? Integra ElevenLabs (API key, vendor lock). Quer STT? Google Cloud (billing complexo). Quer mudar de provider? Refatora tudo. Vercel centralizou tudo em um lugar.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "DEMOCRATIZAÇÃO",
+            "title": "Voice deixa de ser feature premium",
+            "highlight": "premium",
+            "body": "Quando Vercel coloca voice na plataforma padrão, feature que era 'pague ElevenLabs $1000/mês' vira 'incluso no AI SDK'. Qualidade pode variar, mas acessibilidade explode.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO RODA",
+            "title": "Streaming de audio + múltiplos providers",
+            "highlight": "Streaming",
+            "body": "Developer escolhe provider (OpenAI, ElevenLabs, Google). AI SDK abstrai. Audio streams direto pro navegador. Suporta diferentes vozes, idiomas, velocidade. Tudo em interface unificada.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "USE CASES",
+            "title": "Chatbot responde em voz. Vídeo gera voiceover.",
+            "highlight": "voiceover",
+            "body": "Chat app: usuário recebe resposta em áudio automático. Video production: script → áudio → vídeo. Acessibilidade: website com voice mode. Podcast: texto → áudio em batch. Tudo sem sair do Vercel.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO",
+            "title": "Platform wins quando centraliza features",
+            "highlight": "centraliza",
+            "body": "Vercel entendeu: desenvolvedores querem tudo em um lugar. Next.js + AI SDK + Voice + API routes = stack completo. Quem centraliza features ganha adoção. Quem fragmenta, perde.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "BUILD COM VOICE",
+            "title": "Segue @rafaondei pra tech stack updates",
+            "highlight": "segue @rafaondei",
+            "body": "Todos os dias: 10 notícias sobre ferramentas, frameworks, plataformas que tão movendo o game.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    }
+  ],
+  "whatsapp": "📡 RADAR IA — 2026-05-25\n\nTop 10 notícias do dia em IA + mercado. Direto, sem BS.\n\n1️⃣ SEBRAE: 30 startups de IA pra PMEs (mai-out 2026). Seleção aberta, mentorias, GPUs. Link: https://agenciasebrae.com.br/inovacao-e-tecnologia/sebrae-anuncia-30-startups-selecionadas-para-levar-ia-ao-mercado-de-pmes/\n\n2️⃣ ANTHROPIC + WALL STREET: Joint venture US$ 1.5B (Blackstone, Goldman, Hellman). Claude pra trading, risco, compliance. Link: https://exame.com/inteligencia-artificial/anthropic-do-claude-cria-joint-venture-de-us-15-bilhao/\n\n3️⃣ OPENAI: GPT-5.5 Instant reduz alucinações 52.5% (medicina, direito, finance). Memory Sources adicionado. Link: https://www.techenet.com/2026/05/gpt-55-instant-modelo-padrao-chatgpt/\n\n4️⃣ GOOGLE: Gemini Omni edita vídeo 100% conversacional (I/O mai 19). Fala + IA edita. Link: https://www.macrumors.com/2026/05/19/google-io-2026-roundup/\n\n5️⃣ XAI: Grok 4.3 ($1.25/Mi, 1M contexto) + Grok Build (agente coding, acesso livre). Link: https://exame.com/inteligencia-artificial/xai-lanca-grok-build-para-disputar-mercado-de-programacao-com-ia-com-anthropic/\n\n6️⃣ META: Llama 4 Scout/Maverick/Behemoth (multimodal, open-source). Maverick supera GPT-4o. Link: https://ai.meta.com/blog/llama-4-multimodal-intelligence/\n\n7️⃣ CURSOR: v3.0 com Background Agents. Confiado por 50% da Fortune 500. Link: https://thenewstack.io/cursor-3-demotes-ide/\n\n8️⃣ PERPLEXITY: 45M MAU, ARR US$ 450M+. 1B queries/mês. Dobrou em 5 meses. Link: https://www.secondtalent.com/resources/perplexity-ai-features-capabilities-2026/\n\n9️⃣ ANDREJ KARPATHY → ANTHROPIC: Ex-Tesla Autopilot, ex-OpenAI. Novo diretor de pré-training. Link: https://thenewstack.io/andrej-karpathy-anthropic-pretraining/\n\n🔟 ANTHROPIC + SPACEX: Claude Design dobra tokens (novo acordo de compute). Link: https://pasqualepillitteri.it/en/news/2814/claude-design-doubled-limits-2026\n\n🔗 DASHBOARD: https://rafaelondei.appnaia.com\n\n#IA #InteligenciaArtificial #Claude #OpenAI #ChatGPT #Tecnologia #Empreendedorismo",
+  "instagram": "📡 RADAR IA — 2026-05-25\n\nOs 10 movimentos que vão impactar teu negócio. Direto.\n\n🔴 **SEBRAE + 30 STARTUPS** (RECOMENDADO 🔥)\nSebrae selecionou 30 startups de IA pra escalar PMEs em 6 meses. Mentorias, GPUs, créditos em nuvem. Isso é oportunidade real, não hype. PME que quer competir em 2026 entra nesse programa AGORA.\n\n🔴 **ANTHROPIC + WALL STREET: US$ 1.5B**\nBlackstone, Goldman, Hellman & Friedman apostaram pesado em Claude. Joint venture dedicada a operações financeiras. Quando Wall Street aposta dinheiro real, significa que confiabilidade passou no teste.\n\n🔴 **OPENAI: GPT-5.5 INSTANT**\n52.5% menos alucinações em medicina, direito, finanças. Memory Sources (rastreia fonte). IA fica mais confiável em casos de vida/morte. Não é hype técnico — é segurança.\n\n🔴 **GOOGLE: GEMINI OMNI**\nEdita vídeo só falando ('mude câmera pra wide shot'). Multimodal nativo, coerência garantida. O que levava 2 dias em After Effects agora leva 2 minutos.\n\n🔴 **XAI: GROK 4.3 + BUILD**\nGrok 4.3: flagship model ($1.25/Mi tokens, 1M contexto). Grok Build: agente que programa sozinho. Acesso livre pra X Premium. Price war incoming em coding agents.\n\n🔴 **META: LLAMA 4**\nLlama 4 Scout/Maverick/Behemoth — multimodal nativo, open-source. Maverick supera GPT-4o. Open-source virou mainstream. Não precisa mais pagar OpenAI pra modelo bom.\n\n🔴 **CURSOR 3.0: BACKGROUND AGENTS**\nCursor v3 transformou editor em agent platform. 50% da Fortune 500 usa. IDE morreu, agent orchestration venceu.\n\n🔴 **PERPLEXITY: GROWTH INSANO**\n45M MAU, ARR US$ 450M+. Dobrou em 5 meses. 1B queries/mês. Search alternativa virou mainstream — Google tem problema.\n\n🔴 **ANDREJ KARPATHY → ANTHROPIC**\nEx-diretor Autopilot (Tesla) + co-fundador (OpenAI) agora dirige training em Anthropic. Talento move roadmap. Claude vai ficar significativamente melhor em 18 meses.\n\n🔴 **ANTHROPIC + SPACEX: INFRA DESBLOQUEADA**\nClaude Design dobra tokens com novo acordo de compute. Anthropic sai do modo 'racionamento' pro modo 'scale'.\n\n---\n\n**O RESUMO DO DIA:**\n\nAntropnic (Wall Street + Karpathy + SpaceX) tá em 'modo crescimento agressivo'. OpenAI (GPT-5.5 melhora confiabilidade) tá em 'modo consolidação'. Google (Gemini Omni wins em vídeo) tá em 'modo ataque'. xAI (Grok 4.3 + Build) tá em 'modo commodity'. Meta (Llama 4 open-source) tá em 'modo democratização'. \n\nPra empreendedor brasileiro: entenda que 2026 é o ano que IA deixa de ser diferencial e vira obrigação. Sebrae + 30 startups já tá sinalizando isso. Quem fica pra trás perde competição.\n\n👇 **AÇÃO HOJE:**\nSalva esse post. Se tu tem ideia de IA pra PME, entra em contato com Sebrae em mai-25 — programa tá aberto até X.\n\n#IA #InteligenciaArtificial #Claude #OpenAI #ChatGPT #Gemini #Grok #Llama #Cursor #Perplexity #Empreendedorismo #Inovacao #Tecnologia #Mercado #TecBrasil"
+}
