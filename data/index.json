@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-05-19T07:00:01-03:00",
+  "updated_at": "2026-05-25T07:00:01-03:00",
   "executions": [
+    {
+      "date": "2026-05-25",
+      "key": "2026-05-25",
+      "topic": "mercado de IA",
+      "summary": "Sebrae + 30 startups; Anthropic Wall Street $1.5B; GPT-5.5 -52.5% alucinações; Gemini Omni edição vídeo; Grok 4.3+Build 2M tokens; Llama 4 multimodal open; Cursor 3.0 50% Fortune 500; Perplexity $450M ARR 45M MAU; Andrej Karpathy joins Anthropic; Claude Design 2x tokens",
+      "items_count": 10
+    },
     {
       "date": "2026-05-23",
       "key": "2026-05-23",
