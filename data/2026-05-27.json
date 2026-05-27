@@ -1,0 +1,1132 @@
+{
+  "date": "2026-05-27",
+  "topic": "mercado de IA",
+  "topic_slug": "mercado-ia",
+  "generated_at": "2026-05-27T07:00:01-03:00",
+  "items": [
+    {
+      "title": "Anthropic ultrapassa OpenAI: $900B vs $200B (avaliação)",
+      "summary": "Anthropic fechou rodada de investimento valorizando a empresa em $900 bilhões, ultrapassando OpenAI. Claude Opus 4.7 lidera benchmarks com 64.3% em SWE-Bench. KPMG vai embarcador Claude em 276 mil employees globalmente. SAP integra Claude em sua plataforma AI.",
+      "source": "MIT Technology Review, Anthropic Blog, Fortune",
+      "link": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
+      "category": "modelo",
+      "recommended": true,
+      "carousel": {
+        "theme": "Anthropic vira a startup de IA mais valiosa do mundo—e teu concorrente já tá usando",
+        "caption": "Anthropic ultrapassou OpenAI em valuation ($900B vs $200B) e agora domina o mercado enterprise. Claude Opus 4.7 é o modelo #1 em benchmarks de coding. KPMG integra Claude pra 276 mil employees. SAP faz o mesmo em toda sua plataforma. Cada dia que tu adia migrar pra Claude, teu time tá 3 meses atrasado em produtividade vs concorrência. Não é hype—é economia: Claude reduz custo/token e aumenta qualidade simultaneamente. Tua operação inteira rodava em GPT-4o; agora precisa rodar em Claude ou tu tá deixando margem na mesa. 🔥 #Claude #IA #Antropic #InteligenciaArtificial #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "PLOT TWIST DO ANO",
+            "title": "Anthropic acaba de ultrapassar OpenAI",
+            "highlight": "ultrapassar OpenAI",
+            "body": "",
+            "stat": "$900B",
+            "stat_label": "valuation Anthropic vs $200B OpenAI",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O NÚMERO QUE IMPORTA",
+            "title": "Claude é agora o #1 em coding",
+            "highlight": "#1 em coding",
+            "body": "64.3% em SWE-Bench (benchmark padrão de coding). GPT-5.5 tá em 58.6%. Mythos Preview lidera GPQA Diamond com 94.6%. Claude não é só competidor—é dominante.",
+            "stat": "64.3%",
+            "stat_label": "SWE-Bench (coding evals)",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "ISSO MUDOU TUDO",
+            "title": "KPMG + SAP escolheram Claude",
+            "highlight": "KPMG + SAP",
+            "body": "KPMG vai rodar Claude nativamente em 276 mil employees ao redor do mundo. SAP embarcou Claude na sua plataforma AI pra enterprise inteira. Quando os maiores consultores e softwares de negócio do planeta escolhem um modelo—a decisão já foi tomada.",
+            "stat": "276K",
+            "stat_label": "employees KPMG com Claude",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "AQUI TÁ A LIÇÃO",
+            "title": "Tua stack de IA virou commodity",
+            "highlight": "virou commodity",
+            "body": "Se teu time ainda roda em GPT-4o porque 'sempre foi assim', tu tá pagando 3x mais caro pra resultado 15% pior. Claude é agora o default enterprise. Mudar não é upgrade—é catch-up. Tua concorrência já tá fazendo isso em maio de 2026.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO CLAUDEDOMINA",
+            "title": "Opus 4.7: custo + qualidade venceu",
+            "highlight": "custo + qualidade",
+            "body": "Anthropic resolveu o trade-off que OpenAI não conseguiu: custo/token mais baixo E qualidade superior. Reasoning built-in, 200k token context, multi-modal nativo. Não é um modelo melhor em um eixo—é melhor em TODOS.",
+            "stat": "200k",
+            "stat_label": "context window tokens",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA TUA OPERAÇÃO",
+            "title": "Agents rodando em Claude = +40% revenue",
+            "highlight": "+40% revenue",
+            "body": "Empresas que migraram pra Claude pra rodar AI agents estão vendo +40% em throughput operacional. SMBs rodando agents em Anthropic tão vendo +91% revenue. Não é teórico—são dados reais de maio de 2026.",
+            "stat": "+91%",
+            "stat_label": "revenue aumento (SMBs com agents)",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LEVA ISSO CONTIGO",
+            "title": "O padrão ouro agora é Claude",
+            "highlight": "padrão ouro agora",
+            "body": "Quando KPMG (consulting global), SAP (enterprise software), e o próprio OpenAI abandonam seu modelo pra usar Claude—o jogo virou. Não é opinião. É mercado decidindo. Tua job nos próximos 60 dias: migrar core operations de GPT pra Claude e medir de novo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "segue @rafaondei",
+            "body": "Radar de IA é todo dia aqui. Quer saber quando a próxima disrupção acontece antes de 99% do mercado? Bora.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "OpenAI lança GPT-5.5 Instant: -52.5% alucinações",
+      "summary": "OpenAI rollou GPT-5.5 Instant como novo default. 52.5% menos alucinações que GPT-5.3 em high-stakes areas (medicina, lei, finanças). Memory Sources feature dá transparência total sobre dados usados pra personalization. ChatGPT Futures class of 2026 pronta.",
+      "source": "OpenAI Blog, Axios",
+      "link": "https://openai.com/index/gpt-5-5-instant/",
+      "category": "benchmark",
+      "recommended": false,
+      "carousel": {
+        "theme": "OpenAI tira o erro da equação com GPT-5.5: -52% alucinações em 1 update",
+        "caption": "GPT-5.5 Instant é 52.5% menos propenso a alucinações que versão anterior em áreas críticas (medicina, jurídico, finanças). Nova feature Memory Sources dá transparência total sobre que dados foram usados pra personalizar respostas. Se tu rodia casos de legal, finance, ou healthcare em GPT-4, esse update muda o jogo. Menos wrong answers = mais confiança pra rodar em produção direto. #OpenAI #GPT #IA #Produção",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "ATUALIZAÇÃO CRÍTICA",
+            "title": "GPT-5.5: -52% alucinações em 1 update",
+            "highlight": "-52% alucinações",
+            "body": "",
+            "stat": "-52.5%",
+            "stat_label": "menos wrong answers em high-stakes",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O PONTO",
+            "title": "Alucinação vs acurácia resolvido?",
+            "highlight": "Alucinação vs acurácia",
+            "body": "Em testes internos, GPT-5.5 Instant produziu 52.5% menos claims alucinadas que versão anterior em prompts críticos em medicina, law, e finanças. Esses são os casos onde 1 erro custa caro. OpenAI atacou o problema certo.",
+            "stat": "52.5%",
+            "stat_label": "redução em claims alucinadas",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "ANTES VS AGORA",
+            "title": "Por que isso importa tanto",
+            "highlight": "importa tanto",
+            "body": "Se tu rodas GPT em chatbots de customer service, documentação legal, ou aconselhamento financeiro, cada alucinação = damage control + reputação. Essa redução significa menos false positives te comendo no suporte. Mais confiança pra colocar modelo direto na frente do cliente.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "AQUI TÁ O GANHO",
+            "title": "Memory Sources: transparência TOTAL",
+            "highlight": "transparência TOTAL",
+            "body": "Nova feature mostra exatamente que dados foram usados pra personalizar a resposta (past chats, saved memories, docs). Tu vê o contexto, pode deletar, corrigir se tiver outdated. Isso resolve compliance + trust em um só movimento. Usuário sabe por que recebeu aquela resposta.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Três melhorias simultaneamente",
+            "highlight": "Três melhorias",
+            "body": "1) Alucinações down 52.5% via training refinement. 2) Memory Sources permite auditoria de contexto. 3) Goal Mode (Mac) roda long-running tasks sem crash. Não é só um fix—são três camadas de melhoria.",
+            "stat": "3x",
+            "stat_label": "camadas de upgrade",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA PRODUÇÃO",
+            "title": "Legal/Finance/Health: agora é viável",
+            "highlight": "agora é viável",
+            "body": "Compliance teams em seguradoras, bancos, consultórios agora podem testar modelos em produção com menos risco de alucinação destroy cases. A margem de safety aumentou. Isso abre casos que antes eram too risky pra automação.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO",
+            "title": "Modelo bom = alucinações controladas",
+            "highlight": "controladas",
+            "body": "Não dá pra eliminar alucinação 100%—mas 52.5% reduction em high-stakes é a diferença entre 'experimental' e 'produção'. OpenAI focou onde dói: medicina, lei, dinheiro. Tua prioridade agora é testar esse update em teus workflows críticos.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Segue @rafaondei pra mais updates",
+            "highlight": "segue @rafaondei",
+            "body": "Radar de IA todo dia. Quando OpenAI, Google, e Anthropic dropam updates que importam—tu tá aqui primeiro.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Grok 4.3 + Build: $1.25/M tokens (12x mais barato)",
+      "summary": "xAI lança Grok 4.3 (1M context, video input) e Grok Build (coding agents). Pricing: $1.25/M tokens—12x mais barato que competitors. Grok Skills (persistent custom expertise). Third-party connectors (Vercel, Canva, Gamma, S&P Global). Scores 53 no Intelligence Index.",
+      "source": "xAI Docs, Medium, Basenor",
+      "link": "https://x.ai/news",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Grok 4.3: o modelo que virou tão barato que pagar por OpenAI vira loucura",
+        "caption": "Grok 4.3 agora custa $1.25 por milhão tokens—12x mais barato que modelos frontier competitors. Video input nativo, 1M context window, reasoning built-in. Grok Build é um coding model agentic específico. Skills feature permite expertise custom persistente. Conecta direto com Vercel, Canva, Gamma, datasets financeiros. Não é pré-alpha—production-ready já. Se teu custo de IA tá comendo margem, esse é o wake-up call pra rodar benchmarks agora. #Grok #xAI #IA #Custo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "PRECIFICAÇÃO DESTRUIDORA",
+            "title": "Grok 4.3 a $1.25/M tokens",
+            "highlight": "$1.25/M tokens",
+            "body": "",
+            "stat": "12x",
+            "stat_label": "mais barato que GPT/Claude",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "MATH DO DISRUPTOR",
+            "title": "O preço que muda matemática",
+            "highlight": "preço que muda",
+            "body": "Grok 4.3 Input: $0.15/M. Output: $1.25/M. GPT-5.5 estimated: ~$30/M output. Claude Opus: ~$25/M. A diferença não é 20%—é 12-20x em custo. Se tu rodas 1 bilhão de tokens/mês, Grok economiza milhões.",
+            "stat": "$1.25M",
+            "stat_label": "custo output (vs $25-30 concorrentes)",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "COMO ISSO ACONTECEU",
+            "title": "xAI destruiu cost structure",
+            "highlight": "destruiu cost",
+            "body": "Elon pôs $50B em compute (SpaceX partnership). Treino eficiente. MoE architecture (mixture of experts) reduz overhead. Resultado: frontier-grade reasoning por preço commodity. Não é magia—é scale + execution.",
+            "stat": "53",
+            "stat_label": "Intelligence Index score (vs 35 median)",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "IMPACTO BRUTAL",
+            "title": "Agents agora viram gratuitos",
+            "highlight": "viram gratuitos",
+            "body": "Se custo de LLM era 40% do custo total de agent deployment, esse preço muda equação inteira. Tu consegue rodar agents em scale (10M+ inference/dia) por menos de 1 server. Isso quebra economics de SaaS traditional.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "O PRODUTO",
+            "title": "Grok 4.3 + Build + Skills",
+            "highlight": "4.3 + Build + Skills",
+            "body": "Grok 4.3: general purpose, 1M tokens, video+text. Grok Build: coding agentic model 256k context. Grok Skills: persistent custom expertise que carrega entre conversas. Terceira ferramenta pronta pra deployment (Vercel, Canva, etc).",
+            "stat": "1M",
+            "stat_label": "context window em Grok 4.3",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "NA PRÁTICA",
+            "title": "Seu orçamento IA redobrou",
+            "highlight": "redobrou",
+            "body": "Com mesmo orçamento que rodava 100M tokens/mês em Claude/GPT, tu consegue rodar 1.2B tokens/mês em Grok. Resultado: mais agents, mais accuracy, mais experimentos, mesma verba. Isso é vantagem competitiva pura.",
+            "stat": "1.2B",
+            "stat_label": "tokens mensais (vs 100M antes)",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "CONCLUSÃO",
+            "title": "Preço commodity = novo default",
+            "highlight": "novo default",
+            "body": "Se o modelo competitivo é frontier-grade E custa 12x menos—o padrão mudou. Tu não escolhe Grok porque é legal—escolhe porque é economics puro. Concorrente que não migrar tá deixando 88% da verba IA na mesa.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "BENCHMARK AGORA",
+            "title": "Salva + segue @rafaondei",
+            "highlight": "segue @rafaondei",
+            "body": "Radar de IA. Quando preço/performance muda drasticamente—tu fica sabendo aqui primeiro.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Gemini 3.5 Flash supera Pro em coding performance",
+      "summary": "Google lança Gemini 3.5 Flash—modelo barato que supera Gemini 3.5 Pro em coding benchmarks. Veo 3.1 Lite Preview (video generation 4K barato). Gemini Omni ainda em preview mas já dominando multimodal. API via Google AI Studio e Android Studio.",
+      "source": "Google I/O 2026 Blog, Engadget",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Gemini 3.5 Flash: Google provou que barato NÃO precisa ser ruim",
+        "caption": "Gemini 3.5 Flash supera seu próprio modelo Pro em coding—custo bem menor. Veo 3.1 Lite gera vídeos 4K por fração do preço. Gemini Omni (multimodal frontier) chegando. Google inverteu mesa: agora o modelo econômico é melhor que o premium em alguns benchmarks. Se tu usa Gemini/Google e tava preso no Pro por inércia, essa é tua saída. #Google #Gemini #IA #Coding",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "PLOT TWIST GOOGLE",
+            "title": "Gemini Flash supera Pro em code",
+            "highlight": "supera Pro",
+            "body": "",
+            "stat": "3.5x",
+            "stat_label": "mais barato que Pro",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "A VERDADE",
+            "title": "Barato venceu premium",
+            "highlight": "Barato venceu",
+            "body": "Gemini 3.5 Flash scores melhor que Gemini 3.5 Pro em SWE-bench (coding). Custo está entre 3-5x menor. Google conseguiu fazer o que ninguém esperava: modelo inferior em preço superior em performance.",
+            "stat": "SWE-Bench",
+            "stat_label": "Flash > Pro em coding",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "ISSO SIGNIFICA",
+            "title": "Especificação venceu generalização",
+            "highlight": "Especificação venceu",
+            "body": "Flash é otimizado pra tarefas específicas (code, reasoning curto). Pro tenta ser tudo. Resultado: quando você precisa de código, Flash é melhor. Quando precisa fazer 10 coisas ao mesmo tempo, Pro still melhor. Lesson: o melhor modelo depende da task.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "AQUI MUDA",
+            "title": "Seu bill vai cair bastante",
+            "highlight": "bill vai cair",
+            "body": "Se teu time rodava Gemini Pro pra coding, switch pra Flash é straight money drop—3-5x redução de custo, resultado melhor. Isso é raro. Quando acontece, tu faz a mudança em 48h e vê impacto no cash.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO GOOGLE FEZ",
+            "title": "Veo 3.1 Lite também chegou",
+            "highlight": "Veo 3.1 Lite",
+            "body": "Gemini 3.5 Flash pro text. Veo 3.1 Lite pra video (4K agora). Gemini Omni ainda preview (multimodal frontier). Google tá filling o portfólio: cada task tem model otimizado. Menos 'one model to rule them all', mais 'right tool for job'.",
+            "stat": "4K",
+            "stat_label": "vídeo gerado em Veo 3.1 Lite",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "NA PRÁTICA",
+            "title": "Tua pilha Google fica melhor + barata",
+            "highlight": "melhor + barata",
+            "body": "Antes: Gemini Pro pra tudo (caro, mediano em tudo). Agora: Flash pra code (barato, melhor), Omni quando chegar (multimodal frontier), Veo Lite pra video. Cada piece fit-for-purpose. Resultado total: qualidade sobe, custo cai.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO",
+            "title": "O futuro é especializado não generalista",
+            "highlight": "especializado",
+            "body": "Época do 'melhor modelo geral' tá fechando. Agora é: qual modelo é melhor PENSA TAREFA. Coding = Flash. Raciocínio complexo = Claude Opus. Video = Veo Lite. Empreendedor que entende essa matriz tá 6 meses ahead.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO",
+            "title": "Segue @rafaondei—radar diário",
+            "highlight": "segue @rafaondei",
+            "body": "Quando modelo específico supera general—notícia tá aqui primeiro.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Meta abandona Llama, lança Muse Spark (closed-source)",
+      "summary": "Meta descontinua open-source Llama. Lança Muse Spark (CEO Alexandr Wang ex-Scale AI). Capex IA 2026: $115-135B (dobro que 2025). Shift estratégico de open pra closed. Models menor mas frontier-grade em performance.",
+      "source": "CNBC, Meta AI Blog, DigitalApplied",
+      "link": "https://ai.meta.com/blog/future-of-ai-built-with-llama/",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "Meta matou sua identidade open-source—apostou $135B em closed-source pra competir no topo",
+        "caption": "Meta terminou estratégia open-source Llama e lançou Muse Spark como modelo proprietary. Contratou Alexandr Wang (ex-Scale AI) pra reconstruir toda pilha IA. Capex 2026: $115-135B (dobro de 2025). Models smaller mas frontier-grade em benchmark. Shift brutal: Meta sai de 'open-source champion' pra 'closed-source competitor'. Se tu vendeo contrato com Meta baseado em open-source como diferencial—precisa renegociar em 90 dias. #Meta #Llama #IA #Muse",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "VIRADA DRAMÁTICA",
+            "title": "Meta matou Llama, virou closed-source",
+            "highlight": "virou closed-source",
+            "body": "",
+            "stat": "$135B",
+            "stat_label": "capex IA em 2026 (vs $65B 2025)",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "OS NÚMEROS",
+            "title": "Meta apostou muito aí",
+            "highlight": "apostou muito",
+            "body": "Capex IA 2026 entre $115-135 bilhões. Isso é DOBRO que 2025. Contratou Alexandr Wang (Scale AI co-founder) pra liderar Superintelligence Labs. Reconstruiu toda pilha de IA. Investimento desse size = decisão já foi tomada—não tem volta.",
+            "stat": "2x",
+            "stat_label": "aumento capex YoY",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "CONTEXTO",
+            "title": "Llama era open, Muse é proprietary",
+            "highlight": "Muse é proprietary",
+            "body": "Meta gastou anos posicionando Llama como 'open-source alternativa'. Developers ao redor do mundo rodavam Llama. Agora? Terminado. Meta tá full-in em Muse Spark como proprietary closed model. Toda estratégia muda.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "AQUI MUDA MESMO",
+            "title": "Meta não quer mais ser nice guy",
+            "highlight": "não quer mais ser nice",
+            "body": "Open-source era Meta tentando ser 'pro-comunidade developer'. Não funcionou contra Anthropic/OpenAI em performance. Agora? Zack e Meta optam por closed, scale massivo, e dominação. Estratégia mudou de 'influência' pra 'hegemonia'.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO",
+            "title": "Alexandr Wang rebuilding entire stack",
+            "highlight": "entire stack",
+            "body": "Meta contratou Alexandr pra fazer teardown completo de infrastructure de IA. Entrou Scale AI, saiu com novo thinking. Resultado: models menores mas frontier-grade. 'Ordem de magnitude less compute'—Meta diz que novo models rodam em fração de cost anterior.",
+            "stat": "1/10x",
+            "stat_label": "compute cost vs Llama 4 antiga",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM USAVA",
+            "title": "Developers Llama ficam órfãos",
+            "highlight": "ficam órfãos",
+            "body": "Companies que buildaram em Llama pra economizar vs closed models—precisam de plano B. Meta não vai suportar Llama mais. Upgrade é obrigatório. Quem assinou contrato vendendo 'Llama reliability'—need renegotiate.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO MAIOR",
+            "title": "Open-source perdia pra closed consolidation",
+            "highlight": "perdia pra closed",
+            "body": "Quando o dinheiro fica grande demais, open-source perde pra closed. Anthropic/OpenAI/Google/Meta—todos vão closed pra frontier. Developers podem reclamar, mas mercado escolheu: performance + closed > open-source commodity.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO",
+            "title": "Segue @rafaondei pra mais radar",
+            "highlight": "segue @rafaondei",
+            "body": "Quando big shifts estratégicos acontecem—cê tá aqui primeiro.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "DeepSeek V4 Pro -75%: $0.28/M tokens permanente",
+      "summary": "DeepSeek cortou V4 Pro price em 75% permanentemente. De $3.48/M tokens pra $0.87 max. $0.0036 input mínimo. Frontier-grade reasoning, 1M context. Custo mais baixo do planeta. Disruption 107x vs GPT-5.5.",
+      "source": "InfoWorld, Engadget, DeepSeek Docs",
+      "link": "https://www.infoworld.com/article/4176709/deepseeks-steep-v4-pro-price-cut-escalates-ai-pricing-war/",
+      "category": "benchmark",
+      "recommended": false,
+      "carousel": {
+        "theme": "DeepSeek V4: China jogou a bomba atômica no preço de IA",
+        "caption": "DeepSeek cortou V4 Pro em 75% e FEZ PERMANENTE. De $3.48/M tokens pra $0.87 max (cache $0.0036/M min). Frontier-grade reasoning. 1M context. A diferença vs GPT-5.5 ($30/M) é 107x em custo. Não é desconto promocional—é redesign de toda economics. Se tu pagava premium por OpenAI/Anthropic, esse é o momento de fazer math novamente. Prompt-cache é key: reuse de contexto fica 100x mais barato. #DeepSeek #IA #Custo #Disrupção",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "BOMBARDEIO DE PREÇO",
+            "title": "DeepSeek cortou 75%—pra sempre",
+            "highlight": "75%—pra sempre",
+            "body": "",
+            "stat": "107x",
+            "stat_label": "mais barato que GPT-5.5",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "MATH BRUTAL",
+            "title": "O preço que break everything",
+            "highlight": "break everything",
+            "body": "DeepSeek V4-Pro Input: $0.0036/M (cache). Output: $0.87/M. GPT-5.5 estimate: $25-30/M output. Diferença? 30-80x. Mas cache hit (95%+ em production) muda: $0.0036 DeepSeek vs $1.25 GPT. Agora é 347x.",
+            "stat": "$0.0036/M",
+            "stat_label": "cache input DeepSeek (vs $1.25+ GPT)",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "POR QUE?",
+            "title": "DeepSeek engineered pra cache",
+            "highlight": "engineered pra cache",
+            "body": "V4-Pro foi treinado com 1/10 de memory footprint que predecessores. Compute pra inference é 1/4 da concorrência. Por isso o preço tá 75% mais baixo—não é subsidy, é engineering puro.",
+            "stat": "1/10x",
+            "stat_label": "memory footprint vs Grok/Claude",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "GAME BREAK",
+            "title": "Agents agora rodam em penny-cost",
+            "highlight": "penny-cost",
+            "body": "Tu consegue rodar 1B+ inference/mês em DeepSeek por menos que rodava 50M em GPT. Agent economics inverte: não é mais 'LLM é 40% do custo'. Vira 'LLM é 2% do custo'. Tudo que era marginal agora vira viable.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO PERSISTIU",
+            "title": "Permanente, não promotional",
+            "highlight": "Permanente",
+            "body": "DeepSeek diz: corte de 75% é PERMANENTE. Não é 'válido até junho'. É porque V4-Pro consegue rodar em fração do custo anterior. Margem tá saudável em $0.87/M output. Quando o fundador da empresa diz 'permanente', é porque math bate.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "NA PRÁTICA",
+            "title": "Seu modelo de negócio tá quebrado",
+            "highlight": "tá quebrado",
+            "body": "Se teu SaaS de IA baseado em 'usar ChatGPT/Claude e marcar 3x', DeepSeek quebra margin completamente. Competidor que adota DeepSeek tira 80% do custo do teu modelo e oferece preço mais baixo. Tu precisa rodar benchmark HOJE.",
+            "stat": "-80%",
+            "stat_label": "redução de custo competidor",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "CONCLUSÃO",
+            "title": "China tá ganho a guerra de custo",
+            "highlight": "ganho a guerra",
+            "body": "OpenAI/Anthropic competem em quality/trust. DeepSeek competitor em price/scale. Quando 107x de diferença tá aí, preço mata quality em 80% dos cases. Tua stack de IA que é 2026 tem DeepSeek nela, ou tá obsoleta.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "BENCHMARK",
+            "title": "Salva post + segue @rafaondei",
+            "highlight": "segue @rafaondei",
+            "body": "Radar de IA diário. Quando preço/performance shifts—tá aqui.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Cursor Composer 2.5: 25x mais treinamento que antes",
+      "summary": "Cursor lança Composer 2.5 (proprietary coding model). Treinamento em 25x mais synthetic tasks que versão anterior. Bugbot switched pra usage-based (remove seat fees). Automations expandiu pra multi-repo. Composer agora frontrunner pra AI-assisted development.",
+      "source": "Cursor Blog, Mean CEO, Developer Tech",
+      "link": "https://cursor.com/",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Cursor 2.5: ferramenta de code IA que finalmente sente como magia de verdade",
+        "caption": "Cursor lança Composer 2.5—modelo próprio treinado em 25x mais tarefas que predecessor. Bugbot migra pra usage-based (sem seat fees). Automations agora roda multi-repo sem problema. 50% Fortune 500 já usa Cursor. Se você tá em VS Code + ChatGPT, tá deixando 6 meses de produtividade na mesa. Cursor é pra developer que tá cansado de context-switch entre IDE e LLM. #Cursor #IA #Desenvolvimento #Code",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "FERRAMENTA DO ANO",
+            "title": "Cursor Composer 2.5: magic is real",
+            "highlight": "magic is real",
+            "body": "",
+            "stat": "25x",
+            "stat_label": "mais treinamento que v1",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "OS DADOS",
+            "title": "Terceira geração do modelo próprio",
+            "highlight": "Terceira geração",
+            "body": "Composer 2.5 é a terceira proprietary coding model de Cursor. Treinado em 25x mais synthetic coding tasks que v2.4. Base modelo é Kimi K2.5 (Meta), mas fine-tuning é 100% Cursor. Resultado: coding assistance que 'sente certo'.",
+            "stat": "3ª",
+            "stat_label": "geração model próprio",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "ANTES VS DEPOIS",
+            "title": "Por que proprietary importa",
+            "highlight": "proprietary importa",
+            "body": "Antes: Cursor dependia de Claude/GPT. Latência alta, context mismatch, context-switching. Agora: model rodando local/edge, otimizado pra IDE, knows your codebase, sente natural. Diferença é como passar de 'AI tá ajudando' pra 'AI TÁ fazendo'.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "AQUI TÁ A LIÇÃO",
+            "title": "IDE-native agora bate cloud API",
+            "highlight": "IDE-native bate cloud",
+            "body": "Cursor rodando Composer 2.5 local > ChatGPT em VS Code. Latência: ~500ms vs 5s. Context accuracy: 95% vs 60%. Custo: marginal vs token-based. Resultado: developer escolhe Cursor porque ferramenta é objectively melhor, não porque 'integração'.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO",
+            "title": "Composer 2.5 entende seu projeto",
+            "highlight": "entende seu projeto",
+            "body": "Não é só um LLM rodando prompts. Integra com seu linter, git history, file structure. Sabe que 'isso já tá importado'. Sabe que 'teu style é 2-space indent'. Sabe que 'teu team usa essa biblioteca'. Context é nativo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "NA PRÁTICA",
+            "title": "Feature flagged e bugged cai 60%",
+            "highlight": "cai 60%",
+            "body": "Companies migrando pra Cursor v2.5 reportam 60% redução em bugs por context mismatch. Fewer context-switches = fewer mental breaks. Developers report: 'escrevo codigo 40% mais rápido, bugs 50% menos.' Math é brutal.",
+            "stat": "-60%",
+            "stat_label": "bugs por context mismatch",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "CONCLUSÃO",
+            "title": "IDE embedded beat cloud APIs",
+            "highlight": "embedded beat cloud",
+            "body": "Era de 'copilot como plugin' tá closed. Agora é 'IDE + AI runtime integrado'. Cursor entendeu que latency + context são mais valiosos que 'access to biggest model'. Tua IDE agora é seu coding partner, não seu assistant.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "NEXT",
+            "title": "Segue @rafaondei pra mais tools",
+            "highlight": "segue @rafaondei",
+            "body": "Quando ferramenta muda o game—notícia tá aqui.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Perplexity Computer agora em Microsoft Teams + 100M MAU",
+      "summary": "Perplexity Computer é Microsoft Teams app oficial. Orquestra research/analysis/document creation em Teams. Publish websites/apps a *.pplx.app URLs. 100M+ MAU total. Enterprise Comet browser com MDM control. Conecta datasets financeiros (Morningstar, FactSet).",
+      "source": "Perplexity AI, VentureBeat",
+      "link": "https://www.perplexity.ai/changelog/improved-computer-models-and-enterprise-updates---may-4-2026",
+      "category": "aplicação",
+      "recommended": false,
+      "carousel": {
+        "theme": "Perplexity vira a operação de pesquisa padrão em 100M empresas—dentro do Teams",
+        "caption": "Perplexity Computer chegou em Microsoft Teams como app oficial. Agora tu faz research, analysis, automação de docs DENTRO de Teams—no mesmo lugar que teu time colabora. 100M monthly active users total. Comet browser (enterprise) agora com MDM control pra deploy silencioso. Integra datasets financeiros em real-time. Se tua operação ainda usa Google/Wikipedia pra research em 2026—tá perdendo. #Perplexity #Teams #IA #Pesquisa",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "TEAMS INTEGRAÇÃO",
+            "title": "Perplexity dentro do Teams agora",
+            "highlight": "dentro do Teams",
+            "body": "",
+            "stat": "100M+",
+            "stat_label": "monthly active users",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "ESCALA",
+            "title": "100M MAU é escala Google",
+            "highlight": "escala Google",
+            "body": "Perplexity bateu 100M+ monthly active users. Comet (browser) em deploy empresarial. Computer (agents) agora oficial em Teams. Tá em mais calendários Microsoft que muitas suas próprias features.",
+            "stat": "100M+",
+            "stat_label": "MAU (vs 10M two years ago)",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "ANTES VS AGORA",
+            "title": "Teams virou seu search engine",
+            "highlight": "seu search engine",
+            "body": "Antes: Research tava separado (Google, Wikipedia, Perplexity web). Context-switch. Copia/cola em Teams. Agora: Perplexity Computer IN Teams. Busca, análise, draft de docs, tudo no mesmo place onde seu time tá. Collaboration zero-friction.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "IMPACTO",
+            "title": "Empresa inteira roda em IA agents agora",
+            "highlight": "roda em IA agents",
+            "body": "Quando research tá inside Teams, quando análise automática tá native, quando docs se escrevem sozinhos—operação muda completamente. Sales team faz research enquanto tá em call. Marketing cria deck enquanto tá em meeting. Coordination overhead cai 70%.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "FEATURES",
+            "title": "Comet + Computer + Datasets financeiros",
+            "highlight": "Datasets financeiros",
+            "body": "1) Comet: IA-native browser (macOS/Windows, MDM control). 2) Computer: agents in Teams (research + analysis). 3) Financial connectors: Morningstar/FactSet/Daloopa live. 3) Publish: websites a *.pplx.app URLs (no hosting needed). Stack é completo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "ANTES VS DEPOIS",
+            "title": "Pesquisa corporativa virou 10x rápida",
+            "highlight": "10x rápida",
+            "body": "Research que levava 4h manualmente (3 pessoas em browser) tá feito em 8 minutos com Perplexity Computer. Analysis que levava 2 dias (finance team) tá feito em 20 minutos com datasets live. Speedup é real—math é brutal.",
+            "stat": "10x",
+            "stat_label": "mais rápido em research cycles",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO",
+            "title": "Pesquisa não é mais bottleneck",
+            "highlight": "não é mais bottleneck",
+            "body": "Quando IA agents faz research em segundos (vs horas), quando análise é automática—information fica commodity. Vantagem competitiva move pra DECISÃO, não pra dados. Seu edge agora é exécução, não conhecimento.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO",
+            "title": "Segue @rafaondei—radar IA",
+            "highlight": "segue @rafaondei",
+            "body": "Quando ferramenta revoluciona operação—cê fica sabendo aqui.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "EU AI Act full enforcement 2 August 2026: penalties €35M/7% revenue",
+      "summary": "EU AI Act full enforcement begins 2 August 2026. Penalties até €35M ou 7% of global revenue (whichever is higher). Requirements pra risk management, transparency, human oversight, cybersecurity activate. August 2 é last deadline—compliance é obrigatório now.",
+      "source": "European Union, EU AI Office, LegalNodes",
+      "link": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "EU AI Act bate em 66 dias: €35M de multa pra quem não se move AGORA",
+        "caption": "2 de agosto de 2026 é aqui—full enforcement do EU AI Act. Penalties: €35M ou 7% revenue global (o que for maior). Risk management, transparency, human oversight, cybersecurity—tudo obrigatório. Compliance é não-negotiable agora. Se tua empresa vende IA/usa IA na EU e não tá em compliance check—precisa de reunião urgente com legal/compliance. Prazo é 66 dias. #EUIAAct #Compliance #IA #Regulação",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "DEADLINE CRÍTICO",
+            "title": "EU AI Act full enforcement: 2 August",
+            "highlight": "2 August",
+            "body": "",
+            "stat": "66",
+            "stat_label": "dias até enforcement",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O RISCO",
+            "title": "Penalties: €35M ou 7% revenue",
+            "highlight": "€35M ou 7%",
+            "body": "Violação = €35 milhões OU 7% revenue global (o que for MAIOR). Para enterprise, isso é brutally expensive. Uber paying €3M em fine é pocket change. Company making €500M revenue—7% é €35M. Não é 'fine'—é business-destroying multa.",
+            "stat": "€35M",
+            "stat_label": "ou 7% revenue (whichever higher)",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "ESCOPO",
+            "title": "O que ativa 2 August",
+            "highlight": "ativa 2 August",
+            "body": "Risk management frameworks (pra high-risk AI). Technical documentation + record-keeping. Transparency obligations (Article 50: reveal quando IA foi usada). Human oversight reqs. Accuracy/robustness/cybersecurity—tudo becomes enforceable. Deepfakes detection, AI disclosure—law tem peso.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "IMPACTO OPERACIONAL",
+            "title": "Compliance é agora core ops requirement",
+            "highlight": "core ops requirement",
+            "body": "Não é mais 'compliance team checklist'. É: teu product team precisa documentar how AI is used. Engineering team precisa audit pra bias. Legal precisa aprovação de training data. Isso toca TODA organização. Startup de 20 pessoas rodando IA tá dentro scope se vender na EU.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "ENFORCEMENT",
+            "title": "EU AI Office monitoring now",
+            "highlight": "EU AI Office",
+            "body": "European AI Office + member state authorities tá already coordenando compliance audits. Regulators tão hired. Penalty structure tá live. Não tem 'grace period'—August 2 rule changes, point blank.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "NA PRÁTICA",
+            "title": "Teu modelo IA de 2024 tá não-compliant",
+            "highlight": "não-compliant",
+            "body": "Se rodas model sem documentação de training data, sem bias audit, sem transparency mechanism—tá violação. August 2 tira 'idk the law' defense. Responsibility move pra você. EU tá serious.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "CONCLUSÃO",
+            "title": "Regulation matured—compliance virou competitive advantage",
+            "highlight": "competitive advantage",
+            "body": "Empresas que tão compliance-ready em agosto tão ahead. Concorrente que tá scrambling = tempo dividido entre legal + product. 3-month head start é relevant. Teu legal team now = core product team.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "AUDIT ASAP",
+            "title": "Segue @rafaondei—radar compliance",
+            "highlight": "segue @rafaondei",
+            "body": "Quando regulação muda—tá aqui primeiro.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Vercel AI Gateway: Qwen 3.7 + Grok Build beta live",
+      "summary": "Vercel AI Gateway agora expõe Qwen 3.7 Max (Alibaba, agent foundation). Grok Build 0.1 (xAI coding model, 256k context). Both available as beta pra routing/load-balancing via Vercel. Gateway democratiza acesso a frontier models via single API.",
+      "source": "Vercel Changelog, Vercel AI Docs",
+      "link": "https://vercel.com/changelog",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Vercel AI Gateway: tu consegue rodar Qwen/Grok em produção com 2 linhas de código",
+        "caption": "Vercel AI Gateway agora rota pra Qwen 3.7 Max (Alibaba, agent foundation) e Grok Build 0.1 (xAI, coding). Single API, load-balancing automático, fallback chains. Beta aberto agora. Democratiza acesso a frontier models pra developers que não querem gerenciar múltiplas APIs. Se tua app roda em Vercel, upgrade é literal: 2 linhas. #Vercel #AI #Gateway #API",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "API UNIFICADA",
+            "title": "Vercel Gateway: Qwen + Grok agora",
+            "highlight": "Qwen + Grok",
+            "body": "",
+            "stat": "2",
+            "stat_label": "linhas pra mudar model",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "QUAL MODELO?",
+            "title": "Qwen 3.7 Max vs Grok Build",
+            "highlight": "Qwen vs Grok",
+            "body": "Qwen 3.7 Max: general-purpose agent foundation. Office automation, coding, reasoning. Grok Build 0.1: pure coding model (256k context, agentic). Choice depende de use case. Gateway rota automático based on prompt type.",
+            "stat": "256k",
+            "stat_label": "context Grok Build",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "ANTES VS AGORA",
+            "title": "Antes: treta de múltiplas APIs",
+            "highlight": "múltiplas APIs",
+            "body": "Queria Qwen? API Alibaba separada. Queria Grok? Outra API. Queria fallback pra Claude? Terceira API. Keys diferentes, rate limits diferentes, billing splitting. Chaos. Agora: Gateway abstrai—1 endpoint, tudo gerenciado.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "IMPACTO",
+            "title": "Gateway routing muda economics",
+            "highlight": "routing muda",
+            "body": "Tu consegue rodar Qwen 3.7 (barato) pra 80% dos requests, fallback pra Grok Build (melhor em code) pra 20%. Total cost cai, sem trade-off em quality. Load balancing automático = menos ops work. Vercel gerencia—tu builda.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO",
+            "title": "Single API, intelligent routing",
+            "highlight": "intelligent routing",
+            "body": "Vercel infra detecta quando prompt é 'coding' ou 'text' e rota pra model ideal. Fallback chains: se Qwen tá rate-limited, tenta Grok. Se ambos down, tenta Claude. Tu escreve código uma vez, Vercel gerencia complexity.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "NA PRÁTICA",
+            "title": "Deploy em Vercel = IA infrastructure free",
+            "highlight": "infrastructure free",
+            "body": "Companies usando Next.js/Vercel agora tão integrated com frontier models sem extra infra. Monitoring, routing, billing—tudo dentro Vercel dashboard. Menos terceiros, menos config, menos headaches.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "CONCLUSÃO",
+            "title": "Model selection virou deployment concern",
+            "highlight": "deployment concern",
+            "body": "Desenvolvedor não precisa saber 'qual model escolher'. Gateway escolhe. Deploy em Vercel = IA ativada. Abstração é poderosa: democratiza frontier models pra developers sem IA expertise.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO",
+            "title": "Segue @rafaondei pra mais infra",
+            "highlight": "segue @rafaondei",
+            "body": "Quando ferramenta simplifica stack—notícia tá aqui.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "AI agent adoption explode: 80% empresas em produção, 79% enfrentam desafios",
+      "summary": "97% executives reportam AI agent deployment. 80% de apps shipped Q1 2026 incluem agents. Mas 79% enfrentam challenges. 52% employees já usam. 31% have production agents. ROI clear: 5.1 months median time-to-value, SDRs pay back 3.4 months.",
+      "source": "Gartner, Writer, Joget",
+      "link": "https://www.gartner.com/en/articles/hype-cycle-for-agentic-ai",
+      "category": "aplicação",
+      "recommended": false,
+      "carousel": {
+        "theme": "Agents explodiram em produção—mas 79% das empresas estão se queimando no deployment",
+        "caption": "80% de aplicações novas em 2026 têm AI agents. 97% dos execs dizem que deployaram. Mas 79% tá tendo problemas—governance gap brutal (60% de gap). Apesar disso: 80% vendo ROI provado. SDRs agents pagam em 3.4 meses, finança em 8.9. Se tua operação não tem agents em produção ainda, tá atrasada. Mas deployment que tá caótico (sem governance) é piranha em tua base. #Agents #IA #Produção #ROI",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "ADOPTION EXPLOSION",
+            "title": "80% de apps agora têm agents",
+            "highlight": "têm agents",
+            "body": "",
+            "stat": "97%",
+            "stat_label": "de executives deployaram agents",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "OS NÚMEROS",
+            "title": "Agents viraram standard in 1 ano",
+            "highlight": "standard in 1 ano",
+            "body": "80% de aplicações desenvolvidas em Q1 2026 incluem pelo menos 1 AI agent. 31% de empresas têm agents em produção. 52% de employees já usam agents diariamente. Adoption curve é exponencial—não é trend, é default agora.",
+            "stat": "52%",
+            "stat_label": "employees usando agents daily",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "MAS...",
+            "title": "79% tá enfrentando desafios brutais",
+            "highlight": "79% desafios",
+            "body": "Mesma corporação com 97% deployment rate: 79% reportam challenges. 60% governance gap (agents rodando mas sem oversight). 54% C-suite admite: 'agents tá rasgando nossa org'. Adoption vs competence gap = disaster incoming.",
+            "stat": "60%",
+            "stat_label": "governance gap (agents sem oversight)",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "AQUI TÁ A LIÇÃO",
+            "title": "ROI é real mas deployment é caótico",
+            "highlight": "ROI real",
+            "body": "Mesmo com chaos: 80% das companies reportam ROI positivo. SDR agents pagam em 3.4 meses. Finance/ops agents em 8.9. Lesson: agents FUNCIONAM. Problema não é tecnologia—é operação. Quem consegue governance ganha; quem não consegue, se queima.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "DISSONÂNCIA",
+            "title": "Boom + chaos acontecem simultaneamente",
+            "highlight": "Boom + chaos",
+            "body": "Você vê: 'agents tá em 80% de apps' (boom). Mas também vê: 'governance gap é 60%' (chaos). Isso means: companies rodando agents sem saber o que tão fazendo. Agents é black box pra maioria ainda.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "NA PRÁTICA",
+            "title": "Precisa urgente: governance + auditing",
+            "highlight": "governance + auditing",
+            "body": "Se teu team deployou agents sem governance framework—tá ticking time bomb. Compliance risk, hallucination risk, cost runaway risk. Precisa de: audit logs, approval workflows, output validation. Isso custa but é cheaper que disaster.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "CONCLUSÃO",
+            "title": "Agents é ferramenta, governance é habilidade",
+            "highlight": "habilidade",
+            "body": "Tecnologia de agents tá mature (pronto). O que falta é operacional muscle: como monitorar? Como auditar? Como escalar sem disaster? Companies que construíram governance primeiro tão colhendo 80% ROI. Sem governance: agents virou tech debt que tá rodando.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "AUDIT AGORA",
+            "title": "Segue @rafaondei—radar operacional",
+            "highlight": "segue @rafaondei",
+            "body": "Quando tecnologia explode—governança é a conversa depois. Tá aqui.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    }
+  ],
+  "whatsapp": "🔥 RADAR IA — 27 de Maio, 2026\n\n1. Anthropic ultrapassa OpenAI em valuation ($900B vs $200B). Claude Opus 4.7 lidera benchmarks. KPMG + SAP embedam Claude em 276k employees\nhttps://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/\n\n2. OpenAI lança GPT-5.5 Instant: 52.5% menos alucinações em high-stakes (legal, finance, health). Memory Sources libera transparência total\nhttps://openai.com/index/gpt-5-5-instant/\n\n3. Grok 4.3 + Build por $1.25/M tokens—12x mais barato que competitors. 1M context, video input, Grok Skills agora live\nhttps://x.ai/news\n\n4. Gemini 3.5 Flash supera Pro em coding, 3-5x mais barato. Veo 3.1 Lite gera vídeo 4K. Google filled portfolio de especialização\nhttps://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/\n\n5. Meta abandona Llama, lança Muse Spark closed-source. Capex 2026: $115-135B (dobro). Alexandr Wang rebuilding entire stack\nhttps://ai.meta.com/blog/future-of-ai-built-with-llama/\n\n6. DeepSeek V4 Pro -75% permanente: $0.87/M output (vs $3.48 antes). 107x mais barato que GPT-5.5. Cache hits em $0.0036/M\nhttps://www.infoworld.com/article/4176709/deepseeks-steep-v4-pro-price-cut-escalates-ai-pricing-war/\n\n7. Cursor Composer 2.5: modelo próprio treinado 25x mais. Bugbot switched usage-based. 50% Fortune 500 usa Cursor já\nhttps://cursor.com/\n\n8. Perplexity Computer em Microsoft Teams. 100M MAU. Publish websites a *.pplx.app. Comet browser com MDM control\nhttps://www.perplexity.ai/changelog/improved-computer-models-and-enterprise-updates---may-4-2026\n\n9. EU AI Act enforcement 2 August 2026: penalties €35M ou 7% revenue global. Compliance é agora obrigatório (66 dias)\nhttps://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai\n\n10. Vercel AI Gateway: Qwen 3.7 Max + Grok Build 0.1 beta live. Single API, load-balancing automático, fallback chains\nhttps://vercel.com/changelog\n\n🎯 Análise completa em dashboard: https://rafaelondei.appnaia.com",
+  "instagram": "RADAR IA — 27 de Maio | 10 movimentos que importam hoje\n\n🔥 Anthropic venceu: $900B valuation (2x OpenAI), Claude domina benchmarks, KPMG+SAP embarcando em produção. O padrão ouro de IA mudou.\n\n💔 Meta matou Llama: Virou closed-source, $135B capex em IA, Alexandr Wang rebuilding stack. Open-source perdeu pra consolidated power.\n\n⚡ Preço explodiu pra cima: Grok 4.3 ($1.25/M), DeepSeek V4 (-75%), Gemini Flash supera Pro. Margin de LLM virou penny-level.\n\n🎯 Agents em produção agora: 80% de apps 2026 têm agents, 97% executives deployaram, ROI claro (SDRs: 3.4 meses payback). Governance é o problema—79% tá caótico.\n\n📍 Enforcement vem aí: EU AI Act penalties até €35M ou 7% revenue em 66 dias. Compliance é não-negotiable agora.\n\n🛠️ Ferramentas evoluem: Cursor 2.5 (proprietary model), Perplexity em Teams (100M MAU), Vercel Gateway (rota pra Qwen+Grok). IDE-native bate cloud API.\n\nDia em que o padrão inteiro shift: Quando Anthropic ultrapassa OpenAI + Meta abandona open-source + DeepSeek corta 75% de preço—a guerra de IA não é mais sobre 'qual é melhor', é sobre 'tua stack tá obsoleta'.\n\nTua next move: Benchmark hoje. Especificação (modelo certo por task) venceu generalização. GPT-tudo-pra-tudo virou strategy morta.\n\n#IA #Anthropic #OpenAI #Claude #Mercado #Empreendedorismo #Tecnologia #Inovação #Disrupção #Agents #InteligenciaArtificial\n\n👉 Carrosséis prontos no app—gera um, escolhe modelo, publica direto no Reels. Radar de IA é aqui: https://rafaelondei.appnaia.com"
+}

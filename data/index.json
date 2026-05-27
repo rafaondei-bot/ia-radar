@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-05-25T07:00:01-03:00",
+  "updated_at": "2026-05-27T07:00:01-03:00",
   "executions": [
+    {
+      "date": "2026-05-27",
+      "key": "2026-05-27",
+      "topic": "mercado de IA",
+      "summary": "Anthropic $900B+KPMG+SAP; Claude Mythos zero-days; GPT-5.5 -52.5% alucinações; DeepSeek -75%; Grok Build $300; Perplexity Computer +50% MRR; Cursor v3 multiparadigm; agents 79% adoção; Veo 3.1 vs Sora; regulação agosto",
+      "items_count": 10
+    },
     {
       "date": "2026-05-25",
       "key": "2026-05-25",
