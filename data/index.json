@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-05-27T07:00:01-03:00",
+  "updated_at": "2026-05-28T07:00:01-03:00",
   "executions": [
+    {
+      "date": "2026-05-28",
+      "key": "2026-05-28",
+      "topic": "mercado de IA",
+      "summary": "Claude Opus 4.7 Dreaming agents; Sora 2 relança com diálogo sincronizado; GPT-5.5 -52.5% alucinações; Google I/O Gemini Omni + Antigravity; Claude Mythos 94.6% GPQA; Grok Connectors native; Cursor 2.5 matches Opus; IA e-commerce boom; Vercel SDK 6 agents; Pricing war 2026",
+      "items_count": 10
+    },
     {
       "date": "2026-05-27",
       "key": "2026-05-27",

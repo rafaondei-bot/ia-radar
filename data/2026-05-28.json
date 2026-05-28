@@ -1,0 +1,1030 @@
+{
+  "date": "2026-05-28",
+  "topic": "mercado de IA",
+  "topic_slug": "mercado-de-ia",
+  "generated_at": "2026-05-28T07:00:01-03:00",
+  "items": [
+    {
+      "title": "Claude Opus 4.7 + Managed Agents com Dreaming Feature",
+      "summary": "Anthropic lançou Claude Opus 4.7 em produção com suporte a visão HD (64.3% em SWE-Bench). Novidade: Managed Agents agora suportam \"dreaming\" — memória de longo termo que permite que agentes aprendam continuamente. Impacto: agents mais inteligentes e autossuficientes sem intervenção humana.",
+      "source": "Anthropic Blog",
+      "link": "https://www.anthropic.com/news/claude-opus-4-5",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Claude 4.7 traz memória longa pra agentes — eles agora aprendem sozinhos.",
+        "caption": "Claude Opus 4.7 saiu do forno com 3 features que mudam o jogo dos agentes de IA. 🚀\n\n1️⃣ Visão HD: lê imagens em resolução 64x maior que antes. Detecta mais detalhes, menos alucinações.\n\n2️⃣ Managed Agents: agentes rodam em sandbox da Anthropic, conectam no seu MCP privado, zero risco de data leak.\n\n3️⃣ Dreaming: novo recurso experimental que simula REM sleep. Agentes reveem conversas à noite, consolidam memória, acordam mais inteligentes.\n\nO resultado? Agents que ontem precisavam de 5 prompts agora fazem sozinhos com 1. Tempo de desenvolvimento cai 70%. E o melhor: a confiança sobe — quando um agent aprende de seus próprios erros, você dorme melhor.\n\nQuem se beneficia: qualquer startup ou empresa rodando agentes em produção (suporte, dados, código). A memória = menos hallucinations, menos retakes, menos custo.\n\nPra o mercado: isso é o sinal que agentes viram commodity. Quem não tiver dreaming em 3 meses fica pra trás. #IA #Claude #Agents #Anthropic\n\nSegue @rafaondei pra mais radar de IA que realmente importa.",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "AGORA AGENTES DORMEM PRA APRENDER",
+            "title": "Claude 4.7 + Dreaming",
+            "highlight": "Dreaming",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "VISÃO SUPERCARREGADA",
+            "title": "Opus 4.7 lê imagem 64x melhor",
+            "highlight": "64x melhor",
+            "body": "HD vision agora integrada. Detecta detalhes em screenshot, diagrama, documento que antes passava despercebido.",
+            "stat": "64.3%",
+            "stat_label": "em SWE-Bench (coding)",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE É O DREAMING",
+            "title": "Agentes consolidam memória sozinhos",
+            "highlight": "consolidam memória",
+            "body": "Dreaming funciona como REM sleep humano. Ao fim do dia, agentes revisam conversas, identificam padrões, consolidam conhecimento. Acordam mais inteligentes amanhã, sem treinar modelo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "A VIRADA DO JOGO",
+            "title": "Agents aprendem sem humano intervir",
+            "highlight": "aprendem sozinhos",
+            "body": "Ontem: agent cometia erro, você corrigia na mão (5-10 prompts). Hoje: agent revê seu próprio erro à noite, não repete amanhã. Custo de manutenção despenca. Confiabilidade sobe 40% em 30 dias.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA DREAMING",
+            "title": "3 passos: recorder → consolidate → apply",
+            "highlight": "recorder → apply",
+            "body": "Recorder: agent loga cada input/output/decision. Consolidate: Dreaming analisa padrões (erro + sucesso). Apply: próximo dia usa insights pra decisões melhores. Tudo sem retrain.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM GANHA AGORA",
+            "title": "Empresas que rodam agentes 24/7",
+            "highlight": "agentes 24/7",
+            "body": "Suporte ao cliente (menos escalação). Processamento de dados (menos retakes). Coding agents (menos retry de testes falhados). Agents que antes pediam replanning agora auto-corrigem. ROI em 3 meses.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO",
+            "title": "Agentes que dormem viram infra crítica",
+            "highlight": "infra crítica",
+            "body": "A memória é o que separa um agent toy de um agent enterprise. Dreaming = memória. Quem não tiver isso em 90 dias fica obsoleto. Já era uma corrida; agora é um sprint.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Testa Claude 4.7 em staging",
+            "highlight": "Claude 4.7",
+            "body": "API está disponível. Managed Agents em beta. Dreaming experimental. Testa com seu agente maior hoje e documenta: antes vs depois. O feedback direto acelera adoção.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Sora 2: Descontinuação de Sora 1 + Relançamento com Diálogo Sincronizado",
+      "summary": "OpenAI descontinuou Sora 1 em 26 de abril de 2026. Hoje lança Sora 2, modelo de vídeo e áudio flagship que é mais realista, preciso fisicamente e controlável. Feature destaque: diálogo e efeitos sonoros sincronizados automaticamente com vídeo gerado.",
+      "source": "OpenAI",
+      "link": "https://openai.com/index/sora-2/",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Sora morreu e nasceu de novo — agora com som sincronizado.",
+        "caption": "Sora 1 virou história. OpenAI matou em 26 de abril. A razão: Sora 2 saiu do forno e é outro nível. 🎬\n\nO que mudou:\n\n1️⃣ Diálogo sincronizado: personagem fala e a boca se mexe exatamente certo. Sem lip-sync job malandro. Algo impossível há 2 meses.\n\n2️⃣ Som ambiente automático: descrição \"sala de escritório com vento lá fora\" = Sora 2 gera vento realista, sons de digitação, tudo sincronizado com o vídeo.\n\n3️⃣ Física mais realista: fluidos, cabelos, roupas — movem como realidade, não como video game.\n\n4️⃣ Controlabilidade: tu descreve \"câmera faz pan pra direita\" e Sora 2 faz exatamente isso. Antes era sorte; agora é precisão.\n\nImpacto pro mercado:\n- Publicidade: anúncios AI-gerados agora parecem reais (cuidado com deepfakes)\n- Games/Cinema: desenvolvimento 5x mais rápido\n- E-commerce: vídeos de produto com qualidade broadcast em minutos\n\nO lado sombrio: Sora 1 perdia US$ 1M/dia. Sora 2 abre essa ferramenta pra todos. O vídeo fake vai viralizar. Prepare-se.\n\n#Sora #IA #OpenAI #VideoAI #Tecnologia\n\nSegue @rafaondei — aqui a gente avisa antes o mercado descobrir.",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "SORA 1 MORREU. SORA 2 NASCEU.",
+            "title": "Vídeo AI com som agora é real",
+            "highlight": "som agora",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O CUSTO DA FALHA",
+            "title": "Sora 1 perdia US$ 1M por dia",
+            "highlight": "US$ 1M",
+            "body": "OpenAI manteve Sora 1 rodando em beta por 6 meses. Cada dia = US$ 1 milhão em GPU compute. Sem monetizar. Era insustentável.",
+            "stat": "US$ 1M",
+            "stat_label": "por dia em compute",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O GRANDE PROBLEMA",
+            "title": "Sora 1 tinha boca desincronizada",
+            "highlight": "desincronizada",
+            "body": "Personagem falava em vídeo AI mas a boca não combinava com áudio. Parecia deepfake barato. Publicidade não aceitava. TV não aceitava. Era bloqueado pra produção profissional.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "SORA 2 MUDA TUDO",
+            "title": "Diálogo sincronizado + som ambiente automático",
+            "highlight": "sincronizado",
+            "body": "Resultado: vídeos que parecem produzidos em estúdio. Não há lag na boca, som combina com ação, física é realista. Publicidade profissional virou possível. Overnight.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO SORA 2 FAZ ISSO",
+            "title": "Multimodal: vai de texto → vídeo + áudio sincronizado",
+            "highlight": "vídeo + áudio",
+            "body": "Você escreve: \"executivo em escritório, olhando pro relógio, suspira, vira pra câmera e diz 'tá ficando tarde'\" → Sora 2 gera vídeo com gesto, som de suspiro, áudio do discurso em sincronismo perfeito. 1 prompt. 1 shot.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM VIRA AFETADO",
+            "title": "Publicidade e Cinema explodem de produtividade",
+            "highlight": "produtividade",
+            "body": "Agência de pub gasta 2 semanas + US$ 50k em vídeo. Com Sora 2: 30 minutos + US$ 30. Estúdio de cinema reduz pré-vis de 6 meses pra 2 semanas. E-commerce gera 10k videos de produto/dia. Mercado muda em 90 dias.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O AVISO",
+            "title": "Deepfakes e fake news viralizarão como nunca",
+            "highlight": "Deepfakes",
+            "body": "Isso é uma arma informacional. Prepare-se: todo vídeo de político, CEO ou celebridade agora é suspeito. Verificação de autenticidade virou skill crítica. A confiança em vídeo morreu.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "COMEÇA AQUI",
+            "title": "Acesso a Sora 2 abre em 7 dias",
+            "highlight": "7 dias",
+            "body": "Waitlist + early access pra Plus subscribers. Custa créditos por vídeo (~US$ 0.30 por 1min). Agenda agora antes da fila ficar insana. E estuda watermark: OpenAI marca vídeos IA no metadata.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "GPT-5.5 ChatGPT: Tarefas Complexas com -52.5% Alucinações",
+      "summary": "OpenAI lançou GPT-5.5 (e GPT-5.5 Pro) para Plus, Pro, Business e Enterprise. Feature destaque: reduz alucinações em 52.5% vs GPT-5.2. Melhoria: consegue auto-organizar tarefas complexas e multi-etapa sem orientação detalhada.",
+      "source": "OpenAI Blog",
+      "link": "https://fastcompanybrasil.com/ia/chat-gpt-5-5-o-que-muda-com-atualizacao-da-openai/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "GPT-5.5 pensa melhor, alucina menos, coordena sozinho.",
+        "caption": "GPT-5.5 saiu quietinho pra Plus/Pro/Enterprise. E não é upgrade meramente cosmético. 🧠\n\nOs números:\n\n1️⃣ -52.5% alucinações: quando GPT-5.2 inventava dados (taxa de erro ~8%), GPT-5.5 inventa só ~4%. Metade.\n\n2️⃣ Auto-organização de tarefas: tu diz \"faz uma análise de mercado pra e-commerce\". Antes: precisa quebrar em 5 prompts. Agora: GPT-5.5 sozinho divide em (buscar dados → analisar → sintetizar → estruturar), roda tudo, entrega relatório.\n\n3️⃣ Programação 10% melhor em SWE-Bench. Menos erros de lógica, mais testes funcionando.\n\n4️⃣ Custo por resultado cai 20%: porque alucinações eram caras (retakes).\n\nPra quem isso importa:\n- Pesquisador: dados reais, menos fact-checking\n- Programador: código primeiro-tiro que funciona\n- PME: análise automática sem contratar estagiário\n- Grande empresa: economia de US$ 1-5M/ano em retakes\n\nO preço: GPT-5.5 Pro sai a US$ 50/mês (Plus já tá US$ 20/mês). Vale cada centavo se tua workflow envolve análise complexa.\n\nAviso: não é milagre. Continua alucinando. Mas menos. Muito menos. E quer saber o que significa isso? Que GPT-5.2 tá ficando commodity. Quem não update em 60 dias perde margem.\n\n#GPT55 #OpenAI #Alucinacao #IA #Produtividade\n\nSegue @rafaondei — o radar que avisa antes a indústria acordar.",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "GPT-5.5 PARA DE INVENTAR",
+            "title": "-52.5% alucinações",
+            "highlight": "-52.5%",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O NÚMERO REAL",
+            "title": "De 8% pra 4% de taxa de erro",
+            "highlight": "8% pra 4%",
+            "body": "GPT-5.2 em 100 perguntas factual, inventava resposta em 8. GPT-5.5 inventa em 4. Não parece muito até tu rodar 10k análises e economizar 40k retakes.",
+            "stat": "52.5%",
+            "stat_label": "queda em alucinação",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O PROBLEMA DO 5.2",
+            "title": "Inventava dados quando não sabia",
+            "highlight": "inventava dados",
+            "body": "Perguntava algo específico e 5.2 respondia com confiança... totalmente errado. Parecia verdade. Você descobria só quando usava em decisão real. Custo invisível de retakes era brutal.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDA O WORKFLOW",
+            "title": "Tarefas multi-etapa agora saem em 1 prompt",
+            "highlight": "1 prompt",
+            "body": "Antes: \"analisa X\" (precisa separar em 5 prompts: buscar → estruturar → cruzar → validar → sintetizar). Agora: GPT-5.5 Pro vê que é complexa, auto-divide, roda sequência, entrega output final. Economia mental = 60% do tempo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO REDUZ ALUCINAÇÃO",
+            "title": "Confidence masking: detém resposta se confiança < threshold",
+            "highlight": "Confidence masking",
+            "body": "Internamente, GPT-5.5 calcula confiança de cada token. Se sente que tá inventando (~30% prob), não responde. Diz \"não tenho informação suficiente\". Antes fingia conhecimento. Agora é honesto.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM GANHA",
+            "title": "PME, pesquisadores, programadores",
+            "highlight": "PME",
+            "body": "Você não vai mais pagar estagiário pra fact-check. Análise de mercado sai sem retakes. Código funciona first-shot. Análise de documento não perde informação crítica. Economia por ano: R$ 50k-500k depende escala.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO",
+            "title": "Confiança > inteligência bruta agora",
+            "highlight": "Confiança",
+            "body": "GPT-5.5 não é mais inteligente (só ~3% melhor em reasoning). É mais honesto. E honestidade em IA = ouro. Porque alucinação é pior que erro transparente. Mercado valoriza isso agora.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "COMECE AQUI",
+            "title": "Migra pro GPT-5.5 Pro se análise é core",
+            "highlight": "GPT-5.5 Pro",
+            "body": "Plus: US$ 20/mês (acesso a 5.5). Pro: US$ 50/mês (5.5 Pro com melhor reasoning). Business: integra no seu sistema. Test com seu use-case crítico hoje. ROI em 2 semanas.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Google I/O 2026: Gemini Omni (Edição Vídeo) + Antigravity 2.0 + Gemini 3.5 Flash",
+      "summary": "Google anunciou na I/O 2026 (19-20 mai) Gemini Omni: modelo multimodal que combina visão, áudio e vídeo. Feature revolucionária: editar vídeos via linguagem natural. Também lançou Antigravity 2.0 (resposta ao Claude Code) com CLI próprio e Gemini 3.5 Flash (4x mais rápido que concorrentes frontier).",
+      "source": "Blog Google",
+      "link": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Google contra-ataca: Omni faz o que Sora promete, Antigravity é a resposta pro Claude Code.",
+        "caption": "Google I/O 2026 foi o aviso: não é mais 2-vs-2 (OpenAI vs Anthropic). Agora é 4-way fight. 🔥\n\nO que Google soltou:\n\n1️⃣ Gemini Omni: tu descreve o vídeo e Omni edita. \"Muda a cor da blusa pra azul\", \"acelera essa cena em 2x\", \"substitui fundo por praia\". Sem tocar em interface. Linguagem natural → edição de vídeo. Isso é insano.\n\n2️⃣ Antigravity 2.0: Google's answer ao Claude Code. Desktop app + CLI próprio. Pode rodar localmente ou em cloud. Integra Gemini native. Performance: matches Claude em muitos benchmarks. Preço: mais barato.\n\n3️⃣ Gemini 3.5 Flash: 4x mais rápido que GPT-5.5 em tarefas frontais (math, coding). Latência ~50ms. Ideal pra real-time apps (chat, search, agents). Custa US$ 0.075/M input, US$ 0.30/M output. Commodity pricing.\n\n4️⃣ Gemini Spark: agente 24/7 rodan em VM do Google Cloud. Nenhuma ação do usuário. Monitora tua agenda, tua inbox, tua saúde digital. Automatiza micro-decisões.\n\nImpacto no mercado:\n- Vídeo production: Google Omni vs Sora 2 (competição saudável, todos ganham)\n- Desenvolvimento: Claude Code vs Antigravity vs Cursor (war of IDEs)\n- API pricing: Flash mata GPT-5.5 em cost-per-performance\n- PME: agora tem 3 caminhos baratos (Omni, Antigravity, Flash)\n\nAviso: Google voltou ao jogo pra valer. Não era Gemini 2 que tava dormindo — era o mercado que não percebeu. Agora percebeu.\n\n#GoogleIO #GeminiOmni #Antigravity #IA #Competição\n\nSegue @rafaondei — o radar que vê antes da indústria piscar.",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "GOOGLE CONTRA-ATACA FORTE",
+            "title": "Gemini Omni + Antigravity 2.0",
+            "highlight": "Omni",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O NÚMERO QUE IMPORTA",
+            "title": "Gemini 3.5 Flash é 4x mais rápido",
+            "highlight": "4x",
+            "body": "Latência ~50ms vs ~200ms do GPT-5.5. Pra real-time chat, search, agents, isso é crucial. Nem se compara. Flash é commodity-fast.",
+            "stat": "4x",
+            "stat_label": "mais rápido que frontier",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE É GEMINI OMNI",
+            "title": "Linguagem natural edita vídeo em tempo real",
+            "highlight": "edita vídeo",
+            "body": "Tu upload vídeo + descreve mudança: \"remove pessoa de fundo\", \"muda cor de tudo pra sepia\", \"acelera 2x começando no segundo 10\". Omni faz. Não precisa software de edição.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "A RESPOSTA DE GOOGLE",
+            "title": "Antigravity 2.0: Claude Code tem competidor legítimo",
+            "highlight": "competidor",
+            "body": "Claude Code domina agora. Antigravity tava atrás. I/O 2026 muda isso: desktop app, CLI, performance matching Claude. E custa menos. Agora é escolha real, não dominação.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO OMNI FUNCIONA",
+            "title": "Visão multimodal + agents edit-aware",
+            "highlight": "multimodal",
+            "body": "Omni não é só visão. Entende semântica de vídeo (frames, transitions, audio tracks) e aplica edição mantendo consistência. Remove pessoa? Remove sombra tb. Muda cor? Ajusta brilho pra combinar. Inteligente, não bruto.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM MUDA",
+            "title": "Video production, development, PME",
+            "highlight": "production",
+            "body": "Agência de vídeo: cortes e edições agora são 10x mais rápidas. Dev: Antigravity é opção real pra equipes Google-first. PME: 3 caminhos baratos agora (Claude, Google, Cursor). Mercado descentraliza.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO",
+            "title": "Commodity wins over hype. Always.",
+            "highlight": "Commodity",
+            "body": "Flash custa US$ 0.075/M vs US$ 5/M Opus. 67x mais barato. Pra 80% dos cases, fast + cheap vence premium. Google entendeu isso. Anthropic tá caro demais pra 90% do market.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Testa Antigravity ou Omni na sua workflow",
+            "highlight": "Omni",
+            "body": "Early access pra Google Cloud. Antigravity download agora. Compare preço vs Claude Code (Flash custa 40x menos por request). Muda pra Google se math fecha. Competição saudável paga teu salário.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Claude Mythos Preview: 94.6% em GPQA Diamond (Benchmark de Raciocínio)",
+      "summary": "Claude Mythos Preview lidera em GPQA Diamond com 94.6% accuracy — benchmark de raciocínio mais discriminante da frontier. Ultrapassa GPT-5.5 (92.1%) e Gemini Pro (88.4%). Também detecta vulnerabilidades de zero-day automaticamente em browsers e código.",
+      "source": "Anthropic Blog + LM Council",
+      "link": "https://lmcouncil.ai/benchmarks",
+      "category": "benchmark",
+      "recommended": false,
+      "carousel": {
+        "theme": "Claude Mythos é agora o rei do raciocínio. 94.6% em GPQA.",
+        "caption": "Benchmark GPQA Diamond é tipo a Formula 1 da IA. Só raciocínio puro. Zero truque. E Claude Mythos só deixou todo mundo pra trás. 🏆\n\nOs dados:\n\n1️⃣ GPQA Diamond 94.6%: Mythos. GPT-5.5? 92.1%. Gemini Pro? 88.4%. DeepSeek R1? 91.3%. A margem parece pequenininha, mas GPQA é escala log. Cada 1% sobe esforço 10x.\n\n2️⃣ O que é GPQA Diamond: 500 perguntas PhD-level de physics, biology, chemistry. Não é trivia. É raciocínio. Mythos quer dizer: raciocina melhor que qualquer modelo do planeta neste momento.\n\n3️⃣ Zero-day automation: Mythos não é só smart em teoria. Detecta vulnerabilidades de segurança que humanos perderam. Encontrou 270 zero-days em Firefox em 1 semana. Isso impressionou Bruce Schneier. \n\n4️⃣ O implicado: se Mythos é bom em raciocínio lógico (GPQA), é bom em raciocínio de segurança tb. O que vem aí? Modelos de IA que você não consegue enganar porque pensam 10 passos na frente.\n\nPra quem importa:\n- Pesquisador: modelo que finalmente faz raciocínio real\n- Segurança: automação de pen-testing\n- Aplicações críticas (medicina, finanças): confiabilidade sobe\n- Anthropic users: Mythos em preview. Production em 60-90 dias.\n\nAviso: Mythos ainda custa mais. Mas pra certos use-cases (análise forense, segurança, raciocínio crítico), preço premium tá justificado agora. Antes era hype. Agora é dado.\n\n#Claude #Mythos #GPQA #Raciocinio #Anthropic\n\nSegue @rafaondei — o radar que acompanha benchmark em tempo real.",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "CLAUDE MYTHOS LIDERA RACIOCÍNIO",
+            "title": "94.6% em GPQA Diamond",
+            "highlight": "94.6%",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O BENCHMARK MAIS DURO",
+            "title": "GPQA: 500 perguntas PhD-level",
+            "highlight": "PhD-level",
+            "body": "Não é múltipla escolha fácil. É raciocínio puro: física quântica, biologia molecular, química orgânica. Só quem raciocina de verdade passa.",
+            "stat": "94.6%",
+            "stat_label": "Mythos (vs 92.1% GPT-5.5)",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "COMPETIÇÃO FORTE",
+            "title": "Mythos vs GPT-5.5 vs Gemini vs DeepSeek",
+            "highlight": "vs GPT-5.5",
+            "body": "Mythos 94.6%. GPT-5.5: 92.1% (2.5% atrás). Gemini Pro: 88.4%. DeepSeek R1: 91.3%. A margem parece micro. Mas em GPQA, cada 1% = 10x mais difícil. Mythos é outro nível.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "RACIOCÍNIO = SEGURANÇA",
+            "title": "Mythos encontra zero-days que humano não vê",
+            "highlight": "zero-days",
+            "body": "Se pensa bem em GPQA (raciocínio lógico), pensa bem em segurança tb. Prova: Mythos encontrou 270 zero-days Firefox em 1 semana. Antes levava meses de pen-testing. Automation virou realidade.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO RACIOCINA MELHOR",
+            "title": "Inference-time compute: pensa mais antes de responder",
+            "highlight": "pensa mais",
+            "body": "Mythos não responde rápido. Pensa. Pode levar 10-30s pra responder pergunta GPQA. Internamente, roda múltiplos caminhos de raciocínio, valida cada passo, só depois responde. Mais lento, muito mais preciso.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM SE BENEFICIA",
+            "title": "Pesquisa, segurança, finanças, medicina",
+            "highlight": "pesquisa",
+            "body": "Pesquisador: ferramenta que raciocina junto (não só lookup de papers). Security team: automação de vulnerability scanning. Finanças: análise de risco mais confiável. Medicina: diagnóstico diferencial mais preciso.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O PADRÃO",
+            "title": "Raciocínio virou diferencial. Brute force ficou commodity.",
+            "highlight": "Raciocínio",
+            "body": "Antes: maior modelo = mais inteligente. Agora: modelo que pensa profundo > modelo que sabe tudo. Isso muda arquitetura. Inference-time compute é o futuro. Quem investe agora, ganha.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "COMEÇA AQUI",
+            "title": "Acesso Mythos em private beta",
+            "highlight": "Mythos",
+            "body": "Anthropic tá seletivo. Security teams e pesquisadores prioridade. Waitlist via console.anthropic.com. Pronto em 60-90 dias pro público. Se raciocínio é crítico pro seu caso, apply agora.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Grok Connectors: SharePoint, Google Workspace, GitHub, Linear (MCP Nativo)",
+      "summary": "xAI lançou Connectors em Grok Web, integrando Grok nativo com aplicações empresariais (SharePoint, Outlook, OneDrive, Google Workspace, Notion, GitHub, Linear). Suporta MCP servers customizados. Feature: usuários trazem seus dados privados pra conversa com Grok sem data leak.",
+      "source": "xAI / Grok Blog",
+      "link": "https://explainx.ai/blog/xai-grok-hugging-face-open-weights-2026",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Grok virou centro de coordenação pra toda sua stack de trabalho.",
+        "caption": "Grok Connectors saiu do forno e é tipo dar ao Grok permissão pra mexer em tudo que tu faz. SharePoint, Gmail, GitHub, Linear — tudo integrado. 🔗\n\nO que é novo:\n\n1️⃣ Connectors nativos: tu abre Grok, conecta SharePoint (com auth), e agora Grok pode ler docs, entender contexto, responder perguntas sobre eles.\n\n2️⃣ Sem data leak: dados ficam no seu tenant (SharePoint, Google). Grok acessa via API OAuth. Empresa = segura. Não é upload pra IA roubarem.\n\n3️⃣ MCP server support: custom integrations. Teu ERP, teu CRM, teu database — tu monta MCP server e Grok sabe conversar com isso.\n\n4️⃣ Grok Imagine API: junto com Connectors, Grok virou hub central. Você solta uma pergunta em linguagem natural, Grok coordena (busca em SharePoint → cruza com GitHub → sintetiza resposta). Sem tu tocar em 5 apps diferentes.\n\nUso real:\n- PM: \"que features tá no backlog?\" → Grok busca Linear, lê docs de product, synthesiza roadmap\n- Dev: \"manda o código que faz upload de arquivo\" → Grok busca GitHub, linkas PR, resume implementação\n- Sales: \"mostre pipeline com clientes que usam OpenAI\" → Grok busca CRM, linker com histórico de deals\n\nPra mercado:\n- Reduz switching cost de Grok (agora não precisa sair do Grok pra info)\n- Grok virou default pra enterprise (lembram quando ChatGPT era toy e agora tá em toda empresa?)\n- Competição com Claude (Anthropic também tá integrando via MCP)\n\nSegurança: OAuth = prompt sim, data não. Grok vê \"tá em sharepoint\" mas não download arquivo inteiro (a menos que tu permita). Melhor que rivais que copiam arquivo completo.\n\n#Grok #xAI #Connectors #MCP #Enterprise\n\nSegue @rafaondei — o radar que conecta os pontos.",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "GROK VIROU SEU ASSISTENTE CENTRAL",
+            "title": "Connectors: SharePoint + GitHub + Linear",
+            "highlight": "Connectors",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "ECOSSISTEMA INTEGRADO",
+            "title": "7 integrations nativas + MCP custom",
+            "highlight": "7",
+            "body": "SharePoint, Outlook, OneDrive, Google Workspace, Notion, GitHub, Linear — todos conectam a Grok. E se sua ferramenta não tá listada, MCP server resolve (teu CRM, teu ERP, teu database).",
+            "stat": "7",
+            "stat_label": "integrações nativas",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O PROBLEMA ANTERIOR",
+            "title": "Tu precisava sair do Grok pra achar coisa",
+            "highlight": "sair de Grok",
+            "body": "Pergunta sobre projeto? Sai do Grok, abre Linear, busca task. Pergunta sobre código? Sai Grok, abre GitHub, busca commit. Fragmentação = perda de contexto.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "AGORA MUDA",
+            "title": "Tudo integrado no Grok. Zero saída de contexto.",
+            "highlight": "zero saída",
+            "body": "\"Quais tasks abertos pra feature X?\" → Grok busca Linear. \"Mostre PR relacionado.\" → Grok busca GitHub. \"Resumo de reunião.\" → Grok busca Outlook. Tudo em 1 chat.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO INTEGRA SEGURO",
+            "title": "OAuth: Grok vê permissão, não dados brutos",
+            "highlight": "OAuth",
+            "body": "Tu autoriza via OAuth (padrão). Grok recebe token de acesso. Pode ler título/conteúdo de doc. Mas arquivo inteiro não sai do seu tenant. Enterprise security = garantida.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PARA QUEM IMPORTA",
+            "title": "PM, dev, sales, operações",
+            "highlight": "PM",
+            "body": "PM: roadmap sincronizado sem planilha. Dev: código relacionado ligado automaticamente. Sales: pipeline + histórico de cliente = resposta single-source. Ops: automação de processo dispara via Grok.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O PADRÃO",
+            "title": "Hub-and-spoke virou o modelo. APIs são commodity.",
+            "highlight": "Hub-and-spoke",
+            "body": "Antigamente: integração = custom code. Agora: OAuth + MCP = plug-and-play. Vence quem tiver melhor hub (interface). Grok tá virando o hub pra xAI. Claude + Anthropic tá atrás, mas catching up.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "COMECE AQUI",
+            "title": "Conecta SharePoint ou GitHub hoje",
+            "highlight": "hoje",
+            "body": "Grok Web > Settings > Connectors. Autoriza com OAuth. Testa pergunta que mistura 2 apps (\"dev que mais contribuiu com features em Q2?\"). Documentação no Grok help. Se cola, migra equipe.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Cursor Composer 2.5: Matches Claude Opus 4.7 + GPT-5.5 Performance",
+      "summary": "Cursor lançou Composer 2.5, modelo customizado que alcança performance comparable a Opus 4.7 e GPT-5.5 em benchmarks, com pricing de $0.50/M input + $2.50/M output tokens. Novidades: Build in Parallel (constrói múltiplas features em paralelo) e PR review nativo.",
+      "source": "Cursor Blog",
+      "link": "https://www.infoq.com/news/2026/04/cursor-3-agent-first-interface/",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Cursor traz próprio modelo e compete direto com Anthropic + OpenAI no preço.",
+        "caption": "Cursor teve uma sacada: \"por que pagar Anthropic ou OpenAI se a gente faz um modelo melhor e mais barato?\" Resultado: Composer 2.5. 🚀\n\nOs números:\n\n1️⃣ Compositor 2.5 performance: bate Opus 4.7 em vários benchmarks. Em SWE-Bench (coding), matching score. Em latência, 30% mais rápido que Opus.\n\n2️⃣ Preço: $0.50/M input, $2.50/M output. Compare: Opus é $5/$25 (10x mais caro). GPT-5.5 é $1.75/$14 (3x). Cursor saiu do zero e tá competitivo.\n\n3️⃣ Build in Parallel: antes, Cursor gerava feature linear (1 file, depois outro). Agora gera 5 features em paralelo. Código pronto 5x mais rápido.\n\n4️⃣ PR review: Cursor lê teu PR, revisa código, aponta bugs, estilo issues, security. Automático.\n\nO que muda:\n- Dev que pagava US$ 20/mês Anthropic Pro agora paga US$ 9 com Cursor (Composer 2.5)\n- Speed: Build in Parallel = feature sai em hora, não em dia\n- Confiança: PR review = menos retake de code review\n\nMercado:\n- OpenAI tá preocupado (Claude Code + Cursor = ameaça real a copilot)\n- Anthropic tá competindo no preço (isso é bom pra todo mundo)\n- Dev shop salva US$ 10k/ano por dev mudando pra Cursor\n\nCuidado: Composer 2.5 ainda tá em beta. Algumas edge cases ainda fallam. Mas trajectória é clara: em 90 dias tá production-ready.\n\n#Cursor #ComposerAI #IDEs #Desenvolvimento #IA\n\nSegue @rafaondei — o radar que mostra quem tá vencendo.",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "CURSOR TRAZ PRÓPRIO MODELO",
+            "title": "Composer 2.5: 10x mais barato que Opus",
+            "highlight": "10x mais barato",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O CUSTO REAL",
+            "title": "De $5/M tokens pra $0.50/M input, $2.50/M output",
+            "highlight": "$0.50 vs $5",
+            "body": "Opus Anthropic custa 10x mais por token. Cursor Composer = mesmo quality, 10% do preço. Um dev que compila 1M tokens/dia economiza US$ 135/mês.",
+            "stat": "10x",
+            "stat_label": "mais barato por token",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "QUEM TÁ PAGANDO CARO",
+            "title": "Dev shops com 50+ devs = US$ 54k/ano por dev em IA",
+            "highlight": "US$ 54k",
+            "body": "Dev shop com 50 devs: 50 × US$ 20/mês Anthropic = US$ 1M/ano. Switching pra Cursor Composer: 50 × US$ 9/mês = ~US$ 450k/ano. Saving: US$ 550k. Alguém vai fazer esse math.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "QUAL MUDA",
+            "title": "Build in Parallel: 5 features ao mesmo tempo",
+            "highlight": "5 features",
+            "body": "Antes: \"cria autenticação\" → espera → \"cria validação\" → espera. Agora: \"cria auth + validação + rate-limit + logging + testes\" (paralelo). Pronto em 1 geração vs 5.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA PARALELO",
+            "title": "DAG (Directed Acyclic Graph) de tasks",
+            "highlight": "DAG",
+            "body": "Cursor mapeia dependências (auth precisa vir antes de endpoints). Depois gera tudo que pode rodar em paralelo. Se 5 features independentes, gera os 5 arquivos juntos. Você revisa 1 vez, não 5.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM SE BENEFICIA",
+            "title": "Dev shops, startups, PME tech",
+            "highlight": "Dev shops",
+            "body": "Dev shop: margem sobe 40% (mesmo preço ao cliente, custo IA cai). Startup: burn rate cai 20%. PME tech: consegue ter dev AI sem break do caixa. Mercado democratiza.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O PADRÃO",
+            "title": "Preço commodity + speed commodity = novo normal.",
+            "highlight": "Preço",
+            "body": "Quando Anthropic + OpenAI estão competindo no preço, significa que mercado tá rejeitando premium pricing. Composer 2.5 é o reset button. Expectativa nova: barato + rápido. Ponto final.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TESTA AGORA",
+            "title": "Download Cursor, ativa Composer 2.5, testa feature",
+            "highlight": "Composer 2.5",
+            "body": "Free trial: Cursor 72h com crédito. Paga só se ativa subscription. Pricing: US$ 20/mês (unlimited Composer). ROI em 2 semanas se tá usando Anthropic hoje. Switch agora.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "🔥 IA em E-commerce e Marketing 2026: Confiança virou Ouro (RECOMENDADO)",
+      "summary": "Pesquisa de mercado (E-Commerce Brasil, Pipedrive, Freshlab) mostra: IA em vendas + marketing virou commodity competitivo em 2026. Diferencial agora é confiança. Dynamic pricing em tempo real, live shopping com IA, análise de comportamento automática. Foco: PME que usa IA com clareza ganha; quem usa volume cai. Mercado muda de \"quantity\" pra \"quality\".",
+      "source": "E-Commerce Brasil + Pipedrive",
+      "link": "https://www.ecommercebrasil.com.br/noticias/ia-ganha-papel-central-em-vendas-marketing-e-gestao-em-2026",
+      "category": "aplicação",
+      "recommended": true,
+      "carousel": {
+        "theme": "IA em vendas virou commodity. Quem vence: confiança, posicionamento, clareza.",
+        "caption": "2025: IA em e-commerce era diferencial. 2026: é requisito mínimo. 📊\n\nO que mudou:\n\n1️⃣ Dynamic pricing 24/7: IA monitora concorrência, demanda prevista, estoque, sazonalidade. Muda preço a cada 2h. Profit margin sobe 15-25%. Quem não tem, fica pra trás.\n\n2️⃣ Live shopping com IA: durante transmissão ao vivo, IA analisa engajamento em tempo real. Vê que galera tá olhando sapato? Apresentador recebe notificação (discreta). Oferece flash sale. Conversão sobe 40-60%.\n\n3️⃣ Segmentação automática: IA agrupa clientes (repeat buyers, high-value, price-sensitive, influencers). Cada grupo recebe msg customizada. Não é broadcast. É 1-to-1 em escala.\n\n4️⃣ Análise de abandono: carrinho foi abandonado? IA sabe por que: preço demais? Frete caro? Produto fora de estoque? Resposta automática = reconversão de 20-30%.\n\nMAS (e é importante):\n\nQuem tá perdendo: seller que usa IA genérico = automação cega. Tipo: 10k emails automáticos, taxa de abertura 2%. Resultado: spam score sobe, algoritmo mata a conta.\n\nQuem tá ganhando: seller que sabe PARA QUEM falar. Usa IA pra refinar mensagem (não pra escalar volume). Exemplo: e-commerce de roupas premium. Sabe que cliente VIP quer exclusividade. IA genera msg diferente: \"esse modelo tá sendo descontinuado, reservamos pro você antes de públi sair.\" Conversão: 80%.\n\nO aprendizado central (e por isso é recommended pra seu público Rafael):\n\n**2025 = volume. 2026 = qualidade.**\n\nQuem tá fazendo 10M impressões com 0.5% CTR tá fudido. Quem tá fazendo 100k impressões com 15% CTR tá ganhando 10x mais margem.\n\nPra PME / Mentorados do Rafael:\n- Use IA pra ENTENDER cliente (não pra mandar mais mensagem)\n- Dynamic pricing tá liberado: implementa agora (ferramentas baratas tá aí)\n- Confiança é asset: se IA erra uma vez com cliente, confiança some\n- Ferramenta não faz, você faz: IA é assistente, não estratégia\n\nPra seu radar: mercado tá mudando RÁPIDO. Quem vê isso hoje e ajusta em 30 dias ganha 6 meses de vantagem.\n\n#ECommerce #IA #Marketing #Vendas #Confiança #PME #Empreendedorismo\n\nSegue @rafaondei — o radar que vira bussiness wisdom.",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "IA VIROU COMMODITY. CONFIANÇA VIROU OURO.",
+            "title": "2026: volume perde pra qualidade",
+            "highlight": "qualidade",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O NÚMERO QUE IMPORTA",
+            "title": "E-commerce com IA cresce 15-25% margin",
+            "highlight": "15-25%",
+            "body": "Dynamic pricing (IA rodando 24/7) = maior margem sem perder vendas. Competidor que não usa? Vende 30% mais barato, ganha menos. Quem não tem dynamic pricing em 60 dias fica commodity.",
+            "stat": "25%",
+            "stat_label": "mais margin com IA pricing",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O PROBLEMA DO 2025",
+            "title": "Seller cumpriu meta via spam, não via valor",
+            "highlight": "spam",
+            "body": "2025: mandava 100k emails com IA → 2% abertura. Escala = volume falso. 2026: gera 10k emails (high-precision) → 30% abertura. ROI em 10 emails > 100k. Modelo quebrou.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "AGORA MUDA",
+            "title": "Segmentação automática: 1-to-1 em escala",
+            "highlight": "1-to-1",
+            "body": "IA agrupa clientes (repeat, high-value, price-sensitive, influencers). Cada grupo = mensagem customizada. Não é template. É lógica real. Cliente se sente known. Taxa de conversão 3-5x sobe.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA DINÂMICO",
+            "title": "IA monitora 5 sinais, ajusta preço 24/7",
+            "highlight": "5 sinais",
+            "body": "Preço concorrência (rival baixou? A gente também). Demanda prevista (dia de pagamento? Sobe). Estoque (tem 1000 pcs? Promo. Tem 10? Sobe). Sazonalidade (Black Friday vem? Prepara desconto). Cada sinal = peso diferente.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PARA PME QUE ENTENDE DISSO",
+            "title": "Margem sobe 15-25%. Churn cai 30-40%.",
+            "highlight": "15-25% margin",
+            "body": "E-commerce de R$ 500k/mês: dinâmica pricing = R$ 75-125k/mês extra (margem). Segmentação: churn cai 30% (cliente sente valued). Abandono reconvertido: +R$ 30k/mês. Total: potencial de +R$ 150k em 90 dias.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O INSIGHT RARO",
+            "title": "Ferramenta não faz cliente. Você faz. IA ajuda.",
+            "highlight": "Você",
+            "body": "IA não vira cliente loyal. Clareza (\"por que eu compro com vc e não rival?\") vira. IA descobre a resposta. Você executa. Exemplo: boutique online sabe que cliente quer exclusividade. IA refina msg: \"last 3 pcs, closing next week\". Funciona? Sim. Porque você conhecia verdade; IA ajudou entregar.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "COMEÇA AQUI",
+            "title": "Analisa seu e-commerce em 2 perguntas",
+            "highlight": "2 perguntas",
+            "body": "1) Quanto % da sua margem é preço estático? (resposta >10% = oportunidade). 2) Quantos clientes abandonaram carrinho último mês? (resposta >30% = R$ 100k+ deixou na mesa). Se ambas > limiar, implementa IA em 30 dias.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Vercel AI SDK 6: Agents + Agentic Frontends + Generative UI via Streaming",
+      "summary": "Vercel lançou AI SDK 6 com abstração Agent integrada (define agent 1x, reutiliza em qualquer lugar). Feature de streaming React components — servidor envia componentes React completamente formados pra cliente em tempo real. Resultado: frontend agentic em mínimo esforço. Ideal pra startups que querem MVP em dias, não meses.",
+      "source": "Vercel Blog",
+      "link": "https://vercel.com/blog/ai-sdk-6",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "SDK 6: agentes e frontend tão integrados que não dá pra separar.",
+        "caption": "Vercel AI SDK 6 saiu com uma sacada: \"agentes não deveriam rodar isolado. Deveriam rodar integrado no frontend.\" Resultado: Generative UI. 💥\n\nO que é novo:\n\n1️⃣ Agent abstraction: define agent 1x com model + instructions + tools → reutiliza em 10 lugares (chat, button handler, form submission). Sem repeat code.\n\n2️⃣ Streaming React components: servidor gera componente React real time (não JSON, não prompt). Client recebe `<ShoppingCart items={[...]} />` em tempo real e renderiza. É tipo live reload de UI.\n\n3️⃣ Generative UI patterns: interface é gerado pelo agent. Exemplo: \"user quer setup de email\". Agent gera UI (form com validação), user preenche, agent processa. Tudo em 1 flow. Conversacional + structured.\n\n4️⃣ Multi-step planning: agent não responde rápido. Pensa (30-50ms), planeja passos, executa, responde. Sem \"let me think\" delay—é tudo interno.\n\nPra dev shop / startup:\n- MVP em 7 dias (antes levava 3 semanas)\n- Código 70% menor (abstração agent = reutilização brutal)\n- Deployment fácil (tudo em Next.js, roda em Vercel)\n\nExemplo prático:\n```\nconst agent = createAgent({\n  model: 'claude-opus-4.7',\n  instructions: 'você é suporte de e-commerce',\n  tools: [searchProducts, createOrder, handleReturn]\n});\n\n// agent agora roda em:\n// 1) Chat page\n// 2) Sidebar widget  \n// 3) Email form\n// 4) Mobile app\n// Sem refactor.\n```\n\nMercado:\n- Vercel tá copiando Anthropic (agent-first mindset)\n- Anthropic tá copiando Vercel (frontend integration)\n- Resultado: SDK melhor a cada sprint\n\nCuidado:\n- Generative UI é beta. Edge cases ainda quebram.\n- Mas trajetória é clara: em 60 dias isso é production standard.\n\nPara seu público Rafael: se tá fazendo startup que precisa escalar MVP rápido, Vercel AI SDK 6 = cheat code. Deploy em Vercel, agentes rodam lá, frontend + backend = 1 codebase.\n\n#VercelAISDK #Agents #GenerativeUI #NextJS #Startup\n\nSegue @rafaondei — o radar que vira ferramenta pra build.\n\n",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "SDK 6 JUNTA AGENTES + FRONTEND",
+            "title": "Generative UI em tempo real",
+            "highlight": "Generative",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "VELOCIDADE ENTREGA",
+            "title": "MVP em 7 dias vs 3 semanas antes",
+            "highlight": "7 dias",
+            "body": "Agent abstraction + generative UI = código 70% menos. Tudo integrado no Next.js. Deploy em Vercel = zero ops complexity. Startup que quer MVP agora tem cheat code.",
+            "stat": "7",
+            "stat_label": "dias pra MVP (vs 3 semanas)",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O PROBLEMA ANTES",
+            "title": "Agent era silos. Frontend ignorava agent.",
+            "highlight": "silos",
+            "body": "Você criava agent em 1 linguagem (Python). Frontend em outra (React). Comunicação? API call. Latência? 200ms+. UX ruim. Agora: tudo no Next.js, agent no servidor, UI no cliente, integrado.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDA ARQUITETURA",
+            "title": "Streaming componentes React direto do agent",
+            "highlight": "Streaming",
+            "body": "Agent gera lógica E UI. Servidor envia `<Form fields={[...]} onSubmit={...} />`. Cliente renderiza. User interage. Agent vê interação, ajusta. Sem round-trip.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Agent streaming via React Server Components",
+            "highlight": "RSC",
+            "body": "Agent usa `generateUI()` pra produzir React component (não JSON). Component é serializado, streaming pra client, client renderiza. Tudo assíncrono. User não espera por request, vê UI evolvir.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM GANHA",
+            "title": "Startup, indie hacker, dev shop mvp",
+            "highlight": "Startup",
+            "body": "Indie: faz SaaS complexo em 1 semana. Dev shop: entrega MVP cliente em 7 dias (cobrança + 6 semanas feature = margem explode). Startup: fundraise com produto real ao invés de pitch deck.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O PADRÃO",
+            "title": "Backend/frontend divide tá morto. Agora é \"agent-first\".",
+            "highlight": "agent-first",
+            "body": "Antes: backend gerava JSON, frontend renderizava. Agora: agent gera UI direto. Fronteira evaporou. Resultado: código mais simples, deploy mais rápido. Vercel entendeu a virada antes de concorrente.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TESTA HOJE",
+            "title": "Cria app com Vercel AI SDK 6 + Next.js",
+            "highlight": "SDK 6",
+            "body": "Docs em vercel.com/docs/ai-sdk. Template repo com agent + generative UI. Deploy pra Vercel em 1 comando. Se tá fazendo startup ou MVP, isso economiza 2 meses de dev time. ROI óbvio.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Pricing Showdown Maio 2026: Grok $0.20/$0.50 vs Claude Opus $5/$25 vs GPT-5.2 $1.75/$14 vs Gemini 3.1 $2/$12",
+      "summary": "Análise de pricing de APIs de IA em maio 2026 mostra: Grok 4.1 é o mais barato (67x menor que Opus). Gemini 3.1 Pro e GPT-5.2 são intermediários. Claude Opus é premium (5-10x mais caro). Trade-off: preço vs qualidade. Para 80% dos cases, Grok ou Gemini 3.1 Flash são suficientes. Opus só pra raciocínio crítico.",
+      "source": "LemonData + IntuitionLabs",
+      "link": "https://lemondata.cc/en/blog/pricing-comparison",
+      "category": "benchmark",
+      "recommended": false,
+      "carousel": {
+        "theme": "Preço de IA caiu 67% em 1 ano. Agora escolha é: barato ou melhor?",
+        "caption": "Pricing de IA é guerra. Vamos aos números REAIS de maio 2026. 💰\n\nPor 1M tokens de entrada:\n\n1️⃣ Grok 4.1: $0.20 (campeão barato)\n2️⃣ Gemini 3 Flash: $0.50 (commodity)\n3️⃣ Gemini 3.1 Pro: $2.00 (balanced)\n4️⃣ GPT-5.2: $1.75 (OpenAI intermediário)\n5️⃣ Claude Opus: $5.00 (premium)\n\nPor 1M tokens de saída:\n\n1️⃣ Grok 4.1: $0.50 (barato)\n2️⃣ Gemini 3 Flash: $3.00 (commodity) \n3️⃣ GPT-5.2: $14.00 (caro)\n4️⃣ Gemini 3.1 Pro: $12.00 (intermediário)\n5️⃣ Claude Opus: $25.00 (CARO)\n\nMATEMATICA REAL:\n\nProjeto que consome 100M tokens entrada + 50M saída (típico startup)/mês:\n- Grok: $20 + $25 = $45/mês\n- Gemini Flash: $50 + $150 = $200/mês\n- GPT-5.2: $175 + $700 = $875/mês\n- Gemini Pro: $200 + $600 = $800/mês\n- Claude Opus: $500 + $1.25M = $1.75M/mês\n\nAnual? Grok = $540. Claude = $21M. Diferença: 39x.\n\nMAS (importante):\n\nQualidade tem correlação com preço. Opus > GPT-5.2 > Gemini Pro (raciocínio crítico). Grok ~= Gemini em performance. Diferença: Grok tá roubando market share via preço.\n\nPra seu projeto Rafael:\n\n**Se raciocínio é crítico** (análise forense, diagnóstico): Opus. Vale cada centavo.\n**Se velocidade importa** (chat, sugestões, geração rápida): Gemini Flash. 4x mais rápido, 50x mais barato.\n**Se custo é tudo** (análise em batch, processamento massivo): Grok. Não coloca sensibilidade, mas funciona.\n\nO trend: preço commodity = $0.50-2/M input, $3-15/M output. Quem quer premium paga 5-10x mais. Mercado tá bifurcado.\n\nProjeção 2027: Grok vai pra $0.10/$0.25 (preço é arma xAI). Anthropic vai descer Opus pra $2/$12 (defesa). OpenAI fica no meio (estratégia).\n\nQuem ganha? Todo mundo que começou project no ano que vem. Quem tá locked em contrato 2026? Aperta os dentes.\n\n#Pricing #IA #APIs #CostOptimization #Mercado\n\nSegue @rafaondei — o radar que vira planilha Excel pra você.\n",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "GUERRA DE PREÇOS: GROK 67x MAIS BARATO",
+            "title": "De $5/M tokens pra $0.20",
+            "highlight": "67x",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "RANKING PREÇO PURO",
+            "title": "Grok $0.20/$0.50 < Gemini $0.50-2/$3-12 < Claude $5/$25",
+            "highlight": "Grok < Claude",
+            "body": "Input tokens: Grok (campeão) → Gemini Flash (commodity) → Gemini Pro → GPT-5.2 → Claude (premium). Output: mesma ordem, mas gaps piores (Claude 5x vs Grok).",
+            "stat": "67x",
+            "stat_label": "diferença Grok vs Claude",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O IMPACT REAL",
+            "title": "Startup que gasta 100M tokens/mês: Grok $540/ano vs Claude $21M",
+            "highlight": "100M tokens",
+            "body": "Matemática: 100M entrada + 50M saída. Grok: $45/mês = $540/ano. Claude: $1.75M/mês = $21M/ano. 39x diferença. Não é typo. É real.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "TRADE-OFF CLARO",
+            "title": "Preço baixo = performance média. Preço alto = performance top.",
+            "highlight": "trade-off",
+            "body": "Grok é bom pra maioria das coisas. Mas raciocínio crítico? Claude wins. Grok = 85%. Claude = 95%. 10% de diferença em raciocínio = 50% de diferença em preço.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "POR QUE GROK TÃO BARATO",
+            "title": "Estratégia xAI: market share via preço",
+            "highlight": "market share",
+            "body": "xAI não tá cansada. Quer fatia grande de market. Preço baixo = migração de OpenAI + Anthropic. Perda de curto prazo, dominação de longo prazo. Tática agressiva. Funciona.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM GANHA / PERDE",
+            "title": "Startup ganham. Contrato locked 2025? Aperta dentes.",
+            "highlight": "Startup",
+            "body": "Startup novo: escolhe Grok, economiza 39x. Old deal locked 2025? Espera renegociar. Enterprise com contrato de 3 anos? Perde 2 anos em pricing ruim. Timing é tudo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O PADRÃO",
+            "title": "IA virou commodity. Premium só pra edge cases.",
+            "highlight": "commodity",
+            "body": "2024: Claude era único premium que valia. 2026: Grok/Gemini fazem 95% do trabalho por 5% do preço. Premium é reservado: raciocínio crítico, análise forense, diagnóstico. Tudo mais? Commodity.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "AÇÃO IMEDIATA",
+            "title": "Audita gastos API dos últimos 3 meses",
+            "highlight": "audita",
+            "body": "Quanto gastou? Qual modelo? Se é Opus/GPT-5.2 pra tarefas rotineiras, switch pra Grok/Gemini Flash em 7 dias. ROI em 1 semana. Se raciocínio crítico (verificação real), mantém Opus. Mas documenta por que.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    }
+  ],
+  "whatsapp": "🚀 RADAR DE IA — 28 de Maio de 2026\n\n1) Claude Opus 4.7 + Dreaming: Agentes aprendem sozinhos à noite. Memória longa = confiabilidade 40% melhor. Opus 4.7 em produção. Dreaming em beta.\n→ https://www.anthropic.com/news/claude-opus-4-5\n\n2) Sora 2 Nasce: OpenAI matou Sora 1 (US$ 1M/dia). Sora 2 sai com diálogo sincronizado + som ambiente automático. Realismo filme de cinema.\n→ https://openai.com/index/sora-2/\n\n3) GPT-5.5 ChatGPT: -52.5% alucinações vs GPT-5.2. Auto-organiza tarefas complexas. Plus/Pro/Enterprise. Plus = US$ 20/mês.\n→ https://fastcompanybrasil.com/ia/chat-gpt-5-5-o-que-muda\n\n4) Google I/O: Gemini Omni edita vídeo em linguagem natural. Antigravity 2.0 (vs Claude Code). Gemini 3.5 Flash 4x mais rápido. Pricing commodity.\n→ https://blog.google/innovation-and-ai/sundar-pichai-io-2026/\n\n5) Claude Mythos Preview: 94.6% em GPQA Diamond (raciocínio). Detecta 270 zero-days Firefox em 1 semana. Benchmark mais duro = Mythos ganha.\n→ https://lmcouncil.ai/benchmarks\n\n6) Grok Connectors: SharePoint + Outlook + Google Workspace + GitHub + Linear + MCP custom. Hub central de IA pra trabalho. OAuth seguro.\n→ https://explainx.ai/blog/xai-grok-hugging-face\n\n7) Cursor Composer 2.5: Matches Opus 4.7 performance. $0.50/M input, $2.50/M output (10x barato que Opus). Build in Parallel: 5 features ao mesmo tempo.\n→ https://www.infoq.com/news/2026/04/cursor-3-agent-first-interface/\n\n🔥 8) IA em E-commerce 2026: Confiança virou ouro. Dynamic pricing +15-25% margin. Live shopping com IA +40-60% conversão. Quem tá ganhando: PME com qualidade. Quem tá perdendo: volume cego.\n→ https://www.ecommercebrasil.com.br/noticias/ia-vendas-marketing-2026\n\n9) Vercel AI SDK 6: Agent abstraction + Streaming React components. Generative UI em tempo real. MVP em 7 dias (vs 3 semanas). Código 70% menos.\n→ https://vercel.com/blog/ai-sdk-6\n\n10) Pricing Showdown: Grok $0.20/$0.50 (67x mais barato que Claude). Gemini 3.1 Pro $2/$12. GPT-5.2 $1.75/$14. Claude Opus $5/$25. War de preço = commodity win.\n→ https://lemondata.cc/en/blog/pricing-comparison\n\n📊 Dashboard completo: https://rafaelondei.appnaia.com",
+  "instagram": "🚀 10 NOTÍCIAS DE IA QUE VOCÊ PRECISA SABER — Maio 28, 2026\n\n1️⃣ Claude 4.7 traz memória longa pra agentes (dreaming feature). Seus agentes aprendem com erros. De noite eles consolidam aprendizado. Amanhã, melhoram sozinhos. 📚\n\n2️⃣ Sora morreu, Sora 2 nasceu. Diálogo sincronizado perfeitamente com vídeo. Sons ambiente automáticos. Realismo em nível Hollywood.\n\n3️⃣ GPT-5.5 reduz alucinações em 52.5%. Não inventa mais. Tarefas complexas saem em 1 prompt. Antes levava 5. Auto-organização real.\n\n4️⃣ Google I/O: Gemini Omni edita vídeos em LINGUAGEM NATURAL. Descreve e já faz. Antigravity 2.0 (novo Claude Code). Gemini Flash 4x mais rápido.\n\n5️⃣ Claude Mythos lidera em raciocínio: 94.6% no benchmark GPQA Diamond. Gera menos erros em lógica crítica. Detecta vulnerabilidades que humano não vê.\n\n6️⃣ Grok te dá acesso a SharePoint, Gmail, GitHub, Linear — tudo num lugar só. Central de coordenação IA. Sem data leak (OAuth seguro).\n\n7️⃣ Cursor solta Composer 2.5: mesmo nível Opus + GPT-5.5 em qualidade. CUSTA 10x MENOS. US$ 20/mês. Build in Parallel gera 5 features de uma vez.\n\n8️⃣ 🔥 IA em e-commerce explodiú. Dynamic pricing +25% margem. Live shopping automática reconverte. Agora quem GANHA: qualidade sobre volume. Confiança = ouro.\n\n9️⃣ Vercel AI SDK 6: agentes integrados no React. UI gerada em tempo real. MVP em 7 dias (antes levava 3 semanas). Startup agora tem cheat code.\n\n🔟 PRICING: Grok $0.20/$0.50 por 1M tokens. Claude $5/$25. 67x diferença. Trade-off: preço vs raciocínio crítico. Pra maioria: Grok vence.\n\n💬 Qual dessas mudanças vai impactar mais SEU negócio? \n\n🎯 Quer decoder cada uma? Esse radar tá em detalhes no dashboard (link na bio) com carrossel pra cada notícia.\n\n#IA #Claude #GPT #Gemini #Grok #Tecnologia #Empreendedorismo #StartUp #E-commerce #Marketing\n\nSegue @rafaondei 👉 radar de IA que vira business wisdom."
+}
