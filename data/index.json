@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-05-28T07:00:01-03:00",
+  "updated_at": "2026-05-29T07:00:01-03:00",
   "executions": [
+    {
+      "date": "2026-05-29",
+      "key": "2026-05-29",
+      "topic": "mercado de IA",
+      "summary": "Opus 4.8 4x menos bugs; GPT-5.5 -52.5% alucinações; Veo 3.1 domina (Sora morre em 6 meses); Grok 4.3 US$1.25/M frontier-grade; Mistral Vibe unifica trabalho+código; Perplexity +335% YoY (US$500M ARR); Cursor /multitask paralelo; Benchmarks plateau (todos ~95%); Sora fim US$1M/dia; Vídeo-IA 78% adoção",
+      "items_count": 10
+    },
     {
       "date": "2026-05-28",
       "key": "2026-05-28",

@@ -1,0 +1,1030 @@
+{
+  "date": "2026-05-29",
+  "topic": "mercado de IA",
+  "topic_slug": "mercado-de-ia",
+  "generated_at": "2026-05-29T07:00:01-03:00",
+  "items": [
+    {
+      "title": "Claude Opus 4.8: 4x menos bugs de código que versão anterior",
+      "summary": "Anthropic lança Claude Opus 4.8 mantendo o mesmo preço do 4.7, mas com 4x menos probabilidade de falhas no código e novas features como controle de esforço computacional e fluxos de trabalho dinâmicos com centenas de subagentes paralelos.",
+      "source": "Anthropic Blog",
+      "link": "https://www.anthropic.com/news/claude-opus-4-8",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Claude Opus 4.8 redefine qualidade de código com 4x menos erros",
+        "caption": "Anthropic jogou pesado. Claude Opus 4.8 chegou com uma promessa: código 4x mais confiável que a versão anterior. Mesmo preço. Isso muda tudo pra Dev teams. #Claude #IA #Código #Antropic #DevTools",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "NOVA ERA DO CÓDIGO",
+            "title": "Opus 4.8: o fim dos bugs",
+            "highlight": "fim dos bugs",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "A MÉTRICA QUE IMPORTA",
+            "title": "4x menos falhas",
+            "highlight": "4x",
+            "body": "Claude Opus 4.8 tem 4 vezes menos probabilidade de deixar passar bugs que ele mesmo cria. Versus o 4.7. Mesmo preço. Essa é a história.",
+            "stat": "4x",
+            "stat_label": "redução em falhas de código",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "COMO CHEGOU AQUI",
+            "title": "Treinamento aprimorado",
+            "highlight": "aprimorado",
+            "body": "Anthropic refinava os algoritmos de detecção de erros. O modelo agora sinaliza com mais frequência suas próprias incertezas, reduzindo afirmações sem embasamento. Raciocínio > confiança cega.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDA O GAME",
+            "title": "Código 4x mais confiável = menos revisão",
+            "highlight": "menos revisão",
+            "body": "Menos bugs significam menos tempo em code review. Menos tempo em review = ship faster. Esse é o composto: qualidade direta em velocidade. Dev teams economizam horas por sprint.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "O QUE MUDOU",
+            "title": "Controle de esforço + workflows dinâmicos",
+            "highlight": "esforço",
+            "body": "Controle de Esforço permite escolher quanto poder computacional o Claude aplica. Fluxos de Trabalho Dinâmicos permitem planejamento automático e execução de centenas de subagentes em paralelo. Tudo em 1 sessão.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM USA AGORA",
+            "title": "Dev teams + startups de IA",
+            "highlight": "startups",
+            "body": "Se tu é dev ou tech lead que depende de Claude pra gerar código, é time pra subir pra 4.8 HOJE. Wall Street, startups, enterprises estão já migrando. Quem não migra fica 4x mais lento em qualidade.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO DO DIA",
+            "title": "Qualidade é o novo preço",
+            "highlight": "Qualidade",
+            "body": "Antes a disputa era por preço (quem é mais barato). Agora é por QUALIDADE e SPEED PAIRED. Opus 4.8 prova que Anthropic entendeu: no AI, menos bugs vale mais que 1% de melhora de benchmark.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva e segue @rafaondei",
+            "highlight": "segue",
+            "body": "Quer mais radar de IA com aplicação REAL pra teu negócio? Segue nosso perfil. Toda sexta tem carrossel novo com as 10 notícias mais relevantes do mercado.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "GPT-5.5 Instant: 52.5% menos alucinações que antecessor",
+      "summary": "OpenAI atualiza ChatGPT com GPT-5.5 Instant como novo padrão, com 52.5% redução em alucinações em tópicos de alto risco (medicina, direito, finanças), novas features de memória interativa e visibilidade de contexto personalizado.",
+      "source": "OpenAI",
+      "link": "https://openai.com/index/gpt-5-5-instant/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "GPT-5.5 Instant é 52% menos mentiroso em tópicos críticos",
+        "caption": "OpenAI jogou 52% de desconto em alucinações. GPT-5.5 Instant agora é o padrão de todo ChatGPT. Em medicina, direito, finanças — o modelo mente MUITO menos. Isso é segurança pura. #OpenAI #GPT #IA #Segurança",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "O MAIOR PROBLEMA DO GPT",
+            "title": "52% menos alucinações",
+            "highlight": "menos",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "MÉTRICA QUE SALVA VIDAS",
+            "title": "52.5% redução em falsos positivos",
+            "highlight": "52.5%",
+            "body": "Em tópicos de alto risco como medicina, direito e finanças, GPT-5.5 Instant reduz alucinações (respostas falsas confiantes) em 52.5% versus a versão anterior. Não é melhoria marginal. É disruptiva.",
+            "stat": "52.5%",
+            "stat_label": "redução em alucinações críticas",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "POR QUE IMPORTA TANTO",
+            "title": "Alucinação é o maior risco de IA",
+            "highlight": "maior risco",
+            "body": "Um médico que confia em IA alucinada pra diagnosticar pode errar em vida humana. Um advogado que cita jurisprudência falsa perde processo. Uma resposta financeira errada custa dinheiro real. GPT-5.5 reduz esses riscos brutalmente.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDA TUDO",
+            "title": "Profissionais podem começar a confiar",
+            "highlight": "confiar",
+            "body": "Antes, IA era 'copilot arriscado' em decisões críticas. Agora GPT-5.5 pode ser 'segunda opinião confiável' em medicina, direito, finanças. Isso abre mercados GIGANTES (saúde, legal tech, fintech).",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Memória interativa + contexto personalizado",
+            "highlight": "Memória",
+            "body": "GPT-5.5 agora oferece 'Memory Sources' — tu vê exatamente qual contexto foi usado pra personalizar a resposta. Podes deletar ou corrigir o que tá desatualizado. Transparência = confiança.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRÁ QUEM MUDA A VIDA",
+            "title": "Médicos, advogados, consultores financeiros",
+            "highlight": "Médicos",
+            "body": "Se tu trabalha em profissão de alto risco (saúde, jurídico, finanças), GPT-5.5 é upgrade crítico. 52% menos alucinações = 52% mais seguro pra usar em decisões reais. Upgrade HOJE.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "APRENDIZADO",
+            "title": "Confiabilidade > Inteligência pura",
+            "highlight": "Confiabilidade",
+            "body": "A corrida de IA virou: quem consegue ser CONFIÁVEL ganha o mercado de profissionais. GPT-5.5 entendeu que 52% menos alucinações vale mais que 1% de melhora em benchmark abstrato.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva e segue @rafaondei",
+            "highlight": "segue",
+            "body": "Quer radar completo de IA? Segue a gente. Toda semana, 10 notícias de IA com aplicação REAL — prá médicos, advogados, empreendedores, devs.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Veo 3.1 domina mercado de vídeo: Sora morre após 6 meses",
+      "summary": "OpenAI encerra Sora em março 2026 após apenas 6 meses de operação ($1M+ diários de prejuízo). Google Veo 3.1 vira líder com geração de vídeo 4K, áudio sincronizado, vertical para YouTube Shorts, todas as features GRÁTIS.",
+      "source": "Google AI Blog / CNN Brasil",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-ingredients-to-video/",
+      "category": "ferramenta",
+      "recommended": true,
+      "carousel": {
+        "theme": "Sora morreu, Veo 3.1 domina 100% do mercado de vídeo",
+        "caption": "A história mais brutal de 2026: OpenAI lança Sora como 'o futuro de vídeo', paga US$ 1M+ por dia em custos, e encerra tudo em 6 meses. Entretanto, Google Veo 3.1 está GRÁTIS gerando vídeos 4K com áudio sincronizado. Isso é o que chama 'market disruption'. #Sora #Veo #GoogleWins #VideoAI",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "O MAIOR FRACASSO DE 2026",
+            "title": "Sora morreu, Veo venceu",
+            "highlight": "venceu",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O CUSTO DO FRACASSO",
+            "title": "6 meses até o fim",
+            "highlight": "6 meses",
+            "body": "Sora foi lançado com alarde máximo em 2024, atingiu 1 milhão de downloads em dias. OpenAI prometeu revolucionar vídeo. Em março de 2026 — apenas 6 meses depois — encerram o projeto completamente. É raro uma big tech admitir fracasso tão rápido.",
+            "stat": "6 meses",
+            "stat_label": "até o encerramento",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "COMO FOI O FRACASSO",
+            "title": "US$ 1M+ por dia em custos",
+            "highlight": "US$ 1M+",
+            "body": "Sora consumia poder computacional absurdo — geração de vídeo em IA é CARA. OpenAI gastava mais de 1 milhão de dólares por dia rodando Sora em GPU clusters gigantes. A receita não cobria. Insustentável.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDA O JOGO",
+            "title": "Veo 3.1 muda tudo agora",
+            "highlight": "muda",
+            "body": "Enquanto OpenAI queimava US$ 1M/dia, Google estava perfezendo Veo 3.1. Hoje: vídeo 4K nativo, áudio sincronizado, geração vertical para YouTube Shorts — TUDO GRÁTIS dentro do Google AI Studio. Competição brutal.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "O QUE VEO 3.1 FAZ",
+            "title": "Vídeo 4K + áudio nativo em 1 clique",
+            "highlight": "4K",
+            "body": "Veo 3.1 gera vídeo a partir de texto (ou imagem + texto), criando cenas realistas em qualidade cinemática. Adiciona som effects, ambiente, até diálogo automaticamente. Sem cobrar nada. Veo 3.1 Lite é 50% mais barato pra devs.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM GANHA AGORA",
+            "title": "Creators, e-commerce, marketers",
+            "highlight": "Creators",
+            "body": "Tu que faz conteúdo pra Instagram, YouTube, TikTok — podes gerar vídeo profissional EM CASA, GRÁTIS, em minutos. Ecommerce poda gerar vídeos de produtos sem câmera. Marketers podem prototipar campanhas visuais rápido.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO BRUTAL",
+            "title": "Construir barato bate lançamento caro",
+            "highlight": "barato",
+            "body": "Sora: estratégia de lançamento explosivo + custos irracionais = fracasso em 6 meses. Veo: construção silenciosa, eficiência, integração com Google = domínio do mercado em semanas. Slow and steady (engineering) ganha de fast and furious (marketing).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva e segue @rafaondei",
+            "highlight": "segue",
+            "body": "Quer saber qual ferramenta de IA vai sobrar daqui 6 meses? Segue nosso perfil. Toda sexta: radar completo do mercado de IA com aplicação real pra teu negócio.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Grok 4.3: modelo frontier com 1M tokens por US$ 1.25/M",
+      "summary": "xAI lança Grok 4.3 com 1 milhão de tokens de contexto, raciocínio nativo, entrada de vídeo, e preço desastrosamente barato: US$ 1.25 por milhão de tokens de entrada (12x mais barato que competidores frontier).",
+      "source": "xAI Docs / CodersEra",
+      "link": "https://x.ai/news",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Grok 4.3: 1M contexto + raciocínio por US$ 1.25/M",
+        "caption": "xAI acabou de tirar a IA cara da mesa. Grok 4.3 é um modelo FRONTIER (nível GPT-5.5, Opus 4.8) com 1 MILHÃO de tokens de contexto por apenas US$ 1.25 por milhão. Isso é economia de escala agressiva. #Grok #xAI #IA #Preço",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "A GUERRA DE PREÇO",
+            "title": "Grok 4.3: barato demais",
+            "highlight": "barato",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "PREÇO HISTÓRICO",
+            "title": "US$ 1.25 / 1M tokens entrada",
+            "highlight": "US$ 1.25",
+            "body": "Grok 4.3 custa US$ 1.25 por milhão de tokens de entrada e US$ 2.50 por milhão de OUTPUT. Compare com Opus 4.8 (~US$ 12/M entrada) ou GPT-5.5 (~US$ 2-5/M). Grok é pelo menos 10x mais barato que frontier-grade contemporâneos.",
+            "stat": "12x",
+            "stat_label": "mais barato que Opus/GPT",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "COMO GROK CHEGOU AQI",
+            "title": "xAI investiu em eficiência",
+            "highlight": "eficiência",
+            "body": "xAI otimizou arquitetura de Mixture of Experts para rodar em menor cluster. Resultado: custo operacional tão baixo que podem precificar 1.25/M e ainda ganhar margem. É engenharia ganhand de hype.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDA ECONOMIA",
+            "title": "IA frontier virou commodity",
+            "highlight": "commodity",
+            "body": "Quando Grok custa 1.25/M, modelos 'premium' a 5-12/M perdem justificativa de preço. Devs passam a considerar Grok PRIMEIRO. Isso quebra margens de OpenAI, Anthropic. IA frontier deixou de ser luxo — virou utilidade pura.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "SPECS DE GROK 4.3",
+            "title": "1M tokens + raciocínio nativo + vídeo",
+            "highlight": "1M tokens",
+            "body": "Grok 4.3 traz 1 milhão de tokens de contexto window (cabe romances inteiros em 1 prompt). Raciocínio nativo (tipo Opus DeepSeek). Entrada de vídeo pra análise. Tudo barato. É um combo de features premium a preço commodity.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRÁ QUEM MUDA",
+            "title": "Startups, agências, devs freelancer",
+            "highlight": "Startups",
+            "body": "Se tu roda API de IA em volume (processamento em lote, RAG em larga escala, chatbots de 24/7), Grok 4.3 reduz bill de IA em até 80%. Startups que custeavam US$ 10k/mês agora custam US$ 2k. Margem explode.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO DO DIA",
+            "title": "Escala vence premium",
+            "highlight": "Escala",
+            "body": "xAI entendeu que vence com VOLUME + preço baixo, não com hype. Grok 4.3 não é melhor que Opus em raciocínio puro. Mas é TÃO mais barato que qualquer negócio baseado em IA agora precisa considerar Grok PRIMEIRO.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva e segue @rafaondei",
+            "highlight": "segue",
+            "body": "Quer economizar em API de IA? Segue a gente pra radar semanal do mercado. Toda semana: 10 notícias com impacto direto em teu custo de IA.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Mistral Vibe: plataforma unificada de trabalho e código com MCP nativo",
+      "summary": "Mistral lança Vibe como plataforma unificada (Le Chat + código integrados), Work Mode para tarefas longas, Code Mode para pull requests remotas, Connectors com suporte a MCP nativo, e integração com Emmi AI (simulação física industrial).",
+      "source": "Mistral AI News",
+      "link": "https://mistral.ai/news/",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Mistral Vibe unifica trabalho e código em 1 plataforma",
+        "caption": "Mistral entrou na guerra do all-in-one e ficou forte. Vibe é uma plataforma que une Le Chat (chat normal) + modo de código remoto + Work Mode (tarefas longas). Agora é 1 licença pra tudo. MCP nativo. #Mistral #IA #DevTools #Código",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "NOVA ESTRATÉGIA",
+            "title": "Vibe: 1 agente, 1 licence",
+            "highlight": "1 agente",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "UNIFICAÇÃO",
+            "title": "Le Chat é agora Vibe",
+            "highlight": "Vibe",
+            "body": "Mistral renomeou Le Chat pra Vibe e integrou tudo: chat normal, Code Mode (geração e execução remota), Work Mode (tarefas que rodam 24/7). Uma única licence. Uma única interface. Tudo sincronizado.",
+            "stat": "1 licence",
+            "stat_label": "pra trabalho + código",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE MUDOU",
+            "title": "Conversas agora atravessam contextos",
+            "highlight": "contextos",
+            "body": "Em Vibe, tu começa um chat normal, passa pro Code Mode (que roda código remotamente), volta pra chat — tudo em 1 conversa. Contexto é preservado. Configurações viajam. É como trocar de modo de operação sem perder historia.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDA A WORKFLOW",
+            "title": "Agora é possível rodar workflows complexos",
+            "highlight": "workflows",
+            "body": "Work Mode permite que Vibe execute tarefas de longa duração (rodar testes, processar arquivos, fazer pulls requests) sem tu ter que manter chat aberto. O agente trabalha ENQUANTO tu faz outra coisa. Foco real.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "FEATURES NOVAS",
+            "title": "Connectors + MCP nativo + Emmi AI",
+            "highlight": "Connectors",
+            "body": "Vibe traz Connectors (integração com SharePoint, Outlook, GitHub, Linear nativo). MCP support significa que tu podes conectar ferramentas custom. Emmi AI (simulação física industrial) agora roda dentro de Vibe — bom pra manufacturing.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRÁ QUEM IMPORTA",
+            "title": "Tech teams que querem tudo em 1 lugar",
+            "highlight": "Tech teams",
+            "body": "Se tua equipe usa IA pra brainstorm + desenvolvimento + automação, Vibe consolida em 1 tool. Menos context switching. Menos fricção. Equipes de 2-50 pessoas saem ganhando — menos overhead de integração.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O PATTERN",
+            "title": "IA é agora 'infraestrutura universal'",
+            "highlight": "infraestrutura",
+            "body": "Antes havia chat genérico + coding tools separados. Agora Vibe (Mistral), Cursor (coding), ChatGPT (genérico) competem como PLATAFORMAS unificadas. Quem conseguir melhor UX e integração ganha tudo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva e segue @rafaondei",
+            "highlight": "segue",
+            "body": "Quer saber qual ferramenta de IA vai dominar 2026? Segue nosso radar semanal. 10 notícias de IA toda sexta com aplicação real pra teu negócio.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Perplexity crescimento 335% YoY: ARR saltou de $150M pra $500M em 5 meses",
+      "summary": "Perplexity AI chega a US$ 500 milhões de ARR em abril 2026 (335% crescimento year-over-year). Computer agent (fevereiro 2026) disparou monetização. Plataforma serve 100M+ MAU com agents. Entretanto, enfrenta lawsuits de CNN, NYT, Chicago Tribune por content scraping.",
+      "source": "Sacra / CNN",
+      "link": "https://www.cnn.com/2026/05/28/media/cnn-sues-perplexity-ai-copyright",
+      "category": "aplicação",
+      "recommended": false,
+      "carousel": {
+        "theme": "Perplexity vai pra US$ 500M ARR em 5 meses (+335% YoY)",
+        "caption": "A história de crescimento mais absurda de 2026: Perplexity salta de US$ 150M ARR pra US$ 500M em apenas 5 meses. Tá falando de US$ 60M MRR. Como? Agents funcionam. Mas: CNN, NYT estão processando por copyright. #Perplexity #IA #Startups #Crescimento",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "CRESCIMENTO EXPONENCIAL",
+            "title": "Perplexity: US$ 500M ARR",
+            "highlight": "US$ 500M",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "OS NÚMEROS REAIS",
+            "title": "335% crescimento anual",
+            "highlight": "335%",
+            "body": "Perplexity saiu de US$ 150M ARR (dezembro 2025) pra US$ 500M ARR (abril 2026). Tá falando de US$ 42 milhões novos por mês. Crescimento de 335% year-over-year. Seria unheard of se não fosse agents.",
+            "stat": "335%",
+            "stat_label": "crescimento YoY",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O CATALISADOR",
+            "title": "Computer agent virou negócio",
+            "highlight": "Computer agent",
+            "body": "Perplexity lançou Computer agent em fevereiro 2026 — uma IA que executa tarefas no teu desktop (preenche formulários, marca voos, envia emails). Monetização disparou. 100M+ MAU agora. Enterprise ficou louco.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDA MERCADO",
+            "title": "Agents são o negócio novo",
+            "highlight": "Agents",
+            "body": "Antes startups de IA eram 'nice to have' pra pesquisa. Computer agent prova que agents são 'must have' pra produtividade. Perplexity virou platform pra automação pessoal. Mercado = billions potenciais.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA MONETIZAÇÃO",
+            "title": "Comet + Personal Computer + Deep Research",
+            "highlight": "Monetização",
+            "body": "Perplexity oferece 3 camadas: free (pesquisa básica), Pro (searches ilimitado), Pro+ (agents + Comet browser + Personal Computer). Cada feature tem upgrade path claro. Isso é machine pra conversion.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRÁ QUEM IMPORTA",
+            "title": "Profissionais que automatizam tarefas repetitivas",
+            "highlight": "Profissionais",
+            "body": "Se tu faz booking de viagens, preenchimento de forms, automação de email — Perplexity Computer é pra ti. Economiza 5-10 horas/semana. Vale cada centavo de subscription.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A TENSÃO",
+            "title": "Crescimento VERSUS legal",
+            "highlight": "legal",
+            "body": "Perplexity cresce 335%, mas enfrenta lawsuits de CNN, NYT, Chicago Tribune. Acusação: scraping massivo de conteúdo sem licença. A empresa tem que escolher: crescer + pelear legal, ou negociar licenças e perder margem. Ambos custam.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva e segue @rafaondei",
+            "highlight": "segue",
+            "body": "Quer investir em startups de IA com traction? Segue a gente pra radar semanal. Toda sexta: top 10 notícias de IA com análise de mercado real.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Cursor v3.3: /multitask executa subagentes paralelos em background",
+      "summary": "Cursor lança v3.3 com comando /multitask para rodar múltiplos agentes assincronamente (paralelização real), melhorias em long-chat handling, e visibilidade de consumo de contexto. Cursor já atingiu $2B ARR em 2026, 1M+ pagos.",
+      "source": "Cursor Changelog",
+      "link": "https://cursor.com/changelog",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Cursor v3.3: /multitask roda agents paralelos em background",
+        "caption": "Cursor chegou em v3.3 e finalmente liberou /multitask. Agora tu podes rodar múltiplas tarefas em PARALELO — um agent faz unit tests enquanto outro refatora componentes. Tudo sem bloquear. #Cursor #DevTools #IA #Produtividade",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "PARALELIZAÇÃO REAL",
+            "title": "/multitask mudou o jogo",
+            "highlight": "mudou",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O QUE ERA ANTES",
+            "title": "Agents rodavam em fila",
+            "highlight": "fila",
+            "body": "Antes de v3.3, Cursor executava agents UM POR VEZ. Task A terminava, aí Task B começava. Se tu pedisse 3 refatores paralelos, tudo ficava lento. Era serial quando deveria ser paralelo.",
+            "stat": "V3.3",
+            "stat_label": "agora paralelo",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "COMO FUNCIONA AGORA",
+            "title": "/multitask roda tasks SIMULTÂNEAS",
+            "highlight": "SIMULTÂNEAS",
+            "body": "Com /multitask, tu roda tipo: 'refatora componentes A, B, C + roda testes + atualiza tipos simultaneamente'. Tudo executa em paralelo em subagentes distintos. Resultado final é entregue junto quando tudo termina.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "IMPACTO NA VELOCITY",
+            "title": "Ship 3-4x mais rápido",
+            "highlight": "3-4x",
+            "body": "Se antes levava 20 minutos pra fazer 3 tarefas sequenciais, agora leva 6 minutos paralelo. Se tu roda /multitask em 10 PRs/dia, economiza 2-3 horas por dia. Semana inteira de velocidade extra.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "A FEATURE TÉCNICA",
+            "title": "Context usage visibility + long-chat fix",
+            "highlight": "Context",
+            "body": "v3.3 também traz breakdown visual do quanto contexto tu já usou (pra você saber quando tá ficando perto do limit). Arrumou o 'jumpiness' em chats longos — a IA para de ficar nervosa em contexto longo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRÁ QUEM IMPORTA",
+            "title": "Dev teams que querem ship rápido",
+            "highlight": "Dev teams",
+            "body": "Se tu trabalha em startup ou empresa ágil, Cursor v3.3 com /multitask é upgrade crítico. Reduz tempo de feature branch em 60%. Menos context switching. Devs podem focar em decisão arquiteturada ao invés de tarefas de baixo nível.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O PATTERN",
+            "title": "Paralelização é a nova competição",
+            "highlight": "Paralelização",
+            "body": "Coding agents de antes (Copilot, ChatGPT Code) rodam sequencial. Cursor /multitask paralelo = 3-4x speedup real sem melhorar inteligência do modelo. Isso é engenharia de UX pura. O que limita agora é COORDENAÇÃO, não inteligência.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva e segue @rafaondei",
+            "highlight": "segue",
+            "body": "Quer tools de IA que aumentam REAL a sua produtividade? Segue a gente pra radar semanal de IA com aplicação prática.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "AI Benchmarks 2026: pricing collapse 14x (DeepSeek vs GPT-5.5)",
+      "summary": "Analise de benchmarks em maio 2026 revela que IA frontier models (Claude, GPT, Gemini, DeepSeek) chegaram a um platô de qualidade (~88-95% em MMLU), mas preços caíram brutalmente: DeepSeek V4-Flash custa US$ 0.14/M vs GPT-5.5 ~$2/M (14x gap).",
+      "source": "LM Council / Stanford AI Index",
+      "link": "https://lmcouncil.ai/benchmarks",
+      "category": "benchmark",
+      "recommended": false,
+      "carousel": {
+        "theme": "Benchmarks 2026: qualidade platô, preço colapso 14x",
+        "caption": "O mercado de IA entrou em inflexão. Todos os modelos frontier (Opus, GPT-5.5, Gemini) chegaram ~95% em inteligência pura. A diferença agora é PREÇO. DeepSeek V4-Flash por US$ 0.14/M vs GPT-5.5 por US$ 2/M — é 14x mais barato. Isso quebra margens. #IA #Benchmarks #Preço",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "A INFLEXÃO DO MERCADO",
+            "title": "Qualidade = plateau, Preço = crash",
+            "highlight": "crash",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "A LACUNA DE PREÇO",
+            "title": "DeepSeek 14x mais barato",
+            "highlight": "14x",
+            "body": "DeepSeek V4-Flash: US$ 0.14 / 1M input tokens. GPT-5.5: ~US$ 2.00 / 1M. Em output: DeepSeek US$ 0.28/M vs GPT-5.5 ~US$ 30/M (107x gap em output!). Você consegue rodar 1000 prompts de DeepSeek pelo preço de 1 GPT-5.5.",
+            "stat": "14x",
+            "stat_label": "diferença em input, 107x em output",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "COMO CHEGOU AQUI",
+            "title": "Todos os modelos chegaram ao topo",
+            "highlight": "topo",
+            "body": "Claude Opus 4.8: 94.6% em GPQA Diamond. Gemini 3.1 Pro: 94.3%. GPT-5.5: 93.9%. A diferença é ~1% — estatisticamente ruído. Ninguém consegue mais 10x melhor que ninguém. Ficou commodity.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDA TUDO",
+            "title": "Preço virou critério #1",
+            "highlight": "Preço",
+            "body": "Quando qualidade é igual (94% vs 95% = sem diferença real), você escolhe pelo preço. DeepSeek 14x mais barato significa que qualquer startup, agência, empresa que roda IA em volume migra pra DeepSeek HOJE. OpenAI e Anthropic perdem margem.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO DEEPSEEK CONSEGUE SER TÃO BARATO",
+            "title": "Engenharia de custo + escala",
+            "highlight": "custo",
+            "body": "DeepSeek é aberto (open-source). Roda em seus próprios chips. China tem custo de energia/GPU mais baixo. Tudo isso combinado = custo de operação 10-14x menor. É física econômica, não mágica.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRÁ QUEM MUDA HOJE",
+            "title": "Qualquer empresa que roda IA",
+            "highlight": "empresa",
+            "body": "Se tua empresa usa Claude/GPT pra chatbots, RAG, automação em volume, trocar pra DeepSeek reduz bill em 80%. Um chatbot que custava US$ 10k/mês agora custa US$ 1.2k. Impacto direto no bottom line.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO BRUTAL",
+            "title": "Commodity > Innovation agora",
+            "highlight": "Commodity",
+            "body": "IA frontier deixou de ser área de inovação — virou commodity. OpenAI/Anthropic não conseguem mais defender preço premium via 'melhor qualidade' quando diferença é <1%. Vence quem conseguir entregar 94% de qualidade mais barato.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva e segue @rafaondei",
+            "highlight": "segue",
+            "body": "Quer saber qual modelo de IA é melhor pra teu negócio em 2026? Segue a gente. Toda sexta: análise de mercado de IA com critério real (preço + performance).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Sora encerrado em março 2026: $1M+ diários de prejuízo até o fim",
+      "summary": "OpenAI encerra Sora oficialmente em março 2026, apenas 6 meses após lançamento com alarde massivo. Projeto consumiu +$1M diários em GPU costs. Sora 2 foi relançado como beta, mas OpenAI decide 'morrer' em favor de integrar vídeo em GPT-5.5.",
+      "source": "CNN Brasil / OpenAI",
+      "link": "https://www.cnnbrasil.com.br/tecnologia/openai-encerra-sora-ambicioso-projeto-de-geracao-de-videos-por-ia/",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "Sora: o projeto de US$ 1M/dia que OpenAI enterrou",
+        "caption": "A história que ninguém fala: OpenAI gastou US$ 1 MILHÃO POR DIA rodando Sora em GPUs. 6 meses depois, encerram o projeto inteiro. Nem chegou a lucrar. Que fracasso estratégico. #Sora #OpenAI #IA #Fracasso",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "O FRACASSO MAIS CARO",
+            "title": "US$ 1M/dia pra nada",
+            "highlight": "nada",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "CUSTO OPERACIONAL",
+            "title": "US$ 1M+ por dia em GPU",
+            "highlight": "US$ 1M+",
+            "body": "Sora gerava vídeo sob demanda — cada vídeo usava cluster gigante de A100/H100. OpenAI rodou por 6 meses. Custo de operação: US$ 1 milhão+ POR DIA. Sem lucro suficiente pra cobrir. Insustentável.",
+            "stat": "6 meses",
+            "stat_label": "até o colapso",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "COMO VIROU FRACASSO",
+            "title": "Demanda < Custo de operação",
+            "highlight": "Demanda",
+            "body": "OpenAI oferecia Sora por subscription (acesso ilimitado), mas demanda não era tanta quanto esperado. Pra gerar 1 vídeo, custos eram tão altos que nem cobriam na subscription média. Impossível ser lucratido.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDA DECISÃO ESTRATÉGICA",
+            "title": "OpenAI escolhe matar o projeto",
+            "highlight": "matar",
+            "body": "Ao invés de tentar lucrar com Sora standalone, OpenAI decidiu integrar geração de vídeo DENTRO do GPT-5.5. Menos hype, mas mais eficiente. Matar Sora poupava US$ 1M/dia = US$ 365M/ano.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "ESTRATÉGIA PÓS-SORA",
+            "title": "Sora 2 em beta + integração em ChatGPT",
+            "highlight": "integração",
+            "body": "OpenAI lançou Sora 2 como beta privado (mais eficiente), depois integrou vídeo como feature de ChatGPT (não standalone). Assim tu usas Video como add-on, não como produto separado. Reduz overhead de operação.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRÁ QUEM ESPERAVA",
+            "title": "Creators que apostaram em Sora",
+            "highlight": "Creators",
+            "body": "YouTubers, TikTokers que esperavam Sora pro seu workflow tiveram que migrar RÁPIDO pra Veo, Kling, Alibaba Wan. Sora era promessa, virou produto morto. Erro de confiança.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO DA HISTÓRIA",
+            "title": "Hype não paga infraestrutura cara",
+            "highlight": "Hype",
+            "body": "Sora provou que você não pode ser pure hype (grande anúncio, pouca demanda) com MODELO CARÍSSIMO de rodar. Custo de GPU é impiedoso. DeepSeek entendeu isso — barato de rodar = possível ser lucrativo. OpenAI perdeu US$ 365M.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva e segue @rafaondei",
+            "highlight": "segue",
+            "body": "Quer saber qual ferramenta de IA vai sobreviver em 2026? Segue a gente. Toda sexta: radar de IA analisando economicamente quem vai e quem não vai.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Mercado de geração de vídeo por IA: Veo 3.1, Sora 2, Kling, Alibaba Wan competem",
+      "summary": "Em 2026, mercado de vídeo-IA explodiu com 4 players disputando: Veo 3.1 (Google, grátis, 4K), Sora 2 (OpenAI, beta, cara), Kling 2.6 (Kuaishou, rápido), Alibaba Wan 2.6 (Alibaba, barato, rápido). Adoção em e-commerce, publicidade, redes sociais em 78% dos marketing teams.",
+      "source": "Google AI Blog / Synthesia",
+      "link": "https://www.synthesia.io/post/best-ai-video-generators",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "4 gigantes disputam o mercado de vídeo-IA em 2026",
+        "caption": "O mercado de geração de vídeo virou batalhão. Google Veo 3.1 grátis e 4K. OpenAI Sora 2 cara mas poderosa. Alibaba Wan barato e rápido. Kling é a queridinha de velocidade. E-commerce e marketing descobriram: 78% dos teams agora usam vídeo-IA. #VideoAI #Mercado",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "GUERRA DE VÍDEO",
+            "title": "4 gigantes, 1 mercado",
+            "highlight": "1 mercado",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "QUEM LIDERA",
+            "title": "78% de marketing teams usam vídeo-IA",
+            "highlight": "78%",
+            "body": "Em 2026, 78% dos marketing teams já adotaram geração de vídeo IA (vs 2% em 2024). E-commerce, publicidade, redes sociais. Mercado cresceu 40x em 18 meses. Agora é infraestrutura, não curiosidade.",
+            "stat": "78%",
+            "stat_label": "adoção em marketing",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "OS 4 PLAYERS",
+            "title": "Veo vs Sora vs Kling vs Wan",
+            "highlight": "Players",
+            "body": "Veo 3.1 (Google): qualidade cinemática, 4K, áudio nativo, GRÁTIS. Sora 2 (OpenAI): narrativa forte, cara. Kling (Kuaishou): super rápido, barato. Wan (Alibaba): velocidade, preço agressivo. Cada um tem nicho.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDA PRODUÇÃO DE CONTEÚDO",
+            "title": "Você pode fazer vídeo sem câmera",
+            "highlight": "sem câmera",
+            "body": "Creator social, e-commerce, marketer — ninguém mais PRECISA de estúdio, câmera, editor profissional. Tu podes criar vídeo 4K cinemático com texto. Isso democratizou VIDEO COMPLETAMENTE.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "AS DIFERENÇAS",
+            "title": "Qualidade vs Preço vs Velocidade",
+            "highlight": "Qualidade",
+            "body": "Veo: melhor qualidade, lento (1-2 min), grátis. Sora 2: narrativa impecável, caro, 30-60s. Kling: ultra-rápido (10s), preço médio. Wan: preço agressivo, rápido, qualidade média. Choose your tradeoff.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM USA",
+            "title": "Creadores, e-commerce, startups",
+            "highlight": "Creadores",
+            "body": "Tu criador de YouTube? Usa Veo pra B-rolls grátis. Tu e-commerce? Usa Kling pra gerar vídeos de produto em segundos. Tu startup? Usa Wan pra prototipar anúncios baratos. Cada um tem seu player de confiança.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O PADRÃO",
+            "title": "Vídeo virou commodity em 2026",
+            "highlight": "Vídeo",
+            "body": "Há 2 anos atrás: vídeo IA era experimento. 2026: é espinha dorsal de marketing. Produção de conteúdo deixou de ser 'gerar vídeo' pra ser 'escolher qual IA e iterar'. Commodity completa.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva e segue @rafaondei",
+            "highlight": "segue",
+            "body": "Quer saber qual ferramenta de vídeo-IA é melhor pra TUA produção? Segue a gente. Toda sexta: análise de tools com aplicação real.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    }
+  ],
+  "whatsapp": "🚀 RADAR IA — 29 DE MAIO\n\n1. **Claude Opus 4.8** — Anthropic lança modelo 4x mais confiável em código (mesmo preço). 64.3% SWE-Bench.\nhttps://www.anthropic.com/news/claude-opus-4-8\n\n2. **GPT-5.5 Instant** — OpenAI reduz alucinações em 52.5% em tópicos críticos (medicina, direito). Novo padrão ChatGPT.\nhttps://openai.com/index/gpt-5-5-instant/\n\n3. **Veo 3.1 domina** — Google vira líder de vídeo 4K grátis. Sora morreu em 6 meses (US$ 1M/dia prejuízo).\nhttps://blog.google/innovation-and-ai/technology/ai/veo-3-1-ingredients-to-video/\n\n4. **Grok 4.3** — xAI lança modelo frontier com 1M tokens por US$ 1.25/M (12x mais barato que Opus/GPT).\nhttps://x.ai/news\n\n5. **Mistral Vibe** — Le Chat vira plataforma unificada (chat + código + work mode + MCP nativo).\nhttps://mistral.ai/news/\n\n6. **Perplexity crescimento 335%** — Salta de US$ 150M pra US$ 500M ARR em 5 meses (agents funcionam). Mas CNN/NYT processam por copyright.\nhttps://www.cnn.com/2026/05/28/media/cnn-sues-perplexity-ai-copyright\n\n7. **Cursor v3.3** — /multitask executa agentes paralelos em background (3-4x speedup em refatoração).\nhttps://cursor.com/changelog\n\n8. **Benchmarks 2026** — Todos modelos frontier chegaram ~95% qualidade. Preço caiu 14x: DeepSeek US$ 0.14/M vs GPT-5.5 US$ 2/M.\nhttps://lmcouncil.ai/benchmarks\n\n9. **Sora encerrado** — OpenAI enterra projeto (6 meses, US$ 1M/dia prejuízo). Integra video no GPT-5.5 em vez.\nhttps://www.cnnbrasil.com.br/tecnologia/openai-encerra-sora-ambicioso-projeto-de-geracao-de-videos-por-ia/\n\n10. **Mercado de vídeo-IA** — Veo 3.1, Sora 2, Kling, Alibaba Wan competem. 78% marketing teams usam vídeo-IA em 2026.\nhttps://www.synthesia.io/post/best-ai-video-generators\n\n📊 Dashboard completo: https://rafaelondei.appnaia.com",
+  "instagram": "🔥 RADAR IA — 29 DE MAIO 🔥\n\nMercado de IA em inflexão TOTAL. Essa semana explodiram 10 notícias que mudam TUDO.\n\n**O destaque:** Sora morreu em 6 MESES (US$ 1M/dia prejuduízo). Google Veo 3.1 ganha TODAS as batalhas. Qualidade cinemática em 4K. GRÁTIS. Áudio sincronizado nativo. Isso é devastador.\n\nMas tem mais: Claude Opus 4.8 chegou (4x menos bugs em código). GPT-5.5 reduz alucinações em 52%. Preços caem 14x (DeepSeek vs OpenAI). Grok por US$ 1.25/M (é insano). Mistral unifica tudo em Vibe.\n\nPerplexity explodiu 335% YoY (US$ 500M ARR). Agents FUNCIONAM agora. Mas CNN/NYT estão processando.\n\nCursor v3.3: /multitask roda agents paralelos = 3-4x speedup real.\n\nMercado de vídeo-IA: 78% de marketing teams já usam. Não é mais experimento. É commodity.\n\n**Takeaway:** IA deixou de ser área de inovação. Virou commodity com margens colapsando. Quem conseguir entregar 95% de qualidade mais barato vence TUDO. Price war é BRUTAL.\n\nSegue @rafaondei pra radar de IA toda sexta. 10 notícias com aplicação real pro teu negócio.\n\n#IA #Claude #OpenAI #Anthropic #ChatGPT #Grok #MistralAI #Perplexity #Cursor #VideoAI #Veo #Sora #InteligenciaArtificial #Tecnologia #Empreendedorismo"
+}
