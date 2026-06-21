@@ -1,0 +1,1030 @@
+{
+  "date": "2026-06-21",
+  "topic": "mercado de IA",
+  "topic_slug": "mercado-de-ia",
+  "generated_at": "2026-06-21T07:00:01-03:00",
+  "items": [
+    {
+      "title": "Governo dos EUA manda Anthropic desligar Claude Fable 5 e Mythos 5",
+      "summary": "Por ordem de controle de exportacao citando seguranca nacional, Anthropic suspendeu acesso global aos modelos de fronteira Fable 5 e Mythos 5 dias apos o lancamento. Motivo: um jailbreak estreito que pedia ao modelo pra ler um codebase e corrigir falhas. Opus 4.8 e demais modelos seguem no ar.",
+      "source": "Anthropic",
+      "link": "https://www.anthropic.com/news/fable-mythos-access",
+      "category": "mercado",
+      "recommended": true,
+      "carousel": {
+        "theme": "Pela 1a vez um governo recolheu um modelo de IA de fronteira do mercado",
+        "caption": "Aconteceu o que ninguem imaginava: o governo dos EUA mandou a Anthropic DESLIGAR seus modelos mais poderosos (Fable 5 e Mythos 5) pra TODO mundo no planeta. Motivo? Um jailbreak que basicamente pedia pro modelo ler um codigo e achar falhas. A Anthropic discordou em publico, mas obedeceu. Isso muda a regra do jogo: agora um Estado pode puxar a tomada de uma IA comercial usada por centenas de milhoes. Geopolitica entrou de vez no AI. #IA #Anthropic #Claude #SegurancaNacional #Tecnologia",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "ACONTECEU PELA PRIMEIRA VEZ",
+            "title": "EUA mandam desligar a IA",
+            "highlight": "desligar a IA",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "A VELOCIDADE DO GOLPE",
+            "title": "3 dias do lancamento ao desligamento",
+            "highlight": "3 dias",
+            "body": "Fable 5 saiu em 9 de junho como o modelo aberto mais capaz da Anthropic. Em 12 de junho, as 17h21 (ET), chegou a ordem do governo. O acesso foi cortado pra todos no mundo. Do hype ao recall em 72 horas.",
+            "stat": "3 dias",
+            "stat_label": "do lancamento a suspensao",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE O GOVERNO ALEGOU",
+            "title": "Controle de exportacao por seguranca nacional",
+            "highlight": "seguranca nacional",
+            "body": "A Casa Branca usou autoridade de export control pra proibir qualquer estrangeiro (dentro ou fora dos EUA, incluindo funcionarios da Anthropic) de acessar Fable 5 e Mythos 5. Como a ordem era ampla demais, a Anthropic optou por desligar pra TODOS.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDA A REGRA DO JOGO",
+            "title": "Um Estado pode puxar a tomada de qualquer IA",
+            "highlight": "puxar a tomada",
+            "body": "Ate ontem o risco de um modelo era tecnico (cair, alucinar). Agora ha um risco novo: regulatorio em tempo real. Um governo pode, da noite pro dia, tirar do ar uma IA usada por centenas de milhoes. Quem construiu negocio em cima de 1 modelo so ficou exposto.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "O JAILBREAK EM QUESTAO",
+            "title": "Era so pedir pra ler um codigo e achar falhas",
+            "highlight": "ler um codigo",
+            "body": "A Anthropic disse que recebeu apenas evidencia verbal de um jailbreak estreito: pedir ao modelo pra ler um codebase especifico e corrigir os bugs. Pra empresa, recolher um modelo comercial por causa disso, se virasse padrao, paralisaria todo lancamento de IA de fronteira da industria.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM ISSO IMPORTA",
+            "title": "Quem depende de 1 unico modelo de IA",
+            "highlight": "1 unico modelo",
+            "body": "Se teu produto, agente ou operacao roda em cima de um unico modelo de fronteira, esse caso e teu alerta. Tem que ter plano B (multi-modelo, fallback). Empreendedor que automatizou venda ou atendimento com 1 API so precisa redundancia agora.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A LICAO",
+            "title": "IA virou ativo geopolitico",
+            "highlight": "geopolitico",
+            "body": "Modelo de fronteira deixou de ser produto e virou arma estrategica de Estado, como chip avancado. Quem usa IA no negocio tem que pensar como pensa quem depende de petroleo: diversificacao de fornecedor nao e luxo, e sobrevivencia.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PROXIMO PASSO",
+            "title": "Salva e segue @rafaondei",
+            "highlight": "segue",
+            "body": "Quer entender o mercado de IA com olho de quem aplica no negocio, nao so de quem comenta hype? Segue a gente. Todo dia o radar com as 10 noticias que importam de verdade.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "SpaceX vai comprar a Cursor por US$ 60 bilhoes",
+      "summary": "SpaceX fechou acordo pra adquirir a startup de coding com IA Cursor por US$ 60 bilhoes em acoes Classe A. A Cursor cruzou US$ 1 bilhao de receita anualizada. Fechamento previsto pra ate o fim de 2026. Movimento posiciona a SpaceX pra competir com Anthropic e OpenAI.",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/06/16/spacex-spcx-cursor-acquisition-ipo.html",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "SpaceX compra a Cursor por US$ 60 bi e entra na guerra da IA",
+        "caption": "A SpaceX (sim, a dos foguetes) vai comprar a Cursor, a queridinha dos devs, por US$ 60 BILHOES. A Cursor passou de US$ 1 bi de receita anual. Esse movimento coloca o Elon de vez dentro da guerra de IA por dois lados: Grok (xAI) e agora a melhor ferramenta de codigo do mercado. Quando uma empresa de foguete paga 60 bi numa ferramenta de programar, a mensagem e clara: software com IA virou ativo estrategico nivel aeroespacial. #Cursor #SpaceX #IA #DevTools #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "AQUISICAO BILIONARIA",
+            "title": "Foguete compra a IA de codigo",
+            "highlight": "compra a IA",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O NUMERO QUE CHOCA",
+            "title": "US$ 60 bilhoes pela Cursor",
+            "highlight": "US$ 60 bilhoes",
+            "body": "A SpaceX vai pagar US$ 60 bilhoes em acoes Classe A pela Cursor. Pra contexto: a Cursor passou de US$ 1 bilhao de receita anualizada. E uma das maiores aquisicoes de software com IA ja anunciadas. Fechamento previsto pra ate o fim de 2026.",
+            "stat": "US$ 60 bi",
+            "stat_label": "valor da aquisicao",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "POR QUE A SPACEX",
+            "title": "Elon quer competir com Anthropic e OpenAI",
+            "highlight": "competir",
+            "body": "Em abril a SpaceX ja tinha garantido o direito de comprar a Cursor por 60 bi. Agora oficializou. Junto com a xAI (Grok), o Elon passa a ter modelo proprio + a melhor ferramenta de coding do mercado. E um cerco aos dois lados da cadeia de IA.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDA O TABULEIRO",
+            "title": "Coding com IA virou ativo estrategico",
+            "highlight": "ativo estrategico",
+            "body": "Quando uma empresa de foguetes paga 60 bi por uma ferramenta de programar, fica claro: software com IA nao e mais 'nice to have', e infraestrutura critica. A consolidacao acelera. Ferramentas independentes viram alvo de aquisicao das gigantes.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "O QUE A CURSOR TRAZ",
+            "title": "1 milhao de devs pagantes + agentes",
+            "highlight": "1 milhao",
+            "body": "A Cursor virou padrao de mercado entre quem programa com IA: agentes autonomos, automacoes, review de PR, design mode. Comprar a Cursor e comprar a porta de entrada de milhoes de devs e o fluxo de dados de como software e construido hoje.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM IMPORTA",
+            "title": "Devs e fundadores que usam Cursor",
+            "highlight": "fundadores",
+            "body": "Se tua operacao roda em cima da Cursor, fica de olho: aquisicao costuma mudar preco, roadmap e integracoes. Pode vir Grok nativo, pode vir mudanca de planos. Por ora, segue tudo igual, mas vale acompanhar de perto.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A LICAO",
+            "title": "Construa algo que as gigantes queiram comprar",
+            "highlight": "queiram comprar",
+            "body": "A Curso nao venceu sendo a mais barata. Venceu sendo essencial pro fluxo de trabalho de quem programa. Lico pro empreendedor: vira indispensavel num nicho e o valuation vem. Utilidade real, nao hype, e o que faz uma gigante pagar 60 bi.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PROXIMO PASSO",
+            "title": "Salva e segue @rafaondei",
+            "highlight": "segue",
+            "body": "Quer acompanhar os movimentos de bilhoes que redesenham o mercado de IA? Segue a gente. Todo dia, as 10 noticias que importam com leitura de quem aplica no negocio.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Anthropic adia mudanca de cobranca que ia separar Agent SDK do plano",
+      "summary": "A Anthropic pausou na ultima hora a mudanca prevista pra 15 de junho que tiraria Agent SDK, claude -p (headless) e agentes de terceiros das assinaturas Pro/Max/Team, jogando pra um pool de credito em dolar medido a preco de API. Por ora nada muda: tudo segue puxando do limite da assinatura.",
+      "source": "The New Stack",
+      "link": "https://thenewstack.io/anthropic-agent-sdk-credits/",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "Anthropic recua na cobranca que ia encarecer agentes em Claude",
+        "caption": "Quem roda agente em cima do Claude quase tomou um susto na conta. A Anthropic ia, em 15 de junho, tirar o Agent SDK e o claude -p das assinaturas Pro e Max e jogar tudo num pool de credito medido a preco cheio de API. Na ultima hora, recuou. Por enquanto NADA muda: continua puxando do limite da tua assinatura. Mas o aviso ficou: o modelo de cobranca de IA agentica ainda vai mexer. Quem depende disso pra automatizar negocio tem que ficar de olho. #Claude #Anthropic #IA #Automacao #DevTools",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "QUASE MUDOU SUA CONTA",
+            "title": "O recuo na cobranca do Claude",
+            "highlight": "recuo na cobranca",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O QUE IA MUDAR",
+            "title": "Agent SDK sairia do plano em 15 de junho",
+            "highlight": "15 de junho",
+            "body": "O plano anunciado em maio: Agent SDK, claude -p (headless), GitHub Actions e agentes de terceiros sairiam das assinaturas e iriam pra um credito mensal em dolar (US$ 20 Pro, US$ 100 Max 5x, US$ 200 Max 20x) medido a preco cheio de API, sem rollover.",
+            "stat": "15 jun",
+            "stat_label": "data que foi cancelada",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE ACONTECEU",
+            "title": "Na ultima hora, a Anthropic pausou",
+            "highlight": "pausou",
+            "body": "Antes de entrar em vigor, a Anthropic suspendeu a mudanca. Disse que esta reformulando o plano pra apoiar melhor como as pessoas constroem com Claude e que vai avisar com antecedencia antes de qualquer mudanca futura. Por ora, nada muda.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "POR QUE IMPORTA",
+            "title": "O custo de IA agentica ainda vai mexer",
+            "highlight": "ainda vai mexer",
+            "body": "O recuo e alivio temporario, nao tregua definitiva. A direcao do mercado e clara: uso pesado de agente (que consome MUITO mais token que chat) tende a sair do flat-rate. Quem montou operacao assumindo assinatura barata pra sempre precisa modelar o cenario de credito metered.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "POR QUE A PRESSAO EXISTE",
+            "title": "Agente queima token como ninguem",
+            "highlight": "queima token",
+            "body": "Um agente que roda em loop, le codebase inteiro e dispara subagentes consome ordem de magnitude mais token que um chat humano. Cobrar isso por flat-rate e insustentavel pra quem oferece. Por isso a pressao por separar o pool de cobranca de agente.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM IMPORTA",
+            "title": "Indie hackers e quem automatiza com Claude Code",
+            "highlight": "automatiza",
+            "body": "Se tu usa Claude Code, Agent SDK ou claude -p pra automatizar tarefas no negocio, esse e o aviso pra mapear teu consumo real de token AGORA. Quando a mudanca voltar (e vai voltar), quem sabe o proprio custo se planeja melhor.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A LICAO",
+            "title": "Assinatura barata nao e garantia eterna",
+            "highlight": "nao e garantia",
+            "body": "Plano de IA muda rapido. Construir margem de negocio assumindo preco fixo permanente de IA e arriscado. Quem entende o custo real por token e tem fornecedor alternativo dorme tranquilo quando o pricing mexe.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PROXIMO PASSO",
+            "title": "Salva e segue @rafaondei",
+            "highlight": "segue",
+            "body": "Quer saber antes quando o preco da IA que tu usa vai mudar? Segue a gente. Todo dia, o radar com o que muda no teu custo de IA, sem hype.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "OpenAI entra com pedido sigiloso de IPO mirando mais de US$ 1 trilhao",
+      "summary": "Em 8 de junho a OpenAI protocolou confidencialmente na SEC um IPO mirando valuation acima de US$ 1 trilhao, com Goldman Sachs e Morgan Stanley liderando. A empresa ja roda US$ 2 bi de receita por mes (~US$ 24 bi anualizado) e passa de 900 milhoes de usuarios semanais no ChatGPT.",
+      "source": "Sacra / CNBC",
+      "link": "https://sacra.com/c/openai/",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "OpenAI mira IPO de US$ 1 trilhao com 900M de usuarios",
+        "caption": "A OpenAI protocolou pedido sigiloso de IPO mirando passar de US$ 1 TRILHAO de valuation. Os numeros explicam: US$ 2 bilhoes de receita POR MES (24 bi/ano) e mais de 900 MILHOES de usuarios semanais no ChatGPT. Seria uma das maiores aberturas de capital da historia. O recado pro mercado: IA generativa virou negocio de escala planetaria, e quem capturou distribuicao no consumidor virou trilionario em potencial. #OpenAI #ChatGPT #IA #IPO #Tecnologia",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "RUMO A BOLSA",
+            "title": "OpenAI mira US$ 1 trilhao",
+            "highlight": "US$ 1 trilhao",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "OS NUMEROS REAIS",
+            "title": "US$ 2 bi de receita por mes",
+            "highlight": "US$ 2 bi",
+            "body": "A OpenAI gera cerca de US$ 2 bilhoes de receita por mes, um run-rate anualizado de ~US$ 24 bilhoes. Em marco fechou rodada a US$ 852 bi de valuation. Agora mira IPO acima de US$ 1 trilhao. Goldman Sachs e Morgan Stanley lideram.",
+            "stat": "US$ 24 bi",
+            "stat_label": "receita anualizada",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O TAMANHO DA BASE",
+            "title": "Mais de 900 milhoes de usuarios por semana",
+            "highlight": "900 milhoes",
+            "body": "O ChatGPT passa de 900 milhoes de usuarios ativos semanais e 50 milhoes de assinantes. E a maior base de consumidor de IA do mundo. Distribuicao desse tamanho e o que sustenta a tese de valuation trilionario.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDA O MERCADO",
+            "title": "IA virou negocio de escala planetaria",
+            "highlight": "escala planetaria",
+            "body": "Um IPO de US$ 1 tri colocaria a OpenAI no clube das maiores empresas do mundo. Sinaliza que IA generativa nao e bolha de promessa: ja e receita de dezenas de bilhoes. Quem capturou distribuicao no consumidor virou candidato a trilionario.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO CHEGOU AQUI",
+            "title": "Consumo + assinatura + API + enterprise",
+            "highlight": "assinatura",
+            "body": "A receita vem de 4 frentes: ChatGPT Plus/Pro no consumidor, planos Team/Enterprise, API pra desenvolvedores e parcerias corporativas. Diversificar as fontes de receita e o que tira a empresa da dependencia de um unico canal.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM IMPORTA",
+            "title": "Investidor e fundador de olho no setor",
+            "highlight": "fundador",
+            "body": "Se tu acompanha o mercado pra investir ou empreender em IA, um IPO desse tamanho move TODO o setor: aquece valuation de concorrentes, atrai capital, e vira benchmark. O dinheiro institucional vai seguir o trilhao.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A LICAO",
+            "title": "Distribuicao vence tecnologia",
+            "highlight": "Distribuicao",
+            "body": "A OpenAI nem sempre tem o melhor modelo em benchmark. Mas tem 900 milhoes de pessoas usando todo dia. No fim, quem domina o canal com o cliente vale mais que quem tem 1% a mais de inteligencia. Distribuicao e o ativo que escala.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PROXIMO PASSO",
+            "title": "Salva e segue @rafaondei",
+            "highlight": "segue",
+            "body": "Quer entender os numeros por tras das manchetes de IA? Segue a gente. Todo dia, o radar com analise de mercado que serve pra decisao real.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "ChatGPT ganha Tarefas Agendadas: IA que trabalha sozinha no horario marcado",
+      "summary": "Em 17 de junho a OpenAI lancou Tarefas Agendadas no ChatGPT, com uma pagina dedicada pra ver, editar, pausar e deletar acoes automaticas. Assinantes de planos pagos podem criar lembretes, trabalho recorrente e tarefas de monitoramento que checam a web ou apps conectados proativamente.",
+      "source": "OpenAI",
+      "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "ChatGPT agora executa tarefas sozinho no horario que voce marcar",
+        "caption": "O ChatGPT deu um passo de assistente pra funcionario: agora ele faz Tarefas Agendadas. Voce marca uma acao (checar um preco toda manha, montar um resumo toda sexta, monitorar um site) e ele executa SOZINHO no horario, mesmo sem voce abrir o app. Tem pagina dedicada pra ver, pausar e editar tudo. Isso transforma a IA de 'eu pergunto, ela responde' pra 'ela trabalha em background pra mim'. Pra quem empreende, e automacao de rotina sem escrever uma linha de codigo. #ChatGPT #OpenAI #IA #Automacao #Produtividade",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "A IA QUE TRABALHA SOZINHA",
+            "title": "ChatGPT agora tem agenda",
+            "highlight": "tem agenda",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O QUE LANCOU",
+            "title": "Tarefas Agendadas pra planos pagos",
+            "highlight": "Tarefas Agendadas",
+            "body": "Em 17 de junho a OpenAI liberou Tarefas Agendadas no ChatGPT. Tem uma pagina dedicada pra ver, editar, pausar e deletar acoes automaticas. Assinantes pagos criam lembretes, trabalho recorrente e monitoramento que roda sozinho.",
+            "stat": "17 jun",
+            "stat_label": "data do lancamento",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Voce marca, ele executa no horario",
+            "highlight": "executa",
+            "body": "Tu defines uma tarefa em linguagem natural: 'todo dia as 8h, me traga as 3 noticias do meu setor' ou 'monitore se o preco desse produto cair'. O ChatGPT roda no horario marcado, checa a web ou apps conectados, e te entrega o resultado.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDA A RELACAO",
+            "title": "De 'pergunta e resposta' pra 'funcionario em background'",
+            "highlight": "funcionario",
+            "body": "Ate agora IA era reativa: tu perguntava, ela respondia. Agora ela e proativa: trabalha sozinha enquanto tu faz outra coisa. Esse e o salto de chatbot pra agente. A IA deixa de ser ferramenta e vira parte da operacao.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "O QUE DA PRA AUTOMATIZAR",
+            "title": "Resumos, monitoramento e lembretes recorrentes",
+            "highlight": "monitoramento",
+            "body": "Casos reais: briefing diario do teu mercado, monitorar mencao da tua marca, resumo semanal de metricas, lembrete de follow-up com cliente, checagem de concorrente. Tudo recorrente, tudo sem abrir o app. E automacao sem codigo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM IMPORTA",
+            "title": "Empreendedor que perde tempo com rotina",
+            "highlight": "rotina",
+            "body": "Se tu gasta 30 minutos por dia checando coisas repetitivas (noticias, precos, metricas), Tarefas Agendadas devolve esse tempo. Configura uma vez, recebe pronto todo dia. Pequeno negocio ganha um assistente que nunca esquece.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A LICAO",
+            "title": "A vantagem agora e quem automatiza primeiro",
+            "highlight": "automatiza primeiro",
+            "body": "A funcionalidade ta disponivel pra todo mundo. A diferenca vai ser quem PARA pra mapear as rotinas chatas e delega pra IA. Quem automatiza o repetitivo libera cabeca pra estrategia. O concorrente que nao faz isso fica no operacional.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PROXIMO PASSO",
+            "title": "Salva e segue @rafaondei",
+            "highlight": "segue",
+            "body": "Quer ideias praticas de como usar IA pra automatizar teu negocio? Segue a gente. Todo dia, o radar com aplicacao real, nao so noticia solta.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Grok chega nativo ao Databricks: IA da xAI roda direto no dado da empresa",
+      "summary": "Em 18 de junho, no Data + AI Summit, a xAI anunciou Grok nativo no Databricks Agent Bricks. A integracao conecta os modelos da xAI direto ao contexto guardado no Lakehouse, permitindo que agentes raciocinem sobre dados estruturados e nao estruturados da empresa sem passar por pipelines externos. Endpoints com zero retencao de dados.",
+      "source": "xAI",
+      "link": "https://x.ai/news/grok-databricks",
+      "category": "aplicação",
+      "recommended": false,
+      "carousel": {
+        "theme": "Grok roda dentro do Databricks, no dado da propria empresa",
+        "caption": "A xAI fechou um movimento enterprise pesado: o Grok agora roda NATIVO dentro do Databricks, a plataforma onde milhares de empresas guardam seus dados. Na pratica, um agente de IA pode raciocinar sobre os dados estruturados e nao estruturados da empresa SEM tirar esse dado de casa, com zero retencao. Isso resolve o maior medo do enterprise com IA: vazar dado sensivel. O Grok ja roda em Oracle, Azure, AWS Bedrock e agora Databricks. xAI virou opcao seria pra TI corporativa. #Grok #xAI #IA #Enterprise #Dados",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "IA DENTRO DO DADO DA EMPRESA",
+            "title": "Grok entra no Databricks",
+            "highlight": "no Databricks",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O ANUNCIO",
+            "title": "Grok nativo no Agent Bricks",
+            "highlight": "nativo",
+            "body": "Em 18 de junho, ao vivo no Data + AI Summit, a xAI anunciou que os modelos Grok rodam nativos no Databricks Agent Bricks. Pra empresas que ja rodam dados no Lakehouse, Grok fica a um clique de distancia de virar o motor de agentes em producao.",
+            "stat": "18 jun",
+            "stat_label": "anuncio no Data+AI Summit",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE MUDA NA PRATICA",
+            "title": "Agente raciocina sobre o dado sem exportar",
+            "highlight": "sem exportar",
+            "body": "A integracao conecta o Grok direto ao contexto guardado no Lakehouse. Agentes raciocinam sobre dados estruturados e nao estruturados da empresa sem rotear por pipelines externos. O dado nao sai de casa pra a IA trabalhar nele.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "RESOLVE O MAIOR MEDO",
+            "title": "Zero retencao de dados desbloqueia o enterprise",
+            "highlight": "Zero retencao",
+            "body": "O Databricks confirmou: os parceiros de modelo, incluindo a xAI, NAO retem dado enviado por esses recursos. Endpoints de zero retencao. Esse era o bloqueio numero 1 da TI corporativa pra adotar IA: medo de vazar dado. Com isso cai a barreira.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "O CERCO ENTERPRISE",
+            "title": "Oracle, Azure, AWS Bedrock e agora Databricks",
+            "highlight": "Databricks",
+            "body": "O Grok ja desembarcou em Oracle Cloud (jun/2025), Azure AI Foundry (set/2025), Amazon Bedrock e agora Databricks. A xAI esta colocando o Grok em todas as nuvens onde a empresa ja vive. Estrategia de estar onde o cliente corporativo ja esta.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM IMPORTA",
+            "title": "Empresas com dado proprio e medo de vazamento",
+            "highlight": "dado proprio",
+            "body": "Se teu negocio tem base de dados sensivel (clientes, financeiro, operacao) e travou a adocao de IA por seguranca, esse modelo de zero retencao no proprio ambiente e o caminho. Da pra ter agente inteligente sem entregar teu dado pra fora.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A LICAO",
+            "title": "A guerra de IA agora e por onde o dado mora",
+            "highlight": "onde o dado mora",
+            "body": "Modelo bom todo mundo tem. A disputa virou: quem chega mais perto do dado do cliente, com mais seguranca, ganha o enterprise. Por isso as gigantes correm pra estar nativas em cada nuvem. Proximidade do dado e o novo moat.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PROXIMO PASSO",
+            "title": "Salva e segue @rafaondei",
+            "highlight": "segue",
+            "body": "Quer entender como IA entra de verdade nas empresas, com seguranca? Segue a gente. Todo dia, o radar com leitura de quem aplica IA no mundo real.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Grok Imagine Video 1.5 vira lider de video-IA a US$ 4,20/min (vs US$ 30 do Sora 2)",
+      "summary": "Em 17 de junho a xAI lancou o Grok Imagine Video 1.5, assumindo o 1o lugar na Image-to-Video Arena com salto de +52 Elo, audio sincronizado nativo e preco de US$ 4,20/min contra US$ 30/min do Sora 2. A versao Fast gera video de 6s em 720p em cerca de 25 segundos.",
+      "source": "xAI",
+      "link": "https://x.ai/news/grok-imagine-video-1-5",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Grok Imagine 1.5 lidera video-IA a 1/7 do preco do Sora 2",
+        "caption": "A xAI jogou uma bomba no mercado de video por IA. O Grok Imagine Video 1.5 assumiu o 1o lugar no ranking de imagem-pra-video, com audio sincronizado nativo e um preco que humilha o concorrente: US$ 4,20 por minuto contra US$ 30/min do Sora 2 da OpenAI. E quase 1/7 do preco. A versao Fast cospe um video de 6 segundos em 720p em 25 segundos. Pra quem cria conteudo, isso e producao de video profissional ficando barata de verdade. #Grok #xAI #VideoIA #IA #Conteudo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "A NOVA LIDER DE VIDEO-IA",
+            "title": "Grok Imagine humilha o Sora",
+            "highlight": "humilha o Sora",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O PRECO QUE CHOCA",
+            "title": "US$ 4,20/min vs US$ 30/min do Sora 2",
+            "highlight": "US$ 4,20",
+            "body": "O Grok Imagine Video 1.5 custa US$ 4,20 por minuto de video. O Sora 2 da OpenAI custa US$ 30 por minuto. E quase 1/7 do preco pela mesma entrega (ou melhor). Pra quem gera video em volume, a diferenca de custo e brutal.",
+            "stat": "7x",
+            "stat_label": "mais barato que o Sora 2",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "NAO E SO PRECO",
+            "title": "1o lugar na Image-to-Video Arena",
+            "highlight": "1o lugar",
+            "body": "O modelo assumiu o topo do ranking de imagem-pra-video com salto de +52 Elo. Melhor movimento, melhor fisica, audio (efeitos, ambiente e dialogo) gerado na mesma passada e sincronizado com a acao. Qualidade lider, nao so preco baixo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDA A PRODUCAO DE CONTEUDO",
+            "title": "Video profissional ficou barato de verdade",
+            "highlight": "barato de verdade",
+            "body": "Quando lider de qualidade encontra 1/7 do preco, video por IA deixa de ser luxo e vira commodity acessivel. Creator, e-commerce e marketer podem gerar video cinematografico em volume sem estourar orcamento. A barreira de custo caiu.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "A VELOCIDADE",
+            "title": "Video de 6s em 720p em ~25 segundos",
+            "highlight": "25 segundos",
+            "body": "A versao Fast quase dobrou a velocidade: gera video de 6 segundos em 720p em cerca de 25 segundos, contra 40+ da versao anterior. Ja esta fora do preview e disponivel na API (grok-imagine-video-1.5), no grok.com/imagine e nos apps iOS e Android.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM IMPORTA",
+            "title": "Quem cria conteudo pra redes e e-commerce",
+            "highlight": "cria conteudo",
+            "body": "Se tu produz Reels, anuncio, video de produto ou B-roll, da pra gerar em casa, rapido e barato. E-commerce monta video de produto sem estudio. Marketer prototipa campanha visual em minutos. Custo de producao despenca.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A LICAO",
+            "title": "Lider de qualidade + preco agressivo vence",
+            "highlight": "preco agressivo",
+            "body": "A xAI nao foi so a mais barata nem so a melhor: foi as duas ao mesmo tempo. No mercado de IA de 2026, quem entrega qualidade de topo a fracao do preco rouba o mercado. Custo virou tao decisivo quanto capacidade.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PROXIMO PASSO",
+            "title": "Salva e segue @rafaondei",
+            "highlight": "segue",
+            "body": "Quer saber qual ferramenta de video-IA vale o teu dinheiro? Segue a gente. Todo dia, o radar com tools de IA testadas pela otica de quem produz.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Anthropic abre escritorio em Seul com NAVER, Samsung SDS e LG no Claude",
+      "summary": "Em 17 de junho a Anthropic abriu seu 3o escritorio na Asia-Pacifico (apos Toquio e Bengaluru), em Seul. Anunciou implantacoes enterprise com NAVER (Claude Code em toda a engenharia), Samsung SDS, LG CNS, Nexon, Hanwha e Channel Corp, alem de MOU com o ministerio de ciencia da Coreia pra seguranca de IA.",
+      "source": "Anthropic",
+      "link": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "Anthropic crava bandeira na Coreia com gigantes adotando Claude",
+        "caption": "Enquanto o governo dos EUA aperta o cerco de exportacao, a Anthropic faz o movimento contrario la fora: abriu escritorio em Seul e ja chegou com NAVER, Samsung SDS, LG CNS, Nexon e Hanwha rodando Claude. A NAVER vai usar Claude Code em TODA a engenharia. Tem ate MOU com o governo coreano pra seguranca de IA. O recado: a corrida de IA nao e so quem tem o melhor modelo, e quem planta raiz nos mercados certos antes do concorrente. #Anthropic #Claude #IA #Enterprise #Coreia",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "EXPANSAO GLOBAL",
+            "title": "Anthropic planta raiz na Coreia",
+            "highlight": "planta raiz",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O MOVIMENTO",
+            "title": "3o escritorio da Anthropic na Asia",
+            "highlight": "3o escritorio",
+            "body": "Em 17 de junho a Anthropic abriu escritorio em Seul, o 3o na Asia-Pacifico depois de Toquio e Bengaluru. E liderado por KiYoung Choi, com tres decadas a frente de negocios de tecnologia na Coreia. A aposta na regiao e clara.",
+            "stat": "3o",
+            "stat_label": "escritorio na Asia-Pacifico",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "QUEM JA ADOTOU",
+            "title": "NAVER, Samsung SDS, LG CNS, Nexon, Hanwha",
+            "highlight": "NAVER",
+            "body": "As implantacoes vem com peso: NAVER (Claude Code em toda a engenharia), Samsung SDS (Claude Cowork e Code na Samsung Electronics), LG CNS (Claude no LG Group), Nexon (jogos live-service), Hanwha (via AWS Bedrock) e Channel Corp (230 mil+ negocios).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDA A ESTRATEGIA",
+            "title": "Quem planta raiz primeiro domina o mercado",
+            "highlight": "planta raiz primeiro",
+            "body": "Enquanto a regulacao aperta nos EUA, a Anthropic acelera la fora. Abrir escritorio e fechar com as maiores empresas locais cria switching cost gigante. A corrida de IA nao e so de modelo: e de presenca, relacionamento e contrato enterprise.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "ALEM DO COMERCIAL",
+            "title": "MOU com governo + 60 pesquisadores",
+            "highlight": "MOU com governo",
+            "body": "A Anthropic assinou um MOU com o Ministerio de Ciencia e TIC da Coreia pra avancar seguranca de IA e vai dar Claude pra ate 60 pesquisadores de KAIST, Korea University, Yonsei e POSTECH. E jogo de longo prazo: governo + academia + empresa.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM IMPORTA",
+            "title": "Quem pensa expansao e parceria estrategica",
+            "highlight": "expansao",
+            "body": "Pro empreendedor, a lico vale alem da IA: a Anthropic mostra que entrar num mercado novo e sobre presenca local + alianca com os players certos + governo. Nao da pra dominar um mercado de longe. Tem que estar dentro.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A LICAO",
+            "title": "Modelo todo mundo copia, relacionamento nao",
+            "highlight": "relacionamento",
+            "body": "Capacidade tecnica vira commodity. O que nao se copia da noite pro dia e relacionamento, contrato assinado e confianca local. Por isso as lideres de IA correm pra fincar bandeira: o moat real e estar enraizado onde o cliente esta.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PROXIMO PASSO",
+            "title": "Salva e segue @rafaondei",
+            "highlight": "segue",
+            "body": "Quer ver como as gigantes de IA movem o tabuleiro global? Segue a gente. Todo dia, o radar com leitura estrategica pra quem empreende.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Google libera Gemini 3.5 Flash GA: modelo rapido focado em coding e agentes",
+      "summary": "O Google disponibilizou em GA o Gemini 3.5 Flash, descrito como seu modelo mais inteligente pra performance de fronteira sustentada em tarefas agenticas e de codigo. O lancamento reforca a aposta do Google em um modelo rapido e barato que segura o ritmo das cargas de agente sem o custo do topo de linha.",
+      "source": "Google AI for Developers",
+      "link": "https://ai.google.dev/gemini-api/docs/changelog",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Gemini 3.5 Flash GA: o modelo rapido pra agente e codigo",
+        "caption": "O Google liberou em versao estavel (GA) o Gemini 3.5 Flash, que ele chama de seu modelo mais inteligente pra performance de fronteira sustentada em tarefas de codigo e agente. A jogada e clara: enquanto todo mundo briga pelo topo de linha caro, o Google aposta num modelo RAPIDO e barato que aguenta o tranco das cargas de agente (que rodam em loop e consomem muito). Pra quem constroi automacao, o que importa nao e so ser o mais esperto: e ser esperto o suficiente, rapido e barato ao mesmo tempo. #Gemini #Google #IA #DevTools #Agentes",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "VELOCIDADE COM INTELIGENCIA",
+            "title": "Gemini 3.5 Flash chega estavel",
+            "highlight": "chega estavel",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O QUE SAIU",
+            "title": "Versao GA do Gemini 3.5 Flash",
+            "highlight": "GA",
+            "body": "O Google disponibilizou em GA (generally available, versao estavel de producao) o Gemini 3.5 Flash. Ele e descrito como o modelo mais inteligente do Google pra performance de fronteira sustentada em tarefas agenticas e de codigo.",
+            "stat": "3.5",
+            "stat_label": "Flash em producao",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "A JOGADA",
+            "title": "Rapido e barato em vez de so poderoso",
+            "highlight": "rapido e barato",
+            "body": "Enquanto a briga publica e pelo modelo top de linha mais caro, o Google reforca a faixa Flash: modelo rapido e de baixo custo. Pra carga de agente, que roda em loop e dispara muitas chamadas, velocidade e preco importam tanto quanto inteligencia pura.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDA O CRITERIO",
+            "title": "Pra agente, eficiencia vence inteligencia bruta",
+            "highlight": "eficiencia vence",
+            "body": "Em workflow de agente, o gargalo nao e o 1% a mais de QI do modelo: e quanto custa e quanto demora cada uma das centenas de chamadas. Um Flash bom o suficiente, rapido e barato, ganha do top de linha caro pra esse tipo de carga.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "ONDE O FLASH BRILHA",
+            "title": "Loops, automacao e tarefas em volume",
+            "highlight": "em volume",
+            "body": "Modelos Flash sao feitos pro trabalho repetitivo de alto volume: classificar, extrair, rotear, executar passos de agente. Tu usa o top de linha pra decisao complexa e o Flash pra rodar o resto barato. Arquitetura inteligente mistura os dois.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM IMPORTA",
+            "title": "Quem roda IA em volume e quer cortar custo",
+            "highlight": "cortar custo",
+            "body": "Se teu produto faz muitas chamadas de IA (chatbot, RAG, automacao, agente 24/7), trocar parte da carga pra um Flash rapido derruba a conta sem perder qualidade onde nao precisa. Margem de operacao agradece.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A LICAO",
+            "title": "Use o modelo certo pra cada tarefa",
+            "highlight": "modelo certo",
+            "body": "Erro comum: usar o modelo mais caro pra tudo. O profissional monta arquitetura mista, top de linha so onde agrega, Flash pro volume. Saber escolher o modelo por tarefa e o que separa quem queima dinheiro de quem escala com margem.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PROXIMO PASSO",
+            "title": "Salva e segue @rafaondei",
+            "highlight": "segue",
+            "body": "Quer saber qual modelo de IA usar pra cada caso do teu negocio? Segue a gente. Todo dia, o radar com criterio real de preco e performance.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Cursor lanca Automations: agentes sempre-ligados que trabalham sozinhos",
+      "summary": "A Cursor adicionou Automations com agentes sempre-ligados pra cuidar de tarefas repetitivas, a skill /automate pra criar fluxos em linguagem natural, gatilhos via GitHub e Slack, e computer use pra agentes na nuvem gerarem demos. O Bugbot caiu pra ~90s por review (de ~5 min) achando 10% mais bugs por ~22% menos custo.",
+      "source": "Cursor",
+      "link": "https://cursor.com/changelog",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Cursor Automations: agentes que trabalham sozinhos em background",
+        "caption": "A Cursor (a mesma que a SpaceX ta comprando por 60 bi) lancou Automations: agentes sempre-ligados que cuidam de tarefa repetitiva sozinhos. Tu descreve em linguagem natural ('quando abrir um PR, faz X') e ele configura gatilho, instrucao e ferramenta. Gatilhos por GitHub e Slack. E o Bugbot ficou absurdo: review em ~90 segundos (era 5 min), achando 10% MAIS bugs por 22% MENOS custo. Programar virou cada vez mais gerenciar agentes que trabalham por voce. #Cursor #DevTools #IA #Automacao #Produtividade",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "AGENTES QUE NAO DORMEM",
+            "title": "Cursor agora automatiza sozinha",
+            "highlight": "automatiza sozinha",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O LANCAMENTO",
+            "title": "Automations com agentes sempre-ligados",
+            "highlight": "sempre-ligados",
+            "body": "A Cursor adicionou Automations: agentes que ficam ligados cuidando de tarefas repetitivas. Junto veio a skill /automate pra criar fluxos em linguagem natural e gatilhos via GitHub e Slack. Tu descreve o que quer e a Cursor configura tudo.",
+            "stat": "/automate",
+            "stat_label": "fluxo em linguagem natural",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Voce descreve, o agente configura e roda",
+            "highlight": "configura e roda",
+            "body": "Em vez de escrever automacao na mao, tu fala: 'quando chegar um comentario de review no PR, faz a correcao minima e responde'. A Cursor monta os gatilhos, as instrucoes e as ferramentas. Computer use deixa agentes na nuvem ate gerarem demos.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDA O TRABALHO DO DEV",
+            "title": "Programar virou gerenciar agentes",
+            "highlight": "gerenciar agentes",
+            "body": "O dev deixa de digitar cada linha e passa a orquestrar agentes que trabalham em background, em paralelo, no GitHub e no Slack. A habilidade que vale agora nao e so escrever codigo: e saber delegar e coordenar a IA que escreve por voce.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "O BUGBOT FICOU ABSURDO",
+            "title": "Review em ~90s achando mais bug por menos",
+            "highlight": "~90s",
+            "body": "O Bugbot (revisor automatico da Cursor) caiu pra cerca de 90 segundos por review, de ~5 minutos. E ainda acha 10% mais bugs por review (0,62 vs 0,56) custando ~22% menos por rodada. Mais rapido, mais preciso e mais barato ao mesmo tempo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM IMPORTA",
+            "title": "Times de dev e fundadores tecnicos",
+            "highlight": "fundadores tecnicos",
+            "body": "Se tua equipe perde tempo com tarefa repetitiva (review, fix simples, gerar demo), Automations devolve esse tempo pra trabalho de verdade. Startup enxuta ganha um time de agentes sem contratar. Velocidade de entrega sobe.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A LICAO",
+            "title": "O gargalo virou coordenacao, nao codigo",
+            "highlight": "coordenacao",
+            "body": "Quando o agente escreve, revisa e corrige sozinho, o limite deixa de ser quanto tu digita e passa a ser quao bem tu coordena. Quem aprende a orquestrar agentes entrega como um time inteiro. Essa e a nova alavanca de produtividade.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PROXIMO PASSO",
+            "title": "Salva e segue @rafaondei",
+            "highlight": "segue",
+            "body": "Quer dominar as ferramentas que multiplicam tua produtividade com IA? Segue a gente. Todo dia, o radar com tools de IA pela otica de quem constroi.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    }
+  ],
+  "whatsapp": "RADAR IA - 21 DE JUNHO\n\n1. EUA mandam Anthropic DESLIGAR Claude Fable 5 e Mythos 5 (ordem de export control, seguranca nacional). 1a vez que um governo recolhe um modelo de fronteira.\nhttps://www.anthropic.com/news/fable-mythos-access\n\n2. SpaceX vai comprar a Cursor por US$ 60 bilhoes. Cursor passou de US$ 1 bi de receita anual.\nhttps://www.cnbc.com/2026/06/16/spacex-spcx-cursor-acquisition-ipo.html\n\n3. Anthropic ADIA mudanca de cobranca que ia tirar Agent SDK das assinaturas Pro/Max. Por ora nada muda.\nhttps://thenewstack.io/anthropic-agent-sdk-credits/\n\n4. OpenAI entra com pedido sigiloso de IPO mirando +US$ 1 trilhao. Roda US$ 2 bi/mes e 900M+ usuarios semanais.\nhttps://sacra.com/c/openai/\n\n5. ChatGPT ganha Tarefas Agendadas: IA que executa sozinha no horario marcado (resumos, monitoramento, lembretes).\nhttps://help.openai.com/en/articles/6825453-chatgpt-release-notes\n\n6. Grok chega NATIVO ao Databricks: IA da xAI roda direto no dado da empresa, com zero retencao.\nhttps://x.ai/news/grok-databricks\n\n7. Grok Imagine Video 1.5 vira lider de video-IA a US$ 4,20/min (vs US$ 30 do Sora 2). Audio sincronizado nativo.\nhttps://x.ai/news/grok-imagine-video-1-5\n\n8. Anthropic abre escritorio em Seul com NAVER, Samsung SDS, LG CNS e Nexon rodando Claude.\nhttps://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem\n\n9. Google libera Gemini 3.5 Flash GA: modelo rapido e barato pra coding e agentes.\nhttps://ai.google.dev/gemini-api/docs/changelog\n\n10. Cursor lanca Automations: agentes sempre-ligados que trabalham sozinhos. Bugbot 5x mais rapido.\nhttps://cursor.com/changelog\n\nDashboard completo: https://rafaelondei.appnaia.com",
+  "instagram": "RADAR IA - 21 DE JUNHO\n\nSemana historica no mercado de IA. Aconteceu algo INEDITO: o governo dos EUA mandou a Anthropic DESLIGAR seus modelos de fronteira (Fable 5 e Mythos 5) pra todo mundo no planeta, por ordem de controle de exportacao. Pela primeira vez um Estado recolheu uma IA comercial usada por centenas de milhoes. Geopolitica entrou de vez no jogo.\n\nE nao parou ai:\n\nSpaceX vai comprar a Cursor por US$ 60 BILHOES (a queridinha dos devs). Software com IA virou ativo nivel aeroespacial.\n\nOpenAI protocolou IPO mirando +US$ 1 trilhao. Roda US$ 2 bi/mes e 900 MILHOES de usuarios semanais.\n\nA xAI jogou pesado: Grok Imagine Video 1.5 virou lider de video-IA a US$ 4,20/min contra US$ 30 do Sora 2 (1/7 do preco), e o Grok agora roda nativo no Databricks, no dado da propria empresa.\n\nChatGPT ganhou Tarefas Agendadas (IA que trabalha sozinha no horario). A Cursor lancou agentes sempre-ligados. O Google liberou Gemini 3.5 Flash pra agente e codigo. E a Anthropic abriu escritorio em Seul com NAVER, Samsung e LG no Claude.\n\nTakeaway do dia: IA virou ativo geopolitico e de escala planetaria. O recado pro empreendedor e claro: nao dependa de um unico modelo, entenda teu custo real por token, e automatize o repetitivo antes do concorrente.\n\nSegue @rafaondei pra radar de IA todo dia. 10 noticias com aplicacao real pro teu negocio.\n\n#IA #Claude #Anthropic #OpenAI #ChatGPT #Grok #xAI #Gemini #Cursor #SpaceX #VideoIA #InteligenciaArtificial #Tecnologia #Empreendedorismo"
+}

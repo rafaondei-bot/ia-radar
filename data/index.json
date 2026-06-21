@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-05-29T07:00:01-03:00",
+  "updated_at": "2026-06-21T07:00:01-03:00",
   "executions": [
+    {
+      "date": "2026-06-21",
+      "key": "2026-06-21",
+      "topic": "mercado de IA",
+      "summary": "EUA mandam Anthropic desligar Fable 5 e Mythos 5 (export control, inedito); SpaceX compra Cursor por US$60bi; Anthropic adia separar Agent SDK do plano; OpenAI IPO sigiloso +US$1tri (900M usuarios); ChatGPT Tarefas Agendadas; Grok nativo no Databricks; Grok Imagine Video 1.5 lider a US$4,20/min vs US$30 Sora 2; Anthropic abre Seul (NAVER/Samsung/LG); Gemini 3.5 Flash GA; Cursor Automations + Bugbot 5x mais rapido",
+      "items_count": 10
+    },
     {
       "date": "2026-05-29",
       "key": "2026-05-29",
