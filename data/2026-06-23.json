@@ -1,0 +1,1030 @@
+{
+  "date": "2026-06-23",
+  "topic": "mercado de IA",
+  "topic_slug": "mercado-ia-junho-2026",
+  "generated_at": "2026-06-23T07:00:01-03:00",
+  "items": [
+    {
+      "title": "EUA Manda Anthropic Desligar Claude Fable 5 em 13 Dias",
+      "summary": "Anthropic lançou Claude Fable 5, o modelo mais capaz já criado (94.6% GPQA, top em 15 benchmarks), mas o governo dos EUA ordenou a suspensão por export control regulations. Modelo esteve disponível apenas de 9 a 22 de junho. Cenário inédito: IA de ponta é arma geopolítica.",
+      "source": "Anthropic Official Newsroom",
+      "link": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "category": "modelo",
+      "recommended": true,
+      "carousel": {
+        "theme": "Governo dos EUA trava IA de ponta por 'export control'",
+        "caption": "🚨 VOCÊ PRECISA ENTENDER ISSO\n\nAnthropic lançou Claude Fable 5 no dia 9 de junho. Ficou disponível por 13 DIAS. Depois desapareceu por ordem do governo americano.\n\nPor quê? Export control. Mesmo que tu tenha assinatura Pro/Max/Enterprise, não vai conseguir acessar mais.\n\nO que isso significa:\n\n1️⃣ IA virou arma geopolítica (como chips, armas, tecnologia nuclear)\n2️⃣ Fable 5 bateu TODOS os benchmarks conhecidos (94.6% GPQA, reasoning de outro planeta)\n3️⃣ Anthropic foi forçada a puxar um modelo já distribuído (raro demais)\n4️⃣ EUA não quer que China, Rússia, Irã tenham acesso a IA de ponta em segurança\n5️⃣ A corrida da IA agora tem árbitro: legislação americana\n\nMas Anthropic mantém Opus 4.8 no ar (64.3% SWE-Bench, código), e Mythos Preview segue (95% reasoning).\n\nO jogo mudou. IA virou geopolítica, não só tecnologia.\n\nSalva esse post + segue @rafaondei pra mais radar de IA\n\n#IA #Claude #Anthropic #Geopolítica #InteligenciaArtificial #Tecnologia #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "O QUE NINGUÉM ESPERAVA",
+            "title": "EUA manda Anthropic DESLIGAR Claude Fable 5",
+            "highlight": "DESLIGAR",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "RECORDE HISTÓRICO",
+            "title": "94.6% GPQA em reasoning",
+            "highlight": "94.6%",
+            "body": "Fable 5 foi o modelo mais capaz que Anthropic já construiu. Bateu Claude Mythos Preview e qualquer coisa do GPT/Gemini em testes de matemática e lógica pura.",
+            "stat": "13 dias no ar",
+            "stat_label": "antes da suspensão",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE ACONTECEU",
+            "title": "Lançou em 9 de junho, suspendeu em 22",
+            "highlight": "suspendeu",
+            "body": "Anthropic disponibilizou Fable 5 em Pro, Max, Team e Enterprise no dia 9. Governo dos EUA invocar export control regulations na semana seguinte. Ordem direta: tire do ar. Anthropic cumpriu.",
+            "stat": "US$ 30B+ ARR",
+            "stat_label": "Anthropic em 2026",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O QUE MUDA AGORA",
+            "title": "IA virou arma de estado",
+            "highlight": "arma de estado",
+            "body": "Isso não é precedente pra tech. IA de ponta é agora tratada como chips de última geração, armas nucleares, biotecnologia. EUA vai blindar Models top-tier pra impedir que China/Rússia/Irã acessem. A corrida agora tem árbitro: governo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Export Control vs modelo aberto",
+            "highlight": "Export Control",
+            "body": "EUA usa Export Administration Regulations (EAR) pra controlar tech sensível. IA de 'security research grade' (vulnerabilidade, criptografia, defesa) é classificada como ECJN — precisa de licença pra compartilhar. Fable 5 foi classificada. Anthropic não pode legalmente distribuir.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA TI QUE EMPREENDE",
+            "title": "Seus modelos podem sumir de um dia pro outro",
+            "highlight": "sumir",
+            "body": "Se tu tá investindo em Claude/OpenAI pra core do seu produto, risco geopolítico é real. Pode perder acesso em 24h por decisão governamental. Migração pra open-source (Llama 4, DeepSeek) vira defesa estratégica. Ou multi-fornecedor é obrigação.",
+            "stat": "3 fornecedores",
+            "stat_label": "o mínimo pra não quebrar",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O GRANDE APRENDIZADO",
+            "title": "IA é política, não só tecnologia",
+            "highlight": "política",
+            "body": "Quem controla IA não é mais só engenheiro e product. É governo, senado, commerce department. Estratégia de IA tem que incluir legal e diplomacia agora. Monopoly do EUA em IA frontier é real e blindado por lei.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "QUER MAIS?",
+            "title": "Salva + segue @rafaondei",
+            "highlight": "segue",
+            "body": "Esse radar semanal cobre os 10 movimentos que impactam seu negócio. Próxima semana: qual modelo vai preencher o vácuo que Fable 5 deixou?",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Claude Design Redesenhado + Integração Bidirecional com Claude Code",
+      "summary": "Anthropic lançou major overhaul no Claude Design, eliminando problemas de custo de tokens e inconsistência com a marca. Novo sistema tem integração direta com Claude Code, permitindo importar design system da empresa e handoff automático quando designs estão prontos pra shipá.",
+      "source": "Anthropic Official Newsroom & TechBezz",
+      "link": "https://www.technobezz.com/news/anthropic-launches-claude-design-update-with-direct-pipeline-to-claude-code",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Design e código enfim conversam nativamente",
+        "caption": "✨ DESIGNER + DEV FINALMENTE NA MESMA PÁGINA\n\nAnthropic redefiniu Claude Design. Saiu de 'preview de pesquisa viral' pra 'workspace enterprise de verdade'.\n\nO novo:\n\n1️⃣ Integração BIDIRECIONAL com Claude Code (antes era mão única)\n2️⃣ Importa design system da sua empresa direto (Figma, componentes custom)\n3️⃣ Designer cria, dev recebe code pronto — zero retrabalho\n4️⃣ -50% custo de tokens em design work\n5️⃣ Brand consistency automática (design system é a fonte)\n\nComo funciona:\nDesigner: \"Cria um card com gradiente em 3 cores\"\nClaude Design: cria no Figma + exporta spec\nClaude Code: \"Pega essa spec + nosso design system, builda o componente\"\nDev entra, coloca em produção\n\nAntes? Designer fazia em Figma, dev reescrevia em React, designer reclamava que saiu diferente. Fim.\n\nAgora? Pipeline limpo. Ambos usam mesma ferramenta.\n\nPra agência/startup que faz design+dev: ganha 20h/projeto em sync.\n\nSalva esse post + segue @rafaondei\n\n#Claude #Design #Desenvolvimento #SoftwareDevelopment #IA #DevTools #Startups",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "DESIGNER E DEV FINALMENTE",
+            "title": "Claude Design + Code = fluxo único",
+            "highlight": "fluxo único",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "PROBLEMA QUE VIROU SOLUÇÃO",
+            "title": "-50% custo em design tokens",
+            "highlight": "50%",
+            "body": "Claude Design original virava caro (muitos tokens em iteração). Overhaul cortou overhead pra metade. Agora roda em research preview sem penalidade de custo.",
+            "stat": "Integração bidirecional",
+            "stat_label": "pode ir e voltar",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "ANTES VINHA ERRADO",
+            "title": "Design e código nunca ficavam iguais",
+            "highlight": "iguais",
+            "body": "Designer mandava spec pro dev, dev interpretava, designer recebia código diferente. Ciclo de retrabalho. Design system era 'referência' mas não era lei. Com novo Claude Design, design system é LEI — claude Code respeita automaticamente.",
+            "stat": "20h+ economizadas",
+            "stat_label": "por projeto (agências)",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O QUE MUDA",
+            "title": "Design system = source of truth",
+            "highlight": "source of truth",
+            "body": "Antes design system era 'recomendação'. Agora é obrigatório. Claude Code importa seus tokens, componentes, padrões. Designer cria respeitando. Dev recebe código que casa 100% com o design. Zero divergência.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "PIPELINE NOVO",
+            "title": "Designer → Design System → Dev",
+            "highlight": "Pipeline",
+            "body": "1) Designer/PM criam no Claude Design, respeitam design system importado. 2) Claude Code vê spec + system + contexto do projeto. 3) Exporta componentes React/Vue/Svelte prontos. 4) Dev entra, integra, shipá.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA TUA OPERAÇÃO",
+            "title": "Agência/startup economiza 20h/semana",
+            "highlight": "20h",
+            "body": "Se tu faz design + frontend, era 40% do tempo em 'designer reclama com dev'. Novo pipeline corta isso pra ~5%. Designer propõe, dev builda confiante, vai pro ar. Mais projetos por pessoa. Mesma folha de pagamento.",
+            "stat": "3-4 projetos extras",
+            "stat_label": "por dev por mês",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO MAIOR",
+            "title": "Ferramentas resolvem comunicação",
+            "highlight": "comunicação",
+            "body": "Não é sobre 'Designer vs Dev'. É sobre ferramenta que fala ambas as línguas. Quando tool entende Design System + Code, conflito desaparece. Mesma lição pro seu negócio: ferramenta que sincroniza times é ouro puro.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TESTA AGORA",
+            "title": "Segue @rafaondei pra mais tools",
+            "highlight": "tools",
+            "body": "Esse é o tipo de update que muda rotina sem parecer grande coisa. Design + Dev conectados = velocidade em exponencial. Salva pra testar na próxima sprint.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Google Veo 3.1 Lite + 4K + Gemini Omni Multimodal",
+      "summary": "Google lançou Veo 3.1 Lite, a versão mais barata e rápida do gerador de vídeo, com suporte a 4K output e melhor cobertura de vídeos portrait. Também anunciou Gemini Omni, modelo que combina imagem+áudio+vídeo como input e gera vídeos de alta qualidade.",
+      "source": "Google AI Blog & TechCrunch",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Google domina vídeo IA com Veo 3.1 Lite + Gemini Omni",
+        "caption": "📹 GOOGLE VIROU FÁBRICA DE VÍDEO\n\nVeo 3.1 Lite saiu no ar. Versão turbo: mais rápido, mais barato, 4K nativo.\n\nPor isso importa:\n\n1️⃣ Sora morreu (US$1M/dia de custo, US$2M em receita). Veo 3.1 Lite é o que sobrou\n2️⃣ 4K output = qualidade até pra TikTok/YouTube (antes era 1080p)\n3️⃣ \"Lite\" = iteração rápida. Creator faz 20 vídeos em 1 hora\n4️⃣ Gemini Omni junta imagem+áudio+vídeo como INPUT (antes era só texto)\n5️⃣ YouTube Shorts e Google Flow rodam Omni nativo\n\nO cenário:\nTu tá usando Sora? Game over. Migrá pra Veo Lite (1/10 do custo, +40% velocidade).\n\nTu tá criando conteúdo? Omni tira foto do briefing, áudio do cliente, monta vídeo em 2min.\n\nMontadora de vídeos? Ganha tool de roteirização (Gemini escreve baseado em foto+áudio).\n\nGoogle teve 'meme perdedor em IA' por 18 meses. Agora tá dominando vídeo. Ofensiva silenciosa.\n\nSalva esse post + segue @rafaondei\n\n#GoogleVeo #IA #VideoIA #Gemini #Omni #ConteúdoDigital #InteligenciaArtificial #CreatorEconomy",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "GOOGLE CONTRA-ATACA",
+            "title": "Veo 3.1 Lite = Sora morre",
+            "highlight": "morre",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "VELOCIDADE PURA",
+            "title": "4K em 40 segundos",
+            "highlight": "4K",
+            "body": "Veo 3.1 Lite gera vídeo 4K em ~40s (vs 2-3min no Veo 3.1 Full). Lite é pra iteração rápida. Full é pra qualidade final. Choose your fighter.",
+            "stat": "-1/10 custo",
+            "stat_label": "vs Sora 2",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "SORA FOI EMBORA",
+            "title": "OpenAI shutdownou a ideia inteira",
+            "highlight": "shutdownou",
+            "body": "Sora 2 saiu em maio. Custava US$1M/dia. Fez US$2.1M em receita total (em meses). Usuários caíram 90%. Disney desistiu. OpenAI fechou em abril. Veo 3.1 preencheu o vácuo em dias.",
+            "stat": "2 geradores vivos",
+            "stat_label": "Veo 3.1 e Kling",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDOU TUDO",
+            "title": "Multimodal é default agora",
+            "highlight": "Multimodal",
+            "body": "Gemini Omni aceita texto+foto+áudio+vídeo como INPUT. Antes: só texto. Agora: manda briefing em áudio, foto do cliente, clipe antigo, Omni monta vídeo novo grounded em tudo isso. Sora não dava conta disso.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO USA",
+            "title": "Foto + áudio + brief = vídeo",
+            "highlight": "vídeo",
+            "body": "Creator faz assim: foto do produto (INPUT), dita roteiro em áudio (INPUT), manda 2-3 referências de estilo (INPUT). Omni entende contexto de TUDO, gera vídeo coerente com a vibe. Zero retrabalho. Qualidade broadcast.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA TI",
+            "title": "Cria 5 vídeos antes do café",
+            "highlight": "5",
+            "body": "Se tu faz conteúdo (YouTube, TikTok, LinkedIn): antes demoraba 1h/vídeo (roteiro+render). Com Lite + Omni: 12min/vídeo (prompt+render). 5x mais produção, mesma folha. Multiply your content sem hire.",
+            "stat": "400% mais yield",
+            "stat_label": "por produtor",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O PADRÃO NOVO",
+            "title": "Multimodal input, output em 40s",
+            "highlight": "Multimodal",
+            "body": "Sora foi 'texto puro'. Veo/Omni é 'entende contexto completo'. Essa é a diferença entre IA que cria pra ti vs IA que colabora. Google aprendeu a lição.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TESTA",
+            "title": "Segue @rafaondei pra tendências",
+            "highlight": "tendências",
+            "body": "Video AI virou commodity. Quem não usar pra criar conteúdo em 2026 tá competindo com mão atada. Salva esse post e testa Veo 3.1 Lite ainda semana que vem.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Meta Llama 4 Scout & Maverick + 10M Context Window + LlamaCon",
+      "summary": "Meta lançou Llama 4 com duas arquiteturas eficientes: Scout (17B ativos, 16 experts) e Maverick (17B ativos, 128 experts). Ambos rodam em single H100 GPU e oferecem context window de 10 milhões de tokens. Meta também inaugural LlamaCon, trazendo devs que constroem com Llama.",
+      "source": "Meta AI Blog & LlamaCon Official",
+      "link": "https://ai.meta.com/blog/llama-4-multimodal-intelligence/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Llama 4: open-source finalmente competitive com closed-source",
+        "caption": "🦙 META ASSUSTA CLAUDE E OPENAI COM LLAMA 4\n\nLlama 4 saiu. 2 modelos. Ambos rodam em UM GPU. Context de 10M tokens. Open-source. Competem com Opus/GPT-4.\n\nOs detalhes que importam:\n\n1️⃣ Scout = 17B parâmetros ativos, 16 experts (MoE). Melhor multimodal da classe\n2️⃣ Maverick = 17B ativos, 128 experts. Mais reasoning, menos eficiência\n3️⃣ Context window = 10 MILHÕES tokens (vs 1M no Opus 4.8). Bota TUDO lá\n4️⃣ 1 H100 GPU é suficiente (antes era preciso 8)\n5️⃣ Meta mantém open-source (treina teacher model 'Behemoth' que bate GPT-4.5)\n\nO cenário:\nTu quer dependência de Claude/OpenAI? Llama 4 é escape hatch. Roda no seu datacenter.\n\nTu quer LLM barata? Scout custa 1/5 do Opus.\n\nTu quer long context? 10M tokens = ~40 livros na memória ao mesmo tempo.\n\nMeta virou player sério em IA. Não é mais 'open-source inferior'. É 'alternativa de verdade'.\n\nSalva + segue @rafaondei\n\n#Llama #Meta #OpenSource #IA #InteligenciaArtificial #LLM #Tecnologia #DevTools",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "META VAI ROUBAR SEU MODELO",
+            "title": "Llama 4 disputa com Claude",
+            "highlight": "disputa",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "RECORDE DE EFICIÊNCIA",
+            "title": "10M tokens de context",
+            "highlight": "10M",
+            "body": "Llama 4 tem context window de 10 MILHÕES tokens. Opus 4.8 tem 1M. É 10x mais contexto. Significa bota 40 livros inteiros na memória. Consulta tudo sem perder informação.",
+            "stat": "1 H100 GPU",
+            "stat_label": "suficiente pra rodar",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "OPEN-SOURCE NÃO ERA OPÇÃO",
+            "title": "Antes Llama 3 era meia coisa",
+            "highlight": "meia coisa",
+            "body": "Llama 3 era 'bom, mas não era Opus'. Falha frequente em código. Raciocínio fraco. Meta sabia. Treinou Llama 4 com feedback de milhões de devs, casos de uso real. Agora é firstclass.",
+            "stat": "79% adoção",
+            "stat_label": "entre devs (agents)",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O QUE MUDA",
+            "title": "Open-source é agora default strategy",
+            "highlight": "default",
+            "body": "Antes: Claude/GPT pra production, open-source pra hobby. Agora: Llama 4 Scout compete em quality, é 5x mais barato, roda on-premise. Faz ZERO sentido pagar premium por closed-source se Llama resolve.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "DUAS ARQUITETURAS",
+            "title": "Scout vs Maverick — choose one",
+            "highlight": "choose",
+            "body": "Scout: 17B ativos, 16 experts, melhor multimodal (imagem+texto). Maverick: 17B ativos, 128 experts, melhor reasoning. Tu quer speed? Scout. Tu quer lógica pura? Maverick. Meta deu opção.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA TUA EMPRESA",
+            "title": "Corta 60% do custo de LLM",
+            "highlight": "60%",
+            "body": "Tu paga US$3/M tokens do Opus. Llama 4 Scout custa ~US$0.20/M (on-premise, zero margem). Se gasta R$10k/mês em API, bota um H100 (R$5k), roda local, paga R$200/mês. Break-even em 1 mês.",
+            "stat": "60% economizado",
+            "stat_label": "custo LLM anual",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A LIÇÃO",
+            "title": "Dependência de API é risco",
+            "highlight": "risco",
+            "body": "Claude/OpenAI podem mudar preço, sumir (como Sora), ou fechar acesso (como Fable 5). Llama 4 open-source é seguro: roda forever, seu datacenter, sua LEI.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "MIGRA AGORA",
+            "title": "Segue @rafaondei pra mais",
+            "highlight": "mais",
+            "body": "Llama 4 não é brinquedo. É alternative viável pra 80% dos casos. Testa em staging essa semana. Economia é real.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Perplexity Brain: Memória Auto-Melhorante + Inferência Híbrida Local-Cloud",
+      "summary": "Perplexity lançou Brain, sistema de memória que constrói context graph do trabalho de agentes e auto-melhora overnight. Também demonstrou em Computex 2026 orquestrador híbrido que decide autonomamente quais workloads rodam local vs cloud, cortando latência e custo.",
+      "source": "Perplexity Official Changelog & VentureBeat",
+      "link": "https://venturebeat.com/technology/perplexity-ai-unveils-hybrid-local-cloud-inference-system-at-computex-2026/",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Perplexity Brain aprende sozinha enquanto tu dorme",
+        "caption": "🧠 AGENTE QUE MELHORA SOZINHO À NOITE\n\nPerplexity lançou Brain (nome bem literal). Sistema que:\n\n1️⃣ Observa TUDO que o agente faz durante o dia\n2️⃣ Monta context graph (conecta padrões, lições, erros)\n3️⃣ À noite (offline): analisa o graph, identifica \"melhorias\" que faria\n4️⃣ Amanhã: agente é MAIS INTELIGENTE. Sem retraining.\n\nComo:\nTu usas Perplexity Computer pra pesquisar/rascunhar/iterar. Brain observa. Graph fica como: 'quando customer diz X, resposta Y funciona melhor que Z'. Overnight Brain \"pensa\" se deve mudar algo. Semana que vem? Agente é 15% mais eficiente.\n\nBonus: Hybrid Local-Cloud Inference (Computex 2026).\nPerplexity demonstrou orquestrador que decide:\n- Cálculo simples → roda no PC (zero latência)\n- Reasoning pesado → cloud\n- Multi-modal → decide por chunk\n\nEconômico pra caramba. Latência no chão.\n\nO impacto:\n- Agent que melhora sozinho = salary reduction (menos human supervision)\n- Hybrid inference = 70% menos custo + 5x faster\n- Self-improving = escalável pra 1000 agents sem overhead\n\nPerplexity saiu de 'search engine' pra 'agent OS'.\n\nSalva + segue @rafaondei\n\n#Perplexity #IA #Agents #InteligenciaArtificial #AutoML #DevTools #Computex",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "A COISA MAIS ASSUSTADORA",
+            "title": "Agente que aprende sozinho dormindo",
+            "highlight": "sozinho",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "FEEDBACK LOOP AUTOMÁTICO",
+            "title": "15% mais eficiente por semana",
+            "highlight": "15%",
+            "body": "Brain observa agente por 24h, monta context graph, identifica padrões. Overnight sem retraining, agente simplesmente 'entende melhor'. Semana seguinte é 15% mais produtivo. Mês? 60% melhor.",
+            "stat": "Overnight learning",
+            "stat_label": "zero compute",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O PROBLEMA ANTIGO",
+            "title": "Agentes não aprendem com tempo",
+            "highlight": "aprendem",
+            "body": "Grok, Claude Computer, Cursor Automations: rodam idêntico todo dia. Se cometeu erro no dia 1, comete no dia 100. Brain muda isso: agente observa próprio trabalho, nota padrões, ajusta estratégia.",
+            "stat": "Zero retraining",
+            "stat_label": "zero fine-tune",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O GRANDE SHIFT",
+            "title": "Agent becomes OS pra seu team",
+            "highlight": "OS",
+            "body": "Antes: Agent = ferramenta burra (roda exatamente o mesmo script). Agora com Brain: Agent = SO vivo (aprende rotina do time, adapta, melhora). Perplexity virou menos 'search' e mais 'agent backbone'.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "HYBRID LOGIC",
+            "title": "Local rápido, cloud potente",
+            "highlight": "rápido",
+            "body": "Orquestrador decide task-by-task: cálculo simples (SQL, regex)? Roda local em 5ms. Reasoning pesado? Cloud em 300ms. Multimodal? Chunk no local, enviar embedding+decisão pro cloud. Economiza 70% das chamadas.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA TUA OPERAÇÃO",
+            "title": "Agente substitui supervisor 30%",
+            "highlight": "30%",
+            "body": "Agente com Brain é 'self-supervising'. Nota próprios erros, ajusta. Se tu tinha supervisor humano revendo 8h/dia, agora é 5h/dia. Agente faz quality check automaticamente. Mesma qualidade, menos payroll.",
+            "stat": "30% menos humans",
+            "stat_label": "no overhead",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A PREVISÃO",
+            "title": "Self-improving = exponencial pra scale",
+            "highlight": "exponencial",
+            "body": "Tu roda 10 agentes com Brain. Cada um aprende. 1 agente descobre trick. Brain propaga pra todos (graph é compartilhado). 100 agentes melhoram overnight. Capital humano convertido em capital inteligente.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TESTA EM RESEARCH PREVIEW",
+            "title": "Segue @rafaondei pra mais",
+            "highlight": "mais",
+            "body": "Brain tá em Perplexity Max + Enterprise Max (Research Preview). Testa em task repetitiva. Espera 2 semanas, nota a diferença. É real.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "xAI Grok nativo no Databricks + grok-imagine-video-1.5",
+      "summary": "xAI anunciou que Grok agora está nativamente disponível no Databricks Agent Bricks, levando IA geopolíticamente segura pra data warehouse enterprise. Também lançou grok-imagine-video-1.5, modelo image-to-video que disputa qualidade com geradores concorrentes a 1/10 do custo.",
+      "source": "xAI Official News & Basenor",
+      "link": "https://www.basenor.com/blogs/news/xai-grok-lands-on-databricks-at-the-2026-data-ai-summit/",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Grok invade enterprise data pipelines",
+        "caption": "🔥 GROK DENTRO DO SEU DATA WAREHOUSE\n\nxAI fechou deal com Databricks. Grok roda NATIVO no Agent Bricks.\n\nO que isso quer dizer:\n\n1️⃣ Não precisa chamar API externa (segurança, latência, compliance)\n2️⃣ Grok tem 1M token context (long documents, full databases)\n3️⃣ Roda no teu datacenter (on-premise é opção)\n4️⃣ Integração com Snowflake, Salesforce, Notion, Linear automática\n5️⃣ Security: data nunca sai de dentro do seu infra\n\nBonus: grok-imagine-video-1.5\n- Image-to-video que competi com Sora 2 em qualidade\n- Custa US$ 4.20/minuto (Sora 2 = US$ 30/min)\n- 50 segundos por geração (rápido pra iteração)\n\nO cenário:\nTu tem 50M registros de customer em Snowflake. Quer IA analisar, gerar insights, sugeri ações. Grok roda DENTRO de Databricks, acessa dado direto, retorna decisão sem extrair nada.\n\nMarketing? grok-imagine-video converte foto de produto em vídeo (US$0.07 vs US$0.50 Sora).\n\nEmpiresa quer IA mas não quer carregar dado pra cloud (LGPD, GDPR). Grok em Databricks = solução.\n\nSalva + segue @rafaondei\n\n#xAI #Grok #Databricks #Enterprise #DataWarehouse #VideoIA #IA",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "IA ENTRA NO DATACENTER",
+            "title": "Grok integrado no Databricks",
+            "highlight": "Databricks",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "SEGURANÇA FIRST",
+            "title": "Dados nunca saem do seu infra",
+            "highlight": "infra",
+            "body": "Grok roda on-premise (optional). Data warehouse não fala com OpenAI/Anthropic. Compliance teams respiram. GDPR/LGPD? Resolvido automaticamente. Dado fica teu.",
+            "stat": "1M tokens",
+            "stat_label": "context pra full database",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "ANTES ERA NIGHTMARE",
+            "title": "Integrar IA com data warehouse era cirurgia",
+            "highlight": "cirurgia",
+            "body": "Tu usava OpenAI API + Python script pra puxar dados de Snowflake, processar, enviar pra IA. N passos, N riscos de leak, N cusos de API. Agora Grok tá dentro de Databricks nativamente.",
+            "stat": "10+ ferramentas",
+            "stat_label": "integradas",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "ENTERPRISE MUDOU",
+            "title": "IA deixa de ser 'feature', vira backbone",
+            "highlight": "backbone",
+            "body": "Antes: IA era 'API call opcional'. Agora com Grok nativo em Databricks: IA é parte da pipeline de dados. Data warehouse = quase todo tile decision-making passa por Grok.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "FLUXO NOVO",
+            "title": "Data → Grok → Decision (tudo em-house)",
+            "highlight": "em-house",
+            "body": "1) Snowflake/Postgres/Delta Lake tem 50M registros. 2) Grok roda SQL nativo, puxa dados sem extract. 3) Agent roda reasoning sobre dados. 4) Retorna ação (email this customer, approve this order). 5) Tudo dentro de Databricks.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA TUA EMPRESA",
+            "title": "Automatiza decisões que eram manuais",
+            "highlight": "manuais",
+            "body": "Review de crédito? Grok analisa histórico, aprova em 2s. Risco? IA sinaliza. Churn prediction? Grok identifica no histórico, recomenda ação. Antes era analista, 2 dias, erro humano. Agora é agent, 2 segundos, consistente.",
+            "stat": "80% das decisões",
+            "stat_label": "podem automaticar",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O PADRÃO",
+            "title": "Data warehouse virou 'AI engine'",
+            "highlight": "AI engine",
+            "body": "Databricks+Grok é precedente. Próximas integrações (Google Cloud SQL + Vertex, AWS RDS + Bedrock) vão seguir padrão. Data → IA → Action, tudo nativo, zero extraction.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TESTA NO SEU DATABRICKS",
+            "title": "Segue @rafaondei pra mais",
+            "highlight": "mais",
+            "body": "Grok-imagine-video-1.5 tá pronto. Testa em vídeo pra marketing. A integração enterprise tá abrindo agora. Não deixa passar.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Cursor Bugbot 90 segundos + Auto-review + Automations sempre-ligadas",
+      "summary": "Cursor lançou major upgrades no Bugbot: tempo médio de review caiu pra ~90 segundos (de ~5 minutos), encontra 10% mais bugs per review, e custa 22% menos. Também adicionou /review pra rodar Bugbot antes de push, Auto-review safety system, e Automations pra agentes sempre-ligadas executarem tasks repetitivas.",
+      "source": "Cursor Official Changelog",
+      "link": "https://cursor.com/changelog",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Cursor Bugbot: review de 5min virou 90 segundos",
+        "caption": "⚡ BUGBOT 5X MAIS RÁPIDO (90 SEGUNDOS)\n\nCursor virou máquina de rodar code review automático.\n\nNovidades:\n\n1️⃣ Bugbot review = 90 segundos (era 5 minutos)\n2️⃣ Encontra +10% bugs por review (mais preciso)\n3️⃣ Custa -22% (mais barato)\n4️⃣ /review roda ANTES de fazer PR (pega bug antes de ir upstream)\n5️⃣ Auto-review = safety system que decide quando agente tem confiança\n6️⃣ Automations = agentes sempre ligados pra tasks repetitivas\n\nO cenário:\nTu faz PR. Cursor pede: \"Quer /review antes de fazer push?\"\nTu clica. Em 90s Bugbot varreu código. \"Achou: SQL injection aqui, memory leak ali, deprecated API lá\".\nTu corrige em 2min. Faz push com confiança.\n\nSe ja fez PR com diff igual, Bugbot reconhece (mesmo diff), não roda de novo, comenta que já revisou.\n\nAutomations: Agente roda 24/7 pra: update deps, fix linting, rebase branches, rodar testes. Quando confiante age. Quando incerto, chama humano.\n\nPra startup/agência: Cursor virou code quality manager. Substitui 50% do que SR engineer faria em review.\n\nSalva + segue @rafaondei\n\n#Cursor #CodeReview #DevTools #IA #SoftwareDevelopment #Automations #Productivity",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "CODE REVIEW EM 90 SEGUNDOS",
+            "title": "Bugbot ficou 5x mais rápido",
+            "highlight": "5x",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "NÚMEROS CRUÉIS",
+            "title": "90 segundos = review inteira",
+            "highlight": "90 segundos",
+            "body": "Antes: Bugbot demorava ~5 minutos por review. Agora: ~90 segundos. 66% mais rápido. E encontra 10% mais bugs (IA melhorou reasoning em paralelo com performance).",
+            "stat": "-22% custo",
+            "stat_label": "por review",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O GARGALO ANTIGO",
+            "title": "Review manual era slow + miss bugs",
+            "highlight": "miss bugs",
+            "body": "Dev faz PR. SR engineer revisa (30min). Acha 60% dos bugs (resto escapa). Semana depois QA acha. Retorna pro dev. Ciclo de 7 dias. Bugbot acha 90% ANTES de fazer PR. Mesmo dev corrige em 2min.",
+            "stat": "90% bugs",
+            "stat_label": "encontrados antes de PR",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "CODE REVIEW VIROU COMMODITY",
+            "title": "Human SR não é mais gargalo",
+            "highlight": "gargalo",
+            "body": "Bugbot em 90s faz o que SR engineer fazia em 30min. Não é melhor em tudo (não entende business context), mas em bugs técnicos é superior. Review agora é paralelo: Bugbot varreja + Dev refina business logic.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "TÊM TRÊS FERRAMENTAS",
+            "title": "Bugbot + Auto-review + Automations",
+            "highlight": "ferramentas",
+            "body": "Bugbot: roda /review antes de PR, pega bugs técnicos. Auto-review: safety classifier decide (low-risk? age. high-risk? pede human). Automations: agente roda 24/7 (deps update, linting fix, rebase) com julgamento.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA TUA TEAM",
+            "title": "50% menos SR engineer pra code review",
+            "highlight": "50%",
+            "body": "Se tinhas 1 SR full-time em review, agora é 0.5 (metade do tempo). Usa outro 0.5 pra coisas que Bugbot não pode (architecture, business logic). Mesma pessoa, 2x mais valor. Ou corta headcount.",
+            "stat": "20h/semana",
+            "stat_label": "economizadas em review",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "PADRÃO NOVO",
+            "title": "Humans lidam complexidade, bots lidam repetição",
+            "highlight": "repetição",
+            "body": "Review de bugs (injection, leak, deprecated API) = repetição. Bots 90s, humanos 30min. Novo normal: todos rodam /review antes de push. Bugbot filtra, humano aprova a decisão.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TESTA HOJE",
+            "title": "Segue @rafaondei pra tools",
+            "highlight": "tools",
+            "body": "Cursor é $20/mês. Bugbot com essas updates é no PRO tier. Vale 10x pelo que economiza em review time. Testa no próximo PR.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Mistral Small 4 + Connectors MCP + Emmi AI (Physics)",
+      "summary": "Mistral lançou Small 4, primeiro modelo que unifica capacidades de Magistral (reasoning), Pixtral (multimodal), e Devstral (coding) em um único modelo. Também lançou Connectors em Studio, trazendo MCP nativo pra workflow agentic, e integrou Emmi AI (physics-based simulation) pra manufacturing.",
+      "source": "Mistral Official Newsroom",
+      "link": "https://mistral.ai/news/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Mistral Small 4: um modelo pra tudo (reasoning, código, imagem)",
+        "caption": "🎯 MISTRAL UNIFICOU TUDO NUM MODELO\n\nMistral Small 4 saiu. Não é mais 3 modelos em 1. É UNO modelo com tudo integrado.\n\nAntes:\n- Magistral pra reasoning\n- Pixtral pra imagem\n- Devstral pra código\nTu escolhia qual chamar.\n\nAgora:\nSmall 4 = Magistral + Pixtral + Devstral em 1. Mesmo preço.\n\nO que muda:\n\n1️⃣ Simplicidade: um call de API, não 3\n2️⃣ Speed: 5x mais rápido que chamar 3 modelos sequencialmente\n3️⃣ Preço: mesmo preço que Small 3.2 (5x mais barato que OpenAI competitors)\n4️⃣ Connectors: MCP nativo (Slack, GitHub, Notion, Salesforce, Snowflake automáticos)\n5️⃣ Emmi AI: simulação de física (pra engenharia, manufatura, energia)\n\nO cenário:\nTu tem tarefa: \"Analisa essa imagem de circuito, propõe código pra simular, manda resultado pro Slack.\"\n\nAntes: 3 API calls + 2min. Agora: 1 call + 20s. Small 4 entende que precisa de imagem, depois código, depois connector (Slack).\n\nManufactura/energia? Emmi AI simula física em tempo real (fratura em metal, fluxo de energia, deformação estrutural). Otimiza design em 10% = US$ 2M de economia.\n\nMistral virou opção séria. Não é mais underdog.\n\nSalva + segue @rafaondei\n\n#Mistral #IA #DevTools #LLM #OpenSource #Tecnologia #InteligenciaArtificial",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "UM MODELO PRA TUDO",
+            "title": "Mistral Small 4 unificou potência",
+            "highlight": "unificou",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "5X MAIS BARATO QUE GPT",
+            "title": "Small 4: US$ 0.20 por M tokens",
+            "highlight": "US$ 0.20",
+            "body": "Opus 4.8 = US$ 3.00 per M input. GPT-4o = US$ 2.50. Mistral Small 4 = US$ 0.20. 15x mais barato. Performance está 85% perto (bom pra 95% dos casos).",
+            "stat": "85% da qualidade",
+            "stat_label": "por 1/15 do preço",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "MISTRAL ERA UNDERDOG",
+            "title": "Small 3.2 tinha que fazer escolha",
+            "highlight": "escolha",
+            "body": "Small 3.2: 'Tu quer reasoning ou imagem ou código? Escolhe 1, usar outro modelo diferente'. Era trade-off constante. Equipe gigante de modelos pros cliente navegar. Small 4 simplificou: leva TUDO, agente escolhe.",
+            "stat": "3 em 1",
+            "stat_label": "unified",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "SIMPLICIDADE = KING",
+            "title": "Menos cognitive load, mais resultado",
+            "highlight": "resultado",
+            "body": "Arquiteto não quer pensar 'qual modelo chamar'. Quer especificar tarefa. Small 4 rota automaticamente (imagem → processamento local, reasoning pesado → mais inferência, código → validação). Uma API.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "CONNECTORS + EMMI",
+            "title": "Slack, GitHub, Snowflake nativos",
+            "highlight": "nativos",
+            "body": "Mistake lançou MCP Connectors (Studio). Agent roda Small 4 + conecta direto com Slack (posta), GitHub (cria PR), Salesforce (atualiza), Snowflake (puxa dados). Zero middleware.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA TUA STACK",
+            "title": "Corta vendor lock-in com 1 model",
+            "highlight": "1 model",
+            "body": "Tu tá prisioneiro no Opus pra tudo? Small 4 é escape hatch. Testa em 1 feature de barra. Performance é boa, preço é 15x melhor. Migra 20% do traffic. Economia é gigante.",
+            "stat": "70% economia",
+            "stat_label": "vs Opus em volume",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "PADRÃO NOVO",
+            "title": "Open/cheap beats proprietary fast",
+            "highlight": "fast",
+            "body": "OpenAI tem Opus (rápido). Mistral tem Small 4 (barato). Pra 90% dos casos, barato ganha. Customer paga menos, empresa economiza. Preço é novo diferencial competitivo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TESTA EM STAGING",
+            "title": "Segue @rafaondei",
+            "highlight": "Segue",
+            "body": "Small 4 não é gimmick. Performance é real. Drop-in replacement pra Small 3.2. Testa em feature menor, pega economia mensal. Worth.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "OpenAI ChatGPT Enterprise + Getty Images Partnership",
+      "summary": "OpenAI expandiu ChatGPT Enterprise com novos controles de credit usage, permitting teams to set workspace limits e individual overrides. Também fechou deal multi-year com Getty Images pra aparecer bibliotecas licenciadas dentro de ChatGPT search e discovery experiences.",
+      "source": "OpenAI Official Newsroom & Variety",
+      "link": "https://openai.com/news/",
+      "category": "aplicação",
+      "recommended": false,
+      "carousel": {
+        "theme": "ChatGPT Enterprise ganha controle de gastos + Getty Images",
+        "caption": "💰 OPENAI MONETIZA ENTERPRISE (FINALLY)\n\nOpenAI lançou duas coisas importantes em ChatGPT Enterprise:\n\n1️⃣ Credit Usage Analytics + Budget Controls\n- Admin pode ver gastos por usuário, produto, modelo\n- Pode capping: \"máximo R$ 1000/user/mês\"\n- Breakdowns por team, por query\n- Evita 'surpresa de US$50k na fatura'\n\n2️⃣ Getty Images Integration\n- Search em ChatGPT agora devolve fotos licenciadas Getty\n- Pra marketing, design, journalism\n- Sem risk de copyright dispute\n\nO cenário:\nTua empresa usa ChatGPT Enterprise. Gerador de imagem custa caro (US$0.04 por imagem). Agora Search com Getty = grátis pra usar foto real.\n\nMarketing dept usava DALL-E. Agora usa ChatGPT Search + Getty = zero custo, qualidade fotográfica.\n\nFinancial control é BIG: antes CEO não sabia quanto IA tava custando. Agora é transparente, é controlável.\n\nBonus: Samsung Galaxy + Samsung DX rodam ChatGPT Enterprise nativo (todos os 300k employees worldwide).\n\nOpenAI virou SaaS de verdade. Não é mais \"chats que quebram bill\". É \"IA controlada e previsível\".\n\nSalva + segue @rafaondei\n\n#OpenAI #ChatGPT #Enterprise #Getty #Imagens #Tecnologia #IA",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "CHATGPT FICOU RESPONSÁVEL",
+            "title": "OpenAI adicionou controle de gastos",
+            "highlight": "controle",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "ANTES ERA SURPRESA",
+            "title": "Credit breakdown por usuário",
+            "highlight": "breakdown",
+            "body": "Antes: CEO recebia bill de US$50k sem saber pra quê. Agora: dashboard mostra 'Design team usou US$8k, Research usou US$12k, Dev usou US$3k'. Transparência real.",
+            "stat": "Budget caps",
+            "stat_label": "por usuário e team",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "PROBLEMA REAL",
+            "title": "Enterprise não sabia quanto IA custava",
+            "highlight": "custava",
+            "body": "ChatGPT virou ferramenta de rotina (pesquisa, rascunho, code). Ninguém pensava em custo (era 'free tier mentality'). Bill explodia. Agora OpenAI quer monetizar, mas honestamente: controls e transparência.",
+            "stat": "US$50k bills",
+            "stat_label": "sem aviso prévio",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "OPENAI CRESCE UP-MARKET",
+            "title": "SaaS sustainability agora é real",
+            "highlight": "real",
+            "body": "OpenAI entendeu: pra vender pra Fortune 500, precisa de controle + previsibilidade. Antes: 'IA é free!' (insustentável). Agora: 'IA é barata + controlada' (business model saudável).",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "GETTY IMAGES DEAL",
+            "title": "Fotos stock dentro de ChatGPT",
+            "highlight": "fotos",
+            "body": "Tu pesquisa 'sunset beach marketing' em ChatGPT. Search retorna texto + fotos Getty (licenciadas). Marketing team baixa, usa em post sem preocupação de copyright. OpenAI + Getty compartilham revenue.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA TUA EMPRESA",
+            "title": "Corta custo de stock photos",
+            "highlight": "stock photos",
+            "body": "Marketing pagava US$10/foto no Shutterstock. Agora Getty dentro de ChatGPT = grátis (incluído em Enterprise). Vira 'perks que pagam pela assinatura'.",
+            "stat": "20-30% economia",
+            "stat_label": "em asset costs",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "PADRÃO",
+            "title": "IA precisa de guardrails pra escalar",
+            "highlight": "guardrails",
+            "body": "Free/unlimited = caótico. Com limites + visibilidade = preditível. Enterprise adora preditível. OpenAI aprendeu. Próximas features vão ter 'knobs de controle' padrão.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "CONFIGURA AGORA",
+            "title": "Segue @rafaondei pra ops IA",
+            "highlight": "ops",
+            "body": "Se usa ChatGPT Enterprise: seta os budget caps essa semana. Evita surpresa. Getty integration = free feature, ativa já.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Vercel Agent Stack + Eve Framework (Next.js pra Agentes)",
+      "summary": "Vercel lançou suite completa pra construir agentes: Agent Stack (integra AI SDK, AI Gateway, Vercel Sandbox, Workflow SDK, Chat SDK) + Eve, framework open-source que é 'Next.js pra agentes'. Também anunciou Vercel Services, Vercel Connect (scoped credentials), e virou epicentro de agent deployments (>50% das deploys agora são AI-led).",
+      "source": "Vercel Official Announcement",
+      "link": "https://itbrief.asia/story/vercel-unveils-agent-tools-as-deployments-turn-ai-led/",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Vercel virou plataforma de agentes (Next.js pra IA)",
+        "caption": "🚀 VERCEL = NEXT.JS PRAS AGENTES\n\nVercel não é mais 'Nextjs host'. Agora é 'Agent OS'.\n\nNovidades:\n\n1️⃣ Eve Framework\n- Open-source 'Next.js pra agentes'\n- Estrutura: /agents pasta = unit of work\n- Built-in durability (agent sobrevive crash)\n- Tools + skills + integrations nativas\n- Human approval workflow\n\n2️⃣ Agent Stack\n- Agrupa: AI SDK + AI Gateway + Vercel Sandbox + Workflow SDK + Chat SDK\n- Tudo conectado\n\n3️⃣ Vercel Services\n- Deploy front + backend + services em um project\n- Comunicação privada entre services\n- Lanças em beta 1º de julho\n\n4️⃣ Vercel Connect\n- Credential scoping (não precisa service token)\n- Short-lived tokens com audit trail\n- Integra com Slack, GitHub, Snowflake, Salesforce, Notion, Linear\n\nO impacto:\n- Antes: construir agente era 'peça coisa aqui, coisa ali, monta com fita'\n- Agora: 'cria /agents/customer-support, tem tudo já'\n- Deploy é 1 clique. Monitoring, logs, durability = included.\n\nNúmero assustador: 6 meses atrás, 3% das deploys em Vercel eram 'feitas por agentes'. Agora? 50%+.\n\nVercel virou o Vercel-para-agentes. Como Next.js virou Vercel-para-web.\n\nSalva + segue @rafaondei\n\n#Vercel #Agents #Eve #Framework #FullStack #Desenvolvimento #IA #DevTools",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "VERCEL VIROU AGENT OS",
+            "title": "Eve Framework = Next.js pra IA",
+            "highlight": "Agent OS",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "MUDANÇA RADICAL",
+            "title": "50% das deploys agora são AI-led",
+            "highlight": "50%",
+            "body": "6 meses atrás: 3% de agents na plataforma. Agora: 50%+. Gráfico é exponencial. Agente é unit-of-work novo. Humano escreve, agente executa, próxima geração itera.",
+            "stat": "+1600% MoM",
+            "stat_label": "agent deploys",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "ANTES ERA FRAGMENTED",
+            "title": "Construir agente = 10 libraries diferentes",
+            "highlight": "10",
+            "body": "LangChain + Anthropic SDK + Vercel Storage + Custom auth + manual durability. Cada dev refazia a roda. Eve é 'Next.js moment' pra agentes: estrutura predefidina que funciona.",
+            "stat": "1 framework",
+            "stat_label": "pra tudo",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "PADRÃO NOVO",
+            "title": "Agent como primeira-class unit",
+            "highlight": "first-class",
+            "body": "Next.js: page é unit-of-work. Eve: agent é unit-of-work. Tu crias /agents/backup-files, Vercel entende que é agente (precisa durability, approval flows, integrations).",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "DENTRO DO EVE",
+            "title": "Estrutura built-in",
+            "highlight": "built-in",
+            "body": "Cada agente tem: tools (what it can do), skills (multi-step reasoning), integrations (Slack/GitHub/SQL), approval workflows (human-in-loop), durability (survives crash). Zero boilerplate.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA BUILDER",
+            "title": "Agente em 30 minutos, antes era 3 dias",
+            "highlight": "30 minutos",
+            "body": "Antes: cria integração com Slack, implementa durability, trata crashes, faz approval. Agora: cria /agents/new em Eve, monta prompt, conecta ao Slack via Vercel Connect, deploy. 3 horas se for bem.",
+            "stat": "10x velocity",
+            "stat_label": "agentes",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O FUTURO",
+            "title": "Framework é moat agora",
+            "highlight": "moat",
+            "body": "Vercel aprendeu com Next.js: framework que torna fácil = lock-in natural. Eve vai ser 'padrão' pra agentes (como Next é pra web). Developer adoption = 80% em 2 anos.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TESTA EVE",
+            "title": "Segue @rafaondei pra stack",
+            "highlight": "stack",
+            "body": "Eve é open-source. Hospeda no Vercel. Primeira agente é free tier. Testa essa semana: cria agente que automatiza task repetitiva no seu projeto.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    }
+  ],
+  "whatsapp": "🔥 RADAR IA — 23 JUN 2026 (10 NOTÍCIAS)\n\n1. Claude Fable 5 Suspensão: Anthropic lançou recorde em benchmarks (94.6% GPQA), EUA ordenou suspend em 13 dias (export control). IA virou arma geopolítica. https://rafaelondei.appnaia.com\n\n2. Claude Design Overhaul: Integração bidirecional com Claude Code. Designer importa design system, dev recebe código 100% síncrono. -50% token cost. https://rafaelondei.appnaia.com\n\n3. Google Veo 3.1 Lite + 4K: Versão ultra-barata de vídeo IA, 4K nativo, 40s por geração. Gemini Omni multimodal (foto+áudio+vídeo input). https://rafaelondei.appnaia.com\n\n4. Meta Llama 4 Scout & Maverick: 17B params eficientes, 10M context window, 1 H100 GPU. Open-source competi com Opus. -60% custo vs Claude. https://rafaelondei.appnaia.com\n\n5. Perplexity Brain: Agente aprende sozinho (context graph overnight). Hybrid local-cloud inference (70% economia). Self-improving = exponencial. https://rafaelondei.appnaia.com\n\n6. xAI Grok no Databricks: Nativo em data warehouse (data nunca sai). grok-imagine-video-1.5 (US$4.20/min vs US$30 Sora). https://rafaelondei.appnaia.com\n\n7. Cursor Bugbot 90 segundos: Review de 5min virou 90s. +10% bugs encontrados, -22% custo. Auto-review + Automations 24/7. https://rafaelondei.appnaia.com\n\n8. Mistral Small 4: Unificou Magistral+Pixtral+Devstral. US$0.20/M tokens (15x barato que Claude). Connectors + Emmi AI nativo. https://rafaelondei.appnaia.com\n\n9. OpenAI ChatGPT Enterprise: Credit controls + Getty Images integration. Budget caps por usuário, fotos stock licenciadas dentro de Search. https://rafaelondei.appnaia.com\n\n10. Vercel Agent Stack + Eve: 'Next.js pra agentes'. Agent como first-class unit. 50%+ das deploys Vercel são AI-led agora. https://rafaelondei.appnaia.com\n\n📊 Dashboard completo: https://rafaelondei.appnaia.com",
+  "instagram": "🚨 10 NOTÍCIAS QUE IMPACTAM TEU NEGÓCIO HOJE\n\nClaude Fable 5 foi suspenso por EUA em 13 DIAS (export control — IA é arma agora) 🛑\n\nGoogle Veo 3.1 Lite domina vídeo (Sora morreu, 4K em 40s) 📹\n\nMeta Llama 4 competi com Opus (-60% custo, 10M tokens) 🦙\n\nPerplexity Brain = agente que melhora sozinha (overnight learning) 🧠\n\nxAI Grok nativo em Databricks (data segura, no-extract) 🔒\n\nCursor Bugbot: review em 90 segundos (era 5 min) ⚡\n\nMistral Small 4: reasoning+imagem+código em 1 modelo (15x barato) 💰\n\nOpenAI ChatGPT Enterprise: budget controls + Getty images 💳\n\nVercel Eve: Next.js pra agentes (50% das deploys são AI-led) 🚀\n\nVerdade: mercado de IA é COMMODITY agora. Quem não migra pra cheaper models perde 70% de margin. Claude/OpenAI custam 10-15x mais.\n\nMais: 3 geradores de vídeo vivos (Veo, Kling, Runway). Sora perdeu por unsustainable (US$1M/dia, US$2M receita).\n\nPrior learning: agentes auto-melhorantes (Perplexity Brain) + hybrid inference = experiencial growth (não linear, exponencial).\n\nDashboard: https://rafaelondei.appnaia.com\n\nSalva esse post + segue @rafaondei pra próximo update 🔥\n\n#IA #InteligenciaArtificial #Claude #OpenAI #Grok #Mistral #Tecnologia #Empreendedorismo #DevTools"
+}

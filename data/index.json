@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-06-21T07:00:01-03:00",
+  "updated_at": "2026-06-23T07:00:01-03:00",
   "executions": [
+    {
+      "date": "2026-06-23",
+      "key": "2026-06-23",
+      "topic": "mercado de IA",
+      "summary": "EUA suspende Claude Fable 5 (export control inédito); Claude Design + Code integration bidirecional; Google Veo 3.1 Lite 4K (Sora morreu); Meta Llama 4 Scout 17B MoE 10M tokens; Perplexity Brain self-improving agents + hybrid local-cloud; xAI Grok nativo Databricks + imagine-video-1.5; Cursor Bugbot 90s reviews (-22% custo); Mistral Small 4 (reasoning+imagem+código); OpenAI ChatGPT Enterprise budgets + Getty Images; Vercel Agent Stack + Eve ('Next.js pra agentes')",
+      "items_count": 10
+    },
     {
       "date": "2026-06-21",
       "key": "2026-06-21",
