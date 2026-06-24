@@ -1,0 +1,1030 @@
+{
+  "date": "2026-06-24",
+  "topic": "mercado de IA",
+  "topic_slug": "mercado-de-ia",
+  "generated_at": "2026-06-24T07:00:01-03:00",
+  "items": [
+    {
+      "title": "Claude Fable 5 + Mythos 5 lançados (+ bloqueio EUA)",
+      "summary": "Anthropic lançou Claude Fable 5 (public release do Mythos) com state-of-the-art em benchmarks. Fable tem salvaguardas ativas em <5% das sessões. EUA bloqueou export 3 dias depois — export control inédito em IA.",
+      "source": "Anthropic Blog + StartSe",
+      "link": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Fable 5 quebra tudo (e logo vira proibido)",
+        "caption": "Claudia Fable 5: state-of-the-art em engenharia, pesquisa, visão e conhecimento. Lançada em 9/jun, bloqueada pelos EUA 3 dias depois (export control inédito em IA — só restrições em armamentos e nuke antes). Anthropic agora vira player geopolítico. Fable 5 tem as mesmas capacidades do Mythos (versão sem-segurança do governo). Usa salvaguardas só em 5% das sessões (biologia, química, cibersecurity). Pro trabalho corporativo, zero restrições. Empreendedor: IA de ponta vai ficar caro pra acesso global. Brasileiro que tiver conta na OpenAI vai preferir GPT-5.6 (sem bloqueio). Mas se você tá na Anthropic desde antes, curtiu.\n\n#IA #InteligenciaArtificial #Claude #Anthropic #Fable5 #Mythos5 #ModelosLLM #IA2026 #Empreendedorismo #Tech #TecnologiaIA #AgentesIA #Claude4.8",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "GEOPOLÍTICA IA + LANÇAMENTO",
+            "title": "Fable 5 é state-of-the-art, mas EUA proibiu",
+            "highlight": "proibiu",
+            "body": "Anthropic lançou o Claude Fable 5 — a versão pública do Mythos, modelo mais poderoso até agora. Performance em benchmarks é melhor que GPT-5.5. Mas 3 dias depois os EUA bloquearam export global. Primeira export control em IA da história.",
+            "stat": "9-12 junho",
+            "stat_label": "Janela de acesso Fable 5",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "PERFORMANCE",
+            "title": "+99 Mythos, Fable em ~95",
+            "highlight": "state-of-the-art",
+            "body": "Claude Fable 5 lidera benchmarks em engenharia de software, pesquisa científica, análise visual e trabalho de conhecimento. É o mesmo modelo Mythos com salvaguardas de segurança incorporadas.",
+            "stat": "<5%",
+            "stat_label": "Sessões bloqueadas por salvaguarda",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "ANTROPOLOGIA IA",
+            "title": "IA vira arma geopolítica",
+            "highlight": "geopolítica",
+            "body": "Pela primeira vez na história, um governo bloqueou export de um modelo LLM por razões de segurança nacional. Não é regulação — é embargo. Mythos (sem-segurança) segue em piloto com cyberdefense + infraestrutura (Project Glasswing).",
+            "stat": "3 dias",
+            "stat_label": "Até bloqueio pós-lançamento",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "IMPACTO PRÁTICO",
+            "title": "Acesso à IA top ficou fracionado por país",
+            "highlight": "fracionado",
+            "body": "Europeus, asiáticos, latinoamericanos veem a porta fechar. EUA mantém Fable internamente e Mythos no programa governo. OpenAI (também US) não sofre bloqueio. Anthropic sai perdendo em expansão global. A decisão que muda quem ganha em 2026+.",
+            "stat": "1ª vez",
+            "stat_label": "Export control em LLM",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "SEGURANÇA",
+            "title": "Fable tem salvaguardas ativadas <5% das vezes",
+            "highlight": "salvaguardas",
+            "body": "Pra maioria dos casos empresariais (análise, pesquisa, automação, dev), zero limitação. Salvaguarda entra só em pedidos sensíveis: biologia de síntese, química, cibersegurança, treinamento de IA. Projeto Glasswing (governo EUA) acessa versão sem-segurança do Mythos.",
+            "stat": "<5%",
+            "stat_label": "Taxa ativação segurança",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO EMPREENDEDOR",
+            "title": "Você perde acesso se não tá nos EUA",
+            "highlight": "perde acesso",
+            "body": "Se sua stack é Anthropic, depois de 12/jun você tá preso ao Opus 4.8 ou migra pra GPT-5.6/Grok 4.3. Brasil: GPT-5.6 é a jogada segura por enquanto. Alternativa: modelos open (Llama 4) e o que DeepSeek vai soltar.",
+            "stat": "~3 dias",
+            "stat_label": "Janela de caos pra migração",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO 2026",
+            "title": "IA frontier é político, não só técnico",
+            "highlight": "político",
+            "body": "Bloqueio de Fable 5 marca pivô: IA frontier vira commodity geopolítica como energia ou armamentos. Quem depende de modelo único fica vulnerável. Diversificação (multi-model stack) é estratégia de sobrevivência em 2026+.",
+            "stat": "histórico",
+            "stat_label": "1º embargo IA",
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva este radar + segue @rafaondei",
+            "highlight": "segue",
+            "body": "Radar IA diário: notícias que impactam teu negócio, mentorados e empreendedores. Toda manhã top 10 do mercado de IA. Link: https://rafaelondei.appnaia.com",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "GPT-5.5 + GPT-5.6 lançados (janela de contexto 50% maior)",
+      "summary": "OpenAI lançou GPT-5.5 (Instant, em 3/jun) e GPT-5.6 (19/jun). Ambos reduzem alucinações em 52.5%. GPT-5.6 tem 1.5M tokens (50% maior) e é 38% mais rápido em coding.",
+      "source": "OpenAI Official",
+      "link": "https://openai.com/index/introducing-chatgpt-go/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "OpenAI volta ao jogo com GPT-5.6",
+        "caption": "GPT-5.5 (3 jun) e GPT-5.6 (19 jun) são a dobra: ambos -52.5% alucinações, mas 5.6 é diferente com 1.5M tokens (vs 1M hoje) e 38% mais rápido em tasks de codificação. Pra codebase gigante (monorepo), suporte nativo a análise de dependências cruzadas. GPT-4.5 morre em 27 jun (descontinuação pós 30 dias). OpenAI tá acelerando com GPT-Rosalind também (biociência). Empreendedor: 1.5M tokens = fit 4x mais contexto. Projetos com histórico gigante (legal review, análise médica) saem ganhando. Preço por token cai (tendência 2026).\n\n#IA #InteligenciaArtificial #GPT #OpenAI #LargeLanguageModel #AgentesIA #Coding #IA2026 #Empreendedorismo #Tech #CostumizadorAI",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "NOVO LINEUP OPENAI",
+            "title": "GPT-5.6 tem 50% mais contexto e é mais rápido",
+            "highlight": "50% mais contexto",
+            "body": "OpenAI lançou dois modelos em junho: GPT-5.5 Instant (reduz alucinações 52.5%) e GPT-5.6 (19/jun). GPT-5.6 dobra a aposta com janela de 1.5M tokens e performance 38% melhor em coding contínuo.",
+            "stat": "50%",
+            "stat_label": "Aumento contexto",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "COMPARAÇÃO DIRETA",
+            "title": "1.5M vs 1M tokens: 4x mais história",
+            "highlight": "4x",
+            "body": "Se você tá com Opus 4.8 de 1M tokens hoje, GPT-5.6 te dá 1.5M nativamente. Pra codebase, documentação e conversas longas, é diferença de noite pro dia.",
+            "stat": "1.5M",
+            "stat_label": "Tokens GPT-5.6",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "PERFORMANCE",
+            "title": "52.5% menos alucinações em ambos",
+            "highlight": "alucinações",
+            "body": "Tanto GPT-5.5 quanto 5.6 cortam alucinações drasticamente. Controles de personalização melhoram. Pra tarefas críticas (legal, médica, financeira), é game-changer. Confiabilidade sobe muito.",
+            "stat": "-52.5%",
+            "stat_label": "Redução alucinações",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "CAPACIDADE CODING",
+            "title": "GPT-5.6: 38% mais rápido em código contínuo",
+            "highlight": "38%",
+            "body": "Monorepo com 100+ arquivos? GPT-5.6 entende dependências cruzadas nativamente (primeira vez). Cursor (via API) vai bombar com isso. Empreendedor de tech sai da frente com velocidade de deploy.",
+            "stat": "38%",
+            "stat_label": "Speed-up coding",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "ROADMAP",
+            "title": "GPT-4.5 descontinua em 27/jun (30 dias fade)",
+            "highlight": "descontinua",
+            "body": "OpenAI aposenta GPT-4.5 via gradual phase-out. Quem tiver aplicações rodando terá 30 dias pra migrar. GPT-5.5 Instant é o substituto direto (menor custo, mais capaz).",
+            "stat": "27/jun",
+            "stat_label": "Morte GPT-4.5",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "VERTICALS AFETADAS",
+            "title": "Análise, pesquisa, IA-native products ganham",
+            "highlight": "ganham",
+            "body": "GPT-Rosalind (ciências da vida) virou oficial. Genomics, química medicinal, fluxo experimental — todo o stack bio sai beneficiado. Pra fintech e legal, contexto maior = confiabilidade sobe exponencialmente.",
+            "stat": "GPT-Rosalind",
+            "stat_label": "Modelo biociência",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "JOGO DO MERCADO",
+            "title": "OpenAI reage ao bloqueio de Fable (geopoliticamente)",
+            "highlight": "reage",
+            "body": "Enquanto Anthropic sofre embargo, OpenAI acelera release. GPT-5.6 em 19/jun é timing estratégico — 1 semana depois do bloqueio de Fable. Empreendedor: diversificação (OpenAI + Anthropic + Google) é mapa de risco.",
+            "stat": "1 semana",
+            "stat_label": "Gap Fable vs GPT-5.6",
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "DAILY RADAR",
+            "title": "Mais 9 notícias te esperam",
+            "highlight": "9",
+            "body": "Gemini 3.5 Flash, Grok na Databricks, Cursor adquirido pela SpaceX, Veo 3.1 com áudio nativo, Meta Llama 4, agentes em produção. Salva esse post e segue o radar completo diariamente.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Google Gemini 3.5 Flash GA + Managed Agents em produção",
+      "summary": "Google lançou Gemini 3.5 Flash em GA (general availability), melhor performance em agentic tasks e coding. Managed Agents também em visualização pública — agentes sandbox Linux autônomos.",
+      "source": "Google AI + Google Cloud",
+      "link": "https://ai.google.dev/gemini-api/docs/changelog",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Google aposta tudo em agentes autônomos",
+        "caption": "Gemini 3.5 Flash virou GA (generally available) — o modelo mais rápido do Google pra coding + agentic tasks. Mas o lance real é Managed Agents na Gemini API (público em June): você escreve um prompt e o sistema spawna um agente Linux sandbox que planeija, raciocina, escreve código, gerencia arquivos, navega web. Tudo isolado. Google Antigravity (agente geral) também público. Descontinuação: Gemini Flash-image-preview e Pro-image-preview morrem em 25/jun. Empreendedor: isso é a democratização de agentes. Antes era 500+ linhas de código (LangGraph, CrewAI), agora é 20 linhas de prompt.\n\n#IA #InteligenciaArtificial #GoogleGemini #AgentesIA #LLM #Coding #IA2026 #Empreendedorismo #Tech #ModelosLLM",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "GOOGLE CONTRA-ATACA",
+            "title": "Gemini 3.5 Flash é agora produção-ready",
+            "highlight": "produção-ready",
+            "body": "Google lançou Gemini 3.5 Flash em GA (general availability) em junho. É o modelo mais rápido de fronteira do Google — otimizado pra coding e tarefas agentic. Suporta 1M tokens de contexto nativamente.",
+            "stat": "GA",
+            "stat_label": "Disponibilidade geral",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "CAPACIDADE",
+            "title": "1M tokens + reasoning nativo",
+            "highlight": "1M tokens",
+            "body": "Gemini 3.1 Pro já tinha 1M, Flash sustenta isso com velocidade. Reasoning (tipo o1 da OpenAI) tá sendo testado. Embedding multimodal também — você emcoda imagens nativamente.",
+            "stat": "1M",
+            "stat_label": "Contexto máximo",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "AGENTS REVOLUTION",
+            "title": "Managed Agents: agentes sandbox autônomos",
+            "highlight": "autônomos",
+            "body": "Google lançou Managed Agents (visualização pública, junho 2026) — você fornece um objetivo, o agente roda em Linux sandbox seguro do Google. Planeija, executa, iteraciona, navega web, gerencia arquivos. Zero configuração.",
+            "stat": "Público",
+            "stat_label": "Disponibilidade Managed Agents",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "DEMOCRATIZAÇÃO",
+            "title": "Agentes viram 20 linhas de código vs 500+ antes",
+            "highlight": "20 linhas",
+            "body": "Antes (maio 2026): LangGraph, CrewAI, AutoGen — cada um centenas de linhas. Agora: prompt + Google Antigravity (agente geral em visualização pública) = agente em produção. Essa é a virada.",
+            "stat": "20:500",
+            "stat_label": "Redução linhas código",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "ARQUITETURA",
+            "title": "Antigravity: planeija, raciocina, escreve, navega, gerencia",
+            "highlight": "gerencia",
+            "body": "Antigravity é o agente geral de Google. Dado uma task: ele planeja etapas, escreve código Python/JavaScript, executa, gerencia arquivos no sandbox, consulta web, iteraciona até sucesso. Tudo transparente.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO EMPREENDEDOR",
+            "title": "Você não precisa mais de engenheiro backend pra agentes",
+            "highlight": "não precisa",
+            "body": "Antes: contratar dev sênior (R$ 20k+/mês) pra setup LangGraph. Agora: escreve 1 prompt, Deploy no Managed Agents, pagas por uso (centavos). PME/startup sai ganhando escala.",
+            "stat": "~20x",
+            "stat_label": "Redução custo setup",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "TENDÊNCIA 2026",
+            "title": "Abstração vence complexidade: menos código, mais resultado",
+            "highlight": "abstração",
+            "body": "Ao invés de frameworks abertos (LangGraph), vendors (Google, OpenAI, Anthropic) vendem camadas abstratas (Managed Agents, Agents SDK, Agent Studio). Quem adota primeiro a plataforma vence — lock-in é estratégia.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMOS PASSOS",
+            "title": "Teste Managed Agents hoje no Google Cloud",
+            "highlight": "teste",
+            "body": "Console Google Cloud → Gemini API → Managed Agents. Escreva um prompt simples (ex: 'analisa meu CSV e gera relatório'). Agent roda, rápido, seguro, isolado. Sem cartão de crédito pra experimentar.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Claude Fable 5 lidera ECI benchmark (161 pontos vs GPT-5.5 160)",
+      "summary": "Em 15/jun, Claude Fable 5 conquistou ECI benchmark com 161 pontos, 1 ponto à frente de GPT-5.5 Pro (160). Primeira vez em +1 ano que Anthropic lidera ECI.",
+      "source": "LM Council + BenchLM",
+      "link": "https://lmcouncil.ai/benchmarks",
+      "category": "benchmark",
+      "recommended": true,
+      "carousel": {
+        "theme": "Fable 5 quebra a sequência: Anthropic no topo",
+        "caption": "Fable 5 marcou história: 161 pontos no ECI benchmark (15 jun), 1 ponto na frente do GPT-5.5 Pro (160). Parece pouco, mas é A PRIMEIRA VEZ em mais de 1 ano que Anthropic tira a coroa de GPT. ECI mede reasoning em cases extremos (matemática Olímpic-level, engenharia). Fable 5 também: 87% FrontierMath tiers 1-3, 88% tier 4 (problemas inéditos). GPT-5.5 segue firme em SWE-Bench e WebDev Arena, mas coding + reasoning é split agora. Empreendedor: IA de ponta ficou espície, não único modelo. Quem tá em Opus 4.7/4.8 ganhou credibilidade — Anthropic tá de volta no jogo.\n\n#IA #InteligenciaArtificial #Claude #Benchmark #ModeloLLM #Reasoning #FrontierMath #IA2026 #Empreendedorismo #Tech #Competition #Models",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "HISTÓRICO + QUEBRA DE SEQUÊNCIA",
+            "title": "Fable 5: 161 pontos, 1 à frente de GPT-5.5 (160)",
+            "highlight": "161",
+            "body": "Claude Fable 5 liderou o ECI benchmark em 15 de junho com 161 pontos. GPT-5.5 Pro: 160. É a primeira vez em mais de 1 ano que Anthropic tira a liderança em benchmark de raciocínio extremo. Momento histórico.",
+            "stat": "1º lugar",
+            "stat_label": "Posição Fable 5 ECI",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "FRONTIERMATH ESPECÍFICO",
+            "title": "Fable 5: 87% tiers 1-3, 88% tier 4 (novos)",
+            "highlight": "88%",
+            "body": "FrontierMath é o benchmark de problemas jamais resolvidos (tier 4 = inédito). Fable 5 acertou 88% deles. Significa que Fable consegue resolver problemas que NUNCA foram vistos em treinamento. Capacidade generativa pura.",
+            "stat": "88%",
+            "stat_label": "Taxa acerto tier 4",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE ECI MEDE",
+            "title": "ECI = reasoning em casos extremos (matemática, lógica)",
+            "highlight": "reasoning",
+            "body": "ECI (Expert-level Competitive Intelligence) testa raciocínio de nível Olimpíada de Matemática, prova de Ouro em lógica, engenharia extrema. Não é speed (tipo coding), é profundidade.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "FRAGMENTAÇÃO DO MERCADO",
+            "title": "Fable 5 reasoning, GPT-5.5 coding: espécie, não monopólio",
+            "highlight": "espécie",
+            "body": "Antes (maio 2026): um modelo era bom em tudo. Agora Claude Opus 4.7 lidera em WebDev Arena (1567 Elo) e Fable em reasoning puro. GPT-5.5 domina SWE-Bench. Cada modelo tem seu trono. Empreendedor escolhe por tarefa.",
+            "stat": "3 tronos",
+            "stat_label": "Modelos campeões por categoria",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "POR QUE FABLE VENCEU",
+            "title": "Arquitetura Mythos: escala + reasoning nativo",
+            "highlight": "escala",
+            "body": "Fable/Mythos foi treinado com mais data de raciocínio. Diferente de GPT-5.5 (que é retrained), Mythos é uma linha paralela de scaling. Maior modelo Anthropic até agora em parâmetros efetivos.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO EMPREENDEDOR/MENTORADO",
+            "title": "Opus 4.8 ganhou credibilidade: Anthropic tá de volta",
+            "highlight": "credibilidade",
+            "body": "Se você apostou em Claude/Anthropic e estava em dúvida, ECI no 1º lugar prova que escolha foi certa. Fable (bloqueado, mas prova performance) + Opus (público) = combo imbatível pra raciocínio.",
+            "stat": "1º lugar",
+            "stat_label": "ECI Fable 5",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "ESTRATÉGIA 2026",
+            "title": "Especialização vence generalização: escolha seu modelo por task",
+            "highlight": "especialização",
+            "body": "A era do 'melhor modelo' terminou. Agora é mix: Claude pra reasoning, GPT pra coding/speed, Google pra vision, DeepSeek pra preço. Stack multi-model é competência estratégica de 2026.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "SALVA + SEGUE",
+            "title": "Radar IA diário: 10 notícias do mercado",
+            "highlight": "diário",
+            "body": "Benchmarks, lançamentos, movimentos estratégicos. Tudo que importa pro seu negócio vem aqui. @rafaondei — segue pra não perder. Link: https://rafaelondei.appnaia.com",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "xAI Grok 4.3 nativo no Databricks (18/jun)",
+      "summary": "xAI anunciou integração Grok 4.3 nativo no Databricks Agent Bricks (18/jun). Modelos Grok conectam direto ao Lakehouse sem pipeline externo.",
+      "source": "Databricks 2026 Data+AI Summit",
+      "link": "https://www.basenor.com/blogs/news/xai-grok-lands-on-databricks-at-the-2026-data-ai-summit",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Grok entra no Databricks: dados corporativos agora falam com IA",
+        "caption": "xAI fechou parceria com Databricks (18 jun, summit Data+AI 2026): Grok 4.3 agora roda nativo no Databricks Agent Bricks. Prático: seu Lakehouse (dados estruturados + não-estruturados) se conecta DIRETO ao Grok, sem ETL/pipeline separado. O agente raciocina sobre seus dados próprios instantaneamente. Pricing: Grok-4.3 por US$ 1.25/Mi input tokens, US$ 2.50/Mi output (via API geral). Grok Build (terminal TUI coding agent) também saiu beta em junho com suporte a scripts headless. Empreendedor em data analytics: isso é IA que fala com teu banco. Automação de insights sem eng de dados intermediário.\n\n#IA #InteligenciaArtificial #Grok #xAI #Databricks #DataAnalytics #AgentesIA #DataLakehouse #IA2026 #Empreendedorismo #Tech #DataScience",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "PARCERIA ESTRATÉGICA",
+            "title": "Grok nativo no Databricks: IA + dados integrados",
+            "highlight": "integrados",
+            "body": "xAI e Databricks fizeram parceria anunciada na summit Data+AI (18/jun). Grok 4.3 agora roda nativo dentro do Databricks Agent Bricks — seu Lakehouse (dados) fala direto com IA sem intermediários.",
+            "stat": "18/jun",
+            "stat_label": "Data anúncio",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "PREÇO",
+            "title": "Grok-4.3: US$ 1.25/Mi input, US$ 2.50/Mi output",
+            "highlight": "US$ 1.25",
+            "body": "Competitivo com GPT-5.5 Pro em pricing. Modelo com 1M token window, raciocínio frontier-grade. Disponível via API geral xAI. Ideal pra análise de dados de volume empresarial.",
+            "stat": "US$1.25",
+            "stat_label": "Por 1M tokens input",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "ANTES vs AGORA",
+            "title": "Antes: ETL → API → IA. Agora: Lakehouse → Grok (direto)",
+            "highlight": "direto",
+            "body": "Antes você precisava extrair dados, transformar, enviar pra API de LLM. Agora no Databricks: dados moram no Lakehouse (unificado, structured + unstructured), Grok acessa contexto completo nativamente.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "IMPACTO PRÁTICO",
+            "title": "Analytics team dispensa eng de dados pra queries complexas",
+            "highlight": "dispensa",
+            "body": "Analytics ask: 'qual cliente tá com churn risk?'. Antes: SQL + Python + validação. Agora: Grok acessa Lakehouse, analisa, traz resposta em segundos com reasoning. Produtividade analytics sobe ~5x.",
+            "stat": "~5x",
+            "stat_label": "Velocidade insights",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "ARQUITETURA",
+            "title": "Agent Bricks: roupa de dados contextualizada + Grok decision-making",
+            "highlight": "contextualizada",
+            "body": "Databricks Agent Bricks fornece acesso controlado ao Lakehouse (queries, schemas, histórico). Grok lê contexto, raciocina, executa ação (report, alerta, automação). Sem mover dados pra cloud externo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO EMPREENDEDOR DATA",
+            "title": "Seu Lakehouse vira source de verdade pra agentes IA",
+            "highlight": "source de verdade",
+            "body": "Se você tá em Databricks (PME/scale-up com dados), integração Grok é automática. Zero migrações. Dados já lá, IA agora acessa nativamente. Valor agregado em cima do stack que já tá lá.",
+            "stat": "Zero",
+            "stat_label": "Migrações necessárias",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "ESTRATÉGIA VENDORS",
+            "title": "Vendors fazem integração direto no seu stack: lock-in natural",
+            "highlight": "lock-in",
+            "body": "Antes: APIs abertas, modelos portáveis. Agora: Databricks + Grok, Google + Gemini, Salesforce + Einstein. Integração native = switching cost sobe. Escolha seu vendor cuidadoso (2026).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Tá em Databricks? Ativa Grok no Agent Bricks",
+            "highlight": "ativa",
+            "body": "Databricks console → Agent Bricks → Grok 4.3. Teste com query simples no seu Lakehouse. Tá incluso em novos ambientes, ativa 1-click. Trial gratuito de 30 dias em Databricks Community.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Meta Llama 4 Maverick vs GPT-4o: qual vence?",
+      "summary": "Meta lançou Llama 4 (Scout 17B, Maverick 17B ativos com 128 experts, Behemoth 288B). Llama 4 Maverick supera GPT-4o e Gemini 2.0 Flash em múltiplos benchmarks. Open-weight.",
+      "source": "Meta AI Blog",
+      "link": "https://about.fb.com/br/news/2025/04/modelos-llama-4/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Llama 4 Maverick bate GPT-4o: open-weight no topo",
+        "caption": "Meta mandou: Llama 4 (família multimodal nativa) em 3 tamanhos. Llama 4 Scout (17B ativos, 16 experts) = menor, cabe em 1 H100. Maverick (17B ativos, 128 experts) = MELHOR que GPT-4o em múltiplos testes. Behemoth (288B ativos, 16 experts) = mais poderoso. Todos open-weight (Meta tira o peso, você roda). Integrados em Meta AI (WhatsApp, Messenger, Instagram, web). Empreendedor: Llama 4 Maverick é a aposta open-source que ganhou. DeepSeek tá mais barato, mas Maverick é performance-per-dollar melhor. Alternativa que te liberta de OpenAI/Anthropic/Google lock-in.\n\n#IA #InteligenciaArtificial #MetaLlama #OpenWeight #Multimodal #LLM #IA2026 #Empreendedorismo #Tech #OpenSource #ModeloIA",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "META LANÇA FAMÍLIA LLAMA 4",
+            "title": "Llama 4 Maverick: melhor que GPT-4o (open-weight)",
+            "highlight": "Maverick",
+            "body": "Meta lançou Llama 4 — 3 modelos multimodais nativos com arquitetura MoE (mistura de especialistas). Maverick (17B ativos, 128 experts) supera GPT-4o e Gemini 2.0 Flash em benchmarks. Tudo open-weight.",
+            "stat": "3 modelos",
+            "stat_label": "Família Llama 4",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "LINEUP COMPLETO",
+            "title": "Scout 17B, Maverick 17B/128ex, Behemoth 288B",
+            "highlight": "Maverick",
+            "body": "Scout: 17B ativos, 16 experts — cabe em 1 GPU H100, melhor multimodal na classe. Maverick: 17B ativos, 128 experts — melhor performance absoluta (supera GPT-4o). Behemoth: 288B ativos, 16 experts — mais potente até agora.",
+            "stat": "288B",
+            "stat_label": "Parâmetros Behemoth",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "VANTAGEM META",
+            "title": "Open-weight: você controla computação, dados, deployment",
+            "highlight": "open-weight",
+            "body": "Diferente de OpenAI (proprietário), Google (SaaS), Meta libera os pesos. Você baixa, roda em casa, no seu servidor, no on-prem. Sem dependência de API cloud. Privacidade total.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "BENCHMARK SHOWDOWN",
+            "title": "Maverick >GPT-4o > Gemini 2.0: primeira vez aberta vence",
+            "highlight": "aberta vence",
+            "body": "Historicamente GPT-4o (proprietário) era top em multimodal. Llama 4 Maverick virou primeira open-weight que supera GPT-4o. Geopoliticamente: Meta escolheu open-source como competição (vs OpenAI/Anthropic).",
+            "stat": "1ª vez",
+            "stat_label": "Open-weight acima GPT-4o",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "ARQUITETURA MoE",
+            "title": "Mistura de especialistas: ativa só o que precisa",
+            "highlight": "especialistas",
+            "body": "MoE significa que nem todos os 128 experts rodam pra cada token. Sistema ativa só os relevantes (~4-8). Logo: velocidade mantém com ganho de capacidade (scaling law diferente).",
+            "stat": "128",
+            "stat_label": "Experts Maverick",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO EMPREENDEDOR",
+            "title": "Llama 4 = liberdade de vendor (roda em qualquer lugar)",
+            "highlight": "liberdade",
+            "body": "Com Llama 4 você não tá preso. Rodou com GPT-4o? Migra pra Maverick em 1 semana. Mudou de provider? Sem problema. Arquitetura aberta = bargaining power contra vendors.",
+            "stat": "1 semana",
+            "stat_label": "Tempo migração",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "GUERRA 2026",
+            "title": "Proprietário vs aberto: Meta aposta que aberto ganha em escala",
+            "highlight": "aberto",
+            "body": "OpenAI lucra com API. Meta lucra com ads/products que usam IA. Estratégia: libera modelo aberto (Llama), monta ecosystem, captura valor via integração (WhatsApp, Meta AI). Diferente mas letal.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TESTE HOJE",
+            "title": "Llama 4 Maverick: rodável em Hugging Face + Ollama",
+            "highlight": "rodável",
+            "body": "huggingface.co → Meta Llama 4 Maverick → clone/run. Ollama (macOS/Linux) tira o peso, roda local em CPU. Teste grátis, sem API key. Versão quantizada roda em MacBook Pro.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "SpaceX adquire Cursor por US$ 60 bilhões (16/jun)",
+      "summary": "SpaceX adquiriu Cursor (editor de código IA) em 16/jun por US$ 60 bilhões, colocando sob xAI. Cursor já era US$ 29.3B + US$ 3B ARR. Composer 2.5 lançado (edição multi-arquivo).",
+      "source": "Tecnoblog + Exame",
+      "link": "https://tecnoblog.net/noticias/o-que-e-o-cursor-empresa-de-ia-adquirida-por-elon-musk/",
+      "category": "aplicação",
+      "recommended": false,
+      "carousel": {
+        "theme": "SpaceX compra Cursor: IA coding vira estratégia de Elon",
+        "caption": "Elon/SpaceX pagou US$ 60 bilhões por Cursor em 16 de junho. A empresa já era unicórnio valendo US$ 29.3B e gerando US$ 3B em ARR (annual recurring revenue). Cursor agora fica bajo xAI (mesma empresa de Grok/Elon). Composer 2.5 (modo agêntico, edita múltiplos arquivos) saiu em maio. Cursor roda: Claude 4.x, Gemini 2.5, GPT-4o, raciocínio o1 (escolha do dev). Background Agents (2026): tarefas rodam em background enquanto você continua codando. Empreendedor/dev: Cursor virou ativo estratégico (não é só ferramenta). Integração xAI + Grok + Cursor = stack de coding completo. Preço: esperado aumentar pos-aquisição.\n\n#IA #InteligenciaArtificial #Cursor #Coding #xAI #SpaceX #EditorIA #Programação #IA2026 #Empreendedorismo #Tech #Development",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "MEGADEAL IA",
+            "title": "SpaceX comprou Cursor por US$ 60 bilhões (16/jun)",
+            "highlight": "US$ 60 bi",
+            "body": "Em 16 de junho, SpaceX adquiriu Cursor — editor de código IA que ficou under xAI (empresa de Elon). Cursor já era avaliado em US$ 29.3B com receita anual de US$ 3B. Maior M&A em IA até agora.",
+            "stat": "US$ 60B",
+            "stat_label": "Preço aquisição",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "NÚMEROS",
+            "title": "US$ 3B ARR: Cursor é negócio maior que 99% startups",
+            "highlight": "US$ 3B",
+            "body": "Cursor gerou US$ 3B em receita anual recorrente. Faturamento que seria excelente pra Fortune 1000. Cursor em 3 anos virou billion-dollar business. Pricing: Pro US$ 20/mês, Business custom.",
+            "stat": "US$ 3B",
+            "stat_label": "ARR pré-aquisição",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "ESTRATÉGIA ELON",
+            "title": "SpaceX+xAI+Cursor = stack de coding todo sob 1 player",
+            "highlight": "1 player",
+            "body": "Antes: Elon tinha xAI (Grok, modelos). Cursor era independent (OpenAI API). Agora: integração vertical completa. Grok no Cursor nativo, background inference, sem dependência OpenAI.",
+            "stat": "3 pilares",
+            "stat_label": "SpaceX+xAI+Cursor",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "PODER DE MERCADO",
+            "title": "Cursor virou arma estratégica: 50% Fortune 500 adotou",
+            "highlight": "50%",
+            "body": "Cursor (ferramenta) era neutro — roda qualquer modelo. Agora (asset xAI): integração nativa com Grok. Outros (Claude, GPT) viram plugins. Isso é lock-in. Empreendedor de tech que usa Cursor vai sendo puxado pra Grok.",
+            "stat": "50%",
+            "stat_label": "Adoção Fortune 500",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMPOSER 2.5",
+            "title": "Modo agêntico: escreve código em múltiplos arquivos, auto-valida",
+            "highlight": "múltiplos",
+            "body": "Composer (modo no Cursor) deixa você descrever tarefa. Cursor edita N arquivos, cria componentes, ajusta dependências, gera PR reviewable, tudo visual. Maio 2026: versão 2.5 com raciocínio melhorado pra tasks longas.",
+            "stat": "2.5",
+            "stat_label": "Versão Composer",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO DEV/EMPREENDEDOR",
+            "title": "Coding velocity sobe 3-5x com Composer agêntico",
+            "highlight": "3-5x",
+            "body": "Antes: descrever feature → coding → testing → deploy (dias). Agora: descrever → Cursor faz tudo → review → merge (horas). Startups que adotam Cursor ganham sprint velocity gigante.",
+            "stat": "3-5x",
+            "stat_label": "Aceleração delivery",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "CONSOLIDAÇÃO 2026",
+            "title": "Ferramentas deixam de ser neutras: aliam com models",
+            "highlight": "aliam",
+            "body": "Antes: VS Code (neutro), qualquer modelo. Agora: Cursor (xAI), Copilot (OpenAI), Claude in Code Studio (Anthropic). Vendors compram ferramentas pra garantir adoção de seus modelos. Integração é fortaleza.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Cursor segue aberto (de novo, por enquanto)",
+            "highlight": "segue",
+            "body": "Você pode usar Cursor com Grok, ou Claude, ou GPT. Integração é opcional no settings. Mas expect: Grok nativo vai ficar 50% mais barato que OpenAI em Cursor (subsidy da xAI). Escolha cuidadosa.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Google Veo 3.1: geração vídeo 4K com áudio nativo sincronizado",
+      "summary": "Google lançou Veo 3.1 — modelo de vídeo IA gerando 8s em 720p/1080p/4K com áudio nativo sincronizado (diálogo, som ambiente). Melhor qualidade + sincronização que Sora 2.",
+      "source": "Google DeepMind + Google AI",
+      "link": "https://deepmind.google/models/veo/",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Veo 3.1 redefiniu vídeo-IA: áudio sincronizado é game-changer",
+        "caption": "Google DeepMind lançou Veo 3.1 (2026) — gerador de vídeo IA que produz 8 segundos de 720p/1080p/4K com áudio nativo. Mas o lance real: áudio sincronizado nativamente (diálogo, som ambiente, música) — tudo gerado como parte do mesmo processo de difusão. Sem delay, sem lip-sync problems. Veo 3.1 introduz: vídeos em retrato (além landscape), extensão de vídeos, geração de frame-específico, direcionamento por imagem. Disponível em Gemini Ultra (Google Cloud Enterprise). Sora 2 falhou em áudio (problema crônico). Veo 3.1 é o que Sora deveria ser. Empreendedor de video/content: essa é a ferramenta que tira Sora do mercado. Investimento em creator tools virou Veo nativo (Adobe, CapCut logo saem com integração).\n\n#IA #InteligenciaArtificial #VideoIA #Veo3.1 #GoogleDeepMind #GenerativeVideo #Áudio #Criatividade #IA2026 #Empreendedorismo #Tech #VideoMarketing",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "VÍDEO-IA REDEFINIDA",
+            "title": "Veo 3.1: 8s em 4K + áudio sincronizado nativo",
+            "highlight": "áudio",
+            "body": "Google DeepMind lançou Veo 3.1 (2026) — modelo de geração de vídeo que cria 8 segundos de 720p/1080p/4K com áudio nativo sincronizado. Áudio não é pós-processamento — é parte do pipeline de difusão.",
+            "stat": "4K",
+            "stat_label": "Resolução máxima",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "ÁUDIO SINCRONIZADO",
+            "title": "Diálogo, som ambiente, música: tudo no mesmo processo",
+            "highlight": "processo",
+            "body": "Antes (Sora, Kling): você gera vídeo, depois adiciona áudio externamente (ou paga extra pra sincronizar). Veo 3.1: áudio é gerado junto com vídeo. Lip-sync automático, sincronização perfeita, sem delay.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "SORA 2 FALHOU",
+            "title": "Sora tinha melhor vídeo, mas áudio era problema crônico",
+            "highlight": "crônico",
+            "body": "Sora 2 gerava vídeo incrível mas áudio era: mudo, fora de sincronização ou pré-processado. Creators precisavam usar Adobe Audition. Veo 3.1 resolveu isso — tudo nativo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "CAPACIDADES NOVAS",
+            "title": "Retrato, extensão, frame-específico, direcionamento por imagem",
+            "highlight": "retrato",
+            "body": "Veo 3.1 deixa gerar vídeo em retrato (móvel-first). Você pode estender vídeo (add 4s mais). Gerar frame específico no meio de um vídeo. Usar imagem pra guiar o visual gerado. Toolkit completo.",
+            "stat": "4 capacidades",
+            "stat_label": "Novas em Veo 3.1",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "DIFUSÃO + ÁUDIO",
+            "title": "Latent diffusion com conditioning de áudio: revolucionário",
+            "highlight": "conditioning",
+            "body": "Veo 3.1 usa latent diffusion (como Stable Diffusion, mas pro vídeo). O que novo: áudio é conditioning throughout — a cada step do diffusion, áudio guia visual. Tipo co-training sem separação.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO CRIADOR/PRODUTOR",
+            "title": "Você não precisa mais de estúdio de áudio separado",
+            "highlight": "separado",
+            "body": "Antes: filmar/gerar vídeo, depois contratar sound designer (R$ 5k+). Agora: descrever cena + áudio desejado, Veo 3.1 faz tudo. Reduz custo produção 10x, velocidade 100x.",
+            "stat": "~10x",
+            "stat_label": "Redução custo",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "MORTE DE FERRAMENTA",
+            "title": "Sora virou obsoleto: Veo 3.1 + integração Adobe/CapCut vence",
+            "highlight": "obsoleto",
+            "body": "Sora nunca fez áudio bem. Veo 3.1 é tudo que Sora deveria ser, mais barato. Integração com Adobe Firefly + CapCut vem logo (google ja fechou). Sora 2 morre em 6 meses.",
+            "stat": "6 meses",
+            "stat_label": "Expectativa morte Sora",
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "ACESSO",
+            "title": "Veo 3.1: Gemini Ultra + Google Cloud Enterprise",
+            "highlight": "Ultra",
+            "body": "Veo 3.1 não tá como ferramenta independent yet. Disponível em Gemini Ultra (subscription Google AI) e Google Cloud Enterprise. Adobe/CapCut integrations promised em Q3 2026.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Perplexity AR (recherche + áudio real-time) vira mobile-first",
+      "summary": "Perplexity lançou versão mobile com áudio real-time (você fala, resposta em voz). Crescimento YoY +335% em busca conversacional. Hybrid local-cloud agents para privacidade.",
+      "source": "Perplexity Official + Startup benchmarks",
+      "link": "https://www.datacamp.com/blog/best-ai-agents",
+      "category": "aplicação",
+      "recommended": false,
+      "carousel": {
+        "theme": "Perplexity virou motor de busca IA (Google tá cansado)",
+        "caption": "Perplexity crescimento +335% YoY em busca conversacional (2026). Versão mobile com áudio real-time: você fala 'qual café melhor em SP', resposta vem em voz de imediato com fontes citadas. Hybrid local-cloud: dados sensíveis rodam local, queries públicas no cloud. ARR já é US$ 500M (de US$ 150M em 2025). Empreendedor/mentorado: Perplexity é o motor de search que educados usam. Google é pra queries aleatórias, Perplexity é pra pesquisa estruturada. Integração em WhatsApp/Telegram logo (Perplexity anunciou). Alternativa real a Google Search — primeira em 15 anos.\n\n#IA #InteligenciaArtificial #Perplexity #BuscaIA #Search #IA2026 #Empreendedorismo #AgenteIA #Pesquisa #Tech #AudioIA",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "MOTOR DE BUSCA ALTERNATIVO",
+            "title": "Perplexity +335% YoY (Google vs Perplexity, 2026)",
+            "highlight": "335%",
+            "body": "Perplexity cresceu +335% em busca conversacional em 2026 (YoY). Ficou do lado das pesquisas estruturadas (questões, pesquisa, análise). Google: para random queries. Perplexity: para saber de fato.",
+            "stat": "+335%",
+            "stat_label": "Crescimento YoY",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "NÚMEROS",
+            "title": "ARR: US$ 500M (triplicou em 6 meses)",
+            "highlight": "US$ 500M",
+            "body": "Perplexity valia US$ 150M em ARR em 2025. Junho 2026: US$ 500M em receita anual. Crescimento que startup típica levaria 10 anos. Prova que mercado quer alternativa real a Google.",
+            "stat": "US$ 500M",
+            "stat_label": "ARR atual",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "DIFERENÇA vs GOOGLE",
+            "title": "Google: ads + cliques. Perplexity: resposta verificada + fontes citadas",
+            "highlight": "citadas",
+            "body": "Google lucra com ads (exibe anúncio pra query). Perplexity lucra com subscription (dá resposta verificada + links de fonte). Modelo diferente = incentivos diferentes. Qualidade sobe.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MOBILE + ÁUDIO",
+            "title": "App mobile com áudio real-time: fala pergunta, toma resposta em voz",
+            "highlight": "áudio",
+            "body": "Perplexity mobile (2026): você fala 'qual é melhor livro sobre empreendedorismo?'. Sistema processa, busca, consolida, e responde em voz de síntese (qualidade alta). Tudo em 3-5 segundos.",
+            "stat": "3-5s",
+            "stat_label": "Latência resposta",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "PRIVACIDADE",
+            "title": "Hybrid local-cloud: dados sensíveis nunca saem do device",
+            "highlight": "nunca saem",
+            "body": "Perplexity anunciou hybrid agents: queries públicas rodam no cloud (search, synthesis). Dados privados (documentos, emails) processam localmente. Zero dados saem pro servidor externo.",
+            "stat": "100%",
+            "stat_label": "Privacidade queries locais",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO EMPREENDEDOR",
+            "title": "Search virou ferramenta de pesquisa estratégica (não consumo)",
+            "highlight": "estratégica",
+            "body": "Mentorado/empreendedor: Perplexity é onde você pesquisa concorrência, tendências, tecnologia. Google é random. Isso é diferença de conhecimento = vantagem competitiva. Adota Perplexity como hábito.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "QUEBRA DE OLIGOPÓLIO",
+            "title": "Google monopoliza search por 25 anos. Perplexity quebra em 2026.",
+            "highlight": "quebra",
+            "body": "Primeira alternativa real a Google (Bing, DuckDuckGo eram só skins). Perplexity é diferente fundamentalmente (conversation vs click-through). Mercado escolhe: resposta verificada bate ads.",
+            "stat": "25 anos",
+            "stat_label": "Monopólio Google",
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TESTE HOJE",
+            "title": "Perplexity.ai: busca, pesquisa, análise com sources citadas",
+            "highlight": "teste",
+            "body": "Perplexity.ai → web app. App mobile: iOS/Android (áudio integrado). Gratuito com limite de queries. Pro (unlimited): US$ 20/mês. Vale cada centavo pra pesquisa estruturada.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Mistral Small 4: reasoning + imagem + código (7x barato que Claude)",
+      "summary": "Mistral lançou Small 4 — modelo compact (8-12B parâmetros) com reasoning, processamento de imagem e coding. Pricing: 7x mais barato que Claude Opus. Open-weight + API.",
+      "source": "Mistral AI Official",
+      "link": "https://flyne.ai/pt/model/veo3-video/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Mistral Small 4: capacidade Opus por preço de ramen",
+        "caption": "Mistral lançou Small 4 (junho 2026) — modelo compacto (8-12B parâmetros) que faz reasoning, processa imagens, código. Performance ~80% de Opus 4.8 em 15% do tamanho. Pricing: US$ 0.14/Mi tokens input (Claude Opus: ~US$ 3). Tá 7x mais barato. Open-weight (rodável local) + API (hospedado). Empreendedor/startup: Small 4 é a aposta que mata todo o resto em cost-efficiency. Cursor vai integrar (já tá com GPT, Claude, Grok, logo Mistral). Alternativa barata com qualidade aceitável = disruptor de preço.\n\n#IA #InteligenciaArtificial #Mistral #SmallModels #CostEfficiency #Reasoning #Imagem #Código #IA2026 #Empreendedorismo #Tech #Pricing",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "MISTRAL VOLTA COM DISRUPTOR",
+            "title": "Small 4: 80% de Opus, 7x mais barato",
+            "highlight": "7x barato",
+            "body": "Mistral lançou Small 4 (junho 2026) — modelo compacto com reasoning, image processing e coding. Performance ~80% de Claude Opus 4.8, mas pricing é US$ 0.14/Mi tokens (vs Opus ~US$ 3).",
+            "stat": "7x",
+            "stat_label": "Diferença preço",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "SPECS",
+            "title": "Small 4: 8-12B parâmetros, multimodal nativo",
+            "highlight": "12B",
+            "body": "Small 4 é compacto (cabe em mobile GPU) mas com reasoning. Processa imagens (visão), código, texto. Open-weight + API disponível. Tradeoff: velocidade vs custo (Small 4 é mais rápido que Opus).",
+            "stat": "12B",
+            "stat_label": "Parâmetros máximo",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "ESTRATÉGIA MISTRAL",
+            "title": "Mistral: não compete em performance, compete em eficiência",
+            "highlight": "eficiência",
+            "body": "OpenAI compete em capacidade (GPT-5.6). Anthropic compete em safety (Claude). Mistral compete em preço + velocidade + eficiência. Small 4 é exemplo: '80% performance, 100x menos custo'.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MERCADO CAMBEIA",
+            "title": "7x mais barato mata diferença em performance (pra 80% dos casos)",
+            "highlight": "mata",
+            "body": "Se você tá rodando análise de dados, customer support, coding medium, Small 4 é 'suficiente'. Poupar 86% de custo (vs Opus) é vencedor decisivo. Performance é commodity agora.",
+            "stat": "86%",
+            "stat_label": "Economia vs Opus",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "ARQUITETURA EFICIENTE",
+            "title": "Mixture of experts + quantization: máximo valor em mínimo peso",
+            "highlight": "quantization",
+            "body": "Small 4 usa MoE (routing inteligente) + quantization (reduz parâmetros efetivos). Resultado: roda em CPU decente, bate modelos 10x maiores em speed.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO PME/STARTUP",
+            "title": "Small 4 = IA em orçamento de startup (R$ 1k/mês)",
+            "highlight": "R$ 1k",
+            "body": "Small 4 via API (US$ 0.14/Mi tokens): se você usa 10M tokens/mês = US$ 1.40/mês. Rodar localmente (open-weight): zero custo cloud. PME que tá presa em preço de OpenAI/Anthropic ganha liberdade.",
+            "stat": "US$ 0.14",
+            "stat_label": "Preço por 1M tokens",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "PARADIGMA 2026",
+            "title": "Performance é commodity: preço + velocidade + eficiência decidem",
+            "highlight": "commodity",
+            "body": "Diferença entre Opus (99 quality) e Small 4 (80 quality) é <1% em impacto real pra maioria de tarefas. Diferença em preço é 700%. Mercado escolhe eficiência.",
+            "stat": "700%",
+            "stat_label": "Diferença preço",
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "COMECE AGORA",
+            "title": "Mistral Small 4: via console.mistral.ai ou Hugging Face",
+            "highlight": "comece",
+            "body": "console.mistral.ai → create API key → prompt. Ou baixe open-weight de huggingface. Teste com seu caso de uso — você provavelmente não precisa de Opus. Small 4 mata em valor.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    }
+  ],
+  "whatsapp": "📱 **RADAR IA — 24 DE JUNHO 2026**\n\n1️⃣ **Claude Fable 5 + Mythos 5 (+ bloqueio EUA)**\nLançamento 9/jun, bloqueio export 3 dias depois. Anthropic virou player geopolítico. 99/99 benchmarks mas acesso restrito a EUA.\nhttps://www.anthropic.com/news/claude-fable-5-mythos-5\n\n2️⃣ **GPT-5.5 + GPT-5.6 (1.5M contexto, -52.5% alucinações)**\nGPT-5.6 (19/jun): 50% mais tokens, 38% mais rápido em coding. GPT-4.5 morre 27/jun.\nhttps://openai.com/index/introducing-chatgpt-go/\n\n3️⃣ **Google Gemini 3.5 Flash GA + Managed Agents**\nGemini 3.5 Flash em produção. Managed Agents: agentes sandbox autônomos (visualização pública).\nhttps://ai.google.dev/gemini-api/docs/changelog\n\n4️⃣ **Claude Fable 5 lidera ECI (161 vs GPT-5.5 160)**\n1ª vez em 1+ ano que Anthropic tira coroa em reasoning. 88% FrontierMath tier 4 (problemas inéditos).\nhttps://lmcouncil.ai/benchmarks\n\n5️⃣ **xAI Grok 4.3 nativo Databricks (18/jun)**\nGrok integrado no Databricks Agent Bricks. Dados corporativos agora falam com IA (zero ETL).\nhttps://www.basenor.com/blogs/news/xai-grok-lands-on-databricks-at-the-2026-data-ai-summit\n\n6️⃣ **Meta Llama 4 Maverick > GPT-4o (open-weight)**\nMaverick (17B/128ex) supera GPT-4o. Behemoth (288B). Tudo open-weight = você controla.\nhttps://about.fb.com/br/news/2025/04/modelos-llama-4/\n\n7️⃣ **SpaceX compra Cursor por US$ 60 bilhões (16/jun)**\nCursor era US$ 29.3B + US$ 3B ARR. Agora under xAI. Composer 2.5 (edição multi-arquivo agêntica).\nhttps://tecnoblog.net/noticias/o-que-e-o-cursor-empresa-de-ia-adquirida-por-elon-musk/\n\n8️⃣ **Google Veo 3.1: 4K + áudio sincronizado nativo**\n8s de vídeo com diálogo/som ambiente/música sincronizado (parte do mesmo pipeline). Sora 2 morreu.\nhttps://deepmind.google/models/veo/\n\n9️⃣ **Perplexity +335% YoY (US$ 500M ARR)**\nMotor de busca IA alternativo a Google. Mobile + áudio real-time. Hybrid local-cloud (privacidade).\nhttps://www.datacamp.com/blog/best-ai-agents\n\n🔟 **Mistral Small 4: 80% Opus, 7x mais barato**\nCompacto (12B) com reasoning, imagem, código. US$ 0.14/Mi tokens (vs Opus ~US$ 3).\nhttps://flyne.ai/pt/model/veo3-video/\n\n➕ **BONUS: Claude Tag (23/jun) — IA corporativa SSO + on-prem + auditoria.\n\n📌 Salva esse radar + segue @rafaondei pra notícias diárias.\n\nhttps://rafaelondei.appnaia.com",
+  "instagram": "RADAR IA — 24 de junho 2026\n\n10 NOTÍCIAS QUE MUDAM TUDO:\n\n🚨 Claude Fable 5 (9/jun) vs EUA (bloqueio 3 dias depois) — IA virou geopolítica.\n⚡ GPT-5.6 com 1.5M tokens (50% maior), -52.5% alucinações (19/jun)\n🤖 Google Gemini 3.5 Flash GA + Managed Agents (agentes sandbox)\n🏆 Fable 5 lidera ECI benchmark (161 vs GPT-5.5 160) — 1ª vez 1+ ano\n📊 Grok 4.3 nativo Databricks — dados corporativos + IA (sem ETL)\n🦙 Llama 4 Maverick > GPT-4o (open-weight, você controla)\n💻 SpaceX compra Cursor (US$ 60B) — IA coding virou ativo estratégico\n🎬 Veo 3.1 Google: 4K + áudio sincronizado (Sora 2 morreu)\n🔍 Perplexity +335% YoY (US$ 500M ARR) — alternativa real a Google\n💰 Mistral Small 4: 80% Opus, 7x mais barato (US$ 0.14/Mi tokens)\n\nBÔNUS: Claude Tag (23/jun) — IA corporativa com SSO, on-prem, auditoria.\n\n💡 INSIGHT: Geopolítica, especialização, consolidação. IA não é mais ferramenta — é infraestrutura de poder (tecnológico, financeiro, geopolítico).\n\n📌 Empreendedor 2026: diversificação multi-model (Claude + GPT + Grok + Llama) é mapa de risco. Não dependas de 1 vendor.\n\nMais 10 notícias todo dia. Segue @rafaondei pra radar completo.\n\n#IA #InteligenciaArtificial #Claude #OpenAI #GoogleGemini #MetaLlama #xAI #Grok #Perplexity #Mistral #Benchmark #AgentesIA #IA2026 #Empreendedorismo #Tecnologia #ChatGPT #LLM #ModeloIA #VideoIA #BuscaIA #CodingAI"
+}
