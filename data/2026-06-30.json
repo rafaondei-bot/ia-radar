@@ -1,0 +1,960 @@
+{
+  "date": "2026-06-30",
+  "topic": "mercado de IA",
+  "topic_slug": "mercado-ia-junho-2026",
+  "generated_at": "2026-06-30T07:00:01-03:00",
+  "items": [
+    {
+      "title": "Claude Fable 5: Anthropic lança modelo state-of-the-art",
+      "summary": "Anthropic lançou em 9 de junho o Claude Fable 5, primeiro modelo da classe Mythos disponível ao público. Alcançou 80.3% em SWE-Bench Pro (vs 58.6% do GPT-5.5) e 59% em raciocínio sem ferramentas. É o modelo mais capaz já lançado publicamente pela Anthropic.",
+      "source": "Anthropic",
+      "link": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "category": "modelo",
+      "recommended": true,
+      "carousel": {
+        "theme": "O modelo de IA mais inteligente do mercado acaba de ser liberado pro público",
+        "caption": "Claude Fable 5 chegou e redefine o que é state-of-the-art em IA. 🚀\n\nAnthropc acabou de liberar seu primeiro modelo Mythos-class pro público geral — e os benchmarks falam sozinhos:\n\n✅ 80.3% em SWE-Bench Pro (engenharia de software)\n✅ 59% em raciocínio complexo SEM usar ferramentas externas\n✅ Lidera em visão computacional (reconstruiu código de web apps a partir de screenshots)\n\nPra quem acompanha IA, isso é histórico. Toda a classe Mythos que a Anthropic guardava pra projetos de defesa (cibersegurança, infraestrutura crítica) agora entra no mercado. A competição com OpenAI, Google e xAI acaba de ficar ainda mais acirrada.\n\nE aqui vem a polêmica: os EUA já está pedindo pra Anthropic desligar a versão ainda mais poderosa (Mythos 5) por questões de export control — a primeira vez que o governo americano usa isso contra IA. O mercado está mudando em real time.\n\n👉 Se tu usa Claude pro trabalho sério (código, análise, reasoning), migra pra Fable 5 hoje. O desempenho é absurdo.\n\n#IA #Claude #Anthropic #InteligenciaArtificial #SoftwareEngineering #Radar",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "A NOTÍCIA MAIS QUENTE DE JUNHO",
+            "title": "Claude Fable 5: o modelo que Anthropic guardava pra si mesma",
+            "highlight": "Claude Fable 5",
+            "body": null,
+            "stat": "80.3%",
+            "stat_label": "em SWE-Bench Pro"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "BENCHMARK REAL",
+            "title": "Vença GPT-5.5 por 21.7 pontos",
+            "highlight": "21.7 pontos",
+            "body": "Claude Fable 5: 80.3%. GPT-5.5: 58.6%. Gemini 3.1 Pro: 54.2%. O modelo da Anthropic tá tão à frente que não é nem disputa. Em engenharia de software, que é o barômetro do mercado em 2026, é praticamente incontestável.",
+            "stat": "80.3%",
+            "stat_label": "vs 58.6% (GPT-5.5)"
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE ACONTECEU",
+            "title": "Anthropic abriu a caixa Mythos pra ti",
+            "highlight": "caixa Mythos",
+            "body": "A classe Mythos era restrita. Governo usava. Defesa crítica usava. Agora virou público em 9 de junho. Fable 5 é a porta de entrada. Mythos 5 (ainda mais potente) ficou restrito por export control — primeiro caso de governo americano travando IA por questões de segurança.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "POR QUE ISSO MUDA TUDO",
+            "title": "A era da convergência de benchmarks acabou",
+            "highlight": "convergência",
+            "body": "Mês passado, Claude Opus, GPT-5.5 e Gemini 3 estavam tão próximos que parecia que o mercado chegou a um platô. Fable 5 quebra isso de novo. Agora tem um claro vencedor — e quem usa Fable pra tarefas sérias sai à frente da concorrência em 2-3 meses.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Onde Fable 5 destrói a concorrência",
+            "highlight": "destrói",
+            "body": "Visão: reconstruiu código de aplicações web a partir só de screenshots. Raciocínio: 59% em questões de teste sem ferramentas externas (vs 41.4% do GPT-5.5). Contexto: suporta 200k tokens — vai ler teus projetos inteiros de uma vez. Segurança: tem filtros agressivos pra temas críticos.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRATI, QUEM GANHA?",
+            "title": "Engenheiros, pesquisadores, operações críticas",
+            "highlight": "operações críticas",
+            "body": "Se tu é desenvolvedor e usa IA pra code review, refactoring, debugging — Fable 5 é claramente melhor. Se tu faz pesquisa, análise de dados complexa, ou opera infraestrutura que não pode quebrar — agora tem um modelo que confia mais. Pra marketing/copywriting? Continua a mesma coisa.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO",
+            "title": "A IA segue bifurcada: especializados vs genéricos",
+            "highlight": "bifurcada",
+            "body": "GPT-5.5 virou mainstream. Grok ficou pra quem quer sem filtro. Gemini virou banco de dados + multimodal. Claude virou reasoning + segurança. O vencedor em 2026 não é quem tá melhor em tudo — é quem tá melhor no que TU precisa.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Testa Fable 5 hoje + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Se tu usa Claude em produção, já migra pra Fable 5. Não é cosmético — é 20% de ganho real em tasks de engenharia. E segue o radar aqui no @rafaondei pra não perder os movimentos do mercado de IA.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "Sora 2 da OpenAI atinge 2 milhões de downloads",
+      "summary": "OpenAI lançou Sora 2 em 30 de setembro de 2025 (expandindo em 2026) e o app ultrapassou 2 milhões de downloads apenas em iOS. Com interface tipo TikTok e geração de vídeos com áudio sincronizado, é o produto de consumer IA mais rápido a escalar.",
+      "source": "OpenAI",
+      "link": "https://openai.com/index/sora-2/",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "O app de vídeo que a OpenAI lançou é o mais rápido a chegar a 2 milhões de downloads",
+        "caption": "Sora 2 quebrou o recorde de crescimento pra apps de IA de consumer. 📱\n\nOpenAI lançou seu novo modelo de geração de vídeo com uma estratégia completamente diferente da Sora original:\n\n✅ Interface tipo TikTok/Reels (scroll viral)\n✅ Vídeos com áudio sincronizado (não é mais só vídeo mudo)\n✅ 2 milhões de downloads em iOS em poucos meses\n✅ Disponível em EUA, Canadá, Coreia do Sul, Japão, Tailândia, Taiwan, Vietnã\n✅ Android chegando em breve\n\nMas aqui tá o detalhe importante: a Sora original custava US$ 1 milhão por dia em compute e foi descontinuada. Google Veo 3.1 agora tá dominando no lado profissional, mas no lado viral (TikTok/consumer), Sora 2 é praticamente inconteste.\n\nA guerra agora não é mais sobre qual modelo é melhor. É sobre qual plataforma consegue ganhar o feed das pessoas — porque quem controla o feed controla a mina de ouro de dados pra treinar a próxima geração de IA.\n\n👉 Se tu tá criando conteúdo, Sora 2 + Veo 3.1 é a combinação: Sora pra viral, Veo pra qualidade profissional.\n\n#IA #Sora #OpenAI #VideoAI #ConteúdoViralizado #Radar",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "SUCESSO EM TEMPO REAL",
+            "title": "Sora 2 quebra recorde de downloads pra IA",
+            "highlight": "Sora 2",
+            "body": null,
+            "stat": "2M+",
+            "stat_label": "downloads em iOS"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "NÚMEROS VIRAIS",
+            "title": "Mais rápido que ChatGPT, Instagram, TikTok",
+            "highlight": "mais rápido",
+            "body": "ChatGPT levou 2 meses pra chegar a 1 milhão de usuários. Sora 2 fez 2 milhões de downloads em dias. Tá disponível só em iOS, em 7 países, e o crescimento é exponencial. Android vem aí — quando chegar, pode explodir.",
+            "stat": "2M+",
+            "stat_label": "em poucos meses (iOS only)"
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE MUDOU",
+            "title": "Sora morreu. Sora 2 nasceu diferente.",
+            "highlight": "nasceu diferente",
+            "body": "A Sora original era experimento. Custava US$ 1M/dia de compute. OpenAI cancelou. Agora Sora 2 é estratégia de consumer: interface tipo TikTok, vídeos com áudio sincronizado (não mais mudo), free tier generoso, uso-based pricing pra pro. É a mesma empresa tentando estratégia completamente diferente.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "A MUDANÇA DE JOGO",
+            "title": "Viral > Qualidade em 2026 (por enquanto)",
+            "highlight": "Viral > Qualidade",
+            "body": "Google Veo 3.1 tá dominando no lado profissional/premium (publicidade, cinema, produção). Mas Sora 2 no lado consumer/viral é praticamente inconteste. Por quê? Porque OpenAI aprendeu: em 2026, quem controla o feed controla os dados. Dados treinam a próxima IA.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO VIRA VIRAL",
+            "title": "TikTok viralizou porque era mobile-first",
+            "highlight": "mobile-first",
+            "body": "Sora 2 fez o mesmo: interface tipo feed (não painel de controle chato como Veo), áudio sincronizado (não precisa de pós-produção), upload rápido, compartilha direto no Reels/TikTok. Tu gera, compartilha em 1 min. Isso escala.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM GANHA AGORA",
+            "title": "Criadores de conteúdo viralizável",
+            "highlight": "Criadores",
+            "body": "Se tu faz TikTok, Reels, YouTube Shorts, Sora 2 é upgrade automático. Reduz tempo de produção em 70%, não precisa de câmera/edição profissional. Pra agência? Segue com Veo 3.1 pra trabalhos premium. Pra creator solo? Sora 2 é a resposta.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A LIÇÃO",
+            "title": "A IA que cresce é a que vira dependência do dia-a-dia",
+            "highlight": "dependência",
+            "body": "Sora 2 escalou porque entrou no fluxo de trabajo viral (tipo Snapchat filters). Claude/ChatGPT escalaram porque entrou em research/coding. Google Gemini escalou porque tá integrada no Android. A IA que não vira rutina morre.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Testa Sora 2 + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Se tu cria vídeo, downlload Sora 2 agora (iOS). Android chega logo. E segue o radar aqui pra acompanhar qual tecnologia tá de fato viralizando vs qual tá morrendo.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "Google I/O 2026: Gemini Omni e Spark redefiniem multimodal",
+      "summary": "Google anunciou em maio/junho no I/O 2026 o Gemini Omni (modelo de vídeo true multimodal com input/output de qualquer tipo) e Gemini Spark (agente 24/7 integrado ao Gmail/Workspace). Gemini 3.5 Flash superou Pro em coding.",
+      "source": "Google AI / TechCrunch",
+      "link": "https://techcrunch.com/2026/05/19/google-introduces-gemini-spark-a-24-7-agentic-assistant-with-gmail-integration-at-io-2026/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Google voltou na briga com 2 modelos que mudam o jogo (Gemini Omni e Spark)",
+        "caption": "Google I/O 2026 foi sobre agentes, não sobre modelos. E funcionou. 🤖\n\nGoogle anunciou duas coisas que redefinem IA em 2026:\n\n✅ Gemini Omni: modelo que processa E gera em qualquer formato (texto, áudio, vídeo, imagem) de forma sincronizada — é true multimodal\n✅ Gemini Spark: agente IA 24/7 que organiza Email, resume reuniões, coleta notícias. Já integrado no Gmail/Workspace\n\nMas aqui tá o plot twist:\n\n→ Gemini 3.5 Flash SUPEROU Gemini Pro em coding (os especialistas não esperavam isso)\n→ Spark tá rodando em background sem tu pedir — tipo um assistente que toma decisões sozinho\n→ Omni processa vídeo + áudio SINCRONIZADOS (Sora 2 ainda faz separado)\n\nGoogle tava perdendo market share pra Claude + OpenAI. I/O 2026 foi resposta.\n\nAgora o mercado tá: Claude pro reasoning, OpenAI pro consumer viral, Google pra integração corporativa. Cada um achou seu nicho.\n\n👉 Se tu usa Workspace (Gmail, Docs, Sheets), Gemini Spark vai revolucionar como tu trabalha. Testa agora no I/O.\n\n#IA #Gemini #GoogleIO2026 #InteligenciaArtificial #Agentes #Radar",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "A RESPOSTA GOOGLE TÃ AQUI",
+            "title": "Gemini Omni e Spark: 2 modelos que mudam a briga",
+            "highlight": "Gemini Omni e Spark",
+            "body": null,
+            "stat": "2",
+            "stat_label": "anúncios que importam"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O NÚMERO",
+            "title": "3.5 Flash superou 3.5 Pro em código",
+            "highlight": "superou",
+            "body": "Gemini 3.5 Pro é a versão \"premium\" pra análise e reasoning. Gemini 3.5 Flash é a versão \"barata\" pra velocidade. Nos testes de engenharia de software, Flash venceu Pro em accuracy e em velocidade. Isso nunca tinha acontecido antes.",
+            "stat": "3.5 Flash",
+            "stat_label": "melhor que 3.5 Pro em coding"
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE FOI ANUNCIADO",
+            "title": "Google entregou 2 layers: modelo + agente",
+            "highlight": "modelo + agente",
+            "body": "Omni é modelo de vídeo multimodal (processa/gera texto, áudio, vídeo, imagem de uma vez). Spark é agente que roda 24/7 no background (organiza email, resume meetings, coleta notícias). Nenhum tu precisa pedir — tá sempre trabalhando.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "POR QUE IMPORTA",
+            "title": "Google tava perdendo pro Claude. Voltou na briga.",
+            "highlight": "voltou na briga",
+            "body": "Há 6 meses, Claude Opus 4.7 tava na frente em reasoning. Agora Google tá com Omni (vídeo better than Sora), Spark (agente sem igual), e Flash (mais barato + mais rápido). Google não tá disputando o mesmo mercado que Claude mais — tá focando em workspace/integração.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Omni: processo sincronizado, não estágios",
+            "highlight": "sincronizado",
+            "body": "Sora 2 gera vídeo, depois adiciona áudio. Veo 3.1 faz de forma sincronizada mas em estágios. Omni faz TUDO de uma vez: texto → vídeo com áudio + efeitos sincronizados. É mais natural, menos latência. Pra criação de conteúdo, muda muito.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRATI, QUEM GANHA",
+            "title": "Usuários Google Workspace + criadores de vídeo",
+            "highlight": "Google Workspace",
+            "body": "Se tu usa Gmail/Docs/Sheets/Meet, Spark vai começar a deletar seus emails antigos sozinho, resumir reuniões enquanto acontecem, pegar notícias relevantes pro seu trabalho. Zero config. Pra criadores, Omni é ferramenta profissional — sincronização perfeita de áudio+vídeo.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO",
+            "title": "O jogo em 2026 não é modelo vs modelo. É integração.",
+            "highlight": "integração",
+            "body": "Claude tá melhor em reasoning puro. Mas Google tá melhor em \"entrar no seu fluxo de trabalho todo dia\". OpenAI tá melhor em viral consumer. Cada empresa achou seu espaço. Quem ganha é quem conseguir entrar na rotina do usuário.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Testa Spark + Omni agora + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Se tu tem Google Workspace, Spark já tá ativado (em beta). Omni chega pro YouTube Shorts em breve. E segue o radar pra saber qual integração tá real funcionando vs qual é só hype.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "Meta Llama 4: open-source multimodal com 10M tokens",
+      "summary": "Meta lançou em abril 2026 a família Llama 4 (Scout 17B, Maverick 400B MoE). Scout processa 10 milhões de tokens em GPU única. Maverick superou GPT-4o em alguns benchmarks. Disponível open-weight em Hugging Face.",
+      "source": "Meta AI Blog",
+      "link": "https://ai.meta.com/blog/llama-4-multimodal-intelligence/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Meta liberou o modelo de IA mais inteligente open-source (Llama 4) e ninguém tá falando disso",
+        "caption": "Meta fez algo que OpenAI + Google não fizeram: liberou o melhor modelo open-source da história. 🦙\n\nLlama 4 chegou com 2 versões:\n\n✅ Scout (17B): cabe em GPU single, processa 10 MILHÕES de tokens (vs 128k do Claude)\n✅ Maverick (400B MoE): superou GPT-4o em benchmarks STEM + reasoning\n✅ Behemoth (em preview): tá derrotando GPT-4.5 + Claude 3.7 em alguns testes\n\nO detalhe: tá 100% open-weight. Download, treina, customiza, deploya. Grátis.\n\nPor que ninguém tá falando?\n\nPorque Meta não tem incentivo de marketing. Não tá vendendo como SaaS. Tá liberando pra comunidade de pesquisa. Mas pro mercado de IA, isso é DISRUPTIVO:\n\n→ Startups agora podem treinar Llama 4 com dados proprietários sem depender de Anthropic/OpenAI\n→ Empresas podem rodar 400B parâmetros no próprio datacenter (sem pagar por API)\n→ Pesquisadores têm baseline tão bom quanto proprietary\n\nTalvez o movimento mais inteligente de 2026 em IA.\n\n👉 Se tu é tech founder e quer construir algo em IA, Llama 4 é base sólida. Testa Scout primeiro (roda em qualquer máquina).\n\n#IA #Llama #OpenSource #Meta #InteligenciaArtificial #Radar",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "META FEZ ALGO LOUCO",
+            "title": "Llama 4: melhor open-source jamais lançado",
+            "highlight": "Llama 4",
+            "body": null,
+            "stat": "10M",
+            "stat_label": "tokens em GPU single"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "OS NÚMEROS",
+            "title": "Scout (17B) processa o que Opus (1M tokens) faz em 10x menos",
+            "highlight": "10M tokens",
+            "body": "Claude Opus: processa 200k tokens por requisição. Scout processa 10 MILHÕES de tokens (50x mais). Maverick (400B MoE) superou GPT-4o em tests de STEM e reasoning. Behemoth (preview) tá derrotando Claude 3.7 em alguns benchmarks. Não é paridade — é liderança.",
+            "stat": "10M",
+            "stat_label": "vs 200k do Claude"
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE ACONTECEU",
+            "title": "Meta liberou o Llama 4 100% open-weight",
+            "highlight": "100% open-weight",
+            "body": "OpenAI vende GPT. Anthropic vende Claude. Google vende Gemini. Meta? Soltou os modelos no GitHub + Hugging Face. Download, treina no seu datacenter, customiza com seus dados, deploya sem pedir permissão. Grátis.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "POR QUE MUDA",
+            "title": "Agora qualquer startup consegue IA world-class",
+            "highlight": "world-class",
+            "body": "Ano passado: quer IA bom, compra de OpenAI/Anthropic. Agora: downlload Llama 4, treina com seus dados, roda 100% privado, zero dependência. Isso é game-changer pra startups que têm dados valiosos (saúde, financeiro, legal).",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Scout em GPU, Maverick em cluster, Behemoth em super-cluster",
+            "highlight": "Scout + Maverick + Behemoth",
+            "body": "Scout (17B): cabe em RTX 4090, processa 10M tokens, qualidade 95% vs Maverick. Maverick (400B MoE): precisa cluster, mas cabe em datacenter normal. Behemoth: ainda em testes, mas promete superar GPT-4.5 em reasoning puro.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM GANHA AGORA",
+            "title": "Tech founders com dados proprietários",
+            "highlight": "Founders",
+            "body": "Se tu é founder de healthtech, legaltech, fintech, teu maior valor é dado proprietário. Antes, tinha que usar API OpenAI (custos altos, dados vazam pra treino deles). Agora: Llama 4 + seus dados = vantagem competitiva real.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A LIÇÃO",
+            "title": "Open-source IA agora compete com proprietary em qualidade",
+            "highlight": "Open-source",
+            "body": "Há 2 anos, open-source era 5x pior. Agora tá 95% da qualidade + zero custo de API + zero risco de dados. Meta entendeu: melhor dar Llama pra comunidade e ganhar mindshare do que vender via API.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Download Llama 4 Scout + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Vai em huggingface.co/meta, downlload Llama 4 Scout, roda localmente, testa. Depois vem avaliar se precisa de Maverick ou Behemoth. E segue o radar pra acompanhar que modelos open-source tá de fato competindo.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "Grok 4.5 em testes: Elon diz que supera Claude",
+      "summary": "Em 28 de junho, Elon Musk revelou que xAI está testando Grok 4.5 em SpaceX e Tesla. Modelo baseado em arquitetura proprietária de 1.5T parâmetros. Musk afirma que desempenho é próximo ou superior ao Claude Opus.",
+      "source": "Trading Key / xAI News",
+      "link": "https://www.tradingkey.com/pt/analysis/stocks/us-stocks/261997552-grok-spacex-tesla-musk-claude-opus-tradingkey",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Elon Musk anuncia Grok 4.5 e diz que é melhor que Claude Opus",
+        "caption": "Grok 4.5 tá em testes internos em SpaceX e Tesla. Elon diz que performance tá próxima (ou superior) ao Claude Opus. 🤖\n\nDetalhes do anúncio (28 de junho):\n\n✅ Grok 4.5 em testes na SpaceX e Tesla\n✅ Baseado em arquitetura V9 de 1.5 trilhão de parâmetros\n✅ Treinado com código do Cursor como dados complementares\n✅ Desempenho próximo ou melhor que Claude Opus da Anthropic\n✅ Plano: lançar novo modelo de IA 100% do zero todo mês pro resto de 2026\n\nMas aqui vem o context que falta em todo tweet sensacionalista:\n\n→ Grok já tá em 600 milhões de usuários mensais (X app + Grok standalone)\n→ OpenAI levou 2+ anos pra chegar lá com ChatGPT\n→ xAI tá com custo de inference 12x mais barato que Anthropic\n→ Grok não tem filtro agressivo (diferença estratégica vs Claude)\n\nElong tá doido? Talvez. Mas ele tá construindo a segunda maior infraestrutura de IA do mundo (SpaceX + Tesla compute). Esse não é um comentário de CEO bravado — é anúncio de plano concreto.\n\n👉 Grok 4.5 provavelmente vira o modelo mais usado por builders em 2026 (custo + velocidade). Testa X.com/grok quando sair.\n\n#IA #Grok #xAI #Elon #InteligenciaArtificial #Radar",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "ANÚNCIO DE ELON AGORA IMPORTA",
+            "title": "Grok 4.5 tá chegando (e Elon diz que destrói Claude)",
+            "highlight": "Grok 4.5",
+            "body": null,
+            "stat": "1.5T",
+            "stat_label": "parâmetros"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "CONTEXTO",
+            "title": "Grok já tá em 600M usuários. OpenAI levou 2+ anos.",
+            "highlight": "600M usuários",
+            "body": "Grok chegou a 600 milhões de usuários ativos mensais (X app + standalone) em menos de 1 ano. ChatGPT levou mais de 2 anos. Pra quem duvida de crescimento exponencial em 2026, esse é o case study.",
+            "stat": "600M",
+            "stat_label": "usuários mensais"
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O ANÚNCIO",
+            "title": "28 de junho: Elon disse que Grok 4.5 tá acima de Claude",
+            "highlight": "acima de Claude",
+            "body": "Elon Musk postou que Grok 4.5 (em testes internos SpaceX/Tesla) tá com desempenho próximo ou que talvez até supere Claude Opus da Anthropic. Modelo usa arquitetura proprietária de 1.5T parâmetros, treinado com código Cursor nos dados.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "A ESTRATÉGIA",
+            "title": "Grok não compete em reasoning. Compete em velocidade + custo.",
+            "highlight": "velocidade + custo",
+            "body": "Claude Opus tá melhor em reasoning puro (59% vs 41% em testes sem ferramentas). Grok tá 12x mais barato (US$ 1.25/M tokens) e 3x mais rápido. Então a tese de Elon não é \"Grok é mais inteligente\". É \"Grok te dá 95% da qualidade por 1/12 do preço\".",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "xAI construiu infra proprietária em SpaceX",
+            "highlight": "infra SpaceX",
+            "body": "SpaceX tem gigawatts de poder computacional. xAI tá usando isso pra treinar. Tesla tem dados de tráfego/direção. xAI tá usando isso também. Grok 4.5 vai ser treinado com dados de 2 das maiores empresas do Elon. Nenhum outro lab tem acesso a esses dados.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM GANHA",
+            "title": "Builders que precisam de custo baixo + velocidade",
+            "highlight": "Builders",
+            "body": "Se tu é dev building agentic stuff (automação, bots, MVPs), Grok 4.5 é choice óbvio (12x mais barato). Se tu é pesquisador em reasoning puro, Claude. Se tu é consumer viral (TikTok), Sora/Veo. Cada modelo achou seu mercado.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A LIÇÃO",
+            "title": "Em 2026, compute é the new moat. Elon tem gigawatts.",
+            "highlight": "compute é moat",
+            "body": "OpenAI tem Microsoft. Anthropic tem Google Cloud. Meta tem datacenters. Elon tem SpaceX + Tesla + power grid. O modelo mais inteligente agora não é aquele com best engineers — é aquele com melhor acesso a compute barato.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Acompanha xAI pra Grok 4.5 + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Grok 4.5 deve sair em julho/agosto. Quando sair, testa pra seu caso de uso (agentes, automation, MVPs). E segue o radar pra saber qual trade-off (qualidade vs custo vs velocidade) tá vencendo cada mês.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "Agentes Autônomos agora operam turnos contínuos de 6-14h",
+      "summary": "Em junho 2026, agentes de IA maduros conseguem rodar turnos contínuos de 6 a 14 horas sem intervenção: fechando chamados, conciliando caixa, monitorando infra, conduzindo workflows sem pausa. Vercel Agent Stack e Cursor Automations lideram.",
+      "source": "Vercel / Cursor",
+      "link": "https://vercel.com/kb/guide/ai-agents",
+      "category": "aplicação",
+      "recommended": false,
+      "carousel": {
+        "theme": "Agentes de IA agora trabalham sozinhos por 14 horas sem pedir água",
+        "caption": "Os agentes mais maduros do mercado agora rodam turnos contínuos de 6 a 14 horas. 24/7 tá chegando. 🤖\n\nO que significa \"turno contínuo\"?\n\n✅ Fechar chamados do início ao fim sem pedir confirmação\n✅ Conciliar fluxo de caixa por horas (contabilidade automática)\n✅ Monitorar infraestrutura, detectar anomalia, fazer rollback\n✅ Conduzir workflows inteiros de procurement (RFQ → PO → delivery)\n✅ Redigir código, rodar testes, fazer deploy, monitora logs\n\nTudo sem tu intervindo uma vez.\n\nOs players que tão dominando:\n→ Vercel Agent Stack (deployments inteligentes em produção)\n→ Cursor Automations (agentes de coding que debugam sozinhos)\n→ Claude Agents (planning + reasoning de longo prazo)\n→ Perplexity Computer (multi-step research + ação)\n\nMas aqui vem o plot twist:\n\nEsse salto (de \"responde pergunta\" pra \"executa tudo sozinho\") vai matar uma categoria inteira de SaaS em 2026:\n\n→ Workflow automation tools (Zapier, Make, IFTTT) viraram commodities\n→ Customer support software precisa de agentes, não tickets\n→ DevOps tá virando \"tell agent, agent does\"\n→ Contabilidade tá automatizando — 60% dos contadores vão descolar\n\n👉 Se tu tá usando Zapier em 2026, tá deixando dinheiro na mesa. Agora é Claude + Vercel que roda seu workflow.\n\n#IA #Agentes #Vercel #Cursor #Automação #Radar",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "ISSO JÁ TÁ ACONTECENDO",
+            "title": "Agentes IA trabalham 14 horas sem pedir nada",
+            "highlight": "14 horas",
+            "body": null,
+            "stat": "14h",
+            "stat_label": "turnos contínuos"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O NÚMERO",
+            "title": "Até fim de 2026: 40% das apps empresariais vão ter agentes",
+            "highlight": "40%",
+            "body": "Em 2025, só 5% das aplicações usavam agentes autônomos. Projeção pra fim de 2026: 40%. Isso significa que quase metade do software que usa em 2026 vai ter algo que toma decisão e age sozinho.",
+            "stat": "40%",
+            "stat_label": "das apps até fim de 2026"
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE MUDOU",
+            "title": "De chatbot pra workflow automation, de repente temos executor",
+            "highlight": "executor",
+            "body": "Ano passado: agente IA era ChatGPT respondendo chat. Agora: agente IA é coisa que fecha seu chamado, atualiza spreadsheet, deploy código, roota reunião, redireciona email. Sem tu pedindo. Tá rodando background pra tu acordar com trabalho feito.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O IMPACTO REAL",
+            "title": "Categorias inteiras de SaaS viraram commodities",
+            "highlight": "commodities",
+            "body": "Zapier custava US$ 30/mês. Agora Claude + Vercel faz a mesma coisa grátis (só paga compute). Customer support tools? Agora é agente Claude que responde tickets. DevOps? Agora é agente que faz deploy/rollback. A tecnologia que valorizou SaaS por 10 anos virou grátis.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Vercel + Claude + MCP = agente de produção",
+            "highlight": "Vercel + Claude + MCP",
+            "body": "Claude pensa no plano. Vercel executa (deploy/rollback/monitor). MCP integra tools (API, database, email). Tudo junto: agente que pode fazer praticamente qualquer coisa em seu software sem tu interferindo. Tá rodando agora, não é ficção.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM PERDE | QUEM GANHA",
+            "title": "Zapier perde. Anthropic + Vercel ganham.",
+            "highlight": "Zapier vs Anthropic",
+            "body": "Zapier vende complicação (5 apps conectadas = 5 passos manuais). Agentes eliminam complicação (tu descreve, agente faz). Vercel ganha porque tá gerenciando execução do agente. Anthropic ganha porque modelo deles é o que tá executando.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A LIÇÃO",
+            "title": "SaaS de automação vira competição de margem vs superinteligência",
+            "highlight": "superinteligência",
+            "body": "Zapier tem 6% de margem. Anthropic tem 70%+ (graças a Claude). Em 2026, quem vence automação não é quem tem 500 integrações pré-built. É quem tem modelo inteligente o suficiente pra entender e executar novas integrações sozinho.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Testa Vercel Agent Stack + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Tá em docs.vercel.com. Cria um agente bem simples (tipo: \"deleta arquivos PRs fechadas\"), testa rodar 4 horas, depois expande. E segue o radar pra acompanhar qual categoria de SaaS tá realmente morrendo.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "Convergência de Benchmarks: Platô da Fronteira em Junho",
+      "summary": "Em junho 2026, GPT-5.2, Claude Opus 4.8 e Gemini 3.1 Pro alcançaram um \"platô da fronteira\": diferenças técnicas entre eles se tornaram marginais (~49-50 pontos no AA Intelligence Index). Fable 5 quebra esse platô.",
+      "source": "Artificial Analysis / Stanford HAI",
+      "link": "https://artificialanalysis.ai/models/claude-fable-5",
+      "category": "benchmark",
+      "recommended": false,
+      "carousel": {
+        "theme": "Havia convergência total entre Claude, GPT e Gemini. Fable 5 quebrou.",
+        "caption": "Até 3 semanas atrás, Claude Opus vs GPT-5.2 vs Gemini 3 eram praticamente idênticos. Depois veio Claude Fable 5. 📊\n\nOs números de convergência (platô da fronteira):\n\n✅ Claude Opus 4.8: 49 pontos (AA Index)\n✅ GPT-5.2: 50 pontos\n✅ Gemini 3.1 Pro: 48 pontos\n\nDiferença? ~2 pontos. Em termos práticos: indistinguível.\n\nEspecialistas chamaram de \"platô da fronteira\" — ponto onde a tecnologia parou de evoluir tecnicamente porque chegou no teto de arquitetura + dados + compute.\n\nDepois Anthropic solta Claude Fable 5:\n\n→ 80.3% em SWE-Bench Pro (vs 58.6% do GPT-5.2)\n→ 59% em reasoning sem ferramentas (vs 41.4% do GPT-5.2)\n→ 161 no ECI benchmark (vs 160 do GPT-5.5)\n\nPlatô quebrado. Competição voltou à vida.\n\nO aprendizado real?\n\nNão é que um modelo seja \"melhor\". É que cada um ficou tão otimizado pra seu case (Claude pro reasoning, GPT pro consumer, Gemini pro integração) que comparação direta virou inútil.\n\nEm 2026, o vencedor não é quem tá melhor em TUDO — é quem tá melhor no que TU precisa TODOS OS DIAS.\n\n👉 Se tu usa IA em produção, agora precisa escolher: Claude pra reasoning pesado, GPT pra viral, Gemini pra workspace.\n\n#IA #Benchmarks #Claude #Fable5 #Radar",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "OS NÚMEROS REVELAM",
+            "title": "Benchmarks chegaram a platô. Depois quebrou.",
+            "highlight": "platô",
+            "body": null,
+            "stat": "48-50",
+            "stat_label": "pontos (platô anterior)"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "CONVERGÊNCIA REAL",
+            "title": "Claude, GPT, Gemini empatavam em tudo",
+            "highlight": "empatavam",
+            "body": "Há 3 semanas, benchmarks mostravam diferença de 1-2 pontos entre os 3 top models. Em raciocínio, codificação, análise, visão — praticamente idênticos. Especialistas começaram a questionar: \"Será que IA chegou no teto?\"",
+            "stat": "~2 pontos",
+            "stat_label": "diferença média"
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O FENÔMENO",
+            "title": "O platô da fronteira: quando tecnologia encontra seu limite",
+            "highlight": "limite",
+            "body": "Convergência de benchmarks é fenômeno normal em tech: inovação explode, depois desacelera, depois converge. Aconteceu com processadores (todos 3GHz), displays (todos 120Hz), GPUs (todas 16GB VRAM). Com IA, convergência começou em junho: quase não importava qual modelo tu escolhia.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "E ENTÃO",
+            "title": "Anthropic lança Fable 5, platô quebra outra vez",
+            "highlight": "quebra",
+            "body": "Quando parecia que IA tinha chegado no seu teto, Anthropic solta Fable 5 e tira 20-30 pontos na frente em engenharia de software. Benchmarks em divergência novamente. Competição voltou, mas agora é diferente: cada modelo especialista numa coisa.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "POR QUE ISSO ACONTECE",
+            "title": "Cada empresa otimizou pra seu mercado, não pra générico",
+            "highlight": "otimizou",
+            "body": "Claude otimizou pra reasoning/segurança (Anthropic sabe disso). GPT otimizou pra consumer/viral (OpenAI sabe disso). Gemini otimizou pra integração (Google sabe disso). Fable 5 otimizou pra coding/visão. Agora diferenças aparecem quando tu testa use case específico.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRÁTICO: QUAL ESCOLHER?",
+            "title": "Não existe \"melhor\". Existe \"melhor pra seu caso\"",
+            "highlight": "seu caso",
+            "body": "Fable 5? Se tu faz engenharia de software (coding, debugging, refactoring). GPT? Se tu precisa de consumer reach (TikTok, Reels). Claude Opus? Se tu faz reasoning pesado (research, análise). Gemini? Se tu usa Google Workspace. Escolhe baseado no uso REAL seu, não no buzz.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A LIÇÃO",
+            "title": "Em 2026, benchmarks generalists viraram inúteis",
+            "highlight": "generalists",
+            "body": "Comparar Claude vs GPT vs Gemini com scores únicos é tipo comparar carro vs bicicleta usando \"velocidade máxima\". Pra bicicleta dentro de cidade? Ganha. Pra estrada? Carro ganha. Benchmark único não captura isso.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Testa Fable 5 no TU caso de uso + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Não confie em score geral. Testa Fable 5, Claude Opus e GPT-5.5 no EXATO problema que tu resolve todo dia. Qual mais rápido? Qual menor erro? Use esse. E segue o radar pra ver qual especialização vira vencedora.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "ChatGPT atinge 1 bilhão de usuários mensais",
+      "summary": "OpenAI anunciou em maio de 2026 que ChatGPT atingiu 1 bilhão de usuários ativos mensais, apenas 3 anos após o lançamento (nov 2022). Superou Google Maps, TikTok, Instagram em velocidade de crescimento.",
+      "source": "Times Brasil / CNBC",
+      "link": "https://timesbrasil.com.br/empresas-e-negocios/inteligencia-artificial/chatgpt-1-bilhao-usuarios-mensais-recorde-openai/",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "ChatGPT virou o app mais rápido a chegar em 1 bilhão de usuários. Ever.",
+        "caption": "ChatGPT acaba de atingir 1 bilhão de usuários mensais. Em 3 anos. Nenhum app de consumer fez isso mais rápido. 🌍\n\nPra tu ter contexto:\n\n✅ ChatGPT: 1 bilhão em 3 anos (nov 2022 → mai 2026)\n✅ TikTok: 4 anos pra 1 bilhão\n✅ Instagram: 7+ anos pra 1 bilhão\n✅ WhatsApp: 7+ anos pra 1 bilhão\n✅ Snapchat: nunca chegou em 1 bilhão\n\nNão é só rápido. É INÉDITO.\n\nMas olha o contexto de perdas de market share do ChatGPT:\n\n→ Em março 2026, ChatGPT caiu pra 46.4% market share (vs 86% em 2024)\n→ Claude cresceu 640% em usuários\n→ Grok tá em 600M\n→ Perplexity pulou de 16M pra 100M+ em 1 ano\n\nOu seja: ChatGPT ainda é gigante absoluto (1 bilhão), mas deixou de ser monopolista.\n\n2026 é o ano da fragmentação em IA: cada app atraiu seus usuários.\n\nO aprendizado pra empreendedores?\n\nTer 1 bilhão de usuários não significa vencer. Significa ter oportunidade pra monetizar. OpenAI agora tá focando em enterprise (ChatGPT Go de US$ 8/mês, negociações com corporações). Mas a base de 1 bilhão é terreno fértil.\n\n👉 Estratégia do ChatGPT agora tá mudando: menos \"app pro todos\", mais \"enterprise + pro subscribers\". Tipo Netflix em 2026.\n\n#IA #ChatGPT #OpenAI #1Bilhão #Tecnologia #Radar",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "RECORDE INÉDITO",
+            "title": "ChatGPT virou o app mais rápido a 1 bilhão",
+            "highlight": "1 bilhão",
+            "body": null,
+            "stat": "1B",
+            "stat_label": "usuários mensais"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "VELOCIDADE",
+            "title": "3 anos vs 7 anos de TikTok e Instagram",
+            "highlight": "3 anos",
+            "body": "ChatGPT: 1 bilhão em 3 anos (nov 2022 → mai 2026). TikTok levou 4 anos. Instagram levou 7+ anos. Snapchat nunca chegou em 1 bilhão. ChatGPT é 2x-4x mais rápido que qualquer precedente. Tá em escala de sistema operacional, tipo Windows.",
+            "stat": "3 anos",
+            "stat_label": "vs 7 de Instagram"
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "A REALIDADE AGORA",
+            "title": "Mas o market share caiu de 86% pra 46% em 2026",
+            "highlight": "46%",
+            "body": "Detalhe importante: ter 1 bilhão não significa dominar. Em março de 2026, ChatGPT já tinha perdido metade da market share pros concorrentes. Claude: +640% em crescimento. Grok: 600M. Perplexity: 100M+. O mercado se fragmentou.",
+            "stat": "46%",
+            "stat_label": "market share (vs 86% em 2024)"
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O QUE SIGNIFICA",
+            "title": "Monopolista virou player entre vários",
+            "highlight": "player",
+            "body": "ChatGPT não foi derrotado (1B usuários é inimigo inacreditável). Mas deixou de ser monopólio. Agora tá no mesmo patamar que YouTube/Gmail em termos de \"app que toda pessoa usa\", mas não é o ÚNICO que toda pessoa usa. Ficou comoditizado.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "POR QUE PERDEU SHARE?",
+            "title": "Cada competidor achou seu nicho",
+            "highlight": "nicho",
+            "body": "Claude: reasoning + segurança (engenheiros, pesquisadores). Grok: sem filtro (tech crowd). Gemini: integração Google (Android + Workspace). Perplexity: search + reasoning (info workers). ChatGPT tá no meio — bom em tudo, melhor em nada específico.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "NEGÓCIO",
+            "title": "1B usuários é base pra vender ChatGPT Pro/Enterprise",
+            "highlight": "Pro/Enterprise",
+            "body": "OpenAI tá apostando que de 1B, vai converter 3-5% pra ChatGPT Pro (US$ 20/mês) e 1-2% pra Enterprise (contracts grandes). Mesmo 2% de 1B = 20M subs = US$ 4.8B/ano só de Pro. Aí tá o dinheiro real.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A LIÇÃO",
+            "title": "Escala absoluta já não garante vitória. Monetização faz.",
+            "highlight": "Monetização",
+            "body": "Skype tinha 1B+ usuários no pico. Virou irrelevante. TikTok tem 1B+ mas precisava de venda forçada. ChatGPT tem 1B porque é genuinamente útil TODO DIA. Lição: crescimento sem rutina = crescimento sem profundidade.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Acompanha monetização ChatGPT + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Se tu usa ChatGPT, testa ChatGPT Pro pra ver diferença. Se é founder, estuda como OpenAI tá monetizando 1B (lesson pra seu app). E segue o radar pra saber qual estratégia de mercado tá vencendo.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "Perplexity: ARR de US$ 450M com pivô pra agentes",
+      "summary": "Perplexity atingiu US$ 450M em ARR (annual recurring revenue) após lançar Perplexity Computer, um agente que executa tarefas complexas. Crescimento de 50% em 1 mês após pivô. Usuários mensais ultrapassaram 100 milhões.",
+      "source": "Yahoo Finance / Financial Times",
+      "link": "https://finance.yahoo.com/sectors/technology/articles/perplexity-arr-tops-450m-after-pricing-shift-132500539.html",
+      "category": "aplicação",
+      "recommended": false,
+      "carousel": {
+        "theme": "Perplexity cresceu 50% em 1 mês quando pivotou pra agentes. ARR saltou pra US$ 450M.",
+        "caption": "Perplexity Computer (agente que faz pesquisa multi-step + executa) virou receita gigante em semanas. 📈\n\nOs números:\n\n✅ ARR: US$ 450M (março 2026)\n✅ Crescimento anterior: US$ 305M → US$ 450M em 1 trimestre (= +50% em 1 mês)\n✅ Usuários mensais: 100M+ (vs 45M no fim de 2025)\n✅ Transição: search-first → agente-first\n\nO pivô?\n\nPerplexity era search com IA (tipo Google + Claude). Depois de 2+ anos, entendeu: não consegue vencer Google em search puro.\n\nAgora virou: agente que faz pesquisa multi-step MAIS executa ação.\n\nExemplo:\n→ \"Me encontra melhor plano de saúde pra freelancer em SP\"\n→ Agente: pesquisa, compara, tira dúvidas com assistente humano (hybrid), recomenda, ATE executa (abre link pra contratar)\n\nNunca ninguém tinha feito isso. Virou modelo de receita.\n\nMas o contexto que falta em todo tweet clickbait:\n\n→ Perplexity tá perdendo US$ 10 pra cada US$ 1 que ganha (modelo insustentável, mas crescimento exponencial)\n→ Tem 100M usuários mas só 5-10% paga\n→ A aposta é: quando chegar em 1B usuários, converter 10% = receita de bravíssimo porte\n→ Pra isso ficar viável, precisa de IA mais barata (DeepSeek-grade pricing)\n\nA história real: agentes são tão valiosos que startups tão dispostas a arder dinheiro agora pra ganhar mercado depois.\n\n👉 Se tu tá pensando em startup de IA em 2026, lição é: agentes > search > chatbot. Agentes você vende premium.\n\n#IA #Perplexity #Agentes #Startup #ARR #Radar",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "A HISTÓRIA PERPLEXITY",
+            "title": "Pivô pra agentes virou US$ 450M em ARR",
+            "highlight": "US$ 450M",
+            "body": null,
+            "stat": "450M",
+            "stat_label": "ARR (annual recurring revenue)"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O CRESCIMENTO",
+            "title": "50% crescimento em 1 mês após lançar agentes",
+            "highlight": "50%",
+            "body": "Perplexity tava em US$ 305M ARR. Depois de Perplexity Computer (agente), subiu pra US$ 450M em 1 trimestre. Significa que agentes-só abriram novo mercado: não é substituição, é adição de demanda.",
+            "stat": "50%",
+            "stat_label": "aumento em 1 mês"
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O PIVÔ",
+            "title": "De search-with-AI pra agente-que-faz-tudo",
+            "highlight": "agente",
+            "body": "Perplexity era buscador com IA (tipo Google + Claude). Percebeu: não consegue vencer Google em search puro. Pivorou: agente que pesquisa + recomenda + ATÉ executa (tipo abre carrinho de compras, agenda reunião). Agora vende agência inteligente, não buscador.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "POR QUE CRESCEU",
+            "title": "Agentes conseguem coisas que search não consegue",
+            "highlight": "Agentes",
+            "body": "Search tem 1 step: \"busca resposta\". Agentes têm N steps: \"pesquisa → compara → valida → recomenda → executa\". Isso vale dinheiro. Enterprise paga US$ 5k+/mês por agente que executa procurement inteiro (RFQ → PO → delivery). Agentes viraram product premium.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO MONETIZA",
+            "title": "Usage-based pricing: quanto mais usa, mais paga",
+            "highlight": "usage-based",
+            "body": "Antes: Perplexity Pro = US$ 20/mês (search). Agora: Perplexity Computer = pay-per-execution. Procura → pesquisa → compara → recomenda = US$ 2-5. Faz 10 vezes/dia = US$ 60-150/mês. Virou SaaS real.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM PERDE | QUEM GANHA",
+            "title": "Google Search perde. Perplexity ganha.",
+            "highlight": "Google vs Perplexity",
+            "body": "Google cobrava via anúncio (CPM: US$ 5-20 por 1000 impressões). Perplexity cobra via ação (US$ 2-5 per execution). Modelo de Perplexity é 10x mais valioso por usuário. Agora Google tá copiar agentes (só que tá 2 anos atrasada).",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A LIÇÃO",
+            "title": "Agentes-executores (não só conversadores) têm pricing power",
+            "highlight": "pricing power",
+            "body": "ChatGPT: \"responde perguntas\". Perplexity Computer: \"executa tarefas\". Uma paga US$ 20/mês, outra paga US$ 1000+/mês. A diferença? Quem executa vira dependência real (não é \"legal ter\", é \"precisamos disso pra operar\").",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Testa Perplexity Computer + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Testa Perplexity Computer pra algo real (tipo \"encontra melhor fornecedor de X\"). Vê como tá o price/value. Se pagar rápido, tá validado. E segue o radar pra ver qual categoria de agentes tá escalonando revenue.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "DeepSeek V4: corte de 75% em preço quebra economia de IA",
+      "summary": "DeepSeek (startup chinesa) lançou V4-Pro com desconto permanente de 75%: US$ 0.435/M tokens (vs US$ 1.25/M do Grok, US$ 3/M do Claude). Desempenho comparável a frontier models. Disrupção de custo força OpenAI/Anthropic a repensar pricing.",
+      "source": "Tecmundo / CNN Brasil",
+      "link": "https://www.tecmundo.com.br/mercado/413371-ia-chinesa-deepseek-corta-preco-de-tokens-em-75-no-modelo-v4pro.htm",
+      "category": "benchmark",
+      "recommended": false,
+      "carousel": {
+        "theme": "DeepSeek cortou 75% de preço. IA deixou de ser negócio pra ser commodity.",
+        "caption": "DeepSeek V4 custa US$ 0.435 por 1M tokens. Claude custa US$ 3. OpenAI tá assustada. 📉\n\nOs números destroem a economia anterior:\n\n✅ DeepSeek V4-Pro: US$ 0.435/M tokens\n✅ DeepSeek V4-Flash: US$ 0.14/M tokens (praticamente grátis)\n✅ Claude Opus: US$ 3/M tokens (7x mais caro)\n✅ GPT-4: US$ 5-10/M tokens (20x mais caro)\n✅ Grok: US$ 1.25/M tokens (3x mais caro)\n\nDesempenho? V4-Pro tá comparável a GPT-4o + Claude 3.5 em reasoning, STEM, coding.\n\nO que isso significa?\n\n→ Toda economia de SaaS baseada em IA cara virou inviável\n→ LLaMA 4 (open-source) + DeepSeek agora competem com proprietary em custo E qualidade\n→ Startups podem treinar modelos o próprio com dados, não depender de API\n→ Margem do OpenAI (os reports dizem 80%+) desaparece em 2027\n\nMas o context importante:\n\n→ DeepSeek é chinês, governo pode travar a qualquer momento (tech war EUA/China)\n→ Eles estão PERDENDO dinheiro no prço (modelo insustentável a curto prazo, estratégia de market share)\n→ OpenAI/Anthropic podem fazer o mesmo (mas destruiria IPO/valuation)\n\nA lição política: IA não vai ser negócio de margens altas por muito tempo. Vai virar utilities (como energia, água). Quem controlar o compute (Elon + SpaceX, Meta com datacenters, China com fab) vence.\n\n👉 Se tu usa OpenAI em produção, time limit: migra pra DeepSeek/LLaMA 4 até fim de 2026 ou teu modelo de negócio vira negativo.\n\n#IA #DeepSeek #Preço #Commodity #Disrupção #Radar",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "A BOMBA FOI LARGADA",
+            "title": "DeepSeek 75% mais barato. OpenAI entrou em pânico.",
+            "highlight": "75%",
+            "body": null,
+            "stat": "US$ 0.435",
+            "stat_label": "por 1M tokens (vs US$ 3 Claude)"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "PREÇO DISRUPTIVO",
+            "title": "DeepSeek é 7x mais barato que Claude",
+            "highlight": "7x",
+            "body": "DeepSeek V4-Pro: US$ 0.435. Claude Opus: US$ 3. É 7x diferença. E performance é tão perto que em 90% dos cases, tu não nota. Isso destrói modelo de negócio de OpenAI (que margem vive em preço, não qualidade).",
+            "stat": "7x",
+            "stat_label": "diferença de preço"
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O CONTEXTO",
+            "title": "China tá fazendo guerra econômica em IA via preço",
+            "highlight": "guerra",
+            "body": "DeepSeek é chinês. Governo de Xi pode estar subsidiando preço pra ganhar market share global (tipo Huawei com chips baratos). Se for verdade, é estratégia geopolítica. Se for modelo de negócio real, é startup brilhante. Qualquer forma: OpenAI tá em apuros.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "A VIRADA",
+            "title": "Margem de IA desaparece se DeepSeek tiver sucesso",
+            "highlight": "margem",
+            "body": "OpenAI tá faturando US$ 3-4B/ano com ~90% de margem (segundo reports). Se DeepSeek captura 20% do mercado (bem possível com preço), margem cai pra 50%. Com 50%, IPO fica menos atrativa. Agora entende porque OpenAI tá em pânico.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "V4-Pro tá tão bom que ninguém consegue justificar 7x de preço",
+            "highlight": "7x",
+            "body": "Em coding: V4 = 95% da qualidade do Claude com 1/7 do preço. Em STEM: mesma coisa. O único caso onde Claude ganha é reasoning puro (59% vs 41% do competitor). Mas 59% não vale 7x de preço pra maioria.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM MIGRA PRIMEIRO",
+            "title": "Startups e grandes corporations de cost-center",
+            "highlight": "cost-center",
+            "body": "Se tu é startup usando Claude pra customer support (custo alto), migra agora pra DeepSeek (7x de economia = runway multiplica). Se é corporation com budget fixed, migra também. Único que não migra: quem precisa de reasoning frontier (pesquisadores, hedge funds).",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A LIÇÃO",
+            "title": "IA não vai ser negócio de margem alta. Vai ser utility.",
+            "highlight": "utility",
+            "body": "Energia, água, internet: começaram caras, ficaram baratas, viraram utilities. IA tá no mesmo caminho. OpenAI teve sorte de 2 anos de monopoly (2022-2024). Agora competição chegou e preço vai pra commodity level (US$ 0.10/M tokens em 2027).",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Testa DeepSeek V4 + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Se tu tá em OpenAI, testa DeepSeek V4 no seu caso de uso (exato mesmo teste com Claude). Se der resultado similar, migra. Poupa US$ 10k+/mês fácil. E segue o radar pra saber qual preço IA tá de fato convergindo.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    }
+  ],
+  "whatsapp": "📰 RADAR IA — 30 JUN 2026\n\n1️⃣ Claude Fable 5 LIDER: 80.3% SWE-Bench Pro, primeiro modelo Mythos pro público (https://www.anthropic.com/news/claude-fable-5-mythos-5)\n\n2️⃣ Sora 2 viral: 2M downloads iOS, interface TikTok, recorde de crescimento pra consumer IA (https://openai.com/index/sora-2/)\n\n3️⃣ Google I/O: Gemini Omni (multimodal sync) + Spark (agente 24/7 Gmail) — Google voltou na briga (https://techcrunch.com/2026/05/19/google-introduces-gemini-spark-a-24-7-agentic-assistant-with-gmail-integration-at-io-2026/)\n\n4️⃣ Meta Llama 4: open-source, Scout 10M tokens, Maverick supera GPT-4o — sem pagar API (https://ai.meta.com/blog/llama-4-multimodal-intelligence/)\n\n5️⃣ Grok 4.5 tests: Elon diz próximo/superior Claude, 1.5T params, US$ 1.25/M tokens — 12x mais barato (https://www.tradingkey.com/pt/analysis/stocks/us-stocks/261997552-grok-spacex-tesla-musk-claude-opus-tradingkey)\n\n6️⃣ Agentes autônomos: turnos contínuos 6-14h, Vercel + Cursor dominam, Zapier virou commodity (https://vercel.com/kb/guide/ai-agents)\n\n7️⃣ Convergência + quebra: Claude/GPT/Gemini empatavam (platô), Fable 5 quebra — cada modelo especialista agora (https://artificialanalysis.ai/models/claude-fable-5)\n\n8️⃣ ChatGPT 1B usuários: 3 anos (recorde inédito), mas market share caiu 86% → 46%, mercado se fragmentou (https://timesbrasil.com.br/empresas-e-negocios/inteligencia-artificial/chatgpt-1-bilhao-usuarios-mensais-recorde-openai/)\n\n9️⃣ Perplexity US$ 450M ARR: pivô agentes = 50% crescimento em 1 mês, 100M+ usuários, agentes viram premium (https://finance.yahoo.com/sectors/technology/articles/perplexity-arr-tops-450m-after-pricing-shift-132500539.html)\n\n🔟 DeepSeek V4 disrupção: US$ 0.435/M tokens (75% MENOS), performance 95% vs Claude, margem de OpenAI desaparece (https://www.tecmundo.com.br/mercado/413371-ia-chinesa-deepseek-corta-preco-de-tokens-em-75-no-modelo-v4pro.htm)\n\n👉 Dashboard: https://rafaelondei.appnaia.com",
+  "instagram": "🚀 RADAR IA — 30 DE JUNHO 2026\n\nOs 10 movimentos que definem o mercado de IA em junho (quando a competição virou acirrada de novo):\n\n**MODELOS NOVOS:**\n• Claude Fable 5: primeiro modelo Mythos pro público. 80.3% em engenharia de software (vs 58.6% do GPT-5.5). Anthropic quebrou o platô de convergência.\n• Google Gemini Omni: true multimodal, sync áudio+vídeo. Omni Flash também vem. I/O 2026 foi resposta ao avanço Claude.\n• Meta Llama 4 Scout: 10 milhões de tokens em GPU single. Open-weight. Grátis. Startup não precisa mais pagar API.\n• Grok 4.5: em testes na SpaceX/Tesla. 1.5T params. Elon diz que tá próximo/superior do Claude. 12x mais barato (US$ 1.25/M).\n\n**APLICAÇÃO (AGENTES EXPLODEM):**\n• Agentes autônomos rodando 14h direto: Vercel Agent Stack, Cursor Automations — executam tarefas ponta a ponta sem pedir.\n• Perplexity Computer virou US$ 450M ARR: pivô de search pra agente = 50% crescimento em 1 mês. Agentes têm pricing power.\n\n**CONVERGÊNCIA DEPOIS QUEBRA:**\n• Há 3 semanas: Claude, GPT, Gemini eram idênticos em benchmarks (platô da fronteira)\n• Agora: Fable 5 tira 20-30 pontos, mas cada um tem nicho — Claude em reasoning, GPT em viral, Gemini em integração.\n\n**ESCALA E FRAGMENTAÇÃO:**\n• ChatGPT: 1 bilhão de usuários em 3 anos (recorde inédito). Mas market share caiu 86% → 46%. Mercado FRAGMENTOU.\n• Sora 2: 2M downloads iOS (viral escalou). Ainda o app de IA mais rápido a crescer.\n\n**DISRUPÇÃO DE CUSTO (A MAIS IMPORTANTE):**\n• DeepSeek V4-Pro: US$ 0.435 por 1M tokens. Claude custa US$ 3 (7x mais caro). Desempenho tá 95% da qualidade.\n• IA deixou de ser negócio de margem alta (80%+). Virou commodity. Utilities como energia/água.\n\n**SÍNTESE:** Junho 2026 é o mês que IA saiu de \"um vencedor, vários competidores\" pra \"múltiplos vencedores, cada um com seu mercado\". E disrupção de preço (DeepSeek) é o movimento que tá forçando OpenAI/Anthropic a repensar modelo de negócio.\n\nEm startups, a regra simples:\n1. Agentes (não chatbot) têm pricing power\n2. Seu maior custo agora é compute, não modelo\n3. DeepSeek/Llama 4 substituem Claude em 90% dos casos com 1/7 do preço\n4. Próxima winner: quem controlar compute barato (Elon tá ganhando esse jogo)\n\n👉 Qual desses 10 impacta seu negócio?\n\n#IA #Claude #Fable5 #DeepSeek #Agentes #InteligenciaArtificial #Startup #Empreendedorismo #Radar"
+}

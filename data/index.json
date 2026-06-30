@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-06-23T15:59:04-03:00",
+  "updated_at": "2026-06-30T07:00:01-03:00",
   "executions": [
+    {
+      "date": "2026-06-30",
+      "key": "2026-06-30",
+      "topic": "mercado de IA",
+      "summary": "Claude Fable 5 (80.3% SWE-Bench) quebra convergência; Sora 2 (2M downloads); Google Gemini Omni + Spark; Meta Llama 4 (10M tokens open); Grok 4.5 (US$ 1.25/M); Agentes 14h contínuos; ChatGPT 1B MAU (46% share); Perplexity US$ 450M ARR; DeepSeek 75% desconto (disrupção margem)",
+      "items_count": 10
+    },
     {
       "date": "2026-06-23",
       "key": "2026-06-23-moda-fitness",
