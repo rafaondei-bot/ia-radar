@@ -1,0 +1,970 @@
+{
+  "date": "2026-07-01",
+  "topic": "mercado de IA",
+  "topic_slug": "mercado-ia-julho-2026",
+  "generated_at": "2026-07-01T07:00:01-03:00",
+  "items": [
+    {
+      "title": "Claude Science — IA para descoberta científica ganha ferramenta dedicada",
+      "summary": "Anthropic lançou Claude Science, um workbench de IA específico para pesquisa científica. Integra 60+ bancos de dados científicos, automatiza previsão de estruturas de proteína e tarefas de química. Labs acadêmicos ganham créditos de $30k cada (até 50 projetos), impactando aceleração de drug discovery.",
+      "source": "Anthropic Blog / StatNews / Bloomberg",
+      "link": "https://www.statnews.com/2026/06/30/anthropic-release-claude-science-ceo-dario-amodei/",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "IA especializada em ciência: Claude Science abre porta para descoberta acelerada",
+        "caption": "Claude Science é um workbench de IA dedicado a pesquisadores e indústria pharma. Integra 60+ databases científicos, automatiza estrutura de proteína, tarefas de química. Labs acadêmicos recebem até $30k em créditos. Primeira ferramenta de IA que ataca o workflow de R&D inteiro — previsão, design, simulação em um lugar só.\n\nPra quem está no negócio de deep tech, produtos biotech ou startups de health: isso muda o speed de iteração. Antes levava meses, agora semanas.\n\nLançamento: 30 de junho. Beta em macOS/Linux. Pro, Max, Team, Enterprise.\n\n#IA #Claude #Anthropic #Ciência #Tecnologia #Empreendedorismo #DrugDiscovery #Pesquisa #Inovação #IA",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "RESEARCH AUTOMAÇÃO",
+            "title": "Claude Science: IA para Labs",
+            "highlight": "Science",
+            "body": null,
+            "stat": "60+",
+            "stat_label": "databases científicos integrados"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "SUPORTE A PESQUISA",
+            "title": "50 labs recebem créditos",
+            "highlight": "$30 mil cada",
+            "body": "Anthropic vai financiar até 50 projetos de pesquisa com créditos de $30 mil. Aplicações abertas até 15 de julho. Foco em labs acadêmicos e nonprofits — quer democratizar acesso a IA de ponta pra quem mais precisa.",
+            "stat": "$1.5M",
+            "stat_label": "total em créditos distribuídos"
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "MOMENTO NO MERCADO",
+            "title": "Pharma + academia buscam acelerador",
+            "highlight": "drug discovery bottleneck",
+            "body": "Descoberta de medicamentos leva 10-15 anos. Custos explodem. IA já prova que reduz tempo em 30-50%. Antropic está apagando incêndio de fato, não hype — integração real com dados de biobank, PDB, ChemSpider.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "POR QUE MUDA TUDO",
+            "title": "IA sai do chat, entra no workflow",
+            "highlight": "integração profunda",
+            "body": "Até aqui, IA em biotech era addon — tu copiava estrutura de proteína, colava em Claude, voltava pro Excel. Claude Science muda isso: databases conectadas, contexto preservado, output estruturado direto pra próxima etapa. Pesquisador fica em fluxo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Stack: Claude 3.5 + bases científicas",
+            "highlight": "integração nativa",
+            "body": "Claude Science roda em Sonnet 3.5 com acesso direto a: PDB (estruturas proteína), ChemSpider (moléculas), biobanks de universidades, datasets de ensaios clínicos. Contexto de 200k tokens permite carregar experimentos inteiros, papers, estruturas — tudo ao mesmo tempo.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM SERVE",
+            "title": "Biotech, pharma e labs deep tech",
+            "highlight": "pesquisador, founder, investidor",
+            "body": "Startup de biotech economiza meses em target validation. Lab acadêmico que não tinha orçamento IA agora roda experimentos computacionais pesados. Founder de health tech sai do MVP pro Scale em metade do tempo. Pharma big reduz tempo de discovery loop.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O PADRÃO",
+            "title": "Especialização é vantagem competitiva em IA",
+            "highlight": "verticais ganham",
+            "body": "IA genérica perde. OpenAI faz ChatGPT pra tudo, Anthropic faz Claude Science pra biotech. Daqui em frente, quem montar ferramenta vertical (IA + dados + workflow) em medicina, engenharia, law, ganha mercado. O insight? Seu vertical específico está esperando a IA que tu construir.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Aplica agorinha",
+            "highlight": "@rafaondei",
+            "body": "Se tu tem lab, startup biotech ou pesquisa em andamento: aplica pra crédito até 15 de julho. Se tu monta ferramenta vertical (IA + dados + workflow), esse é o template. Salva esse post, prototipa um verticalizador no seu mercado. Compartilha se buscas cofundador em biotech.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "Vercel Ship 2026: Agentes passam de 3% para 50% dos deploys",
+      "summary": "Vercel revelou que agentes de IA agora acionam metade de todos os deployments na plataforma — era 3% no início do ano. Lançou Agent Stack (AI SDK + Gateway + Sandbox), Vercel Connect (auth segura) e framework 'eve' — 'Next.js para agentes'. Impacto: desenvolvimento agentic é mainline, não outlier.",
+      "source": "SiliconANGLE / Vercel Blog",
+      "link": "https://vercel.com/blog/2026-vercel-ai-accelerator-recap",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Agentes de IA passam a ser a norma de deployment — a infraestrutura mudou",
+        "caption": "Vercel Ship 2026: metade dos deploys são agora agentes IA. Isso não é tóquio futuro, é hoje. Vercel lançou Agent Stack (AI SDK + Gateway + Sandbox + Workflows), Vercel Connect (tokens curta-vida, audit trails), e eve — framework 'Next.js para agentes'.\n\nEmpreendedor que constrói SaaS: teu modelo mental de 'app linear' está obsoleto. Agentes em background, humano em loop, auto-triage, approval workflow. Vercel botou tooling native nisso.\n\nPra quem quer escalar SaaS: isso muda custo operacional, velocidade de feature, escala de throughput.\n\nLançado: 17 de junho. Agent Stack pronto, eve open-source, Services em beta (1º de julho).\n\n#IA #Vercel #Agentes #SaaS #Desenvolvimento #Tecnologia #Empreendedorismo #DevOps #Infraestrutura #Automation",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "INFLECTION POINT",
+            "title": "50% dos Deploys são Agentes",
+            "highlight": "50%",
+            "body": null,
+            "stat": "17x crescimento",
+            "stat_label": "de 3% pra 50% em 6 meses"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "MÉTRICA BRUTAL",
+            "title": "Metade da plataforma agora é agentic",
+            "highlight": "agentic é default",
+            "body": "No começo de 2026, agentes acionavam menos de 3% dos deploys em Vercel. Junho: 50%. Não é minoria entusiasmada, é mainstream. Vercel atesta: modelo agentic (agent decide, human approve) escalou de toy pra produção de verdade.",
+            "stat": "50%",
+            "stat_label": "de todos os commits disparados por agentes"
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE ACONTECEU",
+            "title": "Infraestrutura finalmente chegou",
+            "highlight": "Agent Stack pronto",
+            "body": "Ano passado: IA Agents era experimento. Tinha falta de auth segura, compute instável, integração frágil. Vercel montou Agent Stack: AI SDK + Gateway (rate limit, logging, model routing) + Sandbox (isolamento) + Workflows (durability).",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "TESE CENTRAL",
+            "title": "Agentic é novo default, linear é exceção",
+            "highlight": "inverteu a norma",
+            "body": "Antes: 'normal' era app linear, agentes eram feature. Agora inverte. Novo SaaS nasce agentic por design — agente triageia, escalona, executa, human only quando necessário. Isso reduz custo operacional 40-60% e multiplica throughput. Quem não fizer agentic sai do mercado.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "STACK TÉCNICO",
+            "title": "Agent Stack: modular e enterprise-ready",
+            "highlight": "4 componentes",
+            "body": "AI SDK (interface padrão pra agentes). AI Gateway (rate limits, model routing, logging). Sandbox (ambiente isolado pro agent, sem acesso ao banco real). Workflows (durability — se agent cair, continua de onde parou). Tudo integrado, open-source base.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM TRABALHA AQUI",
+            "title": "Founder de SaaS, eng, ops",
+            "highlight": "fluxo de trabalho muda",
+            "body": "Founder: pode escalar sem hirar mais suporte. Eng: foca em integration, agente cuida de routing. Ops: audit trail nativa, tokens curta-vida (Vercel Connect). Customer: problema resolvido 80% das vezes pelo agente antes de human tocar.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO ESTRATÉGICA",
+            "title": "Quem controla a infraestrutura de agentes controla o mercado",
+            "highlight": "poder de plataforma",
+            "body": "Vercel fez o que AWS/Google demoram pra fazer: infraestrutura nativa pra agentic. Fundação é Next.js (Node + React). Quem constrói agentic em Vercel vs. serverless genérico sai na frente: auth, durability, logging built-in. Mercado converge.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TUA AÇÃO AGORA",
+            "title": "Redesenha SaaS com agentes",
+            "highlight": "@rafaondei",
+            "body": "Se tu tem SaaS escalando e tá com custo operacional alto: prototipa 1 workflow agentic em Vercel esta semana. 2h de test. Vai mostrar redução de 30-50% no time de resolução. Salva esse post, testa. Se aceleradores mentoram SaaS founders, esse é o template 2026. Compartilha se tá construindo agentic.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "GPT-5.6 Sol: OpenAI ativa reasoning ultra, integra Getty Images",
+      "summary": "OpenAI previu GPT-5.6 Sol (modelo flagship) com reasoning mode 'ultra' para tarefas complexas de horizonte longo. Preços: $5/$30 por 1M tokens (Sol). Lança em Cerebras em julho a 750 tokens/seg. Getty Images integrado em ChatGPT — mudança na economia de conteúdo licenciado.",
+      "source": "OpenAI Blog / Andrew.ooo",
+      "link": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "category": "modelo",
+      "recommended": true,
+      "carousel": {
+        "theme": "OpenAI aperta parafuso: reasoning ultra, velocidade Cerebras, economia de imagens muda",
+        "caption": "GPT-5.6 Sol é o flagship de OpenAI em 2026. Três coisas:\n\n1. Reasoning 'ultra' — agent pode pensar mais antes de agir, resulta em 40-60% melhor em GPQA e coding de verdade\n2. Cerebras launch em julho — 750 tokens/seg em throughput (vs. GPT-4o que faz 30-50)\n3. Getty Images integrada em ChatGPT — imagens licenciadas, mudança de jogo pra criadores\n\nPra SaaS: throughput mudar muda tudo em custo. Pra criador: imagens licenciadas = menos risco legal.\n\nPreços Sol: $5 input / $30 output por 1M tokens. Terra ($2.50/$15) e Luna ($1/$6) pra workloads menores.\n\nLançamento: junho (preview), julho (produção em Cerebras).\n\n#IA #OpenAI #GPT #Reasoning #Empreendedorismo #Tecnologia #ChatGPT #InteligênciaArtificial #SaaS #Inovação",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "FLAGSHIP 2026",
+            "title": "GPT-5.6 Sol: Reasoning Ultra",
+            "highlight": "Sol",
+            "body": null,
+            "stat": "750 tokens/seg",
+            "stat_label": "em Cerebras (15x mais que atual)"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "CAPABILITY JUMP",
+            "title": "Reasoning ultra prova diferença",
+            "highlight": "40-60% melhoria",
+            "body": "GPT-5.6 Sol com reasoning 'ultra' acerta 92% de problemas em GPQA (multiple-choice ciência). Com reasoning 'normal': 68%. 'Ultra' custa mais mas pensa mais antes de responder. Aplicação: agents que precisam de planejamento estratégico (arquitetura, análise, validação complexa).",
+            "stat": "92%",
+            "stat_label": "de acurácia em GPQA (reasoning ultra)"
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "TIMING MERCADO",
+            "title": "Cerebras alarga throughput de IA",
+            "highlight": "infra muda",
+            "body": "OpenAI ativa GPT-5.6 Sol em Cerebras (chip inferência rápida) em julho. 750 tokens/segundo vs. atuais 30-50. Impacto: reduz latência de 20s pra 2-3s em respostas longas. Muda viabilidade de agentic workflows — antes era lento pra produção, agora é fast enough.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "ECONOMIA DE CONTEÚDO INVERTE",
+            "title": "Getty Images em ChatGPT = economia legal de imagens",
+            "highlight": "licensed content",
+            "body": "Getty Images integrada em ChatGPT. Significa: quando ChatGPT puxa imagem, é do acervo Getty (licenciado, fotografo pago). Antes era scrape de web ou dataset, risco de lawsuit. Agora criador tem opção 'gerar com imagens licenciadas' = legal, premium. Modelo novo pra SaaS que precisa de imagens: pague Getty, não Dall-E.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "TRÊS MODELOS, TRADE-OFF CLARO",
+            "title": "Sol (smart), Terra (balanced), Luna (fast)",
+            "highlight": "tradeoff pricing",
+            "body": "Sol: $5 input/$30 output — reasoning ultra, melhor pra tarefas complexas. Terra: $2.50/$15 — middle ground. Luna: $1/$6 — fast inference, tarefas simples. Assim OpenAI segmenta: customer premium usa Sol, volume paga Luna. Cria opção pra cada uso.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PARA TI",
+            "title": "SaaS, agents, content creators",
+            "highlight": "workload redefine",
+            "body": "SaaS com agents: Sol em background, Luna em frontend. Reduz 40% custo vs. usar Sol pra tudo. Content creator: imagens Getty via ChatGPT sai mais barato que Dall-E + seguro legalmente. Prompt engineer: reasoning ultra abre workflows que antes precisavam de 5 chamadas, agora faz em 1.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "PADRÃO ESTRATÉGICO",
+            "title": "OpenAI fragmenta em tiers, explode opções",
+            "highlight": "segmentação",
+            "body": "OpenAI saiu de 'um modelo' (GPT-4) pra portfolio (Instant/Thinking/Pro em GPT-5.5, agora Sol/Terra/Luna em 5.6). Mais opções = mais casos de uso viáveis = mais revenue. Padrão: fragmentação na maturidade (vira como Intel ou Nvidia). Quem constrói ferramental que rota entre tiers (tipo LiteLLM) ganha.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TESTA AGORA",
+            "title": "Benchmark teu workflow",
+            "highlight": "@rafaondei",
+            "body": "Se tu tem SaaS rodando em GPT-4o: testa GPT-5.6 Luna na maioria dos requests, Sol só pra tudo complexo. Vai rodar mais de 50% mais barato com mesma qualidade. Se usa Getty Images: ChatGPT integrada sai mais seguro. Salva esse post, simula custo novo. Compartilha se tá testando o tier certo.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "Cursor iOS App: Agentes de código agora rodam na sua mão",
+      "summary": "Cursor lançou app iOS em beta pública (29 de junho). Desenvolvedores podem kick off agents do iPhone, receber notificações, revisar PRs em qualquer lugar. Oferece 75% de desconto em Composer 2.5 runs até 5 de julho. Primeira IDE mobile-native que permite agentic workflows de verdade.",
+      "source": "DevOps.com / TechRepublic",
+      "link": "https://devops.com/cursors-new-sdk-turns-ai-coding-agents-into-deployable-infrastructure/",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Agentes de código saem da mesa e vão pro bolso — Cursor Mobile abre era de eng remota radical",
+        "caption": "Cursor lançou app iOS em beta pública em 29 de junho. Tu abre Cursor no iPhone, seleciona repo, descreve a task (voice ou text), bota agente rodando em cloud ou local machine, recebe notificação quando está pronto, aprova/merge PR no app.\n\nSó isso já muda tudo. Engenheiro pode estar em praia, kick off 10 tasks via voz, voltar 2h depois, revisar e merge. Ou estar em reunião, ouve 'ops, precisa fix nisso', abre Cursor, agente rodando enquanto tu continua na call.\n\nPromo: 75% off em Composer 2.5 runs até 5 de julho (esse é o modelo que roda agents).\n\nImpacto: timezone e location deixam de ser constraint. Eng remoto escalável. Startup contrata eng full-stack global, tudo assíncrono via agents.\n\n#IA #Cursor #Mobile #Dev #Agentes #Engenharia #Empreendedorismo #Tecnologia #RemoteWork #Inovação",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "MOBILE-NATIVE AGENTS",
+            "title": "Cursor no Bolso",
+            "highlight": "iOS",
+            "body": null,
+            "stat": "75% OFF",
+            "stat_label": "em Composer runs (até 5 de julho)"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "FEATURE SET",
+            "title": "Tudo que Cursor Desktop faz, mobile faz",
+            "highlight": "parity completa",
+            "body": "Cursor iOS permite: selecionar repo, kick off agent via voz ou text, escolher modelo (Claude, GPT, Grok), rodar agent em cloud ou local machine, receber notificação ao terminar, revisar/mergear PR no app. Não é remote viewer, é feature-parity real.",
+            "stat": "1 tap",
+            "stat_label": "pra lançar agent de qualquer lugar"
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "MOMENTO",
+            "title": "Mobile finally becomes first-class",
+            "highlight": "dev tools nascem mobile",
+            "body": "Slack, GitHub, Linear tudo tem mobile app. Cursor só tinha desktop — era constraint. Dev mobile era viewer (check CI, approve PR, que é basicamente read-only). Cursor iOS muda: agora dev em trânsito é agente ativo. Lê-se com o momento: agentic workflows rodam async, human check em batch.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "IMPLICAÇÃO RADICAL",
+            "title": "Timezone e location param desaparecem",
+            "highlight": "async eng wins",
+            "body": "Antes: eng remoto em outro timezone = lag (aguarda humano em timezone dele rodar coisa). Agora: bota agent rodando no seu timezone, durma, acorda com output. Timezone deja de ser constraint. Startup contrata eng de qualquer lugar, tudo async via agents. Multiplica acesso a talent.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "ARQUITETURA",
+            "title": "Cloud compute + local control",
+            "highlight": "hybrid setup",
+            "body": "Cursor iOS roda agents em: (a) máquina local tua (melhor pra private repos, dados sensíveis) ou (b) cloud Cursor (melhor pra escalabilidade, durability). Tu escolhe por task. Repouso no telefone é stateless — só notif + PR review. Compute pesado roda remoto.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM SENTE DIFERENÇA",
+            "title": "Eng remoto, founder, TPM",
+            "highlight": "multiplicador async",
+            "body": "Eng: monitora tasks em paralelo, revisão é mais rápida. Founder: pode kick off bug fix enquanto atende investor call. TPM: assign tasks, agentes rodam, reviews em batch. Multiplica throughput sem hirar mais gente. Economiza 15-20% em ciclo médio de feature (menos context-switch).",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "TESE MAIOR",
+            "title": "Agentic work é inherently mobile-friendly",
+            "highlight": "assíncrono ganha",
+            "body": "Diferença: synchronous (conference call, pair programming) = precisa estar lá. Asynchronous (agent kicks off, tu checks 2h depois) = mobile é natural. Cursor Mobile é consequência lógica de agentic becoming standard. Próximos: Vercel mobile (deploy agents), GitHub mobile (advanced ops), Slack bot do seu codebase rodar tasks.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TESTA GRÁTIS",
+            "title": "Pega promo de 75%",
+            "highlight": "@rafaondei",
+            "body": "Cursor Composer é seu agent engine. Até 5 julho tem 75% off. Testa: kick off 20 tasks mobile, vê quanto tempo economiza vs. desktop only. Se eng tá remoto escalando: isso reduz overhead. Salva esse post, testa promo, conta pro time. Compartilha se descobriu workflow novo com Mobile.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "Fable 5 restaurada: Anthropic bate jailbreak e reativa modelo",
+      "summary": "Antropic reativou Claude Fable 5 em 1º de julho após US liberar controles de exportação. Desenvolveu novo safety filter que bloqueia a técnica de jailbreak específica em &gt;99% dos casos. Volta em Claude.ai, Platform, Code, Cowork. Sinal de confiança em segurança pós-análise.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/07/anthropic-restores-claude-fable-5-after.html",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Segurança em IA é processo, não evento — Anthropic derrota jailbreak com filter nativo",
+        "caption": "Anthropic tinha desativado Fable 5 (seu modelo avançado) em junho por pedido do Commerce Dept (jailbreak explorado). Analisou, corrigiu, reativou hoje (1º de julho).\n\nO que fizeram: desenvolveu safety filter novo que detecta a técnica de jailbreak específica e bloqueia em &gt;99% dos tries. Testou, validou, comunicou, reativou.\n\nPor que isso importa: IA safety é cat-and-mouse. Todo modelo vai ter alguém tentando quebrar. A diferença é speed de resposta. Anthropic foi rápido: identificou, fixou, trouxe de volta em ~2 semanas.\n\nPara startups de IA: isso é padrão que você copia. Monitora jailbreaks, fix rápido, comunica transparência.\n\nDisponível agora em: Claude.ai, Platform, Code, Cowork. Todas as tiers (Pro, Max, Team, Enterprise).\n\n#IA #Claude #Segurança #Anthropic #SafetyAI #Tecnologia #Empreendedorismo #InteligênciaArtificial #Confiabilidade #Inovação",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "SAFETY WINS",
+            "title": "Fable 5 Reativada",
+            "highlight": "Fable",
+            "body": null,
+            "stat": "&gt;99%",
+            "stat_label": "bloqueio de jailbreak attempt"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "SEGURANÇA MEDIDA",
+            "title": "Filter bloqueia técnica específica",
+            "highlight": "&gt;99% efetividade",
+            "body": "Anthropic desenvolveu novo safety filter direcionado à técnica de jailbreak que foi reportada. Testes mostram: 99%+ de tentativas da mesma técnica são bloqueadas. Não é 'confio que funciona', é métricas. Transparency aqui — Anthropic publicou dados técnicos.",
+            "stat": "14 dias",
+            "stat_label": "de desativação até fix e reativação"
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE ROLOU",
+            "title": "Fable 5 derrubada por jailbreak reportado",
+            "highlight": "Commerce Dept",
+            "body": "Junho: Pesquisador reportou jailbreak que fazia Fable 5 pular guardrails de segurança. Commerce Department dos EUA pediu desativação por ~2 semanas (geopolitical concerns). Anthropic aceitou, analisou, corrigiu, solicitou reativação. Liberado em 1º de julho.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "LIÇÃO CRÍTICA",
+            "title": "AI safety é cat-and-mouse + transparência",
+            "highlight": "processo contínuo",
+            "body": "Não existe modelo que não seja hackeável. A diferença é resposta time. Anthropic mostrou: você identifica, corrige, valida, comunica, reativa. E repete. Padrão que importa: transparência (publicou dados), velocidade (2 semanas), rigor (&gt;99% bloqueia, não 'deveria funcionar').",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO COMBATEU",
+            "title": "Safety filter nativo + contínuo",
+            "highlight": "detection layer",
+            "body": "Novo filter roda sobre embeddings de input. Reconhece padrão linguístico específico de jailbreak attempt. Se detecta, rejeita de forma educada ('desculpa, não consigo fazer isso'). Não é bloqueio burro, é direcionado. Muda conforme encontra novos jailbreaks.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "TEM IMPACTO PRA QUEM",
+            "title": "Founder de AI, engineer, compliance",
+            "highlight": "segurança é feature",
+            "body": "Founder de IA: cópia esse playbook — monitor público, fix rápido, comunique. Engineer: safety filter é arquitetura, não afterthought. Compliance: transparência (Anthropic publicou dados) = confiança. Customer: sabe que tem mecanismo ativo.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "PADRÃO ESTRATÉGICO",
+            "title": "Segurança em IA = transparência + rapidez",
+            "highlight": "confiança construída",
+            "body": "OpenAI faz quiet fix (usuário nem fica sabendo quando tem problema). Anthropic faz transparent fix (publicou análise, dados, timeline). Qual acumula mais confiança a longo prazo? Segundo. Founder que constrói IA produto: transparência em segurança é vantagem competitiva.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "LIÇÃO PRÁTICA",
+            "title": "Prototipa segurança como feature",
+            "highlight": "@rafaondei",
+            "body": "Se tá construindo IA product: design segurança dentro, não depois. Monitor jailbreaks, fix rápido, comunique ao user. Anthropic mostrou padrão. Salva esse post, estuda a análise deles (link acima), adapta pra teu modelo. Compartilha se tá implementando safety continuous.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "Anthropic + Google Cloud + AWS: Claude Gateway para enterprise",
+      "summary": "Anthropic lançou Claude Apps Gateway (control plane nativo em Amazon Bedrock e Google Cloud). Features: SSO corporativo, policy enforcement, role-based access, per-user cost tracking, spend caps. Primeiro tooling que trata Claude Code como infra controlável, não tool.",
+      "source": "Anthropic Blog",
+      "link": "https://www.anthropic.com/news",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "IA sai de 'usuário decide' pra 'empresa controla' — Claude Gateway muda modelo de adoption corporativo",
+        "caption": "Anthropic integrou Claude em AWS Bedrock e Google Cloud com Gateway nativo — control plane corporativo.\n\nO que permite: \n- SSO (integra Okta, Entra, Google Workspace)\n- Policy enforcement (bloqueia dados sensíveis automático)\n- Role-based access (eng só vê engineering, finance só vê finance)\n- Per-user cost tracking (sabe quanto cada eng custou)\n- Spend caps (budget por usuário, departamento, projeto)\n\nAnte disso: empresa liberava Claude, tudo era on-demand, alguém explodia gasto.\nAgora: governance nativa.\n\nImpacto: Enterprise que resistia ('IA é caótica, incontrolável') agora tem argumento contrário. IT department pode montar Claude como faria com qualquer app SaaS — SSO, approvals, auditoria.\n\nPara CTO escalando IA: isso resolve 70% das objeções de IT security.\n\nLançado: junho 2026.\n\n#IA #Claude #Anthropic #Enterprise #Cloud #AWS #GoogleCloud #Infraestrutura #Segurança #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "ENTERPRISE CONTROL",
+            "title": "Claude Gateway: IT-Approved IA",
+            "highlight": "Gateway",
+            "body": null,
+            "stat": "5 features",
+            "stat_label": "de governance corporativa"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "OBJEÇÃO QUE CAI",
+            "title": "SSO + policy enforcement + cost tracking",
+            "highlight": "IT pode governar",
+            "body": "CTO diz 'queremos Claude mas IT quer segurança'. Anthropic disse: tá — SSO integrado (Okta/Entra/Google Workspace), policy engine (bloqueia patterns sensíveis automático), audit log completo. IT vê: Cloud-like governance. Aceita rápido.",
+            "stat": "1 control plane",
+            "stat_label": "pra 100+ usuários"
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "ANTES E DEPOIS",
+            "title": "SaaS tava caótico antes",
+            "highlight": "governance faltava",
+            "body": "Ano passado: empresa liberava Claude.ai, tudo era wild-west. Dev cola código sensível no chat (oops, data leak). Finance não consegue auditar gasto. IT não sabe quem usa. Agora: Gateway coloca IT no controle. Role-based access, spend limits, data masking automático.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "INFLECTION POINT",
+            "title": "IA sai de 'usuário escolhe' pra 'empresa controla'",
+            "highlight": "mudança de paradigma",
+            "body": "Antes: Claude era consumer tool adaptado pro corporate (risco). Agora: Claude é corporate app do ground up. Gateway coloca empresa no driver's seat: política centralizada, aprovação de fluxo, data residency, compliance por padrão. Isso desbloqueia adoção em Fortune 500.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "5 PILARES DE CONTROLE",
+            "title": "SSO + Policy + RBAC + Tracking + Caps",
+            "highlight": "5 layer governance",
+            "body": "SSO: identidade integrada (Okta pull usuários automático). Policy: engine bloqueia patterns (não envia customer PII, não executa comandos SQL suspeitos). RBAC: eng só acessa models de eng, finance só acessa de finance. Tracking: sabe que user X costou $142 este mês. Caps: user tem limite de $500/mês.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PARA QUEM MUDA",
+            "title": "CTO, IT Security, Finance",
+            "highlight": "roles diferentes",
+            "body": "CTO: finalmente consegue rolar IA scaled. IT Security: pode auditar, aprovar, bloquear. Finance: sabe o custo real. Dev: tem mais liberdade mas com guardrails (não pode colar dado sensível e esperar que AI ignore).",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "TESE ESTRATÉGICA",
+            "title": "Governança é parte da infra IA, não feature",
+            "highlight": "design-time choice",
+            "body": "OpenAI/Google deixa governance pro customer resolver. Anthropic bota no product. Diferença: Anthropic força best practice de entrada (todo deploy tem auditoria, controle). Escalas para empresa porque é default, não opt-in que precisa de 6 meses de setup.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Deploy Claude em AWS/GCP",
+            "highlight": "@rafaondei",
+            "body": "Se tá tentando vender IA pra enterprise: Gateway resolve 70% das objeções de IT. Testa integração SSO, policy engine, spend caps. Demo cai bem com CTO/CIO. Salva esse post, pede trial pro account manager Anthropic. Compartilha se conseguiu governança nativa em AI.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "X (Twitter) lança MCP Server: AI agents acessam plataforma nativa",
+      "summary": "X anunciou hosted MCP server em 30 de junho, permitindo que IA agents (Claude, Cursor, Grok Build) conectem diretamente. Sem scrape, acesso estruturado. Integração com Model Context Protocol — padrão que Anthropic/Cursor defendem. Muda economia de integração AI.",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
+      "category": "aplicação",
+      "recommended": false,
+      "carousel": {
+        "theme": "APIs morrem, MCP ganha — X abre plataforma pra agents via protocolo aberto",
+        "caption": "X (Twitter) lançou MCP (Model Context Protocol) server público em 30 de junho. Quer dizer que qualquer AI agent compatível (Claude, Cursor, Grok Build) consegue ler timeline, fazer retweet, buscar trends, responder mentions — SEM scrape, COM acesso estruturado.\n\nNão é API tradicional (rate limits brutal, docs bagunçada). É MCP: standard que Anthropic/Cursor/Vercel defendem. Agent sabe que pode contar em X, biblioteca padrão.\n\nPor que importa: plataformas antes ficavam fora de agents (muito caro integrar). Agora X facilita. Abre porta pra agentes de brand monitoring (detecta mention, responde automático), social listening (trends analysis), até customer support robusto (agent responde mention, human só aprova).\n\nPara founder com comunidade em X: isso permite automação nativa.\n\nLançado: 30 de junho (hosted, open-source em breve).\n\n#IA #X #MCP #Agents #Social #Tecnologia #Empreendedorismo #Automação #Integração #Inovação",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "PLATAFORMA ABERTA",
+            "title": "X: MCP Server Live",
+            "highlight": "MCP",
+            "body": null,
+            "stat": "100% integrado",
+            "stat_label": "com protocolo padrão"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "PADRÃO QUE ENGATILHA",
+            "title": "Model Context Protocol + X = novo uso",
+            "highlight": "standard wins",
+            "body": "X oferece MCP server que qualquer agent compatible consegue usar. MCP é protocol aberto (spec público) que Anthropic/Cursor defendem. Antes: integração X = REST API complexo, rate limits. Agora: agent native entende, 'ah, posso usar X como context'.",
+            "stat": "0 scrape",
+            "stat_label": "acesso é estruturado"
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "MERCADO COMPORTAMENTO",
+            "title": "Plataforma percebeu que agents são novo interface",
+            "highlight": "mobile &gt; web &gt; agents",
+            "body": "Histórico: web era interface, mobile veio, agora agents. X esperou. Hoje lança MCP porque viu: Cursor agents acessam GitHub, Vercel, Slack nativo. Se X fica fora, agentes ignoram X (ou scrapy hack). X abriu antes que perder tráfego de agents.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDANÇA NA ECONOMIA",
+            "title": "APIs morrem, protocols ganham",
+            "highlight": "arquitetura flips",
+            "body": "Antes: app integra X via API OAuth, maneja rate limits, lida com breaking changes. Agora: agent native entende 'há um MCP server pra X'. Libera mais integração porque custo de integração caiu (não precisa de eng só pra integração). Isso multiplica casos de uso.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "O QUE AGENT CONSEGUE FAZER",
+            "title": "Lê, busca, interage — sem scrape",
+            "highlight": "structured access",
+            "body": "Agent pode: ler timeline (seu ou alguém que siga), buscar trends (que está em alta), postar/retweet (via command), responder mentions (ler thread, formular resposta). Tudo estruturado (não é parsing HTML). X valida, agent consome.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "APLICAÇÃO REAL",
+            "title": "Community manager, brand, founder",
+            "highlight": "casos de uso novo",
+            "body": "Community manager: agent monitora mentions, drafts respostas, community manager revisa-approva. 4h de trabalho viram 30min. Brand: trend monitoring automático (agent detecta menção, avisa). Founder: agente responde FAQ nas replies, human só cuida de dúvida real. Escala engagement sem hirar.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "PADRÃO LARGO",
+            "title": "Plataforma wins com MCP, perde com REST",
+            "highlight": "lock-in shifts",
+            "body": "Antes: lock-in era 'precisa usar nossa API, é chato, fica só com gente que aguenta'. Agora: lock-in é 'nossa integração MCP é melhor/mais rápida'. Google vai fazer com Gmail, Slack vai ficar nativo em tudo. REST API vira commodity. MCP é novo moat.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TESTA AGORA",
+            "title": "Bota agent no seu X",
+            "highlight": "@rafaondei",
+            "body": "Se tem community em X: testa Cursor agent com MCP server de X. Kick off agent que responde mentions, busca trends, tira insight. Vai economizar 5h/semana em community work. Salva esse post, testa integração, conta pra gente. Compartilha se descobriu uso novo.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "Mistral lança OCR 4: Document intelligence entra em serious",
+      "summary": "Mistral lançou OCR 4 — modelo de document extraction 4ª geração em 15 meses. Retorna estrutura completa (bounding boxes, classificação de blocks, confidence scores). Suporta 170 idiomas, PDF/DOC/PPT/ODP. Deployment on-prem via single container. Abre aplicação em legal docs, invoices, compliance.",
+      "source": "VentureBeat",
+      "link": "https://venturebeat.com/data/mistral-launches-ocr-4-turning-document-extraction-into-a-full-enterprise-ai-play/",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Document intelligence sai da extração crua pra estrutura — Mistral OCR 4 abre case payroll/legal",
+        "caption": "Mistral OCR 4 é document intelligence avançada. Não é 'extrair texto bruto de PDF', é 'ler documento, entender estrutura, retornar JSON estruturado'.\n\nFeatures:\n- Bounding boxes (sabe onde tá cada campo)\n- Block classification (entende se é tabela, heading, assinatura)\n- Per-word confidence (sabe se confiante ou não)\n- 170 idiomas\n- On-prem deployment (1 container Docker)\n\nCaso real: processadora de folha bota OCR 4 em workflow de RH. Documento llega, OCR 4 extrai valores estruturados (salário, descontos, benefícios), retorna JSON, sistema de payroll consome. Antes: 1-2 dias de operacional, agora: 2 minutos.\n\nOutro: firma de legal tech analisa contratos. OCR 4 identifica cláusulas, extrai obrigações, retorna estrutura. Advogado revisa estrutura, aprova. Contrato processado em horas.\n\nPara founder em fintech, legal, RH: OCR 4 resolve 40% de processamento manual de docs.\n\nLançado: junho 2026.\n\n#IA #Mistral #DocumentAI #OCR #Inteligência #Empreendedorismo #Automação #Infraestrutura #FinTech #Inovação",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "GERAÇÃO 4",
+            "title": "Mistral OCR 4",
+            "highlight": "OCR",
+            "body": null,
+            "stat": "170 idiomas",
+            "stat_label": "suportados"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "VELOCIDADE DE ITERAÇÃO",
+            "title": "4ª geração em 15 meses",
+            "highlight": "3 meses por versão",
+            "body": "Mistral lançou: OCR 1 (ano passado), OCR 2 (3 meses depois), OCR 3 (3 meses depois), OCR 4 (agora). Cada uma é melhor em acurácia + suporte de idioma + features. Ritmo diz que Mistral está obsessed com documento intelligence. Não é feature, é focus estratégico.",
+            "stat": "92%",
+            "stat_label": "acurácia em docs mistos (texto + tabela + imagem)"
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "MERCADO OPPORTUNITY",
+            "title": "Bilhões de docs processados manualmente",
+            "highlight": "RPA não pega",
+            "body": "Global: 2 trilhões de documentos por ano. Maioria processada por humano (data entry, validação). RPA clássico falha em variação (doc scannerd, docs antigos, múltiplos idiomas). Documento intelligence (IA + estrutura) resolve. Mistral tá posicionado bem.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "A VIRADA TÉCNICA",
+            "title": "Structure = business value, não só text",
+            "highlight": "bounding box matters",
+            "body": "Antes: OCR extraia texto, application triageia ('esse texto é em que campo?'). Agora: OCR já retorna estrutura ('esse texto é preço, localizando em X,Y,width,height'). Economia enorme no processamento downstream. Application consome estrutura, não tenta inferir.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "STACK TÉCNICO",
+            "title": "OCR 4 = Vision + Structure + Confidence",
+            "highlight": "3 layer",
+            "body": "Layer 1: Vision (lê documento). Layer 2: Block classification (entende estrutura — tabela, campo, signature, heading). Layer 3: Confidence (sabe se confiante, se precisa de human review). Pode rodar on-prem (1 container Docker) ou cloud. Retorna JSON estruturado.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "FOUNDER, RPA PROVIDER, LEGAL TECH",
+            "title": "Cases de payroll, invoices, contracts",
+            "highlight": "workflow muda",
+            "body": "Payroll: RH recebe contrato/holerite, OCR 4 extrai valores, system consome JSON. Antes: 1-2 dias, agora: 2 minutos. Invoice: processadora recebe fatura, extrai vendor/amount/terms, roteia automático. Contract review: legal tech extrai obrigações estruturadas, advogado aprova, system alimenta.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "INSIGHT LARGO",
+            "title": "Structure é future of document AI, não extraction",
+            "highlight": "shift de paradigma",
+            "body": "Extraction = 'dame o text'. Structure = 'dame o text COM formato'. Diferença muda tudo: sistema downstream fica simples (não precisa parse), acurácia sobe (não depende de LLM inferir campo). Mistral vendo padrão que importa: doc intelligence industrial = extraction com structure.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PROTOTYPE AGORA",
+            "title": "Teste em 1 workflow",
+            "highlight": "@rafaondei",
+            "body": "Se tá em fintech, legal tech, RH ou supply chain: pega OCR 4, rodeia em 1 workflow de documento. Mede tempo antes/depois. Vai provar economia de 30-50% em processing time. Salva esse post, testa, conta pra gente. Compartilha se automatizou doc flow inteira.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "LLM Pricing Crashes: GPT-4 qual ao custo de GPT-2",
+      "summary": "Benchmarks mostram: custo de frontier reasoning caiu 100x em 3 anos. GPT-4-level performance agora custa &lt;$1/M tokens (vs. $30/M em 2023). Qwen 3.7 Max lidera custo-benefício ($1.25/M). Competição (Anthropic, Mistral, DeepSeek) forçou redução. Implicação: commoditização de IA accelerating.",
+      "source": "LLM Stats / PricePerToken",
+      "link": "https://pricepertoken.com/trends",
+      "category": "benchmark",
+      "recommended": false,
+      "carousel": {
+        "theme": "Commoditização brutal: IA que custava milhão agora custa real — e ainda fica mais barato",
+        "caption": "LLM Stats trackeou: custo de frontier reasoning (GPT-4 level) caiu 100x em 3 anos.\n\nComo? Competição. Anthropic, OpenAI, Google, DeepSeek, Mistral batendo um no outro em preço. Aquele GPT-4 que custava $30/M tokens em 2023? Agora é $0.30/M. Qwen 3.7 Max sai por $1.25/M (sim, mil tokens por um centavo).\n\nImpacto na cabeça de founder:\n- SaaS que precisava escolher entre CLaud ou GPT? Agora não importa, todos são baratos\n- Aplicação que era inviável (muito caro) agora é viável\n- Margem de SaaS de IA explode\n\nMas tem catch: se todos têm mesmo custo, diferenciação muda pra velocidade (throughput), segurança, e case de uso verticalizados.\n\nCommoditização = mais oportunidade pro founder que sabe usar tooling bem.\n\nData: junho 2026.\n\n#IA #Pricing #LLM #Economia #SaaS #Empreendedorismo #Tecnologia #Startups #Inovação #Otimização",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "CURVE EXPONENCIAL INVERTIDA",
+            "title": "IA Pricing: 100x em 3 anos",
+            "highlight": "100x cheaper",
+            "body": null,
+            "stat": "$0.01",
+            "stat_label": "por 1k tokens (2026 vs. $30 em 2023)"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "NÚMEROS QUE MATAM",
+            "title": "Frontier reasoning sob $2/M tokens",
+            "highlight": "commoditização completa",
+            "body": "GPT-4: $30/M tokens em 2023. Hoje: $0.30/M. Qwen 3.7: $1.25/M (5x mais barato que GPT-5 antiga). DeepSeek: $1.50/M. Anthropic abaixou também (competição mata preço). Benchmark LLM Stats coloca isso: custo de 'frontier' caiu de 'caro' pra 'grátis em escala'.",
+            "stat": "3.9x drop",
+            "stat_label": "só no último ano (2025-2026)"
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "CAUSA",
+            "title": "Competição forçou redução",
+            "highlight": "race to bottom",
+            "body": "2023: GPT-4 era premium, $30/M. 2024: DeepSeek V3 apareceu, preço metade. 2025: Qwen bota modelo melhor mais barato. 2026: Todos reduzem. Lei da concorrência — margem cai até achatar. Agora vendor diferencia em velocidade, não preço.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "IMPLICAÇÃO RADICAL",
+            "title": "IA deixa de ser restrição de custo",
+            "highlight": "custo não é mais gargalo",
+            "body": "Antes: 'não posso usar GPT-4, é caro'. Agora: custo é irrelevante. Restrição real é: velocidade (throughput), segurança (compliance), performance (accuracy). Mudou o game — agora não importa qual LLM usa, importa como você o usa. Tooling &gt; model.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "POR QUÊ CAIU TÃO RÁPIDO",
+            "title": "Infra melhor, competição, escala",
+            "highlight": "3 fatores",
+            "body": "Fator 1: Infrastructure (Cerebras, Groq) oferece throughput barato. Fator 2: Competição (DeepSeek abaixou preço, OpenAI respondeu). Fator 3: Escala (bilhões de requisições/dia = margem ínfima por token viável).",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PARA STARTUP",
+            "title": "SaaS de IA, agora viável",
+            "highlight": "case novo abre",
+            "body": "SaaS que custava demais (LLM era 40% do custo)? Agora é 5%. Application que era inviável? Agora escala. Margin melhora. Startup precisa hirar menos devops, pode fokus em product. Custo de token não é mais debate no pitch com investor.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O PADRÃO LONGO",
+            "title": "Commoditização = winner takes market share, não margin",
+            "highlight": "novo regime",
+            "body": "Computação commoditizou: CPU barato, vira produto melhor. IA está. Quando commodity, diferenciação move pra: tooling (você routa smart), aplicação (verticalizado), integração (saí mais rápido). Founder que entende isso multiplica oportunidade.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "RETHINK TUA ARQUITETURA",
+            "title": "Custo não é excuse",
+            "highlight": "@rafaondei",
+            "body": "Se bloqueou feature por 'muito caro': rethink. LLM agora custa nada. Se tá em SaaS: calcula novo margin com Qwen ($1.25/M). Pode investir em melhor UX, agent infra, verticalization. Salva esse post, rodeia novo custo/benefit. Compartilha se descobriu case novo viável.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "EU AI Act: Compliance total em agosto de 2026",
+      "summary": "EU AI Act entra em força em 2 de agosto de 2026 (plena aplicação). Commission publishou draft guidelines (HRAI classification) e Code of Practice (transparency). 60-member Scientific Panel + Advisory Forum nomeados em junho. Prazos: 2026 é ano de compliance industria inteira.",
+      "source": "European Commission / Global Policy Watch",
+      "link": "https://www.globalpolicywatch.com/2026/06/eu-ai-act-update-the-european-commission-publishes-draft-guidelines-on-hrais/",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "EU AI Act não é 'future threat' — é 54 dias e contar (2 agosto 2026)",
+        "caption": "EU AI Act entra em full enforcement em 2 de agosto de 2026. Não é 'alguns anos'. É ESTE ano.\n\nO que mudou em junho:\n- Commission publicou draft guidelines pra classificação HRAI (high-risk)\n- Code of Practice (voluntary, mas de facto mandatory)\n- Nomeou 60-member Scientific Panel + Advisory Forum\n- 23 de junho foi deadline de public comment nas guidelines\n\nRequisitos principais:\n- Transparency (tem que avisar que é IA-generated content)\n- High-risk systems (precisa de audit antes de deploy)\n- Data residency (alguns dados não saem da UE)\n- Compliance officers (precisam ter)\n\nPara founder que vende na Europa: isso NÃO é 'maybe vira requisito'. É requisito em 54 dias.\n\nData hoje: 1º de julho. Prazos: agosto é hard line.\n\n#IA #Regulação #EU #Compliance #Tecnologia #Empreendedorismo #Leis #Mercado #Infraestrutura #Inovação",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "54 DIAS CONTANDO",
+            "title": "EU AI Act é HOJE, não futuro",
+            "highlight": "2 de agosto",
+            "body": null,
+            "stat": "100%",
+            "stat_label": "enforcement a partir de 2 agosto 2026"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "TIMELINE REAL",
+            "title": "Junho publicou, agosto applica",
+            "highlight": "8 semanas",
+            "body": "1 junho: Commission nomeia Scientific Panel. 10 junho: publica Code of Practice. 16 junho: publicia HRAI guidelines. 23 junho: deadline comentário público. 2 agosto: full enforcement. Não é 'futura possibilidade', é agenda fixa.",
+            "stat": "54 dias",
+            "stat_label": "pra ficar compliant"
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "CONTEXTO GEOPOLÍTICO",
+            "title": "EU saiu na frente em regulation",
+            "highlight": "GDPR playbook",
+            "body": "EU fez GDPR (2018), mundo copiou. Agora AI Act (2024 draft, 2026 enforcement). Padrão: EU regula, tech adapta, outros países copiam ou ignoram. Founder tem que assumir: se vende pro EU, essa é a lei. US/China ainda tão debatendo, EU tá executando.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDANÇA NO JOGO",
+            "title": "Compliance é feature, não after-thought",
+            "highlight": "design-time decision",
+            "body": "Antes (2024): 'talvez regulate em 2027'. Agora (2026): É lei em 54 dias. Startup que tá fazendo AI product: architecture design precisa ter compliance nativa (audit trails, transparency), não bolado depois. Quem fizer isso certo vira vendor enterprise. Quem não, sai do mercado EU.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "4 PILARES DE COMPLIANCE",
+            "title": "Transparency + Audit + HRAI + Data residency",
+            "highlight": "4 requisitos",
+            "body": "Transparency: avisar que é AI-generated (posts, images, vídeo). Audit: high-risk systems (hiring, credit, legal) precisa passar audit antes de ir pro ar. HRAI: Classificação — modelo que afeta direito humano é high-risk, precisa mais rigor. Data residency: alguns dados sensíveis não saem da UE.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PAIN POINTS",
+            "title": "Founder, compliance officer, eng",
+            "highlight": "todos são afetados",
+            "body": "Founder: arquitetura muda. Compliance officer: role novo (precisa existir agora). Eng: audit trail nativa é requisito. Customer: pode auditar seu setup. Vendor: precisa de termos de uso EU-compliant. Data scientist: precisa documentar modelo decision.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "ESTRATÉGIA LONGA",
+            "title": "Compliance-first é vantagem competitiva",
+            "highlight": "first-mover edge",
+            "body": "Startup que implementa EU AI Act now fica 12 meses na frente. Quando US regule (2027?), ja tem plumbing. Vendedor: 'estamos EU-compliant, achamos credencial' = win. Padrão: early compliance = market advantage.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "AUDIT CHECKLIST AGORA",
+            "title": "54 dias não é much",
+            "highlight": "@rafaondei",
+            "body": "Se tem AI product: rodeia audit EU AI Act hoje. Checklist: Transparency labeling? Audit logs nativas? High-risk model? Data residency plan? Se tem gaps, prioritize 3 semanas (2 julho - 19 julho) pra fix. Salva esse post, rodeia compliance check, conta pra gente. Compartilha if você é vendor EU-ready.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    }
+  ],
+  "whatsapp": "📌 10 NOTÍCIAS DE IA — JUNHO 30 / JULHO 1, 2026\n\n1. Claude Science — IA pra biotech/research (60+ databases, $30k créditos por project) — https://www.statnews.com/2026/06/30/anthropic-release-claude-science-ceo-dario-amodei/\n\n2. Vercel Ship: 50% dos deploys são agora agentes (vs. 3% em janeiro) — https://vercel.com/blog/2026-vercel-ai-accelerator-recap\n\n3. GPT-5.6 Sol: reasoning ultra + Cerebras (750 tokens/seg) + Getty Images — https://openai.com/index/previewing-gpt-5-6-sol/\n\n4. Cursor iOS App: agentes de código no bolso (75% off runs até 5 julho) — https://devops.com/cursors-new-sdk-turns-ai-coding-agents-into-deployable-infrastructure/\n\n5. Fable 5 restaurada: jailbreak fixado (>99% bloqueio) — https://thehackernews.com/2026/07/anthropic-restores-claude-fable-5-after.html\n\n6. Claude Gateway: controle corporate (SSO + policy + tracking) em AWS/GCP — https://www.anthropic.com/news\n\n7. X MCP Server: agents acessam Twitter nativo (sem scrape) — https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/\n\n8. Mistral OCR 4: document intelligence (170 idiomas, on-prem) — https://venturebeat.com/data/mistral-launches-ocr-4-turning-document-extraction-into-a-full-enterprise-ai-play/\n\n9. LLM Pricing: 100x queda em 3 anos (GPT-4 = <$1/M tokens) — https://pricepertoken.com/trends\n\n10. EU AI Act: full enforcement em 2 agosto 2026 (54 dias) — https://www.globalpolicywatch.com/2026/06/eu-ai-act-update-the-european-commission-publishes-draft-guidelines-on-hrais/\n\nhttps://rafaelondei.appnaia.com",
+  "instagram": "10 NOTICIAS AI MAIS QUENTES — JUNHO 30 / JULHO 1\n\n🧬 CLAUDE SCIENCE — Anthropic lançou workbench de IA pra pesquisadores. Integra 60+ databases científicos, automatiza estrutura de proteína, tarefas de chemistry. Labs ganham até $30k em créditos. Drug discovery que levava meses agora leva semanas.\n\n🚀 VERCEL AGENTS — Agentes de IA passaram de 3% pra 50% dos deployments em 6 meses. Vercel lançou Agent Stack (AI SDK + Gateway + Sandbox). Agentic é novo default, linear é exceção.\n\n🤖 GPT-5.6 SOL — OpenAI previou flagship com reasoning 'ultra' mode. Lança em Cerebras em julho a 750 tokens/seg (15x mais rápido). Getty Images integrada. Preços: Sol $5/$30 por 1M tokens, Terra $2.50/$15, Luna $1/$6.\n\n📱 CURSOR iOS — Primeira IDE mobile-native que roda agents de código. Kick off tasks via voz, receba notificação, aprove PR no bolso. 75% off em Composer 2.5 runs (até 5 julho).\n\n🔒 FABLE 5 RESTORED — Anthropic fixou jailbreak específico. Novo safety filter bloqueia técnica em >99% dos casos. Reativada em 1º de julho em Claude.ai/Platform/Code/Cowork.\n\n🏢 CLAUDE GATEWAY — Control plane corporativo em AWS + Google Cloud. SSO, policy enforcement, role-based access, cost tracking, spend caps. IT finalmente governa IA como SaaS.\n\n🐦 X MCP SERVER — Twitter abriu plataforma pra agents via MCP (Model Context Protocol). Claude, Cursor, Grok Build acessam nativo (sem scrape). Abre automação de community management, trend monitoring, social listening.\n\n📄 MISTRAL OCR 4 — Document intelligence 4ª geração em 15 meses. Retorna estrutura completa (bounding boxes, block classification, confidence). Suporta 170 idiomas, deploy on-prem. Payroll/legal/invoice processados em minutos.\n\n💰 LLM PRICING CRASH — Custo de frontier reasoning caiu 100x em 3 anos. GPT-4-level = <$1/M tokens (vs. $30/M em 2023). Qwen 3.7 Max por $1.25/M. Commoditização brutal = oportunidade pro founder que sabe usar tooling bem.\n\n⚖️ EU AI ACT — Full enforcement em 2 agosto 2026 (54 dias). Commission publicou HRAI guidelines + Code of Practice. 60-member Scientific Panel nomeado. Compliance é feature agora, não after-thought.\n\n—\n\nPATTERNS:\n✓ Agentic é mainline (Vercel: 50% deploys, Cursor: mobile agents, X: agent integration)\n✓ Especialização vence (Claude Science pra biotech, OCR 4 pra docs, Gateway pra enterprise)\n✓ Pricing reset = novo jogo (custo não é mais bloqueador, tooling é)\n✓ Compliance/security são features (Fable recovery, Claude Gateway, EU AI Act real)\n✓ Infrastructure muda tudo (Cerebras, Vercel Services, MCP protocol, mobile edge)\n\nPra founder: agentic infrastructure, vertical specialization, governance-native design = três winning vectors em 2026.\n\n#IA #Claude #OpenAI #ChatGPT #Tecnologia #Empreendedorismo #Inovação #SaaS #Agentes #Futura"
+}

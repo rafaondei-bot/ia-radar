@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-06-30T07:00:01-03:00",
+  "updated_at": "2026-07-01T07:00:01-03:00",
   "executions": [
+    {
+      "date": "2026-07-01",
+      "key": "2026-07-01",
+      "topic": "mercado de IA",
+      "summary": "Claude Science (60+ databases biotech, $30k créditos); Vercel Ship (50% deploys agentic); GPT-5.6 Sol (reasoning ultra, Cerebras 750 tokens/seg, Getty Images); Cursor iOS (mobile agents, 75% off); Fable 5 restaurada (>99% jailbreak bloqueia); Claude Gateway (enterprise governance); X MCP Server (agents integrados); Mistral OCR 4 (document intelligence); LLM Pricing crash (100x em 3 anos); EU AI Act (enforcement 54 dias)",
+      "items_count": 10
+    },
     {
       "date": "2026-06-30",
       "key": "2026-06-30",
