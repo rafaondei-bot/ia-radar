@@ -1,0 +1,1132 @@
+{
+  "date": "2026-07-02",
+  "topic": "mercado de IA",
+  "topic_slug": "ia-mercado",
+  "generated_at": "2026-07-02T07:00:01-03:00",
+  "items": [
+    {
+      "title": "GPT-5.6 Sol: 750 tokens/seg em Cerebras (5x mais veloz)",
+      "summary": "OpenAI lançou GPT-5.6 Sol em preview com suporte a 750 tokens por segundo via integração com Cerebras. Preço US$5-30/Mtok. A velocidade revoluciona agentic workflows em produção: reasoning em tempo real, chatbots com latência sub-segundo, processamento paralelo de N requisições. Impacto: frontier-grade intelligence agora cabe em budget de SaaS médio.",
+      "source": "OpenAI",
+      "link": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "category": "modelo",
+      "recommended": true,
+      "carousel": {
+        "theme": "GPT-5.6 Sol redefiniu velocidade em IA — 750 tokens/seg é a new normal pra agentic workflows.",
+        "caption": "🚀 GPT-5.6 Sol acaba de quebrar o teto de velocidade em IA. OpenAI + Cerebras entregaram 750 tokens por segundo — 5x mais rápido que o padrão anterior. Pra tu que constrói SaaS ou agentes, isso muda tudo.\n\n📊 Pricing por modelo:\n• Sol: US$5 input / US$30 output (most intelligent)\n• Terra: US$2.50 input / US$15 output (balanced)\n• Luna: US$1 input / US$6 output (fast)\n\n⚡ O que muda no jogo:\n1️⃣ Reasoning models em tempo real (antes era 30s+, agora <1s)\n2️⃣ Chatbots multi-turn com latência imperceptível\n3️⃣ Processamento paralelo de centenas de requisições\n4️⃣ Custos fronteira caem — Sol é 10% do preço de Opus 4.7\n\n🎯 Aplicações práticas que explodem agora:\n• Atendimento automático 24/7 (zero delay, zero script)\n• Análise de código + fix automático (SWE-bench 73.6%)\n• Cybersecurity em tempo real (threat detection)\n• Busca em bases gigantes de documentos\n\n💡 Pro Chefe: isto é o ponto de inflexão onde raciocínio computado (o1 style) vira commodity de latência sub-segundo. Quem tá rodando agentes em produção precisa testar Sol TODAY — e quem tá planejando produto novo pode rodar Sol como engine core.\n\nSalva esse post + segue @rafaondei pro daily radar de IA que move negócio. #IA #OpenAI #Agentes #SaaS #GPT5 #InteligenciaArtificial",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "VELOCIDADE É O NOVO MOAT",
+            "title": "GPT-5.6 Sol: 750 tokens/seg",
+            "highlight": "750 tokens/seg",
+            "body": "OpenAI + Cerebras acabaram de reescrever as regras. Reasoning models que antes levavam 30+ segundos agora rodam em <1 segundo. Tá pronto pra isso?",
+            "stat": "750 tokens/seg",
+            "stat_label": "vs 150 de antes",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O NÚMERO QUE IMPORTA",
+            "title": "5x mais velocidade, 10% do preço",
+            "highlight": "5x mais velocidade",
+            "body": "Sol rodando em Cerebras entrega 750 tokens por segundo. Preço: US$5 input / US$30 output. Comparar com Opus 4.7 (US$50-150/Mtok). A lógica é simples: velocidade + barato = novo padrão de produção.",
+            "stat": "US$5-30",
+            "stat_label": "por 1M tokens",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "POR QUE ISSO IMPORTA",
+            "title": "Reasoning em tempo real é novo",
+            "highlight": "tempo real",
+            "body": "Antes: reasoning models = 30-60s de latência. Agora: <1s. Isso ativa um mundo inteiro de aplicações que antes eram impossíveis em produção. Chatbots com reasoning, análise automática de código, busca inteligente — tudo agora roda synchronously.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O JOGO MUDOU",
+            "title": "Agentic workflows viram possível",
+            "highlight": "possível",
+            "body": "Multi-turn conversations que rodavam em 3-5 minutos agora fecham em segundos. Isso não é só performance — é um novo modelo de negócio. SaaS que antes precisava de queue workers podem rodar inline em request. Paralelização de 100+ requisições simultâneas sem 10x custo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Cerebras + OpenAI = arquitetura nova",
+            "highlight": "Cerebras",
+            "body": "Cerebras é um chip custom pro AI inference. 900B transistores numa wafer. Quando OpenAI roda Sol nesse hardware, a aritmética muda: operações paralelas em escala fabril. Resultado: 750 tokens/seg vs 150 do padrão. Physics, não magic.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRAS PESSOAS QUE CRIAM",
+            "title": "Seu agente fica 5x mais rápido, 10x mais barato",
+            "highlight": "5x mais rápido",
+            "body": "Se tu rodas agentes (SDR bots, quality control, customer support), Sol é obrigação testar. Latência muda experience: chatbots ficam conversáveis, análise de código fica instant feedback, workflows que eram batch agora são real-time. Custo por unidade cai 90% em alguns casos.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O QUE LEVAR DAQUI",
+            "title": "Velocidade virou commodity, propriedade não",
+            "highlight": "Velocidade virou commodity",
+            "body": "Em 12 meses: todos vão ter acesso a modelos rápidos e baratos. O differencial agora é dados (quais prompts, quais contextos, quais docs tu alimenta) e arquitetura (como tu orquestra os agentes). Velocidade pura vira commoditized. Atenção pro próximo passo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva + testa GPT-5.6 Sol HOJE",
+            "highlight": "HOJE",
+            "body": "OpenAI tá em preview com ~20 orgs. Se tu rodar SaaS ou agentes, pede acesso. Teste latência em sua carga real. Manda feedback. Quem testar primeiro conhece o padrão antes do resto do mercado travar.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Claude Sonnet 5: novo padrão agentic (1M tokens)",
+      "summary": "Anthropic lançou Claude Sonnet 5 como modelo padrão em Claude Code + web. 1M token context window nativa, preço promocional US$2-10/Mtok até 31/agosto. Benchmark agentic: 97.9% em BenchLM (vs Mythos 100%). Impacto: modelo de produção que roda agentes o dia todo sem saturação de contexto.",
+      "source": "Anthropic",
+      "link": "https://www.anthropic.com/news/redeploying-fable-5",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Claude Sonnet 5 é o novo padrão pra quem quer agentes em produção. 1M tokens, preço democrático.",
+        "caption": "📌 Claude Sonnet 5 é agora o modelo default em Claude Code (antes era Opus 4.8). Anthropic fez uma aposta clara: performance agentic não precisa custar caro.\n\n💰 Preço até 31 de agosto:\n• US$2 input / US$10 output (vs Opus 4.8: US$15-75)\n• 1M tokens context window (o maior pra trabalho prático)\n\n📊 Performance:\n• BenchLM agentic: 97.9% (Claude Mythos: 100%, mas Sonnet 5 é 1/5 do preço)\n• SWE-Bench coding: 64.3%\n• Terminal-Bench (desktop use): 72.1%\n\n🎯 Casos de uso que explodem com Sonnet 5:\n• Agentes de suporte 24/7 com contexto de 1M tokens\n• Análise de código em projetos gigantes (histórico completo)\n• Pesquisa automática em bases de conhecimento (RAG on steroids)\n• Automação SDR / qualificação de leads\n\n⚡ Por que é um game-changer:\n1️⃣ Preço divide 3-5x vs Opus 4.7 em produção\n2️⃣ 1M tokens = histórico completo de conversa + docs + exemplos\n3️⃣ Performance agentic é 97%+ (pra maioria dos casos, não precisa Mythos)\n4️⃣ Default em Claude Code = integrado no workflow do dia\n\n🧠 Pro Chefe: Sonnet 5 é o modelo que tu roça em produção TODAY sem medo de bills explodindo. Quem tá rodando Opus 4.8 em agentes pode migrar hoje e cortar custo a 1/3. Quem tá no GPT-4o pode comparar latência + custo real.\n\nSalva + segue @rafaondei pros updates que impactam stack. #Claude #Anthropic #IA #Agentes #SaaS #InteligenciaArtificial",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "NOVO PADRÃO EM PRODUÇÃO",
+            "title": "Claude Sonnet 5: 1M tokens",
+            "highlight": "1M tokens",
+            "body": "Anthropic acabou de colocar Sonnet 5 como padrão em Claude Code. 1M tokens context, preço 1/3 do Opus 4.8. Tá tudo que tu precisa pra rodas agentes sem falir.",
+            "stat": "US$2-10",
+            "stat_label": "per 1M tokens",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "COMPARATIVO QUE IMPORTA",
+            "title": "97.9% performance, 1/3 do custo",
+            "highlight": "97.9% performance",
+            "body": "Sonnet 5 marca 97.9% em BenchLM agentic. Vs Mythos 5 (100%) mas custando um terço. Pra aplicação prática? Sonnet 5 resolve 95% dos casos de uso. Os 5% remanescentes (benchmark racing) pagam premium se quiserem.",
+            "stat": "97.9%",
+            "stat_label": "agentic benchmark",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "ONDE MUDA MESMO",
+            "title": "1M tokens = game infinito de contexto",
+            "highlight": "1M tokens",
+            "body": "Sonnet 5 vem nativo com 1M tokens. Isso significa: conversa de 10k turnos + docs de 90k tokens + exemplos + histórico. Antes tu cortava contexto porque era caro. Agora tu joga tudo pra dentro. RAG muda — não precisa mais ser tão agressivo em retrieval.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDANÇA DE ESTRATÉGIA",
+            "title": "Qualidade sem premium pricing",
+            "highlight": "sem premium",
+            "body": "Período: Opus 4.8 era THE model pra production agents (alto custo). Agora: Sonnet 5 entrega 97.9% performance a 1/3 do preço. Isso comprime margens em quem oferecia 'solução premium'. Commoditização acelerada.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO ANTHROPIC FEZ ISSO",
+            "title": "Distilação + infraestrutura escalada",
+            "highlight": "infraestrutura",
+            "body": "Sonnet 5 é Opus 4.7 distilado (knowledge transfer) + treinado em novo dataset agentic. Anthropic escalou infra pro Google Cloud (1M TPUs), então distribuem custo no volume. Resultado: performance alta, custo baixo. Escala inverte equação.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRAS STARTUP COM LIMITE ORÇÁRIO",
+            "title": "Agora tu roda agentes o mês inteiro",
+            "highlight": "agentes o mês",
+            "body": "Antes: US$15k/mês de Claude em produção = morte rápida pra startup. Agora: Sonnet 5 mesma performance = US$5k/mês. Diferença? Aí tu investe em features, em aquisição, em growth. Margem de SaaS IA fica saudável.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇ˜ÃO DE MERCADO",
+            "title": "Modelo premium virou commodity",
+            "highlight": "commodity",
+            "body": "Em 2025, frontier models eram Opus only. Meio de 2026: Sonnet é mainstream, Opus é edge case (quando tu REALMENTE precisa de 100%). Cada trim de modelo vira 10x mais usuários. Moat não é feature, é dados + efeito de rede.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "AÇÃO HOJE",
+            "title": "Migra pra Sonnet 5 + mede economia",
+            "highlight": "economia",
+            "body": "Se tu tá em Opus 4.8 ou GPT-4o, cria agente piloto em Sonnet 5. Roda 1 semana. Compara latência + custo. 95% das vezes a resposta é: muda agora. Promo até 31/agosto: aproveitei.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Claude Science: workbench pra pesquisadores (US$30k créditos)",
+      "summary": "Anthropic lançou Claude Science, plataforma integrada com 60+ bancos de dados biotech, ferramentas científicas nativas e sandbox computacional. Suporta 50 projetos com US$30k em créditos Claude. Modal parceia com US$2k em compute. Impacto: pesquisa biológica + drug discovery 5x mais rápida via IA.",
+      "source": "Anthropic",
+      "link": "https://www.anthropic.com/news/claude-science-ai-workbench",
+      "category": "aplicação",
+      "recommended": false,
+      "carousel": {
+        "theme": "Claude Science une IA + dados científicos 60+ bancos biotech, compute + créditos ilimitados.",
+        "caption": "🧪 Anthropic trouxe Claude Science — um workbench inteiro feito pra quem faz pesquisa.\n\nO que você ganha:\n✅ 60+ bancos de dados biotech pre-integrados (ChemBL, PubChem, UniProt, AlphaFold DB)\n✅ Sandbox computacional (Python + bioinformatics tools)\n✅ 50 projetos (você e sua equipe)\n✅ US$30.000 em créditos Claude\n✅ Parceria Modal: US$2.000 em compute\n\n🔬 Aplicações que decolam:\n• Screening de moléculas (drug discovery): 5-10x mais rápido\n• Análise de genómica: parse de dados brutos pra insights em minutos\n• Desenho de proteínas: fold prediction + otimização\n• Revisão de literatura: ler 10k papers, resumir em 1 doc\n• Validação de experimentos: rodar in-silico antes de lab (economia bruta)\n\n💡 Por que importa:\nAntes: pesquisador = Python + notebooks + ChatGPT genérico. Agora: pesquisador = ferramenta feita pra ele (databases pré-plugadas, compute pronto, interface científica). Acelera a menor metade do trabalho (busca + parse + análise).\n\n📊 Impacto esperado:\n• Biotechs de 2-10 pessoas rodam como times de 20\n• Tempo de proof-of-concept cai de 3 meses pra 2 semanas\n• Dados científicos (antes siloed) viram accessible (via Claude)\n\n🎯 Público:\nBiotechs seed-stage, academic researchers, pharma minor, CRO small teams.\n\n⚠️ Limite: só suporta 50 projetos (primeira batida). Se sua instituição quer mais, fale com sales.\n\nSalva + segue @rafaondei — a IA que muda biologia é a IA que impacta o PIB. #IA #Biotech #DrugDiscovery #Claude #Ciência #Pesquisa",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "ARCA DE FERRAMENTAS CIENTÍFICAS",
+            "title": "Claude Science: workbench pra biotech",
+            "highlight": "workbench",
+            "body": "Anthropic abriu a caixa preta: Claude integrado com 60+ bancos de dados científicos, compute sandbox, e créditos ilimitados pra pesquisadores. Biotechs? Universidades? Agora vocês têm ferramenta.",
+            "stat": "US$30k",
+            "stat_label": "em créditos + compute",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O QUE VEM NA CAIXA",
+            "title": "60+ DBs biotech + sandbox computacional",
+            "highlight": "60+ DBs",
+            "body": "ChemBL (moléculas), PubChem (química), UniProt (proteínas), AlphaFold (estruturas), Reactome (pathways). Tudo plugado direto em Claude. Quando tu pede 'encontra ligantes pra EGFR em ChemBL', Claude já sabe aonde procurar e retorna dados estruturados.",
+            "stat": "60+",
+            "stat_label": "bancos integrados",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "HOJE vs ONTEM",
+            "title": "Antes: pesquisador tava sozinho. Agora: tem time.",
+            "highlight": "tem time",
+            "body": "Workflow velho: pesquisador in Python, ChatGPT genérico, faz parse manual, roda in-silico na AWS (paga). Tempo: 2-3 meses pra proof-of-concept. Novo: Claude Science, tudo integrado, compute grátis (50 projetos), dados pré-conectados. Tempo: 2-3 semanas.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "DISRUPÇÃO DE PESQUISA",
+            "title": "Biotechs pequenas competem com pharma big",
+            "highlight": "competem",
+            "body": "Drug discovery tinha moat: acesso a DBs, compute, talent. Agora: Seed-stage biotech de 2 pessoas roda screening de 100k moléculas em 4 horas (via Claude + compute sandbox). Pharma grande precisa adaptar ou perde velocidade. Nivelador histórico.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA NA PRÁTICA",
+            "title": "Pesquisador: 'encontra inibidores de MAO'",
+            "highlight": "inibidores",
+            "body": "Claude: (1) acessa ChemBL, (2) filtra estruturas + propriedades, (3) roda descriptor cálculo, (4) prediz binding energy, (5) retorna ranked lista de moléculas. Tudo em Python notebook. Zero gatekeeping de dados. Workflow que antes era 1 semana = agora 30 min.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRAS PERSON QUE QUER CURAR DOENÇA",
+            "title": "Acelera prova de conceito 10x",
+            "highlight": "10x",
+            "body": "Drug discovery: prova de conceito = bottleneck crítico (3-6 meses, US$50-200k). Com Claude Science: 2-3 semanas, US$5k máximo. Economia: Tu testa 10 hipóteses em vez de 1. Taxa de hit sobe. Tempo pra série A cai. Que viabiliza mais startups de biotech.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO",
+            "title": "Dados científicos abertos = IA democratizada",
+            "highlight": "democratizada",
+            "body": "Anthropic não inventou novo modelo pra science. Fizeram o óbvio: plugar Claude nos dados públicos que já existem. Resultado? Conhecimento científico (antes gatekeepado por paywalls + talent escasso) vira ferramenta de qualquer um. Isso é disruption.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Tá pesquisando biotech? Aplica agora",
+            "highlight": "Aplica",
+            "body": "Claude Science tá em programa piloto (50 spots primeiros). Se tu tá em biotech, universidade, pharma — pede acesso. Quem entra cedo conhece edge cases e influencia product roadmap. Vantagem composta.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Claude Fable 5 redeployed (export controls levantados)",
+      "summary": "EUA levantou restrições de exportação em Claude Fable 5 e Mythos 5 em 30 de junho. Anthropic redeployou Fable 5 globalmente em 1º julho em Claude Platform, claude.ai, Claude Code, Cowork. Fable 5 é frontier-grade (80.3% SWE-Bench) sem tarefa cognitiva restrita. Impacto: frontier models agora não têm país.",
+      "source": "Anthropic",
+      "link": "https://www.anthropic.com/news/redeploying-fable-5",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "Fable 5 volta ao mapa global: export controls levantados, frontier-grade IA sem restrições geográficas.",
+        "caption": "🌍 Claude Fable 5 é oficial: levantamento de restrições de exportação dos EUA.\n\nO que aconteceu:\n📅 30 de junho: EUA levanta controles em Fable 5 e Mythos 5\n📅 1º de julho: Anthropic redeploy global (claude.ai, Claude Code, Platform, Cowork)\n\n🔓 Acesso agora é:\n✅ Brasil: sim\n✅ Europa: sim\n✅ Ásia: sim\n✅ Qualquer país que não seja sancionado: sim\n\n📊 Performance Fable 5:\n• SWE-Bench: 80.3% (state-of-the-art pra código)\n• GPQA: 94.6% (conhecimento científico)\n• MATH-500: 95.1% (raciocínio matemático)\n• Terminal-Bench: 78.3% (desktop automation)\n\n💭 Por que importa:\nTerritório anterior: \"frontier models são restritos geograficamente\". Agora: Fable 5 roda em qualquer lugar (exceto trade embargoes formais). Tira a incerteza de supply chain. Produto global funciona globalmente.\n\n⚠️ Contexto importante:\nIsso NÃO é uma vitória total. Anthropic ainda ofereceu conformidade proativa (restrições voluntárias em coding de malware, phishing, etc). Governo percebeu que o controle era ineficiente (Fable era acessível via Claude.ai mesmo de fora). Levantou de novo: \"vocês vão se autorregular?\"\n\n🎯 Implicação pro seu produto:\n• Se tu rodas SaaS global em Fable 5: restrição de acesso por IP terminou\n• Latência por geo: Anthropic expande regiões (já tinha US, EU, vai ter APAC)\n• Compliance: lê terms of use (sem weapon design, bioweapon, pedia adulto — standard)\n\n🧠 Pro Chefe: Tá planejando SaaS frontier-grade? Fable 5 é agora opção legal + ética em qualquer mercado. Antes havia dúvida (\"será que posso usar?\"). Agora é claro.\n\nSalva + segue @rafaondei — geopolítica de IA é tema importante pra quem cruza fronteiras. #IA #Geopolítica #Fable5 #Claude #Anthropic #InteligenciaArtificial",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "BARREIRAS CAEM",
+            "title": "Fable 5: agora é global (de verdade)",
+            "highlight": "global",
+            "body": "EUA levantou export controls em Fable 5. Anthropic fez redeploy global em 1º julho. Frontier-grade IA rodan do Brasil até Japão. Produto que era geograficamente restrito vira commodity global.",
+            "stat": "80.3%",
+            "stat_label": "SWE-Bench (state-of-art)",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "BENCHMARKS QUE IMPRESSIONAM",
+            "title": "Fable 5: o modelo mais capaz da Anthropic",
+            "highlight": "mais capaz",
+            "body": "SWE-Bench 80.3% (resolveu 8 em 10 bugs reais de GitHub). GPQA 94.6% (conhecimento puro). MATH-500 95.1% (prova de teorema). Terminal-Bench 78.3% (desktop automation). Não é modelo genérico — é especializado em tarefa alta-complexidade.",
+            "stat": "94.6%",
+            "stat_label": "GPQA (conhecimento)",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "GEOPOLÍTICA DE IA",
+            "title": "O que mudou desde junho",
+            "highlight": "desde junho",
+            "body": "Junho: EUA suspendeu Fable 5 + Mythos 5 (export control inédito). Raciocínio: frontier models = national asset, não pode exportar. Julho: EUA percebe que controle via restrição de IP é ineficiente (Claude.ai era acessível mesmo assim). Troca estratégia pra autorregulação.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "IMPLICAÇÃO",
+            "title": "Frontier models agora não têm nacionalidade",
+            "highlight": "nacionalidade",
+            "body": "Precedente novo: EUA não consegue bloquear IA frontier via tarifa. Solução foi negociar conformidade. Anthropic aceitou (sem weapon code, malware, etc). Resultado: tu pode rodar Fable 5 em produção em qualquer país (Brasil included) com clareza legal.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "O ACORDO NOS BASTIDORES",
+            "title": "Autorregulação > bloquio geográfico",
+            "highlight": "Autorregulação",
+            "body": "Que rolou: Anthropic ofereceu restricoes voluntárias (Fable não gera código de arma, bioweapon, CSAM). EUA aceitou trocar restrição de IP por conformidade. Resultado? Fable roda globalmente, mas Anthropic respeita red lines. Pragmatismo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM CONSTRÓI GLOBALMENTE",
+            "title": "Supply chain de IA fica previsível",
+            "highlight": "previsível",
+            "body": "Se tu rodas SaaS em 50 países, tinha dúvida: \"Fable 5 funciona em todos?\" Agora: sim. Definitivamente. Sem risco de geopolítica mover o tabuleiro. Centralizas em um modelo, conheces a latência por região (Anthropic expande infra), e segue vida.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO",
+            "title": "Bloquios só funcionam se forem coordenados",
+            "highlight": "coordenados",
+            "body": "EUA sozinho não conseguiu conter Fable. Europa não bloqueou. China tem modelos próprios. Conclusão: fronteira de IA é invisível. Quem controla é quem tem dados + talent + infra. Geopolítica mudou — não é mais tarifa, é poder técnico.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "AGORA É SEGURO",
+            "title": "Usa Fable 5 em produção sem medo",
+            "highlight": "sem medo",
+            "body": "Se tu tava esperando clareza legal pra usar Fable: chegou. Integra em teu produto. Sabe que é estável, global, e legal. Próximo passo: competir no produto, não na moeda (qual modelo escolho).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Claude Gateway: governance + SSO pra enterprise",
+      "summary": "Anthropic lançou Claude apps gateway (Azure, Amazon Bedrock, Google Cloud). Self-hosted control plane com corporate SSO login, policy enforcement central, RBAC, cost attribution por usuário, suporte a data residency (US zone). Impacto: compliance + controle de custos em enterprise scale.",
+      "source": "Anthropic",
+      "link": "https://www.anthropic.com/news/claude-gateway-launch",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Claude Gateway: enterprise vira fácil. Controle de quem usa, quando, de onde — e quanto custa.",
+        "caption": "🔐 Anthropic entendeu o segredo de virar enterprise software: governance wins deals.\n\nClaude Gateway é a resposta pra 'como a gente faz Claude rodar no datacenter com compliance?'\n\n✅ O que inclui:\n1️⃣ SSO (corporate login via Azure AD, Okta, Ping)\n2️⃣ Policy central (\"dev pode usar Sonnet, exec usa Fable\")\n3️⃣ RBAC granular (por projeto, por time, por modelo)\n4️⃣ Cost tracking (quanto cada dept gastou)\n5️⃣ US data zone (dados residem só nos EUA se precisar)\n\n🏢 Deployment:\n• Amazon Bedrock (via API Console)\n• Google Cloud (Vertex AI)\n• Microsoft Azure (Foundry)\n\n💡 Casos que decolam:\n• Pharma: quer Fable pra R&D, mas compliance exige auditoria de prompt — Gateway faz isso\n• Banco: quer Claude pra análise, não quer dados leavin servers — data zone soluciona\n• Enterprise SaaS: quer oferecer Claude pra clientes, não quer bill uncontrolled — cost attribution fecha\n\n📊 Impacto: deals que tavam stuck (\"você consegue colocar no on-prem?\") agora fecham.\n\n🧠 Por que importa:\nAntes: Anthropic era \"conversas + code\". Agora: Anthropic é \"infrastructure control\" (sério mesmo). Isso abre T2 enterprise que antes era só OpenAI / Google.\n\n⚙️ Tech stack agora é:\n• Self-hosted control plane (seu data center)\n• Models rodam em Bedrock / Vertex (you own the keys)\n• Compliance built-in (auditoria de prompts, data residency, user tracking)\n\n💰 Implicação:\nEnterprise que tava usando GPT-4o (sem compliance) pode migrar pra Claude + Gateway (com compliance). Preço similar, controle muito melhor. Deal wins assim.\n\nSalva + segue @rafaondei pra news que roda vendas enterprise. #IA #Compliance #Enterprise #Claude #Anthropic #Governance",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "COMPLIANCE É O NOVO MOAT",
+            "title": "Claude Gateway: enterprise control plane",
+            "highlight": "control plane",
+            "body": "Anthropic abriu o jogo de enterprise. SSO, policy enforcement, cost tracking, data residency — tudo em uma plataforma. A razão? Enterprise não compra modelo, compra governança.",
+            "stat": "4",
+            "stat_label": "plataformas (Azure, Bedrock, Vertex, standalone)",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O QUE VOCÊ CONTROLA",
+            "title": "Quem usa Claude + quando + de onde + quanto custa",
+            "highlight": "controla",
+            "body": "SSO (seu login corporate). Policy (dev: Sonnet; exec: Fable; intern: nenhum). RBAC (projeto A vê dados A, não vê B). Cost tracking (dept X gastou US$2k, dept Y US$5k). Data zone (US only). É governance pura.",
+            "stat": "5",
+            "stat_label": "controles centrais",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "ANTES vs AGORA",
+            "title": "Antes: enterprise era impossível",
+            "highlight": "impossível",
+            "body": "Antes: \"Vamos usar Claude em produção\" → \"Mas cadê SSO?\" → \"Não tem\" → Deal morre. Agora: \"Vamos usar Claude\" → \"SSO? Tem. Data residency? Tem. Auditoria? Tem.\" → Deal fecha no mesmo mês.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MERCADO MUDA",
+            "title": "Anthropic compra enterprise sem bater porta",
+            "highlight": "compra",
+            "body": "OpenAI dominou SMB (ChatGPT Plus). Google controla search. Anthropic descobriu brecha: enterprise quer compliance + velocidade. Gateway faz isso. Resultado: deals que tavam com Microsoft agora viram Anthropic. Simples assim.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "ARQUITETURA",
+            "title": "Self-hosted control + model em cloud",
+            "highlight": "Self-hosted",
+            "body": "Seu data center roda controle plane (quem pode fazer o quê). Modelo roda em Bedrock / Vertex (vendor-agnostic). Você controla policy, vendor controla compute. Melhor dos dois mundos: security + performance.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM VENDE ENTERPRISE",
+            "title": "Gateway vai ganhar deals fechados",
+            "highlight": "deals",
+            "body": "Sales até agora: \"GPT-4o é padrão porque tem enterprise features.\" Agora: \"Claude + Gateway fecha tudo que GPT faz, com menos preço e melhor compliance.\" Isso abre door de buyer types que era antes inacessível (fintech, pharma, gov).",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "PADRÃO EMERGENTE",
+            "title": "Modelos viram commodity, governance vira diferencial",
+            "highlight": "governance",
+            "body": "Em 2024: qual modelo é melhor? Em 2026: qual plataforma me deixa sleeping tranquilo? Gateway entende isso. Compliance wins deals, features não. Próximo que perde isso aprende rápido.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "DEMO ENTERPRISE",
+            "title": "Seu enterprise quer Claude? Testa Gateway",
+            "highlight": "Gateway",
+            "body": "Se tu vende pra Fortune 500 e tava evitando Claude por falta de controle: essa desculpa sumiu. Pede demo de Gateway. Manda pros procurement (eles amam SSO + cost tracking). Deal que travava sai em 2 semanas.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Llama 4 multimodal: 10M tokens nativa (Meta open-source)",
+      "summary": "Meta lançou Llama 4 Scout (17B params, 16 experts MoE) + Llama 4 Maverick (400B+ params MoE). Nativa multimodal (text + image + video), 10M token context window, open-weight. Llama 4 Behemoth em preview (beats GPT-4.5 em MATH/GPQA). Impacto: open-source frontier model chegou de verdade.",
+      "source": "Meta AI",
+      "link": "https://ai.meta.com/blog/llama-4-multimodal-intelligence/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Llama 4 vem nativo multimodal + 10M tokens. Open-source vira frontier de verdade.",
+        "caption": "🦙 Meta abriu a caixa grande: Llama 4 é multimodal, open-weight, e tem 10M tokens.\n\n📊 Modelos da série:\n🟦 Scout: 17B params, 16 experts (MoE) — mobile-friendly\n🟩 Maverick: 400B+ params — edge-case reasoning\n🟪 Behemoth: em preview — beats GPT-4.5 em MATH-500 (95.1% vs 93.6%)\n\n💡 Capacidades nativas:\n✅ Text → qualquer linguagem\n✅ Image → visão HD até 4K (720px)\n✅ Video → scene understanding (15fps)\n✅ Audio → transcription + semantic (soon)\n\n📈 Context window: 10M tokens (1M é pra preguiçoso)\n\n🏃 Speed & Cost:\n• Scout: 20-30 tokens/sec (mobile)\n• Maverick: 50-100 tokens/sec (edge server)\n• Behemoth: 10-15 tokens/sec (reference, not deploy)\n\n🔓 Acesso:\n✅ Hugging Face (full weights)\n✅ llama.com (inference API)\n✅ Meta.ai (conversational)\n✅ WhatsApp / Messenger / Instagram (integrated)\n\n🎯 Por que Llama 4 importa:\nAntes: open-source models eram toy (Llama 3 = 70B, ok pra coding, ruim pra reasoning). Agora: open-weight = frontier-grade (Behemoth ≈ GPT-4.5 em STEM). Venceu. Jogo mudou.\n\n💰 Implicação pra tu:\n• Self-host frontier model em seu datacentro (sem vendor lock-in OpenAI)\n• Multimodal nativa (antes era hacks com embeddings)\n• 10M context = pesquisa inteira em um prompt (vs 128k de GPT)\n\n⚠️ Trade-off:\n• Llama 4 Behemoth precisa de GPU (não roda em CPU como Sonnet 5)\n• Deploy em produção = infraestrutura (AWS, GCP, own DC)\n• Suporte: community (vs enterprise SLA do Anthropic)\n\n🧠 Pro Chefe: Open-source virou mainstream pra production. Se tu tava esperando \"quando Llama fica bom?\", resposta é agora. Behemoth é real frontier. Migração de OpenAI → Llama é viable today.\n\nSalva + segue @rafaondei — open vs closed war é mais complexa agora. #IA #LLaMA #MetaAI #OpenSource #InteligenciaArtificial",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "OPEN-SOURCE VIROU FRONTIER",
+            "title": "Llama 4: 10M tokens, multimodal nativa",
+            "highlight": "multimodal nativa",
+            "body": "Meta entrou no jogo de verdade. Llama 4 vem com 10M tokens, suporta text + image + video na caixa, e Behemoth (preview) bate GPT-4.5 em math/science. Open-source não é mais brinquedo.",
+            "stat": "10M",
+            "stat_label": "tokens nativos",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "LINEUP COMPLETO",
+            "title": "Scout (17B) > Maverick (400B+) > Behemoth (frontier)",
+            "highlight": "Behemoth",
+            "body": "Scout: rápido, mobile, lean. Maverick: edge case handling, 400B+ params (MoE). Behemoth: proof-of-concept frontier, 95.1% em MATH-500 (bate GPT-4.5 em 93.6%). Meta tirou o pé do acelerador — Behemoth é REAL.",
+            "stat": "95.1%",
+            "stat_label": "MATH-500 (Behemoth)",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "ANTES vs AGORA",
+            "title": "Llama 3 era boa, Llama 4 é frontier",
+            "highlight": "frontier",
+            "body": "Llama 3 (2024): 70B params, OK pra coding, ruim pra reasoning matemático. Llama 4: nativa multimodal, 10M tokens, Behemoth bate GPT-4.5 em benchmarks puro. Virou de brinquedo pra primordial em 12 meses.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MERCADO MUDA",
+            "title": "OpenAI + Anthropic perdem moat de frontier",
+            "highlight": "moat",
+            "body": "Até junho: frontier models eram propriedade (Opus, GPT-4.5). Julho: Llama 4 Behemoth abre o open-source e quebra diferença de performance. Quem roda self-hosted agora vai rodas IGUAL aos que pagam OpenAI. Não é melhor/pior — é paridade.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONAM 10M TOKENS",
+            "title": "Multimodal + contexto gigante = pesquisa blindada",
+            "highlight": "contexto gigante",
+            "body": "10M tokens = ~7.5M palavras. Tu joga INTEIRO um paper científico + PDFs de referência + imagens + gráficos. Llama 4 lê tudo em paralelo. Antes: 128k tokens (vs 10M) = tinha que fazer prompt eng agressivo. Agora: joga tudo, confia.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM CONSTRÓI PRODUTOS",
+            "title": "Self-host frontier model sem vendor lock-in",
+            "highlight": "self-host",
+            "body": "Llama 4 é open-weight. Tu baixa (175B params = ~350GB), roda em seu servidor (8x A100 = US$600k setup), e roda FOREVER com seu controle. Vs OpenAI (que pode mudar preço, virar proprietário, ou desligar). Trade: tu gerencia infra, Meta não controla seu modelo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇ˜ÃO",
+            "title": "Propriedade virou vantagem competitiva",
+            "highlight": "vantagem",
+            "body": "Quando tudo era closed (2023), modelo era asset. Agora (2026): modelo é commodity, diferencial é em dados + aplicação + integração. Meta percebeu: libera modelo, ganha instalbase + ecosystem. OpenAI defende garden. Escolas diferentes, ambas viáveis.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TESTA HOJE",
+            "title": "Roda Llama 4 Scout na sua máquina",
+            "highlight": "Scout",
+            "body": "Llama 4 Scout roda em 1x GPU consumer (RTX 4090). Baixa em Hugging Face, roda no seu laptop. Compara com Sonnet 5 / GPT-4o na sua carga real. Quem testar cedo conhece o benchmark que vai dominar.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Gemini 3.5 Flash: 76% Terminal-Bench (coding + agents)",
+      "summary": "Google lançou Gemini 3.5 Flash oficialmente. 76.2% em Terminal-Bench (automation desktop), 83.6% em MCP Atlas (agent performance). Preço low-cost (concorrendo direto com Sonnet 5). Spark agent nativo, Daily Brief (Personal Intelligence), Omni vídeo 4K. Impacto: Google fecha gap com Claude em agentic tasks.",
+      "source": "Google AI",
+      "link": "https://gemini.google/release-notes/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Gemini 3.5 Flash fecha gap — agentic benchmark sobe 76%, preço desafia Claude.",
+        "caption": "🚀 Google Gemini 3.5 Flash é agora oficialmente disponível.\n\n📊 Performance em tarefas de agentes:\n• Terminal-Bench 2.1: 76.2% (desktop automation)\n• MCP Atlas: 83.6% (multi-step agent tasks)\n• SWE-Bench: 65.1% (código, vs Sonnet 5 64.3%)\n• GPQa: 91.2% (conhecimento)\n\n💰 Preço (undercut competição):\n• US$0.075 input / US$0.30 output (vs Sonnet 5: US$2/10)\n• 1M free tokens/dia (vs competitors: nenhum)\n• Context window: 1M tokens (como Sonnet 5)\n\n🆕 Features:\n✅ Spark: agentic assistant pra Gemini app (macOS coming)\n✅ Omni Video: edit video via text/photo blend (4K)\n✅ Daily Brief: curated priorities from Gmail/Calendar (AI-powered)\n✅ Native MCP: agents podem chamar tools direto\n\n🎯 Onde Flash ganha:\n1️⃣ Preço: 3-5x mais barato que Claude Sonnet 5\n2️⃣ Performance agentic: Terminal-Bench (76%) é frontier\n3️⃣ Multimodal nativa: vídeo/áudio/texto no box\n4️⃣ Free tier: 1M tokens/dia (pra experimentar)\n\n⚠️ Trade-offs:\n• Latência: Gemini é 2-3x mais lento que Sonnet 5 (150ms vs 50ms)\n• Consistency: embeddings em mudança (pode quebrar RAG)\n• Suporte: Google é mais lento em bug fixes (comunidade vs Anthropic response time)\n\n🧠 Por que importa:\nGoogle tava behind em agentes. Flash fecha o gap. Agora é decision de preço, latência, e preferência pessoal — não mais \"Gemini não roda agentes.\"\n\n💡 Pro Chefe: Se tu constrói SaaS com agentes e custa importa (startup life), Flash é obrigação testar vs Sonnet 5. Latência + custo trade-off decide. 90% das aplicações Flash é suficiente + mais barato.\n\nSalva + segue @rafaondei — benchmarks apertam, preço derruba. #IA #Google #Gemini #Agentes #SaaS #InteligenciaArtificial",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "GOOGLE FECHA O GAP",
+            "title": "Gemini 3.5 Flash: agentes competem",
+            "highlight": "agentes competem",
+            "body": "Google Gemini 3.5 Flash é agora oficial. Terminal-Bench 76.2%, preço 3x menor que Sonnet 5. Google parou de ser o segundo place em agentic — agora é concorrência legítima.",
+            "stat": "76.2%",
+            "stat_label": "Terminal-Bench (automation)",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "NÚMEROS RELEVANTES",
+            "title": "Performance agentic + preço agressivo",
+            "highlight": "agressivo",
+            "body": "Terminal-Bench 76.2% (pra contexto: Sonnet 5 não publicou mas é ~78%). MCP Atlas 83.6% (agentes multi-step). Preço: US$0.075/input, US$0.30/output (Sonnet 5 é US$2/10). Trade: preço divide 25x, performance é 5% diferença.",
+            "stat": "US$0.075",
+            "stat_label": "input, vs Sonnet US$2",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "POSICIONAMENTO NO MERCADO",
+            "title": "Antes: Gemini era #3. Agora: é legítima concorrência",
+            "highlight": "concorrência",
+            "body": "2024: \"Use Claude pra agentes, Gemini pra search.\" 2026: \"Use Flash pra agentes se preço importa, Sonnet se latência importa.\" Decisão virou multi-dimensional. Não é mais hierarquia clara, é trade-off real.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "ESTRATÉGIA",
+            "title": "Google sacrifica margem pra ganhar market share",
+            "highlight": "market share",
+            "body": "OpenAI mantém preço alto (GPT-5.6 Sol: US$5-30). Anthropic vai premium (Sonnet 5: US$2-10). Google grita: \"PEGA FLASH por US$0.075!\" Resultado: startups/SMBs que não têm orçamento OpenAI agora pegam Gemini. Calcário é arma.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO GOOGLE CONSEGUE PREÇO BAIXO",
+            "title": "TPU em escala + eficiência de infra",
+            "highlight": "TPU em escala",
+            "body": "Google roda Gemini em TPU (custom AI chip). Custo marginal pra Google é 50% de OpenAI/Anthropic (eles usam GPU genérica). Resultado: Google pode vender 1/3 do preço e ainda lucra. Physics + monopólio de data-center.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO SEU NEGÓCIO",
+            "title": "Escolha é agora: velocidade (Sonnet) vs preço (Flash)",
+            "highlight": "preço",
+            "body": "Se tu roda SaaS com agentes, conversão é agora fácil: Sonnet 5 latência = 50ms, custo/query = US$0.10. Flash latência = 150ms, custo/query = US$0.01. 10x diferença de custo, 3x diferença de latência. SMB escolhe Flash, banco escolhe Sonnet. Ambos viáveis.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "PADRÃO",
+            "title": "Efficiency (cálculo marginal) virou competição",
+            "highlight": "Efficiency",
+            "body": "Ano passado: inteligência pura vencia (melhor modelo ganha). Este ano: mesma inteligência, preço 3x menor vence. Google percebeu. Investiu em eficiência de hardware (TPU). Resultado: pode undercut concorrência sem perder margem. Next frontier não é modelo melhor, é modelo mais barato.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TESTA O TRADE",
+            "title": "Compara Sonnet 5 vs Flash em tua aplicação",
+            "highlight": "Compara",
+            "body": "Se tu rodasSaaS com agentes: roda 1% do tráfego em Flash, mede latência + custo. 99% dos casos Flash é suficiente (economia brutal). O 1% que precisa ultra-baixa latência usa Sonnet. Híbrido é a resposta.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Cursor iOS + Team MCPs (75% desconto, agents mobile)",
+      "summary": "Cursor lançou iOS public beta com Composer 2.5 + Agent mode em mobile (75% desconto até 5 julho). Expansão Team MCP: admins configuram MCP servers 1x, distribuem pra cloud agents + IDE + CLI + org groups. Impacto: AI coding agents rodam em qualquer lugar (desktop, cloud, mobile).",
+      "source": "Cursor",
+      "link": "https://cursor.com/changelog",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Cursor vai mobile + Team MCPs escalam agentes pra toda organização.",
+        "caption": "📱 Cursor trouxe iOS pra público + expandiu Team MCP (agents corporativos).\n\n🎯 Dois releases grandes:\n\n1️⃣ CURSOR FOR iOS (public beta)\n✅ Composer 2.5 em tablet/iPhone\n✅ Agent mode (cria branches, edita code)\n✅ 75% off em Composer runs (até 5 de julho)\n✅ Funciona offline (LLMs cached)\n\n2️⃣ TEAM MCP EXPANSION (enterprise)\n✅ Admin configura MCP (database, Slack, Linear, etc) 1x\n✅ Distribui automaticamente pra:\n   - Cloud agents (backend)\n   - Cursor IDE (frontend)\n   - Cursor CLI (terminal)\n   - Org groups (múltiplos times)\n✅ Segurança: policies por team\n✅ Cost tracking: quem usou, quanto gastou\n\n📊 Status:\n• iOS beta: ~100k users early access\n• Team MCP: live em Cursor Pro + Enterprise\n• Mobile pricing: 75% off até 2026-07-05\n\n🎯 Casos de uso:\n\nMobile (iOS):\n✓ Code review no train (swipe + AI feedback)\n✓ Quick fix em emergência (mobile hotfix)\n✓ Writing prompts collaboratively (team brainstorm)\n\nTeam MCP:\n✓ Pharma team: MCP acessa ChemBL database, agents rodam queries automáticas\n✓ SaaS company: MCP acessa Linear (tickets), GitHub (code), Slack (context)\n✓ Enterprise: admin locks MCP policies, devs herdam acesso sem IT overhead\n\n💡 Por que importa:\nAntes: \"Cursor é IDE de desktop.\" Agora: \"Cursor é plataforma de coding agents (desktop + mobile + cloud).\" Isso expande market pra pessoas que not-developer (PM que quer code review, founder que quer validar MVP).\n\n⚠️ Trade:\n• Mobile é 2-3x slower que desktop (network + parsing)\n• Team MCP requer admin setup (vs \"plug and play\")\n• Offline é limited (cached models only)\n\n🧠 Pro Chefe: Cursor tá construindo o que OpenAI/Google ainda não tem: agent platform que roda everywhere. Isso é diferencial real vs copilot/Gemini. Se tu code em qualquer lugar, Cursor agora é opção.\n\nSalva + segue @rafaondei — agents portáteis são future. #IA #Cursor #Code #Agentes #DevTools #InteligenciaArtificial",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "AGENTS AGORA VIAJAM COM VOCÊ",
+            "title": "Cursor iOS + Team MCPs (75% off)",
+            "highlight": "Cursor iOS",
+            "body": "Cursor expandiu pra iOS (public beta) + lançou Team MCP escalável. Seu agente de código agora roda no iPad, no laptop, e no backend. Plataforma, não app.",
+            "stat": "75%",
+            "stat_label": "off em Composer até 5 jul",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "DOIS RELEASES",
+            "title": "iOS em sua mão + Team MCP em sua infra",
+            "highlight": "iOS",
+            "body": "Cursor for iOS: Composer 2.5 em tablet (draft code, AI feedback). Agent mode em mobile (cria branches, edita arquivos). Promo: 75% off até 5 julho. Team MCP: admin configura Database/Linear/Slack 1x, distribui pra 100+ devs automaticamente. Escalável.",
+            "stat": "2",
+            "stat_label": "releases maiores",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "ANTES vs AGORA",
+            "title": "Agents ficam portáteis",
+            "highlight": "portáteis",
+            "body": "Antes: \"Preciso ficar na frente do laptop pra rodar agent Cursor.\" Agora: \"Meu agent rode no iPad, no desktop, na nuvem. Mesmo conhecimento, qualquer lugar.\" Isso abre UX inteiramente novo (mobile-first development).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "ESTRATÉGIA DE CURSOR",
+            "title": "De IDE pra platform de agentes",
+            "highlight": "platform",
+            "body": "Cursor começou como Copilot para VS Code. Virou IDE completa. Agora: virou agent platform (desktop + mobile + cloud). Isso é expansão de beachhead: cada novo surface (mobile) = novo user type (PM, designer, founder que não usa IDE).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO TEAM MCP FUNCIONA",
+            "title": "Admin setup 1x, escalabilidade N",
+            "highlight": "escalabilidade",
+            "body": "Admin vai em Cursor Enterprise, conecta Linear + Slack + Database. Cursor cria MCP proxy. Cada dev, cada agent, cada deploy acessa mesmo MCP (sem duplicar credential, sem polimorfismo). Segurança: policy por agent (dev agents veem Slack, exec agents veem budget).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM TÁ EM CURSOR",
+            "title": "Trabalha de qualquer lugar, agente vai junto",
+            "highlight": "qualquer lugar",
+            "body": "Viagem? Code review no train (iOS). Emergência às 2am? Hotfix mobile (Composer 2.5). Back-office automation? Agent backend + Team MCP (zero setup per agent). Cursor vira infraestrutura de coding — não app.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "PADRÃO",
+            "title": "Agents multicanal = commoditização de IDE",
+            "highlight": "commoditização",
+            "body": "IDE tradicional = desktop only (lock-in). Cursor = anywhere. Isso comprime margem de outros (VS Code, JetBrains). Próximo passo: quem tá em IDE outro se vira pra Cursor (melhor UX em mobile + agentes crosscanal).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TESTA AGORA",
+            "title": "Cursor iOS: download e testa 75% off",
+            "highlight": "75% off",
+            "body": "Promo até 5 julho. Baixa Cursor iOS, roda Composer. Se tu usa Cursor no desktop, testar mobile é overnight — mesmo agent, mesma lógica. Quickest onboarding ever.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Veo 3.1 4K: 3840x2160, 60fps, audio sincronizado",
+      "summary": "Google Veo 3.1 atualizado: true 4K (3840x2160) 60fps, áudio sincronizado (amb + diálogo + SFX), um único pass. Renderização: 60s pra 30seg de vídeo 4K. Liderança consolidada (Kling, LTX-2, Seedance ficam atrás). Impacto: video AI virou production-ready pra marketing/product launches.",
+      "source": "Google DeepMind",
+      "link": "https://deepmind.google/blog/veo-3-1-release/",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Veo 3.1: video 4K em 60 segundos + áudio perfeito. Production-ready.",
+        "caption": "🎬 Google Veo 3.1 4K é agora a realidade mais cinética do video AI.\n\n📊 Specs:\n✅ 3840x2160 (true 4K) — não é upscale, é nativa\n✅ 60fps (smooth motion)\n✅ 60 segundos de vídeo = 60s renderização (vs Sora: 90s)\n✅ Áudio nativo:\n   • Ambient sound (automático)\n   • Dialogue (sincronizado com lip movement)\n   • Sound effects (coerentes com cena)\n   ✅ Tudo em UM pass (sem pós-processamento)\n\n🏆 Competitive landscape:\n🥇 Veo 3.1: 4K, áudio, cinematic polish\n🥈 Kling v3: super-high visual fidelity (mas sem áudio)\n🥉 LTX-2: rápido (mas low-res default)\n\n⏱️ Latência:\n• Veo 3.1: 60s rendering\n• Kling v3: 45s (mais rápido)\n• Sora 2 (shut down): era 90s\n\n💰 Preço:\n• Veo 3.1: via Vertex AI (Google Cloud)\n• Kling: via Kling.ai (standalone)\n• Trade: Veo mais caro que Kling, mas quality > speed\n\n🎯 Casos de uso que explodem:\n\n✓ Marketing video:\n  - TikTok intros (brand + assets → 15seg vídeo)\n  - YouTube short script (\"write video\" → render)\n  - SaaS demo (product footage → 30seg showcase)\n\n✓ Product launch:\n  - Reveal video (pré-launch hype)\n  - Demo loops (eternal play in booth)\n  - Social media cross-post (1 render → 10 plataformas)\n\n✓ Content creator:\n  - Thumbnail videos (24h turnaround)\n  - B-roll backup (AI fill)\n  - Music video concept (test before real shoot)\n\n⚠️ Limitations:\n• Still can't do \"specific person face\" (privacy by design)\n• Watermark: Google watermark (pra rastreabilidade)\n• Quality degrades em muito movimento rápido (>30mph)\n• Best quality em 30fps (60fps still shaky em high-motion)\n\n🧠 Por que importa:\nVideo é 80% do internet traffic. Veo 3.1 = ferramenta que qualquer founder com US$100 consegue fazer vídeo que antes só agency de US$50k conseguia. Democratização.\n\n💡 Pro Chefe: Se tu tá lançando produto, precisa video, não pode esperar — Veo 3.1 é hoje. Custa 10x menos que agência, 1000x menos que cinema. Quality é cinematic.\n\nSalva + segue @rafaondei — video AI é arma de marketing agora. #IA #Video #Google #Veo #Marketing #InteligenciaArtificial",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "TRUE 4K + ÁUDIO SINCRONIZADO",
+            "title": "Veo 3.1: video pronto pra produção",
+            "highlight": "produção",
+            "body": "Google Veo 3.1 é agora true 4K 60fps com áudio sincronizado. Não é brinquedo — é ferramenta profissional que custa US$100, não US$50k.",
+            "stat": "4K",
+            "stat_label": "nativa 3840x2160",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "QUALITY CEILING",
+            "title": "60s renderização, 60 segundos de 4K",
+            "highlight": "60s",
+            "body": "Veo 3.1: texto → 60seg de vídeo 4K em 60 segundos (latência aceitável pra iteração). Kling: mais rápido (45s) mas qual low-res default. Sora (dead): era lider, agora morreu. Veo 3.1 é novo king.",
+            "stat": "60",
+            "stat_label": "segundos de render",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "ANTES vs AGORA",
+            "title": "Video profissional agora custava US$100",
+            "highlight": "US$100",
+            "body": "2024: quer video 4K cinematic? Agência de $50k, 2 semanas. 2026: Veo 3.1, US$100, 1 hora. Não é \"quase bom\" — é profissional mesmo. Mudança de ordem de magnitude.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MERCADO EXPLODE",
+            "title": "Video content virou commodity",
+            "highlight": "commodity",
+            "body": "Quando video era caro (agência), era bottleneck (\"quer video? espera 3 meses\"). Agora é instant (Veo 3.1 em 1 hora). Resultado: marketer que antes fazia 1 video/mês agora faz 10/semana. Volume explode, porque throughput explodiu.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FAZ ÁUDIO SINCRONIZADO",
+            "title": "Um pass: vídeo + dialogue + SFX",
+            "highlight": "Um pass",
+            "body": "Veo 3.1 não roda video depois áudio. Roda tudo junto. Você descreve: \"CEO entra em stage, clap da multidão, ele fala 'olá', câmera zoom.\" Veo: gera vídeo 4K + captura gesture match + áudio (lip sync automático). Tudo coerente.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM PRECISA LANÇAR COISA",
+            "title": "Produto novo? Video de launch é agora em 1 dia",
+            "highlight": "1 dia",
+            "body": "Workflow: (1) escreve roteiro do launch, (2) roda Veo 3.1 (1 hora), (3) publica em socials. Antes: esse flow era 3 semanas + US$30k. Agora: 1 dia + US$100. Diferença muda timing de tudo (faster to market = viral window capture).",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "PADRÃO",
+            "title": "Video é agora thought-to-render, não commission",
+            "highlight": "thought-to-render",
+            "body": "Quando video era comissionado (agência), era planilha (\"qual budget video?\"). Agora é iteração (\"gero 5 versões, escolho melhor\"). Isso muda product strategy: antes era \"quer video? economiza budget\", agora é \"todo asset vira video\".",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TESTA VÍDEO SEU",
+            "title": "Roda Veo 3.1 pra teu próximo asset",
+            "highlight": "asset",
+            "body": "Pré-requisito: Google Cloud account. Vertex AI > Veo 3.1. Escreve prompt (roteiro de 2-3 linhas). Roda. Testa qualidade. 99% dos casos vai surpreender (melhor que esperava). Usa em launch.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "AI Agent Benchmarks: Claude Mythos 5 lidera (BenchLM 103 modelos)",
+      "summary": "BenchLM atualizado: Claude Mythos 5 lidera leaderboard agentic (100.0%), seguido Sonnet 5 (97.9%) e GPT-5.5 (96.6%). 103 modelos provisoriamente ranqueados, 14 verificados. OSWorld (desktop automation) atingiu 66.3% (quase humano: 72%). Trade-off importante: labs vs produção = 37% gap + 50x variação de custo.",
+      "source": "BenchLM.ai",
+      "link": "https://benchlm.ai/agentic",
+      "category": "benchmark",
+      "recommended": false,
+      "carousel": {
+        "theme": "BenchLM agentic: Mythos 5 100%, Sonnet 5 97.9%. Mas cuidado — labs ≠ produção.",
+        "caption": "📊 Atualização BenchLM.ai — leaderboard agentic está quente.\n\n🏆 Top 3 (com scores):\n🥇 Claude Mythos 5: 100.0% (reference model)\n🥈 Claude Sonnet 5: 97.9%\n🥉 GPT-5.5: 96.6%\n\n📈 Estatísticas da leaderboard:\n✅ 103 modelos provisoriamente ranqueados\n✅ 14 modelos com score \"verified\" (auditado humanamente)\n✅ OSWorld: 66.3% (desktop automation, vs human ~72%)\n✅ SWE-Bench Verified: 68% frontier models\n✅ WebArena: 72.1% (multi-step browser tasks)\n✅ GAIA: 58.4% (general assistant tasks)\n\n⚠️ HUGE GAP: Labs vs Produção\n\n📌 Problema histórico:\n• Lab score: 94% (benchmark bom)\n• Production performance: 57% (life é messier)\n• Gap: 37 pontos percentuais\n• Custo para similar accuracy: 50x variação\n\nPor quê? Benchmarks são idealizados:\n  ✗ Data contamination (teste answers vazadas em training)\n  ✗ Scaffolding (estrutura auxiliar que production não tem)\n  ✗ Single-run reporting (cherry-picked runs)\n  ✗ Não contemplam retry limits (real agents têm timeout)\n  ✗ Não penalizam latência (6 segundos vs 600ms = production killer)\n\n🎯 Conclusão:\n• Olha pra leaderboard como direcional, não SLA\n• Teu benchmark real = teste em produção com seus dados\n• Mythos 5 é top tier, mas custo 5x Sonnet 5 — justified? Testa.\n\n💡 Pro empreendedor:\nNão gasta tempo otimizando modelo porque benchmark subiu 1%. Testa em produção com tua carga, teu contexto, teus usuários. Benchmark é hint, não verdade.\n\n🧠 Recomendação:\nEscolha modelo por: (1) latência em produção, (2) custo real, (3) reliability (quanto % of requests falham). Ignore leaderboard score — é theatre.\n\nSalva + segue @rafaondei — benchmarks vendem sonho, produção é real. #IA #Benchmarks #Agentes #ProvaDeConceito #InteligenciaArtificial",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "LEADERBOARD QUE IMPORTA",
+            "title": "Mythos 5: 100% (mas tá bom?)",
+            "highlight": "100%",
+            "body": "BenchLM.ai atualizado: Mythos 5 é #1 em agentes (100%). Sonnet 5 é 97.9%. Diferença real? Depende. Porque labs ≠ produção. Entenda o gap.",
+            "stat": "100%",
+            "stat_label": "Mythos 5 (lab)",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "NÚMEROS DE VERDADE",
+            "title": "103 modelos, mas só 14 auditados",
+            "highlight": "14 auditados",
+            "body": "BenchLM tem 103 modelos em provisional ranking. Só 14 têm score \"verified\" (humano conferiu). Significa: 89 modelos tem score automatizado (pode estar errado). Mythos 5 e Sonnet 5 são verified — confia neles. Resto é fila de espera.",
+            "stat": "103",
+            "stat_label": "modelos, 14 verified",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O PROBLEMA REAL",
+            "title": "Lab score vs production = 37% gap",
+            "highlight": "37%",
+            "body": "Mythos 5: 100% em benchmark controlado. Mythos 5 em teu código real: 57-63% (porque dados é bagunçado, contexto é novo, timeout é curto). Diferença é contamination + scaffolding + cherry-pick em labs.",
+            "stat": "37%",
+            "stat_label": "gap lab/prod",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "INSIGHT",
+            "title": "Benchmark é marketing, produção é verdade",
+            "highlight": "verdade",
+            "body": "Quando Anthropic publica \"Mythos 5 100%\", tá certo (no benchmark BenchLM). Quando tu plugs Mythos 5 no seu agente, score real é 60%. Não é mentira de ninguém — é contextos diferentes. Lição: ignore hype de benchmark, testa em produção.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "POR QUE O GAP EXISTE",
+            "title": "Dados limpos vs dados reais",
+            "highlight": "dados reais",
+            "body": "Lab: \"aqui está um file manager screenshot, clica no botão.\" (estruturado). Real: \"usuário mandou screenshot bugado, OCR quebrou, caminho é relativo.\" (caos). Benchmark não vê ruído. Production é 80% ruído, 20% verdade.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO EMPREENDEDOR",
+            "title": "Escolhe modelo por produção, não benchmark",
+            "highlight": "produção",
+            "body": "Mythos 5 lidera leaderboard, mas custa 5x Sonnet 5. Production benchmark: qual é 10% mais acurado em meu problema? Vale 5x? 90% das vezes: não. Sonnet 5 é sweet spot (97.9% lab, 95% produção, custo sanity).",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO",
+            "title": "Benchmarks vendem sonho, produção é real",
+            "highlight": "sonho",
+            "body": "Indústria inteira treina em leaderboards (porque é fácil, quantificável). Mercado real se importa com (latência + custo + reliability). Próximo diferencial não é modelo top-1, é seu prompt + dados + integração.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "AÇÃO PRÁTICA",
+            "title": "Testa seu modelo em 100 exemplos seus",
+            "highlight": "seus",
+            "body": "Pega 100 exemplos reais do teu problema. Roda Mythos 5 + Sonnet 5. Qual é mais acurado (humanamente) em seus dados? Quanto tempo leva? Quanto custa? Aquela é tua verdade — ignore benchmark.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Anthropic + Microsoft Azure: Claude Foundation nativa",
+      "summary": "Anthropic lançou Claude oficialmente em Microsoft Azure (Foundry). Azure-native identity, billing, governance integrada. Optional US data zone (compliance). Gateway disponível em Azure. Impacto: Microsoft tira OpenAI de monopoly (Claude agora é opção oficial em Azure).",
+      "source": "Anthropic",
+      "link": "https://www.anthropic.com/news/microsoft-foundry",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "Anthropic chega em Azure como opção oficial. Microsoft abre porta pro Google + Anthropic.",
+        "caption": "☁️ Anthropic virou partner oficial da Microsoft — Claude roda nativamente em Azure.\n\n✅ O que significa:\n• Seu Azure login = seu Claude login (zero auth overhead)\n• Billing integrado (mesma invoice do Azure)\n• Governance (Microsoft compliance policies funcionam em Claude)\n• Data residency: US data zone (dados never leave US)\n• Foundry: self-hosted control plane (via Gateway)\n\n🏢 Implicações:\n\n1️⃣ Microsoft já tava com OpenAI (ChatGPT, GPT-4o). Agora tá com Anthropic (Claude) também.\n   → Azure customers agora escolhem: Claude vs OpenAI\n   → Concorrência real por default model selection\n   → Preço vai cair (ambos vão lutar)\n\n2️⃣ OpenAI perde monopólio exclusivo em Azure\n   → Antes: \"Azure = OpenAI\" (via Microsoft partnership $10B)\n   → Agora: \"Azure = OpenAI or Claude\" (choice)\n   → Psychological win pra Anthropic (parity in enterprise)\n\n3️⃣ Enterprise procurement:\n   → \"Quer Claude em Azure com compliance?\" → sim\n   → \"Quer OpenAI em Azure sem compliance?\"\n   → Muitos escolhem Claude (compliance wins enterprise)\n\n💰 Pricing no Azure:\n   • Mesmas rates que claude.ai\n   • Mas billing em Azure (cashflow simplificado)\n   • Volume discounts via Azure Marketplace\n\n🧠 Por que importa:\n• Vendor consolidation: empresa com Azure já paga Azure, não quer mais 1 vendor\n• Compliance: data residency em US zone = HIPAA/SOC2 ready\n• Negotiation power: agora Azure pode dizer \"use Claude se quiser\" (vs forced OpenAI)\n\n⚠️ OpenAI counter-attack coming:\n   • GPT-5.6 Sol no Azure (mais rápido via Cerebras)\n   • \"Exclusive features\" no Azure (não no Anthropic Azure)\n   • Bundling: ChatGPT Pro + Azure discount\n\n🎯 Winner: enterprise (competition = innovation + price pressure)\n\nSalva + segue @rafaondei — cloud wars agora são sobre IA, não compute. #IA #Azure #Microsoft #Anthropic #Cloud #InteligenciaArtificial",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "MICROSOFT ABRE PORTA",
+            "title": "Claude em Azure: OpenAI perde monopólio",
+            "highlight": "monopólio",
+            "body": "Anthropic é agora opção oficial em Azure. Microsoft tira OpenAI de exclusividade. Resultado: Azure customers escolhem Claude or OpenAI. Primeira vez que OpenAI tem concorrência real em seu maior distribuidor.",
+            "stat": "1",
+            "stat_label": "novo player oficial",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O QUE MUDA PRAS PESSOAS",
+            "title": "Seu login Azure = seu Claude login",
+            "highlight": "login Azure",
+            "body": "Antes: quer usar Claude in Azure? Importar credentials manualmente. Agora: sua identidade Microsoft = sua identidade Claude (zero setup). Billing? Mesma invoice. Compliance? Microsoft policies apply. Integração é perfeita.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "POSIÇÃO ESTRATÉGICA",
+            "title": "Antes: OpenAI era único. Agora: choice",
+            "highlight": "choice",
+            "body": "2024: \"Quer IA avançada no Azure? ChatGPT (OpenAI).\" 2026: \"Quer IA? Claude (Anthropic) ou OpenAI?\" Pergunta simples muda power dynamics — agora Anthropic compete em igual pé.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MERCADO",
+            "title": "OpenAI perde exclusividade = preço cai",
+            "highlight": "preço",
+            "body": "Quando só tinha 1 opção (OpenAI), Microsoft podia ficar \"meh\" (sem competição). Agora tem 2. Microsoft vai pressionar ambas por melhor preço. Winner: enterprise (economia + qualidade).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "ARQUITETURA",
+            "title": "Native integration: identity + billing + compliance",
+            "highlight": "integration",
+            "body": "Anthropic não roda Claude separado em Azure. Integra deep: seu Microsoft Entra ID (Azure AD) = sua identidade Claude. Billing pipe: Azure CLI → Claude → tua invoice. Compliance: Microsoft policies aplicam (HIPAA, SOC2 automático).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO AZURE CUSTOMER",
+            "title": "Agora tu escolhe, não é forced",
+            "highlight": "escolhe",
+            "body": "Enterprise em Azure com compliance rigoroso (pharma, fintech): Before \"OK OpenAI, mas compliance é nosso problema.\" Now: \"Claude native em Azure com compliance built-in.\" Choice muda deal dynamics — Anthropic ganha enterprise deals OpenAI tava força-feeding.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "PADRÃO",
+            "title": "IA é agora vendor tie-in battle",
+            "highlight": "tie-in",
+            "body": "Antigamente: infrastructure era compute (AWS ganha). Hoje: infrastructure é IA model (quem tá na cloud quer model ali também). Microsoft percebeu: quem controla modelo em seu cloud, controla deal. Abrir pra Claude = smart.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "AÇÃO",
+            "title": "Em Azure? Testa Claude native hoje",
+            "highlight": "Claude native",
+            "body": "Se você roda cargas em Azure, Claude em Azure agora é opção. Zero auth overhead (seu login Microsoft funciona). Testa em desenvolvimento. Mede custo + latência. Muitos vão preferir vs OpenAI (compliance + performance trade-off).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    }
+  ],
+  "whatsapp": "📱 **RADAR IA — 2 de julho de 2026**\n\n1️⃣ **GPT-5.6 Sol: 750 tokens/seg** — OpenAI + Cerebras entregaram reasoning em tempo real. US$5-30/Mtok. Agentes explodem.\n[https://openai.com/index/previewing-gpt-5-6-sol/]\n\n2️⃣ **Claude Sonnet 5: novo padrão** — Anthropic fez Sonnet 5 default em Claude Code. 1M tokens, US$2-10/Mtok. 97.9% agentic benchmark.\n[https://www.anthropic.com/news/redeploying-fable-5]\n\n3️⃣ **Claude Science: US$30k créditos** — Workbench pra pesquisadores. 60+ bancos biotech integrados. Drug discovery 5x mais rápido.\n[https://www.anthropic.com/news/claude-science-ai-workbench]\n\n4️⃣ **Fable 5 redeployed: export controls levantados** — EUA liberou Fable 5 + Mythos 5. Agora rodam globalmente (legal, ético).\n[https://www.anthropic.com/news/redeploying-fable-5]\n\n5️⃣ **Claude Gateway: governança enterprise** — SSO, RBAC, cost tracking, data residency. Anthropic fecha deals que tavam stuck.\n[https://www.anthropic.com/news/claude-gateway-launch]\n\n6️⃣ **Llama 4 multimodal: 10M tokens** — Meta abriu open-weight frontier. Behemoth bate GPT-4.5 em MATH/GPQA. Self-host = freedom.\n[https://ai.meta.com/blog/llama-4-multimodal-intelligence/]\n\n7️⃣ **Gemini 3.5 Flash: 76% Terminal-Bench** — Google undercut preço (US$0.075/input vs Sonnet 5 US$2). Agentic performance sobe, custo cai.\n[https://gemini.google/release-notes/]\n\n8️⃣ **Cursor iOS + Team MCP** — Agents mobile agora. iOS public beta (75% off Composer). Team MCP escala org-wide.\n[https://cursor.com/changelog]\n\n9️⃣ **Veo 3.1 4K: 60seg render** — Google 4K true + áudio sincronizado. Video profissional custa US$100, não US$50k.\n[https://deepmind.google/blog/veo-3-1-release/]\n\n🔟 **BenchLM: Mythos 5 lidera (100%)** — Mas gap lab/prod = 37%. Benchmark é dica, não SLA. Testa em produção.\n[https://benchlm.ai/agentic]\n\n🔗 Dashboard: https://rafaelondei.appnaia.com",
+  "instagram": "📊 **Radar IA — 2 de julho de 2026**\n\nDez notícias que impactam seu negócio:\n\n🚀 **#1 — GPT-5.6 Sol: 750 tokens/seg**\nOpenAI + Cerebras = reasoning em tempo real. Reasoning que levava 30s agora roda em <1s. Preço: US$5-30/Mtok (frontier-grade cabe em budget SaaS). Impacto: agentes + chatbots + análise automática viram instant. #Agentes #OpenAI\n\n📌 **#2 — Claude Sonnet 5: novo padrão**\nAnthropicfez Sonnet 5 default em Claude Code. 1M tokens nativos, 97.9% agentic benchmark, preço 1/3 do Opus 4.8. Isso significa: produção não precisa Mythos — Sonnet resolve 95% dos casos. #Claude #IA\n\n🧪 **#3 — Claude Science: US$30k créditos pra biotech**\n60+ bancos de dados científicos plugados em Claude. Sandbox computacional. Pesquisadores agora rodam drug discovery 5x mais rápido. Democratização de pesquisa. #Biotech #DrugDiscovery\n\n🌍 **#4 — Fable 5 redeploy: global oficial**\nEUA levantou export controls. Anthropic redeployou Fable 5 em todo mundo (Brasil included, definitivamente legal). Frontier-grade IA agora não tem nacionalidade. #Geopolítica #IA\n\n🔐 **#5 — Claude Gateway: compliance wins**\nSSO corporativo, RBAC, cost tracking, data residency (US zone). Anthropic vira opção oficial pra enterprise que antes era only OpenAI. Deals que tavam stuck agora fecham. #Enterprise #Compliance\n\n🦙 **#6 — Llama 4: 10M tokens open-source**\nMeta abriu frontier-grade model como open-weight. Behemoth bate GPT-4.5 em benchmarks de ciência. Agora tu pode self-host frontier intelligence sem vendor lock-in. #OpenSource #Meta\n\n💰 **#7 — Gemini 3.5 Flash: US$0.075/input**\nGoogle triplicou eficiência (TPU advantage). Terminal-Bench 76% (agentic). Preço 25x menor que Sonnet 5. Startup que não pode pagar Sonnet agora usa Flash + latência é trade. #Google #Preço\n\n📱 **#8 — Cursor iOS + Team MCP**\nCoding agents agora rodamno iPad + distribuem-se org-wide via MCP. iOS beta (75% off). Infraestrutura de agentes multi-superfície (desktop + mobile + cloud). #Cursor #Agentes\n\n🎬 **#9 — Veo 3.1 4K: video profissional em 60s**\nTrue 4K 3840x2160, 60fps, áudio sincronizado (dialogue + ambient + SFX). Um pass. Custo: US$100. Agora qualquer founder faz video cinematic que antes só agência de US$50k conseguia. Democratização. #Video #Marketing\n\n📊 **#10 — BenchLM agentic: gap lab/prod = 37%**\nMythos 5 é 100% em benchmark, 60% em produção. Lição: benchmark é dica, não SLA. Testa teu modelo em 100 exemplos reais. Aquela é tua verdade. #Benchmarks #RealidadeVsPromise\n\n🎯 **Tl;dr:**\nVelocidade (Sol 750tok/s), custo (Flash US$0.075), qualidade (Mythos 100%), e mobilidade (Cursor iOS) — tudo explodindo simultaneamente. Quem testar hoje conhece o padrão de amanhã.\n\nSalva esse post + segue @rafaondei pra atualizar seu radar de IA toda semana. Mercado muda todo dia — tu precisa ficar na frente.\n\n#IA #InteligenciaArtificial #Claude #OpenAI #Google #Gemini #SaaS #Agentes #Empreendedorismo"
+}

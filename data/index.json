@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-07-01T07:00:01-03:00",
+  "updated_at": "2026-07-02T07:00:01-03:00",
   "executions": [
+    {
+      "date": "2026-07-02",
+      "key": "2026-07-02",
+      "topic": "mercado de IA",
+      "summary": "GPT-5.6 Sol 750 tokens/seg (reasoning instant, Cerebras); Claude Sonnet 5 1M tokens default (US$2-10, 97.9% agentic); Claude Science biotech (60+ DBs, US$30k); Fable 5 global (export controls levantados); Claude Gateway enterprise (SSO + compliance); Llama 4 multimodal open-weight (10M tokens, Behemoth >GPT-4.5); Gemini 3.5 Flash (76% Terminal-Bench, US$0.075/input); Cursor iOS + Team MCP (agents mobile + org-wide); Veo 3.1 4K (60seg, audio sync); BenchLM agentic (Mythos 100%, gap lab/prod 37%)",
+      "items_count": 10
+    },
     {
       "date": "2026-07-01",
       "key": "2026-07-01",
