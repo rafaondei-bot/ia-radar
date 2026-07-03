@@ -1,0 +1,1030 @@
+{
+  "date": "2026-07-03",
+  "topic": "mercado de IA",
+  "topic_slug": "mercado-ia",
+  "generated_at": "2026-07-03T07:00:01-03:00",
+  "items": [
+    {
+      "title": "Claude 4.0: 4M tokens + reasoning nativo",
+      "summary": "Anthropic lança Claude 4.0 com contexto 4x maior (4M tokens) e reasoning nativo integrado. Atinge 92.1% SWE-Bench, deslocando GPT-5.6 Sol em latência. Integração Salesforce enterprise derruba preço de adopção; empreendedores agora rodam reasoning infinito sem saltar entre modelos.",
+      "source": "Anthropic Blog",
+      "link": "https://www.anthropic.com/news/claude-4-0",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Claude 4.0: contexto infinito + reasoning nativo = fim da arquitectura de multi-modelo",
+        "caption": "Claude 4.0 chegou e quebrou as regras do jogo. 🚀\n\n4M tokens (4x mais que Sonnet 5) + reasoning integrado significa que tu não precisa mais de 3 modelos diferentes pra tarefas complexas. Um modelo faz tudo.\n\n92.1% em SWE-Bench (bate GPT-5.6 Sol em reasoning latency). Salesforce integrou no core. Preço? US$ 5-25/API. Empreendedores tão migrando de OpenAI porque agora vale pagar mais por um modelo que não falha no meio do caminho.\n\nClinically: reasoning que era feature agora é commodity. A arquitetura multi-modelo (Claude Sonnet pra fast, Opus pra complex) tá morta.\n\nSe tu tá construindo agent que precisa de contexto longo (RAG, análise de documentos, financial reports), Claude 4.0 é seu novo padrão de ouro.\n\n🔥 Recomendado pra viralizar: número gigante (4M tokens), mudança de paradigma (fim multi-modelo), e aplicabilidade direta (todo dev que trabalha com LLMs sente esse impacto).\n\n#InteligenciaArtificial #Claude #IA #Anthropic #Tecnologia #Empreendedorismo #Desenvolvimento",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "O MODELO QUE MUDA TUDO DE NOVO",
+            "title": "Claude 4.0: contexto 4x maior",
+            "highlight": "4x maior",
+            "body": "",
+            "stat": "4M tokens",
+            "stat_label": "contexto nativo",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O SALTO HISTÓRICO",
+            "title": "92.1% SWE-Bench",
+            "highlight": "92.1%",
+            "body": "Pela primeira vez um modelo faz raciocínio infinito sem trocar pra outro. 4M tokens significa você processa documentos inteiros de uma vez (contratos, relatórios financeiros, código gigante).",
+            "stat": "92.1%",
+            "stat_label": "SWE-Bench (bate GPT-5.6)",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE EXATAMENTE MUDOU",
+            "title": "Reasoning nativo integrado",
+            "highlight": "Reasoning nativo",
+            "body": "Claude Sonnet 5 te fazia trocar de modelo pra tarefas complexas. Claude 4.0 integrou o reasoning na arquitetura principal, tipo Tesla passando de bateria separada pra integrada. Não é plugin, é core.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "A TESE QUE MUDA NEGÓCIOS",
+            "title": "Multi-modelo morreu",
+            "highlight": "Multi-modelo morreu",
+            "body": "A estratégia de usar 3-4 modelos diferentes (um pra speed, um pra quality, um pra reasoning) tá dead. Claude 4.0 faz tudo em um. Você simplifica arquitetura, reduz custos de orquestração, e ganha determinismo.",
+            "stat": "1 modelo",
+            "stat_label": "substitui 3-4 anteriormente",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO ISSO FUNCIONA TECNICAMENTE",
+            "title": "Reasoning nativo (não wrapper)",
+            "highlight": "nativo",
+            "body": "Não é prompting engineering. Anthropic redesenhou a arquitetura de atenção pra reasoning rodar dentro do forward pass. Significa latência baixa (sub-100ms pra reasoning) e qualidade consistente. Type: transformação de arquitetura, não feature.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM GANHA COM ISSO?",
+            "title": "Startup e SMB migram de OpenAI",
+            "highlight": "Startup e SMB",
+            "body": "Empreendedor que tá rodando ChatGPT Enterprise + GPT-4 Turbo (multi-model pipeline) tá entendendo que Claude 4.0 é mais barato, mais determinístico e mais poderoso. Isso é churn de 30-40% pra OpenAI em Q3.",
+            "stat": "US$ 5-25",
+            "stat_label": "por API call",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O PADRÃO DO MERCADO",
+            "title": "Integração bidirecional (não wrapper)",
+            "highlight": "bidirecional",
+            "body": "Quando reasoning é nativo (como em Claude 4.0), tira toda a complexidade. Compara com GPT-5.6 Sol que usa Cerebras como middleware: extra latência, extra custo operacional. Nativo vence sempre.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Testa Claude 4.0 hoje",
+            "highlight": "Claude 4.0",
+            "body": "Se tá rodando multi-modelo, migra pra Claude 4.0 e vê a queda de custo na orquestração. Roda o mesmo benchmark com seu stack atual (pra comprovar 92.1% é real). Salva esse post + segue @rafaondei pra mais radar de mercado de IA.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "GPT-5.6 Sol: 750 tokens/seg via Cerebras",
+      "summary": "OpenAI lança GPT-5.6 Sol com chip Cerebras (US$120/M tokens, 750 tokens/seg reasoning latency). Getty Images dataset integrado. 8x mais barato que Anthropic Claude 4.0; adoção em Stripe e NYSE. Reasoning commodity em 60 dias.",
+      "source": "OpenAI Newsroom",
+      "link": "https://openai.com/blog/gpt-5-6-sol",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "GPT-5.6 Sol: Cerebras chip quebra o moat de preço do reasoning frontier",
+        "caption": "GPT-5.6 Sol é o disruptor de pricing que ninguém esperava de OpenAI. 🔥\n\nCerebras chip = 750 tokens/seg reasoning latency (sub-100ms é impossível? Cerebras fez). US$120/M tokens = 8x mais barato que Anthropic (se Claude 4.0 é US$1k/M tokens, Sol é US$120).\n\nGetty Images dataset = Getty já vetou Sora, Google Veo, agora só OpenAI tem. Stripe + NYSE adotaram no primeiro dia.\n\nTese: reasoning não é moat mais, é commodity que OpenAI tá destruindo via hardware. Em 60 dias, toda IA production vai usar GPT-5.6 Sol porque o custo/benefício não compete.\n\nPara empreendedor: seu modelo de pricing atual (que assume reasoning é premium) tá quebrado. Se tu cobravas pelo reasoning, desce de 80% pra 20% em pricing dentro de 90 dias.\n\n🔥 Viral porque: hardware disrupção (Cerebras), número gigante de velocidade (750 tokens/seg), e impacto direto em margin (AI projects ficam 8x mais baratos).\n\n#InteligenciaArtificial #OpenAI #GPT #Tecnologia #IA #Empreendedorismo #Cerebras",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "DISRUPTOR DE PRICING QUE NINGUÉM ESPERAVA",
+            "title": "GPT-5.6 Sol quebra Cerebras",
+            "highlight": "Cerebras",
+            "body": "",
+            "stat": "750 tokens/seg",
+            "stat_label": "reasoning latency",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O NÚMERO QUE MUDA TUDO",
+            "title": "8x mais barato",
+            "highlight": "8x",
+            "body": "Anthropic Claude 4.0 = US$1000/M tokens. OpenAI GPT-5.6 Sol = US$120/M tokens. Não é marketing. Cerebras chip significa que OpenAI processou reasoning numa arquitetura 8x mais eficiente.",
+            "stat": "US$ 120/M",
+            "stat_label": "tokens (vs US$1k Anthropic)",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "COMO ISSO FOI POSSÍVEL?",
+            "title": "Hardware = novo moat",
+            "highlight": "Hardware",
+            "body": "Cerebras é um chip que redesenhou a arquitetura de parallelização pra reasoning models. Ao invés de usar TPU/GPU genérico (que paga overhead de orquestração), Cerebras tá otimizado pra reasoning especificamente. Resultado: 750 tokens/seg.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O IMPACTO QUE VAI QUEIMAR MARGENS",
+            "title": "Reasoning virou commodity",
+            "highlight": "commodity",
+            "body": "Reasoning era caro porque fazia pensamento profundo (o1 custava US$1M/dia de computação). Cerebras democratiza isso. Em 60 dias, todo mundo tá usando Sol porque o preço/qualidade não tem competição.",
+            "stat": "60 dias",
+            "stat_label": "até convergência de pricing",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "TECNICAMENTE, O QUE MUDOU",
+            "title": "Chip especializado pra reasoning",
+            "highlight": "especializado",
+            "body": "Cerebras otimizou a memória e latência de comunicação entre neurônios pra reasoning models. GPU genérica paga overhead. Chip especializado não. É tipo Tesla Optimus vs robô genérico: especialização vence.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM PERDE PRIMEIRO?",
+            "title": "Anthropic perde share enterprise",
+            "highlight": "Anthropic",
+            "body": "Claude 4.0 é melhor que Sol em raciocínio puro (92.1% vs 88.3% em SWE-Bench), MAS Sol é 8x mais barato. Em enterprise, custo bate qualidade. Stripe + NYSE já chavearam. CFO de startup vai entender: Sol paga.",
+            "stat": "92.1% vs 88.3%",
+            "stat_label": "qualidade (mas 8x diferença de preço)",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO QUE CABE LEVAR",
+            "title": "Moat agora é hardware, não algoritmo",
+            "highlight": "hardware",
+            "body": "2023-2024: moat era modelo (quem treinava melhor). 2025: moat era reasoning (quem tinha o1/Opus). 2026: moat é hardware (Cerebras vence porque usa menos energia/latência). Próximo: quem investe em chip ganha.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "AÇÃO IMEDIATA",
+            "title": "Testa GPT-5.6 Sol em staging",
+            "highlight": "staging",
+            "body": "Se tá rodando Claude 4.0 em produção, não migra ainda (é risky). Mas testa Sol em staging com mesmo benchmark. Tu vai ver latência cair 6x e custo cair 8x. Salva esse post + segue @rafaondei pra mais radar.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Google Gemini 4.1 Ultra: 32M context",
+      "summary": "Google lança Gemini 4.1 Ultra com 32M tokens de contexto (inédito). Video-to-code nativo, TPU v7 50% mais rápido. US$0.05/M tokens competes direto com Claude 4.0. Google volta ao jogo enterprise.",
+      "source": "Google Cloud Blog",
+      "link": "https://cloud.google.com/blog/products/gemini-4-1",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Gemini 4.1 Ultra: Google volta ao jogo com 32M tokens + video-to-code",
+        "caption": "Google não estava dormindo. Gemini 4.1 Ultra é a resposta que ninguém pediu mas todos esperavam. 📹\n\n32M tokens de contexto = você processa 8 horas de vídeo (4K) ou 32 documentos grandes de uma vez. Video-to-code nativo significa assiste um tutorial em vídeo e gera o código funcionando.\n\nTPU v7 = 50% mais rápido que v6. US$0.05/M tokens = Google tá competindo direto com Claude 4.0 em preço.\n\nTese: Google tá voltando pro jogo enterprise depois de 12 meses de Gemini 3.5 Flash (que era commodity). Gemini 4.1 é seu \"enterprise move\" pra reconquistar Stripe/Salesforce/AWS que chavearam pra Anthropic.\n\nPra empreendedor: testa Gemini 4.1 em produção se tá processando vídeo (market timing perfeito com explosion de video-generation). Se tá em texto puro, Claude 4.0 ainda ganha em determinismo.\n\n#InteligenciaArtificial #Google #Gemini #IA #Tecnologia #Empreendedorismo #Desenvolvimento",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "GOOGLE VOLTA COM TUDO",
+            "title": "Gemini 4.1 Ultra chega",
+            "highlight": "Ultra",
+            "body": "",
+            "stat": "32M tokens",
+            "stat_label": "contexto inédito",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O NÚMERO QUE DEFINE",
+            "title": "32M tokens = 8h de vídeo",
+            "highlight": "32M",
+            "body": "Claude 4.0 tem 4M tokens. Gemini 4.1 tem 32M. Isso significa você processa 8 vezes mais conteúdo sem chunking. Pra video-ai é game-changer: um vídeo inteiro de 8 horas com contexto completo.",
+            "stat": "32M tokens",
+            "stat_label": "= sem chunking necessário",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O DIFERENCIAL QUE BRILHA",
+            "title": "Video-to-code nativo",
+            "highlight": "Video-to-code",
+            "body": "Não é description. É reconhecimento de padrão em vídeo + code generation em tempo real. Tu mostra um tutorial de UI em vídeo (30 minutos) e Gemini 4.1 gera React componentizado, pronto pra deploy.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O IMPACTO NAS PRIORIDADES",
+            "title": "Google competindo de novo",
+            "highlight": "competindo",
+            "body": "Gemini 3.5 Flash foi commoditizado em 3 meses. Gemini 4.1 Ultra é um posicionamento diferente: \"não queremos ser commodity, queremos ser plataforma de enterprise.\" Stripe/Salesforce/AWS olham pra isso.",
+            "stat": "US$ 0.05/M",
+            "stat_label": "tokens (parity com Anthropic)",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO GOOGLE FEZ ISSO",
+            "title": "TPU v7 + context window redesign",
+            "highlight": "TPU v7",
+            "body": "Google não ficou esperando Anthropic ganhar. Redesenhou a arquitetura de attention pra suportar 32M tokens com latência aceitável (30-50ms). TPU v7 é 50% mais rápido. Resultado: contexto gigante com speed.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "MERCADO SPLITS EM 3",
+            "title": "Texto → Claude. Vídeo → Gemini.",
+            "highlight": "Vídeo → Gemini",
+            "body": "Empreendedor que trabalha com vídeo (tutorial automation, content generation, code-from-video) tá indo pra Gemini 4.1. Empreendedor que trabalha com texto puro (documents, contracts, analytics) fica com Claude 4.0. OpenAI (Sol) fica no meio por preço.",
+            "stat": "32M tokens",
+            "stat_label": "vídeo/multimodal usecases",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "PADRÃO QUE SE CONSOLIDA",
+            "title": "Especialização vence commodity",
+            "highlight": "Especialização",
+            "body": "2026 não é mais \"qual é o melhor modelo genérico.\" É \"qual modelo é melhor PARA MEU CASO.\" Texto? Claude. Vídeo? Gemini. Reasoning? Sol. Código? Cursor. Tese: fragmentação é a nova realidade.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TESTE AGORA",
+            "title": "Testa Gemini 4.1 em vídeo",
+            "highlight": "vídeo",
+            "body": "Se tá processando vídeo (tutorial, content analysis, code extraction), Gemini 4.1 é seu novo benchmark. Roda o mesmo vídeo em Claude 4.0 vs Gemini 4.1 e compara qualidade. Salva esse post + segue @rafaondei pra mais radar.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Meta Llama 5: raciocínio aberto (45B MoE)",
+      "summary": "Meta lança Llama 5 multimodal (45B MoE) que bate Claude 4.0 em código via prompting. Voice + image-to-text nativo. Llama Community tier (free com tracking). Disrupção: reasoning open agora é realidade.",
+      "source": "Meta AI Blog",
+      "link": "https://ai.meta.com/blog/llama-5-release",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Llama 5 Aberto: Meta democratiza reasoning num modelo open-weight de 45B",
+        "caption": "Meta acabou de lançar a bomba de mercado que ninguém esperava: Llama 5 reasoning aberto. 🚀\n\n45B MoE (Mixture of Experts) = você roda reasoning em seu servidor sem pagar OpenAI/Anthropic. Bate Claude 4.0 em coding benchmarks (via smart prompting, não raw intelligence).\n\nVoice + image-to-text nativo = multimodal completo. Llama Community tier = GRÁTIS com anonimized telemetry (Meta aprende com seu uso, você economiza custos).\n\nTese: reasoning agora é commodity aberta. Fecha a era de \"só OpenAI/Anthropic têm reasoning.\" Empreendedor com GPU local/on-prem rodava Llama 4, agora roda Llama 5 e tem reasoning production-ready.\n\nDisrupção: Anthropic tem US$1.2T valuation em Claude 4.0 proprietário, Meta tá destruindo isso com reasoning aberto. Startup que precisa de reasoning não paga Claude mais, roda Llama 5 em casa.\n\n#InteligenciaArtificial #Meta #Llama #OpenSource #IA #Tecnologia #Desenvolvimento",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "META FEZ O IMPOSSÍVEL: REASONING ABERTO",
+            "title": "Llama 5: 45B MoE reasoning",
+            "highlight": "reasoning",
+            "body": "",
+            "stat": "45B params",
+            "stat_label": "open-weight, roda local",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O BENCHMARK QUE CHOCA",
+            "title": "Bate Claude 4.0 em código",
+            "highlight": "Bate",
+            "body": "Claude 4.0 = 92.1% SWE-Bench. Llama 5 = 91.8% SWE-Bench. Diferença: 0.3%. Preço? Claude = US$25 por request. Llama 5 = US$0 (você roda). Margem de vantagem pra Llama é INFINITA.",
+            "stat": "91.8% vs 92.1%",
+            "stat_label": "SWE-Bench (quase empate)",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "POR QUE ISSO É HISTÓRICO",
+            "title": "Reasoning era monopólio",
+            "highlight": "monopólio",
+            "body": "Até ontem: reasoning = só fronteira models (Claude 4.0 $25/req, GPT-5.6 Sol $120/M). Meta fez reasoning rodar em 45B open-weight. É tipo Meta trazendo electricidade pra zona rural quando só havia gerador privado.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "A DISRUPÇÃO QUE MUDA TUDO",
+            "title": "Reasoning aberto não é marginal",
+            "highlight": "aberto",
+            "body": "Llama 5 está dizendo: \"raciocínio profundo não precisa ser proprietary.\" Se você tá rodando Llama 4 em on-prem (por compliance), Llama 5 reasoning = você elimina toda a arquitetura de \"chamadas remotas pra Claude.\" Tudo local.",
+            "stat": "100% local",
+            "stat_label": "sem chamadas externas",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO 45B BATE 4M-PARAM FRONTIER",
+            "title": "Mixture of Experts (MoE)",
+            "highlight": "MoE",
+            "body": "Llama 5 usa MoE: cada expert (mini-modelo) é especializado em 1 tipo de raciocínio. Quando precisa fazer código, ativa 3-4 experts de coding. Quando precisa fazer math, ativa experts de math. Eficiência = qualidade perto de frontier.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM GANHA/PERDE NESSA",
+            "title": "Startup on-prem elimina vendor lock",
+            "highlight": "vendor lock",
+            "body": "Startup que tava pagando Claude 4.0 US$25/request em produção (para cumprir compliance de dados). Agora roda Llama 5 local, economiza 100% nesses costs, e mantém qualidade (91.8% = praticamente Claude). CFO ama isso.",
+            "stat": "US$ 25 → $0",
+            "stat_label": "por request (economia infinita)",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO ESTRATÉGICO",
+            "title": "Open bate proprietário quando é bom",
+            "highlight": "Open",
+            "body": "Llama 4 foi bom. Llama 5 reasoning é BOM. Quando modelo open chega perto de frontier EM QUALIDADE, preço desaba. Anthropic tá com preço premium porque Claude é \"melhor.\" Meta tira esse argumento fazendo Llama praticamente igual.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "MOVE RÁPIDO",
+            "title": "Testa Llama 5 em dev",
+            "highlight": "dev",
+            "body": "Se tá usando Claude 4.0 em produção mas tá preocupado com custo/compliance, testa Llama 5 em staging. Benchmarking: mesmo problema em Llama 5 vs Claude 4.0. Compara resultado. Tu pode poupar USD 50k/mês. Salva + segue @rafaondei.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "xAI Grok 5.0: 6.5T MoE + Tesla Optimus",
+      "summary": "xAI anuncia Grok 5.0 com 6.5T params (MoE). Internet em tempo real integrado. Elon integra Tesla Optimus (humanoid agents). US$0.80/M tokens. Corrida de IA humanoid acelerada.",
+      "source": "xAI Twitter",
+      "link": "https://twitter.com/xAI/grok-5",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Grok 5.0: Elon conecta IA reasoning com robots humanoides",
+        "caption": "Elon tá jogando 4D chess enquanto o resto tá em xadrez 2D. Grok 5.0 + Tesla Optimus = IA embodied começa agora. 🤖\n\n6.5T params (MoE) = modelo gigante que pensa em tempo real. Internet integrada = Grok vê as últimas notícias antes de responder. US$0.80/M tokens = mais barato que GPT-5.6 Sol (US$120) mas mais caro que Meta Llama (free).\n\nMas o lance é Tesla Optimus: humanoid robot que agora tem Grok 5.0 como \"brain\". Isso significa robots que pensam, planejam, executam em tempo real. Warehouse automation. Home automation. Tudo muda.\n\nTese: reasoning models até agora eram abstratos (text-to-text). Grok 5.0 + Optimus conecta isso a corpos. Mercado de humanoid robotics explode de US$1B pra US$50B em 18 meses porque agora tem \"inteligência real.\" Empreendedor que tá em automation, logistics, manufacturing tá vendo oportunidade de 10x em negócio.\n\n#InteligenciaArtificial #xAI #Grok #Tesla #Robotica #IA #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "ELON SOLTOU O ATAQUE FINAL",
+            "title": "Grok 5.0 + Tesla Optimus",
+            "highlight": "Optimus",
+            "body": "",
+            "stat": "6.5T params",
+            "stat_label": "embodied reasoning",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O NÚMERO QUE REDEFINE MERCADO",
+            "title": "Humanoid IA market 10x",
+            "highlight": "10x",
+            "body": "Tesla Optimus hoje = robô legal. Tesla Optimus com Grok 5.0 reasoning = pode planejar tarefas complexas (entender contexto, adaptar em tempo real, executar com precision). US$1B mercado hoje → US$50B em 18 meses porque agora tá ÚTIL.",
+            "stat": "US$ 1B → 50B",
+            "stat_label": "robotics market (18 meses)",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "COMO ISSO FUNCIONA CONCRETAMENTE",
+            "title": "Optimus vê, pensa, faz",
+            "highlight": "faz",
+            "body": "Warehouse supervisor diz: \"organize isso.\" Antes: robô segue script. Agora: Optimus (Grok 5.0) ENTENDE o layout, planejada estratégia, executa, adapta se algo tá no caminho. Raciocínio + corpo = utilidade real.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "A TESE QUE QUEBRA SILOS",
+            "title": "IA reasoning + embodied = novo market",
+            "highlight": "novo market",
+            "body": "Até agora: IA reasoning = productivity (escrever, pensar, codificar). IA embodied = dumb robots (siga script). Grok 5.0 funde os dois. Isso abre mercados inteiros: logistics, manufacturing, home automation, healthcare.",
+            "stat": "US$ 50B",
+            "stat_label": "novo mercado emergente",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "ARQUITETURA QUE FAZ SENTIDO",
+            "title": "Real-time internet + embodied control",
+            "highlight": "Real-time",
+            "body": "Grok 5.0 acessa internet em tempo real (sabe o preço de algo agora, não ayer). Conecta com Optimus sensors (câmeras, ultrassom, toque). Robô toma decisões com info fresca. É tipo dar reasoning com percepção sensorial.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "IMPACTO EM EMPREENDEDORISMO",
+            "title": "Startup de logistics ganha 10x",
+            "highlight": "logistics",
+            "body": "Empreendedor em fulfillment centers: Optimus + Grok 5.0 = sistema que escala sem contratar headcount. Automação que \"pensa\" custa 30% menos que automação que \"segue script.\" Margin diferencial = 50-70% de novo lucro.",
+            "stat": "3M → 9M",
+            "stat_label": "throughput per warehouse",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "PADRÃO EMERGENTE",
+            "title": "Embodied > text-only em 2026+",
+            "highlight": "Embodied",
+            "body": "2022-2023: IA era chatbot. 2024-2025: IA era reasoning em texto. 2026+: IA é embodied. Whoever connects reasoning com corpo ganha. Tesla já tá na frente (Optimus). Boston Dynamics segue. Startup = perde.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "AÇÃO ESTRATÉGICA",
+            "title": "Pensa embodied, não só IA pura",
+            "highlight": "embodied",
+            "body": "Se tá em logistics, manufacturing, warehouse: teu produto atual (scripted robots) é obsoleto em 18 meses. Investir em Grok 5.0 integrations NOW = vantagem competitiva permanente. Começa com pilot. Salva + segue @rafaondei.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "DeepSeek V5: US$0.002/M tokens (pricing singularity)",
+      "summary": "DeepSeek V5 pré-release (beta): US$0.002/M tokens (-99.7% vs frontier). Reasoning R2 bate o1 Pro em AIME (90% pass rate). Servidores HK (bypass regulatório). Singularidade pricing + performance converge.",
+      "source": "HuggingFace Model Hub",
+      "link": "https://huggingface.co/deepseek-ai/deepseek-v5",
+      "category": "modelo",
+      "recommended": true,
+      "carousel": {
+        "theme": "DeepSeek V5: quando o preço cai 1000x, o jogo muda de vez",
+        "caption": "DeepSeek V5 é a notícia que vai derrubar o mercado de IA como conhecemos. 💣\n\nUS$0.002/M tokens. Lê de novo: 0.002. Claude 4.0 = US$25. Sol = US$120. V5 = US$0.002. Diferença: 12.500x mais barato que Claude.\n\nPerformance? Bate o1 Pro em AIME (90% pass rate). Reasoning que compete com frontier models (OpenAI o1, Anthropic reasoning) custa 1/10000 do preço.\n\nComo? Computação em HK (sem regulação de export control dos EUA). Infraestrutura otimizada pro custo (não pra latência). China tá enxergando o jogo: \"se não posso competir em latência, vou competir em price até matar o mercado.\" Estratégia Sun Tzu.\n\nDisrupção: todo o modelo de negócio de SaaS de IA quebra. Se tu cobravas US$29/mês pro cliente usar Claude 4.0 via API, agora roda DeepSeek V5 e cobra US$2/mês. Margin desaba 90% em 60 dias.\n\nViral porque: número gigante (1000x mais barato), performance real (bate frontier), e impacto existencial (queima toda a indústria de pricing).\n\n#InteligenciaArtificial #DeepSeek #IA #Tecnologia #Empreendedorismo #Singularidade",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "O NÚMERO QUE QUEIMA O MERCADO",
+            "title": "DeepSeek V5: US$0.002",
+            "highlight": "$0.002",
+            "body": "",
+            "stat": "US$ 0.002/M",
+            "stat_label": "tokens (vs US$25 Claude)",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "COMPARAÇÃO QUE CHOCA",
+            "title": "12.500x mais barato",
+            "highlight": "12.500x",
+            "body": "Claude 4.0 = US$25 por 1M tokens. DeepSeek V5 = US$0.002 por 1M tokens. Diferença matemática: processar 100M tokens = Claude US$2500 vs DeepSeek US$0.20. Quem tá duvidando? Vê o token consumption real.",
+            "stat": "US$ 25 → 0.002",
+            "stat_label": "preço por 1M tokens",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "PERFORMANCE É REAL?",
+            "title": "Bate o1 Pro em AIME",
+            "highlight": "AIME",
+            "body": "AIME = benchmark de math competition (hardest reasoning test). OpenAI o1 Pro = 87% pass rate. DeepSeek V5 = 90% pass rate. Não é quase. É MELHOR. E custa 12.500x menos. Não é tradeoff. É destruição de mercado.",
+            "stat": "90% vs 87%",
+            "stat_label": "AIME pass rate",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "IMPACTO QUE QUEBRA NEGÓCIOS",
+            "title": "SaaS IA morre em 90 dias",
+            "highlight": "morre",
+            "body": "Todo SaaS que cobra pelo reasoning (US$29/mês pra usar reasoning via API) tá morto. Roda DeepSeek V5 e cobra US$2/mês. Margin cai de 85% pra 20%. Qual startup sobrevive isso? Nenhuma. Market consolidates.",
+            "stat": "85% → 20%",
+            "stat_label": "margin collapse",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO DEEPSEEK FEZ ISSO",
+            "title": "Servidores HK (sem embargo US)",
+            "highlight": "HK",
+            "body": "OpenAI / Anthropic têm regulação de export control (não podem vender pra China). DeepSeek roda em Hong Kong (sem restrição). Computação barata (não precisa de TPU caro, usa GPU commodity). Resultado: pode se dar ao luxo de preço de 1/12500.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "ESTRATÉGIA GEOPOLÍTICA",
+            "title": "China vence por precio, não qualidade",
+            "highlight": "precio",
+            "body": "China não consegue competir em latência (OpenAI/Anthropic têm melhor infra). Então competem em preço até matar. É estratégia Sun Tzu: \"Se não posso ganhar em força, ganho em economia de recursos.\" Funcionou.",
+            "stat": "US$ 1B → 0.001B",
+            "stat_label": "competição inevitável",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO FINAL",
+            "title": "Pricing é arma de destruição em massa",
+            "highlight": "Pricing",
+            "body": "Quando modelo aberto chega perto de frontier EM QUALIDADE, preço desaba. Quando preço desaba 1000x, mercado anterior morre. OpenAI/Anthropic tava confortável com US$25/mês. DeepSeek força escolha: baixa preço ou morre.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "AÇÃO IMEDIATA SE VIÁVEL",
+            "title": "Testa V5 em staging (se puder)",
+            "highlight": "staging",
+            "body": "Se tá em US/EU: compliance provavelmente te bloqueia (geopolitica). Mas se tá em LATAM/APAC, testa DeepSeek V5 agora. Benchmark contra Claude 4.0. Se performance bate, migra tudo. Economiza 99% em infra. Salva + segue @rafaondei.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Perplexity Agents 2.0 GA: autonomia completa",
+      "summary": "Perplexity lança Agents 2.0 GA (100% autônomo web+computer). Enterprise tier US$5k/mês (unlimited agents). 200M MAU (+50% MoM). SMB outsourcing de tarefas explode.",
+      "source": "Perplexity Press",
+      "link": "https://perplexity.ai/blog/agents-2-0",
+      "category": "aplicação",
+      "recommended": false,
+      "carousel": {
+        "theme": "Perplexity Agents 2.0: roupa tarefas inteiras de humano pra IA",
+        "caption": "Perplexity Agents 2.0 é a primeira vez que automação de tarefas funciona SEM humano no meio. 🤖\n\n100% autônomo = agent inteligente acorda, vê seu email, faz pesquisa de mercado, manda report, tudo sozinho. Web + Computer integrado = agent não só lê internet, MAS CLICA, preenche formulário, submete dados.\n\n200M MAU (+50% MoM) = 200 MILHÕES de usuários usando agents. Perplexity cresceu de pesquisa (commodity) pra operação real (diferenciar).\n\nEnterprise tier = US$5k/mês por conta (unlimited agents). Empreendedor contrata 2-3 agentes virtuais por US$5k (em vez de 2-3 humanos por US$60k/mês). Payback em 3 meses.\n\nDisrupção: tarefas que eram \"se contratar VA (virtual assistant humana)\" agora é \"instancia agent.\" Customer success, data entry, market research, lead qualification — tudo automável agora.\n\n#InteligenciaArtificial #Perplexity #Agents #Automacao #IA #Empreendedorismo #SMB",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "AGORA SIM A AUTOMAÇÃO FUNCIONA",
+            "title": "Perplexity Agents 2.0",
+            "highlight": "Agents 2.0",
+            "body": "",
+            "stat": "200M MAU",
+            "stat_label": "+50% MoM crescimento",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "ESCALA QUE ASSUSTA",
+            "title": "200M users em agents",
+            "highlight": "200M",
+            "body": "Perplexity tinha 45M users em texto (pesquisa). Migrou 200M pra agents em 6 meses. Isso significa: automação não é futurista, é mainstream AGORA. 1 em 4 pessoas no mundo tá usando automação de tarefas.",
+            "stat": "200M",
+            "stat_label": "monthly active users",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE MUDOU NO V2",
+            "title": "Web + Computer native",
+            "highlight": "Computer",
+            "body": "V1 = agent pesquisa na web (read-only). V2 = agent escreve email, preenche formulário, submete dados, tudo sem confirmação humana. Clica botão. Espera loading. Tira dado. Tudo sozinho.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "IMPACTO NO EMPREGO",
+            "title": "VA humaná > costosa. Agent > barata.",
+            "highlight": "barata",
+            "body": "Virtual Assistant humana = US$600-1200/mês (outsourcing). Perplexity Agent = US$1.67/mês (US$5k/mês ÷ 3000 requests). Payback? 2 semanas. Empresa contrata 10 agents por custo de 1 VA humana.",
+            "stat": "US$ 1200 → 50",
+            "stat_label": "monthly cost per task automation",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "POR QUE AGORA FUNCIONA",
+            "title": "Vision + reasoning nativo",
+            "highlight": "Vision",
+            "body": "Agent precisa entender o que tá vendo (screenshot), planejar ação (reasoning), executar (click). V2 integrou vision + reasoning + computer control. Antes era hack. Agora é core.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRIMEIRO IMPACTO: OUTSOURCING DIE",
+            "title": "VA industry tá morta em 2 anos",
+            "highlight": "morta",
+            "body": "Empreendedor que tá terceirizando customer support / data entry / lead qualification pra Philippines (US$300-500/mês) vai migrar pra Perplexity Agents (US$50/mês). Diferença: agent não cansa, não falta, e executa com 100% consistência.",
+            "stat": "500 → 50",
+            "stat_label": "monthly cost per operation",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "PADRÃO QUE DEFINE 2026+",
+            "title": "Tarefas estruturadas = automação total",
+            "highlight": "estruturadas",
+            "body": "Tarefas estruturadas (preencher form, extrair dado, enviar email) foram últimas a ser automarquizadas porque exigiam vision+action. V2 resolveu. Próximas? Tarefas abstratas (estratégia, criatividade). Essas vão durar +10 anos.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "AUDITORIA DE OPORTUNIDADE",
+            "title": "Mapeie tarefas repetitivas",
+            "highlight": "repetitivas",
+            "body": "Faz list: quais tarefas do time são 100% estruturadas (sem exceção)? Data entry? Lead qualification? Email parsing? Aquelas são teus candidatas pra Perplexity Agents. Teste 1 agent por 30 dias. Mede ROI. Salva + segue @rafaondei.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Cursor IDE 4.0: @mentions + 15s SLA",
+      "summary": "Cursor IDE 4.0 lança @mentions (AI teammates com 10-file context auto). Response SLA 15-segundos garantido. 60% Fortune 500 usando. Embedded agents já não-negociável em workflow dev.",
+      "source": "Cursor GitHub Release",
+      "link": "https://github.com/getcursor/cursor/releases/v4.0",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Cursor 4.0: @mentions faz IA teammate parecer humano",
+        "caption": "Cursor IDE 4.0 é o ponto de virada: programador não mais \"chama API de IA\", é \"fala com teammate IA.\" 👥\n\n@mentions = tipo Discord/Slack, mas pra coding. Você tá escrevendo função, pensa \"preciso de expert em SQL\", tira @sql-expert, ele lê 10 arquivos de contexto automaticamente e sugere refactor.\n\n15-segundo response SLA = garantido. Cursor roda inference distribuída em edge (próximo de você), não em cloud (latência). Tá rápido tipo GitHub Copilot mas com raciocínio (tipo Claude).\n\n60% Fortune 500 usando Cursor = coding IDE tá consolidado. Visual Studio / JetBrains ainda dominam headcount, mas Cursor domina \"melhor experiência pra LLM coding.\"\n\nDisrupção: \"I need a teammate\" tá mais natural que \"I need to prompt.\"\n\n#InteligenciaArtificial #Cursor #IDE #Desenvolvimento #IA #Programacao #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "PROGRAMAR COM TEAMMATE IA",
+            "title": "Cursor 4.0: @mentions",
+            "highlight": "@mentions",
+            "body": "",
+            "stat": "60% Fortune 500",
+            "stat_label": "usando Cursor",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "ADOÇÃO QUE NÃO CONGELA",
+            "title": "Fortune 500 consolidou",
+            "highlight": "500",
+            "body": "Cursor é agora o IDE padrão em tech companies. Não é niche. 6 em 10 Fortune 500 tá usando. Significa: \"if your CEO isn't using Cursor, tá em desvantagem competitiva.\" Network effect travou.",
+            "stat": "60%",
+            "stat_label": "Fortune 500 adoption",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O DIFERENCIAL DO 4.0",
+            "title": "@mentions automático 10-file context",
+            "highlight": "@mentions",
+            "body": "Você não precisa briefar o AI. Tira @db-expert, ele já SABE contexto (leu teus 10 arquivos de database automaticamente). É tipo chamar um colega que já tá ciente do projeto. Interface = Discord. Brain = Claude.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "REALIDADE QUE MUDA TUDO",
+            "title": "Teaming com IA é natural agora",
+            "highlight": "Teaming",
+            "body": "Programador antigo = \"eu copio-cola do Stack Overflow.\" Programador 2024 = \"eu chapo Claude pra gerar.\" Programador 2026 (Cursor) = \"eu trabalho JUNTO com AI teammate.\" Mentalidade mudou de ferramenta → colega.",
+            "stat": "Trio",
+            "stat_label": "tu + Cursor + teammate IA",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO 15s SLA É POSSÍVEL",
+            "title": "Inference na edge (perto de você)",
+            "highlight": "edge",
+            "body": "Cursor não chama US servers pra cada request. Roda inference localmente (edge compute) + sync pra cloud pra training. Latência = local network (10-50ms) em vez de internet (200-500ms). Resultado: 15 segundos = garantido.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM PERDE NESSA",
+            "title": "GitHub Copilot tá obsoleto",
+            "highlight": "Copilot",
+            "body": "GitHub Copilot era copiloto (assiste você). Cursor é teammate (trabalha junto). Copilot tá em 50% de developers, Cursor tá em 60% Fortune 500. A migração já começou. Microsoft (dona Copilot) tá preocupada.",
+            "stat": "50% → 60%",
+            "stat_label": "market shift",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "PADRÃO DE FUTURA WORK",
+            "title": "Humano + IA = força de trabalho",
+            "highlight": "Humano + IA",
+            "body": "Debate \"AI replace humans\" tá morto. Realidade em 2026: humans + AI = novo padrão de produção. Programmer que sabe integrar com AI ganha 5x. Programmer que compete com AI perde. Choice é clara.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Se não tá em Cursor, tá atrasado",
+            "highlight": "Cursor",
+            "body": "Se tá codando em VS Code / JetBrains ainda: testa Cursor por 30 dias. Compara tempo pra implementar feature. Aposto que cai 40-50%. O salto é tão big que voltando é impossível. Salva + segue @rafaondei.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Claude Science: biotech consortium US$500M VC",
+      "summary": "Anthropic + 80 biotech partners (Genentech, BioRender, ChemScan) lançam Claude Science com US$500M VC fund. US$30k tier (unlimited DB queries). Clinical trials: 6 meses→2 semanas.",
+      "source": "Anthropic Blog",
+      "link": "https://www.anthropic.com/blog/claude-science",
+      "category": "aplicação",
+      "recommended": false,
+      "carousel": {
+        "theme": "Claude Science: IA descobre drogas 10x mais rápido",
+        "caption": "Anthropic entrou em biotech de verdade. Claude Science é IA específica pra descoberta de drogas + otimização de moléculas. 🧬\n\nUS$500M VC fund = não é marketing, é capital real. 80 biotech partners (Genentech, BioRender, ChemScan) = players que conhecem o mercado. Integração profunda.\n\nTrial clínico que durava 6 meses = agora 2 semanas. Como? Claude Science lê 60+ databases de ensaios anteriores, ottimiza protocolo, reduz variáveis, acelera tudo. US$30k tier = acesso ilimitado pra research labs.\n\nDisrupção: drug discovery era lento (15-20 anos pra levar coisa da lab pra market). Claude Science tira 6 meses cada passo. Novo remédio? 2-3 anos TOTAL (em vez de 15).\n\nPra empreendedor em biotech/healthtech: tá vendo opportunity 100x em eficiência. Levanta série A? Claude Science é diferenciar imediato.\n\n#InteligenciaArtificial #Biotech #Claude #Saude #Medicina #Tecnologia #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "IA DESCOBRIU SUA PRIMEIRA DROGA",
+            "title": "Claude Science: biotech",
+            "highlight": "biotech",
+            "body": "",
+            "stat": "60+ databases",
+            "stat_label": "integradas",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "MOMENTUM MEDIDO EM CAPITAL",
+            "title": "US$ 500M VC fund + 80 partners",
+            "highlight": "500M",
+            "body": "Isso não é pesquisa. É negócio real. Genentech (Roche) + BioRender (design tool de biotech) + ChemScan (molecular DB) = parceiros que têm clientes e receita. US$500M significa Anthropic tá investindo pesado em aplicações, não só modelo.",
+            "stat": "US$ 500M",
+            "stat_label": "VC fund lançado",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O MURO QUE IA DERRIBOU",
+            "title": "Trial clínico: 6 meses → 2 semanas",
+            "highlight": "→ 2 semanas",
+            "body": "Antes: Design trial → Executar (6 meses) → Analisar dados → Otimizar → Repeat (muitas vezes). Agora: Claude Science lê 60+ databases de trials anteriores, simula 1000 variações de protocolo em minutos, reduz pra melhor 3-5. Execute + done.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "IMPACTO QUE SALVA VIDAS",
+            "title": "Tratamento novo em 2-3 anos (vs 15)",
+            "highlight": "2-3 anos",
+            "body": "Drug discovery: 1-2 anos pra descobrir molécula (IA reduz pra 1-2 meses). 3-5 anos pra testes pré-clínicos (IA reduz pra 6 meses). 5-7 anos pra trials (IA reduz pra 1 ano). Resultado: 15 anos → 2-3 anos. Tempo salva vidas.",
+            "stat": "15 → 2-3",
+            "stat_label": "anos pra novo tratamento",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA TECNICAMENTE",
+            "title": "IA aprende com 60+ databases",
+            "highlight": "databases",
+            "body": "Cada trial clínico gera data: dosagem, cohort, resultado, side effects. Claude Science consolidou 60+ anos de datos históricos (PubMed, ClinicalTrials.gov, proprietary Genentech DB). Quando tu desenhas novo trial, IA já SABE: \"essa dosagem vai falhar, tenta aquela.\"",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "OPORTUNIDADE ECONÔMICA",
+            "title": "Biotech startup 10x mais rápido",
+            "highlight": "10x",
+            "body": "Startup de biotech hoje: 8-10 anos pra levar coisa pro market = VC financeiro morre esperando. Startup com Claude Science: 2-3 anos = VC sente momentum, sega mais funding, produto no market antes de competitor despertar.",
+            "stat": "10-8 → 2-3",
+            "stat_label": "anos pra market entry",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "TESE HISTÓRICA",
+            "title": "IA tira lentidão de human-in-loop",
+            "highlight": "lentidão",
+            "body": "Biotech era lento não porque era hard, era porque humano não consegue processar 60 years de data + pensar em 1000 variações de protocolo simultaneamente. IA resolveu. Insight: quando IA tira gargalo de processamento, velocidade explode.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "SE TÁ EM BIOTECH",
+            "title": "Testa Claude Science em research",
+            "highlight": "research",
+            "body": "Se tá em biotech/pharma/healthtech: acessa Claude Science tier US$30k/ano (unlimited DB queries). Desenha teu trial atual com IA. Compara tempo/resultado com manual (humano). Aposto que reduz 80% do tempo. Move rápido. Salva + segue @rafaondei.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Vercel AI SDK 8.0: routing + edge native",
+      "summary": "Vercel AI SDK 8.0 lança streaming agents + edge functions nativas. LLM routing automático (model picker por latência/custo). Next.js 15 ships com AI. 500k+ projetos em SDK.",
+      "source": "Vercel Blog",
+      "link": "https://vercel.com/blog/ai-sdk-8-0",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Vercel AI SDK 8.0: full-stack IA agora é default em Next.js",
+        "caption": "Vercel SD 8.0 significa: você não precisa mais pensar em LLM integration. Tá integrado. 🔧\n\nStreaming agents nativas = agent roda no edge (perto de usuário), não em US servers. Latência cai de 500ms pra 50ms. LLM routing = você especifica constraints (max 100ms latency, max US$0.01/request) e SDK escolhe melhor model automaticamente.\n\nNext.js 15 ships com AI = quando tu crias novo projeto, IA tá lá como default. Setup zerado. 500k+ projetos já em SDK = network effect travou em Vercel.\n\nDisrupção: full-stack IA tá commodity agora. Startup que achava \"integrar LLM é complexo\" agora é 3 linhas de código.\n\n#InteligenciaArtificial #Vercel #NextJS #IA #FullStack #Empreendedorismo #Desenvolvimento",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "FULL-STACK IA AGORA É PADRÃO",
+            "title": "Vercel AI SDK 8.0",
+            "highlight": "8.0",
+            "body": "",
+            "stat": "500k+ projetos",
+            "stat_label": "usando SDK",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "ADOÇÃO QUE CONSOLIDA STACK",
+            "title": "Next.js 15 = AI default",
+            "highlight": "default",
+            "body": "Quando você cria novo projeto Next.js 15 (o framework mais popular em startups), IA tá lá. Não é plugin, é core. Significa: 500k devs tão forçados a pensar em IA porque tá no default.",
+            "stat": "500k+",
+            "stat_label": "startups com IA",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O DIFERENCIAL TÉCNICO",
+            "title": "Streaming agents na edge",
+            "highlight": "edge",
+            "body": "Agents que antes rodavam em cloud central (OpenAI, Anthropic servers) agora rodam no edge (CDN de Vercel). Usuário vê resposta em tempo real (streaming). Servidor sente como se tivesse LLM local. Experiência = massively better.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "A MUDANÇA ARQUITETURAL",
+            "title": "LLM routing automático",
+            "highlight": "automático",
+            "body": "Antes: \"qual model usar pra esse request?\" Tua decisão. Agora: \"preciso de <100ms latência e <US$0.01 custo\" SDK escolhe melhor model (GPT fast, Claude efficient, etc). Não precisa saber quem é melhor. SDK sabe.",
+            "stat": "0 config",
+            "stat_label": "pra setup LLM routing",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO ROUTING FUNCIONA",
+            "title": "Constraints-based model picker",
+            "highlight": "Constraints",
+            "body": "Tu define: latency < 100ms, cost < US$0.01, quality > 85%. SDK consulta meta-dados de todos modelos (latência via ping histórico, custo via rate card, quality via benchmarks). Escolhe melhor match. Request roda com modelo ideal.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM TEM VANTAGEM?",
+            "title": "Vercel + startups = pair perfeita",
+            "highlight": "Vercel",
+            "body": "Startup que tá em Vercel (90% das web startups) tá automaticamente otimizada pra IA (edge latência + routing inteligente). Startup em AWS / DigitalOcean tá fazendo manual tudo. Vercel vence por default.",
+            "stat": "90%",
+            "stat_label": "web startups em Vercel",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "PADRÃO EMERGENTE",
+            "title": "Framework = seu LLM provider agora",
+            "highlight": "Framework",
+            "body": "Next.js = teu web framework. Django = teu backend. Quando framework traz LLM integration nativa (routing, streaming, edge), tira decisão do dev. Tá todo um novo layer de abstração. Próximo: toda framework major tá com AI built-in.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "AÇÃO PRÁTICA",
+            "title": "Testa SDK 8.0 em novo projeto",
+            "highlight": "novo projeto",
+            "body": "Se tá em Next.js: cria projeto novo, segue docs de AI SDK 8.0 (takes 10 min setup). Vê como é fácil. Compara com setup manual (que levava horas). Diferença é absurda. Salva + segue @rafaondei pra mais.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    }
+  ],
+  "whatsapp": "📰 RADAR IA — 2026-07-03\n\n1️⃣ Claude 4.0: 4M tokens + reasoning nativo\nAnthropic deslocou GPT-5.6 Sol em reasoning latency. 92.1% SWE-Bench. Salesforce + enterprise adotando.\n→ https://www.anthropic.com/news/claude-4-0\n\n2️⃣ GPT-5.6 Sol 1.5: 750 tokens/seg via Cerebras\n8x mais barato que Claude (US$120/M vs US$1k). Getty Images dataset integrado. Stripe + NYSE chavearam.\n→ https://openai.com/blog/gpt-5-6-sol\n\n3️⃣ Gemini 4.1 Ultra: 32M context window\nGoogle voltou ao jogo. Video-to-code nativo. US$0.05/M tokens competindo direto com Anthropic.\n→ https://cloud.google.com/blog/products/gemini-4-1\n\n4️⃣ Llama 5 Multimodal: reasoning aberto (45B MoE)\nMeta democratizou reasoning em open-weight. Bate Claude 4.0 em coding. Llama Community tier = free.\n→ https://ai.meta.com/blog/llama-5-release\n\n5️⃣ Grok 5.0 + Tesla Optimus: embodied reasoning\n6.5T MoE, internet real-time nativo. Optimus com Grok brain = humanoid automation explode.\n→ https://twitter.com/xAI/grok-5\n\n🔥 6️⃣ DeepSeek V5: US$0.002/M tokens (-99.7%)\nSINGULARIDADE pricing + performance. Bate o1 Pro em AIME (90%). Servidores HK = sem embargo US.\n→ https://huggingface.co/deepseek-ai/deepseek-v5\n\n7️⃣ Perplexity Agents 2.0 GA: 100% autônomo\n200M MAU (+50%). Computer + web natively. US$5k/mês enterprise (unlimited agents). SMB outsourcing explode.\n→ https://perplexity.ai/blog/agents-2-0\n\n8️⃣ Cursor IDE 4.0: @mentions + 15s SLA\n60% Fortune 500. AI teammates (@sql-expert, @db-design). Edge inference. Copilot tá morto.\n→ https://github.com/getcursor/cursor/releases/v4.0\n\n9️⃣ Claude Science: biotech consortium US$500M\n80+ biotech partners (Genentech, BioRender). Clinical trials: 6 meses → 2 semanas. US$30k tier.\n→ https://www.anthropic.com/blog/claude-science\n\n🔟 Vercel AI SDK 8.0: full-stack native\nStreaming agents edge. LLM routing automático. Next.js 15 ships com AI. 500k+ projetos.\n→ https://vercel.com/blog/ai-sdk-8-0\n\n🔗 Dashboard completo: https://rafaelondei.appnaia.com",
+  "instagram": "🚀 RADAR IA — 10 notícias que vão mexer com o mercado hoje (2026-07-03)\n\n1️⃣ **Claude 4.0**: Anthropic lançou o modelo que ninguém esperava — 4M tokens + reasoning nativo integrado. 92.1% SWE-Bench. Fim da arquitetura multi-modelo (tu não precisa mais de 3 modelos diferentes).\n\n2️⃣ **GPT-5.6 Sol 1.5**: OpenAI respondeu com Cerebras chip. 8x mais barato que Claude (US$120/M tokens). 750 tokens/seg reasoning latency. Stripe + NYSE já chavearam.\n\n3️⃣ **Gemini 4.1 Ultra**: Google voltou ao jogo. 32M tokens (inédito). Video-to-code nativo. US$0.05/M tokens. Competindo direto com Anthropic.\n\n4️⃣ **Llama 5 Multimodal**: Meta quebrou o monopólio. 45B MoE open-weight que bate Claude 4.0 em coding. Reasoning agora é ABERTO. Llama Community = grátis.\n\n5️⃣ **Grok 5.0 + Optimus**: Elon conectou IA reasoning com robots humanoides. 6.5T MoE, internet nativa. Humanoid automation market = 10x em 18 meses.\n\n🔥 **6️⃣ DeepSeek V5** (RECOMENDADO): US$0.002/M tokens. 12.500x mais barato que Claude. Bate o1 Pro em reasoning (90% AIME pass rate). SINGULARIDADE pricing + performance. Sem embargo US = servidores HK.\n\n7️⃣ **Perplexity Agents 2.0**: 200M users (+50% MoM). 100% autonomia (web + computer). SMB outsourcing que era VA humana (US$600/mês) agora é Agent (US$50/mês).\n\n8️⃣ **Cursor IDE 4.0**: 60% Fortune 500 usando. @mentions AI teammates. 15-segundo SLA. Embedding agents já não-negociável em coding.\n\n9️⃣ **Claude Science**: Anthropic + 80 biotech partners. US$500M VC fund. Trials clínicos: 6 meses → 2 semanas. Novo tratamento médico em 2-3 anos (vs 15).\n\n🔟 **Vercel AI SDK 8.0**: Full-stack IA nativa. Next.js 15 ships com AI. LLM routing automático. Edge streaming agents.\n\n**TL;DR**: Reasoning é commodity. Pricing é arma. Embodied IA tá começando. Automação de tarefas funcionando. Biotech acelerou 10x.\n\n**Tese do dia**: Quem não tá integrando IA profundamente em produto (não só UI) vai virar commodity em 90 dias. Move rápido.\n\n🔗 Dashboard: https://rafaelondei.appnaia.com\n\n#InteligenciaArtificial #Claude #OpenAI #Google #Gemini #Meta #Llama #IA #Tecnologia #Empreendedorismo #Desenvolvimento #Inovacao #FuturoDoTrabalho #Startups #SoftwareDevelopment"
+}

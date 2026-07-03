@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-07-02T07:00:01-03:00",
+  "updated_at": "2026-07-03T07:00:01-03:00",
   "executions": [
+    {
+      "date": "2026-07-03",
+      "key": "2026-07-03",
+      "topic": "mercado de IA",
+      "summary": "Claude 4.0 (4M tokens, reasoning nativo, 92.1% SWE-Bench); GPT-5.6 Sol 1.5 (Cerebras 750tok/seg, 8x barato); Gemini 4.1 Ultra (32M context, video-to-code); Llama 5 (45B MoE reasoning open); Grok 5.0 (6.5T MoE + Tesla Optimus embodied); DeepSeek V5 (US$0.002/M, 90% AIME); Perplexity Agents 2.0 (200M MAU, 100% autonomia); Cursor 4.0 (@mentions, 60% Fortune 500); Claude Science (US$500M biotech fund, 6m→2w trials); Vercel SDK 8.0 (streaming agents edge, LLM routing automático)",
+      "items_count": 10
+    },
     {
       "date": "2026-07-02",
       "key": "2026-07-02",
