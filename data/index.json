@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-07-03T07:00:01-03:00",
+  "updated_at": "2026-07-04T07:00:01-03:00",
   "executions": [
+    {
+      "date": "2026-07-04",
+      "key": "2026-07-04",
+      "topic": "mercado de IA",
+      "summary": "GPT-5.6 Sol (Cerebras 750 tok/seg, 3 tiers pricing); Claude Sonnet 5 (1M tokens default, reasoning nativo); Claude Science (biotech $30k créditos, 60+ databases); Fable 5 relançada (embargo suspenso); DeepSeek V4 surge pricing (2x pico); Perplexity hybrid local-cloud routing; Cursor iOS agents; Gemini Live Translate (70+ idiomas); AI pricing -99% (deflação, margem evaporou); Enterprise agents 79% adoption 31% production 45.8% CAGR; Meta compute cloud (monetiza 1M+ H100s)",
+      "items_count": 10
+    },
     {
       "date": "2026-07-03",
       "key": "2026-07-03",
