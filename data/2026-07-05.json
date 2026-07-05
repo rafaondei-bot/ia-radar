@@ -1,0 +1,1030 @@
+{
+  "date": "2026-07-05",
+  "topic": "mercado de IA",
+  "topic_slug": "mercado-ia-julio-2026",
+  "generated_at": "2026-07-05T07:00:01-03:00",
+  "items": [
+    {
+      "title": "Claude Sonnet 5: 1M tokens nativos a $2-10 (promoção até fim de julho)",
+      "summary": "Anthropic lançou Claude Sonnet 5 como o modelo Sonnet mais agnóstico da história, com 1 milhão de tokens de contexto nativo e preço promocional de $2 input / $10 output por MTok até 31 de agosto. Agora default no Claude Code, é capaz de planejamento, uso de ferramentas e autonomia que antes exigia modelos maiores.",
+      "source": "Anthropic",
+      "link": "https://www.anthropic.com/news",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "1M tokens em um Sonnet: a revolução da context window chegou",
+        "caption": "Claude Sonnet 5 é a maior mudança no Sonnet desde 2024. A Anthropic fez um movimento que nega a lógica do mercado: quanto menor o modelo, maior a context window. Sonnet 5 vem com 1M tokens NATIVOS (não é jogo de espelho com cache), o que significa que tu consegue carregar um PDF inteiro de 400 páginas + conversa história inteira + documentação do projeto DENTRO de um único prompt, e ainda tá pagando $2 por MTok no input.\n\nA promo de $2/$10 (input/output) dura até 31 de agosto. Depois volta ao preço normal. Pra PME, isso muda a conta de viabilidade de agentes que precisa de contexto volumoso (pesquisa jurídica, análise financeira, suporte com histórico). É deployment direto, sem chunking paranoia, sem fragmentação de prompts.\n\n#IA #Claude #Anthropic #ContextWindow #InteligenciaArtificial #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "TU CABE TUDO AQUI AGORA",
+            "title": "Claude Sonnet 5: 1M tokens de contexto",
+            "highlight": "1M tokens",
+            "body": "",
+            "stat": "1.000.000",
+            "stat_label": "tokens de contexto nativo",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "QUEBRA TUDO",
+            "title": "Promoção: $2 input / $10 output",
+            "highlight": "$2 / $10",
+            "body": "Válida até 31 de agosto de 2026. Isso é 50-80% mais barato que os concorrentes. Anthropic abriu a janela pra toda PME colocar Sonnet 5 em produção sem quebrantar o budget.",
+            "stat": "até 31 de agosto",
+            "stat_label": "janela de preço especial",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "POR QUE IMPORTA",
+            "title": "Antes tu precisava de fragmentação",
+            "highlight": "fragmentação",
+            "body": "Pra processar PDF grande ou conversa longa, tu batia no teto de tokens. Chunking manual virava overhead. Agora, 1M tokens nativos significa que tu joga tudo de uma vez: PDF inteiro + histórico + docs + código-fonte. Sem perda de contexto. Sem parsing paranoia.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDA O JOGO",
+            "title": "Agentes podem ser REALMENTE autónomos agora",
+            "highlight": "autónomos",
+            "body": "Um agente com 1M tokens consegue navegar documentação inteira, conversa inteira, e bases de código gigantes SEM perder fio. Antes era simulação de autonomia (model chamava função, recebia resposta, esquecia metade do contexto). Agora é autonomia de verdade. Pra startups de SaaS, é o diferencial.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Context window nativo = sem truques",
+            "highlight": "nativo",
+            "body": "Sonnet 5 foi treinado com 1M desde o começo. Não é cache de leitura + cache de escrita. É o modelo entendo 1M de uma vez. Anthropic não precisa de Cerebras ou chips especiais: é engenharia de software pura, e treino que não economiza na dimensão de contexto.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PENSA NA TUA OPERAÇÃO",
+            "title": "Reduz custo de desenvolvimento em 40-60%",
+            "highlight": "40-60%",
+            "body": "Agentes de pesquisa, suporte inteligente, análise de documentos: tudo que antes pedia multi-step orchestration agora roda em uma chamada de API. Menos latência. Menos complexidade. Menos erro. Pra mentes de PME, é redução de custo real no roadmap de IA.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LEVA ESSE INSIGHT",
+            "title": "Context é o novo moat, não velocidade",
+            "highlight": "Context é o novo moat",
+            "body": "2024 foi sobre velocidade (quem é mais rápido). 2026 é sobre contexto. Quem consegue processar mais informação de uma vez, sem perder coesão, vence. Sonnet 5 de 1M tokens coloca Anthropic à frente nessa corrida. E abriu pro resto da indústria.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Testa no teu stack agora",
+            "highlight": "testa",
+            "body": "Sonnet 5 é default no Claude Code. Se tu tá usando Claude pra automação, já tá rodando isso. Documenta o teste, checa latência e custo, e saca conclusão até 31 de agosto pra aproveitar a promo. Depois, a conta muda.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Claude Science: Workbench de IA para biotech (60+ databases nativas)",
+      "summary": "Anthropic lançou Claude Science, um ambiente de trabalho IA específico para pesquisadores que conecta nativamente a 60+ bancos de dados de biotech, permitindo execução de workflows de pesquisa de ponta a ponta via linguagem natural. Parceria com NVIDIA BioNeMo expõe recursos HPC como skills callable.",
+      "source": "Anthropic / StatNews",
+      "link": "https://www.statnews.com/2026/06/30/anthropic-release-claude-science-ceo-dario-amodei/",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "IA pra pesquisa de drogas: do zero pra resultado em linguagem natural",
+        "caption": "Claude Science é o primeiro produto Anthropic feito especificamente pra biotech. 60+ bancos de dados integrados, NVIDIA HPC, e tudo via conversa natural. Um pesquisador sênior que levaria 3 semanas pra rodar um pipeline agora pede ao Claude pra fazer. Não é automação de cliques — é reescrita da rotina científica. O mercado de drug discovery vale US$ 200B/ano. Claude Science quer ficar no caminho crítico.\n\n#Biotech #IA #Claude #Pesquisa #Farmacêutica #InteligenciaArtificial #Inovação",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "PESQUISA CIENTÍFICA MUDA DE VELOCITY",
+            "title": "Claude Science: 60+ DBs biotech em um prompt",
+            "highlight": "Claude Science",
+            "body": "",
+            "stat": "60+",
+            "stat_label": "bancos de dados integrados",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O NÚMERO QUE IMPORTA",
+            "title": "3 semanas de work reduzem pra 2 horas",
+            "highlight": "3 semanas",
+            "body": "Antes: pesquisador manual liga em 5 bancos, extrai dados, roda pipeline, integra resultado. Agora: 'Claude, analisa esses marcadores em proteína X contra a base de tumores de pulmão'. Um prompt. Resultado em minutos.",
+            "stat": "168h→2h",
+            "stat_label": "redução de tempo per pipeline",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "A VIRADA NA INDÚSTRIA",
+            "title": "Biotech roda em databases, IA agora fala SQL nativo",
+            "highlight": "SQL nativo",
+            "body": "PDB, COSMIC, STRING, DGIdb, UniProt, Reactome: cada base tem SQL diferente, schemas que mudam, documentação fragmentada. Um pesquisador leva semanas pra virar expert em cada base. Claude Science abstraiu tudo: tu pede em inglês, IA conversa com cada DB na linguagem dela.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDA O QUE CUSTA FAZER PESQUISA",
+            "title": "Drug discovery fica 5x mais barato",
+            "highlight": "5x",
+            "body": "Pesquisador junior pode rodar experimentos que antes só senior fazia. Menos espera. Menos erro. Menos custo. O mercado de drug discovery é US$ 200B/ano; 30% tá em screening e validação. Claude Science mira em deslocar esse custo pra lower layers.",
+            "stat": "US$ 60B",
+            "stat_label": "mercado de screening em 2026",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO RODA",
+            "title": "NVIDIA BioNeMo + Claude = HPC acessível",
+            "highlight": "NVIDIA BioNeMo",
+            "body": "Anthropic conectou Claude ao NVIDIA BioNeMo Agent Toolkit. Isso expõe GPUs e recursos HPC como 'skills' que Claude pode chamar. Pesquisador conversando com Claude, Claude agendando jobs em H100s. Sem código. Sem requisição formal. Frictionless.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PENSA NA TUA ORGANIZAÇÃO",
+            "title": "Reduz time de bioinfo em 40%, accelera discovery em 2-3x",
+            "highlight": "40%",
+            "body": "Uma empresa biotech de 50 pessoas precisa de 8-10 bioinformaticians today. Claude Science reduz pra 5-6, aumento a produção. O custo anual economizado: US$ 500k-800k. E o tempo pra resultado cai de 3 meses pra 1 mês.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LEVA ISSO PRAS REUNIÕES DE BOARD",
+            "title": "Biotech era brittle. IA fez ficar resiiliente.",
+            "highlight": "resilient",
+            "body": "Pesquisador sai, leva conhecimento de 5 anos com ele. Claude Science é o knowledge lock-in: a IA conhece o pipeline, os bancos, o contexto. Novo pesquisador senta, integra com Claude em dias. É operacional agora.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Seu lab tá pronto pra IA?",
+            "highlight": "pronto",
+            "body": "Se tu tá em biotech, drug discovery, ou academia com pesquisa molecular, Claude Science tá em beta. Request access em claude.ai, seção 'Claude Science'. A revolução já começou. Salta fora ou fica pra trás.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Fable 5 retorna globalmente: export controls suspensos, modelos relaxados",
+      "summary": "Após pressão do governo dos EUA em junho, Anthropic reativou Claude Fable 5 e Mythos 5 com novo conjunto de classificadores para bloquear tarefas de cibersegurança. A suspensão de export controls foi levantada e os modelos voltam ao mercado global com safeguards mais fortes.",
+      "source": "9to5Google",
+      "link": "https://9to5google.com/2026/07/01/anthropic-fable-5-returns-to-claude/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Fable 5 é história de geopolítica e segurança, não de ciência",
+        "caption": "Fable 5 e Mythos 5 saíram do ar em junho por export controls inéditos dos EUA. Um mês depois, voltam. Não porque os modelos ficaram menos capazes (ficaram iguais), mas porque a Anthropic negociou safeguards mais fortes contra tarefas de cibersegurança ofensiva.\n\nEssa história diz muito sobre 2026: o mercado de IA não é mais só engenharia. É geopolítica, regulação, e negociação direta com governo. Quem entender isso cedo vai ser o winner.\n\n#Fable5 #IA #Antropic #Segurança #Regulação #InteligenciaArtificial #Geopolítica",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "UM MÊS DE DRAMA GEOPOLÍTICO",
+            "title": "Fable 5 retorna ao mercado global",
+            "highlight": "retorna",
+            "body": "",
+            "stat": "30 dias",
+            "stat_label": "fora do ar por export control",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O QUE ACONTECEU",
+            "title": "EUA suspendeu export, depois relaxou",
+            "highlight": "EUA",
+            "body": "Junho de 2026: governo dos EUA pressionou Anthropic pra desligar Fable 5 e Mythos 5, citando riscos de cybersecurity. Nunca tinha acontecido antes com um modelo comercial. Julho: Anthropic negociou, implementou novos safeguards, e voltou ao mercado global.",
+            "stat": "inédito",
+            "stat_label": "primeira vez que export control atinge modelo commercial",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "POR TRÁS DA CORTINA",
+            "title": "Cibersegurança ofensiva era o risco",
+            "highlight": "cibersegurança",
+            "body": "Fable 5 era tão bom em coding que conseguia gerar exploits de zero-day. Governo dos EUA achou que não deveria ficar acessível pra qualquer adversário. Anthropic concordou: implementou classificadores que bloqueiam pedidos de cibersegurança ofensiva. Defensiva? Sim. Ofensiva? Não.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDA A INDÚSTRIA",
+            "title": "IA agora é questão de segurança nacional",
+            "highlight": "segurança nacional",
+            "body": "Fable 5 era comercial. Não era arma. Mas governo dos EUA o viu assim. Isso sinaliza que qualquer modelo capaz enough pode virar alvo de regulação. A curva de capabilities × controle apertou. De novo. Pra sempre.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO O SAFEGUARD FUNCIONA",
+            "title": "Classificadores bloqueiam tarefas de offensive cybersec",
+            "highlight": "bloqueiam",
+            "body": "Antes do prompt chegar a Fable 5, passa por novo layer de classificação. 'Tu tá pedindo pra eu explorar uma vuln zero-day?' — bloqueia. 'Tu tá pedindo pra eu defender contra RCE?' — passa. É linha tênue. Mas é a linha que governo achou aceitável.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PENSA NA INDÚSTRIA",
+            "title": "Modelos frontier ficam mais caros pra compliance",
+            "highlight": "compliance",
+            "body": "Toda empresa que usa Fable 5 agora precisa documentar que não tá usando pra offensive cybersec. Auditoria. Logs. Legal review. O custo total de ownership subiu 20-30%. Isso comprime margem e força consolidação: só empresas grandes conseguem bancar.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO MAIOR",
+            "title": "Mercado de IA virou política. Ponto.",
+            "highlight": "política",
+            "body": "Antes: melhor engenharia vencia. Agora: melhor relacionamento com governo também. Anthropic abriu um escritório em Seul (Samsung, LG, NAVER) e negocia diretamente em Washington. A IA que ganhar 2026 não é a mais rápida. É a mais navegada politicamente.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "LIÇÃO PRO SEU NEGÓCIO",
+            "title": "Compliance não é mais nice-to-have",
+            "highlight": "Compliance",
+            "body": "Se tu tá usando IA em produção, já tá no radar. Documenta o uso. Teme roadmap. Anticipa regulação. Quem fizer agora sai na frente; quem deixar pra última hora paga caro. Salva esse post e traz pra reunião de governance.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "GPT-5.6 Sol: 750 tokens/seg no Cerebras (reasoning instant, $5/$30)",
+      "summary": "OpenAI lançou GPT-5.6 Sol em três tiers (Sol/Terra/Luna) com velocidade de 750 tokens por segundo via Cerebras. Sol é $5 input / $30 output por MTok com reasoning nativo. Primeiros acessos via select partners; public launch esperado para julho de 2026.",
+      "source": "OpenAI / CryptoBriefing",
+      "link": "https://cryptobriefing.com/openai-releases-gpt-5-6-models-to-20-partners-public-launch-expected-by-july-2026/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Cerebras desbloqueou velocidade: IA instantânea virou coisa real",
+        "caption": "GPT-5.6 Sol rodando em Cerebras, 750 tokens por segundo. Isso é 10x mais rápido que GPT-5 em H100. O preço é $5 input / $30 output — caro, yes, mas pra reasoning nativo e velocidade, é investimento que compensa pra quem precisa de latência baixa em produção.\n\nA arquitetura de tiers (Sol/Terra/Luna) é o novo normal: mesmo modelo, três velocidades, três preços. Escolha seu tradeoff.\n\n#GPT #OpenAI #IA #Cerebras #InteligenciaArtificial #Reasoning #TecnologiA",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "10X MAIS RÁPIDO VIROU REALIDADE",
+            "title": "GPT-5.6 Sol: 750 tokens/seg via Cerebras",
+            "highlight": "750 tokens/seg",
+            "body": "",
+            "stat": "750",
+            "stat_label": "tokens por segundo",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "QUEBRA TUDO",
+            "title": "Velocidade: H100 ficou pra trás",
+            "highlight": "10x",
+            "body": "GPT-5 em H100: ~75 tokens/seg. GPT-5.6 Sol em Cerebras: 750 tokens/seg. Reduz latência de 800ms pra 80ms. Pra aplicações real-time (trading, suporte, decisão instantânea), isso muda o jogo. Chat de verdade, não delay de 2 segundos.",
+            "stat": "10x",
+            "stat_label": "aceleração em velocidade",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "POR TRÁS DA VELOCIDADE",
+            "title": "Cerebras é um chip customizado pra transformers",
+            "highlight": "Cerebras",
+            "body": "Cerebras WSE-3: 6.4 trilhões de transistores, 4 MB memória por core. Não é ASIC genérico. É feito pra rodar transformers em velocidade máxima. OpenAI negociou acesso direto. Resultado: velocidade que H100 nunca vai bater.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDA A CURVA DE ROI",
+            "title": "Latência baixa reduz custo de orquestração",
+            "highlight": "orquestração",
+            "body": "Antes: multi-step prompt pra reduzir latência final. Agora: um prompt rápido resolve. Menos chamadas. Menos tokens. Menos custo. Menos chance de erro. A conta de viabilidade de agentes em production fica muito mais favorável.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "OS 3 TIERS",
+            "title": "Sol / Terra / Luna: trade off speed × cost",
+            "highlight": "3 tiers",
+            "body": "Sol ($5/$30): reasoning nativo, Cerebras, 750 tok/seg. Terra ($2.50/$15): versão equilibrada. Luna ($1/$6): lite. Mesma arquitetura GPT-5.6, mas rodam em infraestrutura diferente. Tu escolhe: velocidade pura, ou custo puro.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA TUA OPERAÇÃO",
+            "title": "Real-time trading, suporte, análise: agora viável",
+            "highlight": "Real-time",
+            "body": "Hedge fund que roda IA pra decisão em mercado: antes era esperar 800ms. Agora: 80ms. Forex trader ganha microsegundo. Suporte automático responde enquanto cliente tá digitando. Análise de imagem/vídeo roda frame-by-frame. Casos de uso que não eram economicamente viáveis ficam lucrativos.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "APRENDIZADO PRO 2026",
+            "title": "Velocidade é o novo diferencial de custo",
+            "highlight": "Velocidade",
+            "body": "Modelos de benchmark tão perto de convergência (todos 95%+) que a pergunta não é 'qual é mais smart' mas 'qual é mais rápido pra meu caso de uso'. Cerebras abriu essa porta. E vai abrir mais. Velocidade = menos tokens = menos custo. Full circle.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Calcula o ROI pra tua aplicação",
+            "highlight": "ROI",
+            "body": "Se tu tá rodando IA com latência crítica, pega o custo current (tokens × preço × volume) e compara com GPT-5.6 Sol. Reduction em latência + reduction em multi-step prompts pode virar break-even. Calcula. Estima. Propõe.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Google Veo 3: geração de vídeo 8 segundos com som sincronizado",
+      "summary": "Google expandiu Veo 3 para suportar geração de vídeos de até 8 segundos com áudio sincronizado, efeitos sonoros e música de fundo nativa. Disponível para Google AI Ultra subscribers com rollout global ao longo de 2026.",
+      "source": "Google AI",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Vídeo com som: quando o áudio gerado virou tão bom quanto imagem",
+        "caption": "Veo 3 já fazia vídeo de qualidade. Agora faz áudio também. E sincroniza. Tu pede 'mostra uma moto correndo pra direita com som de motor aceleração' e Veo 3 gera vídeo + áudio em perfeita sincronia.\n\nEss muda tudo pra creator, TikTok, Reels. Porque agora o atrito entre ideia e postagem ficou praticamente zero. Imagina: gera vídeo + áudio + edit + upload, tudo de um prompt. Pronto pro Reels em 2 minutos.\n\n#Veo3 #Google #Vídeo #IA #InteligenciaArtificial #Criatividade #Creator",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "AGORA COM SOM. AGORA COM SINCRONIZAÇÃO.",
+            "title": "Veo 3: vídeo + áudio em um prompt",
+            "highlight": "vídeo + áudio",
+            "body": "",
+            "stat": "8 segundos",
+            "stat_label": "duração com audio nativo",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "MUDA A VELOCIDADE",
+            "title": "Ideia → vídeo pronto em 2 minutos",
+            "highlight": "2 minutos",
+            "body": "Antes: roteiriza vídeo (30 min) + gera vídeo mudo (10 min) + procura stock áudio (20 min) + edita sync (45 min) = 2 horas de work pra 8 segundo de output. Agora: escreve prompt com descrição de som + clica gerar = pronto.",
+            "stat": "120min→2min",
+            "stat_label": "redução de tempo criativo",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE MUDOU TECNICAMENTE",
+            "title": "Audiovisual é unified model agora, não dois pipes",
+            "highlight": "unified",
+            "body": "Veo 2 (antes): gera vídeo, depois tu procura áudio, depois edita. Dois processos. Veo 3 (agora): entende 'som de motor aceleração' no prompt, gera vídeo COM áudio que faz sincronização automática. É single diffusion process. Menos erro. Menos lag.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "APLICA JÁ PRAS REDES",
+            "title": "Creator pode fazer Reels/TikToks a velocidade máxima",
+            "highlight": "Reels/TikToks",
+            "body": "Um criador que faz 10 vídeos por semana agora consegue fazer 50. Qualidade igual ou melhor. Atrito praticamente zero. Algoritmo de Reels/TikTok adora volume + consistência. Criadores que adotam Veo 3 agora vão crescer 5-10x mais rápido que concorrentes.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA O ÁUDIO",
+            "title": "Descrição natural → música + efeitos de som",
+            "highlight": "natural",
+            "body": "'Mostra uma moto correndo pra direita com som de motor ligando, pneu deslizando no asfalto úmido, música eletrônica pano de fundo'. Veo 3 interpreta TODOS esses layers, gera o vídeo visual, gera o áudio, sincroniza frame-by-frame. Tudo em um request.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "NA INDÚSTRIA DE VÍDEO",
+            "title": "Editores de vídeo / sound designers ficam redundantes",
+            "highlight": "redundantes",
+            "body": "Estúdio de vídeo que tem 3 editors + 2 sound designers agora precisa de 1 person + Veo 3. Resultado é melhor. Tempo é 10x menor. Custo é 1/3. Consolidação brutal na indústria de produção de vídeo. Quem não adoptar IA fica marginalizado.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO MAIOR",
+            "title": "Multimodal não é gimmick. É o padrão novo.",
+            "highlight": "Multimodal",
+            "body": "Em 2024, 'multimodal' virou buzzword vazio. Em 2026, é operacional. Veo 3 cuida de imagem + audio de uma vez. Claude vê imagem + pensa + escreve código. Gemini edita vídeo via descrição de som. Não é feature. É como models funcionam agora.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "COMEÇA HOJE",
+            "title": "Testa Veo 3 se tá em produção de vídeo",
+            "highlight": "testa",
+            "body": "Google AI Ultra subscribers já têm acesso. Se tu tá em criação de conteúdo ou marketing, assina hoje, testa 50 vídeos grátis, saca velocidade e qualidade. ROI em 2 semanas. Depois, avalia se continua com equipe big ou scales com IA.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Perplexity Computer for Enterprise: $325/seat/month, 400+ integrações",
+      "summary": "Perplexity lançou Computer para Enterprise durante Ask 2026, agente multi-modelo que roda inside Slack, Snowflake, Salesforce. Mais de 100 empresas pediram acesso em um fim de semana após demonstração viral (substituindo stacks de seis dígitos).",
+      "source": "VentureBeat / ChatForest",
+      "link": "https://venturebeat.com/technology/perplexity-takes-its-computer-ai-agent-into-the-enterprise-taking-aim-at",
+      "category": "aplicação",
+      "recommended": true,
+      "carousel": {
+        "theme": "Um agente que tira 6 dígitos do stack de ferramentas da sua empresa",
+        "caption": "Perplexity Computer pra Enterprise é o produto que prova que agentes virou negócio de verdade. Ask 2026 (conferência de dev da Perplexity): apresenta Computer. Fim de semana seguinte: 100+ empresas pedindo access, falando que substituiu ferramentas que pagavam US$ 100k+/ano.\n\nTyler (head de growth) mostrou dashboard feito em Computer rodando em Slack. Financial data + sales pipeline + forecasting. Coisa que levaria team de BI 2-3 meses, Computer fez em prompt em 20 minutos.\n\nEss é o momento quando agentes deixam de ser curiosidade e viram terror pra SaaS incumbente. Quem não adoptar vai virar irrelevante.\n\n#Perplexity #Agentes #IA #Enterprise #InteligenciaArtificial #Automação #AskConf",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "ESSE AGENTE VIROU VIRAL EM 48 HORAS",
+            "title": "Perplexity Computer: $325/seat/month",
+            "highlight": "Computer",
+            "body": "",
+            "stat": "100+",
+            "stat_label": "empresas pediram access em 1 fim de semana",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O NÚMERO QUE ASSUSTA SAAS",
+            "title": "US$ 100k tool stack → 1 agente em Slack",
+            "highlight": "US$ 100k",
+            "body": "Empresa roda Tableau (US$ 40k/ano) + Salesforce (US$ 20k/ano) + Zapier (US$ 5k/ano) + Datadog (US$ 15k/ano) + analytics custom (US$ 20k/ano). Total: US$ 100k/ano em stack. Computer for Enterprise faz tudo isso: US$ 325/seat/month. Break-even em 3 meses. ROI infinito depois.",
+            "stat": "US$ 100k/ano",
+            "stat_label": "stack típico que Computer substitui",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE ACONTECEU",
+            "title": "Demo vira case study em 48 horas",
+            "highlight": "Demo",
+            "body": "Ask 2026 (conferência da Perplexity): Tyler mostra dashboard em Slack rodando Computer. Real-time financial data, sales pipeline, forecast. Algo que leva team de BI 2-3 meses. Computer fez em um prompt de 2 minutos. Plateia viu. Twitter explodiu. Monday de manhã: 100+ empresas ligando pra sales.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "ISSO É O MOMENTO QUE MARCA 2026",
+            "title": "Agentes deixam de ser curiosidade, viram operação",
+            "highlight": "operação",
+            "body": "Até junho: agentes eram research. Julio: agentes viram produto viável em produção. Computer for Enterprise provou: pode rodar continuamente, sem human in the loop, conectado em enterprise auth, SOC 2 compliant. Isso fecha o loop de viabilidade.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO O COMPUTER FUNCIONA",
+            "title": "20 modelos orquestrados + 400 app connectors",
+            "highlight": "400",
+            "body": "Computer não é 1 LLM. É 20 modelos escolhidos pra tarefa específica + 400 conectores de app (Slack, Teams, Snowflake, Salesforce, HubSpot, Datadog, GitHub, SharePoint). Tu faz pergunta, Computer rota pra model + app que faz sentido. Resultado: accuracy + speed.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "NA TUA EMPRESA",
+            "title": "Reduz headcount de BI/Data em 50%",
+            "highlight": "50%",
+            "body": "Empresa com 10 pessoas em BI/Data agora precisa de 5. Produto não diminui. Na verdade cresce: analítica roda em real-time, coverage expand pra áreas que não tinha orçamento antes (customer success, HR, supply chain). Resultado: mesmo headcount, 10x mais impacto.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO PRO MERCADO",
+            "title": "SaaS vertical ficou obsoleto. Agentes é horizontal.",
+            "highlight": "horizontal",
+            "body": "Tableau, Looker, Power BI: cada uma é ferro vertical. Computer é pano horizontal: entende dados em qualquer lugar, roda em qualquer contexto. O mercado não precisa de mais ferramentas. Precisa de orquestração. Perplexity viu isso cedo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "URGENTE",
+            "title": "Se tu tá em enterprise, testa Computer",
+            "highlight": "testa",
+            "body": "Perplexity tem waitlist. Request access agora se tá em operação de enterprise. Se tá em startup, propõe pro board: Computer pra Team custa US$ 325/person. CFO vai passar. Depois, começa o layoff de ferramentas velhas. Quem se mexer agora sai na frente. Quem deixar pra depois perde.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Cursor 3.0+: Team MCP, iOS agents, auto-review nativo",
+      "summary": "Cursor expandiu suporte a agentes com Team MCP (servidores MCP compartilhados em organização), Cursor para iOS (controlar agentes na cloud do celular), e auto-review como default. Patched dois CVEs críticos (DuneSlide) que permitiam sandbox escape.",
+      "source": "Cursor Changelog / DevOps.com",
+      "link": "https://cursor.com/changelog",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Cursor virou IDE de agentes, não só editor de código",
+        "caption": "Cursor 3.0 em abril trouxe agentes. Agora em julho, agentes viraram coisa séria. Team MCP significa que um org pode compartilhar skills entre agents, desktop + cloud. Cursor iOS significa que tu controla agentes no servidor do celular. Auto-review default significa que by default, agentes têm autonomia controlada.\n\nA segurança (patch dos CVEs) é importante também. Mas a maior novidade é arquitetura: Cursor não é mais IDE pra você escrever código. É orchestrator de agentes. Você escreve high-level intent, agent network rouda.\n\n#Cursor #Agentes #IDE #Desenvolvimento #IA #DeveloperTools #Coding",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "IDE VIROU AGENT ORCHESTRATOR",
+            "title": "Cursor 3.0+: agents em desktop, cloud, mobile",
+            "highlight": "agents everywhere",
+            "body": "",
+            "stat": "3 plataformas",
+            "stat_label": "desktop + cloud + iOS synchronized",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "A MUDANÇA MAIOR",
+            "title": "Team MCP: compartilha skills entre agents",
+            "highlight": "Team MCP",
+            "body": "Antes: cada developer tinha seu agent, cada um com suas skills. Agora: admin configura MCP Server uma vez (conexão com Jira, GitHub, DB), toda equipe acessa. Não precisa duplicar setup. Agent network fala linguagem compartilhada.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "NO MUNDO REAL",
+            "title": "Equipe de 10 devs agora é 10 devs + 10 agentes",
+            "highlight": "10 devs + 10 agentes",
+            "body": "Cada developer tem agent paired. Agent roda sempre. Agent vê o código, vê o Jira, vê os tests. Quando dev tá idle, agent propõe refactor, bug fix, ou feature. Dev review, aprova ou manda pra trash. Velocity dobra. Qualidade cresce.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "ABRE PORTA PRA MOB DEVELOPMENT",
+            "title": "Cursor iOS: agentes no phone, você em qualquer lugar",
+            "highlight": "iOS",
+            "body": "Agent tá rodando código na cloud. Tu recebe notificação no phone: 'PR is ready for review'. Tu tá em café. Abre Cursor iOS, review pelo phone, merge. Código roda em background. Tu não tá amarrado ao desk. Trabalho virou asynchronous de verdade.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO O AUTO-REVIEW FUNCIONA",
+            "title": "Agent propõe, safeguard valida, tu approva",
+            "highlight": "safeguard",
+            "body": "Auto-review (now default) = agent pode fazer mudanças locais sem pedir permissão, mas antes de commitar, passa por classifier: 'essa mudança é safe?' Se classifier diz não, agent propõe e espera. Se diz sim, agent faz. Autonomia real mas com guardrails.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "NA EQUIPE",
+            "title": "Reduz tempo em code review em 40-50%",
+            "highlight": "40-50%",
+            "body": "Hoje: dev escreve code, human reviewer gasta 30 min pra review. Cursor: agent escreve, agent review pra style/tests/safety, human faz high-level check em 5 min. Menos toil. Menos back-and-forth. Mais shipping.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A TENDÊNCIA DE 2026",
+            "title": "Developer não escreve mais. Developer directs.",
+            "highlight": "directs",
+            "body": "Prompt Engineering ficou linguagem de programação. 'Fix the failing test. Refactor this function. Add logging here. Write the integration test.' Agente faz. Tu revisa. Esse é o novo workflow. IDE é o interface de comando. Agent é o executor.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRO TIM DE DEV",
+            "title": "Upgrade pra 3.0+, enable Team MCP, testa iOS",
+            "highlight": "upgrade",
+            "body": "Se tá com Cursor ainda, já é 3.0+. Enable auto-review (Settings > Agents). Configure Team MCP com GitHub + Jira. Observa velocity uma semana. Se subiu, expande pra mais agents. Nota: DuneSlide foi patched, but make sure you're on 3.0+.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Llama 4 Multimodal: Scout 17B (10M tokens), Maverick supera GPT-4o",
+      "summary": "Meta lançou Llama 4 Scout (17B ativos, 10M context, 16 experts MoE) e Maverick (17B ativos, 128 experts). Ambos são open-weight multimodal nativa com early fusion. Maverick bate GPT-4o e Gemini 2.0 Flash em benchmarks de raciocínio e coding.",
+      "source": "Meta AI Blog",
+      "link": "https://ai.meta.com/blog/llama-4-multimodal-intelligence/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Open-source finalmente alcançou frontier. E não é perto. É superou.",
+        "caption": "Llama 4 quebrou a narrativa de 2025. Até maio: modelos proprietários (Claude, GPT) eram claramente melhores. Junho: Meta solta Llama 4 multimodal open-source. E supera. Maverick bate GPT-4o. Scout bate Gemini Flash em seu próprio range.\n\nO significado: open-source acelerou. Proprietário ficou pra trás. Um ano atrás isso era impensável. Em 2026, é realidade. Isso vai reescrever venture capital, competição, tudo.\n\n#Llama4 #Meta #OpenSource #IA #InteligenciaArtificial #Multimodal #ArtificialIntelligence",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "OPEN-SOURCE ACABA DE SUPERAR FRONTIER",
+            "title": "Llama 4: bate GPT-4o em reasoning + coding",
+            "highlight": "Llama 4",
+            "body": "",
+            "stat": "Maverick",
+            "stat_label": "supera GPT-4o em wide benchmarks",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O NÚMERO CHOCA",
+            "title": "Scout: 17B params, 10M tokens, 1 H100 GPU",
+            "highlight": "17B",
+            "body": "Scout: 17B active parameters (128B total com mixture-of-experts). Roda em 1 H100. 10M context window. Bate Gemma 3, Gemini Flash-Lite, Mistral 3.1 across benchmarks. Vira commodidade. Antes tinha que pagar OpenAI. Agora tu download, roda local.",
+            "stat": "10M",
+            "stat_label": "context window nativo",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "POR TRÁS DA QUALIDADE",
+            "title": "Early fusion multimodal: não é text + image bolado",
+            "highlight": "Early fusion",
+            "body": "Llama 3 (antes): processa text, depois trata image como token extra. Llama 4: text + image + video são processados junto desde o começo (early fusion). É unified model. Isso significa que modelo ENTENDE relação entre imagem e texto. Não é simulação. É nativo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDA A COMPETIÇÃO",
+            "title": "Maverick (128 experts) bate GPT-4o no próprio jogo",
+            "highlight": "Maverick",
+            "body": "Maverick: 17B active, 128 experts de 256B total. Benchmarks de reasoning e coding: supera GPT-4o. Comparável a DeepSeek V3 mas com metade dos parâmetros. Isso não é 'close enough'. É 'superior'. Na métrica que importa (reasoning).",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO CONSEGUIU",
+            "title": "Mixture-of-Experts + huge training data",
+            "highlight": "MoE",
+            "body": "MoE (mixture-of-experts) = só usa experts que importam pra tarefa. Você pergunta sobre código, 30 experts ativam. Você pergunta sobre história, 20 diferentes. Reduz custo de inference mas mantém capacidade. Meta treinou em dataset gigante. Resultado: frontier performance a fração do custo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "NA INDÚSTRIA",
+            "title": "Eliminaria subscription a IA pra maioria dos casos",
+            "highlight": "subscription",
+            "body": "PME que pagava $100/mês em API agora baixa Llama 4, roda local, paga zero. Startup que negociava com OpenAI agora usa Llama 4 open, nega dependência, nega single-vendor risk. Fundos de VC que investem em AI-native companies agora têm que repensar defensibilidade.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O TURNING POINT",
+            "title": "Open-source virou competitivo. Ponto final.",
+            "highlight": "competitive",
+            "body": "Em 2023, open-source era 18 meses atrás de frontier. Em 2024, era 6 meses. Em 2025, era mês a mês. Em 2026 (agora), open-source é à frente em alguns benchmarks. O gap fechou. E vai inverter. Proprietário era vantagem. Agora é custo/risco.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "ESTRATÉGIA PRO SEU NEGÓCIO",
+            "title": "Testa Llama 4 se não tá locked em OpenAI",
+            "highlight": "testa",
+            "body": "Se tá rodando GPT-4o em produção, calcula custo anual. Se supera US$ 50k, roda benchmark interna com Llama 4 (Maverick pra reasoning, Scout pra custo-benefício). Likelihood: Llama 4 vence em performance E custa menos. Negocio muda de um dia pro outro.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "DeepSeek V4: peak pricing 2x durante horário comercial Beijing",
+      "summary": "DeepSeek V4 official release em meados de julho com dynamic pricing: 2x preço durante picos (9-12 AM e 14-18 Beijing time), mantendo preços normais fora de pico. Mantém preço base: Flash $0.14/$0.28, Pro $0.435/$0.87 por MTok.",
+      "source": "Explainx / DeepSeek Hub",
+      "link": "https://www.explainx.ai/blog/deepseek-v4-official-release-peak-pricing-guide",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "DeepSeek cobra 2x no pico. Problema não é preço. É geopolítica.",
+        "caption": "DeepSeek V4 sai do preview em julho com preço dinâmico. 2x caro nos picos (horário comercial em Beijing). Isso não é surpresa. É pattern de DeepSeek: preço base MUITO mais barato que OpenAI, mas volume limitado, então cobra mais nos picos.\n\nO que importa não é o modelo. É que China tá controlando acesso à IA frontier. Enquanto EUA deixa export controls, China controla via pricing. Ou tu roda early morning (off-peak), ou tu paga 2x. Ambos são controle de fluxo de informação.\n\n#DeepSeek #IA #Pricing #Geopolitica #China #InteligenciaArtificial",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "PREÇO MUDA CONFORME A HORA EM BEIJING",
+            "title": "DeepSeek V4: 2x caro durante pico",
+            "highlight": "2x caro",
+            "body": "",
+            "stat": "9-12 AM, 14-18",
+            "stat_label": "horários de pico em Beijing",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "A MECÂNICA",
+            "title": "Off-peak: $0.14 input / $0.28 output (Flash)",
+            "highlight": "$0.14",
+            "body": "Durante pico (9AM-12PM e 2PM-6PM Beijing): multiplica por 2. Flash vira $0.28/$0.56. Pro vira $0.87/$1.74. Fora do pico: preço normal. Estratégia: ou tu batches requests pra off-peak, ou tu paga 2x. Ambas as opções existem. DeepSeek força escolha.",
+            "stat": "2x",
+            "stat_label": "multiplicador no pico",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "POR TRÁS DESSA DECISÃO",
+            "title": "DeepSeek tem volume restrito. Precisa de demand shaping.",
+            "highlight": "demand shaping",
+            "body": "DeepSeek não tem infraestrutura infinita como OpenAI. Se deixa preço flat durante pico, demand explode, timeout, usuários ficam putos, company perde reputação. Dynamic pricing = reduz demand nos picos, mantém preço baixo off-peak. Racional economicamente.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MAS TEM UMA MENSAGEM GEOPOLÍTICA",
+            "title": "Preço é arma de controle de fluxo",
+            "highlight": "controle",
+            "body": "EUA suspende export controls direto (Fable 5). China controla via preço. Durante pico em Beijing (que é madrugada pra EUA), DeepSeek é cheap. Durante pico pra EUA (madrugada em Beijing), é caro. Isso não é bug. É feature geopolítica.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO OTIMIZAR",
+            "title": "Batch no off-peak, economia permanente",
+            "highlight": "batch",
+            "body": "Se tu roda IA em produção, move heavy lifting pra off-peak. Queries de pesquisa, análise em lote, relatórios: tudo com agendamento pra fora dos horários de pico. Savings: 30-50% do bill. É work, mas é mais barato que pagar 2x.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "NA INDÚSTRIA",
+            "title": "DeepSeek fica menos viable pra real-time",
+            "highlight": "real-time",
+            "body": "Pra aplicações que precisam de resposta instantânea durante horário comercial, DeepSeek fica 2x mais caro que off-peak. Viabilidade sobe só se tu conseguir pospor request ou absorver custo. Isso muda o cálculo de qual modelo usar pra qual aplicação.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O QUE APRENDE DAQUI",
+            "title": "Pricing dinâmico é o novo moat",
+            "highlight": "pricing dinâmico",
+            "body": "Nem é que um modelo é melhor que outro. É que pricing se torna parte da estratégia. OpenAI usa subscription. DeepSeek usa dynamic pricing. Google usa tiering. Cada um força padrão diferente. Quem navega esse labirinto melhor sai à frente.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PENSA NA SUA STACK",
+            "title": "Se usa DeepSeek, otimiza timing",
+            "highlight": "otimiza",
+            "body": "Calcula quando roda heavy lifting. Se bate pico em Beijing frequentemente, move pra off-peak ou troca pra model flat-price (GPT-5.6, Claude). Se roda batch processing, DeepSeek segue sendo mais barato. Documenta. Propõe pra time de infra.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "AI Pricing War 2026: 75% desconto DeepSeek, deflação em margens",
+      "summary": "Preços de IA caíram 90-97% em 2 anos (US$60/MTok em 2024 → US$1-2 em 2026). DeepSeek cortou 75%, Anthropic 67%, Google 40-70%. Agentes consomem 5-30x mais tokens, then total enterprise spend ainda sobe 320% despite per-token deflação.",
+      "source": "AI Magicx / CostLayer / InfoWorld",
+      "link": "https://www.aimagicx.com/blog/ai-pricing-war-llm-cost-collapse-business-strategy-2026",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "Preços caíram 90%. Você paga mais. Bem-vindo ao paradoxo de 2026.",
+        "caption": "IA ficou 100x mais barata em 2 anos. Mas sua conta mensal tá 3-5x maior. Como?\n\nAntes: um agente era caro. Rodava só em casos críticos. Agora: agentes rodamcontinuamente. Sampling pras protoypes. A&B testing. Logging tudo. Um prompt de antes = 1k tokens. Agora são 30k tokens (context window gigante, reasoning, multi-step). Volume explodiu.\n\nCusto por token caiu 90%. Tokens por task explodiram 30x. Resultado líquido: conta maior. Mas problema virou 'como alocar orçamento' em vez de 'se consegue pagar'.\n\n#PricingWar #IA #DeepSeek #Economia #InteligenciaArtificial #Deflação",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "MAIS BARATO QUE NUNCA. MAS TU PAGA MAIS.",
+            "title": "Paradoxo de preço 2026: 90% down, 320% spend up",
+            "highlight": "paradoxo",
+            "body": "",
+            "stat": "90%",
+            "stat_label": "queda em preço por token em 2 anos",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "OS NÚMEROS ASSUSTADORES",
+            "title": "US$ 60/MTok (2024) → US$ 1/MTok (2026)",
+            "highlight": "100x",
+            "body": "GPT-4o em 2024: US$ 30 input / US$ 60 output por MTok. Llama 4 em 2026: US$ 0.15. DeepSeek Flash em 2026: US$ 0.14. É 100-200x mais barato. Isso não é 'discount'. É colapso de preço. Margem de fornecedor: de 85% pra 5%.",
+            "stat": "100-200x",
+            "stat_label": "redução de custo por token",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "MAS TEM UMA PEGADINHA",
+            "title": "Agentes consomem 5-30x mais tokens que chatbot",
+            "highlight": "5-30x",
+            "body": "Chatbot: tu faz pergunta (200 tokens input), recebe resposta (100 tokens output) = 300 tokens. Agente: background context (5k tokens) + conversa (2k tokens) + internals reasoning (10k tokens) + action planning (5k tokens) = 22k tokens pra mesma pergunta. É 70x mais token.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "ENTENDE A DINÂMICA",
+            "title": "Token price ↓ 90%. Token consumption ↑ 30x. Resultado?",
+            "highlight": "Resultado",
+            "body": "Custo per task = (preço por token) × (tokens per task). Preço por token caiu 90%. Tokens por task cresceram 30x. Resultado: custo per task subiu 3x. Pior: agora rodam 100x mais tasks (automação). Total spend: 320% pra cima em 2 anos.",
+            "stat": "320%",
+            "stat_label": "crescimento em spend total",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA A DEFLAÇÃO",
+            "title": "Eficiência de engenharia + competição = preço cai",
+            "highlight": "eficiência",
+            "body": "Mesmo modelo de 18 meses atrás agora custa 5x menos. Não é modelo novo. É engenharia melhor: quantização, destilação, inference optimization. DeepSeek provou: consegue frontier performance com fração da infraestrutura. Competição força todos a cortar preço.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "NA TUA EMPRESA",
+            "title": "IA virou commodity. Vantagem é na aplicação, não no preço.",
+            "highlight": "commodity",
+            "body": "Startup que diferenciava porque tinha IA agora compete no mesmo preço que rival. Nem diferencial. O que vira diferencial é: qual aplicação delivers mais value ao usuário. Se todos usam mesma IA (DeepSeek Flash, Llama 4), vence quem tem melhor product.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO",
+            "title": "Preço colapsa quando commodity matura. É previsível.",
+            "highlight": "commodity",
+            "body": "Chip (1980s): US$ 1000 → US$ 0.50. Cloud VM (2010s): US$ 0.50/hora → US$ 0.01. IA (2026): US$ 60/MTok → US$ 1. Padrão: tecnologia nova é caro, depois é commodity. Pra ganhar em commodity, volume overcomes margin.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "ESTRATÉGIA PRO BOARD",
+            "title": "Negocia preço. Depois, otimiza volume.",
+            "highlight": "preço + volume",
+            "body": "Se tá em enterprise, leverage marketplace. DeepSeek flash é cheapest, use como baseline pra OpenAI negociar. Anthropic vai match ou beat. Depois: otimiza token consumption. Menos context, mais targeted prompts. Reduz volume 30-40%. Bill cai 50% em 90 dias.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    }
+  ],
+  "whatsapp": "🤖 10 NOTÍCIAS DE IA — 5 de julho de 2026\n\n1. Claude Sonnet 5: 1M tokens nativos a $2-10 (promo até fim de julho)\nhttps://www.anthropic.com/news\n\n2. Claude Science: Workbench de IA para biotech (60+ databases nativas)\nhttps://www.statnews.com/2026/06/30/anthropic-release-claude-science-ceo-dario-amodei/\n\n3. Fable 5 retorna globalmente: export controls suspensos, modelos relaxados\nhttps://9to5google.com/2026/07/01/anthropic-fable-5-returns-to-claude/\n\n4. GPT-5.6 Sol: 750 tokens/seg no Cerebras (reasoning instant, $5/$30)\nhttps://cryptobriefing.com/openai-releases-gpt-5-6-models-to-20-partners-public-launch-expected-by-july-2026/\n\n5. Google Veo 3: geração de vídeo 8 segundos com som sincronizado\nhttps://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/\n\n6. 🔥 Perplexity Computer for Enterprise: $325/seat/month, 400+ integrações\nhttps://venturebeat.com/technology/perplexity-takes-its-computer-ai-agent-into-the-enterprise-taking-aim-at\n\n7. Cursor 3.0+: Team MCP, iOS agents, auto-review nativo\nhttps://cursor.com/changelog\n\n8. Llama 4 Multimodal: Scout 17B (10M tokens), Maverick supera GPT-4o\nhttps://ai.meta.com/blog/llama-4-multimodal-intelligence/\n\n9. DeepSeek V4: peak pricing 2x durante horário comercial Beijing\nhttps://www.explainx.ai/blog/deepseek-v4-official-release-peak-pricing-guide\n\n10. AI Pricing War 2026: 75% desconto DeepSeek, deflação em margens\nhttps://www.aimagicx.com/blog/ai-pricing-war-llm-cost-collapse-business-strategy-2026\n\n📊 Dashboard: https://rafaelondei.appnaia.com",
+  "instagram": "🚀 RADAR IA — 5 de julho de 2026\n\nMercado de IA tá num ponto crítico. Hoje tem notícia que muda conta de 10 empresas. Claude Sonnet 5 traz 1M tokens a preço de novato. Perplexity Computer explodiu em adoption (100+ empresas em 48 horas). DeepSeek V4 entra com pricing dinâmico. Llama 4 open-source agora supera GPT-4o.\n\nO que vira tendência: agentes viraram operação real, não curiosidade. Preços caíram 90%, mas volume de tokens explodiu 30x — conta final tá 3x maior, paradoxalmente.\n\nSe tu tá em produto, infraestrutura, ou operações: escolha qual stack usar agora é irreversível. DeepSeek é barato mas China controla via preço. Claude é $2/$10 mas só em promo. OpenAI é Cerebras (750 tok/seg) mas caro. Llama 4 é open mas precisa de infra.\n\nTem 1 notícia que recomendamos pra escala: Perplexity Computer Enterprise substituiu stacks de 6 dígitos em 1 fim de semana. Se tá em operação, testa agora.\n\nCarrosséis desse radar estão no dashboard. Cada notícia tem 8 slides pra compartilhar direto no Reels/Stories.\n\nSalva esse post. Compartilha com time. A IA que vai rodar seu negócio em H2 2026 tu tá escolhendo AGORA.\n\n#IA #InteligenciaArtificial #Claude #OpenAI #DeepSeek #Llama #Agents #Empreendedorismo #Tecnologia #Inovação"
+}

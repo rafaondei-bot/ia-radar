@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-07-04T07:00:01-03:00",
+  "updated_at": "2026-07-05T07:00:01-03:00",
   "executions": [
+    {
+      "date": "2026-07-05",
+      "key": "2026-07-05",
+      "topic": "mercado de IA",
+      "summary": "Claude Sonnet 5 1M tokens ($2-10 promo); Claude Science biotech workbench (60+ DBs); Fable 5 retorna globalmente (export controls levantados); GPT-5.6 Sol Cerebras 750 tok/seg ($5/$30); Veo 3 video+audio 8sec; Perplexity Computer Enterprise $325/seat (100+ orgs em 48h); Cursor Team MCP+iOS; Llama 4 Maverick supera GPT-4o; DeepSeek V4 peak pricing 2x; AI deflação 90% per-token (mas spend +320% YoY)",
+      "items_count": 10
+    },
     {
       "date": "2026-07-04",
       "key": "2026-07-04",
