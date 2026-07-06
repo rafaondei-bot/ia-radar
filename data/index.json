@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-07-05T07:00:01-03:00",
+  "updated_at": "2026-07-06T07:00:01-03:00",
   "executions": [
+    {
+      "date": "2026-07-06",
+      "key": "2026-07-06",
+      "topic": "mercado de IA",
+      "summary": "Claude Sonnet 5 (1M tokens, US$2-10, raciocínio nativo, 5x mais barato). ChatGPT 5.6 preview + GPT-5.5 (52% menos alucinações). Gemini 3 Flash novo padrão (10x mais rápido, Deep Think). Perplexity Computer Enterprise (US$325/seat, orquestra 19 modelos). Cursor iOS (agentes sempre-on, remote control). Grok Voice Agent Builder (no-code, telefonia nativa). Llama 4 Maverick/Scout (10M contexto, supera GPT-4o open). Mistral Small 4 (raciocínio+visão+código unificado). Vercel SDK 7 (agentes TypeScript production). Deflação paradoxal: tokens 280x mais barato, orçamento IA cresce 6x (uso exponencial).",
+      "items_count": 10
+    },
     {
       "date": "2026-07-05",
       "key": "2026-07-05",

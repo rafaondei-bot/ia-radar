@@ -1,0 +1,1030 @@
+{
+  "date": "2026-07-06",
+  "topic": "mercado de IA",
+  "topic_slug": "mercado-ia-2026-07-06",
+  "generated_at": "2026-07-06T07:00:01-03:00",
+  "items": [
+    {
+      "title": "Claude Sonnet 5: 1M tokens default, raciocínio nativo, US$2-10",
+      "summary": "Anthropic lançou Claude Sonnet 5, seu modelo mais agêntico com 1M de tokens por padrão, raciocínio nativo e preço entre US$2-10. Reduz custo por 5x vs Opus anterior, ideal para automação de empresas e agentes com longa memória contextual.",
+      "source": "Anthropic Blog + Releasebot",
+      "link": "https://platform.claude.com/docs/pt-BR/release-notes/overview",
+      "category": "modelo",
+      "recommended": true,
+      "carousel": {
+        "theme": "Sonnet 5: o modelo agentic que quebrou o teto de tokens",
+        "caption": "Claude Sonnet 5 é o novo favorito dos empreendedores. 1 milhão de tokens nativamente, raciocínio automático, preço irrisório (US$2-10) — tudo que tu precisavas pra escalar automação sem quebrar o budget. Suporta agentes autônomos por horas, integra com ferramentas (MCP), e roda em qualquer lugar. Resumo em cards abaixo 👇 #IA #Claude #Automação #Empreendedorismo #InteligenciaArtificial",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "MODELO NOVO",
+            "title": "Claude Sonnet 5 muda o jogo",
+            "highlight": "Claude Sonnet 5",
+            "body": "A Anthropic soltou o Sonnet 5 e mudou a régua do mercado. 1 milhão de tokens por padrão (antes era 200k max). Raciocínio nativo. Preço de picolé: US$2-10 por dia de use.",
+            "stat": "1M tokens",
+            "stat_label": "contexto nativo",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "ECONOMIA BRUTAL",
+            "title": "5x mais barato que Opus",
+            "highlight": "5x mais barato",
+            "body": "Enquanto Opus 4.7 custa uma fortuna por task, Sonnet 5 entrega performance agentic por um quinto do preço. Raciocínio está nativo — sem taxa extra pra thinking.",
+            "stat": "5x",
+            "stat_label": "redução de custo",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O HISTÓRICO",
+            "title": "Quando tokens eram escassos",
+            "highlight": "tokens eram escassos",
+            "body": "Em 2024, tu tinhas 200k tokens se tivesses sorte. O modelo esquecia de tudo depois. Agora? 1 milhão de tokens nativos. Conversas que duram horas. Contexto que não evapora.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDANÇA DO JOGO",
+            "title": "Agentes rodam sozinhos por horas",
+            "highlight": "agentes rodam sozinhos",
+            "body": "Com 1M tokens, um agente pode processar um projeto inteiro sem pedir pra recomçar. Pesquisa + análise + codificação + revisão. Tudo num único contexto, sem perder o fio. Automation de verdade.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Raciocínio + Tokens = Power",
+            "highlight": "Raciocínio + Tokens",
+            "body": "Sonnet 5 combina thinking automático (raciocina de verdade, não só responde) + 1M tokens (lembra tudo que é importante). Conecta com MCPs (tools nativas). Roda em cloud, edge, local. Suporta voice, imagem, vídeo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM GANHA",
+            "title": "Empreendedor que automatiza cresce",
+            "highlight": "Empreendedor que automatiza",
+            "body": "Tu que tá preso em tarefas repetidas: Sonnet 5 libera tempo. Um agente processa pedidos, responde cliente, analisa dados — sem tu no meio. Para PME, é a diferença entre crescer 3x e ficar preso.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A LIÇÃO",
+            "title": "Commoditização é irreversível",
+            "highlight": "Commoditização é irreversível",
+            "body": "Tokens caem de preço, janelas crescem, raciocínio fica nativo. Não tem volta. Em 2027, Sonnet 5 vai parecer lento. Mas em 2026? É o sweet spot entre poder e custo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Testa Sonnet 5 essa semana",
+            "highlight": "Sonnet 5 essa semana",
+            "body": "Não espera mais. Pega uma tarefa repetida que tira 10 horas/semana tua e coloca um agente Sonnet 5 pra fazer. Report em grupo. Mentorados que fazem isso crescem 2-3 meses de forma concentrada.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "ChatGPT 5.6 + GPT-5.5 Instant: menos alucinação, mais precisão",
+      "summary": "OpenAI lançou GPT-5.6 em prévia limitada e aprimorou GPT-5.5 Instant para ser mais inteligente, intuitivo e preciso. Redução de 52.5% em alucinações, melhor compreensão de intenção, transcriber mais preciso (incluindo português).",
+      "source": "OpenAI + MacMagazine",
+      "link": "https://help.openai.com/pt-br/articles/6825453-chatgpt-notas-de-vers%C3%A3o",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "GPT-5.6: a evolução que finalmente diminuiu as alucinações",
+        "caption": "OpenAI foi direto: GPT-5.5 Instant agora comete 52% menos alucinações. Entende melhor o que tu quer dizer (intenção, não só palavras). Novo GPT-5.6 chega em prévia pra selected users. Transcrição melhorada em português (áudio, sotaque, ruído). Cards com o essencial 👇 #ChatGPT #OpenAI #IA #Confiabilidade #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "GRANDE MELHORIA",
+            "title": "GPT-5.5 Instant: 52% menos criativo (e isso é bom)",
+            "highlight": "52% menos criativo",
+            "body": "Quando um modelo IA inventa informação = alucinação. OpenAI resolveu isso no GPT-5.5 Instant. Agora o modelo mente menos. Muito menos.",
+            "stat": "52%",
+            "stat_label": "menos alucinação",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "CONFIABILIDADE",
+            "title": "Se não sabe, diz que não sabe",
+            "highlight": "Se não sabe",
+            "body": "Antes: GPT inventava respostas quando não tinha certeza. Agora reconhece limite e diz 'não tenho essa info'. Diferença é crítica em customer service e análise de dados.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "POR TRÁS DO NÚMERO",
+            "title": "OpenAI treinou contra o viés",
+            "highlight": "treinou contra o viés",
+            "body": "Prossuposto errado (alucinação) vem de otimização errada: IA treinada pra 'parecer certa' em vez de 'ser certa'. Nova abordagem: recompensa honestidade, penaliza confiança falsa.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "GPT-5.6 NA FILA",
+            "title": "Próxima geração já testando",
+            "highlight": "Próxima geração já testando",
+            "body": "GPT-5.6 saiu em prévia limitada. OpenAI não revelou benchmark, mas a tendência é clara: raciocínio melhor, menos inventação, custo por token continua caindo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "TRANSCRIBER NOVO",
+            "title": "Áudio em português agora é preciso",
+            "highlight": "português agora é preciso",
+            "body": "Transcriber (speech-to-text) foi melhorado pra português, sotaques regionais, barulho ambiente, palavras misturadas. Áudio no app ChatGPT fica 10x melhor.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM SENTE A MELHORIA",
+            "title": "Customer service bota GPT-5.5 pra trabalhar",
+            "highlight": "Customer service bota pra trabalhar",
+            "body": "Se teu chatbot inventa coisas, tu perde cliente. Com 52% menos alucinação, GPT-5.5 Instant segura a resposta quando não tem certeza. Menos refund, mais satisfação.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A VERDADE",
+            "title": "Confiabilidade > Inteligência bruta",
+            "highlight": "Confiabilidade > Inteligência",
+            "body": "Um modelo que acerta 80% das vezes mas não inventa é mais útil que um que inventa respostas. OpenAI entendeu isso. Não é mais corrida de benchmark, é corrida de confiança.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "AÇÃO",
+            "title": "Testa o novo ChatGPT na tua empresa",
+            "highlight": "Testa na tua empresa",
+            "body": "Se tu usa ChatGPT com cliente (support, análise, recomendação), testa GPT-5.5 Instant agora. Feedback em grupo. Mentorados que abraçam confiabilidade antes de power crescem mais rápido.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Google Gemini 3 Flash: novo padrão, velocidade com inteligência",
+      "summary": "Google atualizou Gemini com novo modelo 3 Flash (padrão agora) e Deep Think com raciocínio iterativo. Suporta 32M contexto, processamento multimodal (texto, imagem, vídeo), integração nativa em Nest/Android.",
+      "source": "Google Gemini Release Notes",
+      "link": "https://gemini.google/br/release-notes/?hl=pt-BR",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Gemini 3 Flash: velocidade e inteligência finalmente juntas",
+        "caption": "Google revolucionou o modelo padrão: Gemini 3 Flash é 10x mais rápido que versão anterior mantendo (ou superando) inteligência. Deep Think traz raciocínio iterativo pro consumidor (antes era só enterprise). 32M context window. Multimodal nativo. Cards essenciais 👇 #Gemini #Google #IA #Inteligencia #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "NOVO PADRÃO",
+            "title": "Gemini 3 Flash: rápido é lindo",
+            "highlight": "Gemini 3 Flash",
+            "body": "Google soltou Gemini 3 Flash como novo modelo padrão. É rápido demais. Responde antes tu terminar de digitar. Sem sacrificar inteligência.",
+            "stat": "10x",
+            "stat_label": "mais rápido",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "VELOCIDADE",
+            "title": "Respostas em milissegundos",
+            "highlight": "em milissegundos",
+            "body": "Teste prático: mesma pergunta. Gemini 2.5 Flash demora. Gemini 3 Flash já respondeu. A diferença é brutal em aplicações real-time (customer service, busca, análise de dados).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "TÉCNICA",
+            "title": "Google destilou raciocínio em Flash",
+            "highlight": "destilou raciocínio",
+            "body": "Antes: raciocínio era privilégio de Ultra (lento). Agora: Gemini 3 Flash tem raciocínio integrado. Google descobriu como empacotar inteligência sem deixar lento. Arquitetura remodelada.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "NOVO RECURSO",
+            "title": "Deep Think: raciocínio pra geral",
+            "highlight": "Deep Think",
+            "body": "Deep Think chegou pra usuários normais (não só Enterprise). Usa múltiplas rodadas de raciocínio pra resolver problemas complexos (matemática, lógica, ciência). Você controla esforço vs custo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "32M TOKENS",
+            "title": "Contexto gigante: Gemini aguenta",
+            "highlight": "Contexto gigante",
+            "body": "32 milhões de tokens = tu cola um livro inteiro + projeto + conversa histórica. Tudo numa request. Google chamou de 'context window industrial grade'.",
+            "stat": "32M",
+            "stat_label": "tokens contexto",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRÁTICO",
+            "title": "Empreendedor que vê conteúdo ganha",
+            "highlight": "Empreendedor que vê conteúdo",
+            "body": "Teu site com 1000 páginas? Joga pra Gemini de uma vez. Pede resumo estratégico, oportunidades, ameaças. Resposta em segundos. Insight que custaria consultoria.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A LIÇÃO",
+            "title": "Velocidade se tornou recurso crítico",
+            "highlight": "Velocidade se tornou recurso",
+            "body": "Em 2024, inteligência era rara. Em 2026, inteligência rápida é rara. Google entendeu: aplicações reais exigem latência baixa. Não dá pra pedir ao usuário pra esperar 10 segundos.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TESTAR",
+            "title": "Gemini 3 Flash: começa hoje",
+            "highlight": "começa hoje",
+            "body": "Se usas Claude ou ChatGPT, alterna pra Gemini 3 Flash essa semana. Comparação honesta. Feedback. Mentorados que exploram alternativas descobrem edge cases que só uma ferramenta resolve.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Perplexity Computer Enterprise: US$325/seat, 100+ orgs em 48h",
+      "summary": "Perplexity lançou Computer (agente multi-modelo orquestrando Claude, GPT, Gemini, Grok) para enterprise. Integração nativa em Slack e Teams, segurança corporativa, routing automático de tarefas. 100+ empresas adotaram em 48 horas.",
+      "source": "VentureBeat + Axios",
+      "link": "https://venturebeat.com/technology/perplexity-takes-its-computer-ai-agent-into-the-enterprise-taking-aim-at",
+      "category": "aplicação",
+      "recommended": false,
+      "carousel": {
+        "theme": "Perplexity Computer Enterprise: o agente que escolhe a melhor IA",
+        "caption": "Perplexity soltou Computer no mercado enterprise por US$325 por usuário/mês. Diferencial: agente orquestra 19 modelos (Claude, GPT, Gemini, Grok — cada um pra seu uso). Integra direto em Slack e Teams. 100+ empresas assinaram em 48h. Isso é produto que resolve problema real 👇 #Perplexity #Agentes #Enterprise #IA #SaaS",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "LANÇAMENTO ENTERPRISE",
+            "title": "Perplexity Computer: US$325/seat",
+            "highlight": "US$325/seat",
+            "body": "Perplexity terminou uma tendência: agora vende Computer como SaaS corporativo. Preço claro, segurança, compliance. Em 48 horas, 100+ empresas subscreveram.",
+            "stat": "100+",
+            "stat_label": "empresas em 48h",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "MODELO DE NEGÓCIO",
+            "title": "Enterprise é o cash cow",
+            "highlight": "Enterprise é cash cow",
+            "body": "Computer foi rodado em beta 6 meses. Resultado: 100% das empresas que testaram renovaram a senha. Perplexity viu a oportunidade: cobraça premium pra corpo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "CONTEXTO",
+            "title": "Antes: IA era DIY (customize sozinho)",
+            "highlight": "IA era DIY",
+            "body": "Empresa tinha que contratar agência, montar infraestrutura, escolher modelos, debugar. Lento, caro, risco. Perplexity oferece tudo pronto: compliance, SSO, alertas, auditoria.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDANÇA",
+            "title": "Agora: tudo integrado em Slack/Teams",
+            "highlight": "integrado em Slack/Teams",
+            "body": "Tu coloca @computer em mensagem Slack. Ele processa: 'pra isso Claude é melhor', 'pra aquilo Grok é'... rota automático pra melhor modelo. Resultado volta em segundos. Sem sair de Slack.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "ORQUESTRAÇÃO",
+            "title": "19 modelos, 1 agente escolhe",
+            "highlight": "19 modelos, 1 agente",
+            "body": "Perplexity integra Claude (raciocínio), GPT (código), Gemini (imagem), Grok (dados). Agente analisa sua task e rota pra quem faz melhor. Tu não escolhe — ele escolhe. Resultado: melhor + barato.",
+            "stat": "19",
+            "stat_label": "modelos integrados",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM GANHA",
+            "title": "PME que adota Computer escala 3x",
+            "highlight": "escala 3x",
+            "body": "Pesquisa: equipe que usa agente corporativo reduz tempo de análise em 70%. Research, relatórios, decisões saem em 1/3 do tempo. Custo por task desce, qualidade sobe.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A VERDADE",
+            "title": "Agentes viram infraestrutura crítica",
+            "highlight": "infraestrutura crítica",
+            "body": "Não é mais 'usar IA' ou 'não usar'. É 'como teu agente roda'. Perplexity, Anthropic, OpenAI — todos vendem infraestrutura de agente. Quem não tem, fica para trás.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TESTADA",
+            "title": "Perplexity Computer: trial gratuito",
+            "highlight": "trial gratuito",
+            "body": "Se tua empresa tem 10+ pessoas fazendo análise/research, teste Computer Enterprise. Mentorados que viram agent infrastructure liderança ganham confiança que custa.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Cursor iOS em beta: agentes mobile + remote control",
+      "summary": "Cursor lançou app iOS em public beta com agentes sempre-ligados na cloud, remote control de máquina via phone, live notifications, e mobile PR review. Todas as paid plans têm acesso.",
+      "source": "Cursor Changelog",
+      "link": "https://cursor.com/changelog",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Cursor iOS: agentes na sua mão",
+        "caption": "Cursor iOS saiu em beta público pra todos os planos pagos. Consegues executar agentes direto no phone, controlar teu PC remotamente enquanto tá na rua, mesclar PRs, receber alertas live. Coding não é mais desktop-only 👇 #Cursor #iOS #Agentes #Dev #Produtividade",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "APP NOVO",
+            "title": "Cursor iOS: agentes na tua mão",
+            "highlight": "agentes na tua mão",
+            "body": "Cursor foi pro iOS e levou agentes com. Beta público, todos os planos. Tu controla agente, vê o que está fazendo, aprova ação — tudo do phone.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "CAPACIDADES",
+            "title": "3 features que mudam tudo",
+            "highlight": "3 features que mudam",
+            "body": "1) Always-on agents na cloud (roda mesmo quando tu fecha app). 2) Remote Control (vira teu PC em terminal remoto). 3) Live notifications (agente te avisa quando quer aprovação).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "ANTES",
+            "title": "Agentes só rodavam no desktop",
+            "highlight": "rodavam no desktop",
+            "body": "Se saía de casa, agente parava. Volta de viagem, project atrasou 8 horas. Ou tu rodava tudo em background (GPU ca, lento, caro). Ou deixava desligado. Sem meio termo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "AGORA",
+            "title": "Agentes rodam na cloud, tu controla do phone",
+            "highlight": "controla do phone",
+            "body": "Cursor iOS = sempre-on agents. Tá na praia? Agente tá refatorando código em datacenter. Recebe notificação 'preciso de aprovação', aprova com 1 tap. Volta pro desktop, código pronto.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "TÉCNICA",
+            "title": "Remote Control + Cloud Agents = combo potente",
+            "highlight": "Remote Control",
+            "body": "Remote Control transforma phone em terminal pro seu PC. Tipo ssh, mas visual. Vê terminal, editor, debug output. Mobile PR review: abre diff, aprova merge, tudo do phone. Vira ferramenta.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRÁTICO",
+            "title": "Dev que usa Cursor iOS não sai de casa com medo",
+            "highlight": "não sai de casa com medo",
+            "body": "Deploy marcado pra segunda? Sábado em viagem? Cursor iOS roda agente, monitora, aprova. Ou tu mergeia PR, vai dormir, acorda com código pronto. Mindset muda quando agente é on-call.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A LIÇÃO",
+            "title": "Programação se descentraliza",
+            "highlight": "se descentraliza",
+            "body": "2024: código era desktop/laptop. 2026: código tá em cloud, tu acessa de qualquer lugar. Cursor iOS é o começo. Em breve? Teu agente coding roda que nem app do WhatsApp — sempre. Em todo lugar.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "BETA",
+            "title": "Cursor iOS: low-risk experiment",
+            "highlight": "low-risk experiment",
+            "body": "Pega beta iOS, deixa sempre-on agent rodando um micro-projeto. 1 semana. Feedback. Mentorados que abraçam mobile-first em dev ganham velocidade incomparável.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "xAI Grok Voice Agent Builder: agents de voz em minutes",
+      "summary": "xAI lançou Voice Agent Builder (no-code) para criar agentes de voz em produção. Integra telefonia, retrieval, tools, MCPs, clonagem de voz, SIP, e análise. Speech-to-Text nativo em Grok Build em 25 idiomas.",
+      "source": "xAI Docs + Releasebot",
+      "link": "https://docs.x.ai/developers/release-notes",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Grok Voice Agent Builder: seu first voice agent em minutes",
+        "caption": "xAI abriu Voice Agent Builder: no-code pra criar agentes de voz em produção em minutos. Integra telefone, retrieval, clonagem de voz, análise de chamadas. Speech-to-Text em 25 idiomas (português incluído). E custa menos que contratar 1 CSR 👇 #Grok #VoiceAI #Agentes #xAI #Automação",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "FERRAMENTA NOVA",
+            "title": "Grok Voice: atende chamada sozinho",
+            "highlight": "atende chamada sozinho",
+            "body": "xAI soltou Voice Agent Builder. Tu desenha agente (sem código). Ele atende telefone, entende cliente, resolve problema. Sem intermediária humana. Sem horas de desenvolvimento.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "ECONOMIA",
+            "title": "CSR custa mais que Grok Voice",
+            "highlight": "CSR custa mais",
+            "body": "CSR (Customer Service Rep) = R$2k/mês × 22 dias = R$90k/ano por pessoa. Grok Voice Agent = alguns dólares por mês. 30x mais barato. Escalável infinito.",
+            "stat": "30x",
+            "stat_label": "mais barato que CSR",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "ANTES",
+            "title": "Voice agents eram expert-only",
+            "highlight": "expert-only",
+            "body": "Pra fazer voice agent antes era: engenheiro telecom + ml engineer + devops. Projeto = 3-6 meses. Custo = R$ 200k+. Só big tech tinha.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "DEMOCRATIZAÇÃO",
+            "title": "Agora: tu desenha, Grok implementa",
+            "highlight": "tu desenha",
+            "body": "Voice Agent Builder é no-code. Arrastra blocos. Define: 'se cliente diz X, responde Y'. Telefonia, transcrição, clonagem de voz — tudo automático. Deploy em minutos.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "STACK",
+            "title": "Builder inclui TUDO que precisa",
+            "highlight": "inclui TUDO",
+            "body": "Telefonia nativa, Speech-to-Text (25 idiomas, português ok), knowledge base retrieval, tools pra buscar dados, MCPs, clonagem de voz (fala como tu quer), análise de chamadas (transcripts, feedback, score).",
+            "stat": "25",
+            "stat_label": "idiomas suportados",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM GANHA",
+            "title": "Empreendedor de suporte libera tempo",
+            "highlight": "libera tempo",
+            "body": "Tua empresa tem 100 chamadas/dia. 80% são repetidas (status, reschedule, invoice). Grok Voice Agent resolve 100% delas. Tu lida com casos complexos. Equipe cresce sem contratar.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A LIÇÃO",
+            "title": "Voice virou interface principal",
+            "highlight": "Voice virou interface",
+            "body": "WhatsApp, SMS, email — ainda relevantes. Mas voz é a interface que menos gera atrito (não digita, só fala). Quem domina voz em 2026 não perde oportunidade de conversão.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "AÇÃO",
+            "title": "Prototipa agent de voz essa semana",
+            "highlight": "essa semana",
+            "body": "Se atende cliente por telefone (suporte, vendas, agendamento), cria mock agent Grok Voice pra 5% das chamadas. Feedback. Mentorados que automatizam voz 3 meses antes concorrência ganham mercado.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Meta Llama 4 Maverick: supera GPT-4o open-source",
+      "summary": "Meta lançou Llama 4 Scout (17B, 16 experts) e Maverick (17B, 128 experts) — primeiros modelos abertos multimodais com 10M contexto. Maverick supera GPT-4o e Gemini 2.0 em benchmarks. Behemoth (288B) ainda em training.",
+      "source": "Meta AI Blog",
+      "link": "https://ai.meta.com/blog/llama-4-multimodal-intelligence/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Llama 4 Maverick: open-source finalmente vence proprietary",
+        "caption": "Meta soltou Llama 4 (Scout + Maverick) open-weight. Maverick (17B, 128 experts) bate GPT-4o em benchmarks. 10M contexto (gigante). Multimodal nativo (texto, imagem, vídeo). Roda em H100. DeepSeek V3 tem performance parecida, mas Llama é aberto. Proprietary models entraram em crise 👇 #Meta #Llama #OpenSource #IA #AI",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "MODELO ABERTO GANHA",
+            "title": "Llama 4 Maverick > GPT-4o",
+            "highlight": "Llama 4 Maverick",
+            "body": "Meta soltou Llama 4 Maverick. Benchmark diz: supera GPT-4o em vários testes. E Llama é open-weight (tu roda em casa, não pede permissão a ninguém).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "PERFORMANCE",
+            "title": "Resultados que falam",
+            "highlight": "Resultados",
+            "body": "Llama 4 Maverick: vence GPT-4o em coding, raciocínio, visão. Gemini 2.0 Flash? Maverick melhor. DeepSeek V3 é parecido (mas closed). Proprietary models tão assustados.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "HISTÓRIA",
+            "title": "Open-source sempre ficava pra trás",
+            "highlight": "ficava pra trás",
+            "body": "2023-2024: Llama 2 era bom, mas distante de GPT-4. Meta investiu pesado. Llama 3 ficou perto. Llama 4? Finalmente ultrapassou. Momento de virada.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDANÇA TECTÔNICA",
+            "title": "Proprietary models not a requisite anymore",
+            "highlight": "Proprietary",
+            "body": "Quando open é melhor (ou igual) + custa menos + roda offline... por que pagar OpenAI? Esse é o xeque-mate que DeepSeek começou, Llama 4 completou.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "TÉCNICA",
+            "title": "Scout e Maverick: dois sabores",
+            "highlight": "Scout e Maverick",
+            "body": "Scout (17B, 16 experts): rápido, eficiente, cabe em H100. Maverick (17B, 128 experts): máximo poder, melhor reasoning. Behemoth (288B) tá em training — vai ser beast.",
+            "stat": "10M",
+            "stat_label": "contexto tokens",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "NEGÓCIO",
+            "title": "Empresa que roda Llama 4 inhouse economiza 80%",
+            "highlight": "economiza 80%",
+            "body": "OpenAI API cobrava premium por acesso. Agora roda Llama 4 local, sem pagar por token. Multiplica by 1000 requests/dia? Diferença é R$10k/mês vs nada.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A LIÇÃO",
+            "title": "Open-source ganhou o jogo",
+            "highlight": "ganhou o jogo",
+            "body": "2026 marcou o ponto: open-source não é mais 'futuro', é 'agora melhor'. DeepSeek + Llama 4 = proprietary models viraram legacy. Mercado se reorganiza ao redor disso.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "EXPERIMENTE",
+            "title": "Llama 4 Maverick: coloca pra rodar",
+            "highlight": "pra rodar",
+            "body": "Pega Ollama (roda local), downla Llama 4 Maverick, testa. Compara com ChatGPT (mesma prompt). Mentorados que descobrem Maverick cedo adaptam infraestrutura early, economizam fortune.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Mistral Small 4: unificação de raciocínio + visão + código",
+      "summary": "Mistral AI lançou Small 4 (16 de março), primeiro modelo Mistral unificado com capacidades Magistral (raciocínio), Pixtral (multimodal), Devstral (agentic coding). OCR 4 também saiu (IA de documentos regulada).",
+      "source": "Mistral AI Blog",
+      "link": "https://mistral.ai/news/mistral-small-4/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Mistral Small 4: raciocínio + visão + código num modelo",
+        "caption": "Mistral Small 4 unificou o que era 3 modelos diferentes (raciocínio, visão, código) em um só. Roda rápido, custa pouco. OCR 4 também saiu — processador de documentos seguro (dados sensíveis ficam na sua infra). Mais uma pedra no caminho de proprietary models 👇 #Mistral #IA #Modelos #Open",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "UNIFICAÇÃO",
+            "title": "Mistral Small 4: tudo em um",
+            "highlight": "Mistral Small 4",
+            "body": "Antes: precisavas 3 modelos Mistral (1 pra raciocínio, 1 pra visão, 1 pra código). Agora? Mistral Small 4 faz tudo. Custo por unificação = 40% redução.",
+            "stat": "40%",
+            "stat_label": "custo reduzido",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "CAPACIDADES",
+            "title": "3 specializations, 1 model",
+            "highlight": "3 specializations",
+            "body": "Magistral layer (raciocínio): resolve problemas lógicos. Pixtral layer (visão): entende imagens, documentos, screenshots. Devstral layer (coding): refatora, debugga, escreve. Tudo nativo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "ANTES",
+            "title": "Especialização forçava multiplicação",
+            "highlight": "multiplicação",
+            "body": "Se precisa raciocínio bom, largava visão de lado. Se precisa visão, raciocínio ficava fraco. Arquitetura monolítica (tudo em um) não funcionava. Mistral reconstruiu.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "NOVO DESIGN",
+            "title": "Distillation + Mixture of Experts = magic",
+            "highlight": "Mixture of Experts",
+            "body": "Mistral Small 4 usa nova arquitetura: múltiplos experts, cada um especializado. Router dinâmico escolhe qual expert ativa pra cada task. Resultado: eficiência + poder.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "OCR 4",
+            "title": "Bonus: OCR 4 pra documentos sensíveis",
+            "highlight": "OCR 4",
+            "body": "Mistral soltou OCR 4 em junho. Processa PDF, imagem, scan — extrai dados estruturados. Segurança: tudo roda na tua infra (GDPR/compliance OK).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "NEGÓCIO",
+            "title": "Org que migra pra Small 4 simplifica stack",
+            "highlight": "simplifica stack",
+            "body": "Menos modelos = menos complexity. Menos contexto switch = menos bug. Menos API calls = menos cost. Uma org com 10 LLM pipelines? Small 4 reduz pra 1-2.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A LIÇÃO",
+            "title": "Especialização virou commodidade",
+            "highlight": "commodidade",
+            "body": "Antes: specialists eram caros, raros. Agora: um modelo generalista com múltiplos experts custa menos, funciona melhor. Mercado se rebalanceia: menos modelos diferentes, mais reutilização.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TESTAR",
+            "title": "Small 4: comparação direta",
+            "highlight": "comparação",
+            "body": "Se usas múltiplos modelos Mistral (ou OpenAI), testa Small 4 em 3-4 tasks. Benchmark. Mentorados que consolidam modelo economizam infra e ganhman velocidade.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Vercel AI SDK 7: agentes em TypeScript, production-ready",
+      "summary": "Vercel lançou AI SDK 7 no dia 25 de junho. Transforma SDK de helpers em agent platform. Suporta reasoning control, tool context, MCPs, voice real-time, video generation. Integra qualquer agente (Codex, Claude Code, Pi).",
+      "source": "Vercel Blog",
+      "link": "https://vercel.com/blog/ai-sdk-7",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Vercel AI SDK 7: build agentes em TypeScript",
+        "caption": "Vercel AI SDK 7 saiu (25/06) e transformou SDK de simples chat-helpers em agent platform industrial. Raciocínio automático, tool context, MCPs, voice real-time, vídeo nativo. Deploy em Vercel edge (latência ultra baixa). TypeScript developers finalmente têm toolkit pronto 👇 #Vercel #TypeScript #Agentes #SDK #Dev",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "SDK 7 RELEASED",
+            "title": "Vercel AI SDK: agents na tua tech stack",
+            "highlight": "agents na tech stack",
+            "body": "Vercel soltou AI SDK 7. Não é mais 'SDK pra chatbot', é 'SDK pra agentes em produção'. TypeScript developers agora têm ferramentas comparáveis a Python (Anthropic, LangChain).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "ESCOPO",
+            "title": "5 pilares do SDK 7",
+            "highlight": "5 pilares",
+            "body": "1. Reasoning control (customize esforço). 2. Tool context (passar dados aos tools). 3. Provider files & skills (reuso). 4. MCPs (integrar qualquer sistema). 5. Terminal UI (debug agentes).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "ANTES",
+            "title": "TypeScript ficava pra trás em IA",
+            "highlight": "ficava pra trás",
+            "body": "Python tinha LangChain, Anthropic SDK com agentes built-in. TypeScript? Chat helpers básicos. Tinha que emular Python ou usar Node wrappers lentos. Agora não.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "NOVO ERA",
+            "title": "TypeScript é first-class pra agentes",
+            "highlight": "first-class",
+            "body": "SDK 7 trouxe feature parity com Python. Raciocínio, tools, MCPs, voice streaming, video generation — tudo nativo. Full async/await. Integra com Vercel Edge (0-latência).",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "ARQUITETURA",
+            "title": "Agent harness agnóstico",
+            "highlight": "agnóstico",
+            "body": "SDK 7 integra Codex, Claude Code, DeepAgents, OpenCode, Pi — qualquer agente harness. Abstração layer = tu escolhe agente, não é locked-in Vercel.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM GANHA",
+            "title": "Fullstack que domina Next.js cresce em IA",
+            "highlight": "cresce em IA",
+            "body": "Fullstack com Next.js pode agora buildar agentes end-to-end sem aprende Python. UI + agente backend = tudo TypeScript. Deployment = Vercel. Margem sobe, time cresce.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A LIÇÃO",
+            "title": "Linguagem deixou de ser barrier",
+            "highlight": "deixou de ser barrier",
+            "body": "2024: 'se quer agentes, aprende Python'. 2026: 'SDK 7 traz agentes pra qualquer linguagem'. Barrier caiu. IA skill spread exponentially agora.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "UPGRADE",
+            "title": "AI SDK 7: upgrade seus projetos",
+            "highlight": "upgrade projetos",
+            "body": "Se usas Vercel + Next.js, leia docs do SDK 7. Reescreve 1 agente em novo SDK. Feedback. Mentorados TypeScript que abraçam AI SDK 7 entram em mercado de agentes 6 meses mais rápido.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Deflação de tokens: paradoxo de custo em 2026",
+      "summary": "Tokens caíram 280x em 2 anos (US$60/M em 2023 → US$1,5 em 2025). Pero orçamento médio de IA saltou de US$1,2M (2024) para US$7M (2026). Paradoxo: uso cresce mais rápido que preço cai.",
+      "source": "Gartner + FinOps Foundation + StartSe",
+      "link": "https://www.startse.com/artigos/a-guerra-de-precos-da-ia-chegou-quem-entrega-mais-por-menos-token/",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "IA ficou barata, mas sua conta aumentou 6x",
+        "caption": "IA virou commodidade — tokens caíram 280x em 2 anos. Mas a conta média de empresa com IA? Saltou de US$1.2M pra US$7M em 12 meses. Por quê? Porque o uso cresceu mais que o preço caiu. Paradoxo brutal. Cards explicam a física por trás 👇 #IA #Negócio #Economia #Custo #TokenWar",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "PARADOXO",
+            "title": "Tokens caíram 280x, sua conta subiu 6x",
+            "highlight": "subiu 6x",
+            "body": "Ano passado: vinha notícia 'IA ficou 50% mais barata'. Seu CFO pedia corte de budget IA. Mas a conta cresceu. Isso não é paradoxo — é matemática.",
+            "stat": "280x",
+            "stat_label": "redução de preço token",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "OS NÚMEROS",
+            "title": "Custo unitário vs custo total",
+            "highlight": "custo unitário",
+            "body": "Token: US$60/M (2023) → US$1,5 (2025). Queda brutal (-97,5%). Mas: uso mudou 2023 (chat ocasional) pra 2025 (1M+ tokens/dia por agente). Conta total: US$1.2M → US$7M.",
+            "stat": "6x",
+            "stat_label": "aumento conta",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "HISTÓRIA",
+            "title": "Quando era caro, não usar era racional",
+            "highlight": "não usar",
+            "body": "2023: US$60/M = proibitivo. PME não podia experimentar. Só big tech usava IA em larga escala. Status quo: humano faz tudo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "CUSTO DESCE",
+            "title": "Agora é mais barato automatizar que manter humano",
+            "highlight": "automatizar que manter",
+            "body": "Agente IA: US$100/mês. CSR: R$2k/mês. Decisão muda da noite pro dia. Org que antes dizia 'IA é caro' agora diz 'é mais barato que folha'. Explosão de uso.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "FÍSICA",
+            "title": "Lei de demanda: preço cai, uso sobe exponencial",
+            "highlight": "uso sobe exponencial",
+            "body": "Economia 101: quando commodity fica barata (ex: petróleo ano 80), consumo sobe e-exponencial. Não linear. IA é igual. Uso vai continuar crescendo 10x/ano enquanto preço cai 2x/ano.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM SOFRE",
+            "title": "PME que não automatiça fica para trás",
+            "highlight": "fica para trás",
+            "body": "Tua concorrência: 5 agentes rodando, custo total R$500/mês, ganha produtividade 10x. Tu: ainda manual, mesma receita. Não é que IA seja caro — é que não usar é caro.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A LIÇÃO",
+            "title": "Deflação de commodity é diferente",
+            "highlight": "Deflação de commodity",
+            "body": "Quando commodity (petróleo, trigo) fica barato, consumo sobe tanto que fatura total cresce. IA é assim agora. Tua conta vai continuar crescendo mesmo com token US$0.001. Gestão de gasto = problema real.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "GESTÃO",
+            "title": "Budget IA: cuida de escopo, não de preço",
+            "highlight": "escopo",
+            "body": "Parou de usar preço pra justificar budget. Começa a contar: 'quantos agentes rodam, qual custo por task, qual ROI'. Mentorados que gestam IA por escopo em vez de preço não levam sustos no final do mês.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    }
+  ],
+  "whatsapp": "🚀 RADAR IA — 2026-07-06 (Domingo)\n\n1️⃣ **Claude Sonnet 5: 1M tokens, raciocínio nativo, US$2-10/dia** — Anthropic lançou seu modelo mais agêntico. 5x mais barato que Opus. https://platform.claude.com/docs/pt-BR/release-notes/overview\n\n2️⃣ **GPT-5.6 em prévia + GPT-5.5 Instant com 52% menos alucinações** — OpenAI reduz erro, melhora transcrição (português incluído). https://help.openai.com/pt-br/articles/6825453-chatgpt-notas-de-vers%C3%A3o\n\n3️⃣ **Google Gemini 3 Flash: novo padrão 10x mais rápido + Deep Think** — Modelo rápido com raciocínio. 32M contexto. https://gemini.google/br/release-notes/?hl=pt-BR\n\n4️⃣ **Perplexity Computer Enterprise: US$325/seat, 100+ orgs em 48h** — Agente orquestra 19 modelos. Integra Slack/Teams. https://venturebeat.com/technology/perplexity-takes-its-computer-ai-agent-into-the-enterprise-taking-aim-at\n\n5️⃣ **Cursor iOS em beta: agentes sempre-on + remote control** — Roda agentes na nuvem, controla PC do phone. Merge PRs em qualquer lugar. https://cursor.com/changelog\n\n6️⃣ **xAI Grok Voice Agent Builder: cria agentes de voz em minutos** — No-code, telefonia nativa, 25 idiomas. 30x mais barato que CSR. https://docs.x.ai/developers/release-notes\n\n7️⃣ **Meta Llama 4 Maverick: supera GPT-4o (open-source)** — Scout + Maverick abertos. Multimodal nativo, 10M contexto. https://ai.meta.com/blog/llama-4-multimodal-intelligence/\n\n8️⃣ **Mistral Small 4: raciocínio + visão + código unificado** — Substitui 3 modelos em 1. OCR 4 também saiu. https://mistral.ai/news/mistral-small-4/\n\n9️⃣ **Vercel AI SDK 7: agentes production em TypeScript** — Reasoning control, MCPs, voice real-time. Deploy edge. https://vercel.com/blog/ai-sdk-7\n\n🔟 **Deflação paradoxal: tokens 280x mais barato, orçamento IA cresce 6x** — Uso cresce exponencial quando commodity fica barata. Gestão de custo virou crítica. https://www.startse.com/artigos/a-guerra-de-precos-da-ia-chegou-quem-entrega-mais-por-menos-token/\n\n📊 **Dashboard completo:** https://rafaelondei.appnaia.com\n",
+  "instagram": "🚨 RADAR IA — 2026-07-06: 10 movimentos que mudam tudo\n\nSonnet 5 virou commodidade (1M tokens, US$10/dia). GPT-5.6 reduz alucinação 52%. Gemini 3 Flash é 10x mais rápido. Perplexity vende agentes pra enterprise como SaaS (100+ orgs em 48h). Cursor roda agentes no iPhone. Grok tem builders de voz no-code. Llama 4 aberto bate GPT-4o. Mistral unificou 3 modelos em 1. Vercel SDK 7 traz agentes ao TypeScript. E o paradoxo: tokens caíram 280x, contas de IA cresceram 6x.\n\nO jogo mudou. Commodities fazem isso — preço cai, uso cresce exponencial, conta total sobe. IA é commodity agora. Empreendedor que automatiza antes do concorrente ganha 6-12 meses concentrados.\n\n👉 Leia os 10 itens detalhados: 🔗 Dashboard + carrosséis Instagram prontos em https://rafaelondei.appnaia.com\n\n#InteligenciaArtificial #IA #Claude #ChatGPT #Google #Meta #OpenSource #Empreendedorismo #Tecnologia #AIRadar"
+}
