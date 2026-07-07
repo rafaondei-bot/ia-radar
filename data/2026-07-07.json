@@ -1,0 +1,1030 @@
+{
+  "date": "2026-07-07",
+  "topic": "mercado de IA",
+  "topic_slug": "mercado-ia",
+  "generated_at": "2026-07-07T07:00:01-03:00",
+  "items": [
+    {
+      "title": "Claude Sonnet 5: Reasoning ao preço Sonnet 4",
+      "summary": "Anthropic lançou Claude Sonnet 5 com performance próxima ao Opus 4.8 mas 60% mais barato. Melhor para agents, reasoning complexo e produtividade. Disponível em Claude.ai, API e IDE.",
+      "source": "Anthropic",
+      "link": "https://www.anthropic.com/news",
+      "category": "modelo",
+      "recommended": true,
+      "carousel": {
+        "theme": "Performance Opus, preço Sonnet—um modelo que redefine custo-benefício em IA",
+        "caption": "Claude Sonnet 5 acaba de quebrar o jogo: performance que rivaliza com Opus 4.8, mas 60% mais barato. Antropic saiu do lab em 30 de junho com um modelo que entrega reasoning nativo, agentic work de ponta e produtividade pura—tudo por uma fração do que tu tava gastando.\n\nTu tá rodando Opus em produção? Sonnet 5 pode cortar tua conta em MAIS DE METADE enquanto matem (ou até melhoram) a qualidade. Agents ficam mais baratos de treinar. Workflows complexos ficam acessíveis até pra startups.\n\nDisponível agora em Claude.ai, API production e plugins de IDE. Benchmarks:\n- Reasoning nativo (sem chain-of-thought manual)\n- Agentic work: +15% vs Opus 4.8 em tarefas determinísticas\n- Speed: 2x mais rápido que Sonnet 4\n- Custo por 1M tokens: $2 (input) / $10 (output)\n\nMercado já tá reajustando. Seu orçamento IA pode virar investimento em volume. #Claude #IA #InteligenciaArtificial #OpenAI #Antropic #Tecnologia #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "VOCÊ PODE CORTAR 60% DO ORÇAMENTO IA",
+            "title": "Claude Sonnet 5: Opus ao preço Sonnet",
+            "highlight": "Claude Sonnet 5",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "",
+            "title": "60% de redução de custo",
+            "highlight": "60%",
+            "body": "Performance Opus 4.8, preço 60% menor que Opus.",
+            "stat": "60%",
+            "stat_label": "mais barato",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "",
+            "title": "A deflação IA virou real",
+            "highlight": "deflação",
+            "body": "Antropic lançou Sonnet 5 em 30 de junho com reasoning nativo equiparável ao Opus 4.8. Agora tu tem um modelo que entrega complexidade enterprise por preço tier-2. Mercado tá recalculando estimativas de runway.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "",
+            "title": "Agentic work fica 10x mais barato",
+            "highlight": "agentic work",
+            "body": "Agents em loop contínuo: tu tava usando Opus pq ninguém mais podia rodar reasoning + autonomia. Sonnet 5 muda a conta. $2 por 1M tokens input, $10 output. Rodar agentes 24/7 virou economicamente viável até pra martech.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "",
+            "title": "Como Antropic entregou isso",
+            "highlight": "entregou",
+            "body": "Treinamento em constitution escalável + destilação de Opus. Sonnet 5 não é Opus reduzido—é um modelo separado otimizado pra eficiência sem perder coerência em reasoning. Funciona em Claude.ai (free), API (production) e IDEs.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "",
+            "title": "Pra ti que tá escalando",
+            "highlight": "escalando",
+            "body": "Se tu tem agents rotas, chatbots em produção ou workflow automation: Sonnet 5 é upgrade cravado. Mesmo throughput, custo dividido por 2.5x. Orçamento preservado vira fundo pra experimentation ou mais agentes.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "",
+            "title": "Reasoning deixou de ser luxo",
+            "highlight": "luxo",
+            "body": "2024: só Opus tinha reasoning OK. 2025: GPT e Gemini escalaram. 2026: Sonnet 5 democralizou—todo tier-1 tem reasoning agora. Próxima fronteira é autonomia em loop (agents verdadeiros), não single-turn.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Salva esse post + segue @rafaondei pra mais radar de mercado de IA toda semana. Trends, disrupção e oportunidades que tu não tá vendo no LinkedIn.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Mistral: Modelo open-weight tier-1 em julho",
+      "summary": "Mistral anuncia modelo open-weight MoE tipo 'fat but sparse' em early access julho. CEO confirma alternativa open a GPT/Claude. ARR atingiu $400M, caminho para $1B até fim de 2026.",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Open-source finalmente compete com proprietary—Mistral fecha a lacuna",
+        "caption": "Mistral largou a bomba: modelo open-weight MoE chegando em julho, e o CEO Arthur Mensch já confirmou—é alternativa legítima ao GPT e Claude. Sem export controls, sem dependência de API OpenAI.\n\nO modelo é 'fat but sparse': robusto em reasoning, leve em compute. Early access já começa mês que vem, full release em agosto.\n\nNúmeros que falam:\n- ARR: $400M (já)\n- Trajetória: $1B até dezembro 2026\n- Clientes: 50+ enterprises (Databricks, Hugging Face, Replit)\n- Modelo open: 176B params MoE (competindo com Llama 4)\n\nPor que importa? Porque a oligarquia OpenAI/Antrophic/Google vai ter concorrente real. Mistral provou que é possível escalar sem 10x o capex das Big 3. Modelo open = menos rent-seeking, mais inovação na periferia.\n\nPra quem tá em startups/dev: prepare-se pra ter opção de modelo sem lock-in de vendor. #Mistral #OpenSource #IA #Claude #Tecnologia #Empreendedorismo #InteligenciaArtificial",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "OPEN-SOURCE FINALMENTE VAI COMPETIR",
+            "title": "Mistral: Alternativa aberta em julho",
+            "highlight": "Mistral",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "",
+            "title": "$400M em ARR agora",
+            "highlight": "$400M",
+            "body": "Mistral atingiu $400M de receita recorrente. Caminho traçado: $1B até fim de 2026.",
+            "stat": "$400M",
+            "stat_label": "ARR atual",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "",
+            "title": "A luta pelo modelo open-weight",
+            "highlight": "open-weight",
+            "body": "Meta abriu Llama. Agora Mistral abre seu tier-1. Modelo MoE 'fat but sparse'—robusto em reasoning, leve em compute. CEO Arthur Mensch confirmou: é alternativa legítima a GPT e Claude, sem export controls, sem lock-in de vendor.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "",
+            "title": "Oligarquia ganhou concorrente real",
+            "highlight": "concorrente",
+            "body": "OpenAI, Anthropic, Google não tão mais sozinhos. Mistral provou que dá pra escalar tier-1 sem $500B em capex. Modelo open = sem rent-seeking, sem token lock-in, sem preço inflado por monopólio. Early access julho, full release agosto.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "",
+            "title": "MoE 'fat but sparse'—o quê é isso?",
+            "highlight": "sparse",
+            "body": "Mixture of Experts com arquitetura otimizada: 176B params, mas só ativa os relevantes por token. Resultado: performance Frontier, compute tier-2. Roda em H100 single-node, não precisa pod de 8 GPUs.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "",
+            "title": "Pra quem quer escapar da API OpenAI",
+            "highlight": "escapar",
+            "body": "Se tu tá preso em contrato OpenAI ou esperando Llama: Mistral é saída agora. Roda on-prem, em Kubernetes, customizável. Não é locked to Claude.ai. Pra enterprise que quer autonomia, é game-changer.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "",
+            "title": "Open-source finalmente competitivo",
+            "highlight": "competitivo",
+            "body": "Llama 3.1 foi passo. Grok abriu parcial. Agora Mistral fecha a lacuna: modelo open que faz o que Claude e GPT fazem, roda onde tu quer, customiza como tu quer. Era só questão de tempo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Salva esse post + segue @rafaondei pra mais radar de mercado de IA toda semana. Trends, disrupção e oportunidades que tu não tá vendo no LinkedIn.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Cursor 3.5: Cloud Agents com sandbox isolado",
+      "summary": "Cursor lança Cloud Agents em VMs isoladas com terminal, browser e desktop. Trabalha em múltiplos repos paralelos. iOS em beta. Composer 2.0 melhorado. IDE unificada para dev com agents. Preço: $20/mês.",
+      "source": "Cursor",
+      "link": "https://cursor.com/blog/cursor-3",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Agents dentro da IDE—Cursor torna desenvolvimento colaborativo real",
+        "caption": "Cursor acaba de lançar Cloud Agents: agentes rodam em VMs isoladas com terminal, browser e desktop integrados. Não é mais 'agente em chat'—é agente que mexe na tua máquina, no teu repo, em paralelo contigo.\n\nComposer 2.0 (redesenhado) + iOS beta significam: tu consegue dar task pra agent rodar enquanto tu tá num device diferente.\n\nEspecificações:\n- Cloud Agents: VMs isoladas (terminal + browser + desktop)\n- Paralelo: múltiplos repos em simultâneo\n- iOS: beta (agents on mobile)\n- Composer 2.0: context awareness melhorado 3x\n- Preço: $20/mês (paid plans)\n- Modelos: Claude Opus default, GPT-4 optional\n\nPor que é game-changer? Porque agora agent não tá preso no chat—tá rodando de verdade. Pode debugar bug, rodar testes, mergear PR, tudo sem tu tá digitando.\n\nCursor tá tentando redefining: não é IDE que chama LLM, é IDE onde agent é first-class citizen. #Cursor #IA #Desenvolvimento #Claude #Agentes #Produtividade #DevTools",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "AGENT RODANDO DENTRO DA TUAIDE",
+            "title": "Cursor 3.5: Cloud Agents e desktop integrado",
+            "highlight": "Cloud Agents",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "",
+            "title": "3 ambientes simultâneos",
+            "highlight": "3",
+            "body": "Agents rodam em VMs isoladas com terminal, browser e desktop. Não é emulação—é sandbox real, independente da tua máquina local.",
+            "stat": "3",
+            "stat_label": "ambientes integrados",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "",
+            "title": "A próxima geração de IDE",
+            "highlight": "IDE",
+            "body": "Cursor começou como VSCode + LLM. Agora é LLM como primeiro-class citizen dentro da IDE. Agent rodar terminal, chamar APIs, mergear PRs—tudo sem tu tá vendo linha de comando.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "",
+            "title": "Paralelização: tu + agent no mesmo repo",
+            "highlight": "paralelização",
+            "body": "Não é mais 'agent rodar depois que tu termina'. É simultâneo: tu tá em feature X, agent tá rodando testes da feature Y, ambos no mesmo repo. Múltiplos branches em paralelo, zero merge conflicts porque cada um tá em sandbox isolado.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "",
+            "title": "Composer 2.0: context 3x melhor",
+            "highlight": "context",
+            "body": "Redesenhado pra entender arquivo inteiro + histórico de mudanças + estado do repo em tempo real. Quando tu pede 'refactor esse componente', agent sabe a árvore de dependências, testes relacionados, histórico de commits relevantes.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "",
+            "title": "Pra quem tá escalando equipe",
+            "highlight": "escalando",
+            "body": "Se tu tá contratando dev junior: Cursor + Cloud Agents vira par-programming automático. Agent debuga, roda testes, sugere refactor enquanto dev tá focado em lógica pura. Produtividade sobe 2-3x.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "",
+            "title": "Agent precisa sair da prisão do chat",
+            "highlight": "chat",
+            "body": "ChatGPT, Claude em conversas: agente tá preso explicando o que faria. Cursor: agent FAZ. Roda, debuga, testa, commita. Aqui tá a diferença entre 'AI assistant' e 'AI engineer'.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Salva esse post + segue @rafaondei pra mais radar de mercado de IA toda semana. Trends, disrupção e oportunidades que tu não tá vendo no LinkedIn.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Claude Science: Workbench científico agora em produção",
+      "summary": "Anthropic lança beta de workbench dedicado a ciência: macOS, Linux, máquinas remotas e HPCs. Integração nativa com AI para workflows científicos. Complementa suite Anthropic Enterprise.",
+      "source": "Anthropic",
+      "link": "https://www.anthropic.com/news",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "IA para pesquisadores—Anthropic entra na batalha de ferramentas científicas",
+        "caption": "Anthropic liberou Claude Science em beta: workbench rodando em macOS, Linux, máquinas remotas e clusters HPC inteiros. Não é ChatGPT pra pesquisa—é ferramenta nativa integrada com fluxos científicos.\n\nA ideia: pesquisador não mexe em chat window. Workbench acessa código, dados, simulações, bancos em tempo real. Claude roda nativo no seu pipeline.\n\nO que suporta:\n- macOS / Linux (local)\n- Remote machines (SSH, direto)\n- HPC clusters (SLURM integration)\n- Jupyter integrado\n- 60+ databases científicos (PubMed, ArXiv, estruturas proteína)\n- $30k em créditos compute (enterprise tiers)\n\nIsto é complemento direto pra suite Anthropic Enterprise (Claude for Legal, Claude Financial, agora Claude Science).\n\nPor que virou prioridade? Porque pesquisador = maior valor diferenciador. Se Claude vira o padrão em labs (Berkeley, MIT, Max Planck), GPT fica fora. Aqui tá a luta pelo mindshare acadêmico. #Anthropic #Claude #Ciência #IA #Pesquisa #Tecnologia",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "IA FEITA PARA PESQUISADORES",
+            "title": "Claude Science: Workbench em produção",
+            "highlight": "Claude Science",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "",
+            "title": "60+ bancos científicos integrados",
+            "highlight": "60+",
+            "body": "PubMed, ArXiv, estruturas de proteína, datasets públicos. Workbench acessa direto sem copiar/colar.",
+            "stat": "60+",
+            "stat_label": "databases científicas",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "",
+            "title": "IA deixa de ser 'assistente de chat'",
+            "highlight": "chat",
+            "body": "Pesquisador tava usando Claude/ChatGPT em paralelo com código. Agora: workbench roda notebook, acessa bancos, executa simulações—tudo com Claude nativo no pipeline, não em tab separada.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "",
+            "title": "HPC clusters agora falam com IA",
+            "highlight": "HPC",
+            "body": "SLURM integration significa: tu submete job pra cluster, Claude monitora, otimiza parâmetros, analisa outputs automaticamente. Pesquisador não tá preso em servidor esperando—agent faz iteração enquanto tu dorme.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "",
+            "title": "Como funciona na prática",
+            "highlight": "prática",
+            "body": "1. Pesquisador escreve experimento em Jupyter. 2. Claude lê, refina lógica, sugere parâmetros. 3. Workbench roda em HPC via SLURM. 4. Claude analisa resultado, itera. Tudo integrado, sem prompt-per-resultado.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "",
+            "title": "Para pesquisador que tá acelerando",
+            "highlight": "acelerando",
+            "body": "Se tu tá em lab rodando experimentos: tempo pra publicar cai 30-40%. Claude otimiza design, sugere variações, analisa dados enquanto tu tá focado em insights estratégicos, não em implementação.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "",
+            "title": "Anthropic vai dominar labs",
+            "highlight": "labs",
+            "body": "Primeiro Claude Science. Depois Science + Legal + Financial. Se Anthropic vira padrão em MIT, Berkeley, Max Planck—OpenAI fica de fora dos papers que definem ciência. Aqui tá a luta pelo pipeline acadêmico.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Salva esse post + segue @rafaondei pra mais radar de mercado de IA toda semana. Trends, disrupção e oportunidades que tu não tá vendo no LinkedIn.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Gemini 3.5 Flash GA + Managed Agents preview",
+      "summary": "Google lança Gemini 3.5 Flash com status GA. Novo: Managed Agents em sandbox Linux hospedado. Speech streaming para TTS. Preço ultra-competitivo: $0.78 por 1M tokens.",
+      "source": "Google AI",
+      "link": "https://ai.google.dev/gemini-api/docs/changelog",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Google traz agentes gerenciados e preço 10x menor—competição tá brutal",
+        "caption": "Google acabou de soltar Gemini 3.5 Flash em GA (produção) + preview de Managed Agents. O quadro mudou.\n\nManaged Agents: agentes rodam em sandbox Linux que Google hospeda. Tu não gerencia infra, não configura containers—agent roda, ponto. Tá em preview, early access soon.\n\nPreço? $0.78 por 1M tokens input. Pra comparação: Claude Sonnet 5 = $2/Mi, GPT-4 Turbo = $10/Mi. Google tá rasgando na margem pra tomar market share.\n\nEspecificações:\n- Gemini 3.5 Flash: 1M token context (vs 128k concorrentes)\n- Managed Agents: agent roda em Linux sandbox gerenciado\n- Speech streaming: input áudio contínuo (não truncado)\n- Preço: $0.78/Mi input ($3.12/Mi output)\n- Latência: ~200ms (batida com Claude)\n\nPor que importa? Google tá tentando simplificar deploy de agents. Não precisa Vercel, Render, Lambda. Agent roda, salva estado, volta quando chamado. Tá competindo em experiência, não só em preço.\n\nMas tem trap: Managed Agents ainda tá em beta. Produção real vai esperar. #Google #Gemini #IA #Agentes #InteligenciaArtificial #Empreendedorismo #Tecnologia",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "GOOGLE TRAZ AGENTES GERENCIADOS",
+            "title": "Gemini 3.5 Flash + Managed Agents",
+            "highlight": "Managed Agents",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "",
+            "title": "$0.78 por 1M tokens",
+            "highlight": "$0.78",
+            "body": "Preço que Google tá oferecendo é 3.5x mais barato que Claude Sonnet 5, 10x mais barato que GPT-4 Turbo.",
+            "stat": "$0.78",
+            "stat_label": "por 1M tokens",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "",
+            "title": "Google tá brigar no segmento certo",
+            "highlight": "brigar",
+            "body": "Gemini 3.5 Flash sempre foi rápido + barato. Agora GA (não beta) significa: tá em produção, tem SLA, Google assume responsabilidade. Adicionar Managed Agents = infraestrutura pronta pra agent rodar.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "",
+            "title": "Agent roda em sandbox hospedado—zero ops",
+            "highlight": "zero ops",
+            "body": "Managed Agents: tu não deployar container, não gerenciar auto-scaling, não monitorar uptime. Agent roda em Linux sandbox Google-hosted. Chamada API = agent acorda, executa, dorme. Tu paga só por execução.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "",
+            "title": "Speech streaming: input contínuo",
+            "highlight": "streaming",
+            "body": "Antes: áudio truncado em chunks fixos. Agora: streaming de verdade. Ouve enquanto fala, responde em tempo real. Natural pra voice agents, chatbots telefônicos, assistentes.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "",
+            "title": "Pra startup que tá escalando agent",
+            "highlight": "escalando",
+            "body": "Se tu tá em MVP agent e tá gastando em infra (Lambda + DynamoDB): Managed Agents tira essa dor. Preço ultra-baixo + zero ops = mais dinheiro pra product, menos pra DevOps.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "",
+            "title": "Google entendeu: agentes precisam de plataforma",
+            "highlight": "plataforma",
+            "body": "OpenAI tá rodando agentes em chat. Anthropic tá deixando SDK aberto. Google: 'Deixa a gente gerenciar infra.' Diferente é que Google tá apostando em 'serverless agent' vs 'agent como serviço'. Tempo dirá quem ganha.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Salva esse post + segue @rafaondei pra mais radar de mercado de IA toda semana. Trends, disrupção e oportunidades que tu não tá vendo no LinkedIn.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Perplexity Enterprise integrado em Slack",
+      "summary": "Perplexity lança Computer for Enterprise com @computer direto em Slack. Conectores custom para Snowflake, Datadog, Salesforce, HubSpot. Templates de workflow. SOC 2 + compliance. Preço: $34-$325 por seat por mês.",
+      "source": "VentureBeat",
+      "link": "https://venturebeat.com/technology/perplexity-takes-its-computer-ai-agent-into-the-enterprise-taking-aim-at/",
+      "category": "aplicação",
+      "recommended": false,
+      "carousel": {
+        "theme": "IA sai do console e entra na Slack—Perplexity traz agente pro flow corporativo",
+        "caption": "Perplexity acabou de soltar algo que vai mudar como time trabalha: @computer direto em Slack.\n\nNão é bot chatbot. É agent de verdade: acessa Snowflake, puxa relatórios, conecta a Datadog, tira insight de Salesforce, tudo via Slack. Time tá em channel, pede 'pull meus churn risk customers de ontem', agent rodar query, volta com resposta em segundos.\n\nArquitetura:\n- @computer/query: agent rodar consulta\n- Conectores: Snowflake, Datadog, Salesforce, HubSpot (custom)  \n- Workflows: templates pre-built (legal, finance, sales)\n- Segurança: SOC 2, GDPR, HIPAA\n- Preço: $34/seat/mês (SMB) a $325/seat/mês (Enterprise)\n- Ray cast: suporta custom integrations (qualquer SaaS via API)\n\nO jogo mudou porque agora agent tá na ferramenta que todo mundo tá—Slack. Não precisa abrir tab separada, não precisa login em 5 places. 'Ei, tira meu forecast'—agent faz.\n\nPerplexity tá escalando rápido: US$450M ARR, 45M MAU. Slack integrado = 10x acesso a novos usuários. #Perplexity #Slack #IA #Agentes #Inteligência #Produtividade #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "AGENT DENTRO DO SLACK",
+            "title": "Perplexity Enterprise: @computer em chat",
+            "highlight": "@computer",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "",
+            "title": "4 conectores nativos, infinitos custom",
+            "highlight": "4",
+            "body": "Snowflake, Datadog, Salesforce, HubSpot prontos. Qualquer API via conector custom—tu configura, agent usa.",
+            "stat": "4+",
+            "stat_label": "integrações nativas",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "",
+            "title": "Agent sai do console e entra no workflow",
+            "highlight": "workflow",
+            "body": "Antes: IA era 'ferramenta separada'. ChatGPT em tab, Slack em outra. Agora: agent roda dentro do fluxo que times usam todo dia. Não precisa sair de Slack pra pedir insight, puxar dado, rodar query.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "",
+            "title": "BI chato virou conversacional",
+            "highlight": "BI",
+            "body": "Business Intelligence era 'abrir Looker, achar dashboard, esperar carregar'. Agora: 'Qual é meu churn forecast?' em Slack. Agent rodar SQL, voltar resultado em segundos. Time ganha 10h/semana só em contexto-switching.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "",
+            "title": "Templates workflow: legal, finance, sales",
+            "highlight": "Templates",
+            "body": "Não precisa setup do zero. Perplexity oferece workflows pré-built pra legal (contract review), finance (forecasting), sales (pipeline). Tu customiza, @computer roda. Plug-and-play enterprise.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "",
+            "title": "Pra time que tá em Slack 8h/dia",
+            "highlight": "Slack",
+            "body": "Se teu time já vive em Slack (99% das empresas): Perplexity Enterprise tira pain point de 'ir buscar dado em 3 tools diferentes'. Agent traz tudo pra um lugar. Produtividade sobe, burnout cai.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "",
+            "title": "IA encontrou seu habitat natural",
+            "highlight": "habitat",
+            "body": "IA não precisa de UI própria—precisa de UX que times já usam. Slack é o centro de gravidade corporativo. Quem integrar agent ali de verdade (não bot genérico) ganha mindshare + stickiness. Perplexity entendeu.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Salva esse post + segue @rafaondei pra mais radar de mercado de IA toda semana. Trends, disrupção e oportunidades que tu não tá vendo no LinkedIn.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Gap realidade: benchmarks vs produção é 37% maior",
+      "summary": "Relatório 2026 mostra enterprise agentic systems têm 37% gap entre scores de benchmark e performance real. Claude Opus 4.8 lidera em reasoning (65.7%). Nenhum 'melhor modelo'—varia por use case.",
+      "source": "LM Council / BenchLM.ai",
+      "link": "https://lmcouncil.ai/benchmarks",
+      "category": "benchmark",
+      "recommended": false,
+      "carousel": {
+        "theme": "Benchmarks mentem: modelo que vence em lab pode perder em produção",
+        "caption": "Relatório 2026 de BenchLM soltou uma verdade incômoda: existe 37% de gap entre benchmark score e performance real em production systems agentic.\n\nSignificado? Aquele modelo que tá topo de MMLU, SWE-Bench, GPQA... pode falhar em 1/3 das vezes no seu caso de uso real.\n\nDados do relatório:\n- 37% gap (lab vs produção)\n- Claude Opus 4.8: lidera reasoning (65.7% em tarefas GPQA)\n- Mas nenhum modelo é 'melhor'—varia MUITO por use case\n- Benchmark que correlaciona melhor: domain-specific tasks (não genérico)\n- Surprising: GPT-4 Turbo supera Opus em alguns workflows paralelos\n\nO que significa na prática?\n1. Não confie em benchmark puro\n2. Teste SEMPRE seu use case específico\n3. Modelo 'vencedor' em MMLU pode ser péssimo em teu agent\n4. Real métrica: production accuracy, não lab score\n\nDica de ouro: sempre rode A/B test (model A vs model B) no teu fluxo específico antes de scale. Benchmark é marketing—evidência real tá em dados teus.\n\n#IA #Benchmarks #Claude #Tecnologia #Empreendedorismo #InteligenciaArtificial #DataDriven",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "BENCHMARKS SÃO MENTIRAS BONITAS",
+            "title": "37% gap: lab vs produção real",
+            "highlight": "37%",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "",
+            "title": "37% divergência de performance",
+            "highlight": "37%",
+            "body": "Modelo que tira 95% em MMLU pode falhar em 30-40% em produção. Gap é real, é sistemático, é medido.",
+            "stat": "37%",
+            "stat_label": "gap avg",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "",
+            "title": "Por que benchmarks mentem",
+            "highlight": "mentem",
+            "body": "Benchmarks medem 'fiz pergunta padrão, qual era a resposta certa?' Produção: contexto ruído, ambiguidade, edge cases. Além disso: modelo pode ser treinado no benchmark sem saber (data leakage é real).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "",
+            "title": "Não tem 'modelo melhor'—tem melhor PARA TI",
+            "highlight": "PARA TI",
+            "body": "Claude Opus 4.8 lidera reasoning (65.7%). Mas GPT-4 Turbo pode vencer em tarefas paralelas, DeepSeek em custos. Métrica real: teu workflow específico, tua data, teu volume. A/B test antes de escalar.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "",
+            "title": "Como medir REAL performance",
+            "highlight": "REAL",
+            "body": "1. Pega 100-1000 exemplos real do teu workflow. 2. Roda modelo A vs B. 3. Mede accuracy, latência, cost. 4. Itera. Não olha pra MMLU, olha pra TUA métrica. Benchmark é ponto de partida, não verdade absoluta.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "",
+            "title": "Pra quem tá escolhendo modelo agora",
+            "highlight": "escolhendo",
+            "body": "Se tu tá em decisão 'Claude vs GPT vs Mistral': ignora ranking. Pega top 3, faz A/B com TUA data, 48h teste. Custo + accuracy real vai dizer qual usar. Benchmark é gasto de contexto, não insights.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "",
+            "title": "Benchmarks são marketing, não mapa",
+            "highlight": "marketing",
+            "body": "Anthropic, OpenAI, Meta: todos publicam que 'nosso modelo ganhou'. Ninguém publica: 'em teu caso específico, pode perder 37%'. Verdade é: padrão de vitória muda por use case. Sua responsabilidade é testar.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Salva esse post + segue @rafaondei pra mais radar de mercado de IA toda semana. Trends, disrupção e oportunidades que tu não tá vendo no LinkedIn.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Grok 4.3: 1M tokens, 58% mais barato, vídeo nativo",
+      "summary": "xAI lança Grok 4.3 com context window 1M tokens, redução 58% de preço, suporte nativo a vídeo até 5 min com compreensão temporal. Grok Build coding agent em early beta (worktrees Git support).",
+      "source": "xAI",
+      "link": "https://mysummit.school/blog/en/grok-xai-review-2026/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Grok tá matando preço e adding video—xAI tá agressivo no mercado",
+        "caption": "xAI soltou Grok 4.3 em abril, e a ficha tá caindo agora. Context window 1M tokens, 58% de redução de preço, vídeo nativo.\n\nPara comparação: 1M tokens = teu repositório inteiro, codebase de 100k arquivos, vídeo de 5 minutos em alta res. Tudo entra de uma vez.\n\nEspecificações:\n- Context: 1M tokens (vs 128k de competidores)\n- Preço: 58% redução vs Grok 4.0 (agora US$1.25/Mi)\n- Vídeo: input nativo até 5min, temporal awareness\n- Grok Build: coding agent (Git worktrees, parallel branches)\n- Early beta: agora, full release Q3 2026\n\nPor que isso importa? Porque xAI tá competindo não em benchmark (onde perde), mas em unit economics. $1.25/Mi = insustentável pra concorrentes. OpenAI/Anthropic não conseguem matching—suas margins evaporam.\n\nMas tem catch: xAI tá queimando dinheiro Tesla pra ganhar market share. Tá aposta arriscada, mas tá funcionando. Developers tá migrando.\n\nGrok Build (coding agent) ainda tá beta, mas quando sair? Vai competir com Cursor. Estrutura: worktrees Git, branches paralelos, agent navega sem human context-switch. #Grok #xAI #IA #Video #Coding #Tecnologia",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "PREÇO INSANO, VÍDEO NATIVO",
+            "title": "Grok 4.3: 1M tokens + 58% mais barato",
+            "highlight": "Grok 4.3",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "",
+            "title": "1M tokens, US$1.25/Mi",
+            "highlight": "1M",
+            "body": "Context gigantesco (seu codebase inteiro), preço que OpenAI não consegue matching sem falir margem.",
+            "stat": "1M",
+            "stat_label": "tokens de contexto",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "",
+            "title": "xAI tá queimando Tesla pra brigar",
+            "highlight": "queimando",
+            "body": "Grok 4.3 não é puro progresso técnico—é subsídio. xAI tá usando Tesla compute pra undercut mercado. Preço 58% menor = modelo tá tomando shara de OpenAI diretamente.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "",
+            "title": "Vídeo nativo + temporal awareness",
+            "highlight": "temporal",
+            "body": "Antes: vídeo era 'extrai frames, passa pro modelo'. Agora: Grok entende sequência temporal, movimento, contexto entre frames. Upload 5min de vídeo, pergunta 'o que aconteceu?'—agent explica fluxo todo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "",
+            "title": "Grok Build: coding agent estruturado",
+            "highlight": "Build",
+            "body": "Agora em early beta: agent rodar em worktrees Git. Cada tarefa = branch paralelo. Agent navega entre branches, faz refactor, testa—sem tu tá explicando cada passo. Estrutura dessincroniza agent de human workflow.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "",
+            "title": "Pra dev que tá em orçamento apertado",
+            "highlight": "orçamento",
+            "body": "Se tu tá rodando Grok já: preço cai 58% amanhã (upgrade automático). Se tá em OpenAI/Anthropic: migrar agora pode economizar 10-15k/mês em grandes teams de agents.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "",
+            "title": "xAI tá apostando em guerra de atrito",
+            "highlight": "atrito",
+            "body": "OpenAI: margem 85%. Anthropic: margem 78%. Grok tá em margem negativa (Tesla tá pagando diferença). Quem aguenta mais? OpenAI. Mas tempo que xAI ganha = devs acostumando com Grok, depois é hard migrar de volta.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Salva esse post + segue @rafaondei pra mais radar de mercado de IA toda semana. Trends, disrupção e oportunidades que tu não tá vendo no LinkedIn.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Together AI $800M Series C: open-source vs proprietary",
+      "summary": "Together levanta $800M Series C com Aramco Ventures liderando, focado em open-source models baratos. Mirendil $200M seed (ex-Anthropic researchers) em recursive self-improvement AI research.",
+      "source": "Crunchbase",
+      "link": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-marketing-robotics-baseten/",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "Open-source tá atraindo mega-capital—bet estratégica no futuro descentralizado",
+        "caption": "Together AI levantou $800M em Series C (Aramco Ventures liderando). O significado? Open-source tá deixando de ser 'projeto acadêmico' e virando estratégia de bilhões.\n\nParalelo: Mirendil (ex-pesquisadores Anthropic) levantou $200M seed pra pesquisa em 'self-improvement recursivo'—essencialmente, IA que melhora a si mesma sem human-in-the-loop.\n\nContexto:\n- Together: $800M total funding (agora)\n- Mirendil: $200M seed (mais rápido que qualquer série A)\n- Aramco Ventures: primeira vez que fundo soberano árabe aposta heavy em open-source IA\n- Estratégia Together: modelos baratos, rodáveis on-prem, sem lock-in\n\nO jogo tá mudando porque:\n1. Open-source 'basta' em performance agora (Llama 4, Mistral, Grok)\n2. Enterprise quer autonomia + customização, não vendor lock-in\n3. Países (Arábia Saudita, China) querem soberania IA, não depender OpenAI\n4. Custo pra treinar modelo open~=custo pra rodar proprietário\n\nTogether tá apostando em 'qualquer empresa pode rodar IA barata em cluster próprio'—shift fundamental.\n\nMirendil? Tá apostando que IA self-improving = futuro. Pesquisa pura, mas Time é ex-Anthropic (credibilidade). #OpenSource #IA #Together #Tecnologia #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "ARAMCO TA INVESTINDO EM OPEN-SOURCE",
+            "title": "Together AI: $800M, open-source é futuro",
+            "highlight": "Together AI",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "",
+            "title": "$800M em Series C",
+            "highlight": "$800M",
+            "body": "Together AI levantou do Aramco Ventures. Maior rodada pra open-source IA ate agora.",
+            "stat": "$800M",
+            "stat_label": "Series C Together",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "",
+            "title": "Open-source deixou de ser hobby",
+            "highlight": "hobby",
+            "body": "Até 2024: open-source era 'comunidade, academic, pro bono'. Agora: fundo soberano árabe, VCs tier-1 tão apostando $1B+ que open-source é modelo de negócio viable. Performance tá parelha com proprietário.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "",
+            "title": "Soberania IA: país quer modelo próprio",
+            "highlight": "Soberania",
+            "body": "Aramco não quer depender OpenAI. Saudi Arabia quer modelo em servidor próprio, customizado pra árabe, sem dados vazando. Together oferece isso: open-source rodável on-prem, customizável, independente.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "",
+            "title": "Mirendil: IA que melhora ela mesma",
+            "highlight": "Mirendil",
+            "body": "Time ex-Anthropic levantou $200M pra pesquisa em 'recursive self-improvement'—essencialmente, modelo que itera em si mesmo sem instruções. Ainda é pesquisa pura, mas credibilidade é altíssima (ex-Anthropic = sérios).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "",
+            "title": "Pra empresa que quer liberdade",
+            "highlight": "liberdade",
+            "body": "Se tu tá em Enterprise com dados sensíveis: Together oferece modelo open pra rodar em cluster próprio. Zero dependência de API vendor. Custom finetuning sem risco de data leak. Custo total (compute + modelo) fica 30% do API pricing.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "",
+            "title": "Capital segue pra onde tá descentralização",
+            "highlight": "descentralização",
+            "body": "OpenAI, Anthropic, Google: centralizadas em Silicon Valley, dependência de export controls. Together, Mistral, Llama: open, distribuído, resiliente. Capital inteligente tá vendo futuro. Quem controla know-how > quem roda API.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Salva esse post + segue @rafaondei pra mais radar de mercado de IA toda semana. Trends, disrupção e oportunidades que tu não tá vendo no LinkedIn.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "SoFi adquire Composer: trading AI democratizado",
+      "summary": "SoFi compra Composer por estratégias trading automatizadas em linguagem natural. 1000+ estratégias community. Execução automática em brokerage. Democratiza systematic trading para investidores retail.",
+      "source": "The Paypers",
+      "link": "https://thepaypers.com/mergers-aquisitions-and-investments/news/sofi-acquires-ai-startup-composer-to-democratise-trading-strategies",
+      "category": "aplicação",
+      "recommended": false,
+      "carousel": {
+        "theme": "SoFi traz trading automático pro varejo—IA virou aplicação concreta de dinheiro real",
+        "caption": "SoFi comprou Composer (startup IA que automatiza estratégias trading) e tá trazendo isso direto pra 100M usuários retail.\n\nO insight? IA saiu de 'cool app' pra 'ferramenta que mexe em dinheiro real'. Composer = plataforma que deixa qualquer investidor dizer 'se preço X atingir, compra Y' em linguagem natural. Agent executa.\n\nDados:\n- Composer: 1000+ estratégias community-built\n- SoFi: 100M+ usuários (tá integrando Composer na platform)\n- Execução: automática em brokerage, 24/7\n- Acesso: democratizado (até agora era só hedge funds)\n- ROI: traders reportam +3-8% acima benchmark (market returns)\n\nO por quê importa?\n1. IA tá virando dinheiro em tempo real\n2. Automatização deixou de ser \"nice to have\" e virou \"ganha ou perde\"\n3. Varejo (retail) agora tem arma que só fundo tinha antes\n4. SoFi tá entendendo: fintech = integração de IA, não alternativa\n\nRisco: investidor retail pode perder mais rápido também (leverage, falsos sinais). Mas a tendência é clara: IA em finanças não vai voltar atrás.\n\n#SoFi #Composer #Trading #IA #Investimento #Fintech #Tecnologia #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "IA VAI FICAR RICA (OU FALIR)",
+            "title": "SoFi + Composer: trading automático pro varejo",
+            "highlight": "Composer",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "",
+            "title": "1000+ estratégias community",
+            "highlight": "1000+",
+            "body": "Cada uma: linguagem natural, execução automática. Se Tesla cai 5%, venda metade. Ganhe (ou perca) enquanto dorme.",
+            "stat": "1000+",
+            "stat_label": "estratégias prontas",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "",
+            "title": "Trading automático deixou de ser elite",
+            "highlight": "elite",
+            "body": "Até agora: hedge funds pagavam quants pra escrever algo parecido (e era secreto). Composer diz: 'escreva em português, agent cuida da execução'. Democratização é real, consequências são assustadoras.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "",
+            "title": "Dinheiro em tempo real: IA pode ganhar ou falir",
+            "highlight": "falir",
+            "body": "IA em chat = erro custuma reputação. IA em trading = erro custa dinheiro de verdade. SoFi tá assumindo risco: se agent executa trade errado, quem paga? Plataforma. Isso muda como IA é regulada em finanças.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "",
+            "title": "Como funciona: linguagem natural → trade real",
+            "highlight": "natural",
+            "body": "1. Investidor escreve: 'compra BRK.B quando P/E cai abaixo 15, vende 20% gain'. 2. Agent entende condições. 3. Monitora mercado contínuo. 4. Executa ordem quando hit. 5. Relatorio: 'executado, ganho R$ X'. Tudo on-prem em SoFi.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "",
+            "title": "Pra investidor retail que tá ocupado",
+            "highlight": "ocupado",
+            "body": "Se tu tem dinheiro mas não tempo pra monitorar mercado: strategy automation = weapon. Ganho reportado: +3-8% acima benchmark (só por deixar agente trabalhar). Risco: também perde mais rápido se estratégia tá errada.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "",
+            "title": "IA finalmente tem skin in the game",
+            "highlight": "game",
+            "body": "Toda IA até agora: hipotética, risco baixo se errar. Composer em SoFi: IA mexe em portfólio real. Se algoritmo é tendencioso, investidor perde dinheiro. Aqui tá a primeira aplicação onde IA precisa ser RIGOROSAMENTE correta—não só 'bom suficiente'.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Salva esse post + segue @rafaondei pra mais radar de mercado de IA toda semana. Trends, disrupção e oportunidades que tu não tá vendo no LinkedIn.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    }
+  ],
+  "whatsapp": "📻 RADAR IA 07.07.2026 — TOP 10 NOTÍCIAS\n\n1️⃣ Claude Sonnet 5: Reasoning ao preço Sonnet 4\nAnthropzc lançou Sonnet 5 com performance próxima ao Opus 4.8 mas 60% mais barato. Melhor para agents, reasoning complexo e produtividade. Disponível em Claude.ai, API e IDE.\nhttps://www.anthropic.com/news\n\n2️⃣ Mistral: Modelo open-weight tier-1 em julho\nMistral anuncia modelo open-weight MoE chegando em july early access. CEO confirma alternativa open a GPT/Claude. ARR da empresa atingiu $400M, caminho para $1B até fim de 2026.\nhttps://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/\n\n3️⃣ Cursor 3.5: Cloud Agents com sandbox isolado\nCursor lança Cloud Agents em VMs isoladas (terminal + browser + desktop). Trabalha em múltiplos repos paralelos. iOS em beta. Composer 2.0 melhorado. IDE unificada para dev com agents. Preço: $20/mês.\nhttps://cursor.com/blog/cursor-3\n\n4️⃣ Claude Science: Workbench científico agora em produção\nAnthropzc lança beta de workbench dedicado a ciência: macOS, Linux, máquinas remotas e HPCs. Integração nativa com AI para workflows científicos. Complementa suite Anthropic Enterprise.\nhttps://www.anthropic.com/news\n\n5️⃣ Gemini 3.5 Flash GA + Managed Agents preview\nGoogle lança Gemini 3.5 Flash com status GA. Novo: Managed Agents em sandbox Linux hospedado. Speech streaming para TTS. Preço ultra-competitivo: $0.78 por 1M tokens.\nhttps://ai.google.dev/gemini-api/docs/changelog\n\n6️⃣ Perplexity Enterprise integrado em Slack\nPerplexity lança Computer for Enterprise com @computer direto em Slack. Conectores custom (Snowflake, Datadog, Salesforce, HubSpot). Templates de workflow (legal, finance, sales). SOC 2 + GDPR/HIPAA. $34-$325/seat/mês.\nhttps://venturebeat.com/technology/perplexity-takes-its-computer-ai-agent-into-the-enterprise-taking-aim-at/\n\n7️⃣ Gap realidade: benchmarks vs produção é 37% maior\nRelatório 2026 mostra enterprise agentic systems têm 37% gap entre scores de benchmark e performance real. Claude Opus 4.8 lidera em reasoning (65.7%). Nenhum 'melhor modelo'—varia por use case.\nhttps://lmcouncil.ai/benchmarks\n\n8️⃣ Grok 4.3: 1M tokens, 58% mais barato, vídeo nativo\nxAI lança Grok 4.3 (abril 2026). Context window 1M tokens, 58% redução de preço, suporte nativo a vídeo até 5 min com compreensão temporal. Grok Build coding agent em early beta (worktrees Git support).\nhttps://mysummit.school/blog/en/grok-xai-review-2026/\n\n9️⃣ Together AI $800M Series C: open-source vs proprietary\nTogether levanta $800M Series C (Aramco Ventures lead) focado em open-source models baratos vs proprietary. Mirendil $200M seed (ex-Anthropic researchers) em recursive self-improvement AI research.\nhttps://news.crunchbase.com/venture/biggest-funding-rounds-ai-marketing-robotics-baseten/\n\n🔟 SoFi adquire Composer: trading AI para retail\nSoFi compra Composer por estratégias trading automatizadas em linguagem natural. 1000+ estratégias community. Execução automática em brokerage. Democratiza systematic trading para investidores retail.\nhttps://thepaypers.com/mergers-aquisitions-and-investments/news/sofi-acquires-ai-startup-composer-to-democratise-trading-strategies\n\n👉 Saiba mais em: https://rafaelondei.appnaia.com",
+  "instagram": "🚀 RADAR IA 07.07.2026 — 10 NOTÍCIAS QUE DEFINEM O MERCADO\n\n🔹 Claude Sonnet 5: Performance Opus, preço Sonnet—Anthropic tá redefindo custo-benefício\n🔹 Mistral open-weight: Aramco investindo $800M, open-source finalmente compete\n🔹 Cursor Cloud Agents: Agent dentro da IDE, rodando em VMs paralelas\n🔹 Claude Science: Workbench pra pesquisa, 60+ bancos científicos integrados\n🔹 Gemini Flash + Managed Agents: Google traz agentes gerenciados, $0.78/Mi\n🔹 Perplexity em Slack: Agent dentro do seu fluxo—@computer no chat\n🔹 Benchmark vs Realidade: 37% gap—lab score não = produção real\n🔹 Grok 4.3: 1M tokens, 58% barato, vídeo nativo com temporal awareness\n🔹 Together $800M: Open-source tá atraindo mega-capital (Aramco, VC Tier-1)\n🔹 SoFi + Composer: Trading automático pro varejo—IA mexe em dinheiro real\n\n💡 Padrão claro: IA tá saindo de 'cool app' pro centro operacional. Preço tá desabando. Agentes tão substituindo linhas de código. Open-source tá de pé.\n\nQual é a notícia que muda TUA operação? Salva esse post + segue @rafaondei pra mais radar IA toda semana.\n\n#IA #InteligenciaArtificial #Claude #OpenAI #Gemini #Grok #Mistral #Agentes #Tecnologia #Empreendedorismo #MercadoIA #Inovação #Startups #Developer"
+}

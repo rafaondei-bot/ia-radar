@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-07-06T07:00:01-03:00",
+  "updated_at": "2026-07-07T07:00:01-03:00",
   "executions": [
+    {
+      "date": "2026-07-07",
+      "key": "2026-07-07",
+      "topic": "mercado de IA",
+      "summary": "Claude Sonnet 5 (60% mais barato, reasoning Opus-level). Mistral open-weight MoE (Aramco $800M). Cursor Cloud Agents (VM isoladas, paralelo). Claude Science (60+ bancos científicos, HPC). Gemini 3.5 Flash GA + Managed Agents ($0.78/Mi). Perplexity Enterprise em Slack (@computer). Benchmark gap: 37% (lab vs produção). Grok 4.3 (1M tokens, 58% barato, vídeo nativo). Together $800M Series C (open-source). SoFi + Composer (trading automático retail).",
+      "items_count": 10
+    },
     {
       "date": "2026-07-06",
       "key": "2026-07-06",
