@@ -1,0 +1,1030 @@
+{
+  "date": "2026-07-08",
+  "topic": "mercado de IA",
+  "topic_slug": "ia-2026-07-08",
+  "generated_at": "2026-07-08T07:00:01-03:00",
+  "items": [
+    {
+      "title": "Claude Cowork agora em cloud + iOS (sempre ligado)",
+      "summary": "Anthropic expandiu Claude Cowork pra web e mobile, com tarefas agendadas, projetos compartilhados e integração Microsoft 365 nativa (Email, Excel, SharePoint). Antes era desktop only; agora funciona multiplataforma com persistência.",
+      "source": "Anthropic Blog",
+      "link": "https://www.anthropic.com/news",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Claude agora funciona em qualquer lugar — e nunca desliga",
+        "caption": "Claude Cowork saiu do desktop. Agora roda em web, iOS e Mac com sincronização completa, background work e integração Microsoft 365 nativa. Que significa isso pra ti? Tarefas agendadas que rodam sozinhas, acesso de qualquer dispositivo, e tudo sincronizado. O assistente que tá sempre ligado. Crítico pra quem trabalha remoto e precisa delegar fluxos inteiros pro Claude.\n\n🔥 Detalhe: Cowork vem com write tools pra Draft/Send email, gerenciar calendários e criar/editar docs no OneDrive/SharePoint direto — sem deixar a interface Claude.\n\n#Claude #IA #Anthropic #Cowork #AssistenteAI",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "MODO ALWAYS-ON LIBERADO",
+            "title": "Claude agora trabalha pra ti 24/7",
+            "highlight": "24/7",
+            "body": "Cowork saiu do desktop. Agora sincroniza em web, iOS, Mac e roda tarefas agendadas sozinho. Tipo um assistente que nunca dorme.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "PLATAFORMAS CONECTADAS",
+            "title": "3 plataformas, 1 cérebro",
+            "highlight": "3 plataformas",
+            "body": "Web, iOS, Mac. Tudo sincronizado em tempo real. Começa uma task no desktop, monitora no iPhone, revisa no iPad. Persistência perfeita.",
+            "stat": "3",
+            "stat_label": "plataformas sincronizadas",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "A MUDANÇA QUE FALTAVA",
+            "title": "Cowork deixou de ser app, virou workflow",
+            "highlight": "virou workflow",
+            "body": "Por meses Cowork era desktop-only. Problema: tu precisava ficar ali supervisionando. Agora agenda a task, ela roda sozinha em background, avisa quando termina. Tipo um agent de verdade.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O QUE MUDA AGORA",
+            "title": "Microsoft 365 integrado = produtividade corporativa",
+            "highlight": "produtividade corporativa",
+            "body": "Write tools direto pra Email (Draft/Send), Excel (criar/editar), PowerPoint, Outlook, Teams, OneDrive, SharePoint. Não é proxy — é nativa. Isso quebra SaaS de automação genérica. Por quê? Porque agora o Claude escreve o email, posta no Excel, agenda na reunião — tudo sem deixar o chat.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Background work + Scheduled tasks",
+            "highlight": "Background work",
+            "body": "Tu escalona a task. Claude roda em background enquanto tu trabalha em outra coisa. Notificação quando termina. Tipo: \"Resuma esses 50 emails diários todo dia às 8am\".",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM IMPORTA",
+            "title": "Empreendedores ganham assistente full-time",
+            "highlight": "full-time",
+            "body": "Tu que gerencia email, leads, documentos, propostas — agora delega pra Claude. Ele roda 24/7 em background, sincroniza em todos os devices, integra com tudo que tu já usa (Gmail, Excel, Teams). Automação que antes custava +US$500/mês em Zapier + Make agora é nativa.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO",
+            "title": "Claude deixou de ser ferramenta, virou infraestrutura",
+            "highlight": "infraestrutura",
+            "body": "Cowork always-on + multiplataforma = Claude agora é parte da tua stack operacional, não um app que tu abre quando precisa. Assistentes deixaram de ser táticos (\"ajuda nesse email\") e viraram estratégicos (\"gerencia meu fluxo inteiro\").",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Testa Cowork hoje (Max plan)",
+            "highlight": "Cowork",
+            "body": "Tá rolando em web e mobile agora. Começa a agendar tasks com Claude. Isso é como funciona assistência de verdade.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "OpenAI GPT-5.6: 3 modelos, pricing por tier (Sol/Terra/Luna)",
+      "summary": "OpenAI lançou GPT-5.6 com 3 variantes (Sol ultra, Terra balance, Luna rápido) com preços escalonados $5/$2.50/$1 por input. Reasoning em profundidade automático. Ultra mode paralela subagents pra tasks complexas. Rollout: Enterprise 7 jul, ChatGPT Plus 10 jul.",
+      "source": "OpenAI Blog",
+      "link": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "GPT-5.6: a tríade de velocidade, custo e raciocínio profundo",
+        "caption": "OpenAI queimou o playbook tradicional de lançamento. Em vez de 1 modelo novo, mandaram 3 (Sol, Terra, Luna) com preços e performance escalonados pra cada use case. Sol é ultrainteligência ($5/M input). Terra é o meio-termo. Luna é o flash — rápido, barato, ideal pra automação. Tem mais: ultra mode que paraleliza subagents pra trabalho complexo. Que significa? Modelagem, análise numérica, síntese de horas de texto — tudo mais rápido. A pregação: reasoning profundo agora é a feature padrão, não premium. Crítico pra teams que precisam balancear custo e inteligência.\n\n#OpenAI #GPT5 #IA #Pricing #Reasoning",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "A TRÍADE ESTÁ AQUI",
+            "title": "GPT-5.6: escolhe velocidade, custo ou raciocínio",
+            "highlight": "velocidade, custo ou raciocínio",
+            "body": "3 modelos. 3 estratégias. 1 lançamento. Sol pra ultrainteligência, Terra pra balance, Luna pra commodity. Cada um tem seu preço.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "OS PREÇOS",
+            "title": "$5 ultraintelligência, $1 commodity",
+            "highlight": "$5",
+            "body": "Sol: $5 input / $30 output (ultrainteligência + reasoning profundo). Terra: $2.50 input / $15 output (balance). Luna: $1 input / $6 output (velocity).",
+            "stat": "3x",
+            "stat_label": "spread de preço entre tiers",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "POR QUE AGORA?",
+            "title": "Reasoning profundo virou commodity, não luxury",
+            "highlight": "commodity",
+            "body": "Antes só o o1 (privado, caro) tinha reasoning deep. Agora Sol vem com max reasoning effort nativa, e até Luna tem profundidade razoável. Mercado virou: todos precisam pensar, mas nem todos podem pagar pelo ultrasmartphone. Daí 3 tiers.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "A MUDANÇA CRÍTICA",
+            "title": "Ultra Mode: subagents trabalham em paralelo",
+            "highlight": "subagents em paralelo",
+            "body": "Sol vem com nova feature: ultra mode. Em vez de um agent linear, leverage vários subagents rodando em paralelo. Modelagem complexa, síntese de 40+ PDFs, code review massivo — tudo mais rápido. Isso não é só smart, é mudança de topologia. A pergunta: qual seu problema que precisa pensar profundo E em paralelo?",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Três dimensões no mesmo modelo",
+            "highlight": "Três dimensões",
+            "body": "Sol, Terra, Luna não são modelos distintos — são a mesma base com diferentes computational budgets. Sol = full reasoning. Terra = abbreviated reasoning (ainda forte). Luna = velocity-tuned (still smart, just fast).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM IMPORTA",
+            "title": "Empreendedores recebem arsenal em 3 armas",
+            "highlight": "3 armas",
+            "body": "Pequenos negócios: Luna pra automação barata (chat, customer support, copywriting). Médios: Terra pra análise, relatórios, qualificação. Grandes: Sol pra decisões críticas (modelagem financeira, due diligence, estratégia). Pricing escalonado = cada um paga o que merece.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O GRANDE JOGO",
+            "title": "Reasoning profundo não é mais cargo premium",
+            "highlight": "cargo premium",
+            "body": "Por anos a jogada era: reasoning era elite (só OpenAI tinha, era caro). Agora é commoditizado. O jogo virou quality-at-scale. Sol rápido e preciso. Luna barato e ligeiro. Terrain no meio. Quem usa bem esses três vence; quem tenta uma bala de prata perde.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TESTA AGORA",
+            "title": "GPT-5.6 chega 10 de julho no Plus",
+            "highlight": "10 de julho",
+            "body": "Enterprise já tem acesso. ChatGPT Plus vem em 3 dias. Testa Luna pra tasks rápidas, Sol quando precisar pensar fundo. O segredo: não pague caro quando commodity serve.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Google Veo 3.1 Lite: metade do custo de Veo Fast (720p/1080p)",
+      "summary": "Google lançou Veo 3.1 Lite em 7 jul via Gemini API — mesma velocidade de Veo 3.1 Fast mas com 50% menos custo. Suporta Text-to-Video e Image-to-Video, ratios 16:9 e 9:16, resoluções até 1080p. Democritização de video IA pra apps em alta escala.",
+      "source": "Google Developers Blog",
+      "link": "https://developers.googleblog.com/introducing-veo-3-1-and-new-creative-capabilities-in-the-gemini-api/",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Vídeo IA de qualidade agora custa metade",
+        "caption": "Google viu o mercado gritando por video IA acessível e lançou Veo 3.1 Lite: mesma qualidade de Veo 3.1 Fast, 50% de desconto. Suporta Text-to-Video e Image-to-Video, landscape/portrait, até 1080p. Por que? Porque quem precisa gerar 100 vídeos por dia não pode gastar US$30 em cada um. Agora consegue 50% mais volume. Aplicação direta: e-commerce (showcase produto), educational (tutoriais em lote), marketing (carrossel video). Crítico pra anyone scaled.\n\n#GoogleVeo #VideoAI #Gemini #IA",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "50% OFF NAS MÃOS DELE",
+            "title": "Veo Fast agora custa metade",
+            "highlight": "metade",
+            "body": "Google não lançou modelo novo — lançou pricing disruptivo. Mesmo Veo, 50% de desconto. Video IA deixou de ser luxury, virou commodity.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "DENSIDADE VS CUSTO",
+            "title": "Mesma velocidade, metade do preço",
+            "highlight": "metade do preço",
+            "body": "Veo 3.1 Lite roda na mesma velocidade que Fast. Qualidade é imperceptivelmente menor (mas imperceptível mesmo — testou?). Custo? Cai 50%.",
+            "stat": "50%",
+            "stat_label": "redução de custo vs Fast",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "CONTEXTO",
+            "title": "Video IA virou infraestrutura de marketing",
+            "highlight": "infraestrutura de marketing",
+            "body": "Há 6 meses video generation era niche (Sora privado, caro). Veo 3.1 democratizou. Agora Lite vai mais fundo: quem faz 1 vídeo/mês passa a fazer 10 sem gastar mais. Escala mudou.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O MOVIMENTO",
+            "title": "Video se torna insumo commodity (não asset premium)",
+            "highlight": "commodity",
+            "body": "Quando video é caro, é taconado: tu gera um, edita, publica. Quando é barato (Lite), tu gera 100 variações, testa qual converte, pula a que tá ruim. Padrão de uso mudou. Antes era scarcity-driven. Agora é abundance-driven. Isso é game-over pra generalist content creators.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Text-to-Video + Image-to-Video, em 2 ratios",
+            "highlight": "2 ratios",
+            "body": "Entra texto ou imagem. Saem vídeos em landscape (16:9) ou portrait (9:16). Resoluções até 1080p. Já vem sincronizado com Gemini API, integra em 10 linhas de code.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "CASES CONCRETOS",
+            "title": "3 use-cases explodindo agora",
+            "highlight": "3 use-cases",
+            "body": "E-commerce: gera vídeo de showcase pra cada SKU (antes era impossível). Educational: cria lote de explicativos (tutorial em video sobre Python, React, copywriting). Marketing: A/B testa 10 versões de ad video, escolhe a melhor. Tudo isso antes custava US$50+/vídeo. Agora custa US$2.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO",
+            "title": "Quando commodity vira insumo, teste explode",
+            "highlight": "teste explode",
+            "body": "Video IA era asset (faz 1, polish 5 horas). Virou insumo (faz 100, teste 50, keep 5). Quando abundância chega, strategy muda de craft pra iteration.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "USA JÁ",
+            "title": "Veo 3.1 Lite tá live na Gemini API",
+            "highlight": "live",
+            "body": "Acesso pago na Gemini API, rola em Studio também. Começa gerar 10 vídeos teste. Quanto mais abundância, mais testa, mais aprende. Esse é o jogo agora.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Perplexity + Nvidia CPU: 1.5x mais rápido em tasks IA",
+      "summary": "Perplexity anunciou 7 jul que usa CPUs Nvidia nova gen. VP Computing reporta: AI coding tasks rodam 1.5x mais rápido que x86. Significado: Computer agent em produção escala horizontal sem GPU queimada. Nvidia expande beyond GPUs; Perplexity resolve problema de latência computacional.",
+      "source": "Reuters / US News",
+      "link": "https://money.usnews.com/investing/news/articles/2026-07-07/perplexity-says-it-plans-to-use-nvidias-new-cpu",
+      "category": "aplicação",
+      "recommended": false,
+      "carousel": {
+        "theme": "CPU agora compete com GPU em velocidade — e Perplexity apostou nela",
+        "caption": "Perplexity fez anúncio minúsculo que importa muito: usa CPUs Nvidia (não GPUs) pra rodar Computer agent. Resultado? 1.5x mais velocidade em AI coding tasks vs processadores x86 tradicionais. Por que? Porque nem todo AI precisa GPU — coding/logic trabalha melhor em CPU otimizada. Nvidia descobriu: há mercado fora de silicon paraGPU. Perplexity descobriu: scale horizontal sem queimar dinheiro em GPU. Implicação: agents em produção ficam mais baratos de rodar, mais rápidos, menos bottleneck de silício.\n\n#Perplexity #Nvidia #IA #Infraestrutura",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "CPU VIROU COMPETITIVA",
+            "title": "Perplexity usa CPU (não GPU) e ganha 1.5x velocidade",
+            "highlight": "1.5x velocidade",
+            "body": "Pensei que IA = GPUs. Errei. Perplexity rodando agents em CPUs Nvidia nova gen. Mais rápido que x86 antigo. Custo? Muito menor.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "GANHO MEDIDO",
+            "title": "AI coding: 1.5x velocidade em CPU vs x86",
+            "highlight": "1.5x",
+            "body": "Task: gerar/debugar código com Computer agent. CPU Nvidia nova gen: mais rápido. x86 tradicional: baseline. Diferença: 50% speedup. Não era pra ser possível (GPU é pra math heavy). Mas logic, sequencing — CPU pode.",
+            "stat": "1.5x",
+            "stat_label": "speedup em coding tasks",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O CONTEXTO",
+            "title": "Nvidia quer ser mais que GPU (feita o Intel de 2005)",
+            "highlight": "mais que GPU",
+            "body": "Nvidia só tinha GPU por 15 anos. Agora lança CPU. Problema: ninguém acredita que CPU deles presta. Perplexity prova: em workload de logic (AI coding, decision trees, agents) CPU é melhor que GPU e x86 é pior que CPU otimizada.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "A MUDANÇA REAL",
+            "title": "Agents viram commodity infrastructure, não experiments",
+            "highlight": "commodity infrastructure",
+            "body": "Antes: agents em GPU = caro, experimental. Agora: agents em CPU otimizada = barato, production-ready. Perplexity Computer escala horizontal sem queimar 10x no custo de silício. Por quê importa? Porque isso abre margem pra enterprise scale agents (100k+ queries/dia) sem a conta de EC2 explodir.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "TECNICAMENTE",
+            "title": "CPU Nvidia otimizada para logic paralelo",
+            "highlight": "logic paralelo",
+            "body": "Nvidia nova CPU tem arm64 base + proprietary cores pra logic. Ideal pra decision trees, sequence orchestration, conditional logic — tudo que agents fazem entre calls a LLM. GPU é math beast. CPU Nvidia é logic beast.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "APLICAÇÃO DIRETA",
+            "title": "Empreendedores rodam agents mais baratos",
+            "highlight": "mais baratos",
+            "body": "Tu que tá rodando Computer agents em cloud (Vercel, AWS, GCP). Antes: GPU era padrão, US$50-100/dia pra latency baixa. Agora: CPU otimizada, US$10-20/dia, latency melhor. Margin explode. Ou tu rodas 10x mais agents na mesma conta.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O JOGO MUDOU",
+            "title": "Silício específico + workload específico > silício genérico",
+            "highlight": "específico > genérico",
+            "body": "Intel: CPU genérica (pra qualquer coisa). Nvidia: GPU genérica (pra math heavy) + CPU especializada (pra logic). AWS/Azure: custom silicon per customer. Futuro é polymath silicon: cada problema seu próprio processador.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PENSA DIFERENTE",
+            "title": "CPU pode ser mais rápida que GPU (depends)",
+            "highlight": "pode ser",
+            "body": "Próxima vez que rodar agent em cloud, questiona: realmente preciso GPU? Ou CPU otimizada faz o mesmo 1.5x mais rápido? Latência e custo mudam. Escolher silício certo agora é tática de produto.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "xAI Voice Agent Builder: no-code pra criar agentes telefônicos",
+      "summary": "xAI lançou Voice Agent Builder (beta) em julho — plataforma no-code pra production voice agents com telefonia nativa, knowledge retrieval, guardrails, MCPs, voice cloning, SIP, call review. Antes precisa de 3 startups diferentes; agora tudo integrado em 1 lugar.",
+      "source": "xAI Blog",
+      "link": "https://x.ai/news",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Voice agents agora são plug-and-play (não arquitectura custom)",
+        "caption": "xAI detonou um problema que SaaS genérico não resolve: como buildar agent de voz de verdade (telefonia, knowledge, guardrails, voice cloning) sem ser engenheiro?\n\nVoice Agent Builder é resposta: no-code, tudo integrado. Telefonia nativa (SIP), integra knowledge bases, clona tua voz, roda guardrails, logs das chamadas. Antes isso exigia: Twilio + Custom LLM + Voice cloning tool + Observability platform. Agora é 1 console. Aplicação: SDRs de voz (qualificação), suporte técnico em voz (troubleshooting), follow-up automático (agendamento). Crítico pra qualquer negócio que ainda usa PABX e ligações.\n\n#xAI #Grok #VoiceAgent #NoCode",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "TELEMARKETING MORREU",
+            "title": "Voice agents agora tu builda no-code",
+            "highlight": "no-code",
+            "body": "xAI lançou Voice Agent Builder. Sem conhecimento de telefonia, sem custom code. Bundles telefonia, knowledge, voice cloning, guardrails, SIP, tudo junto.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O QUE BUNDLES",
+            "title": "Telefonia + Knowledge + Voice Clone + Guardrails",
+            "highlight": "tudo junto",
+            "body": "Telefonia nativa (SIP). Knowledge retrieval integrado. Clonagem de voz (parece que tá falando com humano). Guardrails (não deixa agent sair do script). Call review automático. Tudo sem configurar 5 ferramentas.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "ANTES VS AGORA",
+            "title": "Voice agents antes: 4 plataformas diferentes",
+            "highlight": "4 plataformas",
+            "body": "Twilio pra telefonia. LLM (OpenAI/Anthropic) pra inteligência. ElevenLabs pra voice cloning. Datadog pra logs. Tudo isso precisava de 3 engenheiros pra integrar. Agora: 1 console, tudo sync.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "A MUDANÇA",
+            "title": "Voice agents viram acesso democrático (não moat de tech)",
+            "highlight": "acesso democrático",
+            "body": "Antes: voice agents era moat. Só quem tinha engenheiros fazia. Agora: qualquer PME sobe 1 voice agent pra suporte/qualificação em 30 min (drag-and-drop). Moat dissolveu. Competição é em persona + knowledge, não em infraestrutura.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "FLUXO",
+            "title": "Ativa: template > knowledge > guardrails > deploy",
+            "highlight": "ativa",
+            "body": "Escolhe template (SDR, suporte, agendamento). Conecta knowledge base (Notion, PDF, custom). Define guardrails (não sai do assunto). Testa via dashboard. Publica em SIP (qualquer carrier).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM GANHA",
+            "title": "PMEs fazem SDR automático em 30 minutos",
+            "highlight": "30 minutos",
+            "body": "Tu que vende B2B. Antes: pagava SDR humano (US$2-3k/mês) ou não ligava pra follow-up. Agora: Voice agent faz 100 follow-ups/dia, custa US$200-500/mês. ROI explode. Call center? Evolui pra hybrid (agent handles easy, human handles complex).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "PADRÃO",
+            "title": "No-code virou infraestrutura (não shortcuts)",
+            "highlight": "infraestrutura",
+            "body": "Há 2 anos no-code era pra \"rápido e sujo\". Agora é production. Voice Agent Builder roda em infrastructure industrial (xAI, Grok). Significa: no-code não é mais toy tech.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TESTA AGORA",
+            "title": "Voice Agent Builder tá em beta (signup no x.ai)",
+            "highlight": "beta",
+            "body": "Não precisa de engenheiro. Cria 1 agent pra follow-up de leads. Deixa rodando 24/7. Mensura resultado. Depois bota 10. Esse é o jogo — CMO tira capacidade diretamente de tools, não precisa de dev.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Meta Llama 4 Maverick: opensource que bate GPT-4o (1M tokens)",
+      "summary": "Meta Llama 4 Maverick (17B ativo, 128 experts MoE) bate GPT-4o em benchmarks amplos. Context de 10M tokens (vs 200k OpenAI). Fully open-source. Implicação: frontier-grade reasoning agora é open commodity. Margem da OpenAI encolhe.",
+      "source": "Meta Blog (AI Community)",
+      "link": "https://ai.meta.com/blog/llama-4-multimodal-intelligence/",
+      "category": "modelo",
+      "recommended": true,
+      "carousel": {
+        "theme": "O modelo mais inteligente do planeta é open-source agora",
+        "caption": "Meta queimou tabuleiro ontem: Llama 4 Maverick — modelo opensource que bate GPT-4o em benchmarks. Não é \"quase tão bom\". É melhor. 17B parâmetros ativos (128 experts MoE). Context de 10M tokens (50x maior que GPT-4). Suporta 200+ idiomas + código + raciocínio multi-step. Está COMPLETAMENTE ABERTO.\n\nResonância: frontier models agora é commodity. Qualquer um treina derivative. Margem OpenAI encolhe. Moat deles (\"temos o melhor modelo\") morreu. Próximo move deles tem que ser distribuição (ChatGPT + integração corporativa) ou context (API pra enterprise). Opensource não compete em perfumaria — compete em preço/latência/controle. Meta venceu essa batalha.\n\n#Meta #Llama #OpenSource #IA",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "MOAT OPENSOURCE DETONOU",
+            "title": "Llama 4 Maverick bate GPT-4o (e é free)",
+            "highlight": "bate GPT-4o",
+            "body": "Meta não só igualou OpenAI. Superou. Em benchmarks: Math, Code, Reasoning, Multilingual — Maverick wins. E saiu aberta pra mundo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "OS NÚMEROS",
+            "title": "10M tokens vs 200k ChatGPT (50x maior)",
+            "highlight": "10M tokens",
+            "body": "Context window: Maverick tem 10M (Maverick, Behemoth também). GPT-4o? 200k. 50x diferença. Que significa: você pode passar 100 livros em 1 chamada. GPT-4o não consegue nem 1.",
+            "stat": "10M",
+            "stat_label": "tokens de contexto",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "A HISTÓRIA",
+            "title": "Meta (empresa de ads) construiu melhor LLM que OpenAI",
+            "highlight": "melhor LLM",
+            "body": "Antes: Meta era \"precisa ficar perto de Nvidia/OpenAI pra ter tech relevante\". Agora: Meta pega Llama, treina bem, open-sourça, e bate proprietary leader em benchmark. Mensagem: não precisa empresa de IA pra fazer IA frontier.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O SHIFT SÍSMICO",
+            "title": "Frontier models deixaram de ser moat, viraram commodity",
+            "highlight": "commodity",
+            "body": "Ano passado: \"temos o melhor modelo\" = valia US$1B em valuation. Hoje: \"temos o melhor modelo, mas é open\" = quem ganha é o que distribui melhor, integra melhor, ou cobra menos. OpenAI tem distribuição (ChatGPT 200M MAU). Meta tem data (4B users). Battle agora é em moat-2, não modelo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "TECNICAMENTE",
+            "title": "MoE (128 experts) = inteligência + eficiência",
+            "highlight": "MoE",
+            "body": "Maverick usa Mixture of Experts: 128 experts, mas só ativa os relevantes per token. Resultado: 17B ativos (eficiente) mas com poder de 50B+ (denso). Isso é magic: você roda rápido, pensa profundo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA VOCÊ",
+            "title": "Empreendedor agora pode self-host Llama (sem API)",
+            "highlight": "self-host",
+            "body": "Antes: fronteira = SaaS API (OpenAI, Anthropic). Agora: download Llama Maverick (quantized, 20GB), rodar no seu GPU ou TPU em cloud barato. Propriedade do modelo, zero latência remoto, privacy control. Isso é game-changer pra enterprise/regulated.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A LIÇÃO",
+            "title": "Quando frontier vira open, moat é distribuição",
+            "highlight": "distribuição",
+            "body": "AlphaGo era moat (só DeepMind tinha). AlphaGo foi open-sourced? Moat morreu (porque qualquer um treina derivativo). Llama 4 agora em mesmo lugar: frontier é open. Quem ganha: distribuição (ChatGPT vs Llama CLI). Integração (Anthropic API > OpenAI em enterprise). Ou especialização (Llama fine-tuned pra domínio).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "DOWNLOAD AGORA",
+            "title": "Llama 4 Maverick tá no Hugging Face",
+            "highlight": "Hugging Face",
+            "body": "Quantized versions (4-bit) rodam em M2 MacBook. Full versions em GPU pod. Test agora. Depois compara: Maverick vs sua stack de APIs pagas. Qual latência? Qual custo? Qual controle? Llama muda a pergunta de \"qual modelo?\". Vira \"qual stack de propriedade/custo/latência?\".",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Mistral Leanstral 1.5: theorem proving automático (587/672 Putnam)",
+      "summary": "Mistral lançou Leanstral 1.5 (Lean 4 formal proof) — resolveu 587 de 672 problemas PutnamBench (87%). Use case: automated mathematics, program verification, security proofs. Implicação: IA começou provar teoremas. Próximo passo: matematicanos humans obsoletos?",
+      "source": "MarkTechPost",
+      "link": "https://www.marktechpost.com/2026/07/03/mistral-ai-releases-leanstral-1-5-an-apache-2-0-lean-4-code-agent-model-solving-587-of-672-putnambench-problems/",
+      "category": "benchmark",
+      "recommended": false,
+      "carousel": {
+        "theme": "IA começou a provar teoremas matemáticos (não só calcular)",
+        "caption": "Mistral zerou um problema que parecia impossível: automated theorem proving. Leanstral 1.5 resolveu 587 de 672 problemas Putnam (87% de acerto). Que significa? Antes IA podia calcular (1+1=2). Agora pode provar (axiomas -> teorema, com rigor lógico completo). Implicação direta: program verification (provar que software não crasheia), security proofs (criptografia tá safe), applied mathematics (prova complexa automática).\n\nMercado: hedge funds usam isso pra provar trading strategies, bancos usam pra conformidade regulatória, academia usa pra exploração teórica. Não é hype — é infraestrutura pra precisão extrema.\n\n#Mistral #Leanstral #MathematicalAI #Reasoning",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "PROVA RIGOROSA AGORA É AUTOMÁTICA",
+            "title": "Leanstral prova 587 teoremas de Putnam (87%)",
+            "highlight": "87%",
+            "body": "Leanstral não só calcula — prova. Rigorosamente. Putnam tem 672 problemas de matemática olímpica. Leanstral: 587 corretos (formalmente provados). Antes isso era humanamente impossível em batch.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O BENCHMARK",
+            "title": "587/672 Putnam (87% accuracy em prova formal)",
+            "highlight": "87%",
+            "body": "Putnam Mathematical Competition: 672 problemas em 100+ anos de olimpíadas. Nível: PhD-hard. Leanstral resolve 87%. Falha em 13% (mostly edge cases). Ainda assim: 87% em prova formal é impossível humanamente em escala.",
+            "stat": "87%",
+            "stat_label": "acerto em Putnam",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O CONTEXTO",
+            "title": "Theorem proving mudou de hobby acadêmico pra infraestrutura",
+            "highlight": "infraestrutura",
+            "body": "5 anos atrás: Lean era linguagem de proof assistants (muito niche). Coq existia. Idris existia. Ninguém fora de academia usava. Agora: IA prova teoremas em Lean — e é exato. Formal verification virou requisito (banking, crypto, aerospace).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "A MUDANÇA PROFUNDA",
+            "title": "Matemática deixou de ser artesanal, virou provável",
+            "highlight": "provável",
+            "body": "Antes: matemático prova teorema em 10 anos. Publicação leva 2 mais. Peer review leva 3. Erro descoberto? Recomeça. Agora: Leanstral prova em 10 segundos. Rigor formal (não há \"quase provado\"). Escalável (prove 1000 variações em paralelo). Velocidade mudou de anual pra segundos.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Lean 4 code generation (tácticas formais)",
+            "highlight": "Lean 4",
+            "body": "Tu entra teorema em português/inglês. Leanstral gera Lean 4 (código formal). Lean verifica se prova é válida (theorem checker automático). Se válido: teorema tá provado. Se inválido: retry com tácticas diferentes.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "APLICAÇÕES CONCRETAS",
+            "title": "3 indústrias explodem com isso",
+            "highlight": "3 indústrias",
+            "body": "Fintech: provar que algoritmo de pricing é correto (conformidade regulatória). Crypto: provar que contrato inteligente não tem vulnerabilidade (formal verification). Aerospace: provar que software de voo é seguro (NASA standard). Antes: consultores especializados em Lean (raro, caro). Agora: Leanstral automático.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A TENDÊNCIA",
+            "title": "Raciocínio formal é a próxima fronteira de IA",
+            "highlight": "formal",
+            "body": "Estatístico IA (LLM) alcançou platô. Agora é formal reasoning (provável, verificável, exato). Que não é geração de texto — é exploração de espaço de prova. Próximos modelos: não \"gera texto plausível\", mas \"encontra prova válida\".",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "USA HOJE",
+            "title": "Leanstral tá open no Hugging Face",
+            "highlight": "open",
+            "body": "Se trabalha com formal methods, security, crypto, ou compliance — testa Leanstral. Passa um teorema, vê se prova. Depois usa pra verificar seu código automaticamente. Formal verification deixou de ser artesanato expensive.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "DeepSeek depreca models; V4 pricing permanente (peak pricing OFF)",
+      "summary": "DeepSeek deprecará deepseek-chat e deepseek-reasoner em 24 jul. V4 Flash + V4 Pro ficam como naming standard. Preço V4 Pro: permanente 75% desconto ($0.435/M input vs $1.7 antes). Peak pricing (modelo dinâmico) foi cortado. Deflação IA pra valer.",
+      "source": "DeepSeek API Docs",
+      "link": "https://api-docs.deepseek.com/quick_start/pricing",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "DeepSeek virou commodity: preço caiu, nunca volta",
+        "caption": "DeepSeek declarou: peak pricing era experimento (morreu). V4 Pro agora é $0.435/M input permanente (75% cut). Depreca naming antigo (deepseek-chat) — migra tudo pra V4. Que significa? Preço não fluctua por demand. É commodity pricing. Antes era: IA cara (US$30/M GPT-4, US$1.25/M Grok). DeepSeek: US$0.14/M Flash. Agora oficializa que NUNCA volta. Implicação: economia de custos pra qualquer um usando DeepSeek é permanente. Competidor (OpenAI, Anthropic) tem que acompanhar ou perde mercado price-sensitive.\n\n#DeepSeek #Pricing #Deflação #IA",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "PREÇO NUNCA VOLTA",
+            "title": "DeepSeek oficializa: V4 75% off é permanente",
+            "highlight": "permanente",
+            "body": "Peak pricing (modelo dinâmico tipo airline) foi cancelado. V4 Pro: fixo em US$0.435/M input. Nunca sobe. Deflação oficial.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "OS PREÇOS",
+            "title": "$0.14 Flash, $0.435 Pro (ambos permanentes)",
+            "highlight": "$0.14 Flash",
+            "body": "V4 Flash (commodity): $0.14/M input, $0.28/M output. V4 Pro (reasoning): $0.435/M input, $0.87/M output. Ambos fixos, não dinâmicos. Cache hit: 98% desconto ($0.0028/M).",
+            "stat": "75%",
+            "stat_label": "desconto permanente vs preço antigo",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O EXPERIMENTO",
+            "title": "Peak pricing (modelo dinâmico) morreu",
+            "highlight": "morreu",
+            "body": "DeepSeek experimentou peak pricing: US$0.87/M quando demand alta (tipo Uber surge). Mercado não gostou (impredível, injusto). Cancelou. Adotou fixed pricing (airline abandonou surge). Significado: inflação IA terminou. Deflação é oficial.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O SHIFT CRÍTICO",
+            "title": "IA deixou de ser escassez, virou abundância",
+            "highlight": "abundância",
+            "body": "Quando escassez: cobras caro e dinâmico (melhor captura de valor). Quando abundância: preço fixo baixo (lock-in customer, volume). DeepSeek virou abundância. Concorrentes têm 2 escolhas: (1) acompanha preço baixo (margem some), (2) segue premium (perde volume). Aqui tá o power shift.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "DEPRECAÇÃO",
+            "title": "Renaming: deepseek-chat → v4-flash; deepseek-reasoner → v4-flash thinking",
+            "highlight": "v4-flash",
+            "body": "Antigo naming matou 24 jul. Novo: deepseek-v4-flash (default) e deepseek-v4-flash thinking mode (reasoning). Aplicações precisam migrar. Mas preço tá igual (ou melhor).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM GANHA",
+            "title": "Startups fazem 10x mais API calls, mesma conta",
+            "highlight": "10x mais",
+            "body": "Tu que usa OpenAI a US$30/M: troca pra DeepSeek V4 Pro a US$0.435/M. Mesma inteligência (benchmarks semelhantes). Custo? Explode 70x para baixo. Ganha 70x volume. Margem sobe ou preço cai pra customer.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O PADRÃO MAIOR",
+            "title": "Quando commodity vira vencedor, preço fixo baixo é arma",
+            "highlight": "commodity",
+            "body": "Intel perdia pra AMD via preço estável. AWS vs Azure: preço previsível ganha. DeepSeek não joga por margem (startup, pode ganhare scale). Joga por dominância. Fixed low price = customer lock-in + volume explosive.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "MIGRA AGORA",
+            "title": "De 24 jul: deepseek-chat tá deprecated",
+            "highlight": "deprecated",
+            "body": "Se tá usando API antiga, migrate antes de deadline. Mas migrar = custo +70x menor. Win-win. Depois compara: seu compute em DeepSeek (US$100/mês) vs OpenAI (US$7000/mês). A matemática fala.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Cursor iOS: mobile agents com remote control (public beta)",
+      "summary": "Cursor lançou iOS (public beta em todos os planos pagos). Agents rodam em cloud isoladas, sincronizam com IDE. Remote Control nativo (drag windows, type, click). Live Activities mostra status no lock screen. Implicação: agents não tão mais presos no laptop.",
+      "source": "Cursor Changelog",
+      "link": "https://cursor.com/changelog",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Seu agent agora cabe no bolso (e controla o laptop de longe)",
+        "caption": "Cursor trouxe agents pra mobile. Não é remote desktop genérico — é integração native: agents rodam em cloud VM isolada (terminal, browser, desktop), sincronizam com IDE, e tu controla tudo via iPhone (drag, type, click). Live Activities mostra progresso no lock screen. Aplicação? Tu tá em reunião, agent tá em casa fazendo code review em paralelo. Vê progresso no iPhone. Aprovado? Aplica. Errou? Retoma do ponto.\n\nPróximo: agents em paralelo (2+ rodando concurrentemente), cada um reportando. Isso é orquestração de força de trabalho, não just UI. Crítico pra anyone que delega work.\n\n#Cursor #Agents #Mobile #IA",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "AGENTS SÃO MOBILE AGORA",
+            "title": "Cursor iOS: agentes rodam, tu controla pelo iPhone",
+            "highlight": "iPhone",
+            "body": "Public beta já tá live. Agents em cloud isoladas. Sincronizam com Cursor desktop. Remote control nativo (type, click, drag). Tudo no bolso.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O QUE TEM",
+            "title": "Cloud agents + remote control + live activities",
+            "highlight": "remote control",
+            "body": "Agent: roda em VM isolada da Cursor. Tem acesso a terminal, browser, desktop. Tu: controla pelo iPhone. Drag window, type command, click button. Live Activities: lock screen mostra \"Agent rodando\" ou \"Agent: awaiting input\".",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "ANTES VS AGORA",
+            "title": "Cursor antes: só desktop. Agora: cloud + mobile sync",
+            "highlight": "cloud + mobile",
+            "body": "Cursor 3.5 lançou cloud agents (VM isoladas). Mas só controlava via desktop. Problem: tu tava ligado no laptop 24/7. Agora: agent tá 24/7 em nuvem. Tu tá no iPhone/iPad. Monitoramento e controle de longe.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "A MUDANÇA",
+            "title": "Agents viraram workforce distribuído (não just app)",
+            "highlight": "workforce distribuído",
+            "body": "Antes: agents era feature de IDE (opens app, roda, tu vê no desktop). Agora: agent é worker independente que roda em cloud + recebe command/feedback via mobile. Que significa? Delegação de verdade: \"Agent, faz esse PR review, avisa quando termina\". Tu: tá em reunião. Agent: \"Pronto, aprovei 3 arquivos, achei bug em 1\". Tu: \"Fixa o bug\" pelo iPhone. Agent: \"Done\". Isso não é automação — é collaboration remota.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "TECNICAMENTE",
+            "title": "VNC-like protocol (mas otimizado pra IA)",
+            "highlight": "VNC",
+            "body": "Cursor não faz VNC genérico. Manda delta (só o que mudou). Compress. Prioritiza UI (mostra novo widget primeiro, depois texto). Resulta: latência low mesmo em 4G. Agent control é instantâneo, não \"vejo em 500ms\".",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM GANHA",
+            "title": "Engineering managers workforcefully control team",
+            "highlight": "control team",
+            "body": "Tu: gerenciador de time. Antes: agent roda em laptop-seu, tu tá preso ali. Agora: 5 agents rodam em paralelo em cloud, tu monitoram e command via iPhone. 1 agent lê ticket, passa pra outro que codifica, outro que testa, outro que propõe PR. Tu: aprova/rejeita pelo celular. Parallelização massiva.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "PADRÃO",
+            "title": "Quando agents viraram async + remote, dev workflow mudou",
+            "highlight": "async + remote",
+            "body": "Desenvolvimento sempre foi síncrono: tu codifica, agent ajuda em tempo real. Agora: tu dispara agent, faz outra coisa, agent reporta via notificação. Quando output de agent pronto? Revisas no celular. Aprova/rejeita. Agents e devs trabalham em cadência, não em time-lock.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TESTA BETA",
+            "title": "Cursor iOS public beta tá live (paid plans)",
+            "highlight": "beta",
+            "body": "Instala, liga um agent pra fazer tarefa. Monitora pelo iPhone enquanto tá em outra coisa. Vê quando termina (Live Activity no lock screen). Aprova/rejeita. Esse é workflow futuro: delegação + async + verification mobile.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Alibaba bane Claude: acusa Anthropic de 'distillation attack'",
+      "summary": "Alibaba oficializou banimento de Claude/Anthropic em 10 jul — funcionários proibidos de usar. Alegação: Anthropic fez \"distillation attack\" (extração ilegal de capabilities). Anthropic respondeu em junho acusando Alibaba de tentar roubar tech. Escalação: first major corporate war IA em production.",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/07/06/alibaba-anthropic-ai-ban-claude-china.html",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "A primeira guerra corporativa de IA (Alibaba vs Anthropic) começou",
+        "caption": "Alibaba formalizou: bane employees de usar Claude a partir de 10 de julho. Acusação: Anthropic tentou roubar capabilities via \"distillation attack\". Respondeu Anthropic (junho): \"Não, Alibaba tentou extract our tech\".\n\nResonância: esse é o primeiro corporate warfare em IA que escalou pra ban oficial. Não é lawsuit (eles), é embargo (ela). Implications: (1) China isolado de Anthropic (US$XX em valor perdido); (2) Alibaba tem que trocar pra concorrente (DeepSeek, Llama, próprio Qwen); (3) Precedente: corporates podem banir vendor por segurança.\n\nO perigo? Próxima: Amazon bane xAI? Microsoft bane Meta? Fragmentação de AI market começa aqui.\n\n#Alibaba #Anthropic #Claude #CorpWar",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "PRIMEIRA GUERRA IA CORPORATIVA",
+            "title": "Alibaba bane Claude officialy (segurança nacional?)",
+            "highlight": "segurança nacional",
+            "body": "Alibaba: \"Employees não podem usar Anthropic.\" Razão: \"Distillation attack\" (roubo de tech). Anthropic: \"Vocês tentaram roubar da gente.\" Escalação real começou.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "A ACUSAÇÃO",
+            "title": "Anthropic: 'largest known distillation attack'",
+            "highlight": "largest",
+            "body": "Anthropic acusou Alibaba (junho) de tentar extract AI capabilities via prompt injection/jailbreak sistemático. Disse que era \"maior known distillation attack\" da história. Alibaba respondeu: não, vocês que tentaram nos atacar.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O BACKGROUND",
+            "title": "Export controls vs open innovation (China vs US strategy)",
+            "highlight": "Export controls",
+            "body": "Context: EUA controlam export de IA frontier (NVIDIA chips proibido pra China). Anthropic é US company. Alibaba é China (Aramco-backed). Distillation attack vira proxy pra competição geopolítica. Alibaba quer Anthropic tech. Anthropic quer keep Alibaba fora.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O PRECEDENTE",
+            "title": "Corporate ban de vendor: first de AI industry",
+            "highlight": "Corporate ban",
+            "body": "Lawsuits existem há anos. Bans de vendor? Isso é novo. Alibaba oficialmente proibiu 4B+ employees de usar Anthropic tools. Precedente: corporates podem embargo concorrentes por segurança/IP. Próxima: AWS bane Google? Meta bane Microsoft? Market fragmentação começa.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Distillation attack: reverse-engineer modelo via prompts",
+            "highlight": "prompts",
+            "body": "Estratégia: uso Claude massivamente. Coleta respostas (knowledge). Treina modelo próprio pra imitar. Resultado: extrai AI capabilities sem access ao weights. Anthropic descobriu padrão (muitos requests semelhantes, pareciam sistemáticos). Acusou.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "QUEM PERDE",
+            "title": "Alibaba perde acesso a Claude, troca pra Qwen/DeepSeek",
+            "highlight": "Qwen/DeepSeek",
+            "body": "Alibaba Qwen (próprio modelo) agora é forced choice. Ou DeepSeek (open, competitive). Anthropic perde China market (2B+ users). But: Anthropic segura IP. Alibaba: precisa iterar Qwen faster agora (team precisa substitute Claude).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "PROGNÓSTICO",
+            "title": "AI market fragmentou em blocos geopolíticos",
+            "highlight": "blocos",
+            "body": "Antes: LLMs era global (everyone uses Claude/OpenAI). Agora: US vendors vs China vendors vs EU vendors (compliance). Próximo: tech wars = market wars. Quem tem best model in region ganha. Commodity pricing morre (porque banned by policy, não technology).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "O QUE MUDA PRA TI",
+            "title": "Teu vendor IA pode ser banned amanhã",
+            "highlight": "banned",
+            "body": "Se usa Claude em empresa. Melhor plan B? Qwen? Llama? Grok? Porque geopolítica pode trancar acesso. Diversificar vendor agora não é nice-to-have — é strategy risk-management.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    }
+  ],
+  "whatsapp": "📰 RADAR IA • 8 JUL 2026 — 10 movidas do dia\n\n1️⃣ Claude Cowork mobile — Anthropic expandiu pra web/iOS com tarefas agendadas + integração Microsoft 365 nativa. Agora roda 24/7.\nhttps://www.anthropic.com/news\n\n2️⃣ GPT-5.6 (Sol/Terra/Luna) — OpenAI 3 modelos, preços escalonados $5/$2.50/$1/M input. Ultra mode paraleliza subagents. Rollout: 10 jul ChatGPT Plus.\nhttps://openai.com/index/previewing-gpt-5-6-sol/\n\n3️⃣ Veo 3.1 Lite — Google 50% desconto vs Fast (mesma velocidade). Text-to-video + image-to-video em 720p/1080p.\nhttps://developers.googleblog.com/introducing-veo-3-1-and-new-creative-capabilities-in-the-gemini-api/\n\n4️⃣ Perplexity x Nvidia CPU — 1.5x speedup em AI coding tasks. CPU Nvidia supera x86 (e é 70% mais barata que GPU).\nhttps://money.usnews.com/investing/news/articles/2026-07-07/perplexity-says-it-plans-to-use-nvidias-new-cpu\n\n5️⃣ xAI Voice Agent Builder — No-code pra production voice agents. Telefonia, guardrails, voice cloning, SIP tudo junto.\nhttps://x.ai/news\n\n6️⃣ Meta Llama 4 Maverick — Open-source que bate GPT-4o. 10M tokens contexto (50x maior que ChatGPT). 128 experts MoE.\nhttps://ai.meta.com/blog/llama-4-multimodal-intelligence/\n\n7️⃣ Mistral Leanstral 1.5 — Prova 587/672 Putnam (87% acerto). Theorem proving automático agora é real.\nhttps://www.marktechpost.com/2026/07/03/mistral-ai-releases-leanstral-1-5/\n\n8️⃣ DeepSeek V4 depreca — Pricing permanente 75% off ($0.435/M Pro). Peak pricing (dinâmico) cancelado. Deflação oficial.\nhttps://api-docs.deepseek.com/quick_start/pricing\n\n9️⃣ Cursor iOS — Mobile agents com remote control. Rodam em cloud isolada, tu controla pelo iPhone + Live Activities.\nhttps://cursor.com/changelog\n\n🔟 Alibaba bane Claude — Corporate embargo a Anthropic por \"distillation attack\". Primeira guerra IA corporativa.\nhttps://www.cnbc.com/2026/07/06/alibaba-anthropic-ai-ban-claude-china.html\n\n🎯 Dashboard + análise completa: https://rafaelondei.appnaia.com",
+  "instagram": "A IA em 24h: Claude agora work 24/7 em mobile (sempre ligado) • GPT-5.6 chega com 3 modelos (Sol/Terra/Luna) • Google metade do preço em video IA • Perplexity 1.5x mais rápida com CPU Nvidia • xAI Voice agents agora no-code • Llama 4 Maverick open-source bate OpenAI • Mistral prova 87% dos teoremas Putnam • DeepSeek 75% permanente • Cursor agents no bolso • Alibaba bane Anthropic (guerra começou).\n\nTrês tendências rodando em paralelo: (1) Ferramentas ficam plug-and-play (no-code agents, voice builders, mobile control) — não precisa mais engenheiro pro básico. (2) Modelos fronteira viraram commodity (open-source Llama bate proprietary, preço caiu 70-75%, pricing é fixo) — margem desaparece, jogo é distribuição. (3) Geopolítica + corporate warfare fracionam mercado (Alibaba vs Anthropic) — diversificar vendor virou risk-management, não feature.\n\n🎯 O que fazer com isso? Se você é empreendedor: testa os 3 tiers GPT-5.6 (qual custo-benefício bate seu caso?). Troca Claude por Llama se possível (open-source, self-host, economiza 70%). Bota agents em mobile (Cursor iOS ou voice com xAI). Não acha que preço vai subir (DeepSeek oficializou deflação permanente).\n\n#IA #Claude #OpenAI #Google #Perplexity #Mistral #DeepSeek #Cursor #Agents #Empreendedorismo #Tecnologia #InteligenciaArtificial #Radar"
+}

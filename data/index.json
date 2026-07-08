@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-07-07T07:00:01-03:00",
+  "updated_at": "2026-07-08T07:00:01-03:00",
   "executions": [
+    {
+      "date": "2026-07-08",
+      "key": "2026-07-08",
+      "topic": "mercado de IA",
+      "summary": "Claude Cowork mobile 24/7 (sync web/iOS/Mac). GPT-5.6 Sol/Terra/Luna (pricing escalonado $5/$2.50/$1). Veo 3.1 Lite 50% barato. Perplexity x Nvidia CPU 1.5x rápido. xAI Voice Agent Builder no-code. Llama 4 Maverick open-source bate GPT-4o (10M tokens). Leanstral 1.5 prova 87% Putnam. DeepSeek V4 pricing permanente 75% off. Cursor iOS remote control agents. Alibaba bane Claude (corporate warfare IA).",
+      "items_count": 10
+    },
     {
       "date": "2026-07-07",
       "key": "2026-07-07",
