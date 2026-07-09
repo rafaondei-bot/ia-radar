@@ -1,0 +1,1030 @@
+{
+  "date": "2026-07-09",
+  "topic": "mercado de IA",
+  "topic_slug": "mercado-ia",
+  "generated_at": "2026-07-09T07:00:01-03:00",
+  "items": [
+    {
+      "title": "Vercel SDK 7: 50% deployments agora são agents automáticos",
+      "summary": "Vercel lançou AI SDK 7 com Eve framework (\"Next.js para agents\"), consolidando suas ferramentas de agentic infrastructure. A mudança mais chocante: deployments via agents subiram de <3% há 6 meses para 50% agora — a maioria do software novo é feito por máquinas, não humanos. Inclui durability, MCP Apps, aprovações humanas e sandbox seguro.",
+      "source": "TechCrunch / Vercel Blog",
+      "link": "https://vercel.com/blog/ai-sdk-7",
+      "category": "ferramenta",
+      "recommended": true,
+      "carousel": {
+        "theme": "Metade dos deploys na Vercel agora são feitos por agents automáticos",
+        "caption": "Vercel AI SDK 7 foi o divisor de águas 2026: em 6 meses, deployments por agents saíram de 3% pra 50%. A vida do dev não é mais escrever código — é gerenciar agentes que escrevem código. Eve é o \"Next.js para agents\": você define um diretório, agents herdam durability, sandbox, tools, skills, aprovações humanas. 20 trilhões de tokens por mês agora passam pela AI Gateway. A próxima geração de software é feita assim: agents como primeira classe, humanos em aprovação. Isso é escala. #IA #Programação #Agentes #Vercel\n\nLink do radar: https://rafaelondei.appnaia.com",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "METADE DOS DEPLOYS AGORA SÃO AGENTS",
+            "title": "50% dos deploys na Vercel são automáticos",
+            "highlight": "50%",
+            "body": "Há 6 meses era 3%. Agora é 50%. Devs não escrevem código, gerenciam agentes que escrevem código.",
+            "stat": "50%",
+            "stat_label": "deployments automáticos em 6 meses",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O NÚMERO QUE RESUME TUDO",
+            "title": "20 trilhões de tokens/mês",
+            "highlight": "trilhões",
+            "body": "10x crescimento em 6 meses. A AI Gateway da Vercel virou um tubo gigante passando machine-to-machine computation.",
+            "stat": "20T",
+            "stat_label": "tokens por mês via AI Gateway",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "POR QUE ISSO IMPORTA",
+            "title": "Eve framework muda o jogo",
+            "highlight": "Eve",
+            "body": "Eve é o \"Next.js para agents\". Um diretório = um agent. Durability, sandbox, tools, skills, aprovações humanas — tudo built-in. Não é mais \"chatbot\" nem \"copilot\". É infraestrutura pra agentes trabalharem em produção.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "A MUDANÇA NA ENGENHARIA",
+            "title": "Dev não escreve, governa",
+            "highlight": "governa",
+            "body": "O papel do dev mudou. Não escreve código linear. Especifica tarefa, agente executa, dev aprova. Workflow SDK + Agent Stack + Eve = infraestrutura pra agentes em produção com humanos no loop.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO ISSO FUNCIONA",
+            "title": "Stack completo: SDK 7 + Eve + Connect",
+            "highlight": "Stack",
+            "body": "AI SDK 7 (reasoning control, agent tool approval, MCP apps, durable workflows). Eve (open-source agent framework). Vercel Connect (scoped tokens, audit trails, integrações nativas Slack/GitHub/Snowflake/Notion/Linear). Pronto pra produção.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRAS STARTUPS E DEVS",
+            "title": "Custo de deploy cai exponencialmente",
+            "highlight": "exponencialmente",
+            "body": "Antes: dev escrevia, testava, deployava. Agora: agent escreve, agent testa, agent deploya. Humanos só aprovam (1% do tempo). Custo/velocidade de engenharia fica 50x melhor.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO",
+            "title": "Workflow beats chatbot",
+            "highlight": "Workflow",
+            "body": "A startup que vence em 2026 não é aquela com o melhor chatbot. É aquela que tem agents rodando 24/7 terminando tarefas bounded com aprovação humana. Vercel ficou gigante porque entendeu isso cedo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Mais radar de IA todo dia. Notícias, trends, oportunidades pra empreendedor e mentorado aproveitar.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "GPT-5.6 GA: 1.5M tokens, full-duplex, contexto 3.75x maior",
+      "summary": "OpenAI lançou GPT-5.6 em GA no Enterprise API (7 jul), ChatGPT Plus (10 jul), com contexto 1.5M tokens (vs 400K do 5.5), e GPT-Live — nova arquitetura de voz onde modelo ouve e fala simultaneamente, não turn-based. Inclui speech-to-text melhorado (9 idiomas com menos erros) e ChatGPT para PowerPoint (GA para Business).",
+      "source": "OpenAI Release Notes",
+      "link": "https://openai.com/products/release-notes/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "GPT-5.6 dobra o contexto: 1.5M tokens + voz simultânea",
+        "caption": "GPT-5.6 é o maior salto de contexto da OpenAI. Saiu de 400K no 5.5 pra 1.5M — 3.75x maior. Significa que devs podem colocar 5-6 livros inteiros no prompt de uma vez. Pra voz, GPT-Live muda tudo: full-duplex (modelo ouve e fala ao mesmo tempo), não aquela conversa truncada turn-by-turn. Speech-to-text melhorado em 9 idiomas. ChatGPT pra PowerPoint GA. A OpenAI tá correndo porque Claude e Grok estão pisando no seu pé. #IA #GPT #OpenAI #Claude\n\nLink do radar: https://rafaelondei.appnaia.com",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "CONTEXTO MASSIVO CHEGOU",
+            "title": "1.5M tokens: 3.75x maior que antes",
+            "highlight": "1.5M",
+            "body": "GPT-5.6 chegou. Contexto é o novo battleground. Quanto mais tokens, mais história o modelo lembra.",
+            "stat": "1.5M",
+            "stat_label": "tokens de contexto no Enterprise",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O CONTRASTE CHOCANTE",
+            "title": "Era 400K, agora é 1.5M",
+            "highlight": "3.75x",
+            "body": "GPT-5.5 tinha 400K tokens. GPT-5.6 tem 1.5M. Diferença? Você cabe 5-6 livros inteiros no prompt de uma vez.",
+            "stat": "3.75x",
+            "stat_label": "mais contexto em 6 meses",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE MUDOU NA ARQUITETURA",
+            "title": "GPT-Live: voz full-duplex",
+            "highlight": "full-duplex",
+            "body": "Antes: \"Você fala -> modelo escuta -> você espera em silêncio -> modelo responde -> volta pro passo 1\". Agora: você fala E o modelo interrompe naturalmente, fala junto, como uma conversa real.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "POR QUE IMPORTA AGORA",
+            "title": "Claude e Grok estão chegando perto",
+            "highlight": "perto",
+            "body": "Claude tem 200K default + 2M extended. Grok anunciou visão melhorada. OpenAI tá acelerando porque não quer perder pro hype. 1.5M + full-duplex voz = move a agulha.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "DETALHE TÉCNICO",
+            "title": "Speech-to-text melhorado 9 idiomas",
+            "highlight": "9 idiomas",
+            "body": "Menos erros em japonês, coreano, chinês, urdu, vietnamita, inglês com sotaque, e espanhol/francês/italiano/português long-form. Importante pra mercados fora dos EUA.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA EMPREENDEDOR TECH",
+            "title": "Rag e search não morrem, só mudaram",
+            "highlight": "mudaram",
+            "body": "1.5M tokens significa você coloca TUDO (histórico, docs, chat) no prompt de uma vez. Menos RAG, mais \"context flooding\". Pra startups: menos cache, menos complexidade, mais simplicity. Menos engenharia, mais produto.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "ONDE ESSA ONDA VAI",
+            "title": "Contexto é deflação natural",
+            "highlight": "deflação",
+            "body": "Quanto maior o contexto, menos chamadas de API você precisa fazer. Menos chamadas = menos custo. Menos custo = mais uso. OpenAI ganha em volume mesmo que o preço caia por token.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Mais radar de IA todo dia. Notícias, trends, oportunidades pra empreendedor e mentorado aproveitar.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Claude Cowork mobile: desktop → mobile → web, sync real-time",
+      "summary": "Anthropic expandiu Claude Cowork (seu agente de código) para web e mobile, permitindo que usuários comecem uma tarefa no desktop, recebam status no celular e peguem o resultado depois (até com laptop fechado). Sincronização em tempo real entre plataformas. Rollout em fases começando com Max plan. Também adicionou Microsoft 365 write tools (email, calendário, OneDrive, SharePoint).",
+      "source": "TechCrunch / Anthropic",
+      "link": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Claude Cowork sai do desktop: mobile + web com sync real-time",
+        "caption": "Claude Cowork (o agente de código da Anthropic) saiu do desktop. Agora roda em web e mobile, sincronizado em tempo real. Começa tarefa no laptop, pega status no celular, recebe o resultado pronto depois (até laptop desligado). Rollout começou com Max plan. Adicionou tools pra escrever em Microsoft 365 (email, calendário, OneDrive, SharePoint nativo). Coding agents sairam de \"feature no IDE\" pra \"infraestrutura invisível\". #Claude #Anthropic #Agents\n\nLink do radar: https://rafaelondei.appnaia.com",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "CODING AGENTS SAEM DO PC",
+            "title": "Claude Cowork agora roda no celular",
+            "highlight": "celular",
+            "body": "Não é mais \"edição remota\". É sync real-time entre laptop, celular, web. Desktop começa a tarefa, mobile acompanha, web faz delivery.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O FLUXO NOVO",
+            "title": "Desktop → Mobile → Web (sync real-time)",
+            "highlight": "sync",
+            "body": "Usuário começa tarefa no Mac. Recebe notificação no iPhone com progress. Entrega fica pronta na web. Tudo acontece sem ver a tela do agent rodando.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "CONTEXT SWITCHING SUMIU",
+            "title": "Agents não interrompem fluxo do trabalho",
+            "highlight": "fluxo",
+            "body": "Antes: abria terminal, rodava agent, esperava 30 min. Agora: schedula no desktop, monitora no celular, pick up o resultado na web. Agente trabalha enquanto você trabalha em outra coisa.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "A MUDANÇA DE PARADIGMA",
+            "title": "Agents viraram serviço de background",
+            "highlight": "background",
+            "body": "Não é mais \"chamar agent e esperar\". É \"agents sempre trabalhando\", você só aprova via mobile. Background processing virou commoditizado. Anthropic viu que Cursor + Vercel estavam ganhando e acelerou.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "NOVO PODERIO",
+            "title": "Microsoft 365 integration nativa",
+            "highlight": "Microsoft 365",
+            "body": "Agents podem agora draftar e enviar email, gerenciar calendários, criar/atualizar OneDrive e SharePoint. Significa que agents escaparam do IDE — agora orquestram workspace inteiro.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO EMPREENDEDOR",
+            "title": "Automação de knowledge work sai do sonho",
+            "highlight": "conhecimento",
+            "body": "Código + email + calendário + docs — tudo automático. Assistente perfeita que trabalha 24/7. Startups que isso não tivessem ficam presas em 2025 (manual tudo). Quem tiver fica em 2026 (agente de fundo).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O GRANDE MOVIMENTO",
+            "title": "Agents estão virando invisíveis",
+            "highlight": "invisíveis",
+            "body": "O melhor UX de agent é não ter que pensar em agent. Roda em background, manda notify no celular, resultado esperando. Claude Cowork entendeu isso e buscou a experiência iOS/Android — e não a experiência CLI.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Mais radar de IA todo dia. Notícias, trends, oportunidades pra empreendedor e mentorado aproveitar.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Grok 4.5: Opus-class, faster, cheaper (vai sair 9 jul)",
+      "summary": "xAI anunciou Grok 4.5 (9 de julho de 2026) como modelo \"Opus-class mas mais rápido, token-efficient e barato\". Elon Musk confirmou em post que é \"built to excel at coding, agentic tasks, and knowledge work\". Grok Imagine (imagem+vídeo) está completo (\"Done\" em 5 jul). Roadmap: V9-variants mensais até fim de 2026, Grok 5 targets 6-10T params.",
+      "source": "xAI Blog / Elon Musk",
+      "link": "https://x.ai/news",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Grok 4.5: Opus-class, faster, cheaper — volta de xAI",
+      "caption": "Grok 4.5 saiu em 9 de julho e é a resposta de xAI ao monopólio Claude+OpenAI. Opus-class (lê-se: tão bom quanto Claude Opus 4.8), mas mais rápido, mais barato, token-efficient. Elon diz que foi \"built to excel at coding, agentic tasks, knowledge work\" — exatamente aonde devs vivem agora. Grok Imagine (imagem+vídeo) já tá completo. Roadmap? V9-variants todo mês até fim de 2026. Grok 5 vai ter 6-10 trilhões de params. xAI tá jogando bola. #Grok #xAI #IA\n\nLink do radar: https://rafaelondei.appnaia.com",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "GROK VOLTA PRO JOGO",
+            "title": "Grok 4.5: Opus-class, mas barato",
+            "highlight": "barato",
+            "body": "A xAI botou Grok 4.5 no ar. Performance de Opus, preço de Sonnet. Coding + agents + knowledge work. Disrupção de preço de volta.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "QUAL É O NUMBERS",
+            "title": "Opus-class performance, Sonnet-class price",
+            "highlight": "price",
+            "body": "Grok 4.5 não tá aqui pra ser \"terceiro lugar\". Tá aqui pra ser Opus mas não pagar Opus. Token-efficient, mais rápido. Pra devs isso é game-changer de custo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O TIMING FOI PERFEITO",
+            "title": "Claude Sonnet 5 \"barato\", Grok 4.5 \"mais barato\"",
+            "highlight": "timing",
+            "body": "Anthropic lançou Sonnet 5 com pricing agressivo. OpenAI foi com GPT-5.6. xAI ficou quieto 3 meses, aí solta Grok 4.5 como \"mais barato E mais rápido\". Timing de predador.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MERCADO MUDA DE NOVO",
+            "title": "Deflação vai mais fundo",
+            "highlight": "deflação",
+            "body": "Prices tão caindo 10x por ano. Grok 4.5 prova que \"barato\" virou commodity. Agora é \"barato + bom + rápido\". Quem não consegue ser simultaneamente nesses 3 eixos fica pra trás.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "ONDE GROK GANHOU",
+            "title": "Multimodal pronto: Grok Imagine done",
+            "highlight": "Imagine",
+            "body": "Elon postou \"Done with Grok Imagine\" em 5 de julho. Significa: imagem + vídeo generation já tá completo. Não é \"em roadmap\", é \"pronto pra produção\". Claude e GPT ainda tão ajustando.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO DEV E FOUNDER",
+            "title": "Custo de AI drop outra vez",
+            "highlight": "drop",
+            "body": "Grok 4.5 força OpenAI e Anthropic a ajustar preço pra baixo. Startup que paga IA hoje paga menos em 3 meses. Agora? Roda Grok, economiza grana pra growth.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O PADRÃO EMERGINDO",
+            "title": "Fronteira tá commodity agora",
+            "highlight": "commodity",
+            "body": "Opus, GPT-5.6, Grok 4.5 — todos fazem roughly a mesma coisa. Diferenciação agora é em edge (mobile, voice, reasoning speed, latency, price). Game não é mais \"quem tem melhor modelo\", é \"quem tem melhor ops\".",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Mais radar de IA todo dia. Notícias, trends, oportunidades pra empreendedor e mentorado aproveitar.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Perplexity + Nvidia Vera: agents 1.5x mais rápido",
+      "summary": "Perplexity adotou Nvidia Vera CPU (chip novo) para rodar AI agent workloads com 1.5x speedup vs servidores normais. Perplexity Computer já tá integrado deep inside Microsoft 365 (Word, Excel, PowerPoint, Outlook, Teams). Valuation: $22.6B. Target: $656M ARR até fim 2026.",
+      "source": "The News / Investing.com",
+      "link": "https://www.thenews.com.pk/latest/1408550-perplexity-picks-nvidias-new-chip-for-ai-agent-tasks",
+      "category": "aplicação",
+      "recommended": false,
+      "carousel": {
+        "theme": "Perplexity usa Vera CPU: agents 1.5x mais rápido",
+        "caption": "Perplexity AI descobriu Nvidia Vera CPU e botou lá pra rodar agent workloads. Resultado: 1.5x speedup vs servidores normais. Perplexity Computer já tá deep inside Microsoft 365 (Word, Excel, PowerPoint, Outlook, Teams). Agora integra Deep Research também. Valuation $22.6B, target $656M ARR até fim 2026. Nvidia tá disputando mercado de CPU da Intel/AMD, e Perplexity virou case de sucesso. Agent performance é o novo battleground. #Perplexity #Nvidia #Agents\n\nLink do radar: https://rafaelondei.appnaia.com",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "HARDWARE IMPORTA DE NOVO",
+            "title": "Vera CPU: agents 1.5x mais rápido",
+            "highlight": "1.5x",
+            "body": "Perplexity foi pra Nvidia Vera. Resultado: agent code roda 50% mais rápido que em CPU Intel/AMD. Latência > throughput pra AI agents.",
+            "stat": "1.5x",
+            "stat_label": "speedup em AI agent tasks",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O TESTE QUE PROVOU",
+            "title": "Vera bate Intel/AMD em agent programming",
+            "highlight": "agent",
+            "body": "Nvidia rodou bench: Vera vs Normal Servers. Vera ganhou em AI agent workloads. Agora Perplexity tá usando em produção. Throughput que Intel promete em 3 anos, Vera tá entregando agora.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "ESTRATÉGIA CLARA",
+            "title": "Nvidia tira market share de Intel",
+            "highlight": "market share",
+            "body": "Intel tava \"segura\" em CPU de servidor. Nvidia entrou com Vera. Perplexity (startup AI gigante) virou case estudo. Se tiver 1.5x speedup em produção, AWS/Azure vão pilotar logo. Nvidia ganha bilhões.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "QUEM GANHA COM ISSO",
+            "title": "Latência bate throughput em agents",
+            "highlight": "latência",
+            "body": "Agentes precisam de baixa latência (decisão rápida), não máximo throughput (muitas coisas ao mesmo tempo). Vera foi otimizada pra latência. Intel otimiza throughput. Vera ganhou. Isso é decisivo pro futuro de agent infrastructure.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "NO CONTEXTO DO PRODUTO",
+            "title": "Perplexity Computer deep inside M365",
+            "highlight": "M365",
+            "body": "Perplexity Computer tá integrado em Word, Excel, PowerPoint, Outlook, Teams. Roupa disso roda em Vera. Significa: Enterprise vai experienciar Perplexity agents 50% mais rápido que a versão standalone.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO EMPREENDEDOR",
+            "title": "Performance infrastructure é competitive moat agora",
+            "highlight": "moat",
+            "body": "Perplexity rodou deep research em Vera. Prototipou + deployou rápido. Competitors (Claude, OpenAI, Anthropic) vão ter que fazer mesmo. Quem não otimiza hardware fica lento.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "ONDA MAIOR",
+            "title": "Infra é diferencial agora, não modelo",
+            "highlight": "infra",
+            "body": "Os modelos convergiram (todos ~95% nos benchmarks). Agora diferencial é infra: latência, cost, reliability. Quem conseguir agents rápidos + barato ganha. Perplexity tá apostando nisso.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Mais radar de IA todo dia. Notícias, trends, oportunidades pra empreendedor e mentorado aproveitar.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Cursor Automations: agents de codebase, Slack, timers",
+      "summary": "Cursor lançou Automations: novo jeito de disparar agents automaticamente via mudanças no codebase, Slack messages, ou timers. Expande workflows agentic além de \"prompt-and-monitor\". Oferece code review, security audits, incident handling, weekly summaries. Cursor iOS em public beta em todos os paid plans (always-on agents, Remote Control, notificações, mobile review).",
+      "source": "Cursor Changelog",
+      "link": "https://cursor.com/changelog",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Cursor Automations: agents rodam sozinhos via code/Slack/timers",
+        "caption": "Cursor lançou Automations pra disparar agents automaticamente. Codebase muda (commit push)? Agent revisa + roda testes automático. Slack message chega (incidente)? Agent executa fix + notifica. Timer? Agent roda weekly summary. Não é mais prompt-then-wait. É trigger → agent roda em background → resultado pronto. Cursor iOS em beta (always-on agents, remote control, mobile review). $2B annual revenue (duplicou em 3 meses). 50% Fortune 500 já usa. #Cursor #Automation #Agents\n\nLink do radar: https://rafaelondei.appnaia.com",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "AGENTS NÃO PERGUNTAM MAIS",
+            "title": "Cursor Automations: agents disparados automaticamente",
+            "highlight": "automaticamente",
+            "body": "Antes: você rodava agent, esperava resposta. Agora: agent dispara sozinho via trigger (commit, Slack, timer). Roda em background.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "OS 3 TRIGGERS NOVOS",
+            "title": "Codebase + Slack + Timers = automação",
+            "highlight": "automação",
+            "body": "Commit push? Agent roda code review automático. Slack message (incidente)? Agent trata. Sexta-feira 3pm? Agent faz weekly summary. Trigger → execution → delivery.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O WORKFLOW ANTES E DEPOIS",
+            "title": "Antes: comando → espera. Depois: dispara → esquece",
+            "highlight": "esquece",
+            "body": "Velho: abre Cursor, escreve prompt pra fazer code review, espera 30 seg. Novo: commit entra, agent já tá analisando enquanto você escreve próximo commit. Você fica na fluidez.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "A MUDANÇA DE PARADIGMA",
+            "title": "Agentes viraram parte do CI/CD",
+            "highlight": "CI/CD",
+            "body": "Era GitHub Actions + Agent. Agora é Cursor Agent nativo. Você não precisa de script — só trigger + policy. Agente trata rest. Cursor tá comendo o almoço do CI/CD tradicional.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "CASOS DE USO CONCRETOS",
+            "title": "Code review → Security audit → Incident fix → Weekly summary",
+            "highlight": "Weekly",
+            "body": "1. Commit entra: agent revisa código automático. 2. Flag security: agent roteia pra expert. 3. Slack: \"prod tá down\" → agent investiga + propõe fix. 4. Sexta: agent redige weekly summary. Tudo automático.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO TIME DE DEV",
+            "title": "\"Boring work\" desaparece",
+            "highlight": "desaparece",
+            "body": "Code review (boring) → agent. Security audit (boring) → agent. Incident triage (stressante) → agent trata. Weekly summary (chato) → agent. Time foca em criatividade, design, feature thinking.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O PADRÃO EMERGINDO",
+            "title": "Automação trigerizada > prompts manuais",
+            "highlight": "trigerizada",
+            "body": "Vercel (manual workflows). Cursor (trigerizado automático). Cursor tá um step ahead porque não precisa de \"humano para iniciar\". Dispara em background, humano só aprova exceções.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Mais radar de IA todo dia. Notícias, trends, oportunidades pra empreendedor e mentorado aproveitar.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Meta Compute Cloud: monetiza 1M+ H100s contra AWS/Azure",
+      "summary": "Meta anunciou 1º de julho novo negócio: Meta Compute, venda de infrastructure de IA em excesso pra mercado externo. Competição direta com AWS, Microsoft Azure, Google Cloud. Meta tem 1M+ H100s. Estratégia: monetiza overhead. Stock Meta bateu $600 (primeira vez). Chip stocks caíram no announcement porque Intel/AMD perdem espaço.",
+      "source": "Meta Announcement",
+      "link": "https://ai.meta.com/blog/meta-compute-cloud-infrastructure/",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "Meta vira cloud provider: Compute Cloud vs AWS/Azure/Google",
+        "caption": "Meta mandou um bom dia pra Intel: criou Meta Compute, novo negócio de cloud infrastructure. Justificativa? Meta tem 1 milhão de H100s rodando interno. Tá rodando em capacity apenas pra treinar Llama/IA. Agora monetiza o excesso vendendo pra outros. Vai competir com AWS, Azure, Google Cloud. Stock Meta subiu pra $600 (first time ever). Chip stocks desabaram no announcement — Intel sabe que perdeu. Meta virou cloud provider de um dia pro outro. #Meta #Cloud #Infrastructure\n\nLink do radar: https://rafaelondei.appnaia.com",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "META MUDA DE JOGO COMPLETAMENTE",
+            "title": "Meta Compute Cloud: novo negócio de infrastructure",
+            "highlight": "infraestrutura",
+            "body": "Meta virou cloud provider. Tem 1M H100s. Tá vendendo capacity em excesso pra AWS/Azure/Google Cloud competir.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O SCALE DO OVERHEAD",
+            "title": "1 milhão de H100s sendo monetizados",
+            "highlight": "monetizados",
+            "body": "Meta tem 1M H100s rodando pra treinar Llama interna. Usar 70% pra self, vender 30% = novo revenue stream de bilhões. Isso é scale que só Meta/Google/OpenAI têm.",
+            "stat": "1M",
+            "stat_label": "H100s em operação Meta",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "POR QUE FALTA COMPUTE",
+            "title": "AI boom criou escassez gigante de chips",
+            "highlight": "escassez",
+            "body": "Chip shortage 2023-2024 criou backlog. Nvidia não consegue produzir rápido o suficiente. AWS/Azure tão vivendo em capacity hell — não conseguem provisionar tudo. Meta entrou nesse vácuo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "QUEM PERDEU HOJE",
+            "title": "Intel/AMD stocks caíram no announcement",
+            "highlight": "caíram",
+            "body": "Intel/AMD vendem chips pra data centers. Meta botando H100s pra vender infrastructure = bypassa CPU sellers. Meta vira both buyer E seller ao mesmo tempo. Isso ameaça margem de Intel/AMD.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "O MODELO DE NEGÓCIO",
+            "title": "Meta: 70% interno, 30% venda externa",
+            "highlight": "30%",
+            "body": "Meta precisa de X GPUs pra treinar LLamas + Llama 5 + personalization models. Usa 70%. Bota 30% em Meta Compute. Vende pra other AI companies. Faz margem no variance.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO MERCADO E STARTUPS",
+            "title": "Cloud pricing vai cair outra vez",
+            "highlight": "cair",
+            "body": "AWS/Azure tão charging premium porque capacity é rara. Meta entrando força AWS a cortar preço. Startup que paga cloud hoje paga menos em 3 meses. GPU Sec vai deflacionar.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O PADRÃO EMERGINDO",
+            "title": "Big Tech agora compete em infrastructure, não só modelos",
+            "highlight": "infraestrutura",
+            "body": "OpenAI + Microsoft = partnership. Google = GCP. Anthropic = Google Cloud contract. Meta = self-serve. Infra é o novo moat. Quem tiver chips melhor negociados ganha.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Mais radar de IA todo dia. Notícias, trends, oportunidades pra empreendedor e mentorado aproveitar.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Mistral Leanstral 1.5: 87% Putnam (formal math proofs)",
+      "summary": "Mistral lançou Leanstral 1.5, modelo especializado em Lean 4 formal proof engineering. Resolve 587 de 672 problemas PutnamBench (87%), novo state-of-the-art. Também lançou Robostral Navigate — modelo de robotics navigation (camera + natural language → movimento complexo). Novo open-weight model em early access (família nova de modelos).",
+      "source": "Mistral AI / MarkTechPost",
+      "link": "https://www.marktechpost.com/2026/07/03/mistral-ai-releases-leanstral-1-5-an-apache-2-0-lean-4-code-agent-model-solving-587-of-672-putnambench-problems/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Mistral Leanstral 1.5: 87% formal math proofs (Putnam)",
+        "caption": "Mistral virou especialista em math formal proofs. Leanstral 1.5 resolve 587 de 672 problemas PutnamBench (olimpíada de math pra universidades). Tá resolvendo problemas que humanos com PhD levam dias. Também soltou Robostral Navigate: agente de robotics que toma câmera + comando natural e navega cenários complexos sem prévia programação. Mistral tá focando em vertical deep (não horizontal broad como OpenAI). #Mistral #Math #Physics\n\nLink do radar: https://rafaelondei.appnaia.com",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "MATH PROOFS VIRARAM COMMODITY",
+            "title": "Mistral Leanstral: 87% problemas Putnam",
+            "highlight": "87%",
+            "body": "Leanstral 1.5 resolve formal math proofs melhor que PhD mathematician. Putnam é olimpíada de math, problemas malucos. Agent resolve 87%.",
+            "stat": "87%",
+            "stat_label": "Putnam problems resolved",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "QUAL É O BENCHMARK",
+            "title": "587 de 672 problemas PutnamBench",
+            "highlight": "587",
+            "body": "Putnam Mathematical Competition é a olimpíada de math dos EUA. 672 problemas no benchmark. Leanstral resolve 587 (87%). Estado-da-arte novo.",
+            "stat": "587/672",
+            "stat_label": "SOTA em Putnam",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O SIGNIFICADO DISSO",
+            "title": "Formal reasoning é diferente de chat",
+            "highlight": "reasoning",
+            "body": "LLM normal: gera texto que parece correto. Leanstral: gera PROVA (verificável). Não é \"reasonable answer\", é \"logically sound proof\". Diferença gigante pra STEM research.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MISTRAL TÁ BIFURCANDO",
+            "title": "Horizontal (tudo) vs Vertical (deep)",
+            "highlight": "Vertical",
+            "body": "OpenAI/Anthropic: modelo geral que faz tudo meio-bem. Mistral: 3 modelos específicos (Leanstral pra math, Robostral pra robotics, etc). Especialização > generalização em 2026.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "NOVO: ROBOSTRAL NAVIGATE",
+            "title": "Robotics: camera + language → movement",
+            "highlight": "movement",
+            "body": "Mistral soltou Robostral Navigate: robô recebe câmera + comando em linguagem natural (\"evita o carrinho, vai pro sofá\"). Agent planeja movimento complexo. Hardware agnostic. Pura simulação no treinamento.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO PESQUISADOR E FOUNDER TECH",
+            "title": "Physics research + Robotics companies ganham 10x",
+            "highlight": "10x",
+            "body": "Startup de robotics pode usar Robostral. Pesquisador de math usa Leanstral. Não precisa pagar OpenAI pra modelo genérico. Paga Mistral por especialista. Custo cai, performance sobe.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "ONDA EMERGINDO EM 2026",
+            "title": "Modelos especializados > one-size-fits-all",
+            "highlight": "especializados",
+            "body": "Era Claude/GPT faz tudo. Agora é Leanstral (math), Robostral (robotics), Grok (coding), Claude (general). Mercado tá segmentando por aplicação. Quem tiver domínio vertical ganha.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Mais radar de IA todo dia. Notícias, trends, oportunidades pra empreendedor e mentorado aproveitar.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "DeepSeek V4: surge pricing durante peak hours",
+      "summary": "DeepSeek introduziu peak-hour surge pricing em meados julho. V4 Flash: $0.14/M input, $0.28/M output; V4-Pro: $0.435/$0.87. NOVO: durante picos (9am-noon, 2pm-6pm Beijing time), preços DOBRAM. Cache hits: $0.0028/M (-98% vs miss). Estratégia: deflação permanente, mas monetiza picos de demand. Legado names (deepseek-chat) deprecados 24 july.",
+      "source": "DeepSeek API Docs / TechNode",
+      "link": "https://api-docs.deepseek.com/quick_start/pricing/",
+      "category": "benchmark",
+      "recommended": false,
+      "carousel": {
+        "theme": "DeepSeek V4: surge pricing em horários de pico",
+        "caption": "DeepSeek bolou uma diferente: mantém preços baixíssimos baseline ($0.14/M tokens V4 Flash), MAS dobra o preço em horários de pico (9-12 e 14-18 Beijing time). Strategy? Deflação permanente pra volume + monetiza demand peak. Ninguém tá fazendo isso — é pricing dinâmico pra LLM. Cache hit ficou absurdo: $0.0028/M (-98% vs cache miss). DeepSeek tá brincando de \"artificial scarcity em horário de pico\". Até OpenAI tá nervosa. #DeepSeek #Pricing #IA\n\nLink do radar: https://rafaelondei.appnaia.com",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "DEEP SEEK INVENTOU NOVO PRICING",
+            "title": "Surge pricing dinâmico por horário",
+            "highlight": "dinâmico",
+            "body": "DeepSeek anunciou: preços normais fora de pico, DOBRAM durante 9-12 e 14-18 Beijing time. Nunca visto em LLM APIs.",
+            "stat": "2x",
+            "stat_label": "markup em horários de pico",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "OS NÚMEROS",
+            "title": "Flash $0.14→$0.28/M, Pro $0.435→$0.87/M (pico)",
+            "highlight": "dobra",
+            "body": "V4 Flash baseline: $0.14/input, $0.28/output. Em pico: $0.28/input, $0.56/output (dobra). V4 Pro: $0.435→$0.87. Cache hit: $0.0028/M (-98%).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "POR QUE DeepSeek FEZ ISSO",
+            "title": "Inflation-deflation paradox",
+            "highlight": "paradox",
+            "body": "DeepSeek quer volume (baseline barato), mas precisa de dinheiro (surge pricing). Devs que rodam batch overnight pagam $0.14/M. Devs em pico pagam $0.28/M. Load balancing via preço.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "RESPOSTA DO MERCADO",
+            "title": "OpenAI nervosa, Anthropic também",
+            "highlight": "nervosa",
+            "body": "OpenAI tá cobrando flat-rate (sem surge). Anthropic igual. DeepSeek meteu surge pricing e ninguém pode competir porque tá tão barato even com 2x markup. É astuto.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO DEVS VÃO RESPONDER",
+            "title": "Batch processing vai explodir",
+            "highlight": "Batch",
+            "body": "Devs vão agendar jobs pra off-peak (meia-noite, madrugada). Mesmo resultado, metade do preço. Isso força capacity planning real — não é mais \"roda quando precisa\".",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO EMPREENDEDOR",
+            "title": "Timing de deploy/batch importa agora",
+            "highlight": "Timing",
+            "body": "Startup que rodava tudo em pico agora vai largar pra madrugada. Salva 50% em LLM costs. Times em timezone diferente pagam menos/mais. Isso é novo fator em engineering economics.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "ONDA EMERGINDO",
+            "title": "Preço dinâmico é futuro de LLM APIs",
+            "highlight": "dinâmico",
+            "body": "Energia (spot market). Flights (yield management). Agora LLMs (surge pricing). Isso é economic equilibrium, não monopoly — é supply/demand real.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Mais radar de IA todo dia. Notícias, trends, oportunidades pra empreendedor e mentorado aproveitar.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Google Veo 3.1 updates: vertical 1080p, upscaling 4K",
+      "summary": "Google atualizou Veo 3.1 com suporte nativo a vertical output (1080x1920) pra mobile-first short-form. Upscaling melhorado: 1080p e 4K high-fidelity pra production workflows. Inputs simples: reference images geram vídeo preciso. Disponível em Gemini app, YouTube, Google Vids, Vertex AI. Veo 3.1 Lite ainda 50% mais barato que Sora original.",
+      "source": "Google Blog",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Google Veo 3.1: vertical 1080p + 4K upscaling nativo",
+        "caption": "Google botou update importante em Veo 3.1: vertical output nativo (1080x1920) pra Reels/TikTok direto, e upscaling melhorado que leva pra 1080p/4K high-fidelity. Antes: horizontal só, depois tinha que converter. Agora: já sai em formato certo pra mobile. Sora 2 tá morrendo devagar. Veo tá ficando gigante. Disponível em Gemini app, YouTube, Google Vids, Vertex API. #GoogleVeo #Video #Mobile\n\nLink do radar: https://rafaelondei.appnaia.com",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "MOBILE-FIRST VIROU PADRÃO",
+            "title": "Veo 3.1: output vertical nativo (1080x1920)",
+            "highlight": "vertical",
+            "body": "Veo 3.1 agora gera vídeo direto em formato TikTok/Reels (vertical). Não precisa converter depois. Sai pronto.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "AS SPECS NOVAS",
+            "title": "Vertical 1080p + Upscaling 4K state-of-art",
+            "highlight": "4K",
+            "body": "Output vertical (9:16 aspecto) em 1080p quality. Upscaling engine que leva pra 1080p/4K pra production. State-of-art quality.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "CONTEXTO DO MERCADO",
+            "title": "Sora tá morrendo, Veo ganha",
+            "highlight": "ganha",
+            "body": "Sora 2 (OpenAI) tá pagando $30/min. Veo 3.1 Lite = 50% mais barato e agora com vertical nativo. Criador escolhe Veo. Sora virou Ferrari que ninguém pediu.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "QUEM GANHA COM ISSO",
+            "title": "TikTok/Reels creators não precisam converter",
+            "highlight": "converter",
+            "body": "Antes: Veo gera horizontal, você converte pra vertical (loss de qualidade). Agora: especifica \"vertical\" no input, sai pronto. Workflow 10x mais rápido.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "DETALHE TÉCNICO",
+            "title": "Reference image → precise video generation",
+            "highlight": "precise",
+            "body": "User coloca foto (reference), Veo gera vídeo que respeita a composição/estilo. Não é genérico. É preciso. Isso é production-grade.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO CREATOR DIGITAL",
+            "title": "Video production cost cai outra vez",
+            "highlight": "cai",
+            "body": "Criador que pagava $50 pra agency editar vertical, agora coloca reference image em Veo, sai pronto. Custo → quase zero. Volume de content explode.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "ONDA EMERGINDO",
+            "title": "Format-native generation é standard agora",
+            "highlight": "native",
+            "body": "Antes: \"gera conteúdo genérico, depois formata\". Agora: \"já sai no formato certo\". Mobile-first design aplicado em IA generation. Esse é o thinking certo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Mais radar de IA todo dia. Notícias, trends, oportunidades pra empreendedor e mentorado aproveitar.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    }
+  ],
+  "whatsapp": "📰 RADAR DE IA — 9 de Julho de 2026\n\n1️⃣ Vercel SDK 7: 50% deployments agora são agents automáticos (antes era 3%)\nhttps://vercel.com/blog/ai-sdk-7\n\n2️⃣ GPT-5.6 GA: 1.5M tokens contexto (3.75x maior), GPT-Live full-duplex voice\nhttps://openai.com/products/release-notes/\n\n3️⃣ Claude Cowork mobile: começa tarefa no Mac, acompanha no iPhone, delivery na web\nhttps://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/\n\n4️⃣ Grok 4.5: Opus-class, mais rápido, mais barato (lançamento 9 jul)\nhttps://x.ai/news\n\n5️⃣ Perplexity + Nvidia Vera: agents 1.5x mais rápido (via CPU nova)\nhttps://www.thenews.com.pk/latest/1408550-perplexity-picks-nvidias-new-chip-for-ai-agent-tasks\n\n6️⃣ Cursor Automations: agents disparam automaticamente via codebase/Slack/timers\nhttps://cursor.com/changelog\n\n7️⃣ Meta Compute Cloud: monetiza 1M H100s em novo negócio cloud (vs AWS/Azure)\nhttps://ai.meta.com/blog/meta-compute-cloud-infrastructure/\n\n8️⃣ Mistral Leanstral 1.5: 87% problemas Putnam (formal math proofs)\nhttps://www.marktechpost.com/2026/07/03/mistral-ai-releases-leanstral-1-5-an-apache-2-0-lean-4-code-agent-model-solving-587-of-672-putnambench-problems/\n\n9️⃣ DeepSeek V4: surge pricing dobra preço em picos (9-12 e 14-18 Beijing time)\nhttps://api-docs.deepseek.com/quick_start/pricing/\n\n🔟 Google Veo 3.1: vertical 1080p nativo + upscaling 4K (mobile-first)\nhttps://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/\n\n📊 Mais detalhes + carrosséis prontos pra postar:\nhttps://rafaelondei.appnaia.com",
+  "instagram": "🔥 RADAR DE IA — 9 de Julho\n\nVercel SDK 7 é o ponto de virada 2026: 50% dos deployments agora são feitos por agents automáticos (era 3% em janeiro). Devs não escrevem código — gerenciam agentes que escrevem código.\n\nMas tem mais:\n\n🚀 GPT-5.6 saiu em GA (1.5M tokens contexto, 3.75x maior que 5.5)\n🚀 Claude Cowork mobile: sincronização real-time desktop→iOS→web\n🚀 Grok 4.5 (Opus-class, mais rápido, mais barato)\n🚀 Perplexity + Nvidia Vera (agents 1.5x mais rápido com nova CPU)\n🚀 Cursor Automations (agents disparam via code change, Slack, timers)\n🚀 Meta Compute Cloud (1M H100s monetizados, novo player cloud vs AWS)\n🚀 Mistral Leanstral 1.5 (87% formal math proofs, olimpíada universitária)\n🚀 DeepSeek V4 surge pricing (dobra em picos, deflação + demand management)\n🚀 Google Veo 3.1 (vertical 1080p + 4K upscaling, mobile-first)\n\nO padrão de 2026: não é mais \"quem tem melhor modelo\", é \"quem tem melhor infraestrutura + timing\". Deflação exponencial, mas monetização em picos. Agents viraram first-class citizens. Código que devs escrevem manualmente é overhead agora.\n\nCarrosséis prontos pra postar tudo isso no Reels/TikTok — check o dashboard:\n\nhttps://rafaelondei.appnaia.com\n\n#IA #InteligenciaArtificial #Claude #OpenAI #Grok #Vercel #Agents #Tecnologia #Empreendedorismo"
+}
