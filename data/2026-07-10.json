@@ -1,0 +1,1132 @@
+{
+  "date": "2026-07-10",
+  "topic": "mercado de IA",
+  "topic_slug": "ia-mercado",
+  "generated_at": "2026-07-10T07:00:01-03:00",
+  "items": [
+    {
+      "title": "Grok 4.5: Opus-class por US$ 2/Mi (60% mais barato que Claude)",
+      "summary": "xAI lançou Grok 4.5 em 8 de julho como modelo Opus-class competindo diretamente com Claude Opus 4.8. Preço: $2/$6 por milhão tokens (vs $5/$25 do Opus). Treinado junto com Cursor, domina coding, agentes e knowledge work. Elon confirmou performance equivalente mas token-efficiency e custo 60% menor. Disrupção de margem no frontier-grade.",
+      "source": "xAI / Axios",
+      "link": "https://x.ai/news/grok-4-5",
+      "category": "modelo",
+      "recommended": true,
+      "carousel": {
+        "theme": "Grok 4.5 quebra pricing de frontier — Opus por 60% menos",
+        "caption": "🚀 DISRUPÇÃO DE PRICING: Grok 4.5 é Opus-class — mas 60% mais barato.\n\nxAI lançou ontem seu modelo mais poderoso, treinado junto com Cursor. Domina coding, agentes, knowledge work. Performa como Opus 4.8 (que custa $5/$25), mas Grok sai por $2/$6. \n\nPra empreendedor:\n→ Se tu rodas agentes ou código em produção, Grok muda o jogo do custo\n→ 60% menos token gasto = orçamento de IA estira 2.5x mais\n→ Voice Agent Builder pronto (no-code pra criar agente de voz em 2 min)\n\nO frontier-grade virou commodity. Margin dos players de infra vira vapor.\n\n#IA #GrokAI #Pricing #Claude #Agentes #CodingAI #Empreendedorismo\n\n💬 Salva esse post + segue @rafaondei pra mais radar de mercado de IA",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "🚀 VOCÊ PRECISA SABER DISSO",
+            "title": "Grok 4.5 quebra pricing frontier",
+            "highlight": "pricing frontier",
+            "body": "",
+            "stat": "60% MAIS BARATO",
+            "stat_label": "que Opus 4.8 mesma performance",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O NÚMERO QUE MUDA TUDO",
+            "title": "Grok: $2 input / $6 output",
+            "highlight": "$2/$6",
+            "body": "Opus 4.8 custa $5 input e $25 output. Grok 4.5 é treinado com Cursor, domina coding e agentes — performance equivalente, mas com pricing que corta 60% da conta de tokens. Isso é um freio de emergência na deflação de IA.",
+            "stat": "60%",
+            "stat_label": "redução de custo por token",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "COMO ISSO COMEÇOU",
+            "title": "xAI (SpaceX) vs Anthropic",
+            "highlight": "xAI",
+            "body": "Elon Musk anunciou Grok 4.5 em 8 de julho. Modelo foi treinado em colaboração com Cursor (que SpaceX comprou por $60 bi). Competição direta com Claude Opus 4.8 que é o king em coding/agentes desde maio.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O QUE MUDA AGORA",
+            "title": "Frontier é commodity em pricing",
+            "highlight": "commodity",
+            "body": "Até hoje, pagar mais era tradeoff por melhor performance em frontier. Grok 4.5 quebra essa lógica: mesma performance, preço commodity. Quem tá com orçamento apertado em produção muda pra Grok hoje. Margem dos providers encolhe 60%.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO GROK CONSEGUE ISSO",
+            "title": "Treinado + Cursor integration",
+            "highlight": "Cursor",
+            "body": "Grok foi treinado ao lado da pipeline de Cursor. Isso permite token-efficiency muito maior: menos parâmetros desperdiçados, inferência mais limpa. Resultado: performance pra coding/agentes rival ao Opus, mas com menos throughput puxado. Engenharia de infra superior.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA TI EMPREENDEDOR",
+            "title": "Custo de agentes em produção cai 2.5x",
+            "highlight": "2.5x",
+            "body": "Tu roda agente de código 24/7? Orçamento IA era bottleneck? Grok muda isso: mesma qualidade, 60% menos gasto. Pra SaaS rodando em escala, essa é a margem que volta pro produto ou pro lucro. Janela pra mudança é agora (antes de outros copiar).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A LIÇÃO",
+            "title": "Commodity criou pricing war, não barganha",
+            "highlight": "Commodity",
+            "body": "Quando frontier virou commodity em performance (todos 90%+ em benchmarks), o único diferenciador é preço. Grok 4.5 ganhou essa rodada. Próximo player que não bater esse preço perde share. Deflação IA continua: 280x mais barato desde 2023.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Testa Grok 4.5 em teu agent",
+            "highlight": "Grok 4.5",
+            "body": "Se tu tá com Opus em produção, roda um teste A/B com Grok 4.5 — mesma prompt, mede latência e quality. Dica: Voice Agent Builder de xAI tá pronto também (no-code, criar agente de voz em 2 min sem linha de código).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Claude Sonnet 5 Padrão Global + Promocional US$ 2-10/Mi",
+      "summary": "Anthropic fez Claude Sonnet 5 modelo padrão pra todo usuário Free e Pro em julho. Modelo é o Sonnet mais agentic ever, performa próximo ao Opus 4.8 em várias tasks. Preço promocional: US$ 2 input / US$ 10 output por milhão tokens até 31 de agosto. 1M tokens context window nativo.",
+      "source": "Anthropic",
+      "link": "https://www.anthropic.com/news",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Claude Sonnet 5 virou padrão — Opus-level em pricing Sonnet",
+        "caption": "🏆 SONNET VIROU FRONTEIRA: Claude Sonnet 5 é o novo padrão pra todos.\n\nAnthropique lançou Sonnet 5 como modelo default em julho pra Free e Pro users. Preço promo até fim de agosto: $2/$10 por Mi tokens (vs $3/$15 normalmente). Performa perto do Opus em código, raciocínio, e agentes.\n\nPra empreendedor:\n→ Sonnet agora é upgrade direto de Opus em versatilidade (1M tokens sempre)\n→ Preço promo deixa Sonnet mais barato que GPT-4-class\n→ J-Space discovery: Claude desenvolveu workspace interno (consciência interna?)\n\nAndroid statewide rollout em CA de Poppy (IA assistant construída em Claude) chegando julho.\n\n#Claude #Anthropic #IA #Sonnet #Agentes #Empreendedorismo\n\n💬 Salva esse post + segue @rafaondei pra mais radar de mercado de IA",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "MUDA O JOGO DO PRICING",
+            "title": "Sonnet 5 é novo padrão",
+            "highlight": "padrão",
+            "body": "",
+            "stat": "1M TOKENS",
+            "stat_label": "context window nativo",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "PREÇO EM PROMOÇÃO",
+            "title": "$2 input / $10 output até fim de agosto",
+            "highlight": "$2/$10",
+            "body": "Claude Sonnet 5 tá com preço promocional por 6 semanas: $2/$1M input, $10/$1M output. Normal seria $3/$15. Isso deixa Sonnet mais barato que qualquer frontier-grade comparable — só Grok 4.5 bate em preço agora.",
+            "stat": "60% mais barato",
+            "stat_label": "que Opus 4.8 até 31 de agosto",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE MUDOU",
+            "title": "Sonnet é o novo padrão global",
+            "highlight": "padrão",
+            "body": "Anthropic fez Sonnet 5 o modelo default pra todo usuário Free, Pro, e Teams em julho de 2026. Antes era Opus ou Sonnet 4. Agora: Sonnet 5 sai da caixa em qualquer produto Anthropic. Significa confiança em performance stable.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "SONNET VIROU FRONTEIRA",
+            "title": "Performa perto de Opus em código/raciocínio",
+            "highlight": "Opus",
+            "body": "Sonnet 5 é o Sonnet mais agentic que Anthropic criou. Em testes internos, performa muito perto do Opus 4.8 em coding, raciocínio, e conhecimento. Só Opus é mais rápido e ligeiramente melhor em casos edge. Pra 95% dos usuários, Sonnet 5 substitui Opus.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "POR TRÁS DOS PANOS",
+            "title": "J-Space: Workspace interno do Claude",
+            "highlight": "J-Space",
+            "body": "Anthropic descobriu estrutura interna no Claude chamada J-Space (de Jacobian, técnica matemática usada pra detectar). É um workspace onde Claude segura ideias sem colocar em palavras — similar a como humanos acessam pensamentos conscientes. Implicação: raciocínio interno > output superficial.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "APLICAÇÃO PRÁTICA",
+            "title": "Poppy (CA): IA pra estado governa 67 departamentos",
+            "highlight": "Poppy",
+            "body": "Califórnia deployou Poppy (assistente IA built on Claude) em 67 departamentos estaduais com 2,800+ employees pilotando. Rollout completo previsto pra julho 2026. Caso de uso real: governo interno usa Claude pra workflow — prova que Sonnet level scale em produção.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "PRA LEVAR EMBORA",
+            "title": "Sonnet agora é a escolha obvia pra custo",
+            "highlight": "Sonnet",
+            "body": "Se tu tá decidindo entre Sonnet e Opus: durante a promo (até 31 de agosto), Sonnet 5 sai mais barato e performa praticamente igual. Depois da promo, o calculo muda — mas a mensagem é: Anthropic confia que Sonnet 5 é production-ready pra maioria dos casos.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Migra teu prompt de Opus pra Sonnet 5",
+            "highlight": "Sonnet 5",
+            "body": "Test a mig: copia teu prompt de Opus, roda em Sonnet 5 por uma semana, mede quality/latência. Se sair dentro de 5% do Opus mas 40% mais barato, já valeu. Promo é até fim de agosto — depois pricing volta ao normal.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "GPT-5.6 Sol/Terra/Luna GA: Três Tiers Pricing, Reasoning \"Ultra\"",
+      "summary": "OpenAI lançou GPT-5.6 em 9 de julho em três tiers de pricing: Sol ($5/$30 flagship), Terra ($2.50/$15 balanced), Luna ($1/$6 fast). Sol é strongest model com agentes melhorados em coding, biology, cybersecurity. Nova feature: max reasoning effort + ultra mode com subagentes. Raciocínio instant em Sol.",
+      "source": "OpenAI",
+      "link": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "GPT-5.6: Família de tiers pra cada caso de uso",
+        "caption": "🎯 OPENAI FAZ FAMÍLIA, NÃO MODELO ÚNICO: GPT-5.6 Sol/Terra/Luna.\n\nOpenAI rolou GPT-5.6 em 9 de julho com 3 tiers de pricing stacked:\n• Sol: $5/$30 — flagship, reasoning instant + ultra mode\n• Terra: $2.50/$15 — balanced (o sweet spot)\n• Luna: $1/$6 — fast, commodity-grade\n\nPra empreendedor:\n→ Sol não é $30/output — é $30/$1M tokens (não é diferente de frontier pricing, mas branding diferente)\n→ Luna é o mesmo preço de Grok Luna antes, mas agora com OpenAI stamp\n→ Reasoning \"ultra mode\" com subagentes: GPT-5.6 Sol pode spawnar sub-GPTs pra rodar raciocínio paralelo\n\nConhecerás a diferença em qualidade, não em margem.\n\n#OpenAI #ChatGPT #GPT56 #Pricing #Agentes #IA #Empreendedorismo\n\n💬 Salva esse post + segue @rafaondei pra mais radar de mercado de IA",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "OPENAI MUDA DE ESTRATÉGIA",
+            "title": "GPT-5.6: Não é modelo único",
+            "highlight": "modelo único",
+            "body": "",
+            "stat": "3 TIERS",
+            "stat_label": "Sol, Terra, Luna",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "OS PREÇOS FINAIS",
+            "title": "Sol $5/$30, Terra $2.50/$15, Luna $1/$6",
+            "highlight": "$5/$30",
+            "body": "GPT-5.6 vem em 3 versões com pricing atrelado a capability: Sol é strongest (flagship reasoning + agentes), Terra é balanced (melhor perf/custo), Luna é commodity puro. Modelo número (5.6) fica o mesmo; tier (Sol/Terra/Luna) fica diferente.",
+            "stat": "$1/$6",
+            "stat_label": "preço Luna (commodity fast)",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "VIROU ESTRATÉGIA CLARA",
+            "title": "Tiers stacked, não modelos diferentes",
+            "highlight": "Tiers stacked",
+            "body": "A logica de OpenAI agora é: uma geração (5.6) com sub-versões de capability/preço. Sol sai em junho pro governo revisar. Terra/Luna rolam pra publico. No futuro: GPT-5.7 Sol/Terra/Luna vai repetir isso (mais uma geração acima).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "NOVO NO GPT-5.6",
+            "title": "Ultra mode com subagentes",
+            "highlight": "subagentes",
+            "body": "Sol tem nova feature: reasoning \"ultra mode\" que spawna subagentes pra rodar raciocínio paralelo. Basicamente: GPT-5.6 Sol consegue criar mini-GPTs dentro de si mesmo pra resolver partes diferentes de um problema em paralelo. Raciocinio acelerado.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO SOL É SUPERIOR",
+            "title": "Coding, Biology, Cybersecurity 2x melhor",
+            "highlight": "2x melhor",
+            "body": "Sol recebeu fine-tuning especializado em 3 áreas: coding (agentes, debugging, refactor), biology (molecular simulations, drug discovery), cybersecurity (vulnerability finding, system hardening). Isso não tá em Terra/Luna — é só em Sol.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "EMPREENDEDOR, QUAL USAR?",
+            "title": "Terra é o sweet spot (custo vs performance)",
+            "highlight": "Terra",
+            "body": "Se teu caixa é apertado: Luna é commodity puro (ok pra chatbot). Se precisa de qualidade garantida: Terra ($2.50/$15) é o meio termo — performa perto de Sol em maioria dos casos, mas 50% mais barato. Sol só se tu precisa de raciocinio super pesado ou biology/security nativa.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O PADRÃO QUE SEGUIR",
+            "title": "Uma geração, múltiplos tiers é padrão agora",
+            "highlight": "múltiplos tiers",
+            "body": "Isso virará modelo padrão de todos: uma geração com 3-5 tiers de preço/performance. Anthropic tá com Fable/Opus/Sonnet (semi-isso). Google tá com Gemini variants (quase). OpenAI tá formalizing: Uma geração, tiers claros de capability.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TESTA AGORA",
+            "title": "Roda seu workload em Terra first",
+            "highlight": "Terra",
+            "body": "Começa testando Terra ($2.50/$15): mede latência, quality, custo real. Se ficar bom, ótimo (economia real). Se precisar melhor: escala pra Sol. Se for só commodity: Terra já é overkill, usa Luna. Escolhe tier por caso de uso, não por modelo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Perplexity + Nvidia: Agentes 1.5x Mais Rápidos em CPU",
+      "summary": "Perplexity confirmou em 7 de julho que vai usar CPUs novas da Nvidia pra rodar agentes. Nvidia CPU carrega tarefas de coding de agentes ~1.5x mais rápido que CPUs tradicionais. Perplexity Computer é now native em Microsoft 365 (Word/Excel/PowerPoint/Outlook/Teams). ARR hit $450M em março 2026.",
+      "source": "Perplexity / Yahoo Finance",
+      "link": "https://finance.yahoo.com/technology/ai/articles/perplexity-ai-says-plans-nvidias-cpu-190347648.html",
+      "category": "aplicação",
+      "recommended": false,
+      "carousel": {
+        "theme": "Perplexity + Nvidia: Agentes rodam 1.5x mais rápido",
+        "caption": "⚡ PERPLEXITY ACELERA AGENTS COM NVIDIA CPU: 1.5x mais rápido.\n\nPerplexity confirmou que tá usando CPUs Nvidia new-gen pra rodar Computer agents. VP de Computer Enterprise Nate Kupp: CPU Nvidia roda tarefas de agent coding 1.5x mais rápido que CPUs normais. \n\nPra empreendedor:\n→ Agents em produção na Perplexity rodam 33% mais rápido — latência cai bem\n→ Isso permite escalar mais queries com mesmo hardware\n→ Microsoft 365 integration native agora: Perplexity vira feature do Office\n\nPerplexity hit $450M ARR com 45M users em março. Essa integração+ speedup = trajectory pro $500M ARR em Q3.\n\n#Perplexity #Nvidia #Agentes #IA #Microsoft365 #Empreendedorismo\n\n💬 Salva esse post + segue @rafaondei pra mais radar de mercado de IA",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "ACELERAÇÃO HARDWARE",
+            "title": "Perplexity agents 1.5x mais rápido",
+            "highlight": "1.5x",
+            "body": "",
+            "stat": "33% menos latência",
+            "stat_label": "em tarefas de agent coding",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O NÚMERO CONCRETO",
+            "title": "Nvidia CPU: 1.5x throughput vs tradicional",
+            "highlight": "1.5x",
+            "body": "VP Nate Kupp confirmou em 7 de julho que Nvidia's new central processing units carregam tarefas de coding de agentes 1.5x mais rápido. Isso não é software tuning — é hardware puro. Nvidia tá expandindo beyond GPUs (tradicionais pra training) pra CPUs pra inference.",
+            "stat": "$450M ARR",
+            "stat_label": "Perplexity em março 2026",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "A APOSTA DA NVIDIA",
+            "title": "Nvidia sai de GPU-only pra CPU+GPU hybrid",
+            "highlight": "CPU+GPU",
+            "body": "Nvidia tá vendo que inference agora é bottleneck — training parou de crescer exponencialmente. Então: fazer CPUs Nvidia que batem em ARM/x86 em inference workloads specific. Perplexity é early customer confirmando que funciona 1.5x melhor em agent workloads.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDA A MATH DO SCALING",
+            "title": "Com 1.5x speed, escala mais com mesmo hardware",
+            "highlight": "escala",
+            "body": "Antes: rodava N agentes simultâneos no hardware X. Agora: roda 1.5x N agentes no mesmo hardware X (ou roda N agentes em 0.67x do hardware). Pra SaaS em escala, isso é margem pura: mesma infrastructure, mais revenue. Margin sobe 15-30%.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "INTEGRAÇÃO MICROSOFT 365",
+            "title": "Perplexity Computer native em Office",
+            "highlight": "Office",
+            "body": "Perplexity Computer agora roda direto dentro de Word, Excel, PowerPoint, Outlook, Teams. Não precisa alt-tab pra janela separada — é feature nativa do Office. Isso vai significar que agents rodam em contexto de documento, planilha, email — muito mais poderoso.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "APLICAÇÃO REAL",
+            "title": "Enterprise adoption vai disparar",
+            "highlight": "Enterprise",
+            "body": "Perplexity Computer em Microsoft 365 = agents pra usuários que já abrem Office todo dia. Não precisa convencer usar novo tool — já tá lá. Isso é ação dúplice: Nvidia CPU speedup + Microsoft 365 distribution = adoption curve exponencial.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO ESTRATÉGICA",
+            "title": "CPU vendors viram AI vendors (final act)",
+            "highlight": "CPU vendors",
+            "body": "Tradição: CPU vendors fazem CPUs, IA vendors fazem algorithms. Agora: Nvidia faz tanto GPU quanto CPU otimizado pra IA. Intel tá atrás (Gaudi). ARM tá correndo. Era da commodity CPU morreu — agora é CPU otimizado pra workload especifico (inference agents).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Testa Perplexity Computer em Office",
+            "highlight": "Perplexity",
+            "body": "Se teu time usa Office, testa integração nativa de Perplexity Computer. Mede produtividade vs agent separado (alt-tab). Dica: esse é o grande bet de Perplexity pra crescer enterprise — distribuição via Microsoft, não via marketing.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Claude Science: 60+ Bancos Científicos + US$ 30K Créditos",
+      "summary": "Anthropic lançou Claude Science, workbench dedicado pra pesquisadores com 60+ databases científicas pré-configuradas (PubMed, Nature, bioRxiv, etc). Inclui US$ 30K em créditos iniciais. Foco: aceleração de drug discovery e research. Integra HPC e chemical simulations. Alvo: encurtar timelines de pesquisa de meses pra semanas.",
+      "source": "Anthropic",
+      "link": "https://www.anthropic.com/news",
+      "category": "aplicação",
+      "recommended": false,
+      "carousel": {
+        "theme": "Claude Science: 60+ bancos + HPC pra pesquisa",
+        "caption": "🧬 CLAUDE SCIENCE: Aceleração pra drug discovery.\n\nAnthropic lançou Claude Science em julho — workbench completo pra pesquisadores com:\n• 60+ bancos científicos pré-configurados (PubMed, Nature, bioRxiv...)\n• US$ 30K créditos iniciais pra usar com Claude\n• HPC + chemical simulations nativas\n• Objetivo: encurtar timelines de research de meses pra semanas\n\nPra empreendedor em biotech:\n→ Pesquisa que levava 6 meses agora dá pra 2 semanas (with IA acelerando)\n→ US$ 30K de free credits = runway pra testar sem gastar\n→ Integração com databases científicas significa contexto global em um tool\n\nAnthropic + Gates Foundation: US$ 200M em impact fund pra levar Claude Science pra universities/nonprofits.\n\n#ClaudeScience #Biotech #AI #DrugDiscovery #Pesquisa #Inovação\n\n💬 Salva esse post + segue @rafaondei pra mais radar de mercado de IA",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "ACELERAÇÃO DE PESQUISA",
+            "title": "Claude Science: 60+ bancos científicos",
+            "highlight": "60+ bancos",
+            "body": "",
+            "stat": "6 MESES → 2 SEMANAS",
+            "stat_label": "timeline target pra drug discovery",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O QUE TEM DENTRO",
+            "title": "60+ databases + US$ 30K de crédito",
+            "highlight": "60+",
+            "body": "Claude Science inclui acesso pré-configurado a 60+ bancos científicos: PubMed, Nature, bioRxiv, Scopus, KEGG, PDB, Reactome, e mais. Vem com US$ 30K em créditos pra usar Claude unlimited. Sem gastar nada, tu consegue 30K queries em contexto gigante de dados científicos.",
+            "stat": "$30K",
+            "stat_label": "crédito inicial pra pesquisadores",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "PROBLEMA QUE RESOLVE",
+            "title": "Pesquisa tá lenta: semanas em literatura",
+            "highlight": "literatura",
+            "body": "Pesquisador típico: semanas em PubMed, outro tanto em metodologia, meses em experiências. Claude Science: lê 60+ bancos em segundos, resume contexto, sugere hipótese experimental. Não substitui experimento, mas acelera frame pra testar.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O QUE MUDA",
+            "title": "Timeline: meses de research → semanas",
+            "highlight": "semanas",
+            "body": "Cálculo real: antes levava 3 meses (literatura 4 semanas, hipótese 2 semanas, prep 4 semanas). Agora: Claude Science lê literatura em horas (contexto gigante, 1M tokens). Hipótese gerada em dias. Prep igual (não muda). Timeline = 3 meses → ~6 semanas.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "HPC + Chemical Simulations integradas",
+            "highlight": "Chemical",
+            "body": "Claude Science não só lê papers — calcula: rodar simulations de moléculas, prever drug-protein binding, sugeri tweaks na estrutura. Integra com HPC infrastructure pra executar sims em background. Resultado: iteração 5-10x mais rápida em design molecular.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA BIOTECH STARTUPS",
+            "title": "R&D cost cai 40-60%, timeline cai 60-70%",
+            "highlight": "40-60%",
+            "body": "Startup traditional: US$ 500k/ano em salário scientist, 6 meses pra validar hipótese. Com Claude Science: mesma hipótese em 6 semanas, menos salary (IA faz 60% do work). Result: runway estira 3-5x. Competitive advantage: tu chega no experimento real 4 meses antes de competitor.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "IMPLICAÇÃO MAIOR",
+            "title": "IA virou R&D leverage, não substituto",
+            "highlight": "leverage",
+            "body": "Claude Science não elimina scientist — multiplica. Cientista roda mais experiments, mais hipóteses, mais iterações no mesmo tempo. Quem usar IA agora vai ter 10x mais output em 2 anos. Competitive moat = acesso a Claude Science + team talentoso.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "SE TÁ EM BIOTECH",
+            "title": "Aplica pra programa Claude Science",
+            "highlight": "Claude Science",
+            "body": "Se tá em startup de biotech, drug discovery, ou research institution: entra no programa de Claude Science (https://www.anthropic.com). Primeiro batch de funded researchers (com US$ 30K) já tá rodando. Esse é o tempo de testar custo-zero.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Cursor Automations: Agents Disparados por Slack, Timer, Git Commit",
+      "summary": "Cursor lançou Automations feature em julho — dispara agentes automaticamente de eventos: Slack message, timer, Git commit, mudança de código. Agents rodam em cloud isoladas, pode fazer code review, security audit, incident response, weekly summaries. Cursor ARR hit $3B com $29.3B valuation; acquisition interest em $60B.",
+      "source": "Cursor Blog",
+      "link": "https://cursor.com/blog",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Cursor Automations: Agentes disparados automaticamente",
+        "caption": "⚙️ CURSOR AUTOMATIONS: Agentes sem prompt manual.\n\nCursor lançou Automations em julho — dispara agentes automaticamente:\n• Slack message → roda agente de review/response\n• Timer → scheduled task (ex: weekly summary)\n• Git commit → code review + security audit automático\n• Codebase change → incident response automático\n\nPra empreendedor em DevOps/eng:\n→ Code review automático = PR review 2 min vs 30 min humano\n→ Security audit contínuo = vulnerabilities detectadas instant\n→ Incident response automated = MTTR cai de horas pra min\n\nCursor tá com $3B ARR, $29.3B valuation, acquisition interest em $60B (SpaceX/Anthropic/OpenAI tá de olho).\n\n#Cursor #Agentes #DevOps #CodeReview #Automação #Empreendedorismo\n\n💬 Salva esse post + segue @rafaondei pra mais radar de mercado de IA",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "CÓDIGO AUTOMÁTICO",
+            "title": "Cursor Automations launched",
+            "highlight": "Automations",
+            "body": "",
+            "stat": "0 PROMPTS",
+            "stat_label": "agentes rodam sozinhos",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "COMO DISPARA",
+            "title": "Slack, Timer, Git Commit, Codebase change",
+            "highlight": "Slack, Timer, Git",
+            "body": "Cursor Automations pega eventos de 4 canais: Slack message (alguém @mentions agent), Timer (scheduled, ex: 9am toda segunda), Git commit (push dispara automático), codebase change (file changed em production). Cada evento pode triggerar um agent diferente em cloud isolada.",
+            "stat": "4 trigger types",
+            "stat_label": "disparo de agente automático",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "PROBLEMA HISTÓRICO",
+            "title": "Code review = gargalo manual",
+            "highlight": "manual",
+            "body": "Time eng típico: PR fica 30-60 min esperando review (human não tá online). Cursor agent pode revisar em 2 min — detectar bugs, security issues, style violations, suggest refactor. Não é perfeito, mas acelera 95% dos casos. Human depois valida.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "COM AUTOMATIONS",
+            "title": "Code review automático em 2 minutos",
+            "highlight": "2 minutos",
+            "body": "Agora: PR é aberta → Cursor Automation dispara automático → agent roda code review em 2 min → feedback postado no PR → dev vê e valida/refatora. Gargalo de 30 min vira 2 min. Para maioria das PRs, issue é caught no automático.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "CASOS DE USO",
+            "title": "Audit, incident response, scheduled reports",
+            "highlight": "Audit",
+            "body": "Além code review: Automations roda security audit 24/7 (detecta vuln em staging antes chegar prod), incident response (deploy quebrou? agent tira screenshot, analisa logs, sugeri rollback), weekly summary email (time metrics, productivity trends, team health).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "ESCALA PRO EMPREENDEDOR",
+            "title": "MTTR cai 80%, shipping speed sobe 2x",
+            "highlight": "2x",
+            "body": "Mean time to recovery (MTTR): incidente que levava 2 horas pra resolver, agent pega em 15 min (rootcause analysis automático). Shipping speed: PRs que pendiam 30 min em review agora passam em 2 min. Throughput de código sobe sem mais hiring.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "SHIFT ESTRATÉGICO",
+            "title": "Coding agents viraram plataforma (não tool)",
+            "highlight": "plataforma",
+            "body": "Cursor começou como IDE. Virou IDE + agent mode. Agora é plataforma: roda no IDE, roda em CLI, roda em cloud agents 24/7 (Automations), roda em iOS (mobile remote control). Estratégia: ubiquitar Cursor como runtime pra agentes, não só editor.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "SETUP EM 10 MIN",
+            "title": "Configura code review automation",
+            "highlight": "automation",
+            "body": "No Cursor: Settings → Automations → GitHub trigger → setup code review template → save. Próxima PR que abrir, agent roda automático. Resultado: 30 min de review manual vira 2 min de agent + 5 min de human validation. Vale a configuração em 10 min.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Meta Compute Cloud: Monetiza 1M+ H100s, Compete com AWS/Azure",
+      "summary": "Meta anunciou Meta Compute em 1º de julho — nova cloud business pra vender excesso de AI infrastructure (1M+ H100 GPUs). Compete com AWS, Microsoft Azure, Google Cloud. Meta share price subiu acima de $600 após anúncio. Modelo: pay-as-you-go pra AI/ML workloads. Strategic play pra monetizar capex massivo em IA.",
+      "source": "Meta Investor Relations",
+      "link": "https://ai.meta.com/",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "Meta Compute Cloud: 1M+ H100s à venda",
+        "caption": "☁️ META COMPUTE: Meta vira cloud provider.\n\nMeta anunciou Meta Compute em 1º de julho — nova linha de business:\n• Vende capacidade de AI compute que sobra (1M+ H100 GPUs)\n• Compete direto com AWS, Azure, Google Cloud\n• Pay-as-you-go model (não precisa commitment longo)\n• Strategic: Meta gastou US$ 115-135B em IA em 2026 — precisa pagar isso\n\nPra empreendedor em ML/AI infra:\n→ Alternativa de compute mais barata que AWS (Meta tem capex já pago)\n→ Latência low pra customer meta (Facebook/Instagram tá no mesmo DC)\n→ Commitment curto = flexibilidade pra startup\n\nMeta share price subiu acima de $600 no anúncio.\n\n#Meta #Cloud #AI #Compute #AWS #Infrastructure #Empreendedorismo\n\n💬 Salva esse post + segue @rafaondei pra mais radar de mercado de IA",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "META VIROU CLOUD PROVIDER",
+            "title": "Meta Compute Cloud launch",
+            "highlight": "Cloud",
+            "body": "",
+            "stat": "1M+ H100s",
+            "stat_label": "disponível pra rent",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "ESCALA GIGANTE",
+            "title": "1M+ H100 GPUs = maior capacity do mundo",
+            "highlight": "1M+",
+            "body": "Meta Build: investiu US$ 115-135B em AI infra durante 2026. Total: 1M+ H100 GPUs em datacenters. Uso interno (LLaMA, recommendation, ranking): ~60% da capacidade. Resto (40%) = spare capacity. Meta Compute: monétiza esse 40%.",
+            "stat": "$115-135B",
+            "stat_label": "capex Meta em IA em 2026",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "PROBLEMA QUE RESOLVE",
+            "title": "GPU shortage: AWS/Azure tá caro e congestionado",
+            "highlight": "caro",
+            "body": "Startups/research: querem H100 pra training, mas AWS tá $4-5 por hora (caríssimo). Google Cloud similar. Wait list: semanas. Meta compute: mesma GPU, mais barata (Meta amortiza capex via user monetization), wait time menor (Meta tem spare capacity).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "ESTRATÉGIA MAIOR",
+            "title": "Meta monetiza capex colossal via cloud",
+            "highlight": "monetiza",
+            "body": "Meta tá em posição única: fez capex gigante pra uso interno (LLaMA, ads ranking). Agora: vira provider. Modela AWS (paga capex via customer billing). Diferença: Meta tem capex já amortizado, pode undercut AWS em preço. Isso é strategic moat.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO VENDE",
+            "title": "Pay-as-you-go, no long-term commitment",
+            "highlight": "Pay-as-you-go",
+            "body": "AWS modelo: Reserved Instance (RI) de 1-3 anos = desconto 30%, mas lock-in. Azure similar. Meta Compute: pay-only-what-you-use, sem commitment. Se tu rodar job só 1 semana, pagas só 1 semana. Isso atrai startups (flexible) e research (sporadic workloads).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "EMPREENDEDOR GANHA",
+            "title": "20-40% desconto vs AWS, wait time zero",
+            "highlight": "20-40%",
+            "body": "Pricing: Meta pode descontar 20-40% de AWS e still profitable (capex amortizado). Availabilidade: Meta tem 1M GPUs, demand da startup world = ~100k simultâneos = 10x supply. Resultado: teu training job de 2 semanas? Começa imediatamente, custa 60% menos.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "MARKET SHIFT",
+            "title": "Hyperscalers viram cloud providers de IA",
+            "highlight": "hyperscalers",
+            "body": "Era: AWS/Azure = generic cloud. Agora: Meta/Google/Apple = hyperscalers com capex gigante em IA, virando cloud providers. Difference: podem subsidiar IA compute. Startup que treina modelo em AWS vai migrar pra Meta Compute (mais barato). Margin war incoming.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TESTA AGORA",
+            "title": "Migra seu job de training pro Meta Compute",
+            "highlight": "training",
+            "body": "Se tá com job rodando em AWS GPU: copia pra Meta Compute (mesmo CUDA, mesma stack), compara custo/latência. 90% dos casos sai mais barato + mais rápido. Se tá decidindo cloud novo: começa em Meta Compute. Avalanche + Rafael: que tal testar training aqui?",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "DeepSeek Desenvolvendo Chip de IA Próprio (Reuters)",
+      "summary": "Reuters revelou que DeepSeek está desenvolvendo seu próprio chip de IA — designed para inference, não training. Estágio inicial, mas DeepSeek tá dialogando com fabricantes de chip design, foundry, memory. Objetivo: reduzir dependência de Nvidia/Huawei chips. DeepSeek raises $7B maiden round, valuation $52-59B.",
+      "source": "Reuters / Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-07/chinese-ai-startup-deepseek-developing-own-ai-chip-reuters-says",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "DeepSeek: Chip de IA próprio em desenvolvimento",
+        "caption": "🚀 DEEPSEEK FAZ CHIP DE IA: Reduz dependência Nvidia.\n\nReuters reportou que DeepSeek tá desenvolvendo chip de IA próprio (ainda early stage). Objetivo: inference only (não training). Tá dialogando com chip design, foundry, memory vendors. \n\nContexto:\n• DeepSeek tá em primeiro funding round: US$ 7B\n• Valuation: $52-59B (desafiando Anthropic/OpenAI em percepção)\n• China tá travando export de Nvidia H100 (sanctions)\n• DeepSeek precisa de inferência rápida pra monetizar em produção\n\nPra empreendedor:\n→ China tá construindo independent AI infrastructure (não depender EUA)\n→ Verticalização: modelo + chip + inference = controle total\n→ Timeline: chip ready provavelmente 2027-2028\n\n#DeepSeek #Chip #IA #China #Nvidia #Autonomia\n\n💬 Salva esse post + segue @rafaondei pra mais radar de mercado de IA",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "VERTICALIZAÇÃO CHINESA",
+            "title": "DeepSeek faz chip de IA próprio",
+            "highlight": "chip",
+            "body": "",
+            "stat": "EARLY STAGE",
+            "stat_label": "desenvolvimento, não production yet",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "OS NÚMEROS",
+            "title": "US$ 7B raise, $52-59B valuation",
+            "highlight": "$52-59B",
+            "body": "DeepSeek tá em primeira rodada de funding externo (antes era bootstrapped): US$ 7B pra financiar desenvolvimento. Valuation: $52-59B (coloca DeepSeek no topo de startups globais, ao lado Anthropic/OpenAI). Dinheiro vai pra chip development, infra, talent.",
+            "stat": "$7B",
+            "stat_label": "Series A maiden round",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "PRESSÃO GEOPOLÍTICA",
+            "title": "EUA travou export Nvidia H100 pra China",
+            "highlight": "EUA",
+            "body": "June 2025: EUA bloqueou Nvidia H100 pra China (export control). China não consegue comprar GPUs frontier pra training novo. DeepSeek baseado em H100 training (mas operado antes do embargo). Agora: precisa fazer chip próprio pra não depender EUA.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "ESTRATÉGIA VERTICAL",
+            "title": "Modelo + chip = controle total",
+            "highlight": "vertical",
+            "body": "DeepSeek tá copiando estratégia de Apple: não compra chip de terceiro, faz seu. Resultados: (1) não depende de vendor geopolítico, (2) otimiza chip pra seu modelo specific, (3) margem sobe (hardware não é commodity pra eles).",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "CHIP DESIGN",
+            "title": "Inference-only (não training)",
+            "highlight": "Inference",
+            "body": "DeepSeek tá fazendo chip optimizado pra inference (rodar modelo em produção), não pra training (dados históricos custam caro). Isso é smart: training é 10% do workload (batch, offline), inference é 90% (latency-critical, production). Chip otimizado = mais rápido, mais barato.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "GEOPOLÍTICA IA",
+            "title": "China constrói independent stack de IA",
+            "highlight": "stack",
+            "body": "Padrão emergente: China = modelo próprio (DeepSeek) + chip próprio + datasets próprios. EUA = modelo (OpenAI), cloud (AWS), chip (Nvidia). Implica: duas ARNs de IA. DeepSeek ≠ é threat pra OpenAI, é threat pra Nvidia (venda de chips pra China zero).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO",
+            "title": "Verticalização virou arma competitiva",
+            "highlight": "Verticalização",
+            "body": "Apple faz chip → domina iPhone. Tesla faz bateria → domina EV. Agora: DeepSeek faz chip → domina IA en China. Pattern: em categoria nova, verticalized players ganham sobre points-players. DeepSeek vai dominar China IA porque controla stack todo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "IMPLICAÇÃO",
+            "title": "Watch DeepSeek chip timeline 2027-2028",
+            "highlight": "timeline",
+            "body": "Chip ainda tá early stage (probably 18-24 months pra production). Quando sair (late 2027/2028): DeepSeek vai rodar models em inferência super barato (proprietary hardware, optimized). Isso é quando a competição real com OpenAI/Anthropic starts. Salva essa data.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Gemini 2.5 Pro: Sheets Integration Multilíngue + Promo Student",
+      "summary": "Google expandiu Fill with Gemini em Google Sheets pra 11 novos idiomas (Mandarin, Dutch, Malay, Hebrew, Polish, Turkish, Czech, Indonesian, Swedish, Danish, Norwegian). Workspace customers: free access promo até 15 de julho com higher limits. Google oferece free Gemini upgrade pra students 18+ em Indonesia, Japan, UK, Brazil através julho — acesso a Gemini 2.5 Pro, Veo 3 Fast, Deep Research.",
+      "source": "Google Workspace Blog",
+      "link": "https://gemini.google.com/release-notes/",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Gemini 2.5 Pro: Sheets multilíngue + student grátis",
+        "caption": "🌍 GOOGLE EXPANDE GEMINI EM SHEETS: 11 idiomas novos.\n\nGoogle lançou Fill with Gemini em Google Sheets para:\n• Mandarin, Dutch, Malay, Hebrew, Polish, Turkish, Czech, Indonesian, Swedish, Danish, Norwegian\n• Free promo pra Workspace customers até 15 de julho (higher limits)\n• Student free upgrade em 4 países (Indonésia, Japan, UK, Brasil) — acesso completo a Gemini 2.5 Pro\n\nPra empreendedor:\n→ Teams que usam Sheets (dados, automação) ganham fill-in IA em 11 idiomas novos\n→ Students em Brasil têm Gemini 2.5 Pro, Veo 3 Fast, Deep Research de graça (threat direto pra ChatGPT Plus)\n→ Isso é distribuição massiva: 3B usuarios de Workspace ganham Gemini acesso fácil\n\n#Google #Gemini #Sheets #IA #Inovação\n\n💬 Salva esse post + segue @rafaondei pra mais radar de mercado de IA",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "LOCALIZAÇÃO MASSIVA",
+            "title": "Gemini Sheets: 11 idiomas novos",
+            "highlight": "11 idiomas",
+            "body": "",
+            "stat": "3B USUARIOS",
+            "stat_label": "Workspace potencial",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "IDIOMAS NOVOS",
+            "title": "Mandarin, Dutch, Malay, Hebrew, Polish, Turkish...",
+            "highlight": "Mandarin",
+            "body": "Google lançou Fill with Gemini em Google Sheets pra 11 idiomas: Mandarin (800M falantes), Dutch (25M), Malay (42M), Hebrew (9M), Polish (38M), Turkish (84M), Czech (10M), Indonesian (43M), Swedish (13M), Danish (6M), Norwegian (5M). Antes: só English/Spanish/French.",
+            "stat": "11",
+            "stat_label": "idiomas novos",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "PROMO ATÉ 15 DE JULHO",
+            "title": "Workspace: Free high-limit access promo",
+            "highlight": "Workspace",
+            "body": "Workspace customers (empresa com Google Workspace) ganham free, high-limit access a Fill with Gemini em Sheets até 15 de julho. Normal: limites baixos. Promo: unlimited usage. Isso permite que time teste sem upgrade, depois usuário paga se quiser manter.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "STUDENT COUP",
+            "title": "Brasil + 3 países: Gemini Pro free pra students",
+            "highlight": "free",
+            "body": "Google oferece free upgrade de Gemini pra students 18+ em Indonesia, Japan, UK, Brasil — acesso COMPLETO a Gemini 2.5 Pro, Veo 3 Fast, Deep Research até fim de julho. Isso tira subscriptor potencial de ChatGPT Plus (que custa $20/mês) e engatilha hábito em student.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "ESTRATÉGIA",
+            "title": "Hook no student, retain depois",
+            "highlight": "Hook",
+            "body": "Google strategy: student usa Gemini grátis em Sheets (localizado) → aprende ferramenta → depois fez trabalho entregou via Sheets → colaboradores também precisam Gemini → empresa adota Workspace → empresa paga. Isso é embedded loop de adoption.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "EMPREENDEDOR",
+            "title": "Fill in Sheets = automação barata de dados",
+            "highlight": "automação",
+            "body": "Se teu time tá com planilha de dados (CRM, leads, research) e precisa preencher/limpar/categorizar: Gemini Sheets = agent pra isso. Antes: hire VA (caríssimo). Agora: Gemini (grátis até 15 de julho) escreve fórmula pra fazer automated fill de dados.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "PADRÃO DE GOOGLE",
+            "title": "Localização = growth weapon pra Google",
+            "highlight": "Localização",
+            "body": "Google perdeu chat market pra OpenAI (nos EUA). Estratégia recovery: localizar Gemini em idiomas não-English (Brasil, Indonesia, Turquia, etc). Isso abre 80% do mercado global que OpenAI still tá neglecting. Google pode dominar non-English IA market.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "APROVEITA PROMO",
+            "title": "Testa Gemini Sheets até 15 de julho",
+            "highlight": "15 de julho",
+            "body": "Se tá em Brasil/Indonésia/Japan/UK + é student: cria Google account e testa Gemini 2.5 Pro, Veo 3 grátis até fim de julho. Depois: provavelmente vira padrão (Google não vai retirar). Se tá em empresa: usa Workspace promo pra testar Fill in Sheets (unlimited até 15/7).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Claude Cowork Mobile + Web Sync: Sessões Remotas 24/7",
+      "summary": "Anthropic expandiu Claude Cowork pra mobile (iOS/Mac) e web com sync automático de sessions, files, projects. Cowork permite sessões remotas — múltiplos usuários veem mesma tela de Claude, trabalham junto em real-time. Inclui monthly recap e focus settings (break reminders, quiet hours, work insights). Objetivo: colaboração AI-assisted em time.",
+      "source": "NBC News / Anthropic",
+      "link": "https://www.nbcnews.com/tech/tech-news/anthropic-will-make-claude-cowork-available-users-via-cloud-rcna353218",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Claude Cowork Mobile: Colaboração AI em real-time",
+        "caption": "👥 CLAUDE COWORK MOBILE: Trabalho remoto com IA.\n\nAnthropic expandiu Claude Cowork pra mobile (iOS/Mac) + web:\n• Sessions síncronizadas em tempo real (múltiplos usuários veem Claude)\n• Remote work: um começa convo, outro continua (contexto sincrão)\n• Monthly recap + focus settings (break reminders, quiet hours)\n• Integração Microsoft 365: draft email, manage calendar, edit docs\n\nPra empreendedor de time remoto:\n→ Cowork = pair programming com IA (tu + colega + Claude)\n→ Async work: começa de manhã em SP, colega USA continua à noite\n→ Contexto nunca se perde (tudo sincronizado)\n\n#Claude #Anthropic #Cowork #RemoteWork #IA #Colaboração\n\n💬 Salva esse post + segue @rafaondei pra mais radar de mercado de IA",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "COLABORAÇÃO AI-ASSISTED",
+            "title": "Claude Cowork: Sync real-time",
+            "highlight": "real-time",
+            "body": "",
+            "stat": "24/7",
+            "stat_label": "sessions remotas sempre on",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "NOVO NA COWORK",
+            "title": "Mobile (iOS/Mac) + Web com sync automático",
+            "highlight": "sync",
+            "body": "Claude Cowork agora roda em: Desktop web, iOS app, Mac app — tudo sincronizado. Tu começa convo em desktop, sai pra meeting, continua no iPhone, after meeting continua no Mac. Contexto (chat, files, projects) segue junto. Zero perda de contexto.",
+            "stat": "3 plataformas",
+            "stat_label": "desktop, iOS, Mac",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "PROBLEMA QUE RESOLVE",
+            "title": "Time remoto perde contexto entre apps",
+            "highlight": "contexto",
+            "body": "Remote team típico: Slack pra chat, Google Docs pra doc, Notion pra task, Claude separado pra IA. Contexto fica fragmentado. Cowork: tudo em um — Claude sabe tudo (conversa, files, artifacts), time vê junto em real-time. Sem alt-tab pra context switch.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "NOVO PADRÃO",
+            "title": "Sessions remotas: Pair programming com IA",
+            "highlight": "Pair",
+            "body": "Cowork permite: tu + colega + Claude na mesma tela. Um digita prompt, outro vê resultado simultâneo. Discussão acontece ali mesmo (chat de Cowork). Resultado: código/doc/idea é colaborativo desde o start (não review depois). Muito mais rápido.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "ASYNC WORK VIROU POSSÍVEL",
+            "title": "Contexto synca entre zonas de tempo",
+            "highlight": "async",
+            "body": "Tu em São Paulo termina task em Claude às 18h. Colega em San Francisco acorda às 8am (6h depois). Abre Cowork — vê exatamente onde tu parou (chat, artifacts, files). Continua dali. Sem esperar por sync call. Trabalho flui naturalmente entre timezones.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRODUTIVIDADE",
+            "title": "Ciclo de feedback cai 60% (async)",
+            "highlight": "60%",
+            "body": "Antes: escreve doc no Docs → share no Slack → colega revisa → volta em comentário → você vê 3h depois. Total: meio dia de loop. Cowork async: escreve doc em Claude → colega continua 3h depois → você vê resultado pronto. Total: 3h de loop (5x mais rápido).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "IMPLICAÇÃO",
+            "title": "Claude virou hub da colaboração (não só chat)",
+            "highlight": "hub",
+            "body": "Claude tá virando central workspace pra time remoto: chat + artifacts + files + colabs. Próximo passo de Anthropic: integração com Slack, email (via Microsoft 365 connector que já tá). Objetivo: Claude é place onde time trabalha junto.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "SETUP COM COLEGA",
+            "title": "Testa Cowork com um colega remoto",
+            "highlight": "Cowork",
+            "body": "Próximo projeto pequeno em time: faz via Claude Cowork (ambos no desktop ou mobile). Convida colega pra session. Trabalha junto — mede ciclo de feedback vs way tradicional. Aposto que sai 2-3x mais rápido (menos context switch).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "AI Benchmarks: Claude Fable 5 Lidera (91 pts), GPQA +75% em 18 meses",
+      "summary": "Claude Fable 5 lidera BenchLM leaderboard com score 91/100 overall. Custo-benefício: $2/$12 per Mi tokens com 94.3% GPQA Diamond (reasoning benchmark). GPQA scores aumentaram de ~50% para 75%+ em apenas 18 meses (desde início 2025). Frontier models praticamente convergem em performance (~90%+ em testes). Diferenciador agora é custo + latência (não mais performance pura).",
+      "source": "BenchLM.ai / BuildFastWithAI",
+      "link": "https://benchlm.ai/",
+      "category": "benchmark",
+      "recommended": false,
+      "carousel": {
+        "theme": "Benchmarks: Frontier virou commodity em performance",
+        "caption": "📊 BENCHMARK REPORT: Frontier models convergem em performance.\n\nBenchLM leaderboard (julho 2026):\n• Claude Fable 5: 91/100 (melhor overall)\n• Custo: $2/$12 per Mi tokens\n• GPQA Diamond: 94.3% (reasoning)\n• GPQA scores: 50% → 75%+ em 18 meses (massive improvement)\n\nPra empreendedor:\n→ Todos os frontier models agora rodam 90%+ em benchmarks — praticamente iguais\n→ Diferenciador virou CUSTO + LATÊNCIA (não performance)\n→ Escolha de modelo = escolha de tradeoff preço vs velocidade\n\nObservação: Benchmarks ≠ produção. Lab performance diverge de production 37% (gap real).\n\n#IA #Benchmarks #Claude #Performance #Pricing #Empreendedorismo\n\n💬 Salva esse post + segue @rafaondei pra mais radar de mercado de IA",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "CONVERGÊNCIA ACONTECENDO",
+            "title": "Benchmarks: Frontier = commodity",
+            "highlight": "commodity",
+            "body": "",
+            "stat": "90%+",
+            "stat_label": "todos frontier models nesse patamar",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "LEADERBOARD JULHO 2026",
+            "title": "Claude Fable 5: 91 pts, $2/$12 per Mi",
+            "highlight": "91 pts",
+            "body": "BenchLM leaderboard agregado: Claude Fable 5 lidera com 91/100 overall score. Custo: $2 input / $12 output per million tokens. GPQA Diamond (reasoning benchmark): 94.3%. Isso coloca Fable como melhor tradeoff de performance vs cost em fronteer-grade.",
+            "stat": "$2/$12",
+            "stat_label": "pricing",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "EVOLUÇÃO DO BENCHMARK",
+            "title": "GPQA: 50% (2024) → 75%+ (2026)",
+            "highlight": "75%+",
+            "body": "GPQA (Graduate-level Google-Proof QA) é benchmark de raciocínio deep. Jan 2024: models tavam 50% (falha mais que acerta). Jul 2026: 75%+ (raciocínio praticamente humano-level). Improvement em 18 meses é absurdo — mostra que reasoning tá effectively 'solved' (por frontier models).",
+            "stat": "25 pontos percentuais",
+            "stat_label": "GPQA growth em 18 meses",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "IMPLICAÇÃO CLARA",
+            "title": "Performance plateau: todos 90%+ agora",
+            "highlight": "plateau",
+            "body": "Todos os frontier models (Fable, Opus, GPT-5.6 Sol, Grok, etc) agora rodam 90%+ em testes. Diferença entre 88% e 92%? Imperceptível pra aplicação real. Isso muda tudo: deixa de ser 'qual é melhor em performance' e vira 'qual é mais barato/rápido'.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "O GAP REAL",
+            "title": "Benchmark lab ≠ Production (37% gap)",
+            "highlight": "37%",
+            "body": "Study feita em julho: gap entre benchmark (lab controlled) vs production (real world): 37%. Significa: modelo que tira 90% em benchmark pode só tirar 56% em produção (variáveis não-controlled). Implicação: benchmark score não prediz production sucesso — tu precisa testar no real.",
+            "stat": "37%",
+            "stat_label": "gap lab vs production",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "ESCOLHA INTELIGENTE",
+            "title": "Custo + latência = novo diferenciador",
+            "highlight": "Custo",
+            "body": "Se performance tá plateaued (todos 90%+), a escolha de modelo virou: Fable ($2/$12, mais barato) vs Opus ($5/$25, mais poderoso em edge cases) vs Grok ($2/$6, mais barato ainda). Empreendedor: escolhe por $ e latência, não por '1 ponto a mais de benchmark'.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "ERA PÓS-FRONTIER",
+            "title": "Performance virou commodity, custo virou moat",
+            "highlight": "commodity",
+            "body": "2024: 'qual modelo é melhor' (performance-focused). 2026: 'qual modelo é mais barato' (margin-focused). Próxima: 'qual model é mais rápido' (latency SLA). Frontier performance já tá resolvido. Diferenciação virou operacional (cost/speed/reliability).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "NÃO CONFIE SÓ EM BENCHMARK",
+            "title": "Testa seu workload em production",
+            "highlight": "production",
+            "body": "Não escolhe modelo por leaderboard score. Escolhe por: (1) custo real ($2/$12 vs $5/$25 importa), (2) latência SLA (1s vs 5s importa), (3) test em produção (benchmark ≠ real). Se os 3 forem iguais entre 2 modelos, escolhe o mais barato.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    }
+  ],
+  "whatsapp": "🚀 RADAR IA — JULHO 10, 2026\n\n1️⃣ Grok 4.5: Opus-class por US$ 2/Mi tokens (60% mais barato que Claude Opus). Treinado com Cursor, domina coding + agentes. Disrupção de margem frontier.\nhttps://x.ai/news/grok-4-5\n\n2️⃣ Claude Sonnet 5 Padrão: Anthropic fez Sonnet 5 modelo default pra Free/Pro. Promo: $2/$10 por Mi até fim de agosto. Performa perto de Opus em código/raciocínio.\nhttps://www.anthropic.com/news\n\n3️⃣ GPT-5.6 Sol/Terra/Luna: OpenAI lançou 3 tiers (Sol $5/$30, Terra $2.50/$15, Luna $1/$6). Sol tem reasoning \"ultra mode\" com subagentes paralelo.\nhttps://openai.com/index/previewing-gpt-5-6-sol/\n\n4️⃣ Perplexity + Nvidia CPU: Agentes 1.5x mais rápido com Nvidia CPUs. Perplexity Computer integrado nativo em Microsoft 365 (Word/Excel/PowerPoint). ARR: $450M em março.\nhttps://finance.yahoo.com/technology/ai/\n\n5️⃣ Claude Science: 60+ bancos científicos + US$ 30K créditos pra pesquisadores. Acelera drug discovery de 6 meses → 2 semanas. HPC + chemical sims integradas.\nhttps://www.anthropic.com/news\n\n6️⃣ Cursor Automations: Agentes disparados por Slack, timer, Git commit. Code review automático em 2 min, security audit 24/7, incident response automático. Cursor: $3B ARR, $29.3B valuation.\nhttps://cursor.com/blog\n\n7️⃣ Meta Compute Cloud: Meta monetiza 1M+ H100s (capex próprio). Compete com AWS/Azure. Pay-as-you-go, 20-40% desconto vs AWS. Meta share: +$600 no anúncio.\nhttps://ai.meta.com/\n\n8️⃣ DeepSeek Chip Own: DeepSeek em desenvolvimento de chip de IA próprio (inference). $7B raise, $52-59B valuation. Objetivo: independência vs Nvidia/EUA (embargo).\nhttps://www.bloomberg.com/news/articles/2026-07-07/chinese-ai-startup-deepseek-developing-own-ai-chip-reuters-says\n\n9️⃣ Gemini 2.5 Pro Sheets: Fill com Gemini em 11 idiomas novos (Mandarin, Turkish, Polish, Indonesian...). Promo free pra Workspace customers até 15/7. Student Brasil: Gemini Pro + Veo 3 free.\nhttps://gemini.google.com/release-notes/\n\n🔟 Claude Cowork Mobile: Sessions sincronizadas iOS/Mac/Web. Real-time collaboration (múltiplos usuários veem Claude junto). Async work entre timezones. Microsoft 365 connector (email, calendar, docs).\nhttps://www.nbcnews.com/tech/tech-news/anthropic-will-make-claude-cowork-available-users-via-cloud-rcna353218\n\n📊 BÔNUS: Benchmarks plateau — todos frontier models 90%+. Diferenciador virou CUSTO + LATÊNCIA. Claude Fable 5 lidera (91 pts). Gap lab vs production: 37% (testa em real).\n\n🔗 Dashboard completo: https://rafaelondei.appnaia.com",
+  "instagram": "📱 RADAR IA — JULHO 10, 2026\n\n10 notícias que importam pro teu negócio em IA. Scroll e salva cada carrossel.\n\n🔴 TOPO: Grok 4.5 quebra pricing frontier — Opus-class por 60% menos ($2/$6 vs $5/$25 do Claude). Treinado com Cursor, domina agents em código.\n\n🔴 Claude Sonnet 5 virou padrão em July (Free/Pro). Promo $2/$10 até fim de agosto — more barato que GPT-class. Performa quase Opus.\n\n🔴 OpenAI lançou GPT-5.6 em 3 tiers (Sol/Terra/Luna). Sol tem reasoning \"ultra mode\" com subagentes rodando paralelo.\n\n🔴 Perplexity + Nvidia: Agents 1.5x mais rápido com CPUs Nvidia. Integrado nativo em Microsoft 365. ARR: $450M+ em março.\n\n🔴 Claude Science: 60+ bancos científicos + $30K free crédito. Acelera drug discovery de meses → semanas. HPC native.\n\n🔴 Cursor Automations: Code review automático em 2min (Slack trigger, Git commit trigger, timer trigger). Cursor: $3B ARR, $29.3B valuation.\n\n🔴 Meta Compute Cloud: Meta vira cloud provider — 1M+ H100s pra rent. 20-40% menos caro que AWS, pay-as-you-go, sem commitment.\n\n🔴 DeepSeek Chip Own: DeepSeek desenvolvendo chip de IA próprio (early stage). $7B raise, $52-59B valuation. Objetivo: independence vs EUA.\n\n🔴 Google Gemini Sheets Multilíngue: 11 idiomas novos (Mandarin, Turkish, Polish...). Promo free pra Workspace até 15/7. Student Brasil: Gemini Pro free.\n\n🔴 Claude Cowork Mobile: Sync iOS/Mac/Web, real-time collab, async work entre timezones. Microsoft 365 integrado (email, calendar, docs).\n\n💡 INSIGHT: Frontier performance tá plateaued (todos 90%+ benchmarks). Diferenciador agora é CUSTO + LATÊNCIA. Escolhe modelo por $ e speed, não por score.\n\n🔗 Salva o carrossel de cada notícia + segue @rafaondei pra mais radar.\n\n#IA #Mercado #Claude #OpenAI #GoogleGemini #Grok #Agentes #Pricing #Empreendedorismo #TecnologiaEmProdução"
+}

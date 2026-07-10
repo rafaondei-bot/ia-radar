@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-07-09T07:00:01-03:00",
+  "updated_at": "2026-07-10T07:00:01-03:00",
   "executions": [
+    {
+      "date": "2026-07-10",
+      "key": "2026-07-10",
+      "topic": "mercado de IA",
+      "summary": "Grok 4.5 Opus-class $2/$6 (60% off Claude). Claude Sonnet 5 padrão global + promo $2/$10 até agosto. GPT-5.6 Sol/Terra/Luna (reasoning ultra mode). Perplexity+Nvidia: agents 1.5x rápido, Microsoft 365 native. Claude Science 60+ bancos científicos. Cursor Automations (Slack/Git/timer triggers). Meta Compute Cloud 1M+ H100s pra rent. DeepSeek chip own (early stage, $7B raise). Gemini Sheets 11 idiomas. Claude Cowork mobile sync.",
+      "items_count": 10
+    },
     {
       "date": "2026-07-09",
       "key": "2026-07-09",
