@@ -1,0 +1,1030 @@
+{
+  "date": "2026-07-11",
+  "topic": "mercado de IA",
+  "topic_slug": "mercado-ia-2026-07-11",
+  "generated_at": "2026-07-11T07:00:01-03:00",
+  "items": [
+    {
+      "title": "Claude Sonnet 5: novo padrão gratuito",
+      "summary": "Anthropic lançou Claude Sonnet 5 em 30 de junho e fez dela a default automática para todos os usuários Free e Pro a partir de 1º de julho. Sonnet 5 é o modelo mais agentic da linha, com performance próxima ao Opus 4.8 em muitas tarefas, mas com pricing 60% mais barato. Marca a democratização do acesso a modelos de alta performance.",
+      "source": "Anthropic Blog",
+      "link": "https://www.anthropic.com/news",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Claude Sonnet 5 virou a IA padrão de 300M usuários",
+        "caption": "A IA que tá no celular de 300 milhões de pessoas agora é 60% mais barata e quase tão poderosa quanto o modelo flagship. Claude Sonnet 5 virou a default em claude.ai no dia 1º de julho — tá rodando de graça pra qualquer um que entra no site. O que mudou: performance quase Opus-level (reasoning nativo, visão HD, 1M tokens), mas com preço de Sonnet. Pra who: desenvolvedores, criadores de conteúdo, consultores, pequenas empresas. O recado: alta performance não é mais luxo. #Claude #IA #Antropic\n\nSalva esse post + segue @rafaondei pra mais radar de mercado de IA",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "ISSO MUDA TUDO",
+            "title": "Claude Sonnet 5 é agora o padrão gratuito",
+            "highlight": "padrão gratuito",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O NÚMERO GIGANTE",
+            "title": "300M usuários ganham upgrade de graça",
+            "highlight": "300M",
+            "body": "Anthropic colocou Claude Sonnet 5 como modelo default em claude.ai a partir de 1º de julho. Qualquer pessoa que entra no site — Free ou Pro — tá rodando Sonnet 5 automaticamente. Sem necessidade de escolher, sem downgrade. É democratização pura de IA enterprise-grade.",
+            "stat": "60%",
+            "stat_label": "redução de custo vs Opus 4.8",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE ACONTECEU",
+            "title": "Sonnet 5 bate Opus em alguns casos",
+            "highlight": "Sonnet 5",
+            "body": "Anthropic treinou Sonnet 5 com um foco específico: máxima performance com economia de tokens. Resultado: performance quase equivalente ao Opus 4.8 (seu modelo flagship que custa US$ 5 input / US$ 25 output) em muitas tarefas como escrita, revisão e reasoning nativo. Mas custa 60% menos: US$ 1 / US$ 5 na promo até agosto.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "A VIRADA DO JOGO",
+            "title": "Enterprise-grade virou commodity",
+            "highlight": "Enterprise-grade",
+            "body": "Antes: modelos bons custavam caro (Opus). Agora: qualidade Opus tá disponível de graça pra quem usa claude.ai. Isso não é marketing — é repositionamento real de mercado. Anthropic tá apostando que volume de uso (e insights que ganha) compensa reduzir a margem por token.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Sonnet 5 tem tudo que Opus tem",
+            "highlight": "1M tokens",
+            "body": "Reasoning nativo (pensa antes de responder). Visão HD até 3.75MP (lê screenshot, PDF complexo, imagem 4K). 1M tokens de contexto (lê um livro inteiro). Multimodal (texto, imagem, código). Mesma API que Opus — só muda o preço e talvez alguns milissegundos de latência.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM IMPORTA",
+            "title": "Democratização real de IA",
+            "highlight": "Democratização",
+            "body": "Pra empreendedor: antes precisava pagar US$ 25/output — agora tá grátis com Sonnet 5. Pra freelancer: pode usar reasoning native sem gastar tokens no Opus. Pra startup: baseline de qualidade subiu e custo desceu. Pra Brasil especialmente: acessibilidade aumentou em 5x (BRL tem menor poder de compra em API).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O QUE CABE LEVAR",
+            "title": "Deflação de IA virou vantagem competitiva",
+            "highlight": "deflação",
+            "body": "Enquanto a margem por token evaporava (100x mais barato em 3 anos), Anthropic usou volume + dados + eficiência pra fazer um modelo que custa pouco mas entrega muito. Não é sacrifício — é otimização. Quem não fizer esse jogo em 6 meses vira legacy.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Testa Claude Sonnet 5 agora",
+            "highlight": "agora",
+            "body": "Entra em claude.ai, abre um chat novo e vê que Sonnet 5 é a default. Testa pra ver a diferença: reasoning nativo, visão, contexto longo. Depois volta aqui e me avisa o que achou (manda DM @rafaondei ou comenta).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "GPT-5.6 chegou: Sol, Terra, Luna (3 tiers)",
+      "summary": "OpenAI lançou publicamente GPT-5.6 em 9 de julho com três variantes: Sol (flagship reasoning), Terra (balanceado, 2x mais barato que GPT-5.5), e Luna (rápido e acessível). Preços: Sol $5/$30, Terra $2.50/$15, Luna $1/$6. Modelo submetido ao governo por 30 dias antes do lançamento, marcando primeira vez que EUA regulamenta lançamento de IA.",
+      "source": "OpenAI Blog",
+      "link": "https://openai.com/news/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "GPT-5.6: três modelos para três tipos de tarefa",
+        "caption": "OpenAI acabou com a confusão: lançou não um, mas TRÊS modelos GPT-5.6 no dia 9 de julho — Sol pra reasoning pesado, Terra pra produção, Luna pra rapidez. Preços variam 5x (Luna US$ 1, Sol US$ 30 em output). Primeiro grande lançamento onde o governo EUA olhou 30 dias antes de liberar (não é aleatório — significa que potencial de risco foi flagged). Pra who: quem precisa variar entre power/custo/speed sem trocar de api. Impacto: mercado vai se especializar por tier, não por company. #OpenAI #GPT #IA\n\nSalva esse post + segue @rafaondei pra mais radar de mercado de IA",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "MUDANÇA DE JOGO",
+            "title": "OpenAI lança 3 modelos de uma vez",
+            "highlight": "3 modelos",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "PREÇO VARIA 5X",
+            "title": "Luna $1, Sol $30 output por 1M tokens",
+            "highlight": "$1 vs $30",
+            "body": "GPT-5.6 saiu em 3 sabores: Luna (US$ 1 input / 6 output), Terra (US$ 2.50 / 15 output), Sol (US$ 5 / 30 output). Mesma IA, diferentes trade-offs. Luna é o mais barato; Sol é o mais pensador (reasoning nativo). Terra tá no meio e é 2x mais barato que GPT-5.5.",
+            "stat": "3",
+            "stat_label": "variantes diferentes de GPT-5.6",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "POR QUE AGORA?",
+            "title": "Governo EUA exigiu 30 dias de análise",
+            "highlight": "governo EUA",
+            "body": "Trump assinou ordem de AI cybersecurity em junho obrigando todas as companies a submeter seus modelos mais poderosos pra análise governamental 30 dias antes do lançamento público. É a primeira vez na história que EUA regula timing de lançamento de IA (não pode de surpresa). OpenAI respeitou. Primeira vez que vemos isso.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O QUE MUDA",
+            "title": "Specialization substitui monopoly",
+            "highlight": "specialization",
+            "body": "Era: 'GPT é o melhor, pago o preço que pedirem'. Agora: 'Qual tarefa? Qual orçamento? Uso Luna, Terra ou Sol'. Mercado vai se fragmentar por tier de reasoning + custo, não por company. Isso favorece players que conseguem manter 3 modelos em pé (poucos conseguem). Favorece OpenAI vs Claude uno.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "OS TRÊS SABORES",
+            "title": "Sol = thinking, Luna = speed, Terra = hybrid",
+            "highlight": "Luna",
+            "body": "Sol traz reasoning nativo (pensa antes de responder, mais seguro). Terra é balanceado pra produção (bom em tudo). Luna é only speed + efficiency (ótimo pra tasks repetidas, classificação, transformação sem creativity). A API é idêntica — só muda qual model=sol/terra/luna tu chama.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA SUA EMPRESA",
+            "title": "Custo de IA divide por 5 com Luna",
+            "highlight": "divide por 5",
+            "body": "Se hoje você tá pagando Sol ($5/$30), switch pra Luna ($1/$6) reduz custo em 5x. Só que Luna é fast, não é thinking — so task-specific. Pra 80% de tarefas (classificar, transformar, sumarizar), Luna é overkill. Pra founder: estruture batch jobs com Luna, reasoning jobs com Sol. Margin fica mais gorda.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO",
+            "title": "One model per price point é padrão agora",
+            "highlight": "padrão",
+            "body": "2023: competitors faziam um modelo melhor e pior. 2024: competiam por 1M tokens mais barato. 2026: estratégia é oferecer 3 modelos diferentes no mesmo ecosystem. Quem não fizer isso (Claude Sonnet único, Grok único, Llama open) vai perder participação em segmentos de custo baixo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Compara Sol vs Terra vs Luna",
+            "highlight": "Compara",
+            "body": "Entra em platform.openai.com, roda um prompt estruturado em todos os 3 e anota latência + qualidade. Vê qual faz mais sentido pro seu usecase. Luna pra batch? Terra pra tempo real? Sol pra reasoning? Depois compartilha qual escolheu.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Grok 4.5: performance Opus, preço 60% off",
+      "summary": "xAI lançou Grok 4.5 em 8 de julho com pricing agressivo ($2 input / $6 output) — 60% menos que Claude Opus 4.8 ($5/$25). Modelo foi treinado com colaboração de Cursor (que SpaceX compra por $60B) e domina coding + agentes. Usa arquitetura MoE, 2x token efficiency vs Claude, e vem com cache de 75% off ($0.50/M). Competição direta no throne do Opus.",
+      "source": "xAI / Axios",
+      "link": "https://x.ai/news/grok-4-5",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Grok 4.5: Opus-class por preço de Sonnet",
+        "caption": "Elon Musk lançou Grok 4.5 no dia 8 de julho e pressionou TUDO: performance Opus (mesmo reasoning, visão, código), cache 75% desconto, pricing US$ 2/6 vs Claude US$ 5/25. Treinado com Cursor (SpaceX). Modelo foi built pra coding + agentes — melhor do que Opus nesses dois. Pra who: developers que pagam US$ 25 output em Opus. Impacto: margin war oficial. Quem não corta preço vira legacy. #xAI #Grok #IA\n\nSalva esse post + segue @rafaondei pra mais radar de mercado de IA",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "A BOMBA DO DIA",
+            "title": "Grok 4.5: Opus-class por 60% off",
+            "highlight": "60% off",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "PREÇO MATA",
+            "title": "Grok $2/$6 vs Claude $5/$25",
+            "highlight": "$2/$6",
+            "body": "Grok 4.5 pricing: US$ 2/M input, US$ 6/M output. Claude Opus 4.8 (o king): US$ 5/M input, US$ 25/M output. Diferença: Grok é 60% mais barato em output (onde você paga mais). Cached input em Grok: US$ 0.50/M (75% off). Nunca cache foi tão barato em modelo de fronteira.",
+            "stat": "60%",
+            "stat_label": "desconto em output vs Opus",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "COMO NASCEU",
+            "title": "Grok treinado com Cursor (SpaceX compra)",
+            "highlight": "Cursor",
+            "body": "SpaceX comprou Cursor por $60 bilhões (maior tech acquisition da história). Elon usou a equipe + base de código pra treinar Grok 4.5. Resultado: modelo que domina em coding (MoE architecture, 128 experts). Não é só copy of Opus — é design diferente pra task diferente (code > general reasoning).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "A MUDANÇA",
+            "title": "Margin war entrou em nova fase",
+            "highlight": "margin war",
+            "body": "Anthropic foi agressiva com Claude Sonnet 5 (60% mais barato). OpenAI respondeu com 3 tiers (Luna muito barato). Agora Elon/xAI bate Opus direto no preço. Não é mais 'qual é o melhor' — é 'qual é o melhor PELO PREÇO'. Quem tá com margem gorda em US$ 25/output tá condenado em 3 meses.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "TÉCNICA DO GROK",
+            "title": "MoE + 2x token efficiency",
+            "highlight": "2x efficiency",
+            "body": "Grok usa Mixture of Experts (128 experts, ativos ~20 de cada vez — não tudo). Resultado: 2x token efficiency vs Claude. Quer dizer: Grok resolve um problema em 50 tokens; Claude em 100 tokens. Cache inteligente. Pode rodar em GPUs menos poderosas (melhor margin pra xAI).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA VOCÊ",
+            "title": "Suas contas de API caem 60%",
+            "highlight": "60%",
+            "body": "Se hoje tá gastando US$ 10k/mês em Claude Opus (agentic workloads, reasoning), switch pra Grok 4.5 cai pra US$ 4k/mês com mesma qualidade. Pra 500-person company: US$ 60k/ano em economia de IA. Ainda dá pra reinvestir em mais agents ou melhorar fine-tuning.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O PADRÃO",
+            "title": "Pricing converge pra commodity",
+            "highlight": "commodity",
+            "body": "Quando 3 players (Anthropic, OpenAI, xAI) entram em margin war simultaneamente, commoditization é fast. Até fins de 2026, output provavelmente tá em US$ 2-4/M todo frontier model. Diferenciação sai de 'quem é mais barato' pra 'quem tem melhor integração + governance'.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TESTE AGORA",
+            "title": "Abre conta na API de Grok",
+            "highlight": "API",
+            "body": "Vai em x.ai/api, pega token, roda um prompt que tá rodar em Opus, e compara resultado + latência. Se performar igual (ou melhor em coding), switch batch mais importante pra Grok. Depois vem contar pra gente quantos % economizou.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Claude Cowork expande: cloud + web + mobile",
+      "summary": "Anthropic disponibilizou Claude Cowork em cloud (claude.ai) além da app desktop. Cowork é a 'workspace escondida' de Claude — sync remoto de sessões, arquivos sincronizados entre web/iOS/Mac, focus settings para produtividade, e análise de padrões de trabalho. Lançado em junho, agora tá em public beta na web e desktop com iOS em andamento. Repositiona Claude como IDE colaborativo, não só chat.",
+      "source": "NBC News / Anthropic",
+      "link": "https://www.anthropic.com/news",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Claude Cowork: seu espaço privado de trabalho na IA",
+        "caption": "Claude Cowork é a feature que ninguém pediu mas TODOS precisam: workspace privado seu em Claude com sync automático entre web, desktop e mobile. Salva chats, projetos, artifacts, focus settings — tudo sincronizado. Análise de padrões: 'você trabalha melhor entre 14-16h'. 'Seus tópicos mais frequentes: código, marketing, research'. Virou essencial pra quem usa Claude 8+ horas/dia. Pra who: consultores, desenvolvedores, agências, creators. Impacto: transforms Claude de chat app pra plataforma de trabalho. #Claude #Cowork #IA\n\nSalva esse post + segue @rafaondei pra mais radar de mercado de IA",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "SUA WORKSPACE PRIVADA",
+            "title": "Claude Cowork: espaço só seu na IA",
+            "highlight": "workspace",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O QUE TEM",
+            "title": "Sync em 3 dispositivos + focus analytics",
+            "highlight": "3 dispositivos",
+            "body": "Cowork sincroniza tudo: chats, projetos, artifacts, preferências. Abre no Mac à noite, continua no iPad de manhã, finaliza no web à tarde — tudo em sync real-time. Melhor: análise built-in de como você trabalha: horário de pico, tópicos mais usados, padrões de foco. É tipo 'Spotify Wrapped' pra sua IA.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "CONTEXTO",
+            "title": "Lançado em junho, public beta agora",
+            "highlight": "público",
+            "body": "Anthropic lançou Cowork em private beta em junho com desktop app. Em julho tá em public beta na web (claude.ai). iOS tá vindo soon. A feature é resposta direta a feedback de usuários que pediam: 'quero acessar meu workspace em qualquer lugar sem perder contexto'.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O QUE MUDA",
+            "title": "Claude vira IDE, não só chat",
+            "highlight": "IDE",
+            "body": "Antes: Claude era chat bonito. Agora: é plataforma de trabalho com projeto, versioning (histórico de mudanças), focus modes (diferentes workspaces pra diferentes projetos), e análise de produtividade. Começa a parecer GitHub + Figma + Claude juntos (pra AI work specificamente).",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO USA",
+            "title": "Projetos + artifacts + collaboration",
+            "highlight": "Projetos",
+            "body": "Cria um projeto ('Meu livro', 'API de e-commerce'), invita outros (share link), Cowork rastreia quem editou quê. Artifacts (código, documentos) ficam versionados — não tem mais 'perdi o draft'. Todos sincronizam automaticamente em real-time se estão no mesmo projeto.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "NA PRÁTICA",
+            "title": "Tira overhead de 'where did I save this'",
+            "highlight": "overhead",
+            "body": "Consultor que tá em 5 clientes: não precisa mais usar Notion + Google Drive + Claude. Tudo tá em Claude com workspace separado. Desenvolvedor que muda entre laptop/desktop: código tá sempre em sync. Criador que trabalha de vários lugares: sem 'deixei isso aberto em outro dispositivo'.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "PADRÃO",
+            "title": "AI como plataforma > AI como ferramenta",
+            "highlight": "plataforma",
+            "body": "Antes: IA era táxi (usa quando precisa). Agora: IA é seu escritório. Cowork tá criando stickiness massiva — quanto mais você usa, mais útil fica (analytics, workspace customization, collaboration history). Quem não tiver isso em 2026 perde usuário.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TESTE",
+            "title": "Ativa Cowork no seu Claude",
+            "highlight": "Claude",
+            "body": "Entra em claude.ai, vai em Settings > Cowork, ativa. Cria um novo projeto com nome de verdade ('Radar de IA', 'Landing page cliente'). Usa pra próximas 3 days. Se não virar seu workspace principal, eu como o computador.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Llama 4 Maverick bate GPT-4o em benchmarks",
+      "summary": "Meta lançou Llama 4 com dois sabores: Scout (17B, cabe em 1 GPU, 10M tokens) e Maverick (400B MoE, 10M tokens, primeira multimodal open-weight). Maverick supera GPT-4o em vários benchmarks (MMLU, HumanEval, GPQA). Ambos disponíveis em llama.com e Hugging Face para download open-source. Significa que open-source finalmente converge com proprietary em fronteira.",
+      "source": "Meta AI Blog",
+      "link": "https://ai.meta.com/blog/llama-4-multimodal-intelligence/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Llama 4: open-source bate proprietary pela primeira vez",
+        "caption": "Meta dropou Llama 4 em maio e ninguém acreditou. Maverick é 400B, multimodal, 10M tokens, open-source, e supera GPT-4o em MMLU + HumanEval + GPQA. Scout é 17B e roda em GPU única. Ambos disponíveis free em llama.com + Hugging Face pra download. Isso não é brinquedo — é convergência real. OpenAI fez proprietary, Meta fez open. Resultado: open ganhou em alguns benchmarks. Pra who: todos que não têm acesso ou controle proprietary. Impacto: open-source virou competitive tier, não alternativa. #Llama #Meta #OpenSource\n\nSalva esse post + segue @rafaondei pra mais radar de mercado de IA",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "MARCO HISTÓRICO",
+            "title": "Open-source bate GPT-4o no benchmark",
+            "highlight": "bate GPT-4o",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "OS NÚMEROS",
+            "title": "Maverick 400B supera GPT-4o em 3 testes",
+            "highlight": "Maverick",
+            "body": "MMLU (conhecimento geral): Maverick ganha. HumanEval (código): Maverick ganha. GPQA (PhD-level science): Maverick ganha. Em reasoning, GPT-4o ainda tira zero — GPT-5.6 Sol é o king. Mas pra tarefas de conhecimento + código + visão, Maverick tá na frente (e tá free).",
+            "stat": "3",
+            "stat_label": "benchmarks onde Maverick supera GPT-4o",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "A HISTÓRIA",
+            "title": "Meta apostou em open quando ninguém apostava",
+            "highlight": "open",
+            "body": "2024: Llama 3 tava 2 anos atrás. 2025: Meta contratou researchers top, construiu data pipeline, treinamento em TensorFlow no TPU-v5. Resultado: Llama 4 em maio 2026, multimodal native (primeira open-source assim), MoE puro (não adapter que cheira a hack).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O QUE MUDA",
+            "title": "Open-source virou tier competitivo real",
+            "highlight": "competitivo",
+            "body": "Antes: 'open-source é 80% proprietary'. Agora: 'open-source é 100%, melhor em alguns pontos'. Empresa pode fazer choose: paga US$ 5/M (Opus), paga US$ 2/M (Grok), ou roda Maverick on-premise grátis com GPU. Não é tradeoff mais — é option.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "OS DOIS SABORES",
+            "title": "Scout = edge, Maverick = data center",
+            "highlight": "Scout",
+            "body": "Scout: 17B, MoE (12B effective), cabe em 1 GPU de consumer (H100). Melhor pra edge + local. Maverick: 400B total, 128 experts, 17B active per token. Precisa de cluster (64x H100). Ambos: 10M token context, natively multimodal (imagem + texto), função calling nativo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "NA SUA EMPRESA",
+            "title": "Proprietary não é mais necessário",
+            "highlight": "necessário",
+            "body": "Se hoje tá usando GPT-4o em on-premise (por compliance/latency/custo), pode fazer switch pra Maverick direto. Melhor: modelo é seu, não tem vendor lock, tá livre pra fine-tune. Desvantagem: infraestrutura de GPU tá cara (H100 tá US$ 40k/mês aluguel). Trade-off: software livre vs infraestrutura cara.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO",
+            "title": "Escala + dados beats proprietary agora",
+            "highlight": "Escala",
+            "body": "Llama ganhou não porque Meta é smarter que OpenAI. Ganhou porque tá running em 10M Meta data points (Facebook, Instagram, WhatsApp). OpenAI tá correndo só com web. Vencedor agora é quem tem data, não quem tem research papers.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TESTE",
+            "title": "Download Llama 4 e compara",
+            "highlight": "Download",
+            "body": "Vai em llama.com, baixa Maverick (75GB) se tiver GPU/cluster. Se não tiver, baixa Scout (5GB) e roda local. Roda mesmo prompt que roda em ChatGPT/Claude/Grok. Compara resultado + latência. Depois me avisa se quer on-premise mesmo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Cursor iOS + agentes remotos (sempre-on)",
+      "summary": "Cursor lançou iOS em public beta com suporte a agentes remotos (rodando em cloud sandboxes enquanto você faz outra coisa), Remote Control (gerencia código remoto), live notifications, e mobile review tools. Cursor 3.0 é full agent-first (não IDE copilot), com BugBot automático nos PRs, MCP server integration, e Team MCPs pra enterprise. Bloomberg reporta: receita de Cursor cresceu pra US$ 2B/ano (doubled em 3 months).",
+      "source": "Releasebot / Bloomberg",
+      "link": "https://cursor.com/",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Cursor iOS: agentes que trabalham enquanto você dorme",
+        "caption": "Cursor é agora uma plataforma completa: iOS app com agentes remotos que rodam em cloud, BugBot automático nos PRs, MCP integration pra qualquer ferramenta. Deixa um agent fazendo refactor em pano de fundo (ler codebase, editar 50 arquivos, rodar testes, iterar) enquanto tu vê Netflix. Funciona. Bloomberg: Cursor cresceu pra US$ 2B/ano receita em 3 meses. Pra who: times de eng que querem automação real de código. Impacto: IDE virou agent orchestrator. #Cursor #Agents #IA\n\nSalva esse post + segue @rafaondei pra mais radar de mercado de IA",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "AGENTES QUE TRABALHAM PRA VOCÊ",
+            "title": "Cursor iOS + remote agents",
+            "highlight": "remote agents",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "RECEITA EXPLODE",
+            "title": "Cursor: US$ 2B/ano, cresceu 2x em 3 meses",
+            "highlight": "$2B/ano",
+            "body": "Bloomberg reportou que Cursor cresceu de US$ 1B pra US$ 2B em receita anual entre abril e julho de 2026. Não é exagero — é modelo SaaS real: US$ 20/mo × millions de usuários + enterprise plans US$ 500-1000/mo. Cursor virou o maior AI IDE da história em receita.",
+            "stat": "2x",
+            "stat_label": "crescimento em 3 meses",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE VIROU",
+            "title": "De copilot em IDE pra agent orchestrator",
+            "highlight": "agent",
+            "body": "Cursor 1.0 era VS Code fork com Claude. Cursor 3.0 é plataforma de agents: desktop app (Mac/Windows/Linux), IDE clássico, agora iOS mobile com cloud-backed agents. Agentes rodam em cloud sandbox — você tá no iPad checando email, agent tá no data center refatorando 50 arquivos.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "A VIRADA",
+            "title": "Developers agora têm personal AI team",
+            "highlight": "personal AI team",
+            "body": "Antes: você codava, copilot sugeria autocomplete. Agora: você pede 'refactor esse padrão em 50 arquivos', deixa rodando, volta em 2h e agent terminou tudo (tá tudo no git, pronto pro review). É transformação de papel de developer: de 'executor' pra 'reviewer/architect'.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Background agents + BugBot + MCP",
+            "highlight": "BugBot",
+            "body": "Background Agents: rodam em cloud, leem todo código, editam arquivos, rodam testes, iterating até task terminar (ou hit guardrail). BugBot: automatic PR review (vê cada commit, encontra bugs, comenta inline). MCP: integra com Slack/Git/Jira/Postgres — agent pode trigger workflows.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "NA PRÁTICA",
+            "title": "Velocity de eng sobe 3x com agents",
+            "highlight": "3x",
+            "body": "Time de 10 engineers com Cursor agents tá fazendo output de 30. Não porque são 3x mais smart — porque tá automating 70% de 'chore work' (refactor, tests, docs, types). Deixa developer focus em design/architecture (que é onde human é melhor). Economia real: US$ 500k/year pra startup de 10 engineers.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "PADRÃO",
+            "title": "IDE de 2026 é orchestrator, não editor",
+            "highlight": "orchestrator",
+            "body": "VS Code (2015) permitia extension. Cursor (2026) permite agents. Próximo tá chegando: agents que coordenam outros agents (agent swarm). Quando isso normalizar, 'developer' mudou — é mais 'AI team lead' que 'keyboard warrior'.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TESTE",
+            "title": "Instala Cursor + deixa agent rodar",
+            "highlight": "agent",
+            "body": "Download em cursor.com, open seu projeto (GitHub). Pede pro agent 'adiciona types em todas as funções'. Deixa rodando (vai rodar 1h). Volta depois de trabalhar em outra coisa. Se 90% tá correto, Cursor é seu novo setup.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Veo 3.1: 4K video, Sora descontinuado",
+      "summary": "Google Veo 3.1 é o modelo de vídeo líder em 2026: gera vídeo em true 4K (3840x2160) a 60fps com áudio sincronizado em single pass. Sora (OpenAI) foi descontinuado em 26 de abril após queimar US$ 15M/dia em compute enquanto gerava apenas US$ 2.1M lifetime revenue. Veo 3.1 Fast custa US$ 0.10/segundo de vídeo — commodity pricing. Market dominance: Veo lidera em qualidade + custo.",
+      "source": "Google / Tech Media",
+      "link": "https://ai.google.dev/gemini-api/docs/changelog",
+      "category": "ferramenta",
+      "recommended": true,
+      "carousel": {
+        "theme": "Sora morreu. Veo 3.1 virou padrão.",
+        "caption": "PLOT TWIST: Sora, que custava US$ 30/min no pico, queimava US$ 15M/dia e OpenAI descontinuou em abril. Fez só US$ 2.1M lifetime. Veo 3.1 é agora o PADRÃO de vídeo: 4K nativo (3840x2160), 60fps, áudio sync, US$ 0.10/segundo (3000x mais barato). Google tá esfacelando a concorrência. Pra who: criadores, agências, marketeers, startups de vídeo. Impacto: video generation virou commodity. Quem tava apostando em Sora ou Runway: era pra ter visto isso vindo. #Veo #Video #Google\n\n🔥 Recomendado pra viralizar — mercado inteiro virou upside down em 90 dias.\n\nSalva esse post + segue @rafaondei pra mais radar de mercado de IA",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "O COLAPSO DO ANO",
+            "title": "Sora morreu. Veo 3.1 é o novo rey",
+            "highlight": "Veo",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "OS NÚMEROS SÃO BRUTAIS",
+            "title": "Sora: US$ 15M/dia queimado vs US$ 2.1M lifetime",
+            "highlight": "$15M/dia",
+            "body": "Sora era custosissimo: custo de compute era US$ 15M/dia (não por acidente — por design: raw diffusion model, neural rendering, cada frame renderizado de zero). Receita lifetime: US$ 2.1M total. Quebra: em 1 dia de operação, Sora perdia mais dinheiro que faturava em toda a história.",
+            "stat": "7071x",
+            "stat_label": "mais custo que receita (por dia)",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE ACONTECEU",
+            "title": "Sora descontinuado 26 de abril de 2026",
+            "highlight": "descontinuado",
+            "body": "OpenAI anunciou: 'API Sora descontinuada. Web app e iOS app fecham em 26 de abril.' Motivo não foi dito, mas números falam: modelo tá inviável. Veo 3.1, que Google lançou 3 meses antes, tá 1000x mais barato operacionalmente. Mercado escolheu.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "A VIRADA",
+            "title": "Vídeo IA virou commodity em 2026",
+            "highlight": "commodity",
+            "body": "2024: video era 'future feature' (hype). 2025: Sora era 'premium US$ 30/min' (scarcity). 2026: Veo 3.1 é US$ 0.10/sec = US$ 6/min (99.8% mais barato). Quando commodity chega, vencedor toma tudo + perdedores saem. Sora saiu. Kling/Runway vira niche.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "POR QUE VEO É BARATO",
+            "title": "Diffusion + latent space = engineering melhor",
+            "highlight": "Diffusion",
+            "body": "Veo usa diffusion em latent space (não pixel space como Sora). Resultado: mesma qualidade, 1000x menos compute. 4K nativo (não upscale). Audio sync em single pass (não separate model). Tudo isso é engineering, não research — mas engineering wins no mercado vs research.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "IMPACTO REAL",
+            "title": "Vídeo agora é ferramenta pra todos",
+            "highlight": "todos",
+            "body": "Criador de YouTube pode fazer video 4K com IA por US$ 0.10/min (ao invés de US$ 30 ou esperar 2 dias em Runway). Agência pode fazer 50 versões de um anúncio em 4K por US$ 30 total. Startup de vídeo tem margin (compra Veo US$ 0.10, vende US$ 1, margin 10x). Mercado destranca.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "PADRÃO",
+            "title": "Premium não dura quando commodity chega",
+            "highlight": "commodity",
+            "body": "Sora foi premium (2024-2025). Veo virou commodity (2026). Padrão: quando 2 players competem em tarefa idêntica, mercado comprime preço 100x em 12 meses. Quem quer margem precisa ficar em cutting edge (next task que ninguém faz ainda). Commodity é jogo de scale, não margem.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TESTE AGORA",
+            "title": "Gera 1 video em Veo, anota custo",
+            "highlight": "custo",
+            "body": "Vai em ai.google.dev, acessa Veo 3.1. Gera um video 4K com prompt estruturado. Anota: 'gastei US$ X por X segundos de output'. Roda mesmo prompt que rodia em Sora (se tiver acesso legacy). Compara resultado + custo + tempo. Veo ganha em tudo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Perplexity Computer em Microsoft 365",
+      "summary": "Perplexity integrou seu agente 'Computer' (que gerencia desktop, roda ferramentas, acessa web) diretamente em Microsoft 365 (Word, Excel, PowerPoint, Outlook, Teams). Lançado em junho, é resposta direta ao Copilot da Microsoft. Perplexity tá em 100+ enterprise customers (crescimento 50% MRR em agentes). Valuation: US$ 22.6B Series E-6 (janeiro 2026). Receita: ~US$ 450-500M ARR com Computer agente como motor.",
+      "source": "VentureBeat",
+      "link": "https://www.perplexity.ai/enterprise",
+      "category": "aplicação",
+      "recommended": false,
+      "carousel": {
+        "theme": "Perplexity Computer: agente dentro do seu Microsoft 365",
+        "caption": "Microsoft dormiu enquanto Perplexity entrava em Word, Excel, PowerPoint, Outlook, Teams. Computer Agent roda DENTRO de Microsoft 365 (não é plugin — é integração nativa). Pode ler seu documento, ir na web, chamar dados, voltar pra sheet com resposta. 100+ enterprise customers em 1 fim de semana quando lançou. Receita de Perplexity: US$ 450-500M/ano. Valuation: US$ 22.6B. Pra who: enterprises que tão em Microsoft 365. Impacto: Microsoft tá perdendo seu próprio mercado pra startup. #Perplexity #Microsoft365 #Agents\n\nSalva esse post + segue @rafaondei pra mais radar de mercado de IA",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "MICROSOFT DORMIU",
+            "title": "Perplexity Computer em Microsoft 365",
+            "highlight": "Microsoft 365",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "A INVASÃO",
+            "title": "Computer roda em Word, Excel, PowerPoint, Outlook",
+            "highlight": "Word, Excel",
+            "body": "Perplexity integrou Computer agent (seu agente que gerencia desktop e web) direto em Microsoft 365. Exemplo: abre Word, pede ao agent 'search web pra dados de mercado no documento'. Agent vai na web, volta com dados, inserção no documento. No Excel: agent lê a sheet, calcula, roupa, tudo automaticamente.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "CONTEXTO",
+            "title": "Lançado junho, 100 customers em 1 fim de semana",
+            "highlight": "100 customers",
+            "body": "Perplexity lançou integração em junho. 100+ empresas pediram acesso em 1 fim de semana. Microsoft Copilot tá em Word/Excel/PowerPoint desde 2024, mas é limited — só token completion. Perplexity Computer é agent de verdade — pode ler, pensar, agir.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O IMPACTO",
+            "title": "Microsoft tá perdendo seu próprio mercado",
+            "highlight": "mercado",
+            "body": "Microsoft 365 é o jeito que 90% das empresas trabalha (Word, Excel, Outlook). Microsoft deveria ter colocado agente nativo em 2024. Perplexity entrou em 2026 e tá liderando porque Computer agent é REAL (não é 'smart autocomplete' como Copilot).",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Computer lê seu Office + web + tools",
+            "highlight": "web",
+            "body": "Computer Agent: integração nativa com Microsoft Graph (seus dados em 365). Acesso a web search, Bing, APIs internas. Pode chamar functions (enviar email, atualizar sheet, listar emails). Tudo sync em real-time no seu Office. É tipo 'agent que vive dentro de Word'.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "NA EMPRESA",
+            "title": "Reduz 20% de \"chore work\" do knowledge worker",
+            "highlight": "20%",
+            "body": "Knowledge worker típico gasta 40% do tempo em 'buscar dados e preencher tudo em lugar certo'. Computer agent reduz isso pra 20% (agent busca, preenche, valida). 5-person team: economiza 2 pessoa-dias/semana. Pra empresa de 500: são 200 pessoa-dias/semana = US$ 2M/ano em economia.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "PADRÃO",
+            "title": "Plataforma tira valor quando agent entra",
+            "highlight": "agent",
+            "body": "Microsoft 365 era plataforma de tools (Word, Excel, email). Com agent, virou platform de automação. Mesmo aconteceu com Slack (dormiu 5 anos, agora tá em agent war), e vai acontecer com Salesforce, Jira, qualquer SaaS. Se não tiver agent nativo em 2027, tá lascado.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PEDE ACESSO",
+            "title": "Assina Perplexity Enterprise",
+            "highlight": "Enterprise",
+            "body": "Entra em perplexity.ai/enterprise, pede demo. Se tua empresa tá em Microsoft 365, Computer Agent vale toda a subscription. Negocia enterprise license (US$ 325/seat/mês mas com agent integration é bargain).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "DeepSeek V4: pricing permanente 75% off",
+      "summary": "DeepSeek confirmou em julho que redução de 75% em preço de V4 é permanente (não era promotional como suspeitavam). V4 Pro: input US$ 0.003625/M, output até US$ 0.87/M. V4 Flash: US$ 0.14/$0.28. Suporta 1M context, thinking/non-thinking modes, function calling, JSON output. Lançamento oficial de V4 em mid-julho marca fim da preview (legacy modelos deepseek-chat/deepseek-reasoner retiram-se 24 de julho). China tem pricing 2x durante pico-hours (9-12 e 14-18 Pequim).",
+      "source": "DeepSeek / Engadget",
+      "link": "https://api-docs.deepseek.com/quick_start/pricing/",
+      "category": "benchmark",
+      "recommended": false,
+      "carousel": {
+        "theme": "DeepSeek V4: frontier-grade por preço de commodity",
+        "caption": "DeepSeek confirmou: desconto de 75% em V4 Pro não era promo — é permanente. US$ 0.003625 input, até US$ 0.87 output (vs Claude Opus US$ 5/$25). Que virou tática? China quer commodity IA em escala, não margem. 1M context, thinking mode, tudo igual Opus. Lançamento oficial em mid-julho retira legacy models. Peak pricing em Beijing: 2x baseline. Pra who: cost-sensitive users, enterprises com volume. Impacto: pricing converge pra commodity. Quem tiver margem gorda em 2027 tá vivendo em 2024. #DeepSeek #Pricing #IA\n\nSalva esse post + segue @rafaondei pra mais radar de mercado de IA",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "NÃO ERA PROMO",
+            "title": "DeepSeek 75% off é permanente",
+            "highlight": "permanente",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O PREÇO AGORA",
+            "title": "V4 Pro: US$ 0.003625 input (frontier-grade)",
+            "highlight": "$0.003625",
+            "body": "DeepSeek V4 Pro: input US$ 0.003625/M tokens, output até US$ 0.87/M. Isso é ~100x mais barato que Claude Opus quando lançou (US$ 5 input). V4 Flash é ainda mais barato: US$ 0.14 input, US$ 0.28 output. Suporta tudo: 1M context, thinking mode (reasoning), function calls.",
+            "stat": "75%",
+            "stat_label": "desconto permanente vs initial pricing",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "A ESTRATÉGIA",
+            "title": "China quer commodity, não margem",
+            "highlight": "commodity",
+            "body": "DeepSeek é startup chinesa backed by High-Flyer (fundo tech Alibaba/ByteDance). Estratégia: não compete em margin — compete em volume. 75% off permanente significa: objetivo é penetração de mercado, não lucro instant. Vai quebrar Alibaba? Não, High-Flyer tem cash infinita.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "A VIRADA",
+            "title": "Frontier-grade virou commodity",
+            "highlight": "commodity",
+            "body": "Antes: raciocínio complex = $25/M tokens (premium). Agora: raciocínio complex = US$ 0.87/M tokens (commodity). Se tinha margem em 'vender reasoning', essa margem evaporou. Quem não conseguir operar em US$ 0.87 pra reasoning = out of market em 12 meses.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO RODEIA",
+            "title": "Peak pricing 2x em Pequim (pico-hours)",
+            "highlight": "2x",
+            "body": "DeepSeek não tá fazendo cut global. Na China, tem peak-hours (9-12 e 14-18 Beijing time = UTC+8). Nessas horas, preço é 2x. Fora da China, flat rate. Significa: DeepSeek tá usando pricing como demand management (não ganância), pra gerenciar capacity.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "NA PRÁTICA",
+            "title": "Todos os frontiers precisam cortar preço em 90 dias",
+            "highlight": "cortar",
+            "body": "Anthropic, OpenAI, Google vão ter que responder. Se Claude Opus tá US$ 5 input e DeepSeek V4 tá US$ 0.003625, Anthropic tá perdendo clientes que só vão pra custo. Vão cortar? Sim, mas vão ficar com margin negativa (como Perplexity faz hoje — queimando cash pra ganhar mercado).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "PADRÃO",
+            "title": "China virou estratégia de mercado USA",
+            "highlight": "China",
+            "body": "OpenAI e Anthropic competem em 'melhor model', margin 50% + acesso. DeepSeek compete em 'maior volume', margin negativa + penetração global. Em 5 anos, volume strategy ganha sempre (exemplo: smartphones, cloud). USA não tem playbook pra isso.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TESTE PRICING",
+            "title": "Compara V4 vs Claude vs GPT-5.6",
+            "highlight": "Compara",
+            "body": "Roda um prompt pesado em DeepSeek V4, Claude Opus, GPT-5.6 Sol. Anota tokens used × preço em cada um. Geralmente: V4 custo = 1%, Claude = 150%, GPT-5.6 = 200%. Se margem importa, V4 é óbvio.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Benchmarks diversificam: HLE, ARC-AGI-2, FrontierMath",
+      "summary": "Landscape de benchmarks mudou radicalmente em 2026. Antes: GPQA Diamond era o king. Agora: Humanity's Last Exam (HLE, conhecimento absoluto), GPQA Diamond (PhD-level science), ARC-AGI-2 (reasoning novel que não pode ser memorizado), FrontierMath Tier 4 (problemas matemáticos hardest). Composite quality index combina MMLU Pro (57 subjects), HumanEval (code), MATH (math). Resultado: nenhum modelo é #1 em tudo — especialização é padrão (Opus melhor em reasoning, Veo melhor em video, Maverick melhor em code, Grok melhor em latency).",
+      "source": "BenchLM / LM Council",
+      "link": "https://benchlm.ai/",
+      "category": "benchmark",
+      "recommended": false,
+      "carousel": {
+        "theme": "Benchmarks de 2026: especialização, não ranking único",
+        "caption": "Parou de ter UM ranking de modelos. Agora tem 5-6 benchmarks diferentes, e cada modelo é #1 em algo. Claude lidera reasoning (HLE, ARC-AGI-2). Grok lidera latency (2x token efficiency). Veo lidera vídeo. Maverick lidera código aberto. Antes era simples: 'qual é o melhor'? Agora é: 'melhor pra quê'? Pra founder significa: escolha modelo baseado em seu use case, não no ranking geral (que não existe mais). #Benchmarks #IA #Especialização\n\nSalva esse post + segue @rafaondei pra mais radar de mercado de IA",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "PAROU DE TER RANKING",
+            "title": "Benchmarks 2026: especialização é padrão",
+            "highlight": "especialização",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "OS NOVOS TESTES",
+            "title": "5 benchmarks diferentes em 2026",
+            "highlight": "5 benchmarks",
+            "body": "2024: GPQA Diamond era teste de verdade. 2026: HLE (Humanity's Last Exam — conhecimento absoluto), GPQA Diamond (PhD-level), ARC-AGI-2 (reasoning novel), FrontierMath Tier 4 (math hardest), MMLU Pro (57 subjects), HumanEval (code), MATH (math). Cada modelo ganha diferente em cada um.",
+            "stat": "5",
+            "stat_label": "dimensões diferentes de avaliação",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "POR QUE MUDOU?",
+            "title": "Modelos saturaram GPQA Diamond",
+            "highlight": "saturaram",
+            "body": "Quando todos os modelos ficam acima de 95% em GPQA, benchmark tá morto (não discrimina mais). Comunidade de research criou testes mais duros: HLE (questões do Putnam / IMO traduzidas pra humano), ARC-AGI-2 (não pode memorizar — cada sample é novo).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O QUE MUDA",
+            "title": "Não existe 'modelo #1 em tudo'",
+            "highlight": "#1",
+            "body": "Claude Opus: melhor em reasoning e math (HLE, FrontierMath). Grok: melhor em latency + token efficiency. Veo: melhor em vídeo. Maverick: melhor em código open-source (HumanEval). Antes era 'qual é o melhor?' Agora é 'melhor pra quê?'",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Composite score combina 3 benchmarks",
+            "highlight": "Composite",
+            "body": "BenchLM criou composite score: 33% MMLU Pro (knowledge), 33% HumanEval (code), 34% MATH (math). Resultado: modelo generalist que tira bom em tudo, mas não extremo em nada. Modelos especialistas são 'top em um, mid em outros'.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "NA SUA ESCOLHA",
+            "title": "Escolhe modelo por use case, não ranking",
+            "highlight": "use case",
+            "body": "Se você precisa reasoning: Claude Opus. Se precisa código: Grok ou Maverick. Se precisa speed: GPT-5.6 Luna ou Grok Flash. Se precisa video: Veo. Antes era 'pega Claude e pronto' — agora é 'qual é seu problema?'",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "PADRÃO",
+            "title": "Fragmentação é saudável, não problema",
+            "highlight": "fragmentação",
+            "body": "Quando mercado tem 1 winner: morre de tédio (Microsoft Office 1995-2015). Quando tem 3-5 specs diferentes: criatividade explode. IA em 2026 tá nesse sweet spot — 5-6 modelos, cada um melhor em algo, nenhum dominando 100%. Tecnicamente é pior pra consumer (confunde); economicamente é melhor pra indústria.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "ATIVA HOJE",
+            "title": "Escolhe seu modelo por benchmark",
+            "highlight": "benchmark",
+            "body": "Vai em benchlm.ai ou lmcouncil.ai. Procura seu usecase (reasoning, code, speed, video). Anota qual modelo ganha em cada dimensão. Testa os top 2 pra seu problema. Depois escolhe por resultado real, não por hype.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    }
+  ],
+  "whatsapp": "🚀 RADAR IA — 11 de julho de 2026\n\n1. **Claude Sonnet 5 é agora default gratuito** — Anthropic fez Sonnet 5 o modelo padrão em claude.ai desde 1º julho. Performance Opus-level, 60% mais barato. 300M usuários ganharam upgrade de graça.\n\n2. **GPT-5.6 (Sol/Terra/Luna)** — OpenAI lançou 3 variantes em 9 de julho. Sol US$5/$30 (reasoning), Terra US$2.50/$15 (balanced), Luna US$1/$6 (speed). Primeiro lançamento que governo EUA regulou (30 dias antes).\n\n3. **Grok 4.5: Opus-class por 60% off** — xAI lançou Grok em 8 de julho com pricing US$2/$6 (vs Claude US$5/$25). Treinado com Cursor. Vencedor: budget-constrained teams.\n\n4. **Claude Cowork expande** — Cloud sync agora em web/desktop/iOS. Projetos, artifacts, focus analytics. Workspace que sincroniza entre dispositivos.\n\n5. **Llama 4 Maverick bate GPT-4o** — Meta: 400B multimodal open-source supera GPT-4o em MMLU/HumanEval/GPQA. Download livre em llama.com.\n\n6. **Cursor iOS + remote agents** — Agentes cloud que rodam enquanto você dorme. BugBot automático. Receita: US$2B/ano (dobrou em 3 meses).\n\n7. **🔥 Veo 3.1: 4K video, Sora morreu** — Google Veo 3.1 lidera (true 4K, 60fps, US$0.10/seg). OpenAI descontinuou Sora em abril (queimava US$15M/dia, fez US$2.1M lifetime). Market dominance: Veo.\n\n8. **Perplexity Computer em Microsoft 365** — Agent roda dentro de Word/Excel/PowerPoint/Outlook. 100+ enterprise customers. Receita Perplexity: US$450-500M/ano.\n\n9. **DeepSeek V4 permanente 75% off** — US$0.003625 input, até US$0.87 output. Frontier-grade por commodity pricing. Lançamento oficial mid-julho.\n\n10. **Benchmarks fragmentam** — Parou de ter ranking único. HLE, GPQA, ARC-AGI-2, FrontierMath agora. Cada modelo é #1 em algo (Claude reasoning, Grok speed, Veo video).\n\n→ Dashboard: https://rafaelondei.appnaia.com",
+  "instagram": "📊 RADAR IA — 11 JUL 2026 — os 10 maiores movimentos de mercado da semana\n\n💡 Claude Sonnet 5 virou default gratuito (Anthropic). Performance Opus-level, 60% mais barato. 300M usuários de upgrade de graça.\n\n🎯 GPT-5.6 chegou em 3 tiers: Sol ($5/$30 reasoning), Terra ($2.50/$15 balanced), Luna ($1/$6 speed). Primeiro lançamento regulado pelo governo EUA (30 dias antes era requisito).\n\n⚡ Grok 4.5 entrou na disputa: US$2/$6 vs Claude US$5/$25. Treinado com Cursor. Margin war oficial.\n\n🔧 Claude Cowork expande pra cloud + iOS. Sync automático entre web/desktop/mobile. Projetos versionados.\n\n🦙 Llama 4 Maverick (Meta): 400B open-source, supera GPT-4o em code + reasoning. Download libre.\n\n💻 Cursor iOS + remote agents — agentes cloud 24/7. Receita: US$2B/ano.\n\n🎬 Veo 3.1 domina video (4K, 60fps, US$0.10/seg). Sora descontinuado (perdia US$15M/dia).\n\n📊 Perplexity em Microsoft 365 — agente dentro de Word/Excel/Outlook. 100+ clientes enterprise.\n\n💰 DeepSeek V4 permanente 75% off — frontier-grade por commodity pricing.\n\n📈 Benchmarks fragmentam — nenhum modelo é #1 em tudo. Especialização é padrão agora.\n\n🔥 Recomendação viral: Veo matando Sora é o plot twist da era de IA. Disrupção total em 90 dias.\n\n#IA #Claude #OpenAI #Perplexity #DeepSeek #InteligenciaArtificial #Mercado #Tecnologia #Empreendedorismo #Startups"
+}
