@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-07-10T07:00:01-03:00",
+  "updated_at": "2026-07-12T07:00:01-03:00",
   "executions": [
+    {
+      "date": "2026-07-12",
+      "key": "2026-07-12",
+      "topic": "mercado de IA",
+      "summary": "Grok 4.5 Opus-class $2/$6 (75% off Claude). Anthropic $47B ARR (ultrapassa OpenAI). Claude Cowork web/mobile 24/7. OpenAI GPT-5.6 Work (Sol/Luna/Terra). Meta Llama 4 Maverick open bate GPT-4o. Ollama $65M (open models produção-grade). Mistral robótica (Robostral Navigate). Perplexity Computer em Microsoft 365. GLM-5.2 chinês 80x customers/semana (unprecedented). Agentes 72% produção, 40% enterprise apps EOY.",
+      "items_count": 10
+    },
     {
       "date": "2026-07-10",
       "key": "2026-07-10",

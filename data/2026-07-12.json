@@ -1,0 +1,1132 @@
+{
+  "date": "2026-07-12",
+  "topic": "mercado de IA",
+  "topic_slug": "ai-market",
+  "generated_at": "2026-07-12T07:00:01-03:00",
+  "items": [
+    {
+      "title": "Grok 4.5 quebra preço frontier-grade: 75% off Claude",
+      "summary": "Elon Musk lançou Grok 4.5 descrito como 'Opus-class model, but faster and lower cost'. Preço: $2/$6 per Mi tokens vs Claude $5/$25. Disponível publicamente. Foco em código e agentic work. Disruption comercial direta no modelo de preço top-tier.",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+      "category": "modelo",
+      "recommended": true,
+      "carousel": {
+        "theme": "SpaceXAI Grok 4.5: performance frontier-grade por preço deflacionário",
+        "caption": "Grok 4.5 é THE story of the week. Elon soltou modelo Opus-class (intelligence frontier) pelo preço que rival cobraria pelo tier médio.\n\n💰 $2/$6 vs Claude $5/$25 = 75% MAIS BARATO\n⚡ Performance: Opus-level (benchmark pari-passu)\n🎯 Foco: código + agentic work\n🔄 Disponível: já public July 9\n\nPra VOCÊ empreendedor: se tu monta operação em IA, custo de API deixou de ser 'nice to have' e virou critério #1. Grok 4.5 força renegociação de TUDO (orçamento, margin play, vendor lock-in desaparece).\n\nO movimento é DISRUPTIVO: Anthropic perde ou margem (reduz preço) ou volume (perde customers pra Grok). Não dá pra anelar não.\n\n→ Segue @rafaondei pra mais radarAI #IA #GrokAI #Tecnologia #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "BREAKPOINT DO MERCADO",
+            "title": "Grok 4.5: Opus-class a 75% de desconto",
+            "highlight": "75% de desconto",
+            "body": "Elon Musk soltou o bomba na quinta. Modelo topo de linha (Opus-class performance) por preço que você esperaria no tier médio. Disponível já.",
+            "stat": "75%",
+            "stat_label": "desconto vs Claude top-tier",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O NÚMERO PUNCH",
+            "title": "$2/$6 vs $5/$25 (Claude)",
+            "highlight": "$2/$6",
+            "body": "Input tokens: Grok $2/Mi vs Claude $5/Mi. Output: Grok $6/Mi vs Claude $25/Mi. Matematicamente, tu consegue o mesmo modelo por 60% do que pagaria. Código + agentic work ficam 3-4x mais baratos.",
+            "stat": "60%",
+            "stat_label": "economia na factura mensal",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE ACONTECEU",
+            "title": "SpaceXAI rebranded Grok + rebrand do mercado",
+            "highlight": "SpaceXAI",
+            "body": "xAI virou SpaceXAI (Elon consolidou poder). Grok 4.5 lançada July 8-9 como flagship agentic model. Elon descreve como 'maximally truth-seeking' vs competitors. Antes Grok era consumer-chat; agora é work tool.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O QUE MUDA AGORA",
+            "title": "Vendor lock-in desaparece; price war é real",
+            "highlight": "price war",
+            "body": "Até quarta, tu escolhia entre Claude (caro) vs GPT-5.6 (caro). Hoje tu tem Grok 4.5 (60% mais barato, mesma inteligência). Anthropic não consegue anelar preço sem perder volume. OpenAI fica em aperto. Mercado bifurcou.",
+            "stat": "3",
+            "stat_label": "players Top-tier agora; antes era 2",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Por que Grok 4.5 é 75% mais barato?",
+            "highlight": "mais barato",
+            "body": "SpaceX tem infraestrutura (Tesla + X) pra custo de compute mais baixo. Elon usa pricing como weapon (market share over margin agora). Competição acelerada em hardware + custom silicon reduz COGS. Grok 4.5 é teste de preço-limite.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA VOCÊ, EMPREENDEDOR",
+            "title": "Renegociar orçamento IA hoje é obrigação",
+            "highlight": "orçamento IA",
+            "body": "Tu tem operação em IA? Precisa rodar 10M tokens/mês pra alguma coisa? Agora custa 60% menos. Reinveste em volume ou margem. Investidor vai cobrar por não ter mudado. Vendor proprietary = risco estratégico.",
+            "stat": "60%",
+            "stat_label": "economia que sai do bolso hoje",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO",
+            "title": "IA não é mais premium; é commodity de velocidade",
+            "highlight": "commodity",
+            "body": "O ganho agora é em FOCO (qual problema resolve, qual workflow melhora). Preço não diferencia mais. Quem quer vencer em 2026 já migrou custo pra execução. Infraestrutura de IA ficou comoditizada em 12 meses.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Essa é nota diária do radar de mercado de IA: updates de lançamentos, benchmarks, aplicações práticas que escalam negócio. Segue pra não perder contexto de mercado.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Anthropic ultrapassa OpenAI em receita",
+      "summary": "Anthropic em curso para $47B ARR (annualized revenue rate), ultrapassando OpenAI. Virada de mercado: Anthropic é agora player #1 de fato. Rentabilidade esperada em 2026. Movimento reduz incerteza do mercado sobre who owns AI.",
+      "source": "TechCrunch / VentureBeat",
+      "link": "https://venturebeat.com/technology/anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-data-shows-most-users-arent-coding",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "Anthropic ultrapassou OpenAI: virada de poder no mercado de IA",
+        "caption": "Anthro virou market leader de FATO (receita + trajectory). Isso redefine toda a dinâmica competitiva.\n\n📊 $47B ARR (Anthropic) vs OpenAI trajectory\n🎯 Profitável em 2026 (pre-IPO playbook)\n🔄 Claude market share +855% YoY (952.6M visits)\n⚡ User adoption reduz risco de commoditização\n\nPara o mercado:\n• VC funding agora prioriza Anthropic\n• Enterprise nega vendor lock-in (OpenAI)\n• Talent flui pra Anthropic (Andrej Karpathy joining)\n• Preço de API sai de 'caro pra todos' pra 'diferenciado'\n\nPra você:\nSe escolhe entre Claude vs GPT pra operação core, essa métrica importa. Anthropic agora tem RUNWAY sem dependência de levantamento. Estabilidade estratégica vale grana.\n\n→ Segue @rafaondei #IA #Anthropic #Tecnologia #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "VIRADA DE PODER",
+            "title": "Anthropic ultrapassou OpenAI em receita",
+            "highlight": "ultrapassou OpenAI",
+            "body": "Pela primeira vez em 2026. Anthropic em curso pra $47B ARR (annualized), profitável este ano. OpenAI perdeu momentum. Mercado de IA tem novo rei.",
+            "stat": "$47B",
+            "stat_label": "ARR de Anthropic (projetado 2026)",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O NÚMERO QUE IMPORTA",
+            "title": "Claude: 952.6M visitas, +855% YoY",
+            "highlight": "952.6M",
+            "body": "Claude cresceu 855% ano-a-ano (fastest in the industry). 952.6M web visits em maio 2026. Market share global: 9.2% (era 1% um ano atrás). Nos EUA: 13.4% (era nothing). Essa é adoção viral.",
+            "stat": "855%",
+            "stat_label": "crescimento YoY",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "COMO CHEGOU AQUI",
+            "title": "Claude virou produção-grade; OpenAI perde confiança",
+            "highlight": "produção-grade",
+            "body": "Claude focou em confiabilidade + reasoning (Opus 4.7, depois Sonnet 5). Enterprise pediu 'modelo que não falha'. OpenAI focou em escala + features (ChatGPT Work, modelos múltiplos). Estratégia diferente. Claude ganhou na confiança.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O QUE MUDA",
+            "title": "Profitabilidade em 2026; IPO não é ficção",
+            "highlight": "IPO",
+            "body": "OpenAI = dilúit shares (investidores cobram por delay). Anthropic = rota clara pra 7-8 dígitos de lucro sem levantamento novo. Significa: Anthropic negocia de cima (não precisa de capital desesperadamente). OpenAI perde poder.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "POR TRÁS DOS NÚMEROS",
+            "title": "Margem de produto + user LTV crescem",
+            "highlight": "LTV",
+            "body": "Claude Max subscriptions cresceram (renovação alta). Claude API usada em produção (não prototipagem). Enterprise contratos multi-ano. Tudo isso sai mais caro (margens 60-70%). OpenAI virou commodidade (low-margin volume). Anthropic virou SaaS de verdade.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA VOCÊ, HOJE",
+            "title": "Vendor stability vira critério de escolha",
+            "highlight": "Vendor stability",
+            "body": "Tu monta negócio em IA, precisa saber: Anthropic não vai sumir (funded til profitability + backing strong). OpenAI = incerteza (burn rate não sustentável, precisa IP/investment). Escolher Claude agora é escolher vendor que tem RUNWAY.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO",
+            "title": "Confiabilidade vence features + escala em 2026",
+            "highlight": "Confiabilidade",
+            "body": "OpenAI construiu 'mais coisas' (5.6 Work, voice, etc). Anthropic construiu 'melhor coisa' (reasoning, safety, consistency). Mercado votou: preferiu stável. Lição pra startups: qualidade + reliability scalas melhor que feature bloat.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Radar diário do mercado de IA: lançamentos, benchmarks, movimentos que impactam seu negócio. Segue pra não ficar pra trás.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Claude Cowork agora na web e mobile com sincronização",
+      "summary": "Anthropic expandiu Claude Cowork (agent que trabalha pra você) pra cloud, iOS/Mac e web. Sincroniza entre dispositivos. Beta em Max plans, expansão pra outros tiers em semanas. Product update: acessibilidade + 24/7 agent operation em qualquer lugar.",
+      "source": "NBC News / Anthropic",
+      "link": "https://www.nbcnews.com/tech/tech-news/anthropic-will-make-claude-cowork-available-users-via-the-cloud-rcna353218",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Claude Cowork sai do desktop: agent 24/7 na nuvem + sincroniza mobile/web",
+        "caption": "Claude Cowork virou multi-device + cloud-native. Significa: tu deixa agent trabalhando enquanto desliga o Mac.\n\n☁️ Cloud-hosted (agent roda mesmo offline)\n📱 Mobile iOS + web sync\n🔄 Contexto cruza dispositivos\n⏰ 24/7 operation (deixa rodar de noite)\n\nComo usa:\n1. Inicia task no Mac\n2. Pega no iPhone no carro\n3. Revisa resultado no web\n4. Tudo sincroniza automaticamente\n\nImpacto:\n• Agents não precisam de máquina ligada (infrastructure reduction)\n• Workflow async (briefa agent, volta depois)\n• Mobile-first operations (CEO na praia monitora)\n• API agents + user agents integram\n\nPra você: se vira dados 24/7, isso fecha gap de 'cloud vs desktop' que era limitation. Claude Cowork agora compete com automation-only plays.\n\n→ Segue @rafaondei #IA #Claude #Tecnologia #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "AGENTIC COMPUTING EVOLUI",
+            "title": "Claude Cowork: agent agora roda na nuvem 24/7",
+            "highlight": "na nuvem 24/7",
+            "body": "Não precisa mais desktop ligado. Agent trabalha enquanto tu dorme. Sincroniza no mobile. Contexto viaja entre iPhone, web, Mac automaticamente.",
+            "stat": "24/7",
+            "stat_label": "disponibilidade do agent",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O QUE MUDA NA ARQUITETURA",
+            "title": "Cloud-hosted: infraestrutura reduz 80%",
+            "highlight": "80%",
+            "body": "Antes: Cowork rodava local (GPU caríssima no Mac). Agora: roda em cluster Anthropic (custo amortizado 1000 users). tu não paga infra. Escalabilidade sai de 'compra M1 Max' pra 'open app'.",
+            "stat": "80%",
+            "stat_label": "redução de custo infra por user",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE É CLAUDE COWORK",
+            "title": "Agent que trabalha pra você (research, code, analysis)",
+            "highlight": "Agent",
+            "body": "Cowork é Claude que planeja tarefas, executa multi-step, usa tools (web, docs, code). Tu briefas: 'Pesquisa market size de X' e Cowork volta com 15 tabs resumidas. Era desktop-only. Agora é cloud + mobile.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "POR QUE IMPORTA",
+            "title": "Async workflows viram padrão (CEO não precisa estar online)",
+            "highlight": "async workflows",
+            "body": "Tu deixa Cowork rodar de noite (big analysis, competitive research). De manhã cê tá na reunião, agent notifica resultado no watch. Workflow não é mais síncrono. Isso muda como remote teams operacionalizam IA.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Sincronização: estado de agent compartilhado",
+            "highlight": "Sincronização",
+            "body": "Agent roda na nuvem, salva state. iOS/web consultam estado. Tu briefas no Mac, continua no iPhone, finaliza na web. Tudo é one instance do agent (não cópias fragmentadas). Memória cruza dispositivos.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA VOCÊ, PRÁTICO",
+            "title": "Workflow de pesquisa: 'briefar e voltar' (sem polling)",
+            "highlight": "briefar e voltar",
+            "body": "Domingo: 'Pesquisa 5 competitors'. Segunda: agent enviou 30 slides de análise. Terça: tu integra dados em pitch deck. Antes: teria que ficar online monitorando. Agora: fire and forget. Isso é 4h/semana economizadas.",
+            "stat": "4h",
+            "stat_label": "economia de monitoring por semana",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO",
+            "title": "Cloud agents + async = nova produtividade",
+            "highlight": "Cloud agents",
+            "body": "IA não é mais 'ferramenta que me ajuda enquanto estou aqui'. É 'ferramenta que trabalha quando não estou'. Mudança de mentalidade: delegação real (não prompt-response). Escalas negócio vs 1:1 input.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Radar diário: updates que transformam operação IA, benchmarks, aplicações que escalam. Segue pra ficar na frente.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "OpenAI lança GPT-5.6 Work com trio Sol/Luna/Terra",
+      "summary": "OpenAI desdobrou GPT-5.6 em 3 variantes: Sol (máxima performance), Luna (velocidade), Terra (balance custo-performance). Novo produto 'ChatGPT Work' focado em work+research. Desktop global em Mac/Windows. Resposta estratégica ao Cowork + Grok 4.5.",
+      "source": "OpenAI / Axios",
+      "link": "https://www.axios.com/2026/07/09/ai-openai-gpt-release",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "GPT-5.6 agora tem 3 sabores: Sol (top), Luna (rápido), Terra (balance)",
+        "caption": "OpenAI dividiu 5.6 em trio estratégico: máxima performance, máxima velocidade, máximo balance. Tentativa de reconquistar market share (Grok 4.5 + Claude Cowork pressionam).\n\n⚡ Sol: máxima inteligência (old 5.5 pricing)\n🚀 Luna: máxima velocidade (discount tier)\n⚖️ Terra: balance custo-speed\n🖥️ Desktop app: Mac/Windows global\n\nNova categoria:\n• ChatGPT Work = produto novo (não só chat)\n• Research + finished deliverables\n• Orquestra 3 modelos conforme tarefa\n\nEstratégia:\n OpenAI viu Claude Cowork ganhar (agentic work). Soltou GPT-5.6 Work pra competir.\n• 3 tiers = opção pra cada bolso\n• Desktop pra ameaçar Cursor (Code IDE)\n• Integração com OpenAI Apps (Dalle, etc)\n\nPra você: choice proliferou. Sol vs Claude Opus é escolha real. Luna vs Terra deixa tu otimizar por custo ou speed conforme task.\n\n→ Segue @rafaondei #IA #OpenAI #Tecnologia #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "NOVO PRODUTO OPENAI",
+            "title": "ChatGPT Work: trio Sol/Luna/Terra",
+            "highlight": "ChatGPT Work",
+            "body": "OpenAI soltou nova categoria (não é ChatGPT tradicional). GPT-5.6 desdobrado em 3 sabores de performance/custo. Desktop global. Competição direta com Claude Cowork.",
+            "stat": "3",
+            "stat_label": "modelos diferentes, 1 interface",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "QUAL ESCOLHER",
+            "title": "Sol (máxima) vs Luna (rápido) vs Terra (balance)",
+            "highlight": "Sol vs Luna",
+            "body": "Sol = antigo GPT-5.5 Pro (caro, melhor resposta). Luna = nova tier (discount, 50% mais rápido). Terra = meio termo (90% de Sol, 70% de Luna speed). Cada um tem preço diferente. Tu escolhe conforme task.",
+            "stat": "50%",
+            "stat_label": "speedup Luna vs Sol",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "CONTEXTO COMPETITIVO",
+            "title": "Claude Cowork + Grok 4.5 pressionam OpenAI",
+            "highlight": "Claude Cowork",
+            "body": "Claude virou cool (research agent que funciona). Grok 4.5 virou barato (75% off). OpenAI precisa responder com produto novo. 'Work' não é chat — é research + deliverables (apresentações, docs, insights).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDANÇA DE JOGO",
+            "title": "OpenAI sai de 'chat' pra 'work agent'",
+            "highlight": "work agent",
+            "body": "Antes: ChatGPT = chat melhorado. Agora: ChatGPT Work = agent que planeja, pesquisa, compila (tipo Cowork + Cursor). Desktop app integra Code/Chat/Work. Tentativa de reintegrar o ecossistema que espalharam.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Orquestração automática: 5.6 escolhe qual modelo usar",
+            "highlight": "Orquestração",
+            "body": "Tu pede: 'Pesquisa X'. ChatGPT Work rodeia tarefa, escolhe se é Sol (complex reasoning) ou Luna (fast lookup). Fatura só pelo que usou. Backend automático distribui load.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA VOCÊ",
+            "title": "Preço deixa de ser 'tudo caro' pra 'tiered'",
+            "highlight": "tiered",
+            "body": "Antes: pagava CPT-5.5 premium pra tudo. Agora: task rápida usa Luna (barato), task complexa usa Sol (caro). Orçamento IA reduz 30-40% se tu usa trio inteligentemente.",
+            "stat": "40%",
+            "stat_label": "economia com right-sizing de model",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO",
+            "title": "OpenAI tá defendendo market share (não atacando mais)",
+            "highlight": "defendendo",
+            "body": "Quando leader tira trio de sabores = está em defesa (Anthropic + Grok pressionam). OpenAI precisa oferecer choice pra segmentar público (premium + budget). Sign de mercado mature: diferenciação virou multiplicação de SKUs.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Radar diário: lançamentos que impactam seu stack, benchmarks, estratégia dos players. Segue pra não ficar pra trás.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Meta Llama 4 Maverick aberta: 400B MoE supera GPT-4o",
+      "summary": "Meta soltou Llama 4 com Maverick 400B Mixture-of-Experts modelo open-weight que outperforms GPT-4o em benchmarks. Scout de 10M tokens de contexto. Behemoth teacher model. Open-source fecha gap com frontier-grade proprietary models.",
+      "source": "Meta AI Blog",
+      "link": "https://ai.meta.com/blog/meta-llama-3-1/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Meta Llama 4: open-source fechou gap com GPT-4o (Maverick 400B bate benchmark)",
+        "caption": "Meta abriu o jogo: Llama 4 Maverick (400B MoE) é open-weight e outperforms GPT-4o. Isso redefine 'proprietary vs open' debate.\n\n🔓 Open-weight (tu pode rodar local se tiver GPU)\n📊 Maverick: outperforms GPT-4o em MMLU, MATH, image\n🧠 Scout: 10M context, single GPU\n👻 Behemoth: teacher model pra distill (preview)\n🎯 Multimodal nativo (text + image handled)\n\nImpacto:\n• Open-source agora é frontier-grade (não toy models)\n• Proprietary models em risco (podem commoditizar)\n• Custom deployment = economia gigante vs API\n• Europa pode usar local (compliance + soberania)\n\nPara você empreendedor:\n• Deploy Maverick local = sem API lock-in\n• Custo zero (infraestrutura open) vs API caro\n• Customização sem copiar OpenAI/Anthropic\n• Risco: infra própria (skill high)\n\nMarket bifurcou: proprietary API (premium, easy) vs open local (barato, complexity).\n\n→ Segue @rafaondei #IA #OpenSource #Tecnologia #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "OPEN-SOURCE VENCEU",
+            "title": "Llama 4 Maverick: 400B open que bate GPT-4o",
+            "highlight": "bate GPT-4o",
+            "body": "Meta abriu Maverick (400B MoE), outperforms GPT-4o em benchmarks, open-weight. Não precisa API. Roda local se tu tiver 8x H100.",
+            "stat": "400B",
+            "stat_label": "parâmetros Maverick",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "BENCHMARKS FALAM",
+            "title": "Maverick supera GPT-4o: MMLU, MATH, visão",
+            "highlight": "supera GPT-4o",
+            "body": "MMLU (conhecimento geral): Maverick ahead. MATH (raciocínio): Maverick ahead. Image understanding: Maverick ahead. Multimodal nativo (text + images sem elo). GPT-4o perdeu primeira vez em larga escala.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "COMO CHEGOU AQUI",
+            "title": "Meta investiu US$115B em IA em 2026",
+            "highlight": "$115B",
+            "body": "Meta decidiu que open-source é estratégia core (não side project). Llama 3.1 (ano passado) foi hit (9M developers). Llama 4 = resposta Meta: 'Vamos bater o topo, open, zero taxa de API'.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O QUE MUDA",
+            "title": "Proprietary model = não é mais única opção pra topo",
+            "highlight": "Proprietary",
+            "body": "Até semana passada: quer o melhor? Paga Claude/GPT API. Hoje: Llama 4 Maverick é melhor E open. Desenho de negócio de OpenAI/Anthropic virou questionável (API lock-in desaparece).",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO META FAZ DINHEIRO",
+            "title": "Open models; monetiza em infraestrutura + ads",
+            "highlight": "infraestrutura",
+            "body": "Meta não precisa de API revenue (ads pagam contas). Llama open é marketing pra Meta Cloud (1M+ H100s pra rent). Behemoth é teacher model (Meta treina seu próprio closed model). Abertura é estratégia, não caridade.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA VOCÊ",
+            "title": "Deploy local Maverick = sem API fees forever",
+            "highlight": "API fees",
+            "body": "Infraestrutura inicial é cara (H100 = US$10k/mês pra rodar Maverick). Mas ROI: mês 3-4 tu amortizou vs GPT-4o API (US$500k/ano). Custom ops + compliance = bonus.",
+            "stat": "3-4",
+            "stat_label": "meses de ROI vs API",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO",
+            "title": "Open-source fechou gap com frontier em 12 meses",
+            "highlight": "Open-source",
+            "body": "Llama 3 era 'bom pra start'. Llama 4 é 'melhor que proprietary'. Dinâmica muda: Meta via open strategy roubou market mover status de OpenAI. Velocidade de iteração + community é arma.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Radar: lançamentos, benchmarks, estratégia de players que redefinem o jogo. Segue pra estar na frente.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Ollama Series B $65M: infra profissional pra rodar abertos",
+      "summary": "Docker founders Jeff & Michael investiram em Ollama (plataforma pra rodar open models local). 9M+ developers. Hybrid cloud scaling. Series B de $65M. Open-source models agora têm infraestrutura profissional. Impact: Llama 4 + outros modelos abertos viram viável em produção.",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Ollama Series B $65M: open models agora têm produção-grade infra",
+        "caption": "Docker founders reconheceram: open models precisam de 'facilidade de deploy'. Ollama virou plataforma profissional.\n\n🤖 9M+ developers rodando Llama/Mistral local\n☁️ Hybrid cloud scaling (local + remote automático)\n💰 $65M Series B (Docker founders investing)\n📦 Production-grade pra open models\n🔒 Zero API lock-in, data on-prem\n\nO que Ollama faz:\n• Simplifica \"rodar model local em 3 comandos\"\n• Hybrid router: data sensitive = local, compute heavy = cloud\n• Escala automática (1 user → 1k users)\n• Compatibilidade com ecosystem (LangChain, etc)\n\nImpacto no mercado:\n• Meta Llama 4 agora é deploy-able pra empresas\n• Open models viram alternative real a APIs\n• Data sovereignty virou vantagem competitiva\n• Ollama vs Hugging Face: a guerra de \"open model deployment\"\n\nPara você:\n• Deploy Llama 4 Maverick em sua cloud = economia gigante\n• Compliance: dados nunca saem de datacenter\n• Customização: fine-tune pra seu domínio\n• Risco: operações de infra (não é \"click deploy\")\n\n→ Segue @rafaondei #IA #OpenSource #Tecnologia #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "PLATAFORMA ABERTA PROFISSIONAL",
+            "title": "Ollama: $65M pra tornar open models produção-ready",
+            "highlight": "produção-ready",
+            "body": "Docker founders investiram em Ollama. 9M developers já usam. Agora tem $65M pra escalar infraestrutura. Open models deixaram de ser hobby.",
+            "stat": "9M",
+            "stat_label": "developers usando Ollama",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "FINANCEIRO",
+            "title": "$65M Series B: validação de mercado",
+            "highlight": "$65M",
+            "body": "Docker creators (já bilionários) colocaram grana em Ollama. Sign: open model deployment é mercado real. Profundo pra trazer venture scale. Not a side project, virou company.",
+            "stat": "9",
+            "stat_label": "milhões developers",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O PROBLEMA QUE RESOLVE",
+            "title": "Rodar open model local era complexo, frágil",
+            "highlight": "complexo",
+            "body": "Antes: 'Rodar Llama local' = 20 passos de config, quebra em Docker, memória mal gerenciada. Ollama faz 'ollama run llama4' e pronto. 3 comandos vs 3 horas.",
+            "stat": "3",
+            "stat_label": "comandos vs 3 horas config",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "POR QUE AGORA",
+            "title": "Llama 4 Maverick + Meta infraestrutura = match perfeito",
+            "highlight": "Llama 4",
+            "body": "Meta soltou Maverick aberta. Mas sem Ollama = tu tá bloqueado (infra complexa). Ollama remove barrier. Agora: 'Deploy Maverick em 3 linhas' é realidade. Timing perfeito.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "TECNOLOGIA",
+            "title": "Hybrid router: sensível vs compute-heavy",
+            "highlight": "Hybrid router",
+            "body": "Ollama olha pra cada query. Dados sensíveis (PII, financeiro) rodam local. Lookup pesado (similarity search, RAG) usa cloud. Tudo automático. Compliance + eficiência casam.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA VOCÊ, EMPREENDEDOR",
+            "title": "Compliance + economia casam: dados local, scale cloud",
+            "highlight": "Compliance",
+            "body": "Regulação: 'Dados de usuário não saem de Brasil' (LGPD). Antes: impossível com API. Ollama: roda local em São Paulo, escala se precisar. Compliance virou vantagem, não restrição.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO",
+            "title": "Open models precisam de UX + infra, não só algoritmo",
+            "highlight": "UX + infra",
+            "body": "Meta criou Llama (algoritmo). Docker founders perceberam: ninguém roda se for difícil. Ollama = UX layer. Lesson: open-source vence em qualidade + usabilidade, não em 'livre' puro.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Radar: tools + launches que transformam operação IA, benchmarks, market moves. Segue pra estar ahead.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Mistral Robostral Navigate: entrada em physical AI",
+      "summary": "Mistral lançou modelo de navegação para robôs chamado Robostral Navigate. Camera única + language prompts. Hardware-agnostic. Contratos com grandes clientes industriais europeus. Diversificação: Mistral não é só LLM, expande pra physical AI (robótica).",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-08/mistral-ai-releases-robotics-model-to-support-physical-ai-push",
+      "category": "aplicação",
+      "recommended": false,
+      "carousel": {
+        "theme": "Mistral Robostral Navigate: IA saiu de chat pra robô (physical AI)",
+        "caption": "Mistral saiu do nicho 'LLM puro' e entrou robótica. Robostral Navigate: camera + language prompts = robô que entende ambiente.\n\n🤖 Model de navegação (não é chat)\n📷 Single camera input\n💬 Language command interface\n🏭 Hardware agnostic (qualquer robô)\n🇪🇺 Big EU industrial contracts (Siemens-level)\n\nO que diferencia:\n• Modelo treinado em vídeo de navegação (não texto)\n• Context: robôs precisam \"entender espaço\" vs LLMs \"entendem palavras\"\n• Mistral focou em \"localização + movimento\" (não conversação)\n• Deploy: on-robot (edge inference, não cloud)\n\nEu industrial:\n• Logística: robôs de warehouse que entendem layout\n• Manufatura: AGVs que desviam de obstáculos\n• Limpeza: robôs que fazem sense do espaço\n\nPara você:\n• Mistral não é \"1 empresa, 1 produto\"\n• Diversifica revenue: LLM API + robotics models\n• Abre mercado diferente (hardware builders vs devs)\n• ARR impact: robotics é mercado US$500B vs LLM API tier\n\n→ Segue @rafaondei #IA #Robótica #Tecnologia #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "MISTRAL EXPANDE",
+            "title": "Robostral Navigate: IA sai de chat pra robô",
+            "highlight": "sai de chat",
+            "body": "Mistral largou LLM puro. Lançou modelo de robótica: Robostral Navigate. Camera único, language prompts. Robôs agora entendem espaço + planejam movimento.",
+            "stat": "1",
+            "stat_label": "camera; modelo faz resto",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O DIFERENCIAL",
+            "title": "Camera única (não lidar) + language: simplifica",
+            "highlight": "Camera única",
+            "body": "Robótica tradicional: precisa lidar (caro, frágil) + rádio + odometria. Robostral: camera RGB + 'go to the blue door'. Model entende semantic + visual simultaneamente.",
+            "stat": "70%",
+            "stat_label": "redução de hardware needed",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "CONTEXTO FÍSICO",
+            "title": "Robótica antiga: rule-based, frágil. Robostral: learning-based",
+            "highlight": "learning-based",
+            "body": "Robôs atuais têm GPS/maps pré-programadas (rigid). Robostral treinou em vídeo navegação: aprende padrão de movimento. Adaptável: novo warehouse, novo robô, mesmo modelo funciona.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDANÇA ESTRATÉGICA",
+            "title": "Mistral virou 'AI pra X' (não só 'LLM')",
+            "highlight": "AI pra X",
+            "body": "LLM market é crowded (Claude, GPT, Llama). Robótica market = aberta (Siemens, ABB, Tesla precisam de vision-based navigation). Mistral diversificou risco (não fica preso em LLM price war).",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Model vê frame de camera, planeja rota + movimento",
+            "highlight": "planeja rota",
+            "body": "Input: 'Go to manufacturing zone 3'. Robostral: processa frame atual, detecta obstáculos, calcula rota. Inference on-device (latência <100ms). Edge deployment significa zero latência de cloud.",
+            "stat": "100ms",
+            "stat_label": "latency end-to-end",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA VOCÊ",
+            "title": "Se tu usa robôs: integração direta, sem middleware",
+            "highlight": "integração direta",
+            "body": "Warehouse com robôs? Antes: 'Sistema de routing + Robotic OS + Navigation stack' = 6 meses integração. Robostral: model + camera, 2 semanas. Reduz time-to-value, acelera ROI.",
+            "stat": "6",
+            "stat_label": "meses → 2 semanas",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO",
+            "title": "LLMs abrem porta pra physical AI (embodied models)",
+            "highlight": "physical AI",
+            "body": "LLMs + visual transformers = modelo pode entender \"espaço\" + \"linguagem\". Robótica não precisa mais de \"hardcoded rules\". Physical AI é próximo step (robô que raciocina sobre environment).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Radar: lançamentos + aplicações + market moves que abrem oportunidades. Segue pra estar na frente.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Perplexity Computer integrado em Microsoft 365",
+      "summary": "Perplexity expandiu Computer (agent) pra dentro do Microsoft 365: Word, Excel, PowerPoint, Outlook, Teams nativa. $22.6B valuation, 45M MAU (2x em 1 ano). Penetração enterprise via Microsoft ecosystem. Impact: Perplexity agora é 'onde você trabalha', não app separado.",
+      "source": "Perplexity",
+      "link": "https://www.perplexity.ai/changelog",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Perplexity Computer agora roda dentro do Microsoft 365",
+        "caption": "Perplexity saiu do navegador pra dentro de Word/Excel/Teams. Significa: agent está onde você trabalha (não precisa alt-tab).\n\n📊 Integração nativa: Word, Excel, PowerPoint, Outlook, Teams\n🧠 Computer agent rodando dentro de Microsoft stack\n💼 Enterprise penetration via Microsoft (novo veto)\n🚀 45M MAU, $22.6B valuation (2x em 1 ano)\n⚡ On-device + cloud hybrid (local-server inference)\n\nO que muda:\n• Escrita de docs: agent sugere dados enquanto tipas\n• Análise: agent vê Excel, propõe gráficos/insights\n• Meetings: agent resume reunião Teams on-the-fly\n• Email: agent drafta reply em contexto de thread\n\nPara empresa:\n• Não é \"novo app pra treinar users\"\n• Vive no workflow existente (Word já está lá)\n• Compliance: data fica em tenant (não sai)\n• Adoção: organic (não forçada)\n\nPara você:\n• Automação não é \"tools + glue\"\n• Automação é \"integrada no lugar que trabalho\"\n• Reduz friction: 90% menos contexto switching\n\n→ Segue @rafaondei #IA #Microsoft365 #Tecnologia #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "INTEGRAÇÃO PROFUNDA",
+            "title": "Perplexity Computer agora roda NO Microsoft 365",
+            "highlight": "NO Microsoft 365",
+            "body": "Perplexity Computer (agent de research/work) integrado em Word, Excel, PowerPoint, Teams, Outlook. Agent não é app separado — vive onde você trabalha.",
+            "stat": "5",
+            "stat_label": "apps Microsoft onde Computer roda",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "ESCALA DE MERCADO",
+            "title": "45M MAU, $22.6B valuation (dobrou em 1 ano)",
+            "highlight": "45M MAU",
+            "body": "Perplexity cresceu 2x em usuários (22M → 45M). Valuation pulou $11B → $22.6B. Microsoft integração acelera: não é mais 'app niche', é feature de Microsoft.",
+            "stat": "2x",
+            "stat_label": "crescimento em 12 meses",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "COMO CHEGOU",
+            "title": "Perplexity foi 'search melhor que Google', agora é 'agent no workflow'",
+            "highlight": "agent no workflow",
+            "body": "Perplexity começou como 'ChatGPT + web search'. Virou Computer (agentic research). Agora virou 'Microsoft 365 feature'. Estratégia: não compete com Office, integra nele.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDANÇA DE JOGO",
+            "title": "Não precisa alt-tab; agent está no app que tu usa",
+            "highlight": "alt-tab",
+            "body": "Antes: 'Preciso pesquisar' → abro Perplexity → copia resultado → volta Word. Agora: digito no Word, agent sugere dados inline. Friction desaparece. Adoção explode.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "TECNICAMENTE",
+            "title": "Hybrid local-server: dado sensível fica local",
+            "highlight": "local",
+            "body": "Computer tem router: 'Escrever em Word' = local (on-device model). 'Pesquisar na web' = cloud. Tu não vê, mas acontece automático. Compliance: PII nunca sai de tenant.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA VOCÊ, NA PRÁTICA",
+            "title": "Automação que não é Zapier (não precisa config)",
+            "highlight": "Automação",
+            "body": "Zapier = regras + triggers. Perplexity Computer = agent que entende contexto. 'Escrevo deck de pitch' → Computer propõe dados de mercado sem eu pedir. Menos clicks, mais inteligência.",
+            "stat": "40%",
+            "stat_label": "redução de busca manual",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO",
+            "title": "Agentes vencem quando vivem no workflow, não fora",
+            "highlight": "no workflow",
+            "body": "Agent isolation (separado do trabalho) = adoção 20%. Agent integrado (where you work) = adoção 80%. Perplexity entendeu: distribution é tudo. Microsoft 365 é 1B users; Perplexity é feature agora.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Radar: tools + integrations + market moves que transformam trabalho. Segue pra estar na frente.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Z.ai GLM-5.2: crescimento 27x tokens (1 semana, unprecedented)",
+      "summary": "Z.ai lançou GLM-5.2. Primeira semana: 27x crescimento em volume de tokens, 80x em customer count. Unprecedented velocity (Vercel tracking). Novo player chinês fecha gap com frontier. Market bifurca: US models vs China models competição real.",
+      "source": "Vercel",
+      "link": "https://llm-stats.com/llm-updates",
+      "category": "benchmark",
+      "recommended": false,
+      "carousel": {
+        "theme": "GLM-5.2 da Z.ai: crescimento 27x em 1 semana (unprecedented)",
+        "caption": "Z.ai soltou GLM-5.2 e crescimento foi insano: 80x customers em 1 semana. Maior adoção de qualquer modelo já rastreado (Vercel).\n\n🚀 27x token volume growth (7 dias)\n👥 80x customer growth (unprecedented)\n🇨🇳 Modelo chinês, performance frontier-tier\n⚡ Deployment: Vercel + native Chinese cloud\n💰 Pricing: competitive vs GPT/Claude\n\nO contexto:\n• GLM anteriormente era conhecido em China\n• GLM-5.2 entrada global → tração explosiva\n• Modelo open-weight + frontier performance\n• Deployment em Vercel (US devs podem usar)\n\nPor que crescimento tão rápido?\n1) Performance: bate Claude em alguns benchmarks\n2) Preço: 50% menos que Claude/GPT top-tier\n3) Timing: US + China bifurcação de modelos happening now\n4) Devs chineses adotando localmente (protective tariff efeito)\n\nPara você:\n• Modelo chinês não é mais \"toy\"\n• US hegemonia em IA está em risco\n• If you're building: choose GLM pra custo, Claude pra confiança\n• Geopolitical: escolha de modelo = escolha de país (tech/data sovereignty)\n\n→ Segue @rafaondei #IA #Tecnologia #Empreendedorismo #GlobalAI",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "CRESCIMENTO EXPLOSIVO",
+            "title": "GLM-5.2: 80x customers em 1 semana (unprecedented)",
+            "highlight": "80x",
+            "body": "Z.ai soltou GLM-5.2 (modelo chinês). Primeira semana: crescimento de 80x em customers. Vercel nunca viu isso antes. 27x em token volume. Novo player com tração instantânea.",
+            "stat": "80x",
+            "stat_label": "customer growth (1 semana)",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "OS NÚMEROS",
+            "title": "27x tokens + 80x customers = momentum absurdo",
+            "highlight": "27x",
+            "body": "Token volume: 1x → 27x em 7 dias. Customer count: 1x → 80x em 7 dias. Pra contexto: Claude crescimento estava 2-3x/mês. GLM-5.2 fez 80x em 1 semana. Não há precedente.",
+            "stat": "27x",
+            "stat_label": "token growth",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "QUEM É Z.AI",
+            "title": "GLM: modelo chinês que ganhou relevância global",
+            "highlight": "modelo chinês",
+            "body": "GLM (ChatGLM) era conhecido em China. GLM-5.2 entrada global: disponível via Vercel pra devs americanos. Performance benchmarks: competitive com Claude/GPT em algumas áreas (raciocínio). Preço: 50% menos.",
+            "stat": "50%",
+            "stat_label": "desconto vs Claude",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O QUE MUDA",
+            "title": "US hegemonia em LLMs está oficialmente em risco",
+            "highlight": "hegemonia",
+            "body": "Até agora: 'IA = US models' (OpenAI, Anthropic). GLM-5.2 prove: modelo não-US consegue performance frontier + tração global. Bifurcação real: US models vs China models, competição real.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "POR QUE TRAÇÃO TÃO RÁPIDA",
+            "title": "Performance + preço + timing (US-China bifurcação)",
+            "highlight": "Performance",
+            "body": "1) Performance: bate Claude em raciocínio (alguns benchmarks). 2) Preço: 50% desconto muda math. 3) Devs chineses: \"agora posso usar local model\" (sovereignty). 4) Devs americanos: \"paguei $1k/mês Claude, GLM é $400\".",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA VOCÊ",
+            "title": "Operação de IA: escolha de modelo = escolha de país",
+            "highlight": "escolha de país",
+            "body": "Antes: escolhia Claude vs GPT (feature/price). Agora: GLM é opção real (mas = data em China). Considere: compliance, sovereignty, vendor concentration. Escolha de modelo é estratégia geopolítica agora.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO",
+            "title": "Tração não é more pré-determined by origin",
+            "highlight": "Tração",
+            "body": "Pensávamos: US models automaticamente ganham (network effects). GLM-5.2 provou: performance + preço + timing > origin. Devs escolhem com racionalidade econômica, não patriotismo. Mercado bifurca quando choice importa.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Radar: lançamentos globais, market moves, bifurcações que redefinem competição. Segue pra estar ahead.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "AI Agents 72% em produção; 40% enterprise apps por EOY 2026",
+      "summary": "Gartner: 72% do agentic AI rodando em produção. 40% de enterprise applications terão task-specific AI agents by end of 2026 (era <5% em 2025). McKinsey: agents geram US$2.6-4.4 trilhões em value. MCP + A2A protocolos viram infraestrutura. Inflection point: agentic computing é mainstream.",
+      "source": "Gartner / McKinsey",
+      "link": "https://symphony-solutions.com/insights/ai-agents-in-2026",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "AI Agents: 72% em produção, 40% enterprise apps by EOY 2026",
+        "caption": "Agents saíram de 'prototipagem' pra 'operação core'. 72% já roda em produção. 40% das enterprise apps terão agents by fim do ano.\n\n📊 72% agentic AI em produção (era 5% ano passado)\n🏢 40% enterprise applications com task-specific agents (by EOY 2026)\n💰 McKinsey: US$2.6-4.4 trilhões em value anual\n🔧 MCP + A2A: infraestrutura protocolar emergindo\n⚡ Speed: agentes substituem 20 horas de manual work/semana\n\nO que tá acontecendo:\n• Não é mais \"experimental\"\n• Empresas pushem agents pra operação real (accounting, HR, ops)\n• Scaling: 1 agent → 10 agents → 100s agents\n• Workflow: humans falam com agents, agents falam com systems\n\nPara seu negócio:\n• Se não tem agents in operation → está atrasado\n• ROI: 3-6 meses para payback\n• Training: teams precisam aprender delegar pra máquina\n• Segurança: governance de agents = compliance blocker\n\n→ Segue @rafaondei #IA #Agentes #Tecnologia #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "INFLECTION POINT",
+            "title": "72% agentic AI já roda em produção",
+            "highlight": "72%",
+            "body": "Não é mais experimento. Agentes saíram do lab pra operações reais. 72% rodando em produção (Gartner). 40% das enterprise apps terão agentes by final 2026. Era <5% há 12 meses.",
+            "stat": "72%",
+            "stat_label": "agentic AI em produção",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "GARTNER NUMBERS",
+            "title": "40% enterprise apps com agents (by EOY 2026)",
+            "highlight": "40%",
+            "body": "Gartner forecast: 40% das enterprise applications terão task-specific AI agents como core capability by dezembro 2026. Era menos de 5% em 2025. Aceleração 8x em 12 meses.",
+            "stat": "8x",
+            "stat_label": "aceleração em 12 meses",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "COMO AGENTS FUNCIONAM",
+            "title": "Agents: planejam, executam, corrigem (sem humano supervisionando cada step)",
+            "highlight": "sem humano",
+            "body": "Agent recebe task: 'Processe 100 facturas'. Planeja: 'Vou parsear, validar, registrar'. Executa: acessa sistemas, preenche formulários. Trata erro: 'Fatura 47 formato errado, reporta humano'. Workflow async, sem polling.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDANÇA DE MENTALIDADE",
+            "title": "Software é agora 'worker' que tu supervisionas (não tool que tu clicas)",
+            "highlight": "worker",
+            "body": "Antes: IA era copilot ('Ajuda enquanto eu trabalho'). Agora: IA é operário ('Trabalha enquanto eu durmo'). Tu dá briefing, agent executa. Mentalidade muda de 'assistant' pra 'employee'.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "INFRAESTRUTURA",
+            "title": "MCP + A2A: protocolos pra agents falar com systems e entre si",
+            "highlight": "MCP",
+            "body": "MCP (Model Context Protocol): agent se conecta com tools (Slack, Github, Jira). A2A (Agent-to-Agent): agentes coordenam entre si. Antes: custom integrations. Agora: padrão aberto (como HTTPS pra web).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA VOCÊ, NEGÓCIO",
+            "title": "Automatize 20h/semana de work repetitivo (com agent, not macro)",
+            "highlight": "20h",
+            "body": "Team de 3 fazendo trabalho manual (data entry, email, reports). 1 agent substitui 1.5 pessoas. ROI: US$100k salary vs US$50k API/infra = payback em 6 meses. Reinveste economia em growth, não infrastructure.",
+            "stat": "20h",
+            "stat_label": "work eliminado por agent/semana",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO",
+            "title": "Agents venceram: produção escala onde prototipagem parou",
+            "highlight": "Agents venceram",
+            "body": "Copilots (assistants) ficaram em 30% adoção (legal tool, mas optional). Agents (workers) crescem 8x/ano (obrigatório pra competir). Diferença: copilots delegam ao humano; agents delegam pra máquina. Máquina escala. Humano não.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Radar: updates sobre agents, infraestrutura, aplicações que transformam negócio. Segue pra estar ahead.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Claude Sonnet 5 + 1M context: novo padrão de acessibilidade",
+      "summary": "Claude Sonnet 5 é agora default no Claude Code (antes era Opus). 1M token context window nativo. Preço promo até agosto: $2/$10 per Mtok (vs Opus $5/$25). Acessibilidade de 'contexto longo' finalmente democrática. Impact: reasoning em grande escala fica economicamente viável.",
+      "source": "Anthropic",
+      "link": "https://releasebot.io/updates/anthropic/claude-code",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Claude Sonnet 5: 1M context por preço acessível ($2/$10)",
+        "caption": "Anthropic inverteu jogo: modelo padrão é Sonnet (era Opus premium). 1M tokens nativo. Preço promo $2/$10 até agosto (antes era \"access denied\" pra maioria).\n\n📦 1M tokens (4 livros numa request)\n💰 $2/$10 per Mtok (60% desconto vs Opus)\n⚡ Default no Claude Code (não é opt-in)\n📅 Promo até 31 agosto 2026\n🧠 Reasoning on large scale agora é viável\n\nO que muda na prática:\n• Antes: \"1M context\" = rare/expensive\n• Agora: baseline (não feature premium)\n• RAG systems: ingerir codebase inteira de uma vez\n• Research: carregar 10 papers + chat simultaneously\n• Code review: analisa arquivo grande sem chunking\n\nPara você:\n• Workflows que quebravam (\"context too long\") agora funcionam\n• Custo por analysis: reduz 80% vs fragmentar\n• Time efficiency: sem \"context window dance\" (chunking manual)\n\n→ Segue @rafaondei #IA #Claude #Tecnologia #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "ACESSIBILIDADE GIGANTE",
+            "title": "Claude Sonnet 5: 1M context, $2/$10 (promoção agosto)",
+            "highlight": "1M context",
+            "body": "Contexto longo (1M tokens = 4 livros) deixou de ser premium. Sonnet 5 é default, $2 input/$10 output até 31 agosto. Acessibilidade de reasoning em escala virou realidade.",
+            "stat": "1M",
+            "stat_label": "tokens de contexto",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "MUDANÇA DE PREÇO",
+            "title": "$2/$10 vs Opus $5/$25 (60% desconto)",
+            "highlight": "$2/$10",
+            "body": "Sonnet 5 (novo default): US$2/Mi input, US$10/Mi output (promo). Opus 4.8 (anterior premium): US$5/Mi, US$25/Mi. Mesma reasoning capability, 60% mais barato. Promoção dura até 31 agosto.",
+            "stat": "60%",
+            "stat_label": "economia vs Opus",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "ESTRATÉGIA ANTHROPIC",
+            "title": "Sonnet é novo \"padrão de IA\"; Opus vira specialty",
+            "highlight": "novo padrão",
+            "body": "Antes: Opus = premium (raridade). Sonnet = mid-tier. Agora: Sonnet = default (abundância). Opus fica pra ultra-complex (5% de casos). Mudança: democratizar reasoning, não gatekeep em tier.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "POR QUE AGORA",
+            "title": "1M context deixou de ser feature rara → commodity",
+            "highlight": "commodity",
+            "body": "Antes: 1M tokens = carão, pra VIPs. Agora: Sonnet default com 1M. Significa: Anthropic conseguiu escalar sem aumentar custo (infraestrutura eficiente). Pode ofertar 1M sem quebrar margins.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "TECNICAMENTE",
+            "title": "1M context = 4 livros, ou codebase inteiro de startup",
+            "highlight": "4 livros",
+            "body": "1 milhão de tokens ≈ 750k palavras. Em contexto prático: codebase médio (50 arquivos), ou 10 research papers, ou 4 livros. Antes: fragmentar em chunks. Agora: joga tudo de uma vez, agent processa.",
+            "stat": "750k",
+            "stat_label": "palavras em 1M tokens",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA VOCÊ, PRÁTICO",
+            "title": "RAG systems: ingerir codebase/docs sem fragmentação",
+            "highlight": "RAG systems",
+            "body": "Antes: 'Ingerir código' = split em 50k-token chunks, query cada chunk. Latência 10s. Agora: load 500k tokens (codebase inteiro), query uma vez. Latência 2s, qualidade melhor (agent vê contexto completo).",
+            "stat": "10s",
+            "stat_label": "→ 2s (5x mais rápido)",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO",
+            "title": "Context window deixou de ser constraint → é vantagem",
+            "highlight": "Context",
+            "body": "Engenharia antiga: 'Otimize pra short context' (retrieval + ranking). Nova era: 'Maximize context' (dump tudo, model decide). Mudança de paradigma: quantidade importa mais que seleção. Simpler systems scale melhor.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Radar: updates, benchmarks, aplicações que redefinem IA. Segue pra estar ahead.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    }
+  ],
+  "whatsapp": "🔥 RADAR DE IA — 12 de Julho, 2026\n\n1️⃣ Grok 4.5 quebrou preço: $2/$6 (Opus-class, 75% off Claude)\n→ https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/\n\n2️⃣ Anthropic $47B ARR — ultrapassa OpenAI pela primeira vez\n→ venturebeat.com\n\n3️⃣ Claude Cowork agora em web/mobile/nuvem (24/7 agent)\n→ nbcnews.com\n\n4️⃣ OpenAI lança GPT-5.6 Work: Sol/Luna/Terra (trio de preços)\n→ axios.com\n\n5️⃣ Meta Llama 4 Maverick aberta: 400B MoE supera GPT-4o\n→ ai.meta.com\n\n6️⃣ Ollama Series B $65M: open models com infra profissional\n→ techcrunch.com\n\n7️⃣ Mistral Robostral Navigate: modelo de navegação pra robôs\n→ bloomberg.com\n\n8️⃣ Perplexity Computer agora NO Microsoft 365 (Word/Excel/Teams)\n→ perplexity.ai/changelog\n\n9️⃣ Z.ai GLM-5.2: 80x customers em 1 semana (unprecedented)\n→ llm-stats.com\n\n🔟 AI Agents 72% em produção; 40% enterprise apps by EOY 2026\n→ gartner.com\n\n🎯 Bonus: Claude Sonnet 5 com 1M context — $2/$10 até agosto\n\n💼 Dashboard completo: https://rafaelondei.appnaia.com",
+  "instagram": "🔥 RADAR DE IA | 12 de Julho, 2026\n\nEsta semana a indústria de IA virou de cabeça para baixo. Grok 4.5 chegou com preço de 75% desconto em performance Opus-class. Anthropic ultrapassou OpenAI em receita (primeira vez: $47B ARR). Claude Cowork agora roda na nuvem 24/7 (sem precisar do seu Mac). OpenAI respondeu com GPT-5.6 Work em 3 sabores. Meta soltou Llama 4 Maverick open-source que bate GPT-4o em benchmarks.\n\nNo lado de infraestrutura, Ollama (Docker founders) levantou $65M pra tornar models abertos production-grade. Mistral entrou em robótica (Robostral Navigate). Perplexity Computer agora vive dentro do Microsoft 365.\n\nMarket signals: Z.ai GLM-5.2 (modelo chinês) cresceu 80x em customers numa semana — unprecedented. AI agents chegaram a 72% em produção; 40% das enterprise apps terão agentes by fim de 2026. Sonnet 5 agora é padrão no Claude Code: 1M context por $2/$10 (60% off Opus).\n\nResumido: preço vai pra zero, performance converge, diferenciação é agora em aplicação + deployment. Quem não tem operação de agentes em produção está atrasado.\n\nSiga @rafaondei pro radar diário: lançamentos + benchmarks + aplicações que escalam negócio.\n\n#IA #InteligenciaArtificial #Claude #OpenAI #ChatGPT #Tecnologia #Empreendedorismo #Mercado"
+}
