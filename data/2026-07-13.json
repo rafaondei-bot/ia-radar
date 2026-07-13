@@ -1,0 +1,1030 @@
+{
+  "date": "2026-07-13",
+  "topic": "mercado de IA",
+  "topic_slug": "ia-mercado",
+  "generated_at": "2026-07-13T07:00:01-03:00",
+  "items": [
+    {
+      "title": "Claude Sonnet 5: Modelo padrão global, promo até agosto",
+      "summary": "Anthropic lançou Claude Sonnet 5 como modelo padrão para todos os usuários Free e Pro mundialmente em 1º de julho. Desempenha quase como Opus 4.8 em várias tarefas com preço promocional de US$ 2/1M input e US$ 10/1M output até 31 de agosto. Mudança estratégica que posiciona Sonnet como novo padrão de qualidade acessível.",
+      "source": "Anthropic Official",
+      "link": "https://www.anthropic.com/news",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "O novo padrão de IA começa aqui",
+        "caption": "Claude Sonnet 5 é agora o modelo padrão do mundo. Saiu no 1º de julho como novo default pra Free e Pro, performando quase como Opus 4.8 em 80% das tarefas — mas 6x mais barato na promo (US$ 2-10 até fim de agosto). É a Sonnet mais agentic que Anthropic já buildou. Pra empreendedores: baseline subiu, custo caiu, agora é realmente commodity. O jogo mudou quando o padrão global virou premium. #IA #Claude #Anthropic #InteligenciaArtificial #Empreendedorismo #Tecnologia",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "NOVO PADRÃO GLOBAL",
+            "title": "Claude Sonnet 5 é agora o default",
+            "highlight": "padrão",
+            "body": "A partir de 1º de julho, Claude Sonnet 5 virou o novo modelo padrão pro mundo inteiro. Free, Pro, tudo. Antes era Sonnet 4.6. Agora é 5.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "PREÇO NOVO",
+            "title": "US$ 2 / US$ 10 (até 31 ago)",
+            "highlight": "US$ 2",
+            "body": "Input a US$ 2 por 1 milhão de tokens. Output a US$ 10 por 1M. Depois de agosto volta pra US$ 3-15 (preço normal). Até lá, aproveita o desconto.",
+            "stat": "6x",
+            "stat_label": "mais barato que o padrão antigo",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE ACONTECEU",
+            "title": "Sonnet é a mais agentic já feita",
+            "highlight": "agentic",
+            "body": "Sonnet 5 foi treinada pra ser mais autônoma. Ela toma decisões, planeja, itera. Performa perto de Opus 4.8 em muitas tarefas — raciocínio, código, visão. Mas muito mais rápida.",
+            "stat": "~95%",
+            "stat_label": "da performance de Opus 4.8 em testes",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "VIRADA DO JOGO",
+            "title": "Premium vira acessível pra todos",
+            "highlight": "acessível",
+            "body": "Quando o modelo premium do mês passado virou padrão, o jogo mudou. Significa que baseline global subiu. Pré-treinamento mais barato, qualidade mais alta, competição mais dura. Seu concorrente agora tem acesso a isso pelo preço de um café.",
+            "stat": "100%",
+            "stat_label": "dos usuários com acesso imediato",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Mix de speed + raciocínio",
+            "highlight": "speed",
+            "body": "Sonnet 5 combina velocidade de processamento com capacidade de raciocínio. Usa mixture-of-experts internamente. Rota a requisição pro especialista certo. Rápido, eficiente, agnóstico sobre o problema.",
+            "stat": "1M",
+            "stat_label": "tokens de contexto por padrão",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM IMPORTA",
+            "title": "Empreendedor: teu custo base caiu",
+            "highlight": "custo",
+            "body": "Se tu usa Claude pra SaaS, chatbot, ou qualquer coisa em produção, seu custo operacional acaba de cair 50-70% durante a promo. Margin sobe, preço cai, ou tu dobra o volume. Pra mentorado: é o momento de testar modelos agentics em batch.",
+            "stat": "50-70%",
+            "stat_label": "redução de custo durante promo",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O PADRÃO MUDOU",
+            "title": "Quando premium vira commodity",
+            "highlight": "commodity",
+            "body": "Esse é o padrão de deflatação que vai definir 2026. Um modelo ultramoderno vira padrão gratuito em 90 dias. Quem não tá usando IA nesse nível pra competir agora vai ficar pra trás em velocidade e custo. IA não é mais diferencial — é custo de entrada.",
+            "stat": "90",
+            "stat_label": "dias pra commodity (velocidade 2026)",
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva e segue @rafaondei",
+            "highlight": "Salva",
+            "body": "Radar de IA atualizado todo dia. Modelagem, fundos, benchmarks, lançamentos. Tá acompanhando a deflatação de modelos e a explosão de agentes? Vem com a gente.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "GPT-5.6 e ChatGPT Work: OpenAI lança multi-tier",
+      "summary": "OpenAI anunciou GPT-5.6 globalmente com três versões: Sol (reasoning ultra, Cerebras), Terra e Luna com pricing escalonado. Também lançou ChatGPT Work, uma versão integrada com 365 para reduzir tarefas fragmentadas de trabalho. Deflatação de preço: Sol a US$ 5/$30, Terra e Luna mais baratas.",
+      "source": "OpenAI Official",
+      "link": "https://openai.com/news/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Três modelos, três preços, um ganho",
+        "caption": "GPT-5.6 chegou em 3 sabores. Sol pra reasoning ultra (US$ 5 input/US$ 30 output), Terra e Luna mais baratos pra tarefas comuns. Rollout começou dia 1º em todas as plataformas. Bônus: ChatGPT Work integrado com Microsoft 365 (email, calendário, OneDrive, SharePoint). OpenAI tá jogando pra produtividade — não só pra inteligência. #OpenAI #GPT #ChatGPT #Microsoft365 #InteligenciaArtificial #Tecnologia #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "TRÊS VERSÕES",
+            "title": "GPT-5.6: Sol, Terra, Luna",
+            "highlight": "Sol",
+            "body": "Saiu em 3 edições. Sol é a top-tier pra reasoning pesado. Terra e Luna são versões otimizadas pra custo. Rollout global começou em 1º de julho.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "PREÇO",
+            "title": "Sol: US$ 5 / US$ 30 (input/output)",
+            "highlight": "US$ 5",
+            "body": "Sol (reasoning ultra) sai por US$ 5 input e US$ 30 output — premium pra tarefas que precisam pensar muito. Terra e Luna bem mais baratas, focadas em volume. Mais opções = mais otimização pra cada caso.",
+            "stat": "3x",
+            "stat_label": "escalas de preço diferentes",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE ACONTECEU",
+            "title": "OpenAI descentraliza o lineup",
+            "highlight": "descentraliza",
+            "body": "Ao invés de um modelo único, GPT-5.6 vem em três camadas. É a primeira vez que OpenAI faz pricing tão granular. Significa que tu paga só o que precisa: reasoning pesado (Sol), ou volume barato (Luna).",
+            "stat": "3",
+            "stat_label": "modelos em um lançamento",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O GANHO",
+            "title": "ChatGPT Work integrado ao 365",
+            "highlight": "integrado",
+            "body": "OpenAI lançou ChatGPT Work pra competir direto com Copilot. Escreve email, organiza calendário, cria documentos no OneDrive — tudo conectado. Agora o browser e o Windows conhecem tua conta OpenAI. Microsoft perde monopólio interno.",
+            "stat": "5",
+            "stat_label": "serviços Microsoft integrados",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Sol roda em Cerebras (750 tok/seg)",
+            "highlight": "Cerebras",
+            "body": "Sol usa infraestrutura Cerebras pra accelerate reasoning — 750 tokens por segundo. É o speedrun do LLM. Terra e Luna rodam em GPUs padrão. Cada tier tem o hardware certo pro job.",
+            "stat": "750",
+            "stat_label": "tokens por segundo em Sol",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM IMPORTA",
+            "title": "Produto: menos fragmentação de tarefas",
+            "highlight": "fragmentação",
+            "body": "Se tu desenvolve um app no 365 (Word, Excel, Outlook), agora tem IA native na ferramenta. Empreendedor: significa mais retençao se eu sair da Open AI pra Claude — Microsoft tá preso ao eco OpenAI agora. Mentorado: estuda integração cloud pra estar pronto.",
+            "stat": "1",
+            "stat_label": "aba pra tudo (365 nativa)",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "DEFLATAÇÃO COM DIFERENCIAL",
+            "title": "Pricing granular = nova regra",
+            "highlight": "granular",
+            "body": "Não é só 'barato'. É 'barato pra isso, premium pra aquilo'. OpenAI tá jogando o jogo que Claude começou: especialização por tier. Quem oferece diversidade de preço pra problema específico ganha wallet share.",
+            "stat": "3x",
+            "stat_label": "opções no mesmo modelo",
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva e segue @rafaondei",
+            "highlight": "Salva",
+            "body": "Radar de IA atualizado todo dia. Lançamentos, preços, integrações com o que tu usa. Acompanha os movimentos estratégicos antes do mercado digeri.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Grok 4.5: xAI rebrand + modelo Opus-class a US$ 2",
+      "summary": "No dia 8 de julho, xAI rebrandou pra SpaceXAI e lançou Grok 4.5, descrito por Elon como modelo Opus-class mas mais rápido e barato. Priced at US$ 2/1M input (vs US$ 3 Claude) e US$ 6/1M output. Treinado com Cursor. Completou também Grok Imagine (geração de imagem/vídeo).",
+      "source": "xAI / SpaceXAI Official",
+      "link": "https://x.ai/news/grok-4-5",
+      "category": "modelo",
+      "recommended": true,
+      "carousel": {
+        "theme": "Opus-class por metade do preço",
+        "caption": "Grok 4.5 saiu no dia 8 de julho e mudou tudo. xAI rebrandou pra SpaceXAI (operação merged SpaceX+xAI) e Elon chamou Grok 4.5 de 'Opus-class model' — inteligência frontier, mas 33% mais barato que Claude Opus. US$ 2 input / US$ 6 output. Treinou junto com Cursor, pronto pra coding + agentic work. Grok Imagine (image+video generation) completo. Isso é disrupção de preço e performance simultânea. #xAI #Grok #SpaceX #Disrupção #InteligenciaArtificial #Empreendedorismo #Tecnologia #IA",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "BOMBA DO MÊS",
+            "title": "Grok 4.5: Opus-class US$ 2",
+            "highlight": "Opus-class",
+            "body": "xAI lançou Grok 4.5 no dia 8 de julho. Elon Musk chamou de 'Opus-class model' — inteligência de frontier, mas com preço de tier 2.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "PREÇO DISRUPTIVO",
+            "title": "US$ 2 / US$ 6 (input/output)",
+            "highlight": "US$ 2",
+            "body": "US$ 2 por 1M tokens input. US$ 6 por 1M output. Comparado: Claude Opus custa US$ 3 / US$ 15. Grok é 33% mais barato na entrada, 60% no output. O mesmo reasoning performance, preço de commodity.",
+            "stat": "60%",
+            "stat_label": "mais barato que Opus 4.8",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE ACONTECEU",
+            "title": "SpaceX bota toda a infra em Grok",
+            "highlight": "infra",
+            "body": "xAI rebrandou como SpaceXAI — é o consolidation de SpaceX + xAI. Toda a computação do foguete agora alimenta o modelo. Grok 4.5 foi treinado usando Cursor como co-pilot. Significa: reasoning extremamente otimizado pra engenharia e código.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "DISRUPÇÃO",
+            "title": "Pricing mata Anthropic em cost-per-task",
+            "highlight": "Pricing",
+            "body": "Se tu que roda agentic work em escala (milhões de requisições), Grok 4.5 mata Anthropic em ROI. Mesmo reasoning, preço 50-60% menor. Em volume, a diferença de US$ 1/1M em output são dezenas de milhões de dólares economizados em escala.",
+            "stat": "50-60%",
+            "stat_label": "redução vs Anthropic em volume",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Reasoning effort: low, medium, high",
+            "highlight": "effort",
+            "body": "Grok 4.5 vem com 3 modos de reasoning: low (rápido, cheap), medium (balanced), high (profundo). Tu escolhe quanto raciocinar pra cada prompt. Se precisa só classificar, roda low. Se é problema hard, roda high. Paga só pelo que usa.",
+            "stat": "3",
+            "stat_label": "níveis de reasoning configuráveis",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM IMPORTA",
+            "title": "Empreendedor: custo de IA caiu 50%",
+            "highlight": "custo",
+            "body": "Se tu rodas SaaS, chatbot, ou qualquer produto com LLM pesado, Grok 4.5 é a peça que faltava. Performance frontier, preço commodity. Pra startup: significa margem gorda. Pra scaleup: significa que reduz custo por user 50% e recompra markt share.",
+            "stat": "50%",
+            "stat_label": "redução de COGS em IA",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "PADRÃO 2026",
+            "title": "Frontier performance não é diferencial",
+            "highlight": "diferencial",
+            "body": "Quando Opus-class custa US$ 2 por 1M, 'ter IA boa' não te diferencia mais. Diferencial é quem consegue usar IA mais rápido, mais barato, mais criativo. O moat não é modelo — é aplicação. Empreendedor que roda Grok 4.5 e itera 10x por dia vence quem roda GPT com muita cautela.",
+            "stat": "0%",
+            "stat_label": "premium por performance frontier",
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva e segue @rafaondei",
+            "highlight": "Salva",
+            "body": "10 notícias por dia. Preços, benchmarks, lançamentos. Acompanha quem tá ganhando no game de deflatação de IA.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Veo 3 e Veo 3.1: Google domina vídeo com som",
+      "summary": "Google lançou Veo 3 e Veo 3.1 (Lite) como competição direta pra Sora 2 (que tá em descontinuação). Veo 3 gera vídeos de 8 segundos com som sincronizado. Veo 3.1 Lite é 50% mais barata. Disponível em Google AI Ultra e em APIs. Sora web/app descontinuados em 26 de abril, API descontinua em 24 de setembro.",
+      "source": "Google AI Official",
+      "link": "https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/veo/3-0-generate",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Google mata Sora com som de fundo",
+        "caption": "Veo 3 saiu em julho e é a Sora-killer. Gera vídeo de 8 segundos COM ÁUDIO sincronizado (primeira a fazer isso nativo). Veo 3.1 Lite é 50% mais barato. OpenAI tá descontinuando Sora (web/app já foi em abril, API some em setembro). Google tá comendo o almoço de vídeo de todo mundo. #Google #Veo #VideoAI #Gemini #InteligenciaArtificial #Tecnologia #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "SORA TÁ MORTO",
+            "title": "Veo 3: primeira com som nativo",
+            "highlight": "som",
+            "body": "Google lançou Veo 3 em julho. É a primeira gerador de vídeo IA que faz vídeo E áudio sincronizados no mesmo prompt. Sora gera vídeo só. Vídeo + som é o jogo novo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "TAMANHO + FORMATO",
+            "title": "8 segundos em 1080p com som",
+            "highlight": "8 segundos",
+            "body": "Veo 3 gera vídeo de 8 segundos em 1080p com áudio sincronizado. Veo 3.1 Lite faz o mesmo mas 50% mais barato. Ambos disponíveis em Google AI Ultra subscription e via API.",
+            "stat": "50%",
+            "stat_label": "redução de custo em Lite",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE ACONTECEU",
+            "title": "Sora tá sendo descontinuado",
+            "highlight": "descontinuado",
+            "body": "OpenAI descontinuou Sora web em 26 de abril. App virou descontinuado. API vai embora em 24 de setembro. Significado: Sora não é rentável. Google + Alibaba (Kling) + ByteDance comeram o bolo de vídeo.",
+            "stat": "0",
+            "stat_label": "planos pra Sora em 2027",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "VIRADA",
+            "title": "Som sincronizado muda o jogo",
+            "highlight": "Som",
+            "body": "Quando tu consegue gerar vídeo + áudio no mesmo prompt, o workflow muda. Antes: gera vídeo, depois adiciona voiceover separado. Agora: um prompt faz tudo. Menos fricção = mais uso = mais aplicação. Veo 3 é a ferramenta que todo criador de conteúdo tava esperando.",
+            "stat": "1",
+            "stat_label": "prompt pra vídeo+som",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Diffusion model com sync nativa",
+            "highlight": "sync",
+            "body": "Veo usa diffusion models que entendem áudio e vídeo simultaneamente. Tu descreve o que quer (e.g., 'mulher caminhando em praia, som de onda ao fundo'), e o modelo gera ambos alinhados temporalmente. Não é post-processing — é IA entendendo sincronização.",
+            "stat": "8",
+            "stat_label": "segundos de coerência",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM IMPORTA",
+            "title": "Criador: produção 2x mais rápida",
+            "highlight": "produção",
+            "body": "Se tu faz vídeo pra YouTube, TikTok, Instagram, Veo 3 te economiza horas em editing. Roteiro → Veo 3 → legendas (2 min setup). Antes era Sora + voiceover tool + syncing manual. Agora é one-shot. Mentorado: tá vendo deflatação de tempo produção — isso é oportunidade de volume.",
+            "stat": "60%",
+            "stat_label": "redução de tempo em produção",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O PADRÃO",
+            "title": "Multimodal nativo mata single-task tools",
+            "highlight": "Multimodal",
+            "body": "Ferramentas single-task (só vídeo, só áudio, só texto) tão perdendo. Quem roda IA que entende múltiplas modalidades e as sincroniza vence. Veo 3 é a prova: vídeo+som == ferramenta nova que Sora não conseguiu fazer.",
+            "stat": "1",
+            "stat_label": "ferramenta pra tudo",
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva e segue @rafaondei",
+            "highlight": "Salva",
+            "body": "Radar de IA todo dia. Video generation, audio, multimodal. Onde tá nascendo o próximo unicórnio de criação de conteúdo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Meta Compute Cloud: aluga 1M+ H100s por US$ X/hora",
+      "summary": "No dia 1º de julho, Meta anunciou uma nova business unit: Meta Compute, um serviço de cloud que aluga o computacional ocioso de Meta. Com mais de 1 milhão de H100s em data centers, Meta tá vendendo capacity pra competidores de AWS e Google Cloud. Move estratégico pra monetizar infraestrutura e garantir revenue stream independente.",
+      "source": "Meta AI Blog",
+      "link": "https://ai.meta.com/blog/",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "Meta vira cloud provider",
+        "caption": "Meta anunciou Meta Compute no dia 1º de julho — um novo business unit pra alugar a sobra de computacional em seus data centers. Com 1M+ H100s, Meta tá competindo direto com AWS, Azure e Google Cloud. É um revenue stream novo que torna Meta independente de ads. Estratégia: monetiza infra ociosa, ganha dinheiro em tempo real, garante que startups de IA dependam de Meta. #Meta #Cloud #H100 #Infraestrutura #InteligenciaArtificial #Mercado #Tecnologia",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "NEGÓCIO NOVO",
+            "title": "Meta Compute: cloud provider",
+            "highlight": "cloud",
+            "body": "Meta saiu do ramo de ads sozinha. Anunciou Meta Compute em 1º de julho — serviço de cloud pra aluguel de GPUs. Tá monetizando a infra que tem.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "ESCALA",
+            "title": "1M+ H100s disponíveis pra rent",
+            "highlight": "1M+",
+            "body": "Meta tem mais de 1 milhão de H100 GPUs em seus data centers. Agora tá alugando. Significa: capacidade computacional comparable à de AWS em alguns mercados. Concorrência direta em infraestrutura.",
+            "stat": "1M+",
+            "stat_label": "H100s em Meta Compute",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE ACONTECEU",
+            "title": "Meta descobriu que compute é commodity",
+            "highlight": "commodity",
+            "body": "Meta treinou Llama com tanta GPUs que sobrou capacity. Ao invés de deixar idle, tá vendendo. Move economicamente racional: compute ocioso gera zero revenue. Compute alugado gera marging alta (compute é matéria-prima, não produto final).",
+            "stat": "40%",
+            "stat_label": "marges típicas de cloud infra",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "VIRADA ESTRATÉGICA",
+            "title": "Meta para de ser só ads, vira cloud",
+            "highlight": "cloud",
+            "body": "Historicamente, Meta = publicidade. Agora Meta = publicidade + infra. Significado: revenue diversificado. Se ads caem, compute sobe. Se compute cai, ads sobe. Segundo o Metaverso fracassa, pelo menos infra compensa. E mais: startups de IA agora dependem de Meta pra escalar.",
+            "stat": "2",
+            "stat_label": "unidades de negócio (ads + compute)",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Aluga por hora, paga on-demand",
+            "highlight": "on-demand",
+            "body": "Meta Compute funciona como AWS EC2. Tu cria uma conta, pede 10 H100s, roda teu job, paga só o tempo que usou. Sem commitment. Sem 3-year contracts. Máxima flexibilidade. Significa: starups podem testar em escala. Startups podem migrar de cloud pra cloud — não é lock-in.",
+            "stat": "0",
+            "stat_label": "lock-in obrigatório",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM IMPORTA",
+            "title": "Startup de IA: novo vendor pra escalar",
+            "highlight": "vendor",
+            "body": "Se tu treina modelo, fine-tuna LLM, roda inference em escala, Meta Compute te dá opção sem AWS lock-in. Preço competitivo. Capacidade confiável. Empreendedor: tá pensando em virar infra provider? Tá vendo o caminho que Meta tá abrindo.",
+            "stat": "3",
+            "stat_label": "providers principais agora (AWS, Azure, Meta)",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "FRAGMENTAÇÃO",
+            "title": "Cloud infra tá se fragmentando",
+            "highlight": "fragmentando",
+            "body": "Antes: AWS sozinha. Depois: Azure entrou. Agora: Meta, Anthropic Cloud, Together AI infrastructure — cada um oferecendo opções. Significado: moat de AWS caiu. Commodity tá realmente ficando commodity. Quem consegue otimizar custo infra ganha margem. Quem não consegue, sofre.",
+            "stat": "10x",
+            "stat_label": "aumento de opcoes de infra",
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva e segue @rafaondei",
+            "highlight": "Salva",
+            "body": "Radar de IA todo dia. Infra, preços, integrações. Onde tá barato pra escalar, onde tá caro.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Mistral: robotics model Robostral Navigate + open-weight MoE",
+      "summary": "Mistral anunciou dois movimentos em julho: (1) Robostral Navigate, um modelo de robótica pra navegação de ambientes complexos usando câmera única, treinado por simulação, hardware-agnóstico; (2) novo open-weight mixture-of-experts modelo entrando early access em julho, pitched como fechamento do gap com proprietary rivals. Parcerias com Airbus, BMW, ASML pra industrial AI.",
+      "source": "Mistral AI Official",
+      "link": "https://mistral.ai/news/",
+      "category": "aplicação",
+      "recommended": false,
+      "carousel": {
+        "theme": "IA entra no mundo físico",
+        "caption": "Mistral saiu em duas frentes em julho. (1) Robostral Navigate — modelo de robótica pra navegação complexa, só precisa câmera, funciona em qualquer robot (Tesla, Boston Dynamics, qualquer um). (2) Novo open-weight MoE entrou em early access — pitcado como 'fat but sparse', fechando gap com Claude/GPT. Parcerias com Airbus, BMW, ASML em AI industrial. Mistral tá virando player de IA física. #Mistral #Robotics #AI #OpenSource #Empreendedorismo #Tecnologia #InteligenciaArtificial",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "IA FÍSICO + MODELOS",
+            "title": "Mistral: robôs + open weights",
+            "highlight": "robôs",
+            "body": "Mistral fez dois lançamentos em julho. Robostral Navigate (robótica) e novo open-weight MoE (modelos). IA tá saindo do digital e entrando no físico.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "ROBÔS INTELIGENTES",
+            "title": "Robostral Navigate: qualquer câmera",
+            "highlight": "qualquer",
+            "body": "Robostral Navigate é um modelo treinado por simulação que permite qualquer robô navegar ambientes complexos com só uma câmera. Hardware-agnóstico (Tesla Bot, Boston Dynamics, doesn't matter). Generalista demais pra especificar, mas se funciona em lab, escala em fábrica.",
+            "stat": "1",
+            "stat_label": "sensor necessário (câmera)",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE ACONTECEU",
+            "title": "Mistral tá construindo moat em física",
+            "highlight": "física",
+            "body": "Todos os players grandes (OpenAI, Anthropic, Google) tão focando em software. Mistral viu gap: ninguém tá buildando IA pra robôs no nível de aplicação. Robostral é o começo. Parcerias com Airbus, BMW, ASML pra industrial automation.",
+            "stat": "3",
+            "stat_label": "parcerias Mistral anunciadas",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "DIVERSIFICAÇÃO",
+            "title": "Open models agora têm hardware",
+            "highlight": "hardware",
+            "body": "Mistral tá dizendo: 'não queremos competir só em benchmarks de chat'. Queremos modelos que FAÇAM COISAS — roupa pick na fábrica, inspeção visual no foguete, logística em warehouse. Significa: Mistral tá passando do software pra robotics-as-AI. Diferencial vs Anthropic/Google que ainda tão em chat.",
+            "stat": "1",
+            "stat_label": "jogador de HW+SW integrados",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Simulação → modelo → robô real",
+            "highlight": "Simulação",
+            "body": "Mistral treinou Robostral em simulação (Unreal, Unity, etc). Depois aplica o modelo em robôs reais. Esse é o padrão em robotics: evita dados reais caros. Robostral generalizou bem de sim → realidade. Significa: Mistral tem expertise em domain randomization e sim-to-real transfer.",
+            "stat": "100%",
+            "stat_label": "treinado em simulação",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM IMPORTA",
+            "title": "Fábrica: 30% redução de custo",
+            "highlight": "custo",
+            "body": "Se tu tem warehouse ou fábrica, robótica inteligente reduz custo 30-50% vs mão de obra. Robostral permite usar robôs baratos (não-humanoides) com IA cara. Empreendedor: é o momento pra startup de robótica + Mistral integrados. Mercado tá aberto.",
+            "stat": "30-50%",
+            "stat_label": "redução de OPEX com robótica IA",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "IA ENTRA NO MUNDO REAL",
+            "title": "Modelos precisam fazer coisas",
+            "highlight": "fazer",
+            "body": "2026 virou o ano em que IA precisa demonstrar valor fora de chat. Robostral, Perplexity agents, Claude in Slack — tudo é IA que FAZ, não IA que responde. Quem entender esse shift ganha. Modelos são commodity. Aplicações são moat.",
+            "stat": "0%",
+            "stat_label": "diferencial em modelo puro",
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva e segue @rafaondei",
+            "highlight": "Salva",
+            "body": "Radar de IA + robotics. Aplicações que escalam, não só benchmarks.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Perplexity Computer em Microsoft 365: enterprise distribution",
+      "summary": "Perplexity integrou Perplexity Computer diretamente no Microsoft 365 (Word, Excel, PowerPoint, Outlook, Teams) em junho/julho 2026. Segundo a busca, Perplexity arrecadou US$ 200M Series E-6 a US$ 20B valuation, com 45M users, US$ 450M ARR. Agent API agora suporta GPT-5.6, Grok 4.5 e outros modelos com pricing direto.",
+      "source": "Perplexity AI Official",
+      "link": "https://docs.perplexity.ai/changelog/changelog",
+      "category": "aplicação",
+      "recommended": false,
+      "carousel": {
+        "theme": "Perplexity virou Microsoft nativa",
+        "caption": "Perplexity Computer agora tá inside Microsoft 365. Integral no Word, Excel, PowerPoint, Outlook, Teams. Significado: 300M+ Microsoft users têm Perplexity agent nativo. Não precisa de switch de tab. Perplexity tá crescendo $450M ARR com 45M users em 2026. Agent API suporta GPT-5.6, Grok 4.5, Claude — cada um com seu pricing direto. Microsoft tá aberta pra IA multi-vendor agora. #Perplexity #Microsoft365 #AgentAI #Enterprise #InteligenciaArtificial #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "MICROSOFT NATIVA",
+            "title": "Perplexity Computer em 365",
+            "highlight": "Computer",
+            "body": "Perplexity Computer agora tá integrada no Microsoft 365. Direto no Word, Excel, PowerPoint, Outlook, Teams. Não é extensão — é nativa.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "DISTRIBUIÇÃO",
+            "title": "300M+ potencial users via Microsoft",
+            "highlight": "300M+",
+            "body": "Microsoft 365 tem ~300 milhões de usuários pagos. Agora todos têm Perplexity Computer pra usar. Perplexity tá virando ferramenta default pra trabalho — não só busca, mas agent de task.",
+            "stat": "300M+",
+            "stat_label": "potencial de users no day 1",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE ACONTECEU",
+            "title": "Perplexity saiu do app e virou plataforma",
+            "highlight": "plataforma",
+            "body": "Perplexity começou como search engine. Virou agent. Agora é middleware em 365. Crescimento: 45M users, US$ 450M ARR em 2026. Levantou US$ 200M a US$ 20B valuation. Significa: Perplexity é série B valuation com série E receita.",
+            "stat": "450M",
+            "stat_label": "USD ARR em 2026",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O GANHO",
+            "title": "Multi-vendor LLM no workplace",
+            "highlight": "multi-vendor",
+            "body": "Microsoft agora roda Perplexity que roda Claude/GPT/Grok em paralelo. Significa: Microsoft deixou de ser lock-in. 365 virou plataforma pra múltiplos LLMs. Cada LLM tem seu pricing — tu escolhe. Isso é mudança estrutural: antes era 'Microsoft usa OpenAI', agora é 'Microsoft distribui qualquer IA'.",
+            "stat": "3+",
+            "stat_label": "LLMs suportados em Perplexity API",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Perplexity Computer orquestra 19 modelos",
+            "highlight": "orquestra",
+            "body": "Perplexity Computer roda em background do 365. Tu tá em Word escrevendo, pede '@computer: resumo isso', Perplexity roda agent que pode chamar Claude, GPT, Grok — o que for melhor pra task. Roting automático, preço automático.",
+            "stat": "19",
+            "stat_label": "modelos que Perplexity orquestra",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM IMPORTA",
+            "title": "Empresa: IA já é standard agora",
+            "highlight": "standard",
+            "body": "Se tu trabalha em qualquer empresa com 365, tá com agent nativo pra rascar. Redação, análise, pesquisa — tudo tem IA. Empreendedor: pensa em integração pra 365. Se conseguir estar ali, tem 300M users",
+            "stat": "1",
+            "stat_label": "aba pra agents em 365",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "ENTERPRISE TURBINA AGENTES",
+            "title": "Desktop + cloud = nova dimensão",
+            "highlight": "dimensão",
+            "body": "Agents em chat eram legal. Agents em 365 que tu tá usando todo dia? Isso é onde agentes explodem em adoção. Porque não é 'use novo software' — é 'seu software ganhou superpoderes'. Perplexity tá ganhando porque entendeu: distribuição via ferramenta existente > distribuição via novo app.",
+            "stat": "50%+",
+            "stat_label": "esperado de desktop workers em 365 com agents",
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva e segue @rafaondei",
+            "highlight": "Salva",
+            "body": "Radar de IA todo dia. Distribuição, integrações, onde tá tendo traction em enterprise.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Cursor iOS + Automations: agentes mobile do código",
+      "summary": "Cursor anunciou Cursor para iOS em public beta em todas as paid plans, e lançou Automations — forma de triggar automaticamente agentes de coding a partir de Slack, commits git, ou timers. Cursor agora é trusted por more than 50% da Fortune 500. Bloomberg reportou revenue de US$ 2B+ anualizados (growing $1B nos últimos 3 months). iOS mobile vem com 75% off promo através de 5 de julho.",
+      "source": "Cursor Official / Bloomberg",
+      "link": "https://cursor.com/",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Coding agents agora rodaim 24/7 no teu celular",
+        "caption": "Cursor saiu em duas frentes em julho: (1) Cursor iOS em public beta pra todas as paid plans — agora tu controla agents de coding do celular, sempre ligado. (2) Automations — dispara agents de código automaticamente quando Slack msg chega, código sofre commit, ou timer dispara. Cursor tá em 50%+ da Fortune 500. Revenue: US$ 2B+ anualizados (growing $1B em 3 months). Significa: coding agents explodiram. #Cursor #MobileAI #Coding #Automation #InteligenciaArtificial #Desenvolvimento",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "MOBILE + AUTOMAT",
+            "title": "Cursor: iOS + Automations",
+            "highlight": "iOS",
+            "body": "Cursor lançou iOS em public beta em julho. Mobile agents pra código — sempre ligado. Bônus: Automations triggam agents a partir de eventos (Slack, git, timers).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "SCALE",
+            "title": "US$ 2B+ revenue, Fortune 500: 50%",
+            "highlight": "50%",
+            "body": "Cursor é trusted por more than 50% da Fortune 500. Revenue: Bloomberg apurou US$ 2B+ anualizados — crescimento de US$ 1B em apenas 3 meses. Significa: Cursor tá dobrando revenue a cada trimestre.",
+            "stat": "2B+",
+            "stat_label": "USD revenue 2026",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE ACONTECEU",
+            "title": "Cursor passou de editor pra plataforma",
+            "highlight": "plataforma",
+            "body": "Cursor começou como VS Code + IA. Virou ferramenta de coding indispensável. Agora virou plataforma de agents. iOS significa: seu agent está com você 24/7, não só no desk. Automations significa: seu agent trabalha enquanto tu dorme.",
+            "stat": "24/7",
+            "stat_label": "agent sempre ligado",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "VIRADA",
+            "title": "Coding agents se tornaram sempre-on",
+            "highlight": "sempre-on",
+            "body": "Antes: agent roda quando tu chama. Agora: agent roda no background. Slack novo message → agent detecta → agent rodia code review. Git commit errado → agent avisa antes de merged. Timer 3am → agent roda testes. Coding tá automatizado, não só auxiliado.",
+            "stat": "1000x",
+            "stat_label": "potencial de velocity gains",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Trigger → Agent → Output no Slack",
+            "highlight": "Trigger",
+            "body": "Tu configura Automations em Cursor. 'Se Slack msg contém TODO, roda code review'. 'Se git commit detecta bug pattern, cancela'. 'Se 3am, roda testes completos'. Agent roda em background, result fica no Slack. Tu vê resultado no celular.",
+            "stat": "3+",
+            "stat_label": "tipos de triggers (Slack/git/timers)",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM IMPORTA",
+            "title": "Dev: velocity 2-3x em 90 dias",
+            "highlight": "velocity",
+            "body": "Dev que usa Cursor Automations relata 2-3x velocity. Porque não mexe em código trivial mais. Agent handles. Dev foca no design/arquitetura. Empreendedor: Cursor tá te dando 'team invisível' que trabalha enquanto tu dorme. US$ 2B revenue tá aí pra aproveitar.",
+            "stat": "2-3x",
+            "stat_label": "velocity improvement reportado",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "DEVELOPERS NO NOVO NORMAL",
+            "title": "Dev agora é product manager de agent",
+            "highlight": "product",
+            "body": "Quando agent roda Automations 24/7, dev vira supervisor. Dev escreve prompt pra agent. Agent roda. Dev revisa. Não é mais 'eu codifico tudo'. É 'eu dirijo agent pra codifico tudo'. Papel mudou. Skill mudou. Mentorado: prepara pra esse novo mundo.",
+            "stat": "80%",
+            "stat_label": "time pode ser 'dev + agents' em 2026",
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva e segue @rafaondei",
+            "highlight": "Salva",
+            "body": "Radar de IA todo dia. Produtividade, agents, novas skills pra dev.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "VC Global: US$ 510B em H1 2026 (record)",
+      "summary": "Crunchbase reportou que venture capital global atingiu record de US$ 510 bilhões em H1 2026, surpassando o total de 2025 (US$ 440B) em apenas 6 meses. OpenAI fechou maior round privado da história (US$ 122B). Anthropic levantou US$ 65B. Mega-rounds em Together AI (US$ 800M), Even Realities (US$ 150M), Bespoke Labs (US$ 40M), Taktile (US$ 110M). 88% do VC IA foi pra EUA.",
+      "source": "Crunchbase",
+      "link": "https://news.crunchbase.com/venture/global-startup-exits-ipo-ma-soar-ai-q2-h1-2026/",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "Maior boom de capital privado da história",
+        "caption": "VC global saiu do normal. H1 2026 = US$ 510 bilhões levantados — mais que TODO 2025 em 6 meses. OpenAI: maior round privado da história (US$ 122B). Anthropic: US$ 65B. Together AI: US$ 800M. Significa: IA é onde tá o dinheiro. 88% foi pra EUA, startups fazem IPO antes de lucrar, e mega-rounds definem o jogo. #VenturCapital #IA #Funding #Startup #Empreendedorismo #Mercado",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "BOOM HISTÓRICO",
+            "title": "US$ 510B em H1 2026",
+            "highlight": "510B",
+            "body": "VC global levantou US$ 510 bilhões em apenas 6 meses de 2026. Mais do que TODO 2025 foi levantado em 12 meses. Isso é boom de boom.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "MEGA-ROUNDS",
+            "title": "US$ 122B: OpenAI (maior privado)",
+            "highlight": "122B",
+            "body": "OpenAI fechou o maior round de venture privada na história: US$ 122B. Valuation: US$ 852B post-money. Anthropic levantou US$ 65B. Together AI: US$ 800M. Quando rounds de startup meio-alguém viram bilhões, o jogo mudou.",
+            "stat": "122B",
+            "stat_label": "maior round privado OpenAI",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE ACONTECEU",
+            "title": "IA deslocou cash de tudo mais",
+            "highlight": "deslocou",
+            "body": "VC US$ 510B em 6 meses é cash saindo de fintech, cybersecurity, B2B SaaS, e indo DIRETO pra IA. Porque: IA é 10x payoff. IA é 10x risk. VC tá concentrando portfolio em 'quem consegue IA' vs 'tudo mais'.",
+            "stat": "80%",
+            "stat_label": "concentração de VC em IA startups",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "ESTRUTURAL",
+            "title": "Mega-rounds definem o game board",
+            "highlight": "definem",
+            "body": "Quando OpenAI levanta US$ 122B, tudo muda. Agora OpenAI tem cash pra competir com qualquer coisa. Anthropic com US$ 65B? Idem. Together AI com US$ 800M ainda é peanuts, mas suficiente pra escalar. Startups que não conseguem desse tamanho tão OUT.",
+            "stat": "1",
+            "stat_label": "chance de indie survive",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Mega-round = Microsoft + Sovereign wealth",
+            "highlight": "sovereign",
+            "body": "OpenAI não levanta US$ 122B de early-stage VCs. Levanta de: Microsoft (co-invest), sovereign wealth funds (Arabia, UAE), PE firms (Blackstone, Apollo). Cada um quer piece da IA. Mega-rounds são construçõ de sindicatos, não fundraising normal.",
+            "stat": "5+",
+            "stat_label": "players por mega-round",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM IMPORTA",
+            "title": "Startup: tá em mega-round ou está fora",
+            "highlight": "mega-round",
+            "body": "Se tu tá fundando startup de IA agora, precisa de US$ 10M-100M pra competir. Não é mais 'raise US$ 2M e escala'. É 'raise mega-round ou morre'. Empreendedor: tá pronto pra pitch pra sovereign wealth? Porque dinheiro tá aí — só precisa de acesso.",
+            "stat": "10-100M",
+            "stat_label": "novo entry point pra IA startup",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "CAPITAL TEM SÓ DOIS DESTINOS",
+            "title": "IA ou nada",
+            "highlight": "nada",
+            "body": "2026 virou o ano em que venture capital enxergou que: ou tá em IA, ou tá fora. Tudo mais é underperformance. VC velha (fintech, SaaS, etc) virou penny stocks comparado. Se tá levantando fora de IA, tá lutando contra corrente de capital.",
+            "stat": "10x",
+            "stat_label": "valuation multiple: IA vs tradição",
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva e segue @rafaondei",
+            "highlight": "Salva",
+            "body": "Radar de IA todo dia. Rounds, valuations, pra onde tá indo o dinheiro.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Kling v3 lidera benchmark de vídeo (score 2040)",
+      "summary": "Alibaba's Kling v3 lidera o leaderboard de text-to-video em julho 2026 com arena score de 2040, baseado em 1,143 votos blind entre Kling v3, Happy Horse 1.0 (1765), Seedance 2.0 Fast (1752). Kling v3 atinge 94% coherence score em stress tests, vs 89% ByteDance, 85% OpenAI. Avaliação multimodal (aesthetic, background consistency, dynamic degree, imaging quality, motion smoothness, subject consistency).",
+      "source": "LLM Stats / AI Video Leaderboards",
+      "link": "https://llm-stats.com/leaderboards/best-ai-for-video-generation",
+      "category": "benchmark",
+      "recommended": false,
+      "carousel": {
+        "theme": "Kling destroi concorrência em qualidade",
+        "caption": "Kling v3 tá esmagando todo mundo no benchmark de vídeo. Score 2040 em blind votes (1,143 votos, ninguém sabe qual modelo gerou o vídeo). 94% coherence em stress tests WSJ. Happy Horse 1.0 fica em 2º (1765), Seedance 2.0 fica em 3º (1752). Alibaba tá ganhando a guerra de vídeo-IA. #Kling #VideoAI #Benchmark #Alibaba #Qualidade #InteligenciaArtificial #Tecnologia",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "LÍDER ABSOLUTO",
+            "title": "Kling v3: score 2040",
+            "highlight": "2040",
+            "body": "Kling v3 da Alibaba tá em primeiro lugar no benchmark de vídeo-IA. Score 2040 em arena blind votes. Ninguém consegue um vídeo melhor que Kling agora.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "BENCHMARK CEGO",
+            "title": "1.143 votos: Kling > Happy Horse > Seedance",
+            "highlight": "1.143",
+            "body": "Arena metodologia: 1.143 votos blind (ninguém sabe qual modelo). Resultado: Kling 2040, Happy Horse 1765, Seedance 1752. Diferença é significante. Kling não tá empatado — tá 275 pontos na frente.",
+            "stat": "275",
+            "stat_label": "pontos de vantagem vs 2º lugar",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE ACONTECEU",
+            "title": "Alibaba tá ganhando em qualidade",
+            "highlight": "qualidade",
+            "body": "Google (Veo), OpenAI (Sora), ByteDance (Seedance), xAI — todos tão gerando vídeo. Kling (Alibaba) tá gerando vídeo melhor. Score 94% coherence vs 89% ByteDance, 85% OpenAI. Não é benchmark — é realidade.",
+            "stat": "94%",
+            "stat_label": "coherence score Kling",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O GANHO",
+            "title": "Qualidade destrónica = viralidade",
+            "highlight": "viralidade",
+            "body": "Quando teu vídeo tem 94% coherence, tá melhor que 85% da concorrência. Em escala, isso significa: creator escolhe Kling. Creator gera milhões de vídeos. Kling vira padrão. Albertine tá ganhando mindshare antes de concorrência perceber que Kling é bom.",
+            "stat": "1",
+            "stat_label": "choice por creator",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Seis dimensões de qualidade",
+            "highlight": "seis",
+            "body": "Avaliação Kling testa 6 dimensões: (1) aesthetic quality, (2) background consistency, (3) dynamic degree, (4) imaging quality, (5) motion smoothness, (6) subject consistency. Kling wins em todos. Significa: não é só 'vídeo bonito' — é excelência multidimensional.",
+            "stat": "6",
+            "stat_label": "dimensões onde Kling lidera",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM IMPORTA",
+            "title": "Creator: Kling é o novo padrão",
+            "highlight": "padrão",
+            "body": "Se tu faz vídeo pra marketing, YouTube, TikTok, Kling v3 te dá vantagem. Vídeo mais coerente = menos reshoots = mais volume = mais content gerado. Empreendedor: se tá fundando tool de vídeo, integra Kling, não Sora (que tá descontinuado).",
+            "stat": "2x",
+            "stat_label": "volume potencial vs concorrência",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "CHINA LIDERA VÍDEO",
+            "title": "Alibaba + ByteDance > OpenAI em vídeo",
+            "highlight": "vídeo",
+            "body": "Kling (Alibaba) score 2040. Seedance (ByteDance) score 1752. Sora (OpenAI) score 85% coherence vs 94% Kling. China tá ganhando em vídeo-IA enquanto EUA tá focando em reasoning. Diferenciação geográfica está clara: EUA = texto, China = vídeo.",
+            "stat": "2x",
+            "stat_label": "leadership em vídeo vs EUA",
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Salva e segue @rafaondei",
+            "highlight": "Salva",
+            "body": "Radar de IA todo dia. Benchmarks, quem tá ganhando em qual dimensão.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    }
+  ],
+  "whatsapp": "🎯 RADAR DE IA — 13 JUL 2026\n\n1️⃣ Claude Sonnet 5 padrão global | US$ 2-10 promo até ago | Anthropic\nhttps://www.anthropic.com/news\n\n2️⃣ GPT-5.6 (Sol/Terra/Luna) | ChatGPT Work em 365 | OpenAI\nhttps://openai.com/news/\n\n3️⃣ Grok 4.5 Opus-class US$ 2/6 | SpaceXAI rebrand | xAI\nhttps://x.ai/news/grok-4-5\n\n4️⃣ Veo 3: vídeo+som 8seg nativo | Sora descontinuado | Google\nhttps://docs.cloud.google.com/gemini-enterprise-agent-platform/models/veo/3-0-generate\n\n5️⃣ Meta Compute Cloud | Aluga 1M+ H100s | Novo business\nhttps://ai.meta.com/blog/\n\n6️⃣ Robostral Navigate + open-weight MoE | Mistral\nhttps://mistral.ai/news/\n\n7️⃣ Perplexity Computer em Microsoft 365 | 45M users, US$ 450M ARR\nhttps://docs.perplexity.ai/changelog/changelog\n\n8️⃣ Cursor iOS + Automations | US$ 2B+ revenue, 50% Fortune 500\nhttps://cursor.com/\n\n9️⃣ VC Global US$ 510B H1 2026 | OpenAI US$ 122B, Anthropic US$ 65B\nhttps://news.crunchbase.com/venture/global-startup-exits-ipo-ma-soar-ai-q2-h1-2026/\n\n🔟 Kling v3 lidera (score 2040) | Alibaba vs Google/OpenAI em vídeo\nhttps://llm-stats.com/leaderboards/best-ai-for-video-generation\n\n—\nRadar diário: https://rafaelondei.appnaia.com",
+  "instagram": "Dez notícias, uma tendência: deflatação + aplicação prática.\n\n🔴 Claude Sonnet 5 virou padrão global. Promo US$ 2-10 até fim de agosto. Significa: modelo premium do mês passado tá commodity hoje. Se tu não tá usando nesse nível pra competir, tá atrasado.\n\n🟠 Grok 4.5 é Opus-class por US$ 2/6 (vs Claude US$ 3/15). xAI rebrandou com SpaceX (operação merged). Preço mata — 50% mais barato que concorrência em volume.\n\n🟡 Veo 3 (Google) destroi Sora 2 (OpenAI descontinua). Vídeo + som sincronizado nativo. China lidera em vídeo-IA (Kling score 2040 vs OpenAI 85% coherence).\n\n🟢 Meta Compute vira cloud provider. Monetiza 1M+ H100s ocioso. Perplexity Computer nativa em Microsoft 365 (300M+ potencial). Agents explodem em enterprise.\n\n🔵 Cursor: iOS + Automations sempre-on. US$ 2B+ revenue (dobrando a cada trimestre). Coding agents tão 24/7. Developers viram product managers de agents.\n\n🟣 VC global US$ 510B em H1 2026 (mais que TODO 2025). OpenAI US$ 122B (maior round privado). Mega-rounds definem jogo — indie tá out.\n\n⚪️ Padrão 2026:\n• Modelos = commodity\n• Aplicações = moat\n• Agents = sempre-on\n• Distribuição = via Microsoft/Apple (não app próprio)\n• IA não é diferencial; é custo de entrada\n\nRatom diário: @rafaondei\n#IA #InteligenciaArtificial #Tecnologia #Mercado #Empreendedorismo"
+}
