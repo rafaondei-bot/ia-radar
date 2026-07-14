@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-07-13T07:00:01-03:00",
+  "updated_at": "2026-07-14T07:00:01-03:00",
   "executions": [
+    {
+      "date": "2026-07-14",
+      "key": "2026-07-14",
+      "topic": "mercado de IA",
+      "summary": "Fable 5 (80.3% SWE) vs GPT-5.6 Sol (750 tok/seg): Anthropic promo até 19/07. Veo 3.1 Lite mata Sora. Llama 4 bate GPT-4o (7/10 categorias). DeepSeek peak-hour pricing (2x 9-12h/14-18h). Cursor Automations 24/7 ops. Perplexity TeamMate ide rival. AMD Venice (Zen 6) 22-23 julho. Gemini 3.5 Pro adiado; Flash domina. Meta open-weight commoditizes inference. 657 LLMs: bifurcação final (open vs proprietary).",
+      "items_count": 10
+    },
     {
       "date": "2026-07-13",
       "key": "2026-07-13",

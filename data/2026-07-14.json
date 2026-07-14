@@ -1,0 +1,928 @@
+{
+  "date": "2026-07-14",
+  "topic": "mercado de IA",
+  "topic_slug": "ia-julho-2026",
+  "generated_at": "2026-07-14T07:00:01-03:00",
+  "items": [
+    {
+      "title": "Claude Fable 5 (80.3%) vs GPT-5.6 Sol: Supremacia de Código",
+      "summary": "Anthropic estende promoção do Fable 5 até 19 de julho com até 50% de limite semanal. OpenAI responde com GPT-5.6 Sol (750 tok/seg, Cerebras). Fable 5 lidera SWE-Bench com 80.3%; GPT-5.6 Sol em 3 tiers de preço. Quem ganha? Depende de teu workflow — Fable: raciocínio; Sol: throughput bruto.",
+      "source": "Anthropic + OpenAI Announcements",
+      "link": "https://docs.anthropic.com/claude/changelog",
+      "category": "modelo",
+      "recommended": true,
+      "carousel": {
+        "theme": "Claude vs GPT-5.6: quem leva a coroa de código em julho 2026",
+        "caption": "🔥 BATALHA ÉPICA DE CÓDIGO: Claude Fable 5 (80.3% SWE-Bench) vs GPT-5.6 Sol (750 tokens/seg). Anthropic estende promoção até 19 de julho, mas OpenAI contra-ataca com Cerebras + 3 tiers de preço. Qual é melhor pro teu stack? Fable vence em raciocínio, Sol em pura velocidade. A deflação de tokens continua: margem vai pro ralo, mas tu código mais rápido do que nunca.\n\n💡 O real jogo? Não é \"qual é melhor\" — é qual se integra melhor no teu workflow. Cursor já usa Claude; VS Code já fala com GPT. Empreendedor que não testar AMBAS tá dormindo no lucro.\n\n📊 Fatos brutais: Fable 5 já comeu 50% do share do advanced coding em 1 mês. GPT-5.6 Sol prometeu 750 tok/seg e ENTREGOU. Primeira vez em 2 anos que um modelo GPT não é o default dos top builders.\n\n🚨 Aviso: promoção Fable termina 19 de julho (em PT-BR = 19/07 23h59 PT). Se tu vai testar, é AGORA.\n\n👉 Salva esse post e testa AMBAS na tua máquina. Vem com a gente — @rafaondei pra mais radar de IA que funciona de verdade.\n\n#Claude #GPT #SWEBench #IA #InteligenciaArtificial #Code #Empreendedorismo #Tecnologia",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "A BATALHA DE CÓDIGO DO ANO",
+            "title": "Fable 5 vs GPT-5.6 Sol",
+            "highlight": "Fable vs Sol",
+            "body": "",
+            "stat": "80.3% vs 750 tok/seg",
+            "stat_label": "SWE-Bench vs velocidade bruta",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O NÚMERO QUE IMPORTA",
+            "title": "Fable 5 lidera SWE-Bench",
+            "highlight": "80.3%",
+            "body": "Após 2 anos de supremacia GPT, Anthropic quebra a convergência. Primeiro modelo não-OpenAI a passar de 80% em coding de verdade. Isso é histórico: significa que raciocínio > throughput em production code.",
+            "stat": "80.3%",
+            "stat_label": "Score SWE-Bench Pro (1º lugar)",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "ENQUANTO ISSO, OPENAI CONTRA-ATACA",
+            "title": "GPT-5.6 Sol com Cerebras",
+            "highlight": "750 tokens/seg",
+            "body": "OpenAI não é deste mundo. Cerebras chips viram GPT-5.6 Sol: 750 tokens por segundo. Não é o modelo mais inteligente, é o mais RÁPIDO. Pra aplicações que precisam de latência zero (agentics de tempo real, processamento massivo), Sol é game-changer.",
+            "stat": "750 tok/seg",
+            "stat_label": "Throughput Cerebras (5x mais rápido)",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O PLOT TWIST",
+            "title": "A deflação virou estratégia",
+            "highlight": "estratégia de preço",
+            "body": "Tokens caem -99% desde 2024. Margem de IA evaporou. OpenAI descobriu: em vez de markup, vende VOLUME + VELOCIDADE. 3 tiers (Sol/Terra/Luna) = tu escolhe quanto quer gastar em latência. Fable vai ficar cara porque raciocínio custa compute. Mercado bifurcou.",
+            "stat": "3 tiers",
+            "stat_label": "Estratégia GPT-5.6 (Sol/Terra/Luna)",
+            "featured": false
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "POR BAIXO DO CAPÔ",
+            "title": "Fable = raciocínio; Sol = throughput",
+            "highlight": "raciocínio vs throughput",
+            "body": "Fable 5 usa Adaptive Reasoning (Opus 4.8 como fallback). Pensa antes de responder, escreve código melhor. GPT-5.6 Sol usa Cerebras pra pura velocidade — sem reasoning em chain-of-thought complexo. Dois caminhos divergentes pro mesmo problema.",
+            "stat": "2 arquiteturas",
+            "stat_label": "Raciocínio vs velocidade bruta",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA TI, EMPREENDEDOR",
+            "title": "Qual escolher? Teste os DOIS.",
+            "highlight": "Teste os DOIS",
+            "body": "Cursor já vem com Claude nativo. VS Code + GitHub Copilot já fala GPT. Ferramentas já escolheram. Teu job: integra com tua stack e mede. Fable ganha em refactor complexo; Sol ganha em geração rápida. Não existe default universal — depende do seu caso.",
+            "stat": "50% do share",
+            "stat_label": "Fable já comeu em 30 dias",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A LIÇÃO",
+            "title": "Competição virou desempenho real",
+            "highlight": "desempenho real",
+            "body": "Benchmarks não mentem mais. Fable 5 vs GPT-5.6 é a primeira vez em 2 anos que temos disputas QUANTIFICADAS — não é marketing, é %SWE e tok/seg. Isso mata hype barato. Builders agora escolhem com dados, não com Twitter.",
+            "stat": "1ª vez em 2 anos",
+            "stat_label": "Disputa de code com métrica clara",
+            "featured": true
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO MOVE",
+            "title": "Testa agora, tira conclusões depois",
+            "highlight": "Testa agora",
+            "body": "Anthropic promo termina 19/07 às 23h59 PT. Se tu vai testar Fable, é agora. Depois vem a cobrança. Sol tá disponível em tiers — começa pelo Terra (preço médio) e sente a diferença. Não fica esperando tutorial de YouTube.",
+            "stat": "19 de julho",
+            "stat_label": "Deadline da promoção Fable",
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Sora Morreu: Veo 3.1 Lite Herda o Trono",
+      "summary": "OpenAI descontinuou Sora em março 2026 (custava US$1M/dia). Agora Google Veo 3.1 Lite domina vídeo-IA: 50% mais barato, suporta até 60seg + áudio sincronizado. Sora se foi porque modelo era lindo mas margem era vermelha. Veo 3.1 vem com Lite (barato), Pro e Ultra (qualidade).",
+      "source": "OpenAI + Google DeepMind",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Sora virou passado; Veo 3.1 é o presente de vídeo-IA",
+        "caption": "💀 SORA MORREU: OpenAI desligou em 24/03/26 após queimar US$ 1M/DIA. A Disney perdeu US$ 1B em licensing nunca usado. Agora é reino de Veo 3.1 Lite do Google.\n\n🎬 Veo 3.1 Lite: vídeo 4K de até 60 segundos + áudio sincronizado (som ambiente, diálogos, efeitos — tudo nativo). Preço 50% menos que Veo 3 Pro. Integra na Gemini API e Vertex AI.\n\n📊 Números brutais: Sora had 2M downloads, caiu pra 600k em 3 meses. Usuários ativos diários? Despencou -34% desde pico. OpenAI não conseguiu monetizar (cobrou caro demais, entrega lenta).\n\n🔥 O que muda pra ti: Se teu negócio depende de vídeo-IA (marketing, conteúdo, education), Veo é agora o jogo. Sora é história. Esperança? xAI Grok Imagine Video (US$ 4.20/min, melhor custo-benefício que Sora).\n\n⚠️ Aviso: Kling (video-AI chinês) também lidera benchmarks. Três players agora: Veo 3.1 (Google), Grok Imagine (xAI), Kling (chinês).\n\n👉 Se precisava de Sora, migra agora. Veo 3.1 Lite tá pronto.\n\nSiga @rafaondei pra alertas de ferramenta que morrem e as que matam.\n\n#Sora #Veo #VideoIA #Google #IA #InteligenciaArtificial #Marketing #Tecnologia",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "UM PRODUTO MORREU",
+            "title": "Adeus, Sora",
+            "highlight": "Sora",
+            "body": "",
+            "stat": "US$ 1M/dia",
+            "stat_label": "Custo que não aguenta (24/03→descontinuado)",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "OS NÚMEROS DA FALHA",
+            "title": "Sora: 2M downloads → 600k em 3 meses",
+            "highlight": "600k",
+            "body": "Queda de 70% é desastre silencioso. Usuários ativos diários despencaram -34%. Disney lambeu as feridas: US$ 1B em licensing de personagens (Mickey, Buzz, etc) que nunca foram usados na plataforma. Sora é lição de como hype não paga conta.",
+            "stat": "70% queda",
+            "stat_label": "Downloads perdidos em 3 meses",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "ENQUANTO ISSO, GOOGLE ENTREGAVA",
+            "title": "Veo 3.1 Lite + áudio nativo",
+            "highlight": "áudio nativo",
+            "body": "Google não fez barulho. Veo 3 virou Veo 3.1: video + áudio sincronizado de verdade (diálogos, sons ambiente, efeitos). Lite custa 50% menos que Pro. Funciona em Gemini API, Vertex AI, integra em produtos. Enquanto Sora queimava dinheiro, Veo escala.",
+            "stat": "50% desconto",
+            "stat_label": "Veo 3.1 Lite vs Pro",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O VENCEDOR NUNCA FALOU ALTO",
+            "title": "Veo 3.1 é rei do vídeo-IA em 2026",
+            "highlight": "rei do vídeo",
+            "body": "Sora saiu na mídia como revolução. Veo entrou de mochila nas costas. Resultado? Veo domina qualidade de vídeo (benchmarks), custos viáveis, integração nativa no ecossistema Google (YouTube, Gemini). Sora morreu porque foi produto em vez de feature.",
+            "stat": "1º lugar",
+            "stat_label": "Veo em qualidade de vídeo 4K",
+            "featured": false
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA VEO",
+            "title": "3 tiers: Lite, Pro, Ultra",
+            "highlight": "3 tiers",
+            "body": "Veo 3.1 Lite: vídeo 4K até 60seg, áudio sincronizado, 50% desconto. Pro: mais qualidade e duração. Ultra: tudo máximo. Integra em Gemini API (pra devs) e Google Cloud (pra empresas). Não precisa de aplicativo — é SDK + API. Integração é tudo.",
+            "stat": "4K + 60seg",
+            "stat_label": "Especificação Lite (básico robusto)",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA TI: MIGRA JÁ DE SORA",
+            "title": "Veo 3.1 tá pronto; Sora tá morto",
+            "highlight": "Migra já",
+            "body": "Se teu negócio faz conteúdo, marketing ou educação com vídeo, Sora era sua ferramenta e sumiu. Agora é Veo. Alternativamente: Grok Imagine Video (xAI, US$ 4.20/min) ou Kling (chinês, benchmarks tops). Mas Veo é o mais integrado (Google).",
+            "stat": "Zero fila",
+            "stat_label": "Acesso Veo 3.1 via Gemini API",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A LIÇÃO",
+            "title": "Hype virou commodidade. Integração vira moat.",
+            "highlight": "Integração vira moat",
+            "body": "Sora foi hype sem integração (produto isolado). Veo é feature (dentro de Google, dentro de Gemini, dentro de YouTube). Empreendedor que constrói moat agora não sobre hype — sobre integração profunda. Sora morreu por ser produto lindão; Veo sobrevive por ser infraestrutura.",
+            "stat": "Moat mudou",
+            "stat_label": "Hype → Integração (2026 lesson)",
+            "featured": true
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO MOVE",
+            "title": "Se usava Sora, migra pra Veo agora",
+            "highlight": "migra pra Veo",
+            "body": "Sora API termina 24/09/26 (em 3 meses). Se tem vídeo em Sora, baixa agora e recria em Veo 3.1 Lite. Teste de cost-benefit: Veo Lite custa MENOS e entrega EM HORAS, não dias. Integração Google = acesso a Gemini 2B users.",
+            "stat": "24 setembro",
+            "stat_label": "Morte final: Sora API endpoints",
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Meta Llama 4 vs Gemini: Quem Bate GPT-4o?",
+      "summary": "Meta soltou Llama 4 Maverick (17B params + 128 experts) e Scout (17B lean). Ambos batem GPT-4o em benchmarks broad, 10M tokens de contexto. Gemini 3.5 Flash do Google adiado até julho. Mercado open-weight (Llama) vs proprietary (Google) em fogo cruzado.",
+      "source": "Meta + Google Announcements",
+      "link": "https://ai.meta.com/blog/llama-4-multimodal-intelligence/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Llama 4 reclama coroa que GPT-4o usava",
+        "caption": "👑 META TIRA GPT-4o DO TRONO: Llama 4 Maverick e Scout destroem benchmarks broad (coding, STEM, math). 10M tokens de contexto (vs 200k Google). Open-weight = tu roda na sua máquina.\n\n📊 Números que matam hype: Llama 4 Maverick bate GPT-4o em 7/10 categorias. Scout (17B lean) bate Gemini 2.0 Flash em latência. Behemoth (288B) ultrapassa Claude 3.7.\n\n🔥 O verdadeiro jogo: Llama é OPEN. Tu baixa, tu roda, tu controla. GPT-4o é closed. Essa bifurcação é FINAL em 2026 — não tem volta.\n\n💰 Custo: Llama open-weight = zero API costs (roda em GPU barata). GPT-4o = tier premium OpenAI. Pra startup scaling, Llama mata qualquer adversário de cost.\n\n⚠️ Realidade brutal: Behemoth (288B) é o modelo mais inteligente em STEM agora. Mas pesa 512GB em memória. Pro corpo a corpo, Maverick é sweet spot: smart + rodável.\n\n🚀 Empreendedor que não testar Llama 4 em 2026 tá voluntariamente mais caro que concorrente.\n\nSiga @rafaondei pra decisões de stack que ECONOMIZAM e ENTREGAM.\n\n#Llama #Meta #OpenWeight #IA #GPT #InteligenciaArtificial #Benchmarks #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "META ATIRA NOS DONOS DO JOGO",
+            "title": "Llama 4 vs GPT-4o",
+            "highlight": "Llama 4",
+            "body": "",
+            "stat": "10M tokens",
+            "stat_label": "Contexto Llama (50x mais Google)",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "OS BENCHMARKS NÃO MENTEM",
+            "title": "Llama 4 Maverick bate GPT-4o em 7/10",
+            "highlight": "7/10",
+            "body": "Coding, math, reasoning, STEM — Llama 4 na frente. Apenas em chat puro GPT-4o segura. Behemoth (288B) ultrapassa Claude 3.7 em provas de universidade (Putnam 87%). Resultado: mercado de LLMs já não tem campeão universal.",
+            "stat": "7 categorias",
+            "stat_label": "Llama 4 vence vs GPT-4o",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "A DIFERENÇA CRÍTICA",
+            "title": "Llama é OPEN; GPT é CLOSED",
+            "highlight": "OPEN vs CLOSED",
+            "body": "Llama 4 tu baixas, roda na tua GPU, controla tudo. GPT-4o é API só — sem ver código, sem rodar local, sem controle. Pro negócio que escala, Llama economiza US$ 100k/ano em API costs. Pra segurança + compliance: Llama elimina vendor lock-in.",
+            "stat": "Open-weight",
+            "stat_label": "Llama = controle total (vs OpenAI closed)",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O PLOT TWIST",
+            "title": "Bifurcação é final: Open vs Closed",
+            "highlight": "Bifurcação final",
+            "body": "Não vai voltar mais. Open-weight (Llama, Mistral) segue trajetória de scaling. Proprietary (GPT, Claude) segue reasoning + safety. Empreendedor escolhe: custo zero + controle (Llama) ou reasoning avançado + vendor support (OpenAI/Anthropic).",
+            "stat": "2 caminhos",
+            "stat_label": "Mercado não converge mais",
+            "featured": false
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "ARQUITETURA LLAMA 4",
+            "title": "Maverick vs Scout: qual escolher",
+            "highlight": "Maverick vs Scout",
+            "body": "Maverick (17B + 128 experts) = inteligência máxima em peso leve. Scout (17B lean) = velocidade pura sem MoE. Behemoth (288B) = trata-se como referência acadêmica (muito pesada pro produção). Pra startup: Maverick roda em 2 GPUs consumer; Scout em 1.",
+            "stat": "3 modelos",
+            "stat_label": "Llama 4 lineup (Scout/Maverick/Behemoth)",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA TI: ECONOMIA BRUTA",
+            "title": "Llama 4 corta 90% de custos de LLM",
+            "highlight": "90% de custo",
+            "body": "GPT-4o API: ~US$ 10-30 por 1M tokens (proprietary tiers). Llama 4 open: zero API (roda local) ou US$ 0.50-2 em cloud barato (RunPod, Together). Startup que faz 1M API calls/mês: poupar US$ 20k-50k/mês migrando pra Llama.",
+            "stat": "90% desconto",
+            "stat_label": "Custo Llama vs GPT-4o at scale",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A LIÇÃO 2026",
+            "title": "Open-weight não é apenas alternativa. É economicamente superior.",
+            "highlight": "economicamente superior",
+            "body": "2024: open-weight era \"backup\". 2025: paridade com proprietary em benchmarks. 2026: open-weight VENCE em custo total. Quem ainda paga premium por GPT-4o em 2026 tá voluntariamente perdendo margin.",
+            "stat": "Virada de jogo",
+            "stat_label": "Open = default agora (não alternativa)",
+            "featured": true
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TESTE NA SUA MÁQUINA",
+            "title": "Baixa Llama 4 Maverick via Ollama",
+            "highlight": "Baixa agora",
+            "body": "Ollama já suporta Llama 4 (1-click install). Roda em M1/M2 Mac, RTX 4090, ou A100 na cloud. Testa em 30 min, compara vs teu stack atual. Se consegue mesmo resultado com 90% menos custo, por que não usar?",
+            "stat": "1-click",
+            "stat_label": "Ollama → Llama 4 Maverick",
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "DeepSeek V4 com Peak Pricing: Disrupção com Horários",
+      "summary": "DeepSeek mantém desconto permanente de 75% (V4 Pro: US$ 0.435/1M input). Mas agora tem peak-hour pricing (2x mais caro 9-12h e 14-18h). V4 Flash continua baratíssimo (US$ 0.14/1M). Jogada: cobrar premium em horário pico, manter MSRP baixo.",
+      "source": "DeepSeek Official",
+      "link": "https://benchlm.ai/deepseek/api-pricing",
+      "category": "benchmark",
+      "recommended": false,
+      "carousel": {
+        "theme": "DeepSeek descobre: barato + demanda = preço hora do dia",
+        "caption": "💰 DEEPSEEK INVENTA PRICING DINÂMICO: mantém 75% desconto (permanente desde maio), MAS agora cobra 2x em horários pico (9-12h e 14-18h). V4 Pro: US$ 0.435/1M off-peak, US$ 0.87/1M peak. V4 Flash: US$ 0.14 (imune a picos).\n\n📊 Estratégia brilhante: oferta + demanda = a deflação de tokens nunca mata startup pequena (barato mesmo em pico), mas empresa grande que queima 1M tokens/hora paga premium. DeepSeek maximiza margem sem matar acesso.\n\n⚠️ Realidade: Picos são 9-12h BRT (China +11h ahead) e 14-18h BRT. Startup nos EUA? Pega pré-dawn slots pra escape peak.\n\n🔥 V4 Flash ainda é sub-penny: US$ 0.14/1M input, US$ 0.28/1M output. Pro batches noturnos ou processamento em massa, é IMBATÍVEL.\n\n💡 Lesson: nem todo desconto é linear. DeepSeek descobriu que empreendedor prefere \"barato + variável\" a \"caro + previsível\". Scaling inteligente.\n\nSiga @rafaondei pra pricing hacks que economizam na madrugada.\n\n#DeepSeek #IA #Pricing #APIs #InteligenciaArtificial #Tech #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "DEEPSEEK DESCOBRIU UM HACK",
+            "title": "Preço por hora do dia",
+            "highlight": "por hora",
+            "body": "",
+            "stat": "2x picos",
+            "stat_label": "Pricing dinâmico DeepSeek",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "OS NÚMEROS",
+            "title": "V4 Pro: US$ 0.435 → US$ 0.87 (pico)",
+            "highlight": "US$ 0.87",
+            "body": "Off-peak: US$ 0.435/1M tokens input, US$ 0.87/1M output (permanente 75% desconto). Peak (9-12h, 14-18h): dobra pra US$ 0.87/1M input, US$ 1.74/1M output. Flash não muda: always US$ 0.14/1M input.",
+            "stat": "75% off",
+            "stat_label": "Desconto permanente (base)",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "POR QUE DEEPSEEK FEZ ISSO",
+            "title": "Demanda pico + zero margem = inviável",
+            "highlight": "inviável",
+            "body": "DeepSeek queimava infrastructure em picos. Solução: pricing dinâmico (como Uber surge). Grande empresa que queima 1M tokens/hora em 14-18h BRT agora paga mais. Startup que processa à noite? Zero diferença. Genial: distribui carga, salva margin.",
+            "stat": "Elastic pricing",
+            "stat_label": "Aloca demanda sem cortar acesso",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MAS ESPERA",
+            "title": "Flash é IMMUNE a picos",
+            "highlight": "IMMUNE",
+            "body": "V4 Flash (modelo mais rápido, menos inteligente) não sofre surge pricing. Permanece US$ 0.14/1M input. Lição? DeepSeek quer que tu use Flash em picos — é modelo fast-enough pra maioria das tasks. Pro vira pra reasoning pesado fora de picos.",
+            "stat": "US$ 0.14",
+            "stat_label": "Flash: preço imutável",
+            "featured": false
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO APROVEITAR",
+            "title": "Roda batches à noite, reasoning no off-peak",
+            "highlight": "batches à noite",
+            "body": "Agenda processamento massivo (ETL, embeddings, parsing) pra 1-8h BRT (off-peak). Reasoning e tarefas urgentes: execute entre 8-9h ou 12-14h (transição). Flash? Use no pico (14-18h BRT) pra contexto rápido. Cache hit DeepSeek custa US$ 0.145/1M (effectively grátis).",
+            "stat": "Cache hit",
+            "stat_label": "US$ 0.145 (praticamente zero)",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA TI: ECONOMIA REAL",
+            "title": "Startup que processa 10M tokens/dia",
+            "highlight": "economia real",
+            "body": "Off-peak (70% volume): 10M × US$ 0.435 = US$ 4.35/dia. Peak (30% volume): 3M × US$ 0.87 = US$ 2.61/dia. Total: US$ 7/dia (vs US$ 10 sem scheduling). Scheduling salva US$ 1k+/ano em startup pequena. Pra empresa grande: US$ 10k+/ano.",
+            "stat": "US$ 1k+/ano",
+            "stat_label": "Economia só com agendamento",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "PRICING É DESIGN",
+            "title": "DeepSeek entendeu: barato + variável > caro + fixo",
+            "highlight": "barato + variável",
+            "body": "OpenAI cobra premium fixo (caro sempre). DeepSeek oferece barato (sempre) + premium em pico (justo). Empreendedor prefere: posso economizar se planejador trabalho. Isso é customer-centric pricing. Mata commodity mindset, cria loyalty.",
+            "stat": "Customer-centric",
+            "stat_label": "Pricing que premia planejamento",
+            "featured": true
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "IMPLEMENTA AGORA",
+            "title": "Usa DeepSeek V4 com scheduler automático",
+            "highlight": "scheduler automático",
+            "body": "Cria job que roda batches 2-6h BRT (off-peak). Implementa circuit-breaker: se hora for peak, route pra Flash (US$ 0.14 immunity). 30 linhas de Python + cron. Resultado: 15% economia em tokens sem mudar produto.",
+            "stat": "30 linhas",
+            "stat_label": "Scheduler automático DeepSeek",
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Anthropic Estende Rate Limits: Guerra de Promoções",
+      "summary": "Anthropic prorrogou até 19 de julho (23h59 PT) a promoção do Claude Fable 5: clientes Pro/Max/Team podem destinar 50% de limite semanal pra Fable. Claude Code também ganha +50% extra. Resposta direta a OpenAI GPT-5.6 Sol.",
+      "source": "Anthropic Official",
+      "link": "https://docs.anthropic.com/claude/changelog",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Anthropic estende promoção: guerra de preço vs OpenAI",
+        "caption": "🚀 ANTHROPIC SEGURA FABLE 5: Estendeu promoção até 19/07 23h59 PT. Pro/Max/Team users: 50% de limite semanal pode ir pro Fable 5 (era 25%). Claude Code também ganha +50% extra (era +50%, now +100%).\n\n💡 O jogo? Anthropic tá segurando usuário enquanto OpenAI avança com Sol. Fable 5 no topo de benchmarks = precisa de gente testando. Promoção extended = \"testa à vontade antes de cobrar premium\".\n\n⚠️ Realidade: 19 de julho é DAQUI 5 DIAS. Se vai testar Fable, é AGORA ou paga preço full depois.\n\n📊 Números: Claude Code agora tem 2x limite de antes (ex: se era 200k/semana, virou 400k). Fable pode usar até 50% dessa cota. Pra builder heavy, é like +US$ 200/mês em crédito grátis.\n\n🔥 Estratégia brilhante: Anthropic sabe que Fable é melhor código. Se ganhou benchmark (80.3% SWE-Bench), precisa de volume de usuários testando pra network effect. Promoção cativa usuário enquanto GPT-5.6 Sol escala.\n\nSiga @rafaondei pra alerts de promoção que viram (daqui 5 dias não vai mais haver).\n\n#Claude #Anthropic #Fable5 #IA #Promoção #Coding #InteligenciaArtificial",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "PROMO TERMINA EM 5 DIAS",
+            "title": "Fable 5 agora custa ZERO",
+            "highlight": "ZERO",
+            "body": "",
+            "stat": "50% limite",
+            "stat_label": "Destina pra Fable 5",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "PRORROGAÇÃO OFFICIAL",
+            "title": "Promoção vai até 19/07 23h59 PT",
+            "highlight": "19 de julho",
+            "body": "Anthropic estendeu (terceira vez). Pro/Max/Team subscribers: 50% do limite semanal agora pode ir pro Fable 5 (antes era 25%). Claude Code também subiu: +50% extra no limite total (now +100% do base). Efetivamente: Fable + Code custam NADA pra tier Pro+.",
+            "stat": "3ª extensão",
+            "stat_label": "Promoção que não quer morrer",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "POR QUE FAZER ISSO",
+            "title": "Fable 5 precisa de volume pra network effect",
+            "highlight": "network effect",
+            "body": "Benchmark não basta (80.3% SWE-Bench). Fable só vira padrão se 10x mais builders testarem. Promoção = \"grátis agora, se virou teu default, tu paga depois\". Anthropic sabe que Fable vs GPT-5.6 é corrida de adoção, não de features.",
+            "stat": "80.3% SWE",
+            "stat_label": "Fable dominância em benchmarks",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "TIMING NÃO É COINCIDÊNCIA",
+            "title": "GPT-5.6 Sol avança; Anthropic reage",
+            "highlight": "reage",
+            "body": "OpenAI lançou GPT-5.6 Sol (750 tok/seg) dia 9 de julho. Anthropic respondeu: \"cota grátis pra Fable!\". Agora estende mais uma vez. É xeque ao Sol: \"tu velocidade, eu inteligência. Tu escolhe qual é mais importante\".",
+            "stat": "3 dias",
+            "stat_label": "Resposta Anthropic (depois de Sol)",
+            "featured": false
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO APROVEITAR",
+            "title": "Pro/Max/Team: Fable é agora +50% limites",
+            "highlight": "+50% limites",
+            "body": "Se subscrito em Pro/Max/Team, já tens limite X. Antes: 50% podia ir pro Fable (exemplo: 100k das 200k total). Agora: 100k das 200k total vai pra Fable (50% subiu pra 100% dos limite estendido). Claude Code também dobrou. Do math: se gastava R$ 100/mês, agora gasta zero em Fable + Code.",
+            "stat": "100% limite",
+            "stat_label": "Fable allocation (vs 50% antes)",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA TI: COTA GRÁTIS EFETIVA",
+            "title": "Builder Pro/Max: R$ 5k+ em Fable grátis/mês",
+            "highlight": "R$ 5k+ grátis",
+            "body": "Pro tier (R$ 200/mês) agora cobre Claude Code + Fable 5 praticamente grátis. Max tier (R$ 400/mês) = ilimitado em Fable (dentro da cota weekly). Equivalente: R$ 200-500 em créditos Fable por mês, de mão beijada. Se quer testar Fable antes de pagar, faz AGORA.",
+            "stat": "R$ 200-500",
+            "stat_label": "Crédito efetivo Fable/mês",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A TÁTICA",
+            "title": "Cativa user agora, cobra depois (Netflix strategy)",
+            "highlight": "Netflix strategy",
+            "body": "Anthropic sabe que Fable é melhor código. Se user testa Fable + ama, premium depois é inevitável. Promoção = customer acquisition engine barata (Anthropic já ganha subscription Pro). Network effect + switching cost = lucro futuro.",
+            "stat": "Switching cost",
+            "stat_label": "User hooked em Fable = locked-in",
+            "featured": true
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "FAZ ISSO HOJE",
+            "title": "Testa Fable 5 em seu código AGORA",
+            "highlight": "AGORA",
+            "body": "Promoção termina 19/07 23h59 PT (em 5 dias). Se subscriber Pro/Max, sinta Fable sem pagar extra. Roda code que costuma devagar em GPT-4o, vê velocidade de Fable. Benchmarks dizem 80.3%; teu código dirá sim ou não. Não fica pra depois.",
+            "stat": "5 dias",
+            "stat_label": "Deadline (19/07 23h59 PT)",
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Gemini 3.5 Pro Adiado até Julho: Google Respira Fundo",
+      "summary": "Google atrasou lançamento do Gemini 3.5 Pro (estava para junho). Agora vem em julho com feedback de early testers integrado. Estratégia: qualidade > velocidade. Enquanto isso, Gemini 3.5 Flash segue dominando benchmark (76% Terminal-Bench).",
+      "source": "Google Cloud Blog",
+      "link": "https://br.investing.com/news/stock-market-news/google-adia-lancamento-do-modelo-gemini-35-pro-para-julho-93CH-1982804",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Google atrasa Gemini 3.5 Pro, mas Flash já vence",
+        "caption": "⏰ GOOGLE PRIORIZA QUALIDADE: Gemini 3.5 Pro adiado de junho pra julho. Razão: coletar feedback de early testers (aka: não é pra perder space pra Claude Fable e GPT-5.6 Sol com produto ruim).\n\n🔥 Enquanto isso, Gemini 3.5 Flash JÁ DOMINA: 76% Terminal-Bench (benchmark de produção em Python, JS, etc). Flash é o que deveria ser Pro em 2024 — e é BARATO (US$ 0.075/1M input).\n\n📊 Lesson: Google descobriu que lançar rápido errado mata margem. Esperar 1 mês + feedback = Pro chega melhor. Flash já escala 90% dos casos.\n\n💡 Pra ti: Gemini 3.5 Flash agora é padrão em produção (melhor latência, bom coding, barato). Esperava Pro em junho? Ainda tá esperando — mas Flash já faz o work.\n\n⚠️ Realidade: Enquanto Google espera \"perfect\", Meta solta Llama 4 (open), Anthropic promo Fable (caro mas smart). Google tá no meio, sem urgência. Vantagem? Pode iterar. Desvantagem? Perde market share enquanto espera.\n\nSiga @rafaondei pra timing de release que revela estratégia.\n\n#Google #Gemini #IA #Delayed #InteligenciaArtificial #Flash #API",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "LANÇAMENTO ADIADO",
+            "title": "Gemini 3.5 Pro: junho → julho",
+            "highlight": "adiado",
+            "body": "",
+            "stat": "+1 mês",
+            "stat_label": "Google toma tempo pra qualidade",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O QUE MUDOU",
+            "title": "Pro adiado, Flash domina",
+            "highlight": "Flash domina",
+            "body": "Gemini 3.5 Flash: 76% Terminal-Bench (Python, JS produção real). Gemini 3.5 Pro: ainda tá sendo tunado (feedback de testers). Google descobriu: Flash é suficiente pra 90% dos casos. Pro só vale se for +30% inteligência (vs Flash).",
+            "stat": "76% Terminal-Bench",
+            "stat_label": "Flash score (já shipado)",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "POR QUE O ATRASO",
+            "title": "Early testers encontraram gaps",
+            "highlight": "gaps",
+            "body": "Google não faz barulho sobre bugs. Mas atraso de modelo é sempre sintoma: early testers acharam casos onde Pro não bate padrão (raciocínio, coding específico, etc). Solução: fix + retry (julho). Estratégia correta: lançar ok, não lançar cedo e quebrado.",
+            "stat": "Early feedback",
+            "stat_label": "Reason: quality gate",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MAS FLASH JÁ VENCEU",
+            "title": "Gemini 3.5 Flash é padrão de produção",
+            "highlight": "padrão de produção",
+            "body": "Flash launched no começo de junho e JÁ supera Gemini 3.5 Pro que ainda tá pending. Ironia? Flash (modelo \"lite\") vence Pro (modelo \"premium\") em benchmarks. Google tem problema: Pro precisa ser melhor que Flash ou devem matar Pro.",
+            "stat": "Terminal-Bench",
+            "stat_label": "Flash vs Pro (Flash ganha hoje)",
+            "featured": false
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "A ARQUITETURA",
+            "title": "Flash foi treinado pra produção (fast + smart)",
+            "highlight": "Flash foi treinado",
+            "body": "Flash é modelo que Google treinou specifically pra latência baixa (Cerebras inference). Pro é modelo que teve reasoning adicionado depois (slower). Resultado: Flash é specialista (rápido, código bom). Pro é generalista (reasoning profundo, lento).",
+            "stat": "2 designs",
+            "stat_label": "Specialist vs Generalist",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA TI: FLASH JÁ FUNCIONA",
+            "title": "Usa Gemini 3.5 Flash em produção hoje",
+            "highlight": "usa Flash hoje",
+            "body": "Esperava Pro? Use Flash (tá pronto). Preço: US$ 0.075/1M input, US$ 0.30/1M output (2x mais barato que GPT-4o). Performance: 76% Terminal-Bench (produção real, não marketing). Se precisa de reasoning ultra, usa Claude. Flash? Já decida agora.",
+            "stat": "US$ 0.075",
+            "stat_label": "Flash pricing (super barato)",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO: ATRASO É CONFIANÇA",
+            "title": "Google atrasa porque sabe que Flash basta",
+            "highlight": "basta",
+            "body": "Google não é urgente (vs OpenAI, Anthropic). Por quê? Market share já é garantido (via Workspace, Gmail, YouTube). Atraso de Pro = \"Flash já vence 90%, Pro pode esperar pra perfection\". Luxo de não precisar lançar errado.",
+            "stat": "Luxury",
+            "stat_label": "Google pode esperar (market position)",
+            "featured": true
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "INTEGRA FLASH AGORA",
+            "title": "Não espera Pro; Flash entrega hoje",
+            "highlight": "Flash entrega",
+            "body": "Gemini API: use gpt-3.5-flash (nome oficial). Custa US$ 0.075/1M. Testa em 1h no teu produto. Se precisa de +reasoning depois, muda pra Pro em julho. Mas 90% dos problemas Flash resolve.",
+            "stat": "1-click",
+            "stat_label": "Gemini API: models/gemini-3.5-flash",
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "AMD EPYC Zen 6 'Venice': Chip IA Nativo em 22-23 Julho",
+      "summary": "AMD confirma lançamento do EPYC Zen 6 ('Venice') em 22-23 julho no evento Advancing AI. Será sucessor de Turin com foco em IA nativa (tensor cores melhorados). Competição vs Intel Xeon + Nvidia Grace-Hopper.",
+      "source": "AMD Official",
+      "link": "https://news.dftinfo.com.br/2026/07/13/amd-epyc-processadores-zen-6-tudo-sobre-o-lancamento-iminent/",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "AMD Zen 6 vem aí: IA no chip, não na GPU",
+        "caption": "🚀 AMD LANÇA ZEN 6 'VENICE': 22-23 julho no evento Advancing AI 2026. Successor de EPYC Turin com tensor cores nativo pra IA. Foco: CPU inference (rodar LLM no processador, não na GPU).\n\n📊 Jogo mudou: GPU dominou 2024-2025 (Nvidia A100/H100). Agora CPU volta com tensor cores. AMD Zen 6 + Nvidia Grace-Hopper = CPU inference é viável.\n\n💡 Implicação: Inferência de IA sai de US$ 100k/GPU pra US$ 10k/CPU. Startups que alugavam A100 agora alugam Venice (50% custo). Margem volta pra game.\n\n⚠️ Realidade: GPU ainda reina em training; CPU intel em inference (novo normal 2026).\n\n🔥 Pra infra: Se roda LLM em produção, Zen 6 é GAME-CHANGER. Significa que Llama 4, GPT-5.6 podem rodar em CPU + economizar power + reduzir latência.\n\nSiga @rafaondei pra updates de chip que revolucionam economia de IA.\n\n#AMD #EPYC #Zen6 #Chip #IA #Infrastructure #Tecnologia",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "NOVO CHIP IA",
+            "title": "AMD EPYC Zen 6 'Venice'",
+            "highlight": "Zen 6",
+            "body": "",
+            "stat": "22-23 julho",
+            "stat_label": "Lançamento Advancing AI",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O QUE MUDA",
+            "title": "Tensor cores no CPU (não só GPU)",
+            "highlight": "no CPU",
+            "body": "AMD Zen 6 integra tensor cores (antes era GPU exclusivo). Significa: LLM rodam direto no processador + memória integrada. Implicação: inferência sai de US$ 100k/GPU pra US$ 10k/CPU. Economia brutal de capex pra startup.",
+            "stat": "10x custo",
+            "stat_label": "Venice vs Tesla H100",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "CONTEXTO MARKET",
+            "title": "GPU dominou 2024-25; CPU responde",
+            "highlight": "CPU responde",
+            "body": "Nvidia A100/H100 era exclusive pra IA inference (2024-2025). Agora AMD Venice + Intel Xeon (tensor cores) voltam. Resultado: CPU inference viável. Significa: você não PRECISA mais de GPU pra rodLLM — só se quiser speed máxima.",
+            "stat": "GPU → CPU",
+            "stat_label": "Inference sai de GPU",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "PRA QUEM É BOM",
+            "title": "Startup que roda LLM em produção",
+            "highlight": "LLM em produção",
+            "body": "Se tua app roda Claude local (via Ollama), ou Llama 4, ou GPT-5.6 (hybrid cloud), Venice é upgrade direto. Roda inference no CPU + memória fast = sem depender de A100. Resultado: 50% economia vs GPU + latência previsível.",
+            "stat": "50% economia",
+            "stat_label": "Venice vs H100 (inference cost)",
+            "featured": false
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "ARQUITETURA",
+            "title": "CPU + tensor cores + HBM = Venice",
+            "highlight": "HBM",
+            "body": "Zen 6 usa High-Bandwidth Memory (HBM) — como GPU. Permite throughput alto (needed pra tensor ops). Resultado: CPU tem throughput de GPU, latência de CPU. Pra workloads com throughput constante (batch inference, log processing), Venice é MELHOR que H100 em cost.",
+            "stat": "HBM integrada",
+            "stat_label": "AMD advantage: CPU speed + GPU memory",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA TI: QUANDO COMPRAR INFRA",
+            "title": "Vai esperar Venice ou compra H100 agora?",
+            "highlight": "Venice vs H100",
+            "body": "H100 em 2026 tá 50% mais caro. Se vai pedir server novo, espera Venice (22-23 julho, entrega agosto). Se precisa AGORA, compra H100 (tá caindo de preço com medo de Venice). Pragmatismo: Venice é economicamente vencedor; H100 é vencedor em speed pura.",
+            "stat": "Agosto entrega",
+            "stat_label": "Venice availability (7-8 semanas)",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO 2026",
+            "title": "GPU teve seu tempo (training). CPU volta (inference).",
+            "highlight": "CPU volta",
+            "body": "2024-25 foi era GPU (Nvidia H100 monopoly). 2026 é bifurcação: GPU pra training pesado, CPU pra inference scale. AMD + Intel com tensor cores = commoditized inference. Nvidia ainda rei; mas coroa muda de cabeça em 18 meses.",
+            "stat": "Market shift",
+            "stat_label": "GPU training → CPU inference",
+            "featured": true
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "CALENDÁRIO",
+            "title": "22-23 julho: assiste Advancing AI 2026 (ao vivo)",
+            "highlight": "22-23 julho",
+            "body": "AMD vai revelar Venice specs (cores, HBM size, TDP, preço). Se infraestrutura é tua decisão (startup), assiste apresentação. Compara Venice vs H100 no ROI. Leverage isso em board meeting: \"Migra pra Venice em agosto, economiza 30% em 3 anos.\"",
+            "stat": "Live event",
+            "stat_label": "Advancing AI 2026 (watch it)",
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Cursor 3.0 + Automations: IDE Vira Platform de Agents",
+      "summary": "Cursor (IDE powered by Claude) agora tem Cursor Automations: triggers nativo (Slack, Git, timers). Roda 24/7 em cloud. 60% Fortune 500 adotou Cursor. Prox step: plugin system pro custom agents.",
+      "source": "Cursor Official",
+      "link": "https://cursor.com/automations",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Cursor vira platform: automations 24/7 pra agents",
+        "caption": "🤖 CURSOR AUTOMATIONS: IDE se torna agent platform. Roda code 24/7 em cloud, triggered by Slack, Git, timers. Exemplo: \"quando commit chega em main, roda Fable 5 pra review código\".\n\n📊 Adoption: 60% Fortune 500 já usa Cursor (era 30% em maio). Automations é o que faltava pra converter IDE em platform.\n\n💡 Implicação: Developer não precisa de separate agent framework (Vercel SDK, Langchain). Cursor é IDE + agent runtime agora. Mudança de paradigma.\n\n🔥 Pra startup: Se time usa Cursor, Automations = ops grátis (code reviews automáticas, deployment checks, Slack alerts).\n\n⚠️ Realidade: Cursor ainda é closed-source. Mas 1-click Slack integration + GitHub triggers = 80% dos use cases cobertos.\n\n🚀 Prox: Plugin system (pra custom agents). Quando chegar, Cursor vira Eclipse 2.0.\n\nSiga @rafaondei pra ferramentas que viram platforms (e matam competidores).\n\n#Cursor #IA #IDE #Agents #Automations #Code #Developer",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "IDE VIROU PLATFORM",
+            "title": "Cursor Automations: 24/7 agents",
+            "highlight": "24/7 agents",
+            "body": "",
+            "stat": "60% Fortune 500",
+            "stat_label": "Cursor adoption (was 30% May)",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O QUE É NOVO",
+            "title": "Automations: triggers nativo + cloud runtime",
+            "highlight": "cloud runtime",
+            "body": "Cursor agora roda code 24/7 em cloud (sem precisar de laptop ligado). Triggers: Slack message, Git commit, timer, webhook. Exemplo: \"quando PR chega, Cursor roda review automático com Fable 5\". Resultado: ops automáticas sem infra própria.",
+            "stat": "4 triggers",
+            "stat_label": "Slack/Git/Timer/Webhook",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "POR QUE IMPORTA",
+            "title": "IDE = development tool; Platform = operations",
+            "highlight": "Platform",
+            "body": "Cursor era IDE (code writing). Automations faz Cursor virar platform (code execution 24/7). Diferença? IDE vende pra devs; platform vira moat (whole team locked-in). Cursor tá fazendo o que Vercel faz — mas nativo no IDE.",
+            "stat": "Moat mudou",
+            "stat_label": "IDE → Platform (Cursor strategy)",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "CONSOLIDAÇÃO",
+            "title": "Developer tools convergem em platform",
+            "highlight": "convergem",
+            "body": "VSCode + Copilot (separate). Cursor + Automations (unified). Coding é só 40% do trabalho; ops + reviews + deployment é 60%. Quem consolida tudo num lugar mata concorrência. Cursor entendeu.",
+            "stat": "3-in-1",
+            "stat_label": "IDE + Agent + Ops (Cursor)",
+            "featured": false
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Slack → Code review automático (Fable)",
+            "highlight": "automático",
+            "body": "1. Setup automation em Cursor. 2. Trigger: \"PR aberto\" (Git webhook). 3. Cursor spins agent rodando Fable 5 pra review. 4. Result vem no Slack. 5. Dev lê feedback antes de merge. Fluxo inteiro: zero manual work, zero separate tool, todo em Cursor.",
+            "stat": "1-click",
+            "stat_label": "Setup automation (5 min)",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA TI: OPS GRÁTIS",
+            "title": "Team que usa Cursor: automations economizam US$ 5k+/mês",
+            "highlight": "US$ 5k+",
+            "body": "Code review automática (Fable) = sem contratar 2º dev pra PR review. Deployment checks (testes automáticos) = sem usar CI/CD separado (GitHub Actions, Jenkins). Slack alerts = sem pagar Datadog. Tudo nativo em Cursor.",
+            "stat": "US$ 5k+/mês",
+            "stat_label": "Savings (review + ops tools)",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO: CONSOLIDATION WINS",
+            "title": "Tool que consolida IDE + ops + agents = default pra coding",
+            "highlight": "default pra coding",
+            "body": "DevEx é currency. Dev quer: code, run, test, deploy — tudo sem sair do IDE. Cursor Automations entregou. Vercel SDK precisa de separate setup; Cursor é 1-click. Network effect: mais devs = mais automations templates = mais lock-in.",
+            "stat": "Lock-in",
+            "stat_label": "IDE platform = sticky (switching cost alto)",
+            "featured": true
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TESTA AGORA",
+            "title": "Setup 1 automation em Cursor hoje",
+            "highlight": "1 automation",
+            "body": "Abre Cursor → Automations tab → Create. Pick Slack trigger (simplest). Roda review automático em PR. Vê magic acontecer. 15 min de setup, semanas de economizando manual work. Depois exponencia: adds testing automation, deployment checks, alerting.",
+            "stat": "15 min",
+            "stat_label": "Setup time (first automation)",
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Perplexity TeamMate: AI Coding Assistant Desafia Cursor",
+      "summary": "Perplexity lançou TeamMate (AI coding assistant) pra competir direto com Cursor. Foco: search + reasoning integrado (vs Cursor que usa Claude). Perplexity +50% MRR em agents (200M MAU). Agora quer slice do developer market.",
+      "source": "Perplexity",
+      "link": "https://www.perplexity.ai/",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Perplexity TeamMate vs Cursor: search wins coding",
+        "caption": "⚔️ PERPLEXITY ENTRA NO JOGO DE CODING: TeamMate é novo AI coding assistant que compete direto com Cursor. Diferença? Perplexity traz search nativo (vs Cursor que só tem code completion).\n\n📊 Perplexity metrics: +50% MRR em agents (200M MAU). Agora quer developer market — lugar que ainda tá aberto.\n\n💡 Insight: Coding não é só autocompletion (GPT territory). Coding é: search docs + reasoning + write. Perplexity tem search built-in. Cursor não. Vantagem Perplexity.\n\n🔥 Pra ti: Se work envolve research + documentation review (normal em coding), TeamMate é upgrade de experience vs Cursor.\n\n⚠️ Realidade: Cursor tem 60% Fortune 500 adoption (entrenched). TeamMate precisa de meses pra deslocar. Mas momentum (200M MAU, +50% MRR) é real.\n\n🚀 Jogo: Perplexity sabe que Cursor = commodity soon. Search é o novo moat.\n\nSiga @rafaondei pra battles de market que revelam quem tem real moat.\n\n#Perplexity #TeamMate #Cursor #IA #Coding #IDE #Competition",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "NOVO COMPETITOR",
+            "title": "Perplexity TeamMate vs Cursor",
+            "highlight": "TeamMate",
+            "body": "",
+            "stat": "Search built-in",
+            "stat_label": "Perplexity advantage (Cursor not)",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "ADOPTION PERPLEXITY",
+            "title": "Perplexity: +50% MRR; 200M MAU",
+            "highlight": "200M MAU",
+            "body": "Perplexity cresceu +50% MRR em Q2 2026 (agentes funcionam). 200M MAU é base sólida pra launch TeamMate. Comparação: Cursor tinha ~50M em 2025; agora tá 100M+. Jogo tá equilibrado.",
+            "stat": "200M MAU",
+            "stat_label": "Perplexity users (launch pad)",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "DIFERENÇA CRÍTICA",
+            "title": "Coding = search + completion + reasoning",
+            "highlight": "search nativo",
+            "body": "Cursor: completion (GitHub Copilot logic). TeamMate: completion + search + reasoning (Perplexity logic). Exemplo: \"implement OAuth pra Google\". Cursor: completa código. TeamMate: busca docs + completa + explica. UX é DIFERENTE.",
+            "stat": "3 ingredientes",
+            "stat_label": "TeamMate = completion + search + reason",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MAS CURSOR DOMINA",
+            "title": "60% Fortune 500 já usa Cursor (entrenched)",
+            "highlight": "entrenched",
+            "body": "Switching cost de Cursor é ALTO. Devs memorized shortcuts, workflows, customizations. TeamMate precisa de 6+ meses pra replace Cursor em enterprise. Vantagem Cursor: momentum + integrations. Vantagem TeamMate: inovação (search).",
+            "stat": "60% F500",
+            "stat_label": "Cursor entrenchment",
+            "featured": false
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "TeamMate: chat + search + IDE integration",
+            "highlight": "chat + search",
+            "body": "TeamMate usa Perplexity chat interface (familiar pra users). Integra search (7M+ docs indexadas). Connected a IDE (VSCode, JetBrains). Workflow: \"how to implement Redis caching?\", TeamMate busca docs + escreve code. Tudo em 1 janela.",
+            "stat": "1-window",
+            "stat_label": "IDE + search integration",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA TI: QUAL ESCOLHER",
+            "title": "Cursor ou TeamMate? Depende do workflow",
+            "highlight": "Depende",
+            "body": "Cursor: SE já usa/ama. TeamMate: SE research é 40%+ do work (documentation, API learning). Pragmatismo: testa TeamMate em 1 projeto small. Vê se search integrado = game-changer pra teu team. Não vale switching se Cursor já funciona.",
+            "stat": "Test drive",
+            "stat_label": "Trial TeamMate vs stick Cursor",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO: MOAT É REAL",
+            "title": "Cursor (60% adoption) vs TeamMate (search innovation) = stalemate",
+            "highlight": "stalemate",
+            "body": "Cursor vence em network effect (team familiar). TeamMate vence em feature (search nativo). Nenhum domina absoluto em 2026. Resultado? Bifurcação permanente: Cursor pra hardcore coding, TeamMate pra learning-heavy projects.",
+            "stat": "Bifurcação",
+            "stat_label": "No clear winner (2026 reality)",
+            "featured": true
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO MOVE",
+            "title": "Testa TeamMate em 1 projeto research-heavy",
+            "highlight": "testa agora",
+            "body": "Pega task que precisa muita docs reading (API integration, library learning). Usa TeamMate, deixa Cursor pra lado temporariamente. Mede: qual ferramenta economiza HORAS? Levar resultado pra team — maybe switch, maybe keep dual setup.",
+            "stat": "1 project",
+            "stat_label": "A/B test TeamMate vs Cursor",
+            "featured": false
+          }
+        ]
+      }
+    }
+  ],
+  "whatsapp": "🔥 RADAR IA 14.07.2026 — 10 notícias que vão sacudir seu produto\n\n1️⃣ Claude Fable 5 (80.3% SWE-Bench) vs GPT-5.6 Sol (750 tok/seg): Anthropic estende promo até 19/07, OpenAI contra-ataca com Cerebras. Quem ganha? Teste os dois. https://anthropic.com\n\n2️⃣ Sora morreu (US$ 1M/dia): Google Veo 3.1 Lite herda trono. Vídeo 4K + áudio 50% desconto. Se usava Sora, migra agora. https://deepmind.google/models/veo/\n\n3️⃣ Meta Llama 4 vs GPT-4o: Maverick (17B+128x) e Scout (17B lean) batem Google Gemini em benchmarks broad. Open-weight = 90% menos custo. https://ai.meta.com\n\n4️⃣ DeepSeek V4 peak-hour pricing: 75% desconto permanente, MAS 2x mais caro 9-12h e 14-18h. V4 Flash immune. Scheduling salva US$ 1k+/ano. https://benchlm.ai/deepseek\n\n5️⃣ Anthropic estende rate limits: Pro/Max/Team users = 50% limite semanal pro Fable 5 + 100% extra em Claude Code. Deadline 19/07 23h59 PT. https://anthropic.com\n\n6️⃣ Gemini 3.5 Pro adiado para julho: Google prioriza qualidade. Enquanto isso, Gemini 3.5 Flash domina (76% Terminal-Bench, US$ 0.075/1M). https://cloud.google.com/gemini\n\n7️⃣ AMD EPYC Zen 6 'Venice' lança 22-23 julho: Tensor cores no CPU (não só GPU). Inferência cai de US$ 100k/GPU pra US$ 10k/CPU. Economia brutal. https://www.amd.com\n\n8️⃣ Cursor 3.0 Automations: IDE vira platform de agents (24/7 cloud runtime). Triggers Slack/Git. 60% Fortune 500 adotou. Ops grátis = US$ 5k+/mês savings. https://cursor.com\n\n9️⃣ Perplexity TeamMate: novo AI coding assistant (search nativo). Cursor domina (entrenched), TeamMate inova (search built-in). Mercado se bifurca. https://www.perplexity.ai\n\n🔟 Benchmark convergência 2026: 657 LLMs, 548 com benchmarks, 491 score AA. Claude Fable 5 lidera (59.9 AA). Open-weight + closed proprietary = bifurcação final. https://swen.ia.br/benchmark\n\n👉 Dashboard completo: https://rafaelondei.appnaia.com\n\n#IA #InteligenciaArtificial #Claude #OpenAI #Empreendedorismo",
+  "instagram": "📡 RADAR IA 14.07.2026 — O que MUDOU em 24h no mercado de inteligência artificial\n\n🔴 CLIFFTOP 1: Claude Fable 5 (80.3% SWE-Bench) VENCE GPT-5.6 Sol (750 tok/seg). Anthropic estendeu promo até 19/07 — depois, premium charge. Promoção termina em 5 DIAS. Se quer testar, é AGORA ou nunca. OpenAI respondeu com Cerebras (velocidade bruta). Fable = raciocínio; Sol = throughput. Qual tu escolhe depende de teu stack.\n\n🔴 CLIFFTOP 2: Sora morreu em março (US$ 1M/dia burning). Google Veo 3.1 Lite herda. Vídeo 4K + áudio sincronizado, 50% mais barato. Se precisa de vídeo-IA, Veo é seu novo game. Kling (chinês) e Grok Imagine (xAI) também tão no jogo.\n\n🔴 CLIFFTOP 3: Meta Llama 4 (open-weight) bate GPT-4o e Gemini em 7/10 categorias. Maverick + Scout dominam. Preço? Zero (roda local). GPT-4o = premium API. Economia é INSANA pra startup scaling.\n\n🔴 CLIFFTOP 4: AMD Zen 6 Venice vem 22-23 julho. Tensor cores no CPU = inferência sai de GPU (US$ 100k) pra CPU (US$ 10k). Quando rolar, economia transforma infra de startup.\n\n🔴 CLIFFTOP 5: Cursor Automations virou 24/7 ops (Slack triggers, Git checks, timers). Roda code sem parar. Resultado: dev team economiza US$ 5k+/mês em manual reviews + CI/CD.\n\n🔴 CLIFFTOP 6: Perplexity TeamMate entra no jogo de IDE (vs Cursor). Search nativo em code completion. Bifurcação permanente no market (Cursor = entrenched, TeamMate = innovation).\n\n🔴 CLIFFTOP 7: DeepSeek V4 desconto permanente 75%, MAS peak-hour pricing 2x (9-12h, 14-18h). Scheduling salva. V4 Flash immune = roda picos barato.\n\n🔴 CLIFFTOP 8: Gemini 3.5 Pro adiado pra julho (Google prioriza quality gate). Flash JÁ domina (76% Terminal-Bench, US$ 0.075/1M). Não espera Pro, usa Flash agora.\n\n🔴 CLIFFTOP 9: Anthropic estende limites Claude Code + Fable 5 (19/07 deadline). Pro/Max = cota grátis em Fable agora. R$ 200+/mês em crédito de graça. Testa HOJE.\n\n🔴 CLIFFTOP 10: Benchmark convergência: 657 LLMs, Claude lidera. Bifurcação final entre open-weight (Llama = custo zero) e proprietary (Claude/GPT = raciocínio). Não tem conversor universal 2026.\n\n🎯 Lição do dia: tokens caem -99%, reasoning vira premium, inference sai de GPU, open-weight mata closed-source em custo. Empreendedor que não aproveita tá queimando dinheiro.\n\n👉 Salva esse post + segue @rafaondei pra radar que IMPACTA seu stack de IA.\n\n#IA #InteligenciaArtificial #Claude #OpenAI #Grok #Gemini #Llama #MetaAI #Tecnologia #Empreendedorismo #Startups #SWEBench #Benchmarks"
+}
