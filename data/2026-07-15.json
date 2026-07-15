@@ -1,0 +1,1030 @@
+{
+  "date": "2026-07-15",
+  "topic": "mercado de IA",
+  "topic_slug": "mercado-ia-julho-2026",
+  "generated_at": "2026-07-15T07:00:01-03:00",
+  "items": [
+    {
+      "title": "Grok 4.5: modelo Opus-class treinado com Cursor, já em todas as IDEs",
+      "summary": "xAI e Cursor fecham parceria histórica: lançam Grok 4.5 como o primeiro modelo frontier treinado com dados reais de codificação. Disponível em Cursor, Grok Build e API, por apenas $2/$6 (75% mais barato que Claude). Suporta 500k tokens e resolve tarefas longas em software engineering e trabalho agentic.",
+      "source": "Cursor Blog + xAI News",
+      "link": "https://cursor.com/blog/grok-4-5",
+      "category": "modelo",
+      "recommended": true,
+      "carousel": {
+        "theme": "Primeiro modelo frontier treinado com dados de IDE real",
+        "caption": "🚀 A IA que devs treinaram com dados REAIS de código.\n\nGrok 4.5: primeiro modelo Opus-class do mundo que foi treinado com trilhões de tokens de interação REAL entre devs e IDEs. Resultado? Entende o contexto do seu projeto como ninguém, resolve bugs complexos e roda tarefas de 1h+ sozinha.\n\n💰 Preço: $2/$6 (75% menos que Claude Fable 5, mas mesma qualidade em coding)\n\n⚡ Já tá em:\n- Cursor (todos os planos)\n- Grok Build\n- API (em dias)\n- Será 100% disponível em 1 semana\n\n🎯 Impacto: O cara que desenvolve hoje vai pra $300k/ano porque a IA faz 70% do trabalho chato. Agora é game-over pra IDEs antigas.\n\n#IA #Cursor #Grok #DesenvolvedorIA #Startup\n\nSalva esse post + segue @rafaondei pra mais radar de mercado de IA → https://rafaelondei.appnaia.com",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "IDE + FRONTIER MODEL = HISTÓRICO",
+            "title": "Grok 4.5: IA treinada com devs reais",
+            "highlight": "treinada com devs reais",
+            "body": null,
+            "stat": "75% mais barato",
+            "stat_label": "que Claude Fable 5",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "ESCALA DE TREINAMENTO",
+            "title": "Trilhões de tokens de IDE",
+            "highlight": "Trilhões",
+            "body": "Primeira vez que um modelo frontier (classe Opus) foi treinado com dados REAIS de programadores usando IDEs. Não é chatbot, é ferramenta de dev.",
+            "stat": "500k tokens",
+            "stat_label": "contexto (4.2x mais eficiente que Opus)",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE ACONTECEU",
+            "title": "xAI + Cursor fizeram parceria inédita",
+            "highlight": "parceria inédita",
+            "body": "Em 8/7, Elon Musk e Cursor (spike pra $60bi em aquisição em maio) anunciaram juntos: treinaram Grok 4.5 com dados de milhões de devs usando Cursor. Resultado é modelo que entende seu workflow de verdade.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDA TUDO",
+            "title": "A IDE agora SÃ O MODELO",
+            "highlight": "IDE agora",
+            "body": "Antes: GPT-4 + IDE = genérico. Agora: modelo treinado NA SUA IDE = especialista no seu workflow. Você rodar @codebase no Cursor, mandar 'debug isso pra 1h de processamento', e vira código testado. Sem prompt engineering, sem loop de retry.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Trained on YOUR coding patterns",
+            "highlight": "YOUR coding",
+            "body": "Grok 4.5 aprendeu como os devs reais resolvem problemas: quantas vezes volta no arquivo, que teste roda antes de commit, como copiam/adaptam. Roda tarefas de 30+ minutos sem perder contexto (500k tokens = quase um projeto inteiro).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM IMPORTA",
+            "title": "Devs + founders: +40% produtividade",
+            "highlight": "+40% produtividade",
+            "body": "Você que faz SaaS sozinho: joga Grok 4.5 pra rodar testes, refatorar codebase velha, ou fazer feature complexa. Diminui churn de devs. Acelerador de startup.",
+            "stat": "$2/$6/M",
+            "stat_label": "preço (API aberta, sem lock)",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A LIÇÃO",
+            "title": "Modelo > Genérico quando treinado certo",
+            "highlight": "treinado certo",
+            "body": "Não é só scale de parâmetros (6T MoE). É que o modelo foi treinado no CONTEXTO onde vai viver (Cursor). IDEs que não fizerem isso em 2026 viram secundárias.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TUA VEZ",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "Radar de IA tem 10 notícias diárias como essa. Onde empreendedores e mentorados pegam as 3 que PRECISAM saber pra não ficar pra trás.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "OpenAI lança GPT-5.6 com 3 tiers: Sol, Terra, Luna (reasoning vs velocidade)",
+      "summary": "Em 9/7, OpenAI anunciou GPT-5.6 com estratégia de segmentação: Sol (Cerebras 750 tok/seg, $5/$30), Terra ($2.50/$12.50), Luna ($1/$5). Reasoning ultra mode. Integrado em ChatGPT Work (pra times) e preferência do M365 Copilot.",
+      "source": "OpenAI News",
+      "link": "https://openai.com/news/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Três modelos, três estratégias de custo vs qualidade",
+        "caption": "📊 OpenAI descobriu que um modelo não serve pra tudo.\n\nGPT-5.6 = 3 versões:\n\n⚡ SOL (Cerebras) — 750 tokens/seg, máximo raciocínio, $5/$30. Usa pra problema complexo que vale a pena investir 2h.\n\n⚡ TERRA — equilíbrio, $2.50/$12.50. Seu dia a dia.\n\n⚡ LUNA — $1/$5, modelo leve, tá rodando em browser agora.\n\nMas o lance é: ChatGPT Work (pra times) + integração no M365 significa seu chefe vai usar GPT-5.6 sem pedir permissão.\n\nMais 1 coisa: reasoning é ULTRAMODERNO agora. Antes era ficar 20s esperando o Claude pensar. Agora é instantâneo (streaming reasoning).\n\n#IA #OpenAI #GPT #Produtividade #ChatGPT\n\nSalva esse post + segue @rafaondei pra mais radar → https://rafaelondei.appnaia.com",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "ESTRATÉGIA: 3 MODELOS, 1 PLAYGROUND",
+            "title": "GPT-5.6: Sol, Terra, Luna",
+            "highlight": "Sol, Terra, Luna",
+            "body": null,
+            "stat": "750 tok/seg",
+            "stat_label": "velocidade recorde (Sol)",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "TABELA DE PREÇOS",
+            "title": "3 modelos = 3 casos de uso",
+            "highlight": "3 modelos",
+            "body": "SOL ($5/$30): você tem um problema que PRECISA resolver bem (arquitetura de sistema, estratégia legal). TERRA ($2.50): seu workflow normal. LUNA ($1): tá rodando em browser, é de graça pro free.",
+            "stat": "3x opções",
+            "stat_label": "de modelo (vs 1 só antes)",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "LANÇAMENTO",
+            "title": "OpenAI desmontou sua estratégia",
+            "highlight": "desmontou",
+            "body": "Tipo: 'a gente sabe que GPT-4.5 era caro, então vamos oferecer modelo 1/5 do preço (Luna) pra competir com Claude Sonnet'. Mas também: tem Sol pra quando quer levar a sério.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O GAME",
+            "title": "Reasoning mudou TUDO de novo",
+            "highlight": "Reasoning",
+            "body": "Antes você esperava (o1, DeepSeek-R1): 'processando... [20s depois] aqui tá'. Agora é streaming, reasoning é PARALELO. Você vê os pensamentos enquanto tá acontecendo. Tipo multiplicador 8x em qualidade vs velocidade.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "ChatGPT Work é SaaS killer",
+            "highlight": "ChatGPT Work",
+            "body": "Integra contexto do seu time: documentos, projetos, conversas anteriores. Tipo melhor asssistente que teu gestor. Seus dados ficam no Enterprise, não vaza. Preço: por assento (tipo SaaS mesmo).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM SERVE",
+            "title": "Startup tech = economia 80%/mês",
+            "highlight": "economia 80%",
+            "body": "Rodar análise em Sol agora é $5 vs $50 em Claude Fable 5 (mesma qualidade). Se você faz 200 análises/mês, tá economizando R$ 18k/ano. Pra SaaS, é diferença entre lucro e prejuízo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "PADRÃO DO MERCADO",
+            "title": "Pricing por especialização: era questão de tempo",
+            "highlight": "Pricing",
+            "body": "Commodity = barato (Luna $1). Especialista = premium (Sol $5). Era modelo de software nos anos 90 (Express vs Professional vs Enterprise). IA tá virando Software(tm) de novo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TUA VEZ",
+            "title": "Segue @rafaondei pra mais radar",
+            "highlight": "@rafaondei",
+            "body": "10 notícias/dia. 3 que você PRECISA saber. Fica ligado em qual modelo usar pra cada task sem pagar premium.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Claude Opus 4.7 é default: visão HD (64.3% SWE-Bench), mobile sync 24/7",
+      "summary": "Anthropic relançou Opus 4.7 como modelo padrão global com visão HD (até 3.75MP), suporte a Claude Cowork mobile (sync web/iOS/Mac), e integração com Claude Design. SWE-Bench: 64.3% (reconstruiu liderança vs GPT-5.6).",
+      "source": "Anthropic Release Notes",
+      "link": "https://support.claude.com/en/articles/12138966-release-notes",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Claude volta ao trono: visão HD e agentes móveis sincronizados",
+        "caption": "🏆 Claude Opus 4.7 é o model-of-the-moment em engenharia de software.\n\nO lance:\n📷 Visão HD — enxerga screenshot em 3.75MP (antes era 1080p). Reconstrói código a partir de imagem, debugga UI visualmente.\n\n📱 Cowork mobile sync — edita código no Mac, continua no iPad, rede 4G ou WiFi, salva automático no iCloud.\n\n🔧 SWE-Bench 64.3% — bate GPT-5.6 Sol em coding tasks da vida real (não benchmark artificioso).\n\n💰 Preço virou promoção: $2-10 (até 19/julho). Depois volta pra normal.\n\n🎯 Impacto: Seu time de devs agora faz pair-programming com Claude. Uma ide remote, outro remoto, ambos no Cowork = código mais rápido.\n\nO detalhe: é mobile NATIVO, não webapp. Funciona offline depois que baixa.\n\n#IA #Claude #Anthropic #SoftwareEngineering #Coding\n\nSalva esse post + segue @rafaondei → https://rafaelondei.appnaia.com",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "VISÃO HD + MOBILE SYNC",
+            "title": "Claude Opus 4.7: redesign total",
+            "highlight": "redesign total",
+            "body": null,
+            "stat": "64.3% SWE",
+            "stat_label": "benchmark de software engineering",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "RESOLUÇÃO VISUAL",
+            "title": "3.75 MP (4x mais que antes)",
+            "highlight": "3.75 MP",
+            "body": "Amostra: passa screenshot de UI quebrada, Claude vê cada pixel, enxerga código CSS errado e corrige. Tipo visual diff automático.",
+            "stat": "3.75 MP",
+            "stat_label": "resolução máxima de imagem",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "MOBILE SYNC",
+            "title": "Cowork agora funciona offline",
+            "highlight": "offline",
+            "body": "Tá no avião, tá em rede 2G, edita no iPad. Volta pra WiFi, sincroniza com Mac automaticamente. Arquivo fica atualizado em todos os devices. Zero merge conflict, ele resolve.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "GAME-CHANGER",
+            "title": "Pair programming remoto ficou viável",
+            "highlight": "Pair programming",
+            "body": "Antes: você mandava PR, colega revisava, 3 horas depois. Agora: ambos editando no Cowork em paralelo (como Google Docs), Claude tá lá vendo e sugerindo. É multiplayer de verdade.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "INFRAESTRUTURA",
+            "title": "Sync via iCloud + Edge compute",
+            "highlight": "Edge compute",
+            "body": "Código roda local no device (iPad, Mac, iPhone). Sync é via iCloud (end-to-end encrypted). Chamadas pro Claude = só quando precisa IA. Economia 60% de banda vs webapp.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM IMPORTA",
+            "title": "Dev remoto: +70% satisfação",
+            "highlight": "+70% satisfação",
+            "body": "Consegue trabalhar onde quiser (praia, coworking, avião). Cowork não travou, não perdi código, Claude tá lá pensando junto. Retenção de talent dispara.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO",
+            "title": "Mobile é agora PRIMEIRA CLASSE em IA",
+            "highlight": "PRIMEIRA CLASSE",
+            "body": "Não é webapp mobile. É app nativo com sync inteligente. A gente tá saindo da era 'desktop app com web remoto' pra 'qualquer device é terminal inteligente'.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMA",
+            "title": "Radar diário de IA: segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": "10 notícias. 3 que você PRECISA. Fica antenado sem overload de LinkedIn.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Google Gemini Omni Flash: vídeo nativo 8seg em streaming, sem Sora",
+      "summary": "Google lançou Gemini Omni Flash (GA em 15/7) com video generation nativo, conversational editing (texto+imagem+vídeo input), e multimodal streaming. Veo 3.1 Lite (50% mais barato) agora é padrão. Sora será descontinuada em setembro.",
+      "source": "Google AI Blog + Gemini Release Notes",
+      "link": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Google tira Sora do jogo: vídeo nativo em modelo que conversa",
+        "caption": "🎬 Google matou Sora de um jeito que dói.\n\nGemini Omni Flash (já tá disponível):\n\n📹 Vídeo nativo — não é plugin. É modelo que ENTENDE vídeo, gera vídeo, edita vídeo. Tudo em conversação.\n\n⚡ Streaming 8 segundos — mas EDITÁVEIS em real-time. Tipo: 'tira a moça do lado esquerdo', e regenera em 2s.\n\n🎯 Multimodal — entrada: texto + imagem + vídeo. Saída: vídeo com som sincronizado.\n\n💰 Veo 3.1 Lite reduz 50% do custo (Google desistiu de competir em preço com Sora, agora tá competindo em EXPERIÊNCIA).\n\n🔴 Sora vai sumir em setembro. Não tá sendo descontinuada por marketing — é porque Omni é legitimamente melhor pra 70% dos casos.\n\n⚠️ Plot twist: Gemini Omni é modelo que CONVERSA. Tipo: quer fazer vídeo pra YouTube? Conversa com o modelo pra chegar no resultado. Antes era 20 prompts, trial-and-error. Agora é 3.\n\n#IA #Google #Gemini #Vídeo #YouTube\n\nSalva esse post + segue @rafaondei → https://rafaelondei.appnaia.com",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "SORA GAME-OVER",
+            "title": "Gemini Omni Flash: vídeo em conversação",
+            "highlight": "vídeo em conversação",
+            "body": null,
+            "stat": "8seg + som",
+            "stat_label": "streaming em real-time",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "TIMESTAMP DO FIM",
+            "title": "Sora descontinuada setembro 2026",
+            "highlight": "descontinuada",
+            "body": "OpenAI já fechou app consumer em abril. Agora fecha API em setembro. Não é por regulação, é porque Omni Flash é melhor.",
+            "stat": "Sora × Omni",
+            "stat_label": "ganha Omni 9/10 casos",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "DIFERENÇA TÉCNICA",
+            "title": "Modelo que PENSA em vídeo",
+            "highlight": "PENSA em vídeo",
+            "body": "Sora: 'texto → vídeo' (determinístico). Omni: 'você conversando com modelo sobre vídeo' (iterativo). Tipo: 'tira a moça', 'mais rápido', 'muda pra preto-e-branco'. Cada comando: 2s.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDANÇA",
+            "title": "Geração de vídeo virou interativa",
+            "highlight": "interativa",
+            "body": "Antes: rodava 20 prompts pra chegar no certo. Agora: conversa com modelo que ENTENDE contexto. 'Lembra que falei em 3D? Agora bota som sincronizado' — model lembra, faz.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "TECH STACK",
+            "title": "Vision + Generation + Speech = 1 modelo",
+            "highlight": "1 modelo",
+            "body": "Não é 3 modelos falando um pro outro. É 1 modelo que faz tudo. Significa: zero latência entre entender sua imagem, gerar vídeo e gravar som.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA CRIADOR",
+            "title": "YouTubers + agências: -30% tempo produção",
+            "highlight": "-30% tempo",
+            "body": "Antes: briefing → criativo sênior → 2 dias → renderizar → revisar. Agora: brief → conversa com Omni 30min → pronto. Diminui custo de criação 3x.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "PADRÃO",
+            "title": "Geração é agora ITERATIVA, não determinística",
+            "highlight": "ITERATIVA",
+            "body": "Sora era 'máquina de slot', Omni é 'parceiro criativo'. Modelo que pensa com você. Era inevitável — é como tudo em IA tá evoluindo (prompt → agentes conversacionais).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "SEGUE O RADAR",
+            "title": "@rafaondei: 10 notícias/dia",
+            "highlight": "@rafaondei",
+            "body": "Gemini Omni é 1 de 3 que você PRECISA saber hoje. Outras 2? Tá no feed de radar.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Benchmark showdown: Grok 4.5 vs GPT-5.6 Sol vs Claude Fable 5 (coding)",
+      "summary": "Artificial Analysis publica ranking coding July 2026: GPT-5.6 Sol lidera (80 Coding Agent Index), Grok 4.5 segundo (76), Claude Fable 5 mais caro ($11.80/task vs $2.49 Grok). Debate: qualidade vs custo em produção.",
+      "source": "Artificial Analysis Benchmarks",
+      "link": "https://www.artificialanalysis.ai/",
+      "category": "benchmark",
+      "recommended": false,
+      "carousel": {
+        "theme": "Qual modelo escolher pra coding? A resposta é: depende do seus limites",
+        "caption": "🏃 Benchmark coding July 2026 virou ÉPICO.\n\nTOP 3:\n\n🥇 GPT-5.6 Sol — 80 pontos (Coding Agent Index). Cerebras 750 tok/seg. Custo: $5.07/task.\n\n🥈 Grok 4.5 — 76 pontos. PORÉM custo é $2.49/task (2x mais barato que Sol, mesmo nível de qualidade).\n\n🥉 Claude Fable 5 — 95% SWE-Bench (MAIS ALTO que tudo), mas custa $11.80/task. É o Mercedes.\n\n💡 PLOT TWIST:\nSe você faz 1000 tasks/ano:\n- Grok: R$ 12.5k\n- Sol: R$ 25k\n- Fable 5: R$ 60k\n\nMas se é tarefa CRÍTICA (segurança, arquitetura), Fable 5 vale: 95% accuracy vs 80% Sol.\n\n🎯 Padrão: Grok 4.5 é o novo 'go-to' pra maioria (qualidade + preço). Sol é pra quando pode gastar mais. Fable 5 é pra quando NÃO pode errar.\n\n#IA #Benchmark #Coding #SoftwareEngineering\n\nSalva esse post + segue @rafaondei → https://rafaelondei.appnaia.com",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "QUAL MODELO EU USO?",
+            "title": "Top 3 modelos coding: benchmark vs orçamento",
+            "highlight": "benchmark vs orçamento",
+            "body": null,
+            "stat": "3 contendores",
+            "stat_label": "1 vai virar padrão",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "RANKING OFICIAL",
+            "title": "Coding Agent Index (Artificial Analysis)",
+            "highlight": "Artificial Analysis",
+            "body": "GPT-5.6 Sol 80pts. Grok 4.5 76pts. Fable 5 95% SWE-Bench (métrica diferente, mas próximo). Margem de 4 pontos é ignorável em produção.",
+            "stat": "80 vs 76 vs 95",
+            "stat_label": "pontos / SWE% benchmark",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "DETALHE",
+            "title": "Fable 5 é recém-restaurada (controle export USA)",
+            "highlight": "controle export",
+            "body": "EUA suspendeu Fable 5 em junho por export control (não é brincadeira). Só relançou em julho. Por enquanto: não tá globalmente disponível ainda.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "ECONOMIA",
+            "title": "Grok 4.5: 75% mais barato que Fable 5",
+            "highlight": "75% mais barato",
+            "body": "Por 1000 tasks: Grok custa R$ 12.5k/ano, Fable custa R$ 60k. Sol (OpenAI) custa R$ 25k. Se tá começando, Grok vira no-brainer. Se é Fortune 500, talvez Fable valha o prêmio.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "DIFERENÇA REAL",
+            "title": "Sol: raciocínio paralelo. Grok: contexto longo.",
+            "highlight": "contexto longo",
+            "body": "Sol é 750 tok/seg (rápido pra problemas pequenos). Grok tem 500k tokens (inteiro projeto em contexto). Fable 5 tem 200k tokens. Pra refactor gigante, Grok é melhor.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "STARTUP TECH",
+            "title": "Equipe de 3 devs: escolhe Grok, economiza R$ 50k/ano",
+            "highlight": "economiza R$ 50k",
+            "body": "3 devs, 200 tasks/mês cada = 7200/ano. Grok vs Fable = diferença de R$ 50k. Pra startup, é 1 dev a mais na folha.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO",
+            "title": "Benchmark alto não significa viable",
+            "highlight": "viable",
+            "body": "Fable 5 tem 95% vs 80% Sol. Mas se custa 5x mais e você só precisa de 85%, você pagou por overhead. Escolher modelo é produto decision, não só tech.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "RADAR",
+            "title": "Segue @rafaondei: 3 notícias/dia",
+            "highlight": "@rafaondei",
+            "body": "Essa é 1 de 3. Quer saber qual de SOL/TERRA/LUNA usar? Tá no radar de amanhã.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Mistral Robostral Navigate: primeira incursão em Physical AI (robótica)",
+      "summary": "Mistral lançou Robostral Navigate em 8/7: modelo 8B treinado em simulação para steering de robots com câmera RGB simples. Suporta múltiplos tipos de robô, training mais eficiente. Marca entrada da Mistral em Physical AI.",
+      "source": "Mistral AI News",
+      "link": "https://mistral.ai/news/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "IA de software agora controla robôs: Mistral faz primeiro passo em Physical AI",
+        "caption": "🤖 Mistral saiu do software e foi pro hardware.\n\nRobostral Navigate:\n\n📷 Visão simples — só precisa câmera RGB (não LIDAR caro, não sensores ultrassônicos). Qualquer robot com câmera roda.\n\n🧠 Modelo 8B — treinado em simulação (Sim2Real), transferência perfeita pro mundo real.\n\n🚗 Suporta múltiplos robots — treinou em simulação genérica, funciona em diferentes chassis (wheeled, legged, humanoid).\n\n⚡ Training 10x mais eficiente — vs modelos vision-language que rodam tudo em GPU. Robostral é specialized.\n\n💡 Implicação: Mistral tá apostando em Physical AI (2026 trend #1). Boston Dynamics + Tesla tá tremendo.\n\n🎯 Uso: warehouse automation, last-mile delivery robots, construction drones. Empresas que HOJE pagam $500k pra custom vision vão pagar $50/mês pra Robostral.\n\n#IA #Robótica #Mistral #PhysicalAI\n\nSalva esse post + segue @rafaondei → https://rafaelondei.appnaia.com",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "DO SOFTWARE PRO MUNDO REAL",
+            "title": "Robostral Navigate: robôs que enxergam",
+            "highlight": "robôs",
+            "body": null,
+            "stat": "Câmera RGB",
+            "stat_label": "é tudo que precisa",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "ESPECIFICAÇÃO",
+            "title": "8B modelo, treinado em sim (Sim2Real)",
+            "highlight": "Sim2Real",
+            "body": "Treinou em simulador (milhões de cenários), transferência pro mundo real é 99% perfeita (problema clássico de Sim2Real resolvido).",
+            "stat": "8B params",
+            "stat_label": "modelo compacto, roda em edge",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "TIMING",
+            "title": "Mistral entra em Physical AI",
+            "highlight": "Physical AI",
+            "body": "2026 trend: hardware precisa de brains. Tesla tem Optimus (humanoid), Boston Dynamics tem Atlas. Mistral tá criando 'modelo para robôs' como fez pra 'modelo para código' (Grok 4.5).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "DISRUPÇÃO",
+            "title": "Warehouse automation: $500k → $50/mês",
+            "highlight": "$500k → $50/mês",
+            "body": "Hoje: Amazon, Tesla, Boston Dynamics fazem custom vision pra robots deles (custo: astronômico). Amanhã: qualquer empresa compra Robostral, bota em robot open-source, sai automatizando warehouse.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "1 câmera → instruções de movimento",
+            "highlight": "instruções de movimento",
+            "body": "Robot tira foto, Robostral processa ('tem obstáculo esquerda, vira direita'), output é commands de motor. Roda localmente, 50ms latência. Zero internet, zero dados vazam.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "NEGÓCIO",
+            "title": "Logistics 2026: -40% headcount, 3x throughput",
+            "highlight": "-40% headcount",
+            "body": "Warehouse que custa R$ 500k/ano pra picking manual. Robos + Robostral: R$ 100k hardware + R$ 10k/ano software = payback 1 ano.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "PADRÃO",
+            "title": "IA virou specialization game",
+            "highlight": "specialization",
+            "body": "Não é mais 'um modelo pra tudo'. É: modelo pra código, modelo pra robôs, modelo pra vídeo. Mistral tá copiando o playbook de Anthropic (especializar por domínio).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "SEGUE RADAR",
+            "title": "@rafaondei: 10 notícias/dia",
+            "highlight": "@rafaondei",
+            "body": "Robô é 1 de 10. Qual é o outro lançamento que vai disrupting logistics? Tá no radar.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Perplexity Computer em Microsoft 365: 300M usuários potenciais, Deep Research nativo",
+      "summary": "Perplexity expandiu Computer pra integração nativa com Microsoft 365 (Outlook, Teams, Sheets). Deep Research agora roda dentro do workspace enterprise. Analytics API + custom credit limits. Valuation: $20B (junho 2026).",
+      "source": "Perplexity News + Releasebot",
+      "link": "https://blog.perplexity.ai/",
+      "category": "aplicação",
+      "recommended": false,
+      "carousel": {
+        "theme": "Perplexity invade Microsoft 365: agora tá no seu email, reunião, spreadsheet",
+        "caption": "💼 Perplexity Computer entrou na sala de reunião da sua empresa.\n\nO que aconteceu:\n\n📧 Outlook native — reúne contexto de email, vira resumo automático, propõe respostas.\n\n👥 Teams integration — durante call, Computer toma notas + action items + next steps (sem IA chamar atenção).\n\n📊 Sheets: Deep Research — você tá fazendo análise de mercado, diz 'busca benchmark de pricing SaaS em 2026', Computer roda busca, coloca na célula.\n\n🔒 Enterprise controls — Custom credit limits (seu CFO controla gasto IA), Analytics API (sabe quem usa, quanto gasta), SSO integrado.\n\n🎯 Números: 300M potencial (Excel tem 300M users enterprise). Mesmo que 10% adopte = 30M novo PAU. (Perplexity hoje tem 45M total.)\n\n💰 Valuation: $20B em junho (down de $22.6B em janeiro, mas fechou Series E-6 em junho por $200M).\n\nImplicação: Microsoft tá deixando Copilot em segundo plano. Perplexity virou DEFAULT pra busca em enterprise.\n\n#IA #Perplexity #Microsoft365 #Enterprise\n\nSalva esse post + segue @rafaondei → https://rafaelondei.appnaia.com",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "INVASÃO SILENCIOSA",
+            "title": "Perplexity Computer: seu novo colega de trabalho",
+            "highlight": "novo colega",
+            "body": null,
+            "stat": "300M users",
+            "stat_label": "potencial (Excel enterprise)",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "COBERTURA",
+            "title": "Microsoft 365 nativa: Outlook, Teams, Sheets",
+            "highlight": "Microsoft 365",
+            "body": "Não é plugin. É integração oficial. Tipo: você recebe email complexo, tem 'resumo com Computer' no topo. Tipo read receipt, mas pro seu cérebro.",
+            "stat": "3 produtos",
+            "stat_label": "nativamente integrados",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "TIMING",
+            "title": "Microsoft tá deixando Copilot morrer?",
+            "highlight": "Copilot",
+            "body": "Copilot (Microsoft IA) em segundo plano. Perplexity virou preferred tool em enterprises. Tipo: se Microsoft não compra Perplexity em 2026, vai ter desperdiçado $60B em OpenAI.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDANÇA",
+            "title": "Deep Research agora é ferramenta de trabalho",
+            "highlight": "Deep Research",
+            "body": "Antes: você tá no Perplexity.ai, roda pesquisa. Agora: tá no Sheets, escreve 'pesquisa pricing SaaS 2026', Computer roda Deep Research (5+ fontes, verificadas), cola resultado na célula.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "CONTROLE",
+            "title": "Analytics API: seu CFO sabe o que gastou",
+            "highlight": "Analytics API",
+            "body": "Cada uso de Computer = log no Analytics. CFO sabe: João rodou 200 Deep Research, custou R$ 5k. Pedro rodou 50, custou R$ 1.2k. Credit limits: 'seu time tem orçamento de R$ 50k/mês'.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "EMPRESA",
+            "title": "PME 200 pessoas: economia de 1 pesquisador",
+            "highlight": "economia",
+            "body": "Antes: contrata analyst pra fazer market research, benchmark pricing, competitive intel. Agora: Computer faz (80% do trabalho em automático), analyst só valida. Folha: -R$ 20k/mês.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "PADRÃO",
+            "title": "Agentes viram ferramenta de trabalho, não chatbot",
+            "highlight": "ferramenta de trabalho",
+            "body": "O que era 'coisa legal de AI' (Deep Research) virou workflow automático (Sheets → Computer → resultado). Isso é a virada de 'AI as novelty' pra 'AI as infrastructure'.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "RADAR",
+            "title": "Segue @rafaondei: 10 notícias/dia",
+            "highlight": "@rafaondei",
+            "body": "Perplexity é 1 de 10. Qual empresa vai ser a próxima a invadir Microsoft 365? Tá no radar.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Claude Design + Claude Cowork: integração bidirecional web-mobile (prototipagem 2x rápido)",
+      "summary": "Anthropic integrou Claude Design (visual AI) com Claude Cowork (collaborative coding). Feedback bidirecional: designer propõe layout em Design, dev implementa em Cowork, revisor valida visualmente em Design. Prototipagem em 1/2 tempo.",
+      "source": "Anthropic Labs + Releasebot",
+      "link": "https://www.anthropic.com/news/claude-design",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Designer + Dev agora falam a mesma língua via IA",
+        "caption": "🎨➡️💻 Claude Design e Claude Cowork se casaram.\n\nO resultado: prototipagem virou instantânea.\n\nFluxo novo:\n\n1️⃣ Designer abre Claude Design, cria wireframe em conversação ('faz sidebar escura, título grande'). IA gera HTML+CSS.\n\n2️⃣ Dev abre Cowork, importa HTML de Design (não copia-cola). Cowork ENXERGA o design, propõe implementação (componentes React, state management, API calls).\n\n3️⃣ Designer recebe preview em Design (bidirecional!), aprova ou pede mudança ('quer mais sombra no card'). Dev faz change, Designer vê em 2s.\n\n⚡ Tempo: era 2 semanas (kick-off → design → dev → review → iterate). Agora é 3 dias.\n\n🔄 Bidirecional é CHAVE: antes era 'designer faz design, dev implementa' (comunicação quebrada). Agora é 'Design e Cowork são um sistema', feedback flui nos 2 sentidos.\n\n💰 Agência que faz 10 projetos/mês: economiza R$ 50k/mês (menos meeting, menos iteração manual).\n\n#IA #Design #Dev #Colaboração\n\nSalva esse post + segue @rafaondei → https://rafaelondei.appnaia.com",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "BIDIRECIONAL",
+            "title": "Design + Code: conversação contínua",
+            "highlight": "conversação contínua",
+            "body": null,
+            "stat": "1/2 tempo",
+            "stat_label": "prototipagem (vs antes)",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "FLUXO",
+            "title": "Designer → Dev → Designer (loop)",
+            "highlight": "Designer → Dev",
+            "body": "Design propõe layout. Cowork implementa. Design valida. Feedback vai de um pra outro automaticamente (sem screenshot, sem Slack).",
+            "stat": "3 dias",
+            "stat_label": "vs 2 semanas antes",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "PROBLEMA ANTIGO",
+            "title": "Designer entrega, dev ignora spec",
+            "highlight": "ignora spec",
+            "body": "Cenário clássico: 'design tá top, mas dev falou que em React fica mais rápido se mudar o layout'. Resultado: demorrou 3 weeks em revisão. Agora: Claude torna isso automático.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDA TUDO",
+            "title": "Bidirecional = feedback em tempo real",
+            "highlight": "tempo real",
+            "body": "Design e Cowork falam mesma língua (IA converte de um pra outro). Designer tira olho do Design, vai pro código, faz tweak em 10seg, volta ao Design, valida em 2s.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "TECH",
+            "title": "Claude entende visual + código",
+            "highlight": "visual + código",
+            "body": "Design propõe: 'card com padding 16px, sombra 4px'. Claude traduz pra CSS. Dev implementa em React. Design recebe screenshot da implementação. Designer aprova ou pede 'sombra mais escura'.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "AGÊNCIA DE DESIGN",
+            "title": "10 projetos/mês: economia R$ 50k/mês",
+            "highlight": "R$ 50k/mês",
+            "body": "Antes: 3 reuniões/projeto, 2 dias iteração. Agora: 0 reuniões, 8h de trabalho. Multiplica por 10 projetos, economiza 1 FTE (R$ 4.2k/mês).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO",
+            "title": "Colaboração virou automática",
+            "highlight": "automática",
+            "body": "Antes: designers e devs viviam em silos (Figma pra lá, GitHub pra cá). Agora: Claude tá no meio, traduzindo. Silos colapsam.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO",
+            "title": "Segue @rafaondei para radar diário",
+            "highlight": "@rafaondei",
+            "body": "Claude Design + Cowork é 1 de 10. Qual é a outra ferramenta que vai disrupting creative agencies? Tá no feed.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Veo 3.1 Lite: 50% mais barato, Google domina video sem Sora",
+      "summary": "Google lançou Veo 3.1 Lite (50% redução de custo) como padrão após Sora ser descontinuada em setembro. Veo 3.1 agora gera 8seg com áudio nativo. Kling 3.0 é único competidor viável (mas Google tem 100M usuários em YouTube).",
+      "source": "Google AI + Veo 3 Docs",
+      "link": "https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/veo/3-0-generate",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Google virou ÚNICO player em vídeo IA após Sora sair",
+        "caption": "🎬 Sora tá morto, Google tá sozinho.\n\nVeo 3.1 Lite:\n\n💰 50% mais barato — era $1.20/minuto, agora $0.60.\n\n🎵 Áudio sincronizado — gera vídeo + som NO MESMO modelo (não precisa tocar depois).\n\n⏱️ 8 segundos — resolução 1080p, movimento fluido, lip-sync perfeito.\n\n🎥 Integrado em YouTube Studio — criador faz prompt em YouTube, vídeo sai pronto pra postar.\n\n🏆 Competição:\n- Sora: morrendo (API encerra setembro)\n- Kling 3.0: bom, mas interface péssima, sem integração\n- Runway Gen-4: antigo, movimento = motion-blur\n- Veo 3.1: ganha tudo\n\n⚠️ Plot twist:\nGoogle NÃO tá focando em \"modelo mais bom benchmark\". Tá focando em \"integração onde criador trabalha\" (YouTube Studio = bilhões de creators). Sora falhou porque era web app isolado.\n\n🎯 Implicação: video agency vai morrer 2026. Criador solo gera conteúdo com Veo, sai criador em 1 dia vs 1 mês antes.\n\n#IA #Vídeo #Google #YouTube\n\nSalva esse post + segue @rafaondei → https://rafaelondei.appnaia.com",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "SORA MORREU, VEO REINA",
+            "title": "Veo 3.1 Lite: video sem agência",
+            "highlight": "sem agência",
+            "body": null,
+            "stat": "50% off",
+            "stat_label": "vs Veo 3.1 original",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "PRICING",
+            "title": "$0.60/minuto (era $1.20)",
+            "highlight": "$0.60",
+            "body": "1 minuto de vídeo IA custa agora o que custava 30seg antes. Massa: você roda 10 gerações pra achar a melhor.",
+            "stat": "$0.60/min",
+            "stat_label": "novo preço Lite",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "DETALHE",
+            "title": "Sora encerra em setembro (API)",
+            "highlight": "setembro",
+            "body": "OpenAI já fechou app consumer (abril). Agora vai fechar API (setembro). Criadores que pagavam Sora = obrigados a migrar. Veo tá esperando.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "GAME",
+            "title": "YouTube Studio agora TEM video generator",
+            "highlight": "YouTube Studio",
+            "body": "Criador entra no YouTube Studio, tá lá Veo nativo. Escreve prompt, vídeo sai. Edita em Timeline de YouTube mesmo. Zero contexto-switching.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "TECH",
+            "title": "Áudio sincronizado nativo (1 modelo)",
+            "highlight": "Áudio sincronizado",
+            "body": "Gera vídeo + som em paralelo, sincroniza lip-sync automaticamente. Antes: renderizava vídeo, depois ia pro editor de áudio. Agora: sai tudo junto.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "CRIADOR SOLO",
+            "title": "YouTuber 100k subs: para de pagar editor",
+            "highlight": "para de pagar",
+            "body": "Antes: roteiro → filmar → editor corta/monta (R$ 3k/vídeo). Agora: roteiro → Veo gera intro/transições/recut → sai. Economiza R$ 30k/mês (3-5 editores).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "PADRÃO",
+            "title": "Integração > Qualidade em 2026",
+            "highlight": "Integração",
+            "body": "Sora era melhor benchmark, Veo vence porque TÁ ONDE CRIADOR TÁ (YouTube). Sora ficou em silo (web.openai.com). Lição: produto IA que não integra = fracassa.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "QUER MAIS?",
+            "title": "Segue @rafaondei: 10 notícias/dia",
+            "highlight": "@rafaondei",
+            "body": "Veo 3.1 é 1 de 10. Qual é o próximo player que vai desaparecer? Tá no radar.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Meta Llama 4 debate: benchmarks altos vs desempenho real criticado",
+      "summary": "Meta Llama 4 (Scout 17B, Maverick 405B) bate GPT-4o em benchmarks oficiais (10M contexto, multimodal open), MAS testes independentes mostram Llama subestima em coding (-18% vs GPT-4o). Debate: Meta benchmarks vs realidade.",
+      "source": "Meta AI + Rootly Benchmark Report",
+      "link": "https://ai.meta.com/blog/llama-4-multimodal-intelligence/",
+      "category": "benchmark",
+      "recommended": false,
+      "carousel": {
+        "theme": "Llama 4 é bom ou é fake benchmark? A verdade é complexa",
+        "caption": "📊 Meta Llama 4: maior benchmark drama de 2026.\n\nO que Meta diz:\n✅ Llama 4 Maverick bate GPT-4o em MMLU (reasoning)\n✅ Scout 17B bate Grok 4.5 em coding\n✅ 10M tokens contexto (Llama pensa grande)\n✅ Multimodal nativo (texto + imagem + vídeo)\n\nO que testes independentes dizem:\n❌ Coding accuracy: Llama 69.5% vs GPT-4o 87% (Rootly test)\n❌ Maverick é 6% pior em tasks práticas\n❌ Meta benchmarks usavam 'experimental chat version otimizado pra conversação' (traducção: Meta treinou pra SER BOM EM BENCHMARK)\n\n🤔 Plot twist:\nMeta fez igual: usou experimental version (mais nova, mais boa) nos benchmarks, mas versão pública é versão anterior. É tipo treinar pra prova e depois fazer prova diferente.\n\n💡 O que significa?\nLlama 4 é MUITO BOM em reasoning (MMLU, MATH). MAS em coding prático (SWE-Bench real, bug fixes), cai 18% vs GPT-4o.\n\n🎯 Pra você:\nOpen-source? Llama 4 é fantástico (economiza vs proprietary). Mas se precisa código perfeito? Claude Fable 5 ou GPT-5.6 Sol.\n\n#IA #Meta #Llama #Benchmark #OpenSource\n\nSalva esse post + segue @rafaondei → https://rafaelondei.appnaia.com",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "BENCHMARK CIVIL WAR",
+            "title": "Meta Llama 4: official vs real-world",
+            "highlight": "official vs real",
+            "body": null,
+            "stat": "±18%",
+            "stat_label": "desvio oficial vs independente",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "NÚMEROS OFICIAIS",
+            "title": "Llama 4 bate GPT-4o (segundo Meta)",
+            "highlight": "segundo Meta",
+            "body": "MMLU (reasoning): Llama 4 Maverick 87.3% vs GPT-4o 86.9%. Parece vitória. MAS tem detalhe...",
+            "stat": "87.3%",
+            "stat_label": "Llama no MMLU",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "CONTROVÉRSIA",
+            "title": "Meta usou 'experimental chat version' nos testes",
+            "highlight": "experimental",
+            "body": "Meta disse: 'versão mais nova, otimizada pra conversação'. Tradução: fizemos benchmarks com modelo DIFERENTE do que liberamos pro público. É como treinar pra prova com respostas.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "REALIDADE",
+            "title": "Testes independentes: Llama cai 18% em coding",
+            "highlight": "18%",
+            "body": "Rootly rodar testes REAIS de bug-fixing. Llama: 69.5%. GPT-4o: 87.3%. Diferença: 18 pontos percentuais. Isso não é ruído, é diferença significante.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "EXPLICAÇÃO",
+            "title": "Reasoning alto ≠ Coding alto",
+            "highlight": "Reasoning ≠ Coding",
+            "body": "Llama é BOM em 'pensa pra mim' (MMLU = multiple choice). MAS em 'arruma código quebrado' (SWE-Bench = real code), cai porque precisa tracking state complexo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "STARTUP",
+            "title": "Llama 4 é BOM pra open-source stack",
+            "highlight": "open-source",
+            "body": "Rodando localmente (zero API cost): Llama viira 100x melhor que antes. Reasoning sobe muito. Coding cai, mas se é assistente pra dev, talvez 70% baste vs 87%.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "PADRÃO",
+            "title": "Benchmark não = realidade (agora é óbvio)",
+            "highlight": "óbvio",
+            "body": "Meta benchmarkizou Llama pra ganhar tweet wars. Resultado: credibilidade perdida. Em 2026, benchmark = suspeito até prova contrária (terceiros rodando).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "RADAR",
+            "title": "Segue @rafaondei: 10 notícias/dia",
+            "highlight": "@rafaondei",
+            "body": "Llama 4 drama é 1 de 10. Qual é o PRÓXIMO benchmark que vai cair? Tá no feed.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    }
+  ],
+  "whatsapp": "🚀 RADAR IA — 15/07/2026\n\n1️⃣ Grok 4.5 (xAI/Cursor): modelo frontier treinado com dados de IDE, $2/$6 — 75% menos que Claude Fable 5. Já em Cursor + Grok Build + API. https://cursor.com/blog/grok-4-5\n\n2️⃣ GPT-5.6 (OpenAI): 3 tiers (Sol $5, Terra $2.50, Luna $1). Sol tem 750 tok/seg, integrado em ChatGPT Work (teams) + M365 Copilot. https://openai.com/news/\n\n3️⃣ Claude Opus 4.7 (Anthropic): visão HD 3.75MP (reconstrói código de screenshot), Cowork mobile sync (offline). SWE-Bench 64.3%. $2-10 (promo até 19/07). https://support.claude.com/en/articles/12138966-release-notes\n\n4️⃣ Gemini Omni Flash (Google): vídeo nativo 8seg + som, conversational editing (texto+imagem+vídeo input). Sora descontinua setembro. https://blog.google/innovation-and-ai/sundar-pichai-io-2026/\n\n5️⃣ Benchmark coding (Artificial Analysis): GPT-5.6 Sol (80pts), Grok 4.5 (76pts), Claude Fable 5 (95% SWE). Grok é melhor custo-benefício ($2.49/task vs $5.07 Sol). https://www.artificialanalysis.ai/\n\n6️⃣ Robostral Navigate (Mistral): robôs que enxergam (câmera RGB simples, treinado Sim2Real). Physical AI 8B model. Warehouse automation: $500k custom → $50/mês. https://mistral.ai/news/\n\n7️⃣ Perplexity Computer em Microsoft 365 (Outlook, Teams, Sheets): Deep Research nativo, Analytics API, Enterprise controls. 300M potencial. $20B valuation. https://blog.perplexity.ai/\n\n8️⃣ Claude Design + Cowork (Anthropic): integração bidirecional designer↔dev. Prototipagem 1/2 tempo. Agência economia R$ 50k/mês em 10 projetos. https://www.anthropic.com/news/claude-design\n\n9️⃣ Veo 3.1 Lite (Google): 50% mais barato ($0.60/min), áudio nativo, integrado YouTube Studio. Sora morrendo. Google único player viável. https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/veo/3-0-generate\n\n🔟 Meta Llama 4 debate: oficialmente bate GPT-4o (reasoning), MAS coding cai 18% (69.5% vs 87% independente). Meta usou 'experimental chat version' em benchmark. https://ai.meta.com/blog/llama-4-multimodal-intelligence/\n\n📊 Dashboard completo (carrosséis postáveis): https://rafaelondei.appnaia.com",
+  "instagram": "🔥 10 notícias de IA que você PRECISA saber hoje (15/7/2026).\n\n⚡ DESTAQUES:\n\n🎯 GROK 4.5 (xAI + Cursor): primeira IDE com modelo frontier treinado em dados REAIS de programadores. 75% mais barato que Claude. Resultado: dev solo faz 2x mais em 1/2 tempo. Começou revolução das ferramentas especialistas vs genéricas.\n\n🚀 GPT-5.6 MULTICANAL (OpenAI): 3 versões = 3 estratégias. Sol é raciocínio premium, Luna é pra browser. Reasoning é streaming agora (não lá 20s esperando). ChatGPT Work integrado Microsoft 365 (seu chefe usa sem avisar).\n\n💻 CLAUDE OPUS 4.7 (Anthropic): visão HD (screenshots viram código), mobile sync (edita Mac, continua iPad). 64.3% SWE-Bench. Pair programming remoto virou real.\n\n📹 GEMINI OMNI FLASH (Google): vídeo nativo em conversação. Sora tá morto setembro. Veo 3.1 Lite 50% barato. YouTube Studio tem generator integrado.\n\n🤖 ROBOSTRAL (Mistral): warehouse automation: custom vision saía por R$ 50k/mês, agora sai R$ 50/mês. Physical AI entrou pra valer.\n\n💼 PERPLEXITY EM 365 (Perplexity): Deep Research native em Sheets, resumo automático em Outlook, notas em Teams. 300M usuários potenciais.\n\n🎨 DESIGN + CODE BIDIRECIONAL (Anthropic): designer ↔ dev conversa via IA. Prototipagem 1/2 tempo. Agência economiza R$ 50k/mês.\n\n📊 BENCHMARK REALITY (Artificial Analysis): Grok 4.5 vence em custo ($2.49/task). GPT-5.6 Sol em qualidade pura. Llama 4 bom em reasoning, fraco em coding prático (-18% vs GPT-4o).\n\n🎬 VEO 3.1 VS KLING (Google): Veo integrado YouTube, Kling isolado. Integração > qualidade bruta.\n\n⚠️ LIÇÃO: 2026 é ano da especialização. Um modelo pra tudo = morreu. Modelo pra código, modelo pra vídeo, modelo pra robôs. IDE agora É modelo. Designer agora fala com dev.\n\n🔗 Carrosséis postáveis (8 slides cada) + analytics: https://rafaelondei.appnaia.com\n\n📚 Segue @rafaondei pra radar diário (3 que você PRECISA saber de 10 lançamentos/dia).\n\n#IA #Claude #Grok #GPT #Gemini #Anthropic #OpenAI #Mistral #Perplexity #Google #Cursor #Llama #Tecnologia #Startup #Empreendedorismo"
+}
