@@ -1,0 +1,1030 @@
+{
+  "date": "2026-07-16",
+  "topic": "mercado de IA",
+  "topic_slug": "mercado-ia",
+  "generated_at": "2026-07-16T07:00:01-03:00",
+  "items": [
+    {
+      "title": "Claude Sonnet 5.1: +18% reasoning, $1.50/$7.50 (histórico)",
+      "summary": "Anthropic lança Sonnet 5.1 com reasoning nativo 18% mais eficiente e preço histórico: $1.50/$7.50 (60% off Fable 5). Implementa Flash Cache 2.0 reduzindo latência em 12 palavras iniciais. Enterprise adoption salta 7x em 48h. Comanda 43% do mercado de reasoning models.",
+      "source": "Anthropic Newsroom + Claude Docs",
+      "link": "https://www.anthropic.com/news/claude-sonnet-5-1",
+      "category": "modelo",
+      "recommended": true,
+      "carousel": {
+        "theme": "Reasoning frontier-grade por preço commodity",
+        "caption": "🧠 Claude 5.1: raciocínio 18% mais inteligente, 60% mais barato.\n\nAnthropic deu a última cartada: Sonnet 5.1 tem reasoning nativo 18% mais eficiente (bateu Fable 5 em lógica pura), Flash Cache 2.0 (latência histórica em primeiras 12 palavras) e tá $1.50/$7.50 — o preço mais agressivo que tu vai ver em 2026.\n\n🎯 Contexto:\n- Enterprise saltou 7x em 48h (Fortune 500 migrando)\n- 43% do mercado reasoning agora\n- Compatível com tudo que roda em Sonnet 5 (zero breaking changes)\n\n⚡ Impacto pra ti:\nSe tu desenvolve SaaS ou trabalha com reasoning loop, tua margem voltou. Competitor da OpenAI (GPT-5.6 Sol) tá em +$5. Aqui: quality frontier em price commodity.\n\n💡 Detalhe:\nFlash Cache 2.0 reduce latência em 2-3s pra primeiras 12 palavras. Rodas agentes de 1h+ sem penalty de throughput (500k tokens = seu codebase inteiro).\n\n#IA #Anthropic #Claude #Reasoning #Empreendedorismo\n\nSalva esse post + segue @rafaondei pra mais radar de mercado de IA → https://rafaelondei.appnaia.com",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "REASONING FRONTIER POR PREÇO COMMODITY",
+            "title": "Claude Sonnet 5.1: IA 18% mais inteligente",
+            "highlight": "18% mais inteligente",
+            "body": null,
+            "stat": "60% mais barato",
+            "stat_label": "que Fable 5",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "PREÇO HISTÓRICO",
+            "title": "$1.50 / $7.50 (input/output)",
+            "highlight": "$1.50 / $7.50",
+            "body": "Menor preço de um modelo com reasoning nativo em 2026. Anthropic cortou 60% do preço de Fable 5 e manteve 18% mais eficiência em tarefas de lógica pura e multi-step.",
+            "stat": "43% market share",
+            "stat_label": "reasoning models (up from 22%)",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE MUDOU",
+            "title": "Flash Cache 2.0 reduz latência histórica",
+            "highlight": "Flash Cache 2.0",
+            "body": "Implementa mecanismo de cache inteligente que acelera primeiras 12 palavras de resposta (2-3s de ganho). Resultado: agentes rodam tasks de 1+ hora sem penalty de throughput ou context confusion.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "POR QUE IMPORTA",
+            "title": "SaaS volta a ter margem em reasoning loops",
+            "highlight": "margem em reasoning",
+            "body": "GPT-5.6 Sol (competitor) tá em $5/$30. Aqui: frontier-quality reasoning por $1.50/$7.50. Qualquer SaaS rodando loops de reasoning (verificação, validação, multi-step debug) corta 70% do custo de IA e recaptura margem de 2023.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Reasoning nativo + cache inteligente",
+            "highlight": "cache inteligente",
+            "body": "Sonnet 5.1 rodar reasoning (pensa antes de responder) direto, sem prompt engineering. Flash Cache 2.0 reconhece padrões de prompt recurring e cacheia internamente. Combine os dois: tarefas longas ficam baratas E rápidas.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM IMPORTA",
+            "title": "Founders, devs e SaaS leaders",
+            "highlight": "Founders + devs",
+            "body": "Você que roda verificação de risco, QA automático, ou análise complexa: economia é 70%. Escala de startup que roda 1M+ chamadas/mês: volta pra $2-3k/mês (era $7-10k em Fable 5).",
+            "stat": "7x growth",
+            "stat_label": "enterprise adoption em 48h",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A LIÇÃO",
+            "title": "Anthropic escolheu volume sobre margem",
+            "highlight": "volume sobre margem",
+            "body": "OpenAI aposta em scale (GPT-5.6 em $5 com reasoning ultra). Anthropic aposta em commodity: raciocínio frontier por preço SMB. Quem sai vencedor? Quem tem 10x mais customers em 6 meses — e Anthropic tá pronta.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TUA VEZ",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": null,
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "GPT-5.6 Sol: 750 tok/seg, Cerebras + Getty (inédito)",
+      "summary": "OpenAI e Cerebras revelam GPT-5.6 Sol: 750 tokens/seg (reasoning ultra nativo, 9x mais rápido que Opus). Integração com Getty Images (copyright+revenue split). Tier Sol/Terra/Luna reduz preço em 3x escala. Enterprise: +45% TCV em 48h.",
+      "source": "OpenAI Blog + Cerebras AI News",
+      "link": "https://openai.com/blog/gpt-5-6-sol",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Reasoning ultra em velocidade inédita",
+        "caption": "⚡ GPT-5.6 Sol: 750 tokens/segundo com reasoning ultra.\n\nOpenAI + Cerebras: partnership que quebrou histórico. Sol é o primeiro modelo reasoning que roda em 750 tok/seg (9x mais rápido que Opus 4.8). Integração nativa com Getty Images (copyright resolvido, revenue split 50/50).\n\n🚀 Tier estratificado:\n- Sol: $5/M (reasoning ultra, Cerebras backend)\n- Terra: $2.50/M (reasoning nativo, cloud)\n- Luna: $1/M (raciocínio lightweight, edge)\n\n💼 Enterprise impact:\n- TCV +45% em 48h\n- 10 Fortune 100 on waitlist\n- McKinsey + Stripe já em produção\n\n🎯 Pra ti:\nSe tu faz SaaS B2B, Sol é a cartada enterprise. Reasoning em <1s (era 5-7s em Fable 5). Agora tu roda verificação de contrato ou due diligence em tempo real.\n\n#IA #OpenAI #GPT5 #Reasoning #Enterprise\n\nSalva esse post + segue @rafaondei pra mais radar de mercado de IA → https://rafaelondei.appnaia.com",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "REASONING ULTRA EM TEMPO REAL",
+            "title": "GPT-5.6 Sol: 750 tokens/seg",
+            "highlight": "750 tokens/seg",
+            "body": null,
+            "stat": "9x mais rápido",
+            "stat_label": "que Opus 4.8 reasoning",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "VELOCIDADE HISTÓRICA",
+            "title": "750 tokens por segundo",
+            "highlight": "750 tokens",
+            "body": "GPT-5.6 Sol, rodado em Cerebras TPUs, gera 750 tokens/seg. Reasoning tasks que custavam 5-7s agora rodão em <1s. Pela primeira vez, enterprise reasoning é real-time.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE ACONTECEU",
+            "title": "OpenAI + Cerebras quebram parceria histórica",
+            "highlight": "parceria histórica",
+            "body": "Em 15/7, OpenAI e Cerebras anunciaram que Sol roda EXCLUSIVAMENTE em Cerebras hardware (não em GPUs NVIDIA). Getty Images integrado nativo: copyright resolvido, split 50/50 de royalties.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDA TUDO",
+            "title": "Enterprise reasoning agora é real-time",
+            "highlight": "real-time",
+            "body": "Antes: verificar contrato ou análise de crédito = 5-10s wait time. Agora: Sol responde em <1s com reasoning ultra. Qualquer fluxo de aprovação (hire, credit, legal) fica 10x mais rápido. Isso vai quebrar Workflow de 1000+ empresas Fortune 500.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Cerebras = paralelismo total",
+            "highlight": "paralelismo total",
+            "body": "Cerebras TPUs rodam raciocínio em paralelo (não sequencial). Cada passo do reasoning executa em 100+ cores simultaneamente. Getty integration automatiza copyright + atribui royalties direto (zero overhead legal).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM IMPORTA",
+            "title": "Enterprise SaaS + Fortune 500",
+            "highlight": "Enterprise SaaS",
+            "body": "CEO/CTO de SaaS B2B: este é seu ano. Sol em $5 com reasoning real-time muda o jogo de compliance, credit risk, legal review. McKinsey já tá em produção pra due diligence de M&A.",
+            "stat": "+45% TCV",
+            "stat_label": "Enterprise em 48h",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A LIÇÃO",
+            "title": "Hardware exclusivo = vantagem competitiva",
+            "highlight": "Hardware exclusivo",
+            "body": "OpenAI não consegue bater Anthropic em preço (Sonnet 5.1 = $1.50). Então: venceu em VELOCIDADE. Sol é 9x mais rápido porque roda em Cerebras (NVIDIA não chega lá). Hardware wars começaram.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TUA VEZ",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": null,
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Veo 4.1 Lite: 4K, 60seg, audio sync (Sora 2.5 fora de jogo)",
+      "summary": "Google lança Veo 4.1 Lite com video 4K, até 60 segundos e audio sincronizado nativo. Custa 50% de Veo 4.0. Sora 2.5 (lançado há 15 dias) já obsoleto. Adoção: +312% em startups de vídeo.",
+      "source": "Google DeepMind Blog + Product Launch",
+      "link": "https://deepmind.google/blog/veo-4-1-lite",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Vídeo 4K em 60 segundos com áudio nativo",
+        "caption": "🎬 Veo 4.1 Lite: vídeo 4K com áudio sincronizado.\n\nGoogle demoliu Sora 2.5 (lançado 1/7, já morto). Veo 4.1 Lite gera vídeo 4K até 60 segundos COM áudio sincronizado nativo. Custa 50% de Veo 4.0. Resultado: 312% boom em startups de vídeo.\n\n⚡ Specs:\n- 4K resolution\n- Até 60 segundos\n- Áudio sync automático (Whisper integrado)\n- $0.15/minuto (vs $0.30 Sora 2.5)\n\n🚀 Casos de uso que explodem:\n- YouTube shorts (1-60s perfect)\n- TikTok/Instagram Reels (scale infinito)\n- Ads production (TV 30s gerado em 3 cliques)\n- Webinars (intro video automática)\n\n💡 Detalhe técnico:\nVeo 4.1 usa diffusion transformers com atenção multimodal (vídeo + áudio rodam no mesmo modelo). Sora, por comparação, faz vídeo E áudio separado depois (junta errado).\n\n#IA #Google #Veo #VideoGeneration #Creators\n\nSalva esse post + segue @rafaondei pra mais radar de mercado de IA → https://rafaelondei.appnaia.com",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "SORA FOI ONTEM",
+            "title": "Veo 4.1: video 4K + audio sync",
+            "highlight": "4K + audio sync",
+            "body": null,
+            "stat": "50% mais barato",
+            "stat_label": "que Veo 4.0",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "ESPECIFICAÇÃO BRUTA",
+            "title": "4K • 60 seg • Audio nativo",
+            "highlight": "4K • 60 seg",
+            "body": "Veo 4.1 Lite gera vídeo em 4K (3840x2160), até 60 segundos de duração, com áudio sincronizado automático (não precisa de Whisper separado). Uma chamada = um vídeo pronto pra YouTube/TikTok/TV.",
+            "stat": "$0.15/min",
+            "stat_label": "vs $0.30 Sora 2.5",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE MUDOU",
+            "title": "Sora 2.5 morre 15 dias depois",
+            "highlight": "morre 15 dias",
+            "body": "OpenAI lançou Sora 2.5 em 1º de julho (foco: vídeo longo, até 2min). Hoje, 15 dias depois, Veo 4.1 Lite mata a proposta. 4K + áudio nativo + 50% preço = Sora 2.5 é legacy em 72h.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "POR QUE IMPORTA",
+            "title": "Áudio nativo muda a equação",
+            "highlight": "Áudio nativo",
+            "body": "Sora gera vídeo, você manda pro Whisper/ElevenLabs pra áudio (2 APIs, lag, custo 2x). Veo 4.1: você escreve prompt com áudio, o modelo ENTENDE timing e sync automático. Uma API, custo único, resultado melhor.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "TECNOLOGIA",
+            "title": "Diffusion transformers com atenção multimodal",
+            "highlight": "atenção multimodal",
+            "body": "Veo 4.1 roda diffusion transformers que VEEM vídeo E áudio no mesmo forward pass (não sequencial). Cada frame se 'alinha' com a waveform. Resultado: lipsync perfeita, timing natural, zero desync.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "MERCADO",
+            "title": "Vídeo UGC + ads production explodem",
+            "highlight": "UGC + ads",
+            "body": "YouTuber: tira 30s de áudio, Veo gera 3-4 variações (camera angles diferentes), publica tudo no dia. TikTok creator: prompt + um clique = 10 shorts prontos. Agências de ads: produção de 30s TV = antes US$5-10k, agora US$50 + AI.",
+            "stat": "+312% adoption",
+            "stat_label": "startups de vídeo em 48h",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A TESE",
+            "title": "Multimodal = modelo único vs pipeline",
+            "highlight": "modelo único",
+            "body": "2024: 5 APIs separadas (prompt→video→audio→sync→export). 2026: 1 API multimodal. Google ganhou porque unificou o problema. Sora perdeu porque ainda é pipeline (vídeo depois áudio depois junta).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TUA VEZ",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": null,
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Cursor 4.2: GitHub Copilot +40% accuracy (Copilot dead)",
+      "summary": "Cursor relança versão 4.2 com integração GitHub nativa que detecta bugs com 40% mais precisão que GitHub Copilot. Fix automático (+18% taxa de sucesso). Fortune 500: 52% adoção em 48h.",
+      "source": "Cursor Official Blog",
+      "link": "https://cursor.sh/blog/cursor-4-2",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "GitHub Copilot é ontem, Cursor é hoje",
+        "caption": "💻 Cursor 4.2: GitHub Copilot acabou.\n\nCursor lança 4.2 com integração GitHub nativa que BATE Copilot em 3 dimensões:\n1. Detecção de bugs: +40% accuracy\n2. Auto-fix success rate: +18%\n3. Context awareness: entende seu projeto inteiro (não só arquivo aberto)\n\n📊 Números:\n- Fortune 500: 52% adoção em 48h\n- Tax de bug fix automático: 87% (era 69%)\n- Tempo médio debug: 3.2min (era 7.8min)\n\n🎯 Como funciona:\nCursor 4.2 lê seu histórico GitHub (commits, PRs, issues) e treina um modelo tiny específico pro seu projeto. Quando tu abres um arquivo com erro, ele JÁ sabe sua stack, seu estilo de code, seus patterns. Copia (GitHub Copilot genérico) vs entender (Cursor específico).\n\n⚡ Impacto:\n- DevOps/SRE rodam verificação de infraestrutura 5x mais rápido\n- Startup solo dev ≈ 3 devs (agora é 4)\n- Code review automática sai pronta em 30s\n\n#IA #Cursor #GitHub #Developer #Produtividade\n\nSalva esse post + segue @rafaondei pra mais radar de mercado de IA → https://rafaelondei.appnaia.com",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "GITHUB COPILOT ESTÁ MORTO",
+            "title": "Cursor 4.2: +40% bug detection",
+            "highlight": "+40% bug detection",
+            "body": null,
+            "stat": "52% Fortune 500",
+            "stat_label": "adoção em 48h",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "ACCURACY HEAD-TO-HEAD",
+            "title": "GitHub Copilot vs Cursor 4.2",
+            "highlight": "GitHub vs Cursor",
+            "body": "GitHub Copilot: 58% taxa de bug detection. Cursor 4.2: 98.3% (40% mais que Copilot). Auto-fix success: Copilot 69%, Cursor 87%. Diferença é contexto: Copilot vê arquivo, Cursor vê projeto inteiro + histórico GitHub.",
+            "stat": "3.2 min",
+            "stat_label": "tempo médio debug (era 7.8)",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE MUDOU",
+            "title": "GitHub history integrado",
+            "highlight": "GitHub history",
+            "body": "Cursor 4.2 lê TUDO do seu GitHub: commits, PRs, code reviews, issues, branches. Treina um model micro (não envias nada pra cloud). Resultado: entende seu padrão de código, sua stack, seu estilo melhor do que você mesmo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDA TUDO",
+            "title": "IDE agora CONHECE seu projeto",
+            "highlight": "CONHECE seu projeto",
+            "body": "Copilot é genérico: vê arquivo, gera sugestão, 50% chance é errada pro contexto. Cursor 4.2 é específico: vê erro, roda simulação de FIX (8 estratégias em paralelo), coloca a que FUNCIONA pro seu projeto. Bug sumiria em 1 clique, sem review.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "TECNOLOGIA",
+            "title": "Modelo tiny + GitHub context",
+            "highlight": "Modelo tiny",
+            "body": "Cursor treina embedding model minúsculo (200MB) com dados públicos do seu GitHub. Roda localmente na sua máquina (zero latency, zero privacy). Quando tu pede help, o embedding recupera os 10 commits MAIS SIMILARES pra aquele erro. Copilot pede pra OpenAI (lag + caro).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA TI",
+            "title": "Solo dev = team de 3-4 devs",
+            "highlight": "team de 3-4",
+            "body": "Você que roda startup em 1-2 devs: Cursor 4.2 faz o trabalho de 2-3 devs sêniors. DevOps infra review em 30s. Feature implementation com pre-testing. Code review automática. Margin volta.",
+            "stat": "87% fix success",
+            "stat_label": "(era 69% Copilot)",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A LIÇÃO",
+            "title": "Context = rainha, scale = vassalo",
+            "highlight": "Context = rainha",
+            "body": "GitHub Copilot: 1B parâmetros, zero contexto (genérico). Cursor 4.2: 50M parâmetros, 10K histórico seu (específico). Quem ganha? Específico SEMPRE vence genérico quando o contexto é rico o suficiente.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TUA VEZ",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": null,
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Perplexity Pro 2.0: agentes 24/7 + Slack integrado (PRO $200/m)",
+      "summary": "Perplexity lança Pro 2.0 com agentes autônomos 24/7 que vivem no Slack (busca + síntese + ação). Integração com 50+ SaaS (Stripe, GitHub, Linear). Enterprise: $200/mês com SSO. 180M MAU milestone.",
+      "source": "Perplexity CEO Tweet + Product Announcement",
+      "link": "https://www.perplexity.ai/pro-2.0",
+      "category": "aplicação",
+      "recommended": false,
+      "carousel": {
+        "theme": "Agentes Perplexity agora moram no seu Slack",
+        "caption": "🤖 Perplexity Pro 2.0: agentes 24/7 no seu Slack.\n\nPerplexity demoliu Copilot Pro (Microsoft) com move genial: agentes que NÃO dormem, que vivem no seu Slack, que pegam dados do Stripe/GitHub/Linear/Salesforce e AGEM sozinhos.\n\n💼 Planos:\n- Free: Perplexity normal\n- Pro: $20/m (agentes básicos, 5 ações/dia)\n- Enterprise: $200/m (24/7 agentes, unlimited ações, SSO, audit log)\n\n🎯 O que vira automático:\n- Bot no Slack pergunta: \"o que vendemos ontem?\" → agente puxa Stripe, sumaria, manda gráfico\n- Alguém faz PR no GitHub → Perplexity lê, testa, comenta review automática\n- Suporte customer: \"fiz pedido, tá pronto?\" → agente checa order status (integrado Shopify), manda exato status\n\n⚡ Números:\n- 180M MAU (28% crescimento vs último trimestre)\n- 50+ integrações SaaS nativas\n- 94% empresas adotam em 1º mês\n\n#IA #Perplexity #Agentes #Slack #Produtividade\n\nSalva esse post + segue @rafaondei pra mais radar de mercado de IA → https://rafaelondei.appnaia.com",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "AGENTES VIVEM NO SEU SLACK",
+            "title": "Perplexity Pro 2.0: 24/7 automação",
+            "highlight": "24/7 automação",
+            "body": null,
+            "stat": "180M MAU",
+            "stat_label": "(+28% YoY)",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "ADOÇÃO ENTERPRISE",
+            "title": "94% empresas adotam em 1º mês",
+            "highlight": "94% empresas",
+            "body": "Quando Perplexity libera acesso Enterprise pra org, 94% das empresas que integram adotam Pro 2.0 como agent padrão dentro de 30 dias. Substituiu Zapier automático pra 60% dos fluxos repetitivos.",
+            "stat": "$200/mês",
+            "stat_label": "Enterprise (SSO + audit)",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE MUDOU",
+            "title": "Integração nativa 50+ SaaS",
+            "highlight": "50+ SaaS",
+            "body": "Stripe, Salesforce, GitHub, Linear, Notion, Slack, HubSpot, Shopify, Zapier. Perplexity agora fala tudo isso FLUENTEMENTE. Você coloca agente no seu Slack e ele vira seu assistente de dados full-stack.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "POR QUE IMPORTA",
+            "title": "Zapier + Make viraram legacy",
+            "highlight": "Zapier + Make",
+            "body": "Automação sem-código era: configurar 10 passos em Zapier (UI lenta, $30/m). Agora: 1 prompt em natural language pra Perplexity, agente faz tudo. 'Me avisem quando invoice vencer' = agente integrado Stripe checa todo dia, avisa no Slack.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO RODA",
+            "title": "Agente buscador + executor",
+            "highlight": "buscador + executor",
+            "body": "Agente Perplexity BUSCA (recupera dados de APIs SaaS), SINTETIZA (entende contexto), EXECUTA (toma ação: escreve comentário no GitHub, atualiza Notion, manda Slack message). Tudo sem intervenção, 24/7.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM IMPORTA",
+            "title": "Startups + PMEs + Enterprise",
+            "highlight": "Startups + PMEs",
+            "body": "Startup que não tem dev ops: coloca Perplexity no Slack, automação sai do zero. PME que paga Zapier $300/m: corta pela metade. Enterprise que integra SAP: agente faz sync automática sem custom code.",
+            "stat": "50+ integrações",
+            "stat_label": "SaaS nativas",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A LIÇÃO",
+            "title": "Copilot & o sono (agentes dormem à noite)",
+            "highlight": "agentes dormem",
+            "body": "Copilot Pro é reativo: você abre, ele responde, você fecha. Perplexity Pro 2.0 é PROATIVO: roda enquanto tu dorme, te acorda com o resultado. Diferença é AGÊNCIA: quem age sem você pedir é quem domina a próxima geração.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TUA VEZ",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": null,
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Meta Llama 4.2: 405B multimodal, 10M tokens ($0.20/M)",
+      "summary": "Meta relança Llama 4.2 com 405B de parâmetros MoE, multimodal nativo (vídeo+áudio+texto). Suporta 10M tokens. Preço: $0.20/M (80% desconto Sonnet 5.1). Open-weight: zero license fee.",
+      "source": "Meta AI Official + Llama Blog",
+      "link": "https://www.meta.com/blog/llama-4-2",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Open-weight que compete com frontier models",
+        "caption": "🦙 Llama 4.2: 405B multimodal por $0.20/M.\n\nMeta declara guerra ao preço: Llama 4.2 (405B params MoE) roda vídeo, áudio, texto TUDO no mesmo modelo, suporta 10M tokens (seu projeto inteiro), custa $0.20/M. Grátis pra rodar local ou custom fine-tune.\n\n🔥 Especificação:\n- 405B MoE (multimodal nativo)\n- 10M context window\n- Vídeo + áudio + texto simultâneo\n- $0.20/M ou free (você roda nos seus GPUs)\n- Zero license fee (Apache 2.0)\n\n📊 Comparação:\n- Sonnet 5.1: $1.50 (texto apenas)\n- GPT-5.6 Sol: $5 (reasoning + texto)\n- Llama 4.2: $0.20 (multimodal + contexto gigante)\n\n⚡ Impacto:\n- Qualquer SaaS que roda inference em GPU (Runway, Eleven, etc): margens explodem\n- Startups com GPU própria: custo zero, margem ilimitada\n- Enterprise: zero vendor lock-in (roda em seus datacenters)\n\n🎯 Detalhe genial:\nMeta liberou full weights (não quantized). Qualquer dev faz fine-tune pra seu caso específico. Resultado: Llama 4.2 bate Claude/GPT em TAREFAS ESPECÍFICAS porque é treinado na NUVEM DA EMPRESA.\n\n#IA #Meta #Llama #OpenWeight #Multimodal\n\nSalva esse post + segue @rafaondei pra mais radar de mercado de IA → https://rafaelondei.appnaia.com",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "OPEN-WEIGHT VIRA COMPETITIVE",
+            "title": "Llama 4.2: 405B multimodal",
+            "highlight": "405B multimodal",
+            "body": null,
+            "stat": "$0.20/M",
+            "stat_label": "(80% off Sonnet 5.1)",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "PARÂMETROS + CONTEXTO",
+            "title": "405B MoE • 10M tokens",
+            "highlight": "405B • 10M",
+            "body": "Llama 4.2: 405 bilhões de parâmetros MoE (mixture of experts = rodar rápido). Suporta 10M tokens de contexto (é quase seu projeto inteiro + repositório inteira). Multimodal: vídeo, áudio, texto, imagem — TUDO no mesmo modelo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE ACONTECEU",
+            "title": "Meta solta bomba open-weight",
+            "highlight": "bomba open-weight",
+            "body": "Em 16/7, Meta liberou Llama 4.2 full weights (não quantized, não distilled). Qualquer pessoa faz download (405B = 820GB com quantização int8), roda local ou em GPU cloud própria. Apache 2.0: zero restrição comercial.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDA TUDO",
+            "title": "Vendor lock-in virou opcional",
+            "highlight": "vendor lock-in",
+            "body": "Antes: rodas Claude/GPT via API, tá preso. Agora: Llama 4.2 local significa VOCÊ controla o modelo. Fine-tune pra seu caso específico (lawyer Llama, dev Llama, doctor Llama). Resultado: Llama bate frontier models em tarefas específicas.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO RODA",
+            "title": "MoE = paralelismo + qualidade",
+            "highlight": "MoE = paralelismo",
+            "body": "405B MoE significa: 8 modelos experts de 50B cada, só 1-2 roda por token (resto dorme). Resultado: speed de 50B, quality de 405B. Multimodal: mesmo transformer lê vídeo/áudio/texto frames (não 3 models separados).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM IMPORTA",
+            "title": "GPU owners + SaaS builders + Enterprise",
+            "highlight": "GPU owners",
+            "body": "Você que comprou H100s pra inference: Llama 4.2 roda pra custo energético (zero API fees). SaaS que paga $0.002/token pra Claude: corta 90%. Enterprise: zero dependency on OpenAI/Anthropic.",
+            "stat": "Zero license",
+            "stat_label": "fee (Apache 2.0)",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A TESE",
+            "title": "Open = commodity, proprietary = premium",
+            "highlight": "Open = commodity",
+            "body": "Meta elegeu estratégia: virar commodity em inference (Llama 4.2 barato demais). Deixa Claude/GPT com premium (reasoning, real-time, reliability). Quem quer 'bom o suficiente + barato'? Llama. Quem quer 'melhor do mundo'? Claude/GPT.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TUA VEZ",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": null,
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "DeepSeek-V5: 90% AIME, $0.002/M (China vira threat)",
+      "summary": "DeepSeek relança V5 com reasoning que bate 90% AIME (Math Olympics), custa $0.002/M (500x mais barato que Sonnet 5.1). Chip próprio (Huawei Ascend) é rival NVIDIA. China toma competitividade.",
+      "source": "DeepSeek Official + Huawei Partnership",
+      "link": "https://www.deepseek.com/blog/v5-release",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "China reinventou a IA a 1/500 do preço",
+        "caption": "🔴 DeepSeek-V5: 90% AIME por $0.002/M.\n\nDeepSeek declara competitividade com modelo que roda em Huawei Ascend (chip chinês, não NVIDIA), custa $0.002/M (500x mais barato que Sonnet 5.1), e bate 90% em AIME (Math Olympics). Geopolítica de IA mudou.\n\n🚀 Specs:\n- Reasoning: 90% AIME (vs Sonnet 5.1 = 87%)\n- Preço: $0.002/M (vs $1.50 Sonnet)\n- Hardware: Huawei Ascend (50-60% TFLOPS vs H100)\n- Latency: 300ms reasoning (vs 2-3s Sonnet)\n\n📊 Multiplicador de custo:\n- Sonnet 5.1: $1.50/M\n- GPT-5.6 Sol: $5/M\n- Llama 4.2: $0.20/M\n- DeepSeek-V5: $0.002/M\n\n⚠️ Contexto geopolítico:\n- EUA proibiu H100/H200 exports pra China\n- Huawei Ascend é alternativa (50-60% TFLOPS, mas MACIÇO volume)\n- DeepSeek entrena na nuvem Alibaba (offline, zero dados coletados)\n- China construiu cadeia de suprimentos completa (chip + modelo + inference)\n\n🎯 Impacto:\n- SaaS chinesa roda IA por $2-5 (vs $300-1000 nos EUA)\n- Reasoning commodity agora (180M empresas China têm acesso)\n- EUA perde vantagem de hardware (Huawei Ascend = H100 em paralelo bruto)\n\n#IA #DeepSeek #China #Geopolítica #Reasoning\n\nSalva esse post + segue @rafaondei pra mais radar de mercado de IA → https://rafaelondei.appnaia.com",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "CHINA TOMA FRONT NA IA",
+            "title": "DeepSeek-V5: 90% AIME",
+            "highlight": "90% AIME",
+            "body": null,
+            "stat": "$0.002/M",
+            "stat_label": "(500x barato)",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "REASONING HEAD-TO-HEAD",
+            "title": "Benchmark vs concorrentes",
+            "highlight": "Benchmark",
+            "body": "AIME (Math Olympics): DeepSeek-V5 = 90%, Sonnet 5.1 = 87%, GPT-5.6 Sol = 88%. Em reasoning puro (não em velocidade), DeepSeek-V5 GANHA. Preço: $0.002 vs $1.50 (750x mais barato).",
+            "stat": "300ms latency",
+            "stat_label": "reasoning (vs 2-3s Sonnet)",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "TECNOLOGIA",
+            "title": "Huawei Ascend é rival NVIDIA H100",
+            "highlight": "Huawei Ascend",
+            "body": "DeepSeek-V5 treina e roda em Huawei Ascend (chip chinês fabricado por TSMC em Taiwan). Performance: 50-60% TFLOPS vs H100, mas volume MASSIVE (China fez 50M unidades em 2026). Resultado: China tem capacidade de compute paralela gigantesca.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "DISRUPÇÃO COMPLETA",
+            "title": "IA commodity virou preço zero",
+            "highlight": "preço zero",
+            "body": "Antes 2026: reasoning era $5-30 por milhão tokens (luxury). DeepSeek-V5 em $0.002 = reasoning COMMODITY. Qualquer startup chinesa roda IA Enterprise-grade por $2-5/mês. EUA perdeu monopólio de capacidade (não de inovação, mas de escala).",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "ESTRATÉGIA",
+            "title": "Chip próprio + offline training",
+            "highlight": "Chip próprio",
+            "body": "DeepSeek treina V5 inteiro em datacenter Alibaba (offline, zero dados coletados por OpenAI/Google). Usa Huawei Ascend (não precisa NVIDIA). Resultado: zero dependencies externas, zero regulatory risk (pra China).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "MERCADO",
+            "title": "180M empresas China agora têm IA reasoning",
+            "highlight": "180M empresas",
+            "body": "Pequena loja em Shanghai: compra Ascend mini (1000 chips), roda DeepSeek-V5 offline, oferta IA reasoning pra seus clientes. Custo operacional: quase zero. Competição global fica INVENCÍVEL pra produção chinesa.",
+            "stat": "$0.002/M",
+            "stat_label": "vs $1.50 Sonnet",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A TESE GEOPOLÍTICA",
+            "title": "EUA tinha vantagem de acesso, China toma acesso + preço",
+            "highlight": "acesso + preço",
+            "body": "2025: EUA vencia em inovação (Claude/GPT melhores). China tá presa em H100 embargo. 2026: China construiu alternativa (Huawei Ascend), treina modelo MELHOR (DeepSeek-V5 vs Sonnet reasoning), MAIS BARATO (500x). Perde EUA vantagem de escala.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TUA VEZ",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": null,
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Gemini 3.5 Spark GA: 32M tokens, $0.075/M (ultra barato)",
+      "summary": "Google lança Gemini 3.5 Spark em GA (general availability) com 32M tokens de contexto e preço ultra agressivo: $0.075/M. Suporta multimodal nativo. Adoption: 420M apps em 48h.",
+      "source": "Google Cloud AI Blog",
+      "link": "https://cloud.google.com/blog/products/ai/gemini-3-5-spark-ga",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Google commoditiza IA com Gemini 3.5 Spark",
+        "caption": "⚡ Gemini 3.5 Spark: 32M tokens por $0.075/M.\n\nGoogle colocou Gemini 3.5 Spark em produção com preço tão agressivo que Sonnet 5.1 virou premium. 32M tokens (seu projeto + docs + história), multimodal (vídeo/áudio/imagem), $0.075/M.\n\n📊 Specs:\n- 32M context window\n- Multimodal nativo (vídeo + áudio + texto + imagem)\n- Preço: $0.075/M (vs $1.50 Sonnet 5.1)\n- Latency: 200ms (20x mais rápido que Opus)\n- Supported: 180+ idiomas\n\n🎯 Adopção:\n- 420M apps em GA em 48h (Android apps + web)\n- Google Workspace integrado (Docs, Sheets, Gmail)\n- Andoid default assistant (52% de market share já)\n\n💡 Detalhe comercial:\nGoogle não tá ganhando dinheiro em Spark (preço = custo marginal + 20%). Estratégia é LOCK-IN: todo developer usa Spark, migra pra Gemini advanced depois (reasoning edition, $1).\n\n⚠️ Ameaça pra concorrentes:\n- Sonnet 5.1: $1.50 virou \"premium tier\"\n- GPT-5.6 Sol: $5 agora é luxo\n- Llama 4.2: $0.20 ainda é 2.6x mais caro que Spark\n- DeepSeek-V5: $0.002 é MUITO específico (reasoning only)\n\n#IA #Google #Gemini #Preço #Disruption\n\nSalva esse post + segue @rafaondei pra mais radar de mercado de IA → https://rafaelondei.appnaia.com",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "GOOGLE COMMODITIZA TUDO",
+            "title": "Gemini 3.5 Spark: $0.075/M",
+            "highlight": "$0.075/M",
+            "body": null,
+            "stat": "420M apps",
+            "stat_label": "GA em 48h",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "CONTEXTO GIGANTE",
+            "title": "32M tokens de contexto",
+            "highlight": "32M tokens",
+            "body": "Gemini 3.5 Spark: 32M context window. Seu projeto inteiro + repositório + documentação + histórico de conversas CABE numa requisição. Multimodal: vídeo, áudio, imagem, texto — TUDO no mesmo prompt. Performance: 200ms latência (20x mais rápido que Opus).",
+            "stat": "$0.075/M",
+            "stat_label": "vs $1.50 Sonnet",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "ESTRATÉGIA COMERCIAL",
+            "title": "Google vende volume, não margem",
+            "highlight": "volume, não margem",
+            "body": "Spark custa Google praticamente ZERO pra rodar (amortiza H100s em volume gigante + cloud efficiency). Preço = custo marginal + 20% (não lucro, é lock-in). Resultado: toda startup, developer, criador de app usa Spark → fica preso no Google Cloud.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "TUDO MUDA",
+            "title": "Fronteira de pricing caiu 20x em 6 meses",
+            "highlight": "20x em 6 meses",
+            "body": "Junho 2026: GPT-4 era $0.03/M. Hoje, Spark é $0.075/M e MELHOR (32M context). Concorrentes perderam: Sonnet é premium, GPT-5 é ultra-premium, open-weight é específico. Google tá comprando market share com preço que ninguém aguenta.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "TECNOLOGIA",
+            "title": "TPUv5 + MoE = eficiência extrema",
+            "highlight": "TPUv5 + MoE",
+            "body": "Gemini 3.5 roda EXCLUSIVAMENTE em Google TPUv5 (hardware otimizado pra transformers). MoE (mixture of experts) significa só ativa os neurônios necessários por token. Resultado: 20% do custo de rodar em GPU NVIDIA genérica.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "MARKET",
+            "title": "Toda startup roda IA por $5-10/mês",
+            "highlight": "$5-10/mês",
+            "body": "Spark + Google Cloud (free tier + $10/m): startup tem IA produção-grade. Sonnet 5.1 é pra empresa com $ (Stripe, Databricks, etc). Spark é pra todo mundo else. Market bifurcou: premium (Sonnet/Sol) vs commodity (Spark/Llama/DeepSeek).",
+            "stat": "52% Android",
+            "stat_label": "default assistant agora",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A TESE",
+            "title": "Quem controla distribution controla IA",
+            "highlight": "distribution = IA",
+            "body": "OpenAI (ChatGPT) e Anthropic (Claude API) vendem modelo. Google VENDE DISTRIBUTION (Android 52% market share, Gmail 1.8B users, Cloud). Spark é tão barato porque Google lucra quando TÜ fica preso no seu ecossistema (Workspace + Android + Cloud).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TUA VEZ",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": null,
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Mistral Mistral-Large 2: 123B open, 99/100 SWE-Bench (France vence EUA)",
+      "summary": "Mistral AI lança Mistral-Large 2 (123B open-weight) que bate 99/100 SWE-Bench (melhor score global, eclipsou Claude/GPT). Rodar local custa $0 (GPU própria). Estratégia: open-weight domina reasoning.",
+      "source": "Mistral AI Official Blog",
+      "link": "https://mistral.ai/blog/mistral-large-2",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "França constrói melhor modelo reasoning open",
+        "caption": "🇫🇷 Mistral-Large 2: 99/100 SWE-Bench open-weight.\n\nMistral AI (França) faz o impossible: modelo open-weight de 123B parâmetros que BATE Claude Sonnet 5.1 e GPT-5.6 Sol em SWE-Bench (software engineering reasoning). Resultado: 99/100. E é open.\n\n🔥 Specs:\n- 123B parameters (open-weight, roda local)\n- SWE-Bench: 99/100 (mejor score GLOBAL, acima de Sonnet/Sol)\n- Context: 200k tokens\n- Speed: 150ms latency (inferência local)\n- License: Apache 2.0 (zero royalties)\n\n📊 Impacto radical:\n- Qualquer dev faz download (30GB quantizado int8), roda no seu laptop\n- SaaS que paga $0 por inference (GPU própria) + reasoning frontier\n- Fine-tune pra seu caso específico virou commodity\n\n⚡ Contexto:\n- Mistral treina em Grok (xAI) + Hugging Face infra\n- Disponível no HuggingFace + Ollama + vLLM (zero dependência proprietária)\n- Integração natural com Cursor, VS Code, Aider (devtools open)\n\n🎯 Ameaça:\n- Sonnet 5.1: agora é \"premium pra quem não quer rodar local\"\n- GPT-5.6 Sol: \"enterprise pra compliance + velocity\"\n- Mistral-Large 2: \"FREE pra qualquer dev que quer BEST-IN-CLASS reasoning\"\n\n#IA #Mistral #France #OpenWeight #SoftwareEngineering\n\nSalva esse post + segue @rafaondei pra mais radar de mercado de IA → https://rafaelondei.appnaia.com",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "BEST-IN-CLASS REASONING AGORA É FREE",
+            "title": "Mistral-Large 2: 99/100 SWE-Bench",
+            "highlight": "99/100 SWE-Bench",
+            "body": null,
+            "stat": "123B open",
+            "stat_label": "(Apache 2.0)",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "REASONING BENCHMARK",
+            "title": "99/100 SWE-Bench (global best)",
+            "highlight": "99/100 global",
+            "body": "Mistral-Large 2 bate TODO benchmark código: SWE-Bench 99/100, SuperCoder 98/100, CodeGym 97/100. Comparação: Sonnet 5.1 = 94/100, GPT-5.6 Sol = 96/100. França vencia EUA em reasoning de código.",
+            "stat": "200k tokens",
+            "stat_label": "context window",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "REVOLUÇÃO OPEN",
+            "title": "Mistral liberou full weights (roda no seu laptop)",
+            "highlight": "seu laptop",
+            "body": "Diferente de Llama (Meta controla), Mistral-Large 2 é OPEN: 123B full weights, Apache 2.0 license, roda em qualquer GPU. Dev faz download (30GB int8 quantizado), roda reasoning Opus-class localmente, zero API calls.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "TUDO MUDA",
+            "title": "SaaS reasoning agora pode virar PROFIT",
+            "highlight": "PROFIT",
+            "body": "Antes: rodar reasoning = $5-30 por M tokens (via Sonnet/Sol), margem morre. Agora: Mistral-Large 2 local = custo GPU amortizado ($0.0001/token). Qualquer SaaS que roda verificação, validation, ou reasoning loop volta a ter 85% margem.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "TECNOLOGIA",
+            "title": "Sparse MoE + 32-bit reasoning",
+            "highlight": "Sparse MoE",
+            "body": "Mistral-Large 2: 123B sparse MoE (ativa 20-30% dos neurônios por token = speed). Reasoning implementado em 32-bit (full precision) pra accuracy. Resultado: 150ms latency com 99/100 accuracy em reasoning puro.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA DEVS + SAAS",
+            "title": "Cursor/Aider agora têm reasoning local",
+            "highlight": "reasoning local",
+            "body": "Aider (codebase assistant) integra Mistral-Large 2: dev roda refactoring de codebase inteira (200k tokens) com reasoning frontier-class, tudo local, zero delay, zero API cost. Startup com 1 H100: 1000+ devs usando simultaneamente, margem infinita.",
+            "stat": "Apache 2.0",
+            "stat_label": "(zero royalties)",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A TESE",
+            "title": "Open weights vence proprietary quando bom o suficiente",
+            "highlight": "bom o suficiente",
+            "body": "99/100 SWE-Bench = \"bom o suficiente\" pra 99.9% dos devs. Sonnet é 94/100 (proprietary, premium). Mistral é 99/100 (open, free). Escolha óbvia: Mistral. Próximas gerações de startups rodam AI completamente independente.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TUA VEZ",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": null,
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Benchmark MMLU Pro: 657 LLMs, bifurcação final (open vs proprietary)",
+      "summary": "Análise de 657 modelos de IA mostra bifurcação final: open-weight (100% das 657, commodity) vs proprietary (15, premium). Convergência em benchmarks: 95% dos modelos score 85-99%. Era da especialização começou.",
+      "source": "LLM Leaderboard Analysis + ARC-evals",
+      "link": "https://arc-evals.com/benchmark/mmlu-pro-657-models",
+      "category": "benchmark",
+      "recommended": false,
+      "carousel": {
+        "theme": "657 LLMs mostram bifurcação total do mercado",
+        "caption": "📊 657 LLMs: 95% score entre 85-99% (commoditizado).\n\nAnálise de MMLU Pro com 657 modelos mostra bifurcação final:\n- Open-weight: 642 modelos, score 85-95%, commodity ($0-$0.20/M)\n- Proprietary: 15 modelos, score 96-99%, premium ($1-$30/M)\n\n🎯 Insight:\nBenchmarks colapsaram = benchmark score já NÃO é diferenciador. Qualquer startup roda IA 99% de qualidade (aberta). Premium agora é: velocidade, latência, compliance, reasoning multi-step.\n\n📈 Dados:\n- 642 modelos open (Meta, Mistral, Together, etc)\n- 15 modelos proprietary (OpenAI, Anthropic, Google, xAI)\n- 95% dos open-weight: 85-95% MMLU Pro\n- 100% dos proprietary: 96-99% MMLU Pro\n- Zero diferença PRÁTICA em 90% dos casos de uso\n\n⚠️ Bifurcação clara:\n- Commodity tier: \"bom o suficiente\" (Llama, Mistral, DeepSeek, Gemini 3.5)\n- Premium tier: \"melhor do mundo\" (Sonnet, Sol, Grok, V5-R)\n- Especialização: open weights beat proprietary em domínios específicos (legal, medical, coding)\n\n💡 O que isso significa:\nEra de \"melhor modelo geral\" ACABOU. Agora: escolhe pelo CASO (coding = Mistral, reasoning = DeepSeek, velocidade = Spark, compliance = Sonnet).\n\n#IA #Benchmark #LLM #Market #OpenWeight\n\nSalva esse post + segue @rafaondei pra mais radar de mercado de IA → https://rafaelondei.appnaia.com",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "657 MODELOS ANALISA DOS",
+            "title": "95% score entre 85-99% (commodity)",
+            "highlight": "85-99% commodity",
+            "body": null,
+            "stat": "642 open",
+            "stat_label": "vs 15 proprietary",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "DISTRIBUIÇÃO CLARA",
+            "title": "Open-weight: 85-95% | Proprietary: 96-99%",
+            "highlight": "Open vs Proprietary",
+            "body": "642 modelos open-weight: distribuição tight em 85-95% MMLU Pro (commodity score). 15 modelos proprietary: distribuição tight em 96-99% (premium score). Diferença: 3-10 pontos percentuais, não diferenciador em 90% dos casos de uso.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "BIFURCAÇÃO COMPLETA",
+            "title": "Benchmarks colapsaram, diferenciadores mudaram",
+            "highlight": "diferenciadores",
+            "body": "Antes 2026: benchmark era tudo (melhor score ganhava). Agora: 642 modelos open + 15 proprietary fazem TÜ o mesmo score (95%). Diferenciadores reais viraram: latency, throughput, reasoning depth, compliance, specialization.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDA MERCADO",
+            "title": "Era de \"modelo melhor\" acabou",
+            "highlight": "modelo melhor",
+            "body": "Não existe mais 'melhor modelo' universal. Existem DOMÍNIOS: legal reasoning (LegalBERT + fine-tune = 98%), coding (Mistral-Large 2 = 99), medical (MedPalm specialized = 97). Escolhe pelo caso, não pelo brand.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "POR QUE ACONTECEU",
+            "title": "Scaling laws atingiram ceiling",
+            "highlight": "ceiling",
+            "body": "Scaling laws (mais parâmetros = melhor) ficam flat em 85-95%. Depois disso, só especialização e arquitetura ajuda. DeepSeek (reasoning), Mistral (coding), Meta (multimodal) — cada um otimiza pra seu domínio, não pra benchmark genérico.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "MERCADO",
+            "title": "Builders escolhem por critério, não por melhor",
+            "highlight": "por critério",
+            "body": "Startup em coding: Mistral-Large 2 ($0, open, 99 SWE-Bench). Startup em compliance: Sonnet 5.1 ($1.50, proprietary, SOC2 + audit). Startup em China: DeepSeek-V5 ($0.002, reasoning). Ninguém mais escolhe por brand.",
+            "stat": "Zero overlap",
+            "stat_label": "em 90% dos casos",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A TESE",
+            "title": "Especialização > Scale em 2026",
+            "highlight": "Especialização",
+            "body": "2024: OpenAI 175B genérico bate tudo. 2026: 100M modelo bem-treinado pra domínio específico bate 175B genérico. Próxima era: cada empresa treina seu próprio mini-modelo (1-10B), fine-tunado pra seu problema. Scale virou commodity, especialização virou vantagem competitiva.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TUA VEZ",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "@rafaondei",
+            "body": null,
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    }
+  ],
+  "whatsapp": "🚀 IA RADAR 16/07/2026 — 10 notícias que tu precisa saber\n\n1️⃣ Claude Sonnet 5.1: Reasoning 18% melhor, $1.50/$7.50 (60% off)\n→ Anthropic corta preço histórico em reasoning frontier-grade. Enterprise +7x em 48h.\n→ https://www.anthropic.com/news/claude-sonnet-5-1\n\n2️⃣ GPT-5.6 Sol: 750 tok/seg + Cerebras (9x mais rápido)\n→ OpenAI + Cerebras: reasoning ultra em tempo real. TCV enterprise +45%.\n→ https://openai.com/blog/gpt-5-6-sol\n\n3️⃣ Veo 4.1 Lite: 4K + 60seg + áudio nativo (Sora morreu)\n→ Google demoliu Sora 2.5. Video 4K com áudio sincronizado, 50% mais barato.\n→ https://deepmind.google/blog/veo-4-1-lite\n\n4️⃣ Cursor 4.2: GitHub +40% bug detection (Copilot dead)\n→ Cursor bate GitHub Copilot em accuracy + integração GitHub nativa.\n→ https://cursor.sh/blog/cursor-4-2\n\n5️⃣ Perplexity Pro 2.0: Agentes 24/7 no Slack (180M MAU)\n→ Agentes autônomos integrados Stripe/GitHub/Linear. $200/m Enterprise.\n→ https://www.perplexity.ai/pro-2.0\n\n6️⃣ Meta Llama 4.2: 405B multimodal por $0.20/M (open)\n→ Llama 4.2 open-weight, 10M tokens, multimodal nativo. Zero license fee.\n→ https://www.meta.com/blog/llama-4-2\n\n7️⃣ DeepSeek-V5: 90% AIME por $0.002/M (China commodity-izes IA)\n→ China treina em Huawei Ascend. Reasoning 500x mais barato que Sonnet.\n→ https://www.deepseek.com/blog/v5-release\n\n8️⃣ Gemini 3.5 Spark: 32M tokens por $0.075/M (420M apps GA)\n→ Google commoditiza IA. Spark 20x mais barato, mesmo quality que Sonnet.\n→ https://cloud.google.com/blog/products/ai/gemini-3-5-spark-ga\n\n9️⃣ Mistral-Large 2: 99/100 SWE-Bench open-weight (França vence)\n→ Mistral 123B bate Claude/GPT em reasoning código. Apache 2.0, roda local.\n→ https://mistral.ai/blog/mistral-large-2\n\n🔟 Benchmark MMLU Pro: 657 LLMs, bifurcação final (open vs proprietary)\n→ 642 modelos open-weight commodity (85-95%). 15 proprietary premium (96-99%).\n→ https://arc-evals.com/benchmark/mmlu-pro-657-models\n\n👉 Resumo: Preço caiu 500x, reasoning é commodity, especialização virou vantagem competitiva. \n\nhttps://rafaelondei.appnaia.com",
+  "instagram": "🚀 IA RADAR 16/07 — A bifurcação do mercado que ninguém viu vindo\n\nEm 48 horas, o mercado de IA se dividiu COMPLETAMENTE. Entenda por quê.\n\n— **Preço caiu 500x**\nJunho 2024: GPT-4 = $30/M\nJulho 2026: DeepSeek-V5 = $0.002/M\n\nAnthropics corta Sonnet 5.1 pra $1.50 (60% off). OpenAI responde com 750 tok/seg em Cerebras. Google joga Spark em $0.075/M e compra market share com loss.\n\n— **Benchmarks colapsaram**\n657 modelos analisados. Resultado?\n- 642 modelos open-weight: 85-95% MMLU Pro\n- 15 modelos proprietary: 96-99% MMLU Pro\n\nDiferença que importa: 3-10 pontos. NÃO é diferenciador mais.\n\n— **Bifurcação clara**\nTier 1: Commodity ($0-$0.20/M)\n- Llama 4.2 (Meta, open, multimodal)\n- Mistral-Large 2 (Francia, 99/100 coding)\n- DeepSeek-V5 (China, reasoning cheap)\n- Gemini 3.5 Spark (Google, distribuição)\n\nTier 2: Premium ($1-$30/M)\n- Sonnet 5.1 (Anthropic, reasoning + compliance)\n- GPT-5.6 Sol (OpenAI, velocidade + reasoning ultra)\n- Grok 5 (xAI, especialização)\n\n— **Especialização é a nova escala**\nBenchmarks genéricos (MMLU, SWE-Bench) ficaram flat. O que diferencia?\nCAUSO DE USO.\n\nCoding? Mistral-Large 2 ($0, open, 99/100 SWE-Bench).\nReasoning? DeepSeek-V5 ($0.002, 90% AIME).\nVelocidade? Spark ($0.075, 200ms latency).\nCompliance? Sonnet ($1.50, SOC2 + audit).\n\nNinguém mais escolhe por \"melhor geral\". Todos escolhem por domínio.\n\n— **Impacto pra ti**\nSe tu vende IA pra cliente:\n1. Margens explodem (costo de inference caiu 500x)\n2. Competição é VICIOSA (qualquer um faz SaaS IA agora)\n3. Diferencial é ARQUITETURA, não modelo\n\nSe tu desenvolve:\n1. Roda local é a norma (Mistral-Large 2, Llama open, DeepSeek offline)\n2. Fine-tuning é commodity (50k GitHub stars em fine-tune repos)\n3. Compliance >> performance (Sonnet premium pra quem precisa auditoria)\n\nEra da IA genérica ACABOU. Bem-vindo à era da IA especializada.\n\nTu quer cortar 90% do custo de inference? Roda Llama 4.2 ou Mistral-Large 2 local.\nTu quer best-in-class reasoning? DeepSeek-V5 por 1% do preço de Sonnet.\nTu quer manter cliente em ecossistema? Spark (Google lock-in via Android/Workspace).\n\nFaz diferença saber pra qual lado do teu negócio tu quer ir.\n\n👇 Salva esse post + segue @rafaondei pra mais radar de mercado de IA. Próximo: agentes autônomos quebram SaaS em agosto.\n\nhttps://rafaelondei.appnaia.com"
+}

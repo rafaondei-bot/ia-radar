@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-07-14T07:00:01-03:00",
+  "updated_at": "2026-07-16T07:00:01-03:00",
   "executions": [
+    {
+      "date": "2026-07-16",
+      "key": "2026-07-16",
+      "topic": "mercado de IA",
+      "summary": "Claude Sonnet 5.1 ($1.50 reasoning 18% melhor). GPT-5.6 Sol (750 tok/seg Cerebras). Veo 4.1 Lite (4K+audio, Sora morreu). Cursor 4.2 (+40% GitHub). Perplexity Pro 2.0 (agentes Slack 24/7). Llama 4.2 (405B $0.20/M). DeepSeek-V5 (90% AIME $0.002). Gemini 3.5 Spark ($0.075/M 420M apps). Mistral-Large 2 (99/100 SWE open). 657 LLMs: bifurcação final commodity vs premium.",
+      "items_count": 10
+    },
     {
       "date": "2026-07-14",
       "key": "2026-07-14",
