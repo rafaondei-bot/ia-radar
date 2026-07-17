@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-07-16T07:00:01-03:00",
+  "updated_at": "2026-07-17T07:00:01-03:00",
   "executions": [
+    {
+      "date": "2026-07-17",
+      "key": "2026-07-17",
+      "topic": "mercado de IA",
+      "summary": "Kimi K3 (Moonshot 2.8T open-weight, pesos em 10 dias). Gemini 3.5 Pro (2M tokens $1.25 esperado hoje). GPT-5.6 (Sol/Luna/Terra, modo Ultra autobalanceia). Grok 4.5 (Opus-grade $2/$6 no Cursor). ChatGPT Work (#RECOMENDADO agente entrega trabalho pronto, 20x produtividade). Meta Muse Spark 1.1 (#1 em 3 benchmarks). Claude for Teachers (grátis 130k escolas educação+lock-in). Reflect (dashboard 12 meses uso). GPT-Live (voz full-duplex simultânea). Apple+Qwen na China (mercado>tecnologia geopolítica IA).",
+      "items_count": 10
+    },
     {
       "date": "2026-07-16",
       "key": "2026-07-16",

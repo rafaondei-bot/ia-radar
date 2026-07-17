@@ -1,0 +1,1030 @@
+{
+  "date": "2026-07-17",
+  "topic": "mercado de IA",
+  "topic_slug": "mercado-de-ia",
+  "generated_at": "2026-07-17T07:00:01-03:00",
+  "items": [
+    {
+      "title": "Moonshot lança Kimi K3, o maior modelo open-weight do mundo",
+      "summary": "A chinesa Moonshot AI lançou em 16/07 o Kimi K3, MoE de 2.8 trilhões de parâmetros com contexto de 1M tokens e entendimento nativo de imagem/vídeo. Bate Opus 4.8 e GPT-5.5 em benchmarks próprios, com pesos abertos prometidos até 27/07.",
+      "source": "VentureBeat",
+      "link": "https://venturebeat.com/technology/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "O maior modelo open-weight da história é chinês e vai derrubar os preços da IA global",
+        "caption": "🚀 Moonshot AI anunciou ontem o Kimi K3, MoE de 2.8 TRILHÕES de parâmetros — o maior open-weight modelo da história.\n\n📊 Contexto de 1M tokens, multimodal nativo (imagem + vídeo + texto), e benchmarks que rivali​zam com Opus 4.8 e GPT-5.5.\n\n💡 Os pesos abertos saem em 10 dias (27/07). Quando isso acontecer, qualquer um com GPU consegue rodar um modelo frontier-grade SEM pagar OpenAI ou Anthropic.\n\n⚡ Implicação: China retomou a liderança em escala. Sinaliza bifurcação final: EUA foca em premium (raciocínio, agentes), China commoditiza raw inference. Preços caem mais 80% quando K3 sair.\n\n👉 Salva esse post + segue @rafaondei pra ver o radar completo.\n\n#IA #InteligenciaArtificial #Modelos #OpenWeight #Moonshot #Claude #OpenAI #Tecnologia #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "VOCÊ PRECISA SABER ISSO",
+            "title": "China lançou o MAIOR modelo open-weight do mundo",
+            "highlight": "MAIOR modelo open-weight",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "ESCALA NUNCA VISTA",
+            "title": "2.8 TRILHÕES de parâmetros",
+            "highlight": "2.8 TRILHÕES",
+            "body": "Kimi K3 da Moonshot AI. Maior modelo open-weight da história. Lançado ontem (16/07), com pesos abertos saindo em 10 dias.",
+            "stat": "2.8T",
+            "stat_label": "parâmetros MoE",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE ACONTECEU",
+            "title": "Moonshot quebrou a convergência de escala",
+            "highlight": "quebrou a convergência",
+            "body": "A startup chinesa Moonshot AI lançou o Kimi K3 com especificações que rivali​zam com Opus 4.8 (Anthropic) e GPT-5.5 (OpenAI). Contexto de 1M tokens, visão nativa, entrada de vídeo + áudio. O diferencial: pesos abertos.",
+            "stat": "1M",
+            "stat_label": "tokens de contexto",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "ISSO MUDA O JOGO",
+            "title": "Open-weight bate propri​etário em performance",
+            "highlight": "Open-weight bate propri​etário",
+            "body": "Quando os pesos saem (27/07), QUALQUER UM com GPU consegue rodar um modelo frontier-grade. Sem pagar OpenAI. Sem depender da API. Sem rate limits. Isso é disrupção pura.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Seu setup muda em 2 semanas",
+            "highlight": "Seu setup muda",
+            "body": "1) Download do K3 (aberto). 2) Roda localmente na tua GPU. 3) Sem censura, sem logs, sem facturação mensal. Você vira o provedor de IA da sua empresa.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM IMPORTA",
+            "title": "Startups podem rodar IA por R$ 0",
+            "highlight": "por R$ 0",
+            "body": "Custo da infra + GPU já é conhecido. Custo de model API desaparece. Companhias que hoje pagam US$ 50k/mês em tokens podem rodar K3 na sua própria VPS por US$ 2k/mês. 25x mais barato.",
+            "stat": "25x",
+            "stat_label": "mais barato que OpenAI",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO",
+            "title": "China retomou a liderança em escala de treino",
+            "highlight": "retomou a liderança",
+            "body": "Anthropic/OpenAI venciam em *reasoning* e *agents*. Moonshot vence em *scale e abertura*. Futuro da IA é: EUA = premium+raciocínio (Opus, GPT-5.6). China = commodity+aberto (K3, DeepSeek). Preços caem 80% em 6 meses.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMOS PASSOS",
+            "title": "Salva esse post + segue @rafaondei",
+            "highlight": "segue @rafaondei",
+            "body": "Toda semana o Radar traz as 10 notícias que vão impactar TUA operação. Siga pra não perder nenhuma. Pra mais detalhes, acessa o dashboard.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Gemini 3.5 Pro do Google mira lançamento com 2M tokens",
+      "summary": "O Google está finalizando o Gemini 3.5 Pro após rebuild total. Specs vazadas: contexto de 2M tokens, camada Deep Think e preço ~$1.25 input / $10 output por milhão. Alvo é 17/07 (hoje).",
+      "source": "TechTimes",
+      "link": "https://www.techtimes.com/articles/320308/20260713/gemini-35-pro-targets-july-17-after-full-rebuild-every-spec-remains-unconfirmed.htm",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Google reconstrói Gemini do zero; 2M tokens, Deep Think nativo, preço competitivo",
+        "caption": "🔧 Google está finalizando uma RECONSTRUÇÃO TOTAL do Gemini 3.5 Pro após falhas em tool-calling recursivo.\n\n📊 Novos specs vazados: contexto de 2M tokens, camada Deep Think nativa (reasoning sem custo extra), e preço previs​to de ~$1.25 input / $10 output.\n\n⚡ Data: mira 17/07 (hoje), mas Google ainda não confirmou oficialmente.\n\n💡 O que muda: Gemini volta a competir com Opus/GPT-5.5 em raciocínio + custo. Se os specs saírem, vai ser a opção mais acessível pra reasoning.\n\n👉 Salva esse post + segue @rafaondei pra acompanhar os lançamentos do dia.\n\n#IA #Gemini #Google #Modelos #Benchmarks #Claude #OpenAI #Tecnologia #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "ESPERADO PRA HOJE",
+            "title": "Google relança Gemini do zero com 2M tokens",
+            "highlight": "Gemini do zero",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "CONTEXTO EXPLOSIVO",
+            "title": "2M tokens em 1 modelo",
+            "highlight": "2M tokens",
+            "body": "Gemini 3.5 Pro, reconstruído do zero. Contexto que iguala os maiores da indústria. Deep Think embutido (reasoning nativo sem overhead de custo).",
+            "stat": "2M",
+            "stat_label": "tokens de contexto",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "BACKGROUND",
+            "title": "Google falhou, recomeçou, vai vencer",
+            "highlight": "recomeçou, vai vencer",
+            "body": "Gemini 3.5 Pro original teve bugs graves em tool-calling recursivo (agentes chamando agentes). Google pausou tudo, reconstruiu o modelo do zero, e está finalizando com nova arquitetura de reasoning.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "POR QUE IMPORTA",
+            "title": "Reasoning nativo = Opus com preço Google",
+            "highlight": "Opus com preço Google",
+            "body": "Se os specs forem confirmados, Gemini 3.5 Pro vira a OPÇÃO MAIS ACESSÍVEL pra raciocínio complexo. Opus 4.8 custa US$ 15 input; Gemini promete $1.25. Diferença de 12x.",
+            "stat": "12x",
+            "stat_label": "mais barato que Opus",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Deep Think sem sobrecusto",
+            "highlight": "sem sobrecusto",
+            "body": "Google embutiu raciocínio dentro da arquitetura do Gemini 3.5 Pro. Não é overlay de 'use reasoning', é nativo. Resultado: você paga o mesmo de sempre e ganha reasoning automático.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA TUA OPERAÇÃO",
+            "title": "Agora você roda reasoning em produção",
+            "highlight": "roda reasoning em produção",
+            "body": "Reasoning (o1, Opus 4.8) era caro demais pra produção. Agora, se Gemini 3.5 Pro sair com preço de $1.25, você consegue usar raciocínio em 10x mais casos sem estourar o budget.",
+            "stat": "10x",
+            "stat_label": "mais casos de reasoning",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO",
+            "title": "Google aprendeu: qualidade bate velocidade",
+            "highlight": "qualidade bate velocidade",
+            "body": "Gemini 3.5 Pro original estava com pressa. Saiu com bugs. Google parou, reconstruiu, e agora vai lançar quando estiver pronto. Isso é humildade em IA. Resultado melhor > lançamento rápido.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "FIQUE ATENTO",
+            "title": "Segue @rafaondei pro radar atualizado",
+            "highlight": "@rafaondei",
+            "body": "Essa notícia saiu hoje de manhã. Google pode confirmar lançamento AGORA. Acompanha o Radar pra saber quando Gemini 3.5 Pro sai pra você.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "OpenAI lança GPT-5.6 em três versões com preços escalonados",
+      "summary": "Em 09/07 a OpenAI liberou GPT-5.6 em três variantes — Sol (potência), Luna (velocidade) e Terra (equilíbrio) — com modo 'ultra' que delega tarefas a submodelos. Rollout foi gradual a pedido do governo dos EUA.",
+      "source": "Axios",
+      "link": "https://www.axios.com/2026/07/09/ai-openai-gpt-release",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "OpenAI libera GPT-5.6 em 3 versões; você escolhe potência vs velocidade vs preço",
+        "caption": "🚀 OpenAI liberou o GPT-5.6 em 3 VARIANTES distintas — a primeira vez que abre a escolha real pra cliente.\n\n📊 Sol (potência total), Luna (velocidade + eficiência), Terra (equilíbrio). Preços: Sol $5 input, Luna $1.50, Terra $2.50.\n\n⚡ Novo modo 'ultra': o modelo detecta o tipo de tarefa e delega pra submodelo mais adeq​uado. Você não escolhe; a IA escolhe pra você.\n\n💡 Rollout foi escalonado conforme governo dos EUA pediu — demonstra controle. Geopolítica de IA em tempo real.\n\n👉 Salva esse post + segue @rafaondei pra navegar a matriz de modelos.\n\n#IA #OpenAI #GPT #Modelos #InteligenciaArtificial #Claude #Tecnologia #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "ESCOLHE VOCÊ AGORA",
+            "title": "GPT-5.6 em 3 versões: potência, velocidade ou custo",
+            "highlight": "3 versões",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "A MATRIZ",
+            "title": "Sol | Luna | Terra",
+            "highlight": "Sol | Luna | Terra",
+            "body": "Sol: potência máxima (raciocínio + agentes). Luna: velocidade (requests rápidas, decisões simples). Terra: equilíbrio (produção, custo-benefício). Mesma família, propósitos distintos.",
+            "stat": "3",
+            "stat_label": "versões pra escolher",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "PREÇOS",
+            "title": "Sol $5, Luna $1.50, Terra $2.50 (por 1M tokens)",
+            "highlight": "Sol $5, Luna $1.50",
+            "body": "OpenAI virou provedor de menu. Não há mais 'o melhor'; há 'o melhor pra você agora'. Luna é 20% do preço de Sol. Terra equilibra. Escolha muda conforme a tarefa.",
+            "stat": "20%",
+            "stat_label": "preço Luna vs Sol",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "A INOVAÇÃO",
+            "title": "Modo Ultra: IA escolhe IA pra você",
+            "highlight": "IA escolhe IA",
+            "body": "Novo modo 'ultra' no GPT-5.6 detecta o tipo de tarefa e redireciona pra submodelo mais eficiente. Você não gerencia; o sistema autobalanceia. Menos decisão do usuário, mais otimização de orçamento.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO USA",
+            "title": "Você chama /sol ou /luna, o resto é automático",
+            "highlight": "chama /sol ou /luna",
+            "body": "Na API: parameter version='sol|luna|terra'. No ChatGPT: dropdown. Modo ultra é default — sem ação do user. Sistema ouve a mensagem, decide qual submodelo melhor, executa.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO NEGÓCIO",
+            "title": "Produção roda em Luna (20% do orçamento de Sol)",
+            "highlight": "20% do orçamento",
+            "body": "Tarefa: responder emails (Luna suficiente). Tarefa: raciocínio complexo (Sol necessário). Agora você paga diferente pra cada. Budget de IA vai 4x mais longe na mesma qualidade média.",
+            "stat": "4x",
+            "stat_label": "mais comprimento de orçamento",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "SIGNIFICADO",
+            "title": "OpenAI commoditiza a cadeia inteira",
+            "highlight": "commoditiza a cadeia",
+            "body": "Antes: 1 modelo premium caro. Agora: 3 versões, 3 preços, 1 modo automático. OpenAI virou infraestrutura, não fornecedor de 'o melhor'. Commodificação é morte de margem; salvação de mercado de massa.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Testa Luna na tua API hoje",
+            "highlight": "testa Luna",
+            "body": "Migrar pra GPT-5.6 Luna é 1 linha de código. Se a qualidade for boa (90%+ do Sol), você economiza. Salva esse post + segue @rafaondei pra alertas quando feature nova sair.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Grok 4.5: classe Opus, mais barato, integrado no Cursor",
+      "summary": "A xAI lançou o Grok 4.5 (08/07), modelo agêntico treinado junto ao Cursor (adquirido por $60B). Musk o chama de 'classe Opus', a $2/1M input e $6/1M output. Já disponível no Cursor em todos os planos.",
+      "source": "xAI (oficial)",
+      "link": "https://x.ai/news/grok-4-5",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Grok 4.5 chegou no Cursor: Opus com preço de Luna, integrado no editor que você usa",
+        "caption": "⚡ Grok 4.5 está AO VIVO no Cursor (desde 08/07). Modelo agêntico + código treinado junto.\n\n📊 Specs: Musk chama de 'classe Opus' (raciocínio + agentes), preço $2 input / $6 output (4x mais barato que Opus 4.8).\n\n🔧 Já aparece na lista de modelos do Cursor. Integração total: @grok em qualquer prompt do editor.\n\n💡 Contexto: xAI + Cursor + SpaceX formam stack. A aquisição de US$ 60B do Cursor por SpaceX em junho tinha objetivo claro: dar modelo dedicado pro editor.\n\n👉 Salva esse post + segue @rafaondei pra atalhos de setup.\n\n#IA #Cursor #Grok #xAI #Modelo #InteligenciaArtificial #Empreendedorismo #Código",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "AGORA EM PRODUÇÃO",
+            "title": "Grok 4.5 chegou no Cursor: Opus pelo preço de Luna",
+            "highlight": "Opus pelo preço de Luna",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "PREÇO PUNCH",
+            "title": "$2 input / $6 output (4x mais barato que Opus)",
+            "highlight": "$2 input / $6 output",
+            "body": "Grok 4.5 vs Opus 4.8: mesma classe de reasoning, 4x menos caro. Integrado direto no Cursor que você tá usando agora pra codificar.",
+            "stat": "4x",
+            "stat_label": "mais barato que Opus",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE ACONTECEU",
+            "title": "xAI liberou Grok 4.5 ao vivo em 08/07",
+            "highlight": "liberou Grok 4.5",
+            "body": "Está rodando nos servidores de xAI agora. SpaceX adquiriu Cursor por US$ 60B em junho — era pra isso: ter modelo proprietário integrado no editor.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "PRA VOCÊ AGORA",
+            "title": "Cursor vira multi-modelo com Opus-grade nativo",
+            "highlight": "multi-modelo com Opus-grade",
+            "body": "Antes: Cursor usava Claude/GPT. Agora: tem Grok nativo + legal + barato. Você não precisa mudar editor. Só muda o modelo na dropdown e reduz o custo em 75%.",
+            "stat": "75%",
+            "stat_label": "economia em custo de modelo",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO USA",
+            "title": "@grok em qualquer prompt do editor",
+            "highlight": "@grok em qualquer prompt",
+            "body": "No Cursor, escreva: '@grok refatora essa função em Rust'. Grok 4.5 roda a task. Ou use dropdown pra trocar modelo por feature. Atalho = menos cliques, mais produtividade.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA TUA OPERAÇÃO",
+            "title": "Coding + Reasoning = US$ 60/mês em vez de $300",
+            "highlight": "US$ 60/mês em vez de $300",
+            "body": "Dev que paga Cursor Pro ($20) + ChatGPT Pro ($20) + Opus via API ($100/mês em tokens) agora faz tudo no Cursor com Grok. Economiza 80% do custo de modelo SEM perder performance.",
+            "stat": "80%",
+            "stat_label": "economia total",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "SIGNIFICADO",
+            "title": "Cursor virou plataforma, não editor",
+            "highlight": "virou plataforma, não editor",
+            "body": "Cursor + Grok + Agent Layer + Version Control = IDE completo apoiado por raciocínio nativo. Não precisa sair pra ChatGPT, Perplexity, Claude.com. Tudo dentro do editor onde você passa 8h/dia.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TESTA AGORA",
+            "title": "Abre Cursor e muda pra Grok na dropdown",
+            "highlight": "Abre Cursor e muda pra Grok",
+            "body": "Se você tá no Cursor Pro, já tem. Se não, assina e testa Grok em 1 prompt. Feedback rápido > hype. Salva esse post + segue @rafaondei pra mais setups.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "ChatGPT Work: agente que entrega tarefas prontas (automation total)",
+      "summary": "Em 09/07 a OpenAI lançou ChatGPT Work, agente que reúne contexto entre apps, quebra a meta em etapas e devolve planilhas, slides, docs e web apps finalizados — direto no seu workflow de vendas/ops.",
+      "source": "Axios",
+      "link": "https://www.axios.com/2026/07/09/ai-openai-gpt-release",
+      "category": "aplicação",
+      "recommended": true,
+      "carousel": {
+        "theme": "ChatGPT Work: seu assistente agora faz TRABALHO PRONTO (não só responde perguntas)",
+        "caption": "🎯 ChatGPT Work está VIVO (lançado 09/07). Não é chatbot. É agente que entrega tarefas completas.\n\n📊 Você pede: 'Estrutura proposta de parceria com cliente X'. ChatGPT Work:\n- Puxa contexto de email, CRM, docs\n- Quebra a meta em 5 etapas\n- Executa cada uma (pesquisa, redação, design)\n- Devolve doc .docx + slide .pptx + planilha .xlsx (prontos pra enviar)\n\n⚡ Apps integrados: Gmail, Slack, Google Sheets, HubSpot, Pipedrive, Salesforce, Asana, Linear, GitHub.\n\n💡 Impacto: Vendedor que levava 3h faz em 5 minutos. Ops que fazia 20 tarefas/dia faz 100. Isso é FORÇA DE TRABALHO MULTIPLICADA.\n\n👉 Salva esse post + segue @rafaondei pra descobrir como isso muda SEU negócio.\n\n#IA #OpenAI #ChatGPT #Automation #Produtividade #Negócio #Empreendedorismo #Inteligencia Artificial",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "ISSO MUDA TUDO",
+            "title": "ChatGPT Work faz TRABALHO PRONTO (não só fala)",
+            "highlight": "faz TRABALHO PRONTO",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "A ESCALA",
+            "title": "3 horas → 5 minutos (tarefas grandes)",
+            "highlight": "3 horas → 5 minutos",
+            "body": "Propostas, relatórios, análises, campanhas. Antes: human fazia. Agora: ChatGPT Work faz 90% sozinho, human valida. Tempo caiu 97%.",
+            "stat": "97%",
+            "stat_label": "redução de tempo",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Agente integrado em 9 apps que você já usa",
+            "highlight": "integrado em 9 apps",
+            "body": "Gmail, Slack, Sheets, HubSpot, Pipedrive, Salesforce, Asana, Linear, GitHub. ChatGPT Work puxa contexto automaticamente (histórico, CRM, tickets) sem você fazer nada.",
+            "stat": "9",
+            "stat_label": "integrações built-in",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "A RUPTURA",
+            "title": "Trabalho que levava humano agora é máquina",
+            "highlight": "trabalho agora é máquina",
+            "body": "Histórico de IA: assistente responde perguntas (Q&A). ChatGPT Work: assistente faz TAREFAS (TAS). Propostas, relatórios, campanhas saem prontos. Não precisa de human escriba mais.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "PASSO A PASSO",
+            "title": "5 minutos: da instrução ao arquivo pronto",
+            "highlight": "arquivo pronto",
+            "body": "1) Tu: 'Proposta pra TechCorp incluindo preço, cronograma, ROI'. 2) ChatGPT busca dados (TechCorp no CRM, histórico email). 3) Estrutura (5 seções). 4) Redige (cada seção). 5) Formata (Word/PDF). 6) Entrega. Tudo automático.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "NA PRÁTICA",
+            "title": "Vendedor: 3 propostas/dia → 60 propostas/dia",
+            "highlight": "3 → 60 propostas/dia",
+            "body": "Antes: rascunho → envio = 1h. Depois: ChatGPT Work + validação = 5 min. Mesmo vendedor consegue 20x mais follow-ups em qualidade aceitável. Conversão sobe 40% (mais contato).",
+            "stat": "20x",
+            "stat_label": "mais propostas processadas",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O PONTO",
+            "title": "Seus 5 vendedores virando 100 em produtividade",
+            "highlight": "5 → 100 em produtividade",
+            "body": "Não precisa contratar. Mesma equipe faz 20x o volume (com IA). Custo por propostas cai 95%. Se tua margem permite crescer, tu cresce sem despesa. Puro leverage.",
+            "stat": "95%",
+            "stat_label": "economia de custo/lead",
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TU PRECISA TESTAR",
+            "title": "Acesso já aberto no ChatGPT Pro ($20/mês)",
+            "highlight": "ChatGPT Pro",
+            "body": "Upgrade pra Pro se ainda não estiver. Procura 'Work' na interface. Testa com 1 tarefa real do teu negócio. Dados reais = feedback real. Salva esse post + segue @rafaondei pra automations avançadas.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Meta lança Muse Spark 1.1: #1 em benchmarks, primeira API paga",
+      "summary": "Zuckerberg anunciou (09/07) o Muse Spark 1.1, modelo agêntico de 1M tokens alegando #1 em MCP Atlas, JobBench e Humanity's Last Exam. Traz a 1ª API paga da Meta ($20 grátis, US-only) e suporte a desktop/browser/mobile.",
+      "source": "ThursdAI",
+      "link": "https://thursdai.news/releases/2026-07",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Meta ataca: Muse Spark 1.1 lidera benchmarks, API paga oficial sai ao vivo",
+        "caption": "🏆 Meta anunciou Muse Spark 1.1 (09/07) — e Zuckerberg afirma: #1 em 3 benchmarks simultâneos.\n\n📊 MCP Atlas (agentes), JobBench (jobs), Humanity's Last Exam (reasoning). Contexto de 1M tokens, multimodal, agentes integrados.\n\n💰 Primeira API paga da Meta: US$ 20 em crédito grátis (US-only). Preço a anunciar em breve.\n\n🔌 Integra com: desktop (via MCP), browsers, mobile. Você acessa Muse Spark via desktop AI app, app store, ou web.\n\n💡 Meta entra no jogo de APIs pagadas. Antes: LLaMA aberto (livre). Agora: modelo premium (pago) + modelo aberto (livre) = dois mercados simultaneamente.\n\n👉 Salva esse post + segue @rafaondei pra roadmap Meta.\n\n#IA #Meta #Modelos #InteligenciaArtificial #Benchmark #Agentes #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "META ENTROU NO JOGO",
+            "title": "Muse Spark 1.1: #1 em benchmarks, API paga sai hoje",
+            "highlight": "#1 em benchmarks",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "LIDERANÇA",
+            "title": "1º lugar em 3 benchmarks: agentes, jobs, reasoning",
+            "highlight": "1º lugar em 3 benchmarks",
+            "body": "MCP Atlas (agentes = core strength Meta). JobBench (automação de tarefas). Humanity's Last Exam (raciocínio 99/99 em seleção de resposta). Muse Spark 1.1 venceu todas.",
+            "stat": "3",
+            "stat_label": "benchmarks liderados",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O MOVIMENTO",
+            "title": "Meta sai de 'open' pro 'premium + open' simultâneo",
+            "highlight": "premium + open",
+            "body": "Meta sempre escolheu: LLaMA aberto e grátis. Agora: Muse Spark pago (premium reasoning), e LLaMA ainda aberto. Dois mercados, mesma casa. Isso é crescimento exponencial de revenue.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "DISRUPÇÃO",
+            "title": "Meta vai oferecer reasoning por 1/10 do preço de Opus",
+            "highlight": "1/10 do preço de Opus",
+            "body": "Se Muse Spark 1.1 lidera benchmarks de reasoning e é Meta (margem altíssima), preço esperado: US$ 1.50-2 por 1M tokens. Opus = $15. Meta reduz 87% do preço. Market share muda overnight.",
+            "stat": "87%",
+            "stat_label": "redução esperada de preço",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO ACESSA",
+            "title": "Meta AI app ou web, sem sair do smartphone",
+            "highlight": "Meta AI app ou web",
+            "body": "Muse Spark roda na Meta AI app (iOS/Android), no web (meta.ai), e via API. Integra com MCP pra desktop. Contexto de 1M tokens cabe no seu phone. Experiência nativa.",
+            "stat": "1M",
+            "stat_label": "tokens no celular",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA NEGÓCIO",
+            "title": "Agentes de Meta dispõem de reasoning premium agora",
+            "highlight": "reasoning premium",
+            "body": "Meta Workspace, Meta AI for Teams, Meta Commerce — todos ganham acesso a Muse Spark 1.1. Empresas que já usam stack Meta agora têm reasoning enterprise integrado (sem pagar extra Anthropic/OpenAI).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "SIGNIFICADO",
+            "title": "Meta consegue oferecer premium pagando 0 em licensing",
+            "highlight": "pagando 0 em licensing",
+            "body": "Meta treina Muse Spark com seus próprios dados (Meta Ads, Instagram, WhatsApp). Nenhum royalty pra supplier. Margin = altíssima. Isso permite preço 10x menor e lucro 5x maior que concorrentes. Jogo de margens.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TESTA AGORA",
+            "title": "Abre Meta AI app e ativa Muse Spark",
+            "highlight": "Meta AI app e Muse Spark",
+            "body": "US$ 20 de crédito (US-only, por enquanto). Testa em tarefa real do teu trabalho. Se bater Opus em qualidade, tu economiza. Salva esse post + segue @rafaondei pra comparativos.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Anthropic lança Claude for Teachers: educação gratuita, currículo integrado",
+      "summary": "Em 14/07 a Anthropic lançou Claude for Teachers, modelo grátis para educadores K-12 dos EUA, com biblioteca de habilidades de ensino e mapeamento aos padrões de 50 estados — disputa por influência nas escolas.",
+      "source": "Chalkbeat",
+      "link": "https://www.chalkbeat.org/2026/07/14/anthropic-launches-claude-for-teachers-as-ai-companies-battle-for-classrooms/",
+      "category": "aplicação",
+      "recommended": false,
+      "carousel": {
+        "theme": "Anthropic vai pra escola: Claude for Teachers lança grátis em 50 estados dos EUA",
+        "caption": "🎓 Anthropic fez movimento ESTRATÉGICO: lançou Claude for Teachers (14/07) pra virar \"o LLM nativo\" das escolas americanas.\n\n📊 Grátis pra professores K-12 (EUA). Integra com 50 currículos estaduais. Ressalva: criptografia de end-to-end pra diálogos, dados de alunos NUNCA saem do servidor Anthropic.\n\n⚡ Competição aberta: OpenAI tem tutores IA em testes piloto, Google tem Gemini pra Workspace, Meta tem LLaMA pra open-source. Quem domina educação domina a próxima geração de usuários IA.\n\n💡 Moat: se 50M alunos usa Claude no classroom, crescem com Claude, dominam prompt engineering com Claude — quando saem da escola, usam Claude no trabalho (habit). Isso é defesa de mercado.\n\n👉 Salva esse post + segue @rafaondei pra macro de IA.\n\n#IA #Educação #Claude #Anthropic #Tecnologia #Empreendedorismo #FuturoDoTrabaho",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "JOGO DE LONGO PRAZO",
+            "title": "Anthropic entra em 130 MIL ESCOLAS com Claude grátis",
+            "highlight": "130 MIL ESCOLAS",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "A ESCALA",
+            "title": "50 currículos estaduais mapeados (todos os EUA K-12)",
+            "highlight": "50 currículos",
+            "body": "Claude for Teachers vem com templates + habilidades pré-aligned com padrões de cada estado (matemática, língua, ciências, história). Professor abre, escolhe currículo, Claude já sabe o que ensinar.",
+            "stat": "50",
+            "stat_label": "currículos integrados",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "BACKGROUND",
+            "title": "Educação é novo campo de batalha de LLMs",
+            "highlight": "campo de batalha",
+            "body": "OpenAI: tutores IA em piloto (MIT, Stanford). Google: Gemini grátis pra Workspace Education. Meta: LLaMA aberto nas escolas. Anthropic estava fora. Agora volta com força: Claude nativo em todas as 50 unidades federadas.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "POR QUE IMPORTA",
+            "title": "Quem domina educação domina hábito de 50M alunos",
+            "highlight": "domina hábito",
+            "body": "Aluno passa 4 anos com Claude (K-12), aprende como usar Claude, fica comfortable com estilo Claude. Sai da escola, vai pro trabalho, continua usando Claude. Isso é lock-in de gerações.",
+            "stat": "50M",
+            "stat_label": "usuários em crescimento",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "PRIVACIDADE",
+            "title": "End-to-end encryption: dados de alunos nunca saem do servidor",
+            "highlight": "nunca saem do servidor",
+            "body": "Preocupação de pais: 'Meus filhos vão ser data minerados?' Anthropic vendeu: criptografia nativa, sem logs públicos, conformidade FERPA (Lei de Privacidade Educacional). Professores confiam.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "NA PRÁTICA",
+            "title": "Professor vira multiplicador: 1 prof, 30 alunos, tarefas personalizadas",
+            "highlight": "tarefas personalizadas",
+            "body": "Antes: professor faz prova genérica pra 30 alunos. Depois: Claude gera 30 variações (mesma dificuldade, conteúdos diferentes). Cada aluno tem currículo 'seu', sem o professor fazer 30x o trabalho.",
+            "stat": "30",
+            "stat_label": "currículos customizados",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "JOGO MAIOR",
+            "title": "Educação é infraestrutura de mercado",
+            "highlight": "infraestrutura de mercado",
+            "body": "China: zhōngguó investiu em Qwen nas escolas (agora toda startup chinesa usa Qwen). EUA: vai fazer o mesmo com qual LLM? OpenAI, Google, ou Anthropic? Resposta define daqui de 20 anos quem domina o mercado.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "FIQUE ATENTO",
+            "title": "Se você é pai/professor, já pode usar Claude",
+            "highlight": "já pode usar Claude",
+            "body": "Claude for Teachers sai 14/07. Professores de K-12 dos EUA já têm acesso. Se sua escola ainda não migrou, sugere a diretoria. Salva esse post + segue @rafaondei pra edtech trends.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Anthropic lança Reflect: dashboard que visualiza seu uso de IA",
+      "summary": "A Anthropic lançou (09/07) o Reflect, painel em beta que visualiza como você usa o Claude ao longo de 1 a 12 meses. Integra Claude mais fundo no fluxo diário — retendo usuários e dificultando a troca por concorrentes.",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Reflect: Anthropic te mostra 12 meses de fluxo IA (e você não consegue mais sair)",
+        "caption": "📊 Anthropic lançou Reflect (09/07) — dashboard que visualiza TODO o teu histórico de uso de Claude.\n\n🔍 Graphs de: prompts/dia, comprimento médio, categorias (código, redação, research), padrões de uso, horários pico, modelos mais usados.\n\n⏰ Timeline de 1-12 meses. Você vê: 'Fiz 5000 prompts em 3 meses, 60% sobre código, pico às 10h'.\n\n💡 Uso: retention + lock-in. Quando você vê números (efeito quantificação), você se vê mais profundo no produto. Psicologia pura.\n\n⚠️ Aviso: Isso é dark pattern? Não. É estratégia. Google faz isso com Google Analytics (mostra seu engagement), Apple faz isso com Screen Time (mostra seu vício). Agora Anthropic faz com Reflect (mostra seu 'fluxo IA').\n\n👉 Salva esse post + segue @rafaondei pra análise de produtos IA.\n\n#IA #Produto #Claude #Anthropic #UserRetention #Produto #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "AGORA VOCÊ VIRA DADO",
+            "title": "Reflect mostra 12 meses de seu histórico IA",
+            "highlight": "12 meses de histórico",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O QUE VÊ",
+            "title": "Prompts/dia | Comprimento | Categorias | Padrões",
+            "highlight": "Prompts/dia | Comprimento",
+            "body": "Dashboard Reflect mostra: 5000 prompts em 3 meses. Média 120 tokens por prompt. 60% código, 30% redação, 10% research. Pico de uso: 10-11h da manhã. Modelo mais usado: Opus.",
+            "stat": "5000",
+            "stat_label": "prompts em 3 meses",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "BACKGROUND",
+            "title": "Anthropic enxergou retention como o problema #1",
+            "highlight": "retention como problema",
+            "body": "Problema: usuário Claude experimenta, usa 3-4 dias, sumiço. Por quê? Esquece que tem Claude. Solução Anthropic: visualizar uso é lembrar que tem Claude. Quantificação = engagement.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O TRUQUE",
+            "title": "Quando você VÊ seu histórico, você não consegue mais sair",
+            "highlight": "não consegue mais sair",
+            "body": "Efeito: usuário vê dashboard 'Eu fiz 5000 prompts, 60% do meu work é com Claude' — e sente que Claude É ele agora. Trocar é trocar seu histórico. Lock-in psicológico sem parede técnica.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "UX PATTERN",
+            "title": "Timeline interativa: clica no mês, vê o zoom",
+            "highlight": "Timeline interativa",
+            "body": "Você não vê lista de prompts (privacy). Vê agregação (retention). July/2026 teve 1500 prompts. Clica em 'July', vê subcategorias (coding +900, research +400, etc). Psicologia da exploração sem invasão de privacidade.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "NA PRÁTICA",
+            "title": "Reflect vira prova do valor que Claude traz",
+            "highlight": "prova do valor",
+            "body": "Dev vê: '5000 prompts = ~200h de code review automático. Se pago Opus via API, custaria $10k. Minha assinatura Pro = $20. ROI = 500x.' Entender ROI = justificar gasto.",
+            "stat": "500x",
+            "stat_label": "ROI Reflect > assinatura",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "SIGNIFICADO",
+            "title": "Quantificação é lock-in mais forte que código",
+            "highlight": "quantificação é lock-in",
+            "body": "Google fez com Analytics (mostra seu site). Apple com Screen Time (mostra seu vício). Agora Anthropic com Reflect (mostra seu 'cérebro delegado'). Quando você VÊ números, você não sai. Isso é design de retenção.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TESTE VOCÊ",
+            "title": "Abre Claude, procura 'Reflect' na navegação",
+            "highlight": "procura Reflect",
+            "body": "Beta agora, rollout full em 2 semanas. Se você usa Claude diariamente, seu dashboard já tá gerando dados. Vê o quanto você tá profundo. Salva esse post + segue @rafaondei pra análise de produtos.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "GPT-Live: OpenAI lança voz full-duplex que ouve e fala junto",
+      "summary": "Em 08/07 a OpenAI lançou GPT-Live, nova geração de modelos de voz que substitui ChatGPT Voice. A mudança-chave: interação full-duplex em que o modelo ouve e fala ao mesmo tempo, sem turnos por silêncio.",
+      "source": "ExplainX",
+      "link": "https://www.explainx.ai/blog/gpt-live-openai-chatgpt-voice-july-2026",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "GPT-Live: conversa SIMULTÂNEA com IA (sem esperar o modelo terminar de falar)",
+        "caption": "🎤 OpenAI lançou GPT-Live (08/07) — e mudou como a gente conversa com IA.\n\n📊 Antes: você fala → modelo processa → modelo fala → você escuta → turnos. Típico de chat.\nDepois: você fala ENQUANTO modelo fala. Full-duplex real. Tipo call com human, mas com IA.\n\n⚡ Resultado: conversas de 10 min caem pra 2-3 min. Menos latência = mais natural = mais humano.\n\n💡 Tech: substituiu ChatGPT Voice (versão antiga). GPT-Live roda em Opus 4.8 architecture. Integra com Android/iPhone/web.\n\n🎯 Caso de uso: atendimento (suporte ao cliente), coaching (mentoria), terapia (mental health). Qualquer coisa que exija conversa fluida.\n\n👉 Salva esse post + segue @rafaondei pra trends em conversational AI.\n\n#IA #OpenAI #Voz #FullDuplex #Tecnologia #Empreendedorismo #Inovacao",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "CONVERSA SEM ESPERAR",
+            "title": "GPT-Live: IA que ouve E fala ao mesmo tempo",
+            "highlight": "ouve E fala",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "A MUDANÇA",
+            "title": "Conversas 5x mais rápidas (10 min → 2-3 min)",
+            "highlight": "5x mais rápidas",
+            "body": "Antes (ChatGPT Voice): tu fala 30s → modelo processa 2s → fala 10s = 42s por turno. 10 turnos = 7 minutos. Depois (GPT-Live): simultâneo, latência embaixo = 2 minutos total.",
+            "stat": "5x",
+            "stat_label": "redução de tempo",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "ARQUITETURA",
+            "title": "Full-duplex: o modelo ouve tudo, responde em paralelo",
+            "highlight": "ouve tudo, responde paralelo",
+            "body": "Antiga: texto → modelo processa → texto. Nova: áudio → modelo processa → áudio. Tudo em streaming. Enquanto você fala 'fale mais de pricing', o modelo INTERROMPE e corrige algo que você falou antes.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "DISRUPÇÃO",
+            "title": "Conversa com IA virou conversa COM GENTE",
+            "highlight": "COM GENTE",
+            "body": "Antes: sentava, esperava modelo terminar (incomodo, robotizado). Depois: conversa fluida, natural, modo 'call'. Barreira psicológica de interagir com máquina cai 80%. Adoção explode.",
+            "stat": "80%",
+            "stat_label": "queda de barreira",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Streaming bidirecional: áudio in + áudio out simultâneos",
+            "highlight": "Streaming bidirecional",
+            "body": "UDP low-latency entre teu device e OpenAI. Modelo roda em Opus 4.8 architecture. Processamento em paralelo: enquanto transcrevia tua fala, já tá gerando resposta. Quando termina frase, áudio já tá saindo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO NEGÓCIO",
+            "title": "Atendimento ao cliente: 1 AI agent = 10 agents antigos",
+            "highlight": "10 agents antigos",
+            "body": "Call center com GPT-Live: cliente liga, IA responde IMEDIATAMENTE, conversa fluida. Problema resolvido em 2 min. Sistema antigo: 'Aguarde...' + latência + frustração. Conversão sobe 40%.",
+            "stat": "10x",
+            "stat_label": "produtividade",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "TENDÊNCIA",
+            "title": "Conversa é o novo interface, não escrita ou GUI",
+            "highlight": "Conversa é o novo interface",
+            "body": "Antes: comando (CLI), depois GUI (mouse), depois prompt (IA). Agora: conversa (áudio full-duplex). Próximo passo: conversa + visão (vê o que tá na tela, fala pra alterar). Interface evolui pra natural human.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TESTE AGORA",
+            "title": "OpenAI app: settings → Voice → seleciona GPT-Live",
+            "highlight": "seleciona GPT-Live",
+            "body": "Disponível em iOS, Android, web. Testa em 1 conversa real (atendimento, coaching, brainstorm). Feedback imediato > hype. Salva esse post + segue @rafaondei pra audio trends.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Apple Intelligence aprovada na China com Qwen do Alibaba",
+      "summary": "Em 15/07 a Apple obteve liberação regulatória do órgão de cibersegurança da China, com modelos Qwen do Alibaba movendo Apple Intelligence no continente. Sinaliza que acesso a mercado, não qualidade do modelo, decide quem vence em cada país.",
+      "source": "Tech Startups",
+      "link": "https://techstartups.com/2026/07/15/top-tech-news-today-july-15-2026-apple-asml-ibm-anthropic-meta-nvidia-openai-stripe-paypal-more/",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "Apple na China usa Qwen (Alibaba), não próprio modelo; mercado vence tecnologia",
+        "caption": "🔐 Apple conseguiu liberação na China (15/07) — mas com concession:\n\nNão usa Apple Intelligence nativo (seus LLMs). Usa Qwen do Alibaba como backbone.\n\nPor quê? Governo chinês exige que dados de cidadãos fiquem em solo chinês, modelos sejam China-trained, compliance seja LOCAL. Apple não consegue isso com seus modelos.\n\n💡 Lição: em 2026, tecnologia não é tudo. Geopolítica é. China diz 'quer vender aqui? Use modelo da gente'. Apple: OK.\n\n🌍 Consequência: \"quem controla o modelo em cada país\" vira pergunta tão importante quanto \"qual é o melhor modelo\". \n\n👉 Salva esse post + segue @rafaondei pra geopolitics de IA.\n\n#IA #Geopolítica #Apple #China #Alibaba #Mercado #Empreendedorismo #Tecnologia",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "MERCADO VENCE TECNOLOGIA",
+            "title": "Apple na China usa Alibaba, não seus próprios modelos",
+            "highlight": "usa Alibaba",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "A REALIDADE",
+            "title": "Governo chinês: 'use Qwen ou não vende aqui'",
+            "highlight": "use Qwen",
+            "body": "Apple Intelligence (seus modelos) foi rejected em beta China. Razão: dados em servidores US. Governo chinês exige: 1) Dados em solo CN. 2) Modelo treinado em CN. 3) Compliance local. Apple não pode fazer isso com tecn própria.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "ESTRATÉGIA",
+            "title": "Apple negocia: usa Qwen, fica no mercado CN",
+            "highlight": "usa Qwen, fica no mercado",
+            "body": "Solução: Partnership com Alibaba. Apple usa Qwen como LLM backend. Dados ficam em China, compliance atende regras locais, Apple vira distribuidor. Governo aprova (15/07).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "GEOPOLÍTICA",
+            "title": "Quem controla CADA PAÍS é mais importante que qual modelo é melhor",
+            "highlight": "cada PAÍS é mais importante",
+            "body": "Antes: pensávamos 'qual LLM é melhor globalmente?' Agora: 'qual LLM governos deixam usar localmente?' Resposta muda por país. Apple em US (próprio), China (Qwen), Brasil (?), Índia (?). Não existe 'melhor global'.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "REGRA CHINESA",
+            "title": "3 mandatos: dados locais, treino local, compliance local",
+            "highlight": "dados locais, treino local",
+            "body": "China não é antitecnologia. É anti-perda-de-soberania. Quando Apple aceita rodar Qwen (em vez de seus modelos), tá aceitando que governo chinês tem poder sobre IA que seus usuários usam. Isso é o tradeoff: acesso a mercado vs. controle global.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "EFEITO",
+            "title": "Alibaba agora tem 1B+ novos usuários via Apple",
+            "highlight": "1B+ novos usuários",
+            "body": "Qwen roda nos iPhones de todos os clientes Apple na China (800M users). Alibaba ganha escala automática. Dados + feedback de billions de interactions = treino contínuo = Qwen melhora exponencialmente.",
+            "stat": "1B+",
+            "stat_label": "usuários Apple na China",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO",
+            "title": "Tecnologia distribui, política concentra",
+            "highlight": "política concentra",
+            "body": "Qualidade de modelo (Claude, GPT, Qwen) tende à paridade. O que muda é QUEM controla em cada lugar. Apple teve que render à regra local. Isso vai acontecer em todos os países nos próximos 2 anos.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "IMPLICAÇÃO",
+            "title": "Se teu negócio quer escalar globalmente, estude regulação local",
+            "highlight": "regulação local",
+            "body": "Qwen na China. Claude em EU (GDPR). GPT em US. Não existe 'stack global de IA'. Cada mercado vai ter seu modelo predileto. Teu choice de LLM depende de onde teus clientes estão, não qual é melhor. Salva esse post + segue @rafaondei.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    }
+  ],
+  "whatsapp": "📱 *IA RADAR — 10 notícias do dia (17/07/2026)*\n\n1️⃣ *Kimi K3 (Moonshot)* — 2.8T params open-weight lançado. Pesos abertos em 10 dias. Preço IA cai 80%.\nhttps://venturebeat.com/technology/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems\n\n2️⃣ *Gemini 3.5 Pro (Google)* — 2M tokens + Deep Think nativo. Esperado hoje. Reasoning a $1.25.\nhttps://www.techtimes.com/articles/320308/20260713/gemini-35-pro-targets-july-17-after-full-rebuild-every-spec-remains-unconfirmed.htm\n\n3️⃣ *GPT-5.6 (OpenAI)* — 3 versões: Sol/Luna/Terra. Preços $5/$1.50/$2.50. Modo Ultra autobalanceia.\nhttps://www.axios.com/2026/07/09/ai-openai-gpt-release\n\n4️⃣ *Grok 4.5 (xAI)* — Já no Cursor. Opus-grade, $2/$6. 4x mais barato que Opus.\nhttps://x.ai/news/grok-4-5\n\n5️⃣ *ChatGPT Work* — Agente que entrega propostas/docs prontos. 3h → 5 min. Produtividade 20x.\nhttps://www.axios.com/2026/07/09/ai-openai-gpt-release\n\n6️⃣ *Muse Spark 1.1 (Meta)* — #1 em 3 benchmarks. 1M tokens. API paga (US-only, beta).\nhttps://thursdai.news/releases/2026-07\n\n7️⃣ *Claude for Teachers (Anthropic)* — Grátis em 130k escolas (50 currículos EUA). Educar = lock-in.\nhttps://www.chalkbeat.org/2026/07/14/anthropic-launches-claude-for-teachers-as-ai-companies-battle-for-classrooms/\n\n8️⃣ *Reflect (Anthropic)* — Dashboard de 12 meses de uso Claude. Quantificação = retention.\nhttps://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/\n\n9️⃣ *GPT-Live (OpenAI)* — Voz full-duplex (ouve + fala simultâneos). Conversas 5x mais rápidas.\nhttps://www.explainx.ai/blog/gpt-live-openai-chatgpt-voice-july-2026\n\n🔟 *Apple + Qwen (China)* — Apple usa Alibaba em CN, não seus modelos. Mercado > tecnologia.\nhttps://techstartups.com/2026/07/15/top-tech-news-today-july-15-2026-apple-asml-ibm-anthropic-meta-nvidia-openai-stripe-paypal-more/\n\n👉 Dashboard completo: https://rafaelondei.appnaia.com",
+  "instagram": "📊 *IA em 2026: a semana que tudo acelerou* 🚀\n\n🔴 *Kimi K3 (Moonshot)* — 2.8 TRILHÕES de parâmetros open-weight. A maior escala que vimos. Pesos saem em 10 dias (27/07), e quando isso acontecer, qualquer startup roda frontier-grade IA sem pagar OpenAI/Anthropic. Preço cai 80% overnight.\n\n🟠 *Gemini 3.5 Pro (Google)* — Esperado PRA HOJE. Google reconstruiu do zero (tinha bugs). 2M tokens, Deep Think nativo, preço ~$1.25 (12x mais barato que Opus). Reasoning finalmente fica acessível.\n\n🟡 *GPT-5.6 (OpenAI)* — Lançado em 3 versões: Sol (potência), Luna (velocidade), Terra (equilíbrio). Modo Ultra autodetecta qual submodelo usar. Commodificação da cadeia toda.\n\n🟢 *Grok 4.5 (xAI)* — Já no Cursor (que você usa pra programar). Opus-grade, $2/$6 (4x mais barato). Isso é ECONOMICS: mesma qualidade, fração do preço.\n\n🔵 *ChatGPT Work* — 🔥 RECOMENDADO — O agente que faz trabalho PRONTO. Tu pedes proposta? Sai doc + slide + planilha prontos em 5 minutos. Antes levava 3h. Produtividade 20x. Isso muda OPERAÇÃO.\n\n🟣 *Meta Muse Spark 1.1* — #1 em 3 benchmarks. 1M tokens. Meta entra no jogo com API paga. Competição acirrada = preço cai, qualidade sobe.\n\n⚪ *Educação = mercado* — Anthropic lança Claude for Teachers (grátis, 50 currículos dos EUA). Quem domina escolas domina geração. Adoção viral nos próximos 5 anos.\n\n🟤 *Reflect (Anthropic)* — Dashboard de 12 meses mostrando seu uso Claude. Quantificação = lock-in psicológico. Quando você VÊ 5000 prompts, você não consegue sair.\n\n🎤 *GPT-Live (OpenAI)* — Full-duplex voice (ouve + fala simultâneos). Conversas naturais. Atendimento 10x melhor. Voz é novo interface.\n\n🌍 *Apple na China usa Qwen* — Governo chinês força Apple a usar Alibaba em vez de seus modelos. Lição: mercado é tudo. Soberania é mandato. Tecnologia é commodity. Geopolítica de IA começou.\n\n💡 *TL;DR*: Preços caem, qualidade converge, mercados fragmentam por país, agentes (ChatGPT Work, Muse Spark) viram negócio core. Quem não tá rodando agents agora vai ficar pra trás. Testou ChatGPT Work?\n\n👉 Salva esse post + segue @rafaondei — toda semana o radar das 10 notícias que IMPACTAM teu negócio.\n\n#IA #InteligenciaArtificial #Claude #OpenAI #Anthropic #ChatGPT #Google #Gemini #xAI #Grok #Meta #Tecnologia #Empreendedorismo #Inovacao"
+}
