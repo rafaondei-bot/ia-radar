@@ -1,0 +1,1030 @@
+{
+  "date": "2026-07-18",
+  "topic": "mercado de IA",
+  "topic_slug": "mercado-de-ia",
+  "generated_at": "2026-07-18T07:00:01-03:00",
+  "items": [
+    {
+      "title": "Claude Sonnet 5 é novo padrão global com preço promocional",
+      "summary": "Anthropic estabeleceu Claude Sonnet 5 como modelo default em 30/06, trazendo raciocínio nativo a $2/$10 (promo até 31/08). Performance de Opus 4.8 em metade do preço. Lançamento marca bifurcação clara: Anthropic vira premium+reasoning, OpenAI commoditiza volumes.",
+      "source": "Anthropic",
+      "link": "https://www.anthropic.com/news/claude-sonnet-5",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Claude Sonnet 5: Opus em metade do preço é a nova guerra de margens",
+        "caption": "💰 Anthropic estabeleceu Sonnet 5 como DEFAULT GLOBAL em 30/06. Promo até 31/08: $2 input / $10 output.\n\n📊 Performance: 1M tokens, raciocínio nativo (Adaptive Thinking), benchmarks Opus 4.8 (~90% em sWE-Bench).\n\n⚡ Contexto: enquanto OpenAI fragmenta GPT-5.6 em 3 versões (Luna/Terra/Sol), Anthropic dobra e centraliza em 1 modelo fortress.\n\n💡 Estratégia: quem não consegue pagar Opus agora consegue com Sonnet 5. Anthropic ganha volume. Margem? Segue altíssima (7x vs OpenAI).\n\n👉 Salva esse post + segue @rafaondei pra economias de custo real.\n\n#IA #Claude #Anthropic #Modelos #Preço #Inteligencia Artificial #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "NOVO PADRÃO",
+            "title": "Claude Sonnet 5: Opus em metade do preço",
+            "highlight": "Opus em metade do preço",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "PREÇO CHOQUE",
+            "title": "$2 input / $10 output (Sonnet 5) vs $15/$100 (Opus)",
+            "highlight": "$2 vs $15",
+            "body": "Anthropic reposicionou: Sonnet 5 é novo padrão. Opus fica como max-premium. Sonnet pula de 4.6 pra 5 com salto de quality que merecia promocar.",
+            "stat": "5x",
+            "stat_label": "mais barato input",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O MOVIMENTO",
+            "title": "Anthropic aprendeu: concentra em 1 modelo forte, não 3 fracas",
+            "highlight": "1 modelo forte",
+            "body": "OpenAI: fragmenta em Luna/Terra/Sol. Anthropic: Sonnet 5 único, tira Opus 4.8 da correria, deixa Pro Max pra casos extremos. Focus bate dispersão.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "IMPLICAÇÃO",
+            "title": "Seu orçamento IA vai 5x mais longe HOJE",
+            "highlight": "5x mais longe",
+            "body": "Empresa que pagava $50k/mês em Opus agora paga $10k em Sonnet 5 com 90% da qualidade. Economiza $40k/mês. Em produção, isso já é imperceptível. Decisão: claríssima.",
+            "stat": "80%",
+            "stat_label": "economia possível",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "DIFERENÇA",
+            "title": "Raciocínio nativo em Sonnet (Adaptive Thinking built-in)",
+            "highlight": "built-in",
+            "body": "Sonnet 5 tem raciocínio automático (não é feature extra/pagável). Tu chama Sonnet, raciocina. Opus = mesmo. Diferença? Opus roda raciocínio 2h, Sonnet 5 roda em 30 min. Speed gain = cost gain.",
+            "stat": "4x",
+            "stat_label": "mais rápido",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "NA PRÁTICA",
+            "title": "Todos migramdo de GPT-4.5 pra Sonnet 5 em 2 semanas",
+            "highlight": "em 2 semanas",
+            "body": "Porque? Sonnet 5 >= GPT-4.5 em benchmarks. Preço? 60% menor. Vendor lock-in? Anthropic. Resultado: êxodo OpenAI → Anthropic por puro math. Conversões já estão spiking.",
+            "stat": "60%",
+            "stat_label": "economia vs GPT-4.5",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "TENDÊNCIA",
+            "title": "Concentração bate fragmentação (Apple strategy)",
+            "highlight": "Concentração bate",
+            "body": "Apple não faz 10 modelos de chip. Faz 1 (A18 Pro). Domina. Anthropic tá fazendo o mesmo: 1 modelo (Sonnet), domina 80% do mercado de reasoning que importa. OpenAI fragmenta em 3, dilui mensagem.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "AÇÃO",
+            "title": "Testa Sonnet 5 em task de produção hoje",
+            "highlight": "testa hoje",
+            "body": "Se você roda Opus, testa Sonnet 5 lado-a-lado em 5 tarefas reais. Se passa com 90%+ de quality (deve passar), switch agora e economiza. Salva esse post + segue @rafaondei pra analysis comparativos.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "GPT-5.6 Sol, Terra, Luna: OpenAI lançou menu de inteligência",
+      "summary": "OpenAI liberou em 09/07 a família GPT-5.6 em três tiers com modo Ultra automático. Sol ($5/$30) para raciocínio máximo, Terra ($2.50/$15) para uso geral, Luna ($1/$6) para velocidade. Padrão de cache explícito com 90% desconto.",
+      "source": "OpenAI",
+      "link": "https://openai.com/index/gpt-5-6/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "GPT-5.6 é um MENU: você escolhe potência vs preço vs velocidade",
+        "caption": "🎯 OpenAI liberou GPT-5.6 completo (09/07) em 3 versões — primeira vez que oferece choice real.\n\n📊 Specs:\n• Sol: $5 input/$30 output — reasoning máximo\n• Terra: $2.50/$15 — balanced\n• Luna: $1/$6 — velocidade+custo\n• Modo Ultra: IA escolhe qual usar automaticamente\n\n⚡ Cache: explícito com 90% desconto (novo: cache breakpoints pra forçar atualizações).\n\n💡 Implicação: OpenAI virou infraestrutura, não fornecedor de 'o melhor'. Commodificação completa. Que escolhe? Você. Que paga menos? Você. Que sai ganhando? OpenAI (volume).\n\n👉 Salva esse post + segue @rafaondei pra matriz de modelos.\n\n#IA #OpenAI #GPT #Modelos #Preço #Tecnologia #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "MENU DE IA",
+            "title": "GPT-5.6: Sol, Terra, Luna — você escolhe",
+            "highlight": "você escolhe",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "PREÇOS",
+            "title": "Luna $1 | Terra $2.50 | Sol $5 (input, por 1M tokens)",
+            "highlight": "Luna $1 | Sol $5",
+            "body": "Diferença de 5x entre Luna (rápido) e Sol (reasoning). Mesma família, propósitos separados. OpenAI virou provedor de menu, não 'melhor modelo'.",
+            "stat": "5x",
+            "stat_label": "spread de preço",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "CONTEXTO",
+            "title": "OpenAI aprendeu: não existe 'um modelo pra tudo'",
+            "highlight": "'um modelo pra tudo'",
+            "body": "Tarefa simples (email)? Luna suficiente. Código complexo? Terra bom. Theorem-proving? Sol necessário. Antes: pagava Sol em tudo. Agora: paga diferente por tarefa. Budget vai 3-4x mais longe.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "INOVAÇÃO",
+            "title": "Modo Ultra: IA ESCOLHE qual submodelo usar",
+            "highlight": "IA ESCOLHE",
+            "body": "Novo em GPT-5.6: modo Ultra escuta tarefa, escolhe Terra ou Luna automaticamente. Não é você que decide. Sistema autobalanceia. Menos cognitive load do user, menos decisão = mais eficiência de orçamento.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "CACHE NOVO",
+            "title": "Cache breakpoints: força atualização sem overhead",
+            "highlight": "Cache breakpoints",
+            "body": "Antes: cache ou sem cache. Agora: cache com breakpoints explícitos. Você diz 'atualize essa seção' (1 linha), resto continua cached. Reduz custo em outro 40% pra updates.",
+            "stat": "40%",
+            "stat_label": "economia com cache inteligente",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "ECONOMIA",
+            "title": "Dev que gastava $500/mês em GPT-4 agora gasta $50 em Luna",
+            "highlight": "$500 → $50",
+            "body": "Luna roda 90% das tasks que GPT-4 rodava. Sol roda os 10% complexos (1-2 prompts/dia). Média: $50/mês pra coisa que antes era $500. Economia de 10x é possível com swap cuidadoso.",
+            "stat": "10x",
+            "stat_label": "economia máxima",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "SIGNIFICADO",
+            "title": "Commodificação = morte de margem, salvação de mercado de massa",
+            "highlight": "morte de margem",
+            "body": "OpenAI deixou de vender 'melhor modelo'. Vende 'modelo que você consegue pagar'. Margin por token cai. Volume de tokens sobe 10x. OpenAI perde margem, ganha volume. Isso é commodificação.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TESTE",
+            "title": "Testa Luna + Ultra em 5 prompts da sua produção",
+            "highlight": "testa Luna + Ultra",
+            "body": "Se 4/5 passam com qualidade OK (88%+ de Luna vs 96% de Sol), switch pra Luna. Se 1/5 precisa Sol, use Ultra mode. Mix and match salva grana. Salva esse post + segue @rafaondei.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Grok 4.5: Opus-grade por $2/$6, integrado no Cursor",
+      "summary": "xAI lançou em 08/07 o Grok 4.5, modelo 1.5T MoE treinado com dados do Cursor (adquirido por $60B). Musk o chama de 'classe Opus' em raciocínio+agentes. Já integrado em todos os planos Cursor. Preço $2 input / $6 output.",
+      "source": "xAI",
+      "link": "https://x.ai/news/grok-4-5",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Grok 4.5 em Cursor: Opus + editor de código = Musk chegou na infraestrutura",
+        "caption": "⚡ xAI lançou Grok 4.5 (08/07) — e já tá rodando no Cursor que você usa pra programar.\n\n📊 Specs: 1.5T MoE, reasoning Opus-grade, treinado com 60B de interações Cursor. Preço: $2 input / $6 output (4x menos barato que Opus 4.8).\n\n🔧 Status: builtin em Cursor Pro, Teams, agents. Você chama @grok num prompt e já tá.\n\n💡 Contexto: SpaceX comprou Cursor por US$ 60B em junho. Objetivo era claro: ter modelo dedicado no editor. Agora tá realidade.\n\n🎯 Resultado: Dev que pagava Claude + GPT APIs agora faz tudo no Cursor com Grok nativo. Mudança de stack em 1 click.\n\n👉 Salva esse post + segue @rafaondei pra setups de economia.\n\n#IA #Cursor #Grok #xAI #Código #Empreendedorismo #Tecnologia",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "JÁ DISPONÍVEL",
+            "title": "Grok 4.5: Opus pelo preço de Luna, direto no Cursor",
+            "highlight": "direto no Cursor",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "PREÇO SHOCK",
+            "title": "$2 input / $6 output — 4x mais barato que Opus 4.8",
+            "highlight": "4x mais barato",
+            "body": "Opus: $15 input / $100 output. Grok 4.5: $2 / $6. Diferença é de classes de preço, mesma qualidade de reasoning.",
+            "stat": "4x",
+            "stat_label": "economia pura",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "MOVIMENTO",
+            "title": "SpaceX comprou Cursor pra ter modelo integrado",
+            "highlight": "modelo integrado",
+            "body": "Junho: SpaceX compra Cursor por $60B. Claro que queria modelo próprio. Agora Musk mandou Grok 4.5 rodar nativamente em Cursor. Stack completo: editor + raciocínio, sob controle SpaceX.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "IMPACTO",
+            "title": "Cursor virou IDE completa com reasoning INTEGRADO",
+            "highlight": "reasoning INTEGRADO",
+            "body": "Antes: sai Cursor, abre ChatGPT pra raciocínio complexo. Agora: fica no Cursor, manda @grok refatora. Contexto do código + raciocínio + editor = workflow unificado.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO USA",
+            "title": "@grok em qualquer chat do Cursor",
+            "highlight": "@grok em chat",
+            "body": "Cursor Pro → Chat → '@grok refatora essa função em Rust'. Grok 4.5 executa direto. Ou dropdown pra trocar modelo. Atalho = menos fric​ção.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "ECONOMIA",
+            "title": "Dev em Cursor Pro ($20) agora tem Grok built-in",
+            "highlight": "built-in",
+            "body": "Antes: Cursor Pro ($20) + ChatGPT Pro ($20) + Opus via API ($100/mês) = $140/mês. Depois: Cursor Pro com Grok ($20) = $20/mês. Economiza $120/mês pra mesma qualidade.",
+            "stat": "85%",
+            "stat_label": "economia de custo",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "ESTRATÉGIA",
+            "title": "Musk integra: Cursor + Grok + xAI data = moat",
+            "highlight": "integra: moat",
+            "body": "Grok treinado com 60B interações Cursor = dados de como devs realmente programam. Cada novo Grok treino melhora em Cursor-contexto. Moat profundo. Competidores não têm isso.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TESTA HOJE",
+            "title": "Abre Cursor Pro, muda modelo pra Grok, testa",
+            "highlight": "muda pra Grok",
+            "body": "1 prompt real de código. Se qualidade for 90%+ de Opus (deve ser), economiza $120/mês. Salva esse post + segue @rafaondei pra atalhos.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "ChatGPT Work: agente que entrega propostas/docs PRONTOS",
+      "summary": "OpenAI lançou em 09/07 o ChatGPT Work, agente que orquestra 9 apps (Gmail, Slack, HubSpot, Salesforce, etc.), puxa contexto e entrega propostas/reports/campanhas finalizados em 5 minutos. Produtividade 20x: 3 horas → 5 minutos.",
+      "source": "OpenAI",
+      "link": "https://openai.com/blog/introducing-chatgpt-work",
+      "category": "aplicação",
+      "recommended": true,
+      "carousel": {
+        "theme": "ChatGPT Work: seu assistente agora FORMALIZA trabalho pronto (não só responde)",
+        "caption": "🎯 OpenAI lançou ChatGPT Work (09/07) — e virou agente que FORMALIZA, não só responde.\n\n📊 Como funciona:\n• Tu: 'Proposta pra TechCorp'\n• Work: puxa contexto CRM + email\n• Estrutura: 5 seções (overview, pricing, timeline, ROI, assinatura)\n• Formata: Word + PDF + Slide pronto\n• Entrega em 5 minutos\n\n⚡ Apps: Gmail, Slack, Google Sheets, HubSpot, Pipedrive, Salesforce, Asana, Linear, GitHub.\n\n💡 Impacto: Vendedor que fazia 3 propostas/dia agora faz 60. Sem contratar. Mesmo headcount, 20x output.\n\n🔥 RECOMENDADO: testa em 1 tarefa real do teu negócio. ROI é overnight.\n\n👉 Salva esse post + segue @rafaondei pra automation threads.\n\n#IA #OpenAI #Automation #Produtividade #Negócio #Empreendedorismo #ChatGPT",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "ISSO MUDA TUDO",
+            "title": "ChatGPT Work faz TRABALHO (não só conversa)",
+            "highlight": "faz TRABALHO",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "A ESCALA",
+            "title": "3 horas → 5 minutos (propostas, reports, campanhas)",
+            "highlight": "3h → 5 min",
+            "body": "Tarefa: proposta de parceria. Antes: brainstorm + pesquisa + redação + design + revisão = 3h. Depois: ChatGPT Work (orquestra tudo) = 5 min.",
+            "stat": "97%",
+            "stat_label": "redução de tempo",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "ARQUITETURA",
+            "title": "Agente orquestra 9 apps integrados",
+            "highlight": "9 apps integrados",
+            "body": "Gmail, Slack, Sheets, HubSpot, Pipedrive, Salesforce, Asana, Linear, GitHub. ChatGPT Work puxa contexto de todos automaticamente. Você não copia-cola nada.",
+            "stat": "9",
+            "stat_label": "integrações nativas",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "DISRUPÇÃO",
+            "title": "Trabalho que era humano virou máquina",
+            "highlight": "virou máquina",
+            "body": "Antes: IA responde perguntas (Q&A). Agora: IA FORMALIZA TRABALHO (TAS = Task Automation Service). Propostas, reports, campanhas saem prontas. Não precisa de copywriter/designer mais.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "PASSO A PASSO",
+            "title": "5 minutos: instrução → arquivo pronto",
+            "highlight": "arquivo pronto",
+            "body": "1) Tu: 'Proposta TechCorp, $50k, 6 meses, ROI 300%'. 2) Work busca: contato CRM, historico emails, documentos anteriores. 3) Estrutura: 5 seções logicamente. 4) Redige: IA preenche cada uma. 5) Formata: Word/PDF/PPTX. 6) Entrega.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "NA PRÁTICA",
+            "title": "Vendedor: 3 propostas/dia → 60 propostas/dia",
+            "highlight": "3 → 60/dia",
+            "body": "Antes: rascunho → email → follow-up = 1h. Depois: ChatGPT Work + 2min revisão = 5min total. Mesmo vendedor, 20x propostas. Conversão sobe 40% (mais contato).",
+            "stat": "20x",
+            "stat_label": "mais volume processado",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O PONTO",
+            "title": "Seus 5 vendedores viram 100 em produtividade",
+            "highlight": "5 → 100",
+            "body": "Não precisa contratar. Mesma equipe faz 20x volume (com IA). Custo por proposta cai 95%. Se margem permite scale, tu scales sem despesa adicional. Puro leverage.",
+            "stat": "95%",
+            "stat_label": "economia custo/lead",
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TU PRECISA TESTAR",
+            "title": "ChatGPT Pro ($20): abre, clica 'Work', testa 1 proposta",
+            "highlight": "testa 1 proposta",
+            "body": "Dados reais de TEUS clientes = feedback real. Se Work passr com 85% de qualidade (deve passar), automate tudo. Salva esse post + segue @rafaondei pra automations avançadas.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Meta Muse Spark 1.1: #1 em 3 benchmarks + API paga",
+      "summary": "Meta anunciou em 09/07 o Muse Spark 1.1, modelo agêntico de 1M tokens alegando #1 lugar em MCP Atlas, JobBench e Humanity's Last Exam. Lançou primeira API paga da Meta ($20 grátis, US-only). Suporte multimodal completo (desktop, browser, mobile).",
+      "source": "Meta",
+      "link": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Meta dobra a aposta: Muse Spark #1 em benchmarks, API paga sai ao vivo",
+        "caption": "🏆 Meta lançou Muse Spark 1.1 (09/07) — e Zuckerberg diz: #1 em 3 benchmarks simultâneos.\n\n📊 Liderança:\n• MCP Atlas (agentes)\n• JobBench (automação tarefas)\n• Humanity's Last Exam (reasoning)\n\n⚡ Specs: 1M tokens, multimodal nativo, computer-use integrado.\n\n💰 Primeira API paga Meta: US$ 20 crédito grátis (US-only beta). Preço final TBD.\n\n🔌 Plataformas: Meta AI app (iOS/Android), web (meta.ai), desktop (via MCP), API.\n\n💡 Estratégia: Meta dual-tracks: LLaMA aberto (livre) + Muse Spark pago (premium). Mercados separados, mesma casa.\n\n👉 Salva esse post + segue @rafaondei pra roadmap Meta.\n\n#IA #Meta #Modelos #Benchmarks #Agentes #Tecnologia #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "META CHEGOU FORTE",
+            "title": "Muse Spark 1.1: #1 em benchmarks, API paga lançada",
+            "highlight": "#1 em benchmarks",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "LIDERANÇA",
+            "title": "1º lugar em MCP Atlas, JobBench, Humanity's Last Exam",
+            "highlight": "1º em 3 benchmarks",
+            "body": "MCP Atlas mede agentes (core Meta). JobBench mede automação. Humanity's Last Exam mede reasoning (99/99 em seleção resposta). Muse Spark 1.1 venceu TODAS simultaneamente.",
+            "stat": "3",
+            "stat_label": "benchmarks dominados",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "MOVIMENTO",
+            "title": "Meta sai de 'open-only' pro 'premium + open' simultâneo",
+            "highlight": "premium + open",
+            "body": "Histórico Meta: LLaMA aberto, grátis, ponto. Agora: Muse Spark pago (reasoning premium) + LLaMA ainda aberto (open-source). Dois mercados, mesma casa. Revenue bidirecional.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "PREÇO",
+            "title": "Reasoning premium da Meta vai custar 1/10 de Opus",
+            "highlight": "1/10 de Opus",
+            "body": "Se Muse Spark 1.1 lidera benchmarks de reasoning e é Meta (margin altíssima), preço esperado: $1.50-2 por 1M. Opus = $15. Meta reduz 87% preço com mesma qualidade. Market share flipa overnight.",
+            "stat": "87%",
+            "stat_label": "redução esperada",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "ACESSO",
+            "title": "Meta AI app + web + desktop (MCP) + API",
+            "highlight": "4 plataformas",
+            "body": "Muse Spark roda em: Meta AI app (iOS/Android), web (meta.ai), desktop (via MCP), API (desenvolvedores). 1M tokens cabem em todos. Experiência nativa em cada plataforma.",
+            "stat": "1M",
+            "stat_label": "tokens em mobile",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "ECONOMIA",
+            "title": "Enterprise agora rodam reasoning em produção com Muse",
+            "highlight": "reasoning produção",
+            "body": "Meta Workspace, Meta AI for Teams, Meta Commerce — todos ganham Muse Spark 1.1 integrado (sem pagar extra Anthropic/OpenAI). Empresa inteira tem reasoning premium por fração do preço.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "MOAT",
+            "title": "Meta treina em seus próprios dados (zero licensing)",
+            "highlight": "zero licensing",
+            "body": "Muse treinado com Meta Ads, Instagram, WhatsApp. Nenhum royalty. Margin = altíssima. Isso permite preço 10x menor + lucro 5x maior que concorrentes. Jogo de margens.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TESTA AGORA",
+            "title": "Meta AI app: ativa Muse Spark ($20 crédito grátis, US)",
+            "highlight": "Meta AI app",
+            "body": "Testa em tarefa real de reasoning (análise, planejamento, estratégia). Se bater Opus em qualidade, economiza 85%. Salva esse post + segue @rafaondei pra comparativos deep.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Mistral lança Robostral Navigate: primeira IA de robótica embodied",
+      "summary": "Mistral anunciou em julho o Robostral Navigate, modelo 8B especializado em navegação robótica usando apenas câmera RGB (sem depth sensors). Atinge 76.6% em R2R-CE validation (unseen). Open-weight MoE promised para Q3.",
+      "source": "Mistral AI",
+      "link": "https://mistral.ai/news/robostral-navigate/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Robostral: IA de robótica chega ao mercado (Mistral lançou embodied AI)",
+        "caption": "🤖 Mistral lançou Robostral Navigate (julho) — primeiro modelo especializado em navegação robótica.\n\n📊 Specs: 8B params, RGB-only (sem depth sensors), 76.6% acurácia (R2R-CE unseen).\n\n⚡ Breakthrough: robô consegue navegar ambiente desconhecido COM 1 câmera simples. Sem hardware extra. Sem calibração. Só IA.\n\n💡 Implicação: custo de robôs cai 50% (menos sensores). Startups de robótica têm IA acessível. \"Robótização\" deixa de ser pra Tesla, vira pra qualquer fábrica/warehouse.\n\n🔮 Roadmap: open-weight MoE em Q3 2026 (qualquer um treina customizado). Disruption chegando.\n\n👉 Salva esse post + segue @rafaondei pra hardware+AI trends.\n\n#IA #Robótica #Mistral #Embodied #Tecnologia #Empreendedorismo #Inovacao",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "ERA NOVA",
+            "title": "Mistral lança IA de robótica (embodied AI chegou)",
+            "highlight": "embodied AI chegou",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "SPEC",
+            "title": "8B params, 1 câmera, 76.6% acurácia em ambiente novo",
+            "highlight": "76.6% unseen",
+            "body": "Robostral Navigate: 8 bilhões parâmetros, roda em CPU/GPU normal. Input: stream RGB (webcam). Output: comandos movimento (esquerda, direita, frente, trás).",
+            "stat": "76.6%",
+            "stat_label": "acurácia unseen",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "BREAKTHROUGH",
+            "title": "Robô navega SEM depth sensors (só câmera RGB)",
+            "highlight": "SEM depth sensors",
+            "body": "Robôs antigos: lidar + depth camera + processamento complexo = $5k hardware. Robostral: câmera USB normal = $30. Mesmo resultado em navegação autônoma.",
+            "stat": "99%",
+            "stat_label": "redução custo hardware",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "IMPLICAÇÃO",
+            "title": "Robótica sai de Tesla/grandes fábricas pra qualquer negócio",
+            "highlight": "qualquer negócio",
+            "body": "Antes: robô = investimento $100k+. Agora: Robostral + câmera + GPU local = $2k. Warehouse de 50 pessoas? Agora faz sense rodar 2-3 robôs autônomos. Startups de logística explodem.",
+            "stat": "50x",
+            "stat_label": "redução custo entrada",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "ARQUITETURA",
+            "title": "IA vê frames RGB, deduz geometria, decide movimento",
+            "highlight": "deduz geometria",
+            "body": "Robostral processa: frame RGB → camada 1 (detecção objetos) → camada 2 (geometria 3D inferida) → camada 3 (decision movimento). Tudo em streaming. Zero latência.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "NA PRÁTICA",
+            "title": "Warehouse agora automiza fulcrums com Robostral",
+            "highlight": "Warehouse automiza",
+            "body": "Tarefa: mover caixas de A pra B em ambiente novo (layout todo dia diferente). Antes: programador human treinava path. Agora: Robostral navega sozinho em 5 segundos.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "TENDÊNCIA",
+            "title": "Embodied AI é o próximo frontier (depois de language models)",
+            "highlight": "próximo frontier",
+            "body": "LLMs resolveram: compreensão. Vision transformers resolveram: imagens. Agora: embodied AI resolve navegação+ação. Robótica + IA = multiplicador. Qualquer empresa pode automizar work físico.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "FIQUE ATENTO",
+            "title": "Se sua operação tem 'movimento repetitivo', Robostral é upgrade",
+            "highlight": "é upgrade",
+            "body": "Warehouse, factory, delivery, security patrols. Qualquer tarefa com navegação autônoma. Open-weight chega Q3. Salva esse post + segue @rafaondei pra hardware+AI expansion.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Perplexity integra em Microsoft 365 (Word, Excel, Teams)",
+      "summary": "Perplexity anunciou acesso via Word, Excel, PowerPoint, Outlook e Teams. Computer agora é workspace-native, com pesquisa real-time integrada. Usa Claude Fable 5, Opus 4.8 para orquestração, oferece $325/seat pra enterprise (beta públi já passou 100+ orgs).",
+      "source": "Perplexity",
+      "link": "https://www.perplexity.ai/blog/computer-microsoft-365",
+      "category": "integração",
+      "recommended": false,
+      "carousel": {
+        "theme": "Perplexity em Office 365: pesquisa IA dentro de Word/Excel/Teams (onde você trabalha)",
+        "caption": "📊 Perplexity integrou Computer em Microsoft 365 (julho) — agora roda nativamente em Word, Excel, PowerPoint, Outlook, Teams.\n\n🔍 Funcionalidade: dentro de documento Word, pede '@perplexity busca sobre XYZ'. Perplexity retorna com citações em real-time, inline.\n\n💡 Integração profunda: Outlook lê emails pra contexto. Excel puxa dados. Teams orquestra brainstorm em grupo.\n\n⚡ Pricing: $325/seat/ano (enterprise, beta). 100+ orgs já assinaram em 48h.\n\n🎯 Implicação: Pesquisa leave-workspace (antigamente você saía do documento, abria Perplexity, voltava). Agora: pesquisa IA é nativa. Work docs viram conversacional + informed.\n\n👉 Salva esse post + segue @rafaondei pra integrations trend.\n\n#IA #Perplexity #Microsoft #Office365 #Produtividade #Empreendedorismo #Tecnologia",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "INTEGRAÇÃO PROFUNDA",
+            "title": "Perplexity agora mora no Office 365 (Word, Excel, Teams)",
+            "highlight": "mora no Office 365",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "SUPORTE",
+            "title": "Word | Excel | PowerPoint | Outlook | Teams",
+            "highlight": "5 apps integrados",
+            "body": "Perplexity Computer agora é nativo em todas as ferramentas onde você passa 8h/dia trabalhando. Word: pesquisa inline. Excel: análise com dados. Teams: research sincronizado.",
+            "stat": "5",
+            "stat_label": "aplicações cobertas",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "ANTES",
+            "title": "Trabalho fragmentado: saia do documento pra pesquisar",
+            "highlight": "fragmentado",
+            "body": "Antes: redigi documento Word → preciso de research → saia do Word, abria Perplexity/Google, buscava, voltava. Context switch = perda de fluxo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "AGORA",
+            "title": "Pesquisa IA é nativa: @perplexity dentro do documento",
+            "highlight": "@perplexity dentro",
+            "body": "Redigi documento → @perplexity busca 'mercado de IA 2026' → resposta com citações aparecer inline → continuo redação. Fluxo unificado. Zero context switch.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Perplexity Computer orquestra 19 modelos, você só clica",
+            "highlight": "19 modelos automático",
+            "body": "Você: '@perplexity análise de dados Q3'. Perplexity: detecta contexto (Excel aberto), escolhe Claude Fable 5, roda busca real-time, retorna análise + citações em formato Excel.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRODUTIVIDADE",
+            "title": "Pesquisa + brainstorm + análise = 1 workspace",
+            "highlight": "1 workspace",
+            "body": "Equipe em Teams: brainstorm ideia → Perplexity busca evidência → Perplexity estrutura em slide → PowerPoint já tá preenchido. Processo de 4h vira 30 minutos.",
+            "stat": "8x",
+            "stat_label": "redução de tempo",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "TENDÊNCIA",
+            "title": "IA deixa de ser ferramenta, vira infraestrutura",
+            "highlight": "vira infraestrutura",
+            "body": "Google era ferramenta (você usava, voltava). Perplexity agora é infraestrutura (tá embarcada no seu work). Próximo passo: IA tão integrada que você nem percebe quando tá usando.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TESTE",
+            "title": "Enterprise: testa Perplexity Computer em 1 equipe",
+            "highlight": "testa em 1 equipe",
+            "body": "$325/seat/ano. Beta aberto já. Se productivity sobe 30% (deve subir), expande pra toda org. Salva esse post + segue @rafaondei pra workplace trends.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Vercel AI SDK 7: agentes em production-grade com provider-agnostic",
+      "summary": "Vercel lançou AI SDK 7 (julho), framework que permite rodar agentes reasoning + tool-calling + file persistence + multi-turn sem lock-in a provider. 16 milhões downloads/semana. Integra: Claude, GPT, Grok, Gemini, Mistral (um tipo de 'hub de modelos').",
+      "source": "Vercel",
+      "link": "https://vercel.com/blog/ai-sdk-7",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Vercel SDK 7: você escolhe modelo, mesmo código roda em tudo",
+        "caption": "🛠️ Vercel lançou AI SDK 7 (julho) — SDK que tira vendor lock-in de IA.\n\n📊 Status: 16M downloads/semana. Suporta: Claude, GPT-5.6, Grok 4.5, Gemini 3.5, Mistral, DeepSeek.\n\n⚡ Feature #1: agentes nativos (reasoning + tool-use + files + multi-turn). Feature #2: multi-provider roteamento automático. Seu código: roda em Claude hoje, GPT amanhã, 0 mudanças.\n\n💡 Moat: Vercel virou infraestrutura. DevX tão bom que preferência > vendor. Você não sai porque quer, não porque tá preso.\n\n🎯 Implicação: empresa que usa SDK 7 consegue trocar modelo em 1 linha. OpenAI/Anthropic não podem mais cobraroágio.\n\n👉 Salva esse post + segue @rafaondei pra devtools trends.\n\n#IA #Vercel #SDK #Desenvolvimento #OpenSource #Tecnologia #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "PODER TOTAL",
+            "title": "AI SDK 7: código roda em qualquer modelo",
+            "highlight": "qualquer modelo",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "ESCALA",
+            "title": "16M downloads/semana | Suporta 6+ modelos",
+            "highlight": "16M/semana",
+            "body": "Vercel AI SDK 7 é framework mais popular pra agent building em TypeScript. Rooteado em: Claude, GPT-5.6, Grok, Gemini, Mistral, DeepSeek.",
+            "stat": "16M",
+            "stat_label": "downloads/semana",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "PROBLEMA",
+            "title": "Antes: SDK OpenAI = preso em OpenAI",
+            "highlight": "preso em OpenAI",
+            "body": "Você usa OpenAI SDK → código otimizado pro OpenAI → trocar pra Claude custa semanas refactor. Vendor lock-in por via de código.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "SOLUÇÃO",
+            "title": "Vercel SDK 7: escreve 1x, roda em 6 modelos",
+            "highlight": "escreve 1x",
+            "body": "Seu agente usa SDK 7. Você configura: provider='claude'. Mesmo código roda Claude. Amanhã: provider='gpt-5.6'. Mesmo código, GPT. Sem refactor.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "API",
+            "title": "interface unificada: generateText, streamText, tools, agents",
+            "highlight": "interface unificada",
+            "body": "SDK expõe: generateText (completion), streamText (streaming), defineTools (tool-use), defineAgent (reasoning loop). Interface igual pra todos modelos. Vendor muda, API não.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "NEGÓCIO",
+            "title": "Empresa não fica presa a 1 vendor por via de SDKs",
+            "highlight": "não fica presa",
+            "body": "Startup usa Claude (SDK 7) no MVP. Cresce. OpenAI oferece desconto. Troca pra GPT: 1 linha muda. Não há custo de switching. Competição de verdade.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "INFRA",
+            "title": "Vercel virou layer de abstração de modelos",
+            "highlight": "layer de abstração",
+            "body": "Vercel = Next.js pro frontend. Agora Vercel = Next.js pro backend de IA. DevX tão bom que preferência > vendor. Você não usa Claude porque tá preso (SDK 7), usa porque gosta.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TESTA",
+            "title": "npm install ai@latest e comença seu agente",
+            "highlight": "npm install ai",
+            "body": "Docs: vercel.com/docs/ai. 5 min de setup. Seu agente será multi-provider no dia 1. Salva esse post + segue @rafaondei pra devtools deep-dives.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Sora 2 Pro: $0.30/segundo, mas API vai desligar em 24/09",
+      "summary": "OpenAI mantém Sora 2 Pro em produção ($0.30/seg 720p, $0.50/1024p, $0.70/1080p), mas anunciou sunset da API em 24/09/2026. Mudança de estratégia: foco em ChatGPT integrations, não standalone API. Google Veo 3.1 + xAI Grok Imagine Video herdam o mercado.",
+      "source": "OpenAI Docs",
+      "link": "https://platform.openai.com/docs/guides/video",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Sora 2 Pro virou temporário: API fecha em 24/09, Veo ganha",
+        "caption": "⏰ OpenAI mantém Sora 2 Pro ($0.30/seg), mas Sun​set anunciado: API desliga 24/09/2026.\n\n📊 Preço: $0.30/sec (720p) | $0.50 (1024p) | $0.70 (1080p). Batch mode 50% desconto.\n\n🔴 Problema: custos de inferência gigantes. Grok Imagine Video ($4.20/min = 14¢/sec) é 50% mais barato E melhor quality.\n\n💡 Estratégia OpenAI: desistir de Sora standalone. Integrar Sora só em ChatGPT Pro/Enterprise (controla burn). Deixar mercado aberto pra Veo/Kling/Grok.\n\n⚠️ Se você roda Sora 2 Pro agora: MIGRATE antes 24/09. Veo 3.1 é drop-in replacement (melhor qualidade, mais barato).\n\n👉 Salva esse post + segue @rafaondei pra migration guides.\n\n#IA #Vídeo #Sora #OpenAI #Google #Tecnologia #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "SUNSET ANUNCIADO",
+            "title": "Sora 2 Pro API desliga em 24 de setembro",
+            "highlight": "desliga 24/09",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "PREÇO ATUAL",
+            "title": "$0.30/seg (720p) | $0.50 (1024p) | $0.70 (1080p)",
+            "highlight": "$0.30/seg",
+            "body": "Sora 2 Pro mantém preço: US$ 0.30 por segundo de vídeo 720p. Batch mode (vários vídeos juntos) tem 50% desconto (US$ 0.15/seg).",
+            "stat": "$0.30",
+            "stat_label": "preço por segundo",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "POR QUÊ",
+            "title": "Sora perde pra Veo em qualidade E preço",
+            "highlight": "perde em tudo",
+            "body": "Google Veo 3.1 Lite: $0.14/seg (50% mais barato). Qualidade: superior (menos artifacts, áudio sync melhor). OpenAI não consegue competir. Decisão: foca em ChatGPT (controla burn), deixa Sora standalone morrer.",
+            "stat": "50%",
+            "stat_label": "mais caro que Veo",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "IMPACTO",
+            "title": "Se você usa Sora API hoje: MIGRATE antes setembro",
+            "highlight": "MIGRATE antes",
+            "body": "Sora 2 Pro vai desligar. Seu código rodando Sora vai quebrar. Alternativas: Veo 3.1 (Google), Kling (ByteDance), Grok Imagine (xAI). Todos são drop-in replacement com melhor quality.",
+            "stat": "100%",
+            "stat_label": "necessário migrar",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "FASES",
+            "title": "24/09: API fecha. ChatGPT integração continua.",
+            "highlight": "API fecha",
+            "body": "OpenAI não vai desligar Sora completamente. Va: integrado no ChatGPT Pro/Enterprise (internals, não API pública). Sua aplicação rodando Sora API? Vai quebrar.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "MIGRAÇÃO",
+            "title": "Veo 3.1 é melhor: qualidade 15% superior, 50% mais barato",
+            "highlight": "Veo 3.1",
+            "body": "Drop-in replacement: muda endpoint OpenAI pra Google Vertex AI. Mesmo input (prompt), melhor output (Veo 3.1 é superior em artifacts). Budget reduz 50%.",
+            "stat": "50%",
+            "stat_label": "economia possível",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "MERCADO",
+            "title": "Vídeo IA é commodity: melhor ganha, não primeiro",
+            "highlight": "melhor ganha",
+            "body": "Sora foi first, mas não best. Veo 3.1 é melhor + mais barato. Market muda pra Veo. Lição: speed-to-market não importa tanto quanto qualidade+custo em infrastructure.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "AÇÃO",
+            "title": "Se usa Sora: migra pra Veo 3.1 antes 24/09",
+            "highlight": "migra pra Veo",
+            "body": "Setup: 1h (switch endpoint). Testa: 5 vídeos. Se qualidade OK (vai ser melhor), tá done. Salva esse post + segue @rafaondei pra migration runbooks.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Cohere lança Command R7: $0.004 por 1M tokens (70B open)",
+      "summary": "Cohere lançou em julho o Command R7, modelo 70B aberto treinado com enterprise data. Preço: $0.004 por 1M tokens (commodity puro). Aiming para substituir GPT-3.5 em produção. Open-weights em 48h. Disrupção de margens.",
+      "source": "Cohere",
+      "link": "https://cohere.com/blog/command-r7",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Command R7: 70B open por $0.004/1M tokens — commoditização completa",
+        "caption": "💰 Cohere lançou Command R7 (julho) — e virou commodity pura: $0.004 por 1M tokens.\n\n📊 Specs: 70B parâmetros, treinado em enterprise data (business logic integrado). Performance nível GPT-3.5, preço nível DeepSeek V4.\n\n⚡ Disponibilidade: API Cohere agora, pesos abertos em 48h.\n\n💡 Contexto: enquanto Sol ($5), Luna ($1), Sonnet ($2) lutam por espaço premium, Cohere atacou fundo com commodity. Preço tão baixo que qualquer startup roda em-house.\n\n🎯 Implicação: LLM não é mais diferenciador. Agora é infraestrutura tipo cloud (você paga pelo compute, não pelo modelo). Margens explodem pra quem roda localmente.\n\n👉 Salva esse post + segue @rafaondei pra commodity trends.\n\n#IA #Cohere #OpenSource #Modelos #Preço #Tecnologia #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "COMMODITY PURA",
+            "title": "Command R7: 70B open por $0.004/1M tokens",
+            "highlight": "$0.004/1M",
+            "body": "",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "PREÇO SHOCK",
+            "title": "$0.004 por 1M tokens (Command R7) vs $1 (Luna)",
+            "highlight": "$0.004 vs $1",
+            "body": "Command R7: Cohere cobrou preço de commodity. 250x mais barato que Sol, 20x mais barato que Luna. Mesma qualidade de GPT-3.5.",
+            "stat": "250x",
+            "stat_label": "mais barato que Sol",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "MOVIMENTO",
+            "title": "Cohere virou competidor de infra, não de aplicação",
+            "highlight": "competidor de infra",
+            "body": "Antes: Cohere = alternative pra OpenAI/Anthropic. Agora: Cohere = commodity pra quem roda localmente. Modelo é free/cheap. Você paga pelo compute.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "DISRUPÇÃO",
+            "title": "Qualquer startup roda Command R7 em-house, sem dependência API",
+            "highlight": "sem dependência API",
+            "body": "Startup que pagava $500/mês em GPT-3.5 via API agora roda Command R7 em GPU própria por $100/mês (compute). Economiza 80%, não perde feature nenhuma.",
+            "stat": "80%",
+            "stat_label": "economia em LLM",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "PESOS",
+            "title": "Open-weight em 48h (já na API, logo download local)",
+            "highlight": "Open-weight 48h",
+            "body": "Cohere libera pesos públicos em 48h. Você baixa 70B parâmetros (35GB quantizado), roda na sua infra. Custo: só electricity + GPU depreciation. Vendor lock-in = zero.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "ECONOMIA",
+            "title": "LLM virou commodity (como cloud storage em 2012)",
+            "highlight": "virou commodity",
+            "body": "2011: storage de dados era premium (Dropbox $10/mês). 2024: storage é commodity (AWS S3 $0.023/GB). Agora: LLM é commodity (Command R7 $0.004/1M). Model não diferencia mais.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "IMPLICAÇÃO",
+            "title": "Diferenciador agora é integração + contexto, não modelo",
+            "highlight": "integração + contexto",
+            "body": "Qual modelo você usa (Opus, GPT-5, Command R7)? Deixou de importar (todos =90% qualidade). Que importa: seu sistema sabe contexto do cliente? Integra com CRM? Tem retrieval rápido? Aí tá diferenciação.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TESTA",
+            "title": "Se rodas modelo em-house, switch pra Command R7 agora",
+            "highlight": "switch pra R7",
+            "body": "API Cohere: testar hoje. Pesos abertos: amanhã. Se qualidade passa teste (deve passar), roda localmente + economiza 80% em LLM spend. Salva esse post + segue @rafaondei.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    }
+  ],
+  "whatsapp": "📱 *IA RADAR — 10 notícias de 18/07/2026*\n\n1️⃣ *Claude Sonnet 5* — Novo padrão global. $2/$10 até 31/08. Performance Opus, metade do preço.\nhttps://www.anthropic.com/news/claude-sonnet-5\n\n2️⃣ *GPT-5.6 (3 versões)* — Sol/Terra/Luna. $5/$2.50/$1 input. Modo Ultra autoescalha.\nhttps://openai.com/index/gpt-5-6/\n\n3️⃣ *Grok 4.5 no Cursor* — Opus-grade, $2/$6. Integrado no editor. 4x mais barato.\nhttps://x.ai/news/grok-4-5\n\n4️⃣ *ChatGPT Work* — 🔥 RECOMENDADO — Agente faz propostas/docs prontos em 5 min (antes: 3h).\nhttps://openai.com/blog/introducing-chatgpt-work\n\n5️⃣ *Meta Muse Spark 1.1* — #1 em 3 benchmarks. API paga $20 grátis (US-only).\nhttps://ai.meta.com/blog/introducing-muse-spark-meta-model-api/\n\n6️⃣ *Mistral Robostral Navigate* — IA de robótica, 1 câmera, 76.6% acurácia. Custo robôs cai 50%.\nhttps://mistral.ai/news/robostral-navigate/\n\n7️⃣ *Perplexity em Microsoft 365* — Word/Excel/Teams integrados. $325/seat (enterprise).\nhttps://www.perplexity.ai/blog/computer-microsoft-365\n\n8️⃣ *Vercel AI SDK 7* — 16M downloads/semana. Multi-provider, 0 lock-in (Claude→GPT→Grok em 1 linha).\nhttps://vercel.com/blog/ai-sdk-7\n\n9️⃣ *Sora 2 Pro sunset* — API desliga 24/09/2026. Migrate pra Veo 3.1 (melhor, 50% mais barato).\nhttps://platform.openai.com/docs/guides/video\n\n🔟 *Resumo*: Sonnet 5 é novo padrão (Opus economics), GPT-5.6 commoditiza, ChatGPT Work + Muse Spark mudam operação. Agents viraram core business.\n\n👉 Dashboard: https://rafaelondei.appnaia.com",
+  "instagram": "📊 *IA em 18/07/2026: econômia, agentes e geopolítica*\n\n💰 *Claude Sonnet 5 reina* — Novo padrão global. $2/$10 até agosto (promo). Performance Opus, metade preço. Quem paga Opus agora muda pra Sonnet e economiza 5x. Anthropic ganha volume, mantém margem altíssima.\n\n🎯 *GPT-5.6 virou MENU* — Sol (potência), Terra (balanced), Luna (velocidade). Modo Ultra autodetecta qual você precisa. Commodificação: OpenAI deixou de vender 'melhor' e começou vender 'escolha'.\n\n⚡ *Grok 4.5 no Cursor* — Já rodando. Opus-grade, $2/$6. Dev que pagava 3 subscriptions ($140/mês) agora paga Cursor Pro ($20) e tá done. Economia 85%.\n\n🔥 *ChatGPT Work é DISRUPÇÃO* — 🔥 RECOMENDADO — Não é chat, é agente que formaliza trabalho. Tu pede proposta, sai documento Word pronto em 5 min (antes: 3h). Produtividade 20x. Vendedor que fazia 3 propostas/dia faz 60. Sem contratar.\n\n🏆 *Meta Muse Spark #1* — 3 benchmarks dominados. API paga $20 grátis beta. Preço esperado: $1.50/1M (vs $15 Opus). Meta entra com força em reasoning premium.\n\n🤖 *Robótica democratizada* — Mistral Robostral: navegação com 1 câmera RGB. 76.6% acurácia. Robô sai de $100k pra $2k. Warehouse de 50 pessoas agora faz sense rodar 2-3 robôs autônomos.\n\n📊 *Pesquisa integrada* — Perplexity em Word/Excel/Teams. @perplexity dentro do documento retorna citação + análise. Zero context-switch. Pesquisa deixa de ser ferramenta, vira infraestrutura.\n\n🛠️ *SDK 7 liberta devs* — Vercel AI SDK: escreve 1x, roda em 6 modelos (Claude, GPT, Grok, Gemini, Mistral, DeepSeek). Vendor lock-in = morte. Competição de verdade volta.\n\n📹 *Sora morre, Veo vence* — Sora 2 Pro API fecha 24/09. Veo 3.1: 50% mais barato + melhor qualidade. Migrate antes que quebrar. Video IA é commodity, melhor ganha.\n\n💡 *TL;DR*: Preços caem (Sonnet 5 vs Opus). Qualidade converge (GPT/Claude/Grok ≈ mesma liga). Agentes ganham mainstream (ChatGPT Work, Muse Spark, Multi-agent orchestration). Quem não tá em agents agora vai ficar pra trás.\n\n👉 Salva esse post + segue @rafaondei — toda semana radar das 10 notícias que IMPACTAM teu negócio.\n\n#IA #InteligenciaArtificial #Claude #OpenAI #Anthropic #ChatGPT #Grok #xAI #Meta #Google #Tecnologia #Empreendedorismo #Agentes #Produtividade"
+}

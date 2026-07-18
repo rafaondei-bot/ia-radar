@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-07-17T07:00:01-03:00",
+  "updated_at": "2026-07-18T07:00:01-03:00",
   "executions": [
+    {
+      "date": "2026-07-18",
+      "key": "2026-07-18",
+      "topic": "mercado de IA",
+      "summary": "Claude Sonnet 5 padrão global ($2/$10 promo). GPT-5.6 menu (Sol/Luna/Terra, modo Ultra). Grok 4.5 no Cursor (Opus $2/$6). ChatGPT Work (#RECOMENDADO agente faz propostas prontas). Meta Muse Spark #1 em benchmarks ($20 grátis). Robostral (IA robótica, 1 câmera). Perplexity em 365. Vercel SDK 7 (multi-provider). Sora 2 Pro sunset 24/09 (vire pra Veo 3.1). Command R7 ($0.004/1M commodity pura).",
+      "items_count": 10
+    },
     {
       "date": "2026-07-17",
       "key": "2026-07-17",
