@@ -1,3 +1,13 @@
 {
-  "pending": []
+  "pending": [
+    {
+      "type": "search",
+      "id": "14bfb36a-04fa-4f90-b103-30afaa7c0ee1",
+      "topic": "PERCUARIA E BOVINOS",
+      "slug": "percuaria-e-bovinos",
+      "key": "2026-07-18-percuaria-e-bovinos",
+      "date": "2026-07-18",
+      "requested_at": "2026-07-18T22:08:39.283Z"
+    }
+  ]
 }
