@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-07-18T19:09:03-03:00",
+  "updated_at": "2026-07-20T07:00:01-03:00",
   "executions": [
+    {
+      "date": "2026-07-20",
+      "key": "2026-07-20",
+      "topic": "mercado de IA",
+      "summary": "Autonomous agents em produção: 57% enterprises + agents viraram default em 40% apps by EOY. OpenAI, Anthropic, Huawei, Meta, Google redefinindo landscape.",
+      "items_count": 10
+    },
     {
       "date": "2026-07-18",
       "key": "2026-07-18-percuaria-e-bovinos",

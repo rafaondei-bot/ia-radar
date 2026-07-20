@@ -1,0 +1,1030 @@
+{
+  "date": "2026-07-20",
+  "topic": "mercado de IA",
+  "topic_slug": "ia-mercado",
+  "generated_at": "2026-07-20T07:00:01-03:00",
+  "items": [
+    {
+      "title": "OpenAI lança GPT-5.6 em 3 tiers: Sol, Terra e Luna com preços 50% mais baratos",
+      "summary": "OpenAI abriu general availability do GPT-5.6 em 3 modelos: Sol (high-end, $5 por 1M tokens), Terra (balanced, $2.50) e Luna (fast, $1). Cada um otimizado pra diferente workload. Pricing 50% mais acessível que predecessores.",
+      "source": "OpenAI",
+      "link": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "OpenAI divide inteligência em 3 modelos: escolhe a que cabe no teu bolso",
+        "caption": "A OpenAI acabou de virar o jogo de preço da IA de ponta. Sol, Terra, Luna — 3 modelos, 3 preços. O mais rápido custa $1 por 1M tokens. O mais inteligente sai por $5. Pela primeira vez, frontier intelligence é acessível pra quem não é Google nem Meta.\n\nSol: pra quem quer o best-in-class em reasoning, código e ciência ($5/$30).\nTerra: o workhorse — GPT-5.5 quality por METADE do preço ($2.50/$15).\nLuna: fast + cheap pra volume alto, escalas bem em produção ($1/$6).\n\nPronto implementado em ChatGPT, API e Codex. Prompt caching turbinado com cache breakpoints explícitos e 30 min minimum life. Quem rodar Cerebras ganha 750 tokens/s.\n\nMercado de IA era \"win the benchmark, win the market\". Agora é \"fit the budget, fit your pipeline\". OpenAI tá apostando que ninguém bate os 3 juntos.\n\n#IA #OpenAI #GPT56 #Tecnologia #Empreendedorismo #ChatGPT",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "OPENAI BARATEIA INTELIGÊNCIA",
+            "title": "OpenAI GPT-5.6: 3 modelos, 3 preços",
+            "highlight": "3 modelos, 3 preços",
+            "body": "",
+            "stat": "US$1/M",
+            "stat_label": "custo do mais rápido",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "DISTRIBUIÇÃO DE PODER",
+            "title": "Sol, Terra e Luna",
+            "highlight": "Sol, Terra, Luna",
+            "body": "Sol é o power player: high-end reasoning, código, science — $5 entrada, $30 saída. Terra balanceia tudo: quality de GPT-5.5 e metade do preço. Luna é pura speed + economics: $1 entrada, $6 saída.",
+            "stat": "50%",
+            "stat_label": "mais barato que antes",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "POR QUE IMPORTA",
+            "title": "Frontier intelligence democratizada",
+            "highlight": "Frontier intelligence",
+            "body": "Até agora, rolar GPT-5.5-level intelligence em produção era privilégio de big tech. OpenAI tá dizendo: \"Terra tira paridade com a geração anterior e custa metade\". Startup que tinha que escolher entre Open Llama e GPT-4 agora senta em Terra e ganha.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O QUE MUDA",
+            "title": "Benchmark wins viram commodity",
+            "highlight": "Benchmark wins",
+            "body": "A era do \"melhor modelo em SWE-Bench ganha tudo\" tá ending. OpenAI plantou 3 opções: tu escolhe by budget, latency e accuracy desejada. Anthropic vai ter que responder com Claude em 3 tiers também.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Cada model, sua força",
+            "highlight": "Cada model, sua força",
+            "body": "Sol pra reasoning complexo e code generation premium. Terra balanceia — não é tão smart quanto Sol, mas roda agentes bem. Luna? Volume: gera 10x mais requisições por dollar, tradeoff: menos raciocínio profundo, mas latência sub-2s.",
+            "stat": "750",
+            "stat_label": "tokens/segundo em Cerebras",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRAS STARTUPS",
+            "title": "Agora cabe fazer IA em escala",
+            "highlight": "cabe fazer IA",
+            "body": "Luna a $1 muda a equação de unit economics. Antes, rolar fine-tuned Claude custom era millions/ano. Agora tu gira 1M requisições em Terra por $2.5k. O piso de entrada pra AI product virou 10x mais baixo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO",
+            "title": "Acesso > performance absoluta",
+            "highlight": "Acesso",
+            "body": "OpenAI aprendeu: modelo perfeito que tu não consegue usar é inútil. 3 tiers significa 3 segmentos de mercado, 3 margens diferentes, menos chance de alguém sair pra Anthropic ou Llama roubando workload.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Testa Terra hoje na API",
+            "highlight": "Terra",
+            "body": "GPT-5.6 já tá rodando em produção. Se tu roda GPT-4o em agentes, testa Terra — é cheap + smart o suficiente pra maioria das pipelines. Salva esse post e começa o calculator de custo da sua arquitetura.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Claude Sonnet 5 + Anthropic prepara IPO pra outubro com Samsung em custom AI chip",
+      "summary": "Anthropic lançou Claude Sonnet 5 em junho a $2-3/M tokens (introdutório), near-Opus quality, e agora prepara S-1 para IPO em outubro. Negociações avançadas com Samsung pra custom chip tuned ao Claude.",
+      "source": "Anthropic / VentureBeat",
+      "link": "https://www.anthropic.com/news/claude-sonnet-5",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Anthropic vai ficar pública em outubro com um modelo que compete com GPT-5.6 Sol",
+        "caption": "Anthropic tá 3 meses de ser company pública. Claude Sonnet 5 já roubou market share de Sonnet 4.6 — same price tier, quality quase igual a Opus, mas 30% mais barato rodar.\n\nSonnet 5 é designed pra agents: tool use fortssimo, reasoning sólido, debugging ninja. Preço? $2-3 entrada até final de agosto, depois sobe. Mas even depois sobe, ainda bate Terra da OpenAI.\n\nO grande barato: Anthropic fechou deals de compute long-term, o que means revenue previsível e margem melhor que OpenAI pra investors. Samsung tá na mesa pra fazer custom silicon tuned ao Claude — se rola, Anthropic vira menos dependent de Nvidia.\n\nAnthropicContext windows gigantes (200k default), raciocínio extended thinking, thinking API — features que Sonnet 5 maximiza. Startup que usava Llama + fine-tuning agora senta em Sonnet 5 como baseline.\n\nIPO em outubro? Market tá hungry por AI plays. Anthropic vai ser valued $1T+ no opening day se o hype mantiver.\n\n#IA #Anthropic #Claude #IPO #Startups #Tecnologia",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "ANTHROPIC VAI FICAR PÚBLICA",
+            "title": "IPO em outubro + Sonnet 5",
+            "highlight": "IPO, Sonnet 5",
+            "body": "",
+            "stat": "out/26",
+            "stat_label": "mês esperado",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "SOUNDBITE DO MODELO",
+            "title": "Sonnet 5: near-Opus, cheaper",
+            "highlight": "near-Opus, cheaper",
+            "body": "Sonnet 5 bate Sonnet 4.6 em reasoning, tool use e coding. Preço? $2/entrada até agosto, $3 depois. É tipo OpenAI soltar Terra — same tier price, jump em quality. Anthropic tá sendo agressivo.",
+            "stat": "30%",
+            "stat_label": "mais barato que Opus",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O JOGO DA PONTUAÇÃO",
+            "title": "Sonnet vira default pra agents",
+            "highlight": "default pra agents",
+            "body": "Claude sempre foi strong em code, weaker em reasoning bruteforce. Sonnet 5 fecha a brecha. Tool use robusto significa agora Sonnet tira conta com OpenAI em \"agent frameworks\" sem cair pra Llama.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "ACHADO MAIOR",
+            "title": "Samsung custom chip muda o jogo",
+            "highlight": "Samsung chip",
+            "body": "Anthropic tá negociando com Samsung pra fazer silicon tuned ao Claude. Se rola, Anthropic vira less Nvidia-dependent. Sua margem melhora. IPO fica mais defensível. Investors sabem que you can't scale sem Nvidia — a notícia que rola chips próprios é GIGANTE.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "TIMING ESTRATÉGICO",
+            "title": "Long-term compute deals = revenue previsível",
+            "highlight": "revenue previsível",
+            "body": "OpenAI é lucro marginal: cada call é uma transação. Anthropic fechou mega-deals de compute pra 5 anos — significa revenue locked-in, expenses previsíveis. Wall Street ama isso em IPO roadshow.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO SEU NEGÓCIO",
+            "title": "Anthropic vai ficar expensive demais?",
+            "highlight": "expensive demais",
+            "body": "Post-IPO, Anthropic pode ficar pressure de Wall Street pra crescer 50% ao ano. Preço vai subir? Provavelmente não immediato, mas watch pra squeeze em tokens. Agora é momento de lock em deals com Anthropic antes da reclassification.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO",
+            "title": "AI is infrastructure play, not software",
+            "highlight": "infrastructure play",
+            "body": "OpenAI sofre se Nvidia cair. Anthropic vai sofrer menos. Samsung doing custom silicon é sinal que IA landscape tá evolving pra commodity infrastructure. Quem controlar the pipes vence.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "MOVE",
+            "title": "Acompanha roadshow de IPO",
+            "highlight": "IPO",
+            "body": "Anthropic IPO vai ser early October. Se tu investe em startups ou roda produção em IA, watch o pricing reveal — isso vai ditar o que Microsoft, Google e OpenAI vão fazer depois. Salva esse post pra revisitar em setembro.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Claude Fable 5 retoma coroa: 80.3% em SWE-Bench Pro, mais alto benchmark de coding do mercado",
+      "summary": "Claude Fable 5 (flagship Anthropic de junho) alcançou 80.3% em SWE-Bench Pro, o score mais alto de qualquer modelo público. Beating OpenAI GPT-5.6 Sol em code reasoning benchmarks.",
+      "source": "Anthropic",
+      "link": "https://www.anthropic.com/news/claude-fable-5",
+      "category": "benchmark",
+      "recommended": false,
+      "carousel": {
+        "theme": "Claude 5 é agora o melhor em código. Ponto.",
+        "caption": "Anthropic colocou Claude Fable 5 em produção em junho e os benchmarks explodiram. 80.3% em SWE-Bench Pro — o highest score de QUALQUER modelo que você consegue usar. Isso inclui OpenAI, xAI, Llama, tudo.\n\nSWE-Bench é o padrão: roupa um problema real de GitHub, pede ao modelo pra resolver. Se a solução passa nos testes, conta. 80.3% significa Fable 5 resolve mais que 4 em 5 bugs reais.\n\nOpenAI Sol é strong. Grok 4.5 é competitive. Llama Meta 400B MoE é solid. Mas ninguém toca 80.3 em SWE-Bench Pro. Anthropic tá falando: se tu quer resolver código, Claude é default.\n\nImplicação: Copilot (Microsoft) provavelmente vai switch pra Claude inside soon. GitHub Copilot rodava Codex depois Sol. Próximo stop? Anthropic. Isso importa porque Copilot é usado por 4M devs. Se Claude fica lá, market share story muda.\n\nFable 5 tem 200k context window, extended thinking API, tool use hardened. Ele não é SÓ benchmark winner — é production-ready em ways GPT-5.6 Sol ainda tá catching up.\n\n#IA #Claude #Anthropic #Coding #SWE-Bench #Desenvolvimento",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "NOVO BENCHMARK KING",
+            "title": "Claude Fable 5: 80.3% em SWE-Bench",
+            "highlight": "80.3%",
+            "body": "",
+            "stat": "80.3%",
+            "stat_label": "SWE-Bench Pro",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "CONTEXTO COMPETITIVO",
+            "title": "Ninguém chega perto",
+            "highlight": "Ninguém chega perto",
+            "body": "OpenAI Sol? 76%. Llama Meta 400B? 74%. Grok 4.5? 75%. Fable 5 tá 4-6 pontos a frente — na escala de SWE-Bench, isso é GIGANTE.",
+            "stat": "+4-6pts",
+            "stat_label": "de vantagem",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE SIGNIFICA",
+            "title": "Resolve bugs reais melhor",
+            "highlight": "bugs reais",
+            "body": "SWE-Bench não é fake: são tickets reais de GitHub, soluções reais testadas contra suite real do projeto. 80.3% significa Claude resolve 4 de 5 bugs que developers enfrentam no mundo real.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "IMPACTO MAIOR",
+            "title": "Microsoft Copilot vai mudar de brain",
+            "highlight": "Copilot",
+            "body": "GitHub Copilot usou Codex, depois Sol. Agora tem que escolher: mantém Sol ou muda pra Fable? Microsoft ainda é sócio de OpenAI, mas 80.3% > 76%. Se muda, signal é: IA wars ganho quem der best outcomes pro dev, não quem tiver melhor marketing.",
+            "stat": "4M",
+            "stat_label": "devs usam GitHub Copilot",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FICOU TÃO BOM",
+            "title": "200k context + extended thinking",
+            "highlight": "extended thinking",
+            "body": "Fable 5 tem janela gigante (200k tokens) — vê todo arquivo + dependencies. Extended thinking API deixa o modelo \"pensar harder\" antes de responder. Combo = code understanding fundo demais pra Sol acompanhar.",
+            "stat": "200k",
+            "stat_label": "context window",
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO DEVELOPER",
+            "title": "Menos tempo em bugs, mais em features",
+            "highlight": "menos tempo",
+            "body": "Se Copilot tira 80% dos bugs sozinho em vez de 76%, é 1h/dia menos debug por dev. Team de 10 devs = 10h/dia recaptured. Mês inteiro = 200h de dev time. Isso tá no P&L do seu negócio.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO",
+            "title": "Benchmarks importam, mas benchmark right",
+            "highlight": "Benchmarks importam",
+            "body": "SWE-Bench é o único benchmark que importa pra devs. MMLU? Math? Trivia? Irrelevant. Roda código real, resolve bugs real — ISSO é inteligência. Fable 5 provou.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Testa Fable 5 no teu codebase",
+            "highlight": "Fable 5",
+            "body": "Se tu usa Copilot e perde tempo em bugs repetitivos, propõe test driven switch pra Fable 5 — metrics speak louder than anything. Salva esse post e volta em 30 dias com ROI numbers.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Meta corta 8000 empregos e admite: IA 'não acelerou como a gente esperava'",
+      "summary": "Meta demitiu 8000 funcionários (10% da força) focado em IA em maio, realocou 7000 pra roles de IA em julho. Zuckerberg admitiu em town hall que IA agentic 'não acelerou no jeito esperado'.",
+      "source": "NBC News / Meta Insider",
+      "link": "https://www.nbcnews.com/tech/tech-news/trump-scraps-signing-landmark-executive-order-regulating-ai-rcna346288",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "Meta gastou 4 meses em IA agents e admitiu: não funciona (ainda)",
+        "caption": "Meta lançou um plano gigante em 2026: demite 8k pessoas, joga 7k em IA agents, vai resolver o mundo. Resultado? Zuckerberg admitiu em town hall de julho que \"não acelerou no jeito que esperávamos\".\n\nTradução: gastou US$ bilhões, perdeu 4 meses, e agents não tão smart quanto o hype prometia. A realidade: fazer agents que realmente fazem coisas é harder do que make models that talk well.\n\nMeta cut integrity, cybersecurity, content design — areas que não são sexy. Realocou people pra AI infrastructure, foundation models, AI monetization. Depois 30 dias: \"hmm, tá mais lento que achávamos\".\n\nMa também cortou 1400 a mais em Washington state em julho. Então: 8k + 1.4k = ~10k demissões no year under \"efficiency\" + \"AI pivot\". Investors estão cansado de ver Big Tech queimar cash em AI sem ROI claro.\n\nO bigger picture: Meta tá em corrida com OpenAI, Anthropic, Google — todo mundo quer o AI trophy. Mas Meta é hardware/content company, não LLM company. Talvez esse seja sinal que some players não conseguem fazer IA na escala que esperavam.\n\n#IA #Meta #Layoffs #Startups #Tecnologia",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "META ADMITIU O FRACASSO",
+            "title": "IA \"não acelerou como esperávamos\"",
+            "highlight": "não acelerou",
+            "body": "",
+            "stat": "8k",
+            "stat_label": "demissões",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "TIMELINE",
+            "title": "4 meses, $billions, nada",
+            "highlight": "$billions",
+            "body": "Maio 2026: Meta demite 8000 pessoas. Julho 2026: realoca 7000 pra IA. Late julho: Zuckerberg tá pra baixo dizendo que agents não aceleraram. Meta queimou bilhões e tá no mesmo lugar que estava.",
+            "stat": "8k+1.4k",
+            "stat_label": "total demissões",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE ACONTECEU",
+            "title": "Sacrificou áreas inteiras",
+            "highlight": "áreas inteiras",
+            "body": "Meta cortou integrity teams (safety), cybersecurity, content design — areas que não parecem \"IA-forward\". Realocou pra AI infrastructure, foundation models, monetization. Burn rate subiu, agents não ficaram smarter.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "LIÇÃO DURA",
+            "title": "Ter dinheiro ≠ conseguir fazer IA",
+            "highlight": "Ter dinheiro",
+            "body": "Meta é força em hardware (Ray-Bans, VR headsets), força em content networks (Instagram, WhatsApp). Talent pool de IA? Muito menor. Consegue copiar OpenAI? Não em 4 meses. O mercado tá lindo pra IA, mas nem todo player consegue jogar.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "O DILEMA",
+            "title": "Chegar em tempo ou chegar bem",
+            "highlight": "chegar bem",
+            "body": "Meta tá presa: se move lento, perde vs OpenAI+Google. Se move rápido, contrata devs mediocres, queima cash sem resultado. Zuckerberg escolheu rápido — resultado: 4 meses desperdiçados e uma admissão pública de fracasso.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO MERCADO",
+            "title": "Investors ficam assustados",
+            "highlight": "Investors",
+            "body": "Every CEO tá planejando seu own AI pivot. Meta admitir que \"não funciona do jeito que achei\" é sinal Stop pra todos: IA spending precisa de ROI claro, não só \"we're doing AI too\".",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "ENSINAMENTO",
+            "title": "IA wars vai virar darwinista",
+            "highlight": "darwinista",
+            "body": "OpenAI, Anthropic, Google têm lead massivo em AI research + engineering culture. Meta, Apple, Microsoft estão years behind em core model quality. Eles conseguem copiar, mas não em velocidade que market exige. Survival vai pra quem tiver talent retention + investment discipline.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "LESSON LEARNED",
+            "title": "Aproveita talent exodus de Meta",
+            "highlight": "talent exodus",
+            "body": "Meta vai demitir mais. Top IA engineers tão looking. Se tu tá building AI startup, hire agressively agora — esse é o momento. Salva esse post e compartilha com teus founders friends.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Autonomous AI agents em produção: 57% enterprises já rodam, OpenAI projeta 40% de apps com agents by EOY",
+      "summary": "Pesquisa mostra 57% das enterprises já tem AI agents em produção (não teste). OpenAI reporta que 40% de enterprise applications terão embedded agents by end of 2026. Era 5% em 2025.",
+      "source": "Gartner / OpenAI",
+      "link": "https://symphony-solutions.com/insights/ai-agents-in-2026",
+      "category": "aplicação",
+      "recommended": true,
+      "carousel": {
+        "theme": "Agents deixaram de ser nice-to-have. Agora são default.",
+        "caption": "AI agents não tão mais em test phase. Metade das grandes empresas tá rodando agents em PRODUÇÃO resolvendo tarefas reais. Dentro de 5 meses, 40% de todas enterprise apps terão embedded agents by default.\n\nCada agent faz: reconcilia transações (finança), otimiza inventory (logistics), revisa contratos (legal), forecasta demand (sales), monitora supply chains (ops). Sem ficar pedindo input humano cada 5 minutos.\n\nVentures viraram agencies: em vez de hiring 100 people pra fazer task repetitivo, senta 1 person + 2 agents e gone. Unit economics inverte. Headcount cresce lento demais pra manter up com demand — agents scale pra 10x sem hiring 10x de gente.\n\nTribunals já existem: multi-agent systems onde agent A faz research, agent B faz decision, agent C executa. Isso tá rodando em JPMorgan Chase, Goldman Sachs, Deloitte. Não é mais \"we could use agents\", é \"we're stupid if we don't\".\n\nMercado traditional SaaS tá vendo tsunami: se Salesforce precisa 50 clicks pra close deal, salesforce agent faz em 2. Integração é grátis (agents têm API naturals), fricção de adoption = zero. SaaS bundles tão ameaçadas.\n\nAravis pras startups: if you're building \"category software\", agents just commoditized you. If you're building \"AI platform that makes agents\", you're printing money.\n\n#IA #AgentesIA #Produção #Startups #Tecnologia #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "AGENTS SÃO DEFAULT AGORA",
+            "title": "57% enterprises: agents já rodam",
+            "highlight": "57%",
+            "body": "",
+            "stat": "57%",
+            "stat_label": "empresas em PRODUÇÃO",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "CRESCIMENTO EXPLOSIVO",
+            "title": "40% de apps terão agents em dezembro",
+            "highlight": "40%",
+            "body": "Ano passado: 5% de applications tinham agents. Questo ano, end of year: 40%. Isso não é crescimento, é metamorfose. Enterprise software virou \"agent-by-default\" literal de repente.",
+            "stat": "40%",
+            "stat_label": "by end of 2026",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE OS AGENTS FAZEM",
+            "title": "Roubam horas de gente",
+            "highlight": "Roubam horas",
+            "body": "Reconcilia transações (finança): agent faz o que levava 2h manual. Otimiza inventory: roupa os números, manda pra warehouse. Revisa contrato: legal agent pisa, flags risk, propõe changes. Cada um economiza 5-20h/semana per person.",
+            "stat": "5-20h",
+            "stat_label": "por semana economizadas",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "CONSEQUÊNCIA ECONÔMICA",
+            "title": "Unit economics virou outra coisa",
+            "highlight": "Unit economics",
+            "body": "Antes: pra escalar output, hiring. Hiring leva 3-4 meses. Agora: 1 dev + 2 agents = output de 10 people. Tempo to scale: 1 semana. Headcount cresce 10%, output cresce 200%. Aderente firma que não faz isso vai ver margin despencar vs competition.",
+            "stat": "200%",
+            "stat_label": "output growth vs hiring",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "ARQUITETURA",
+            "title": "Multi-agent tribunals",
+            "highlight": "tribunals",
+            "body": "Agent A faz research via API. Agent B interpreta, makes call. Agent C executa nos systems de verdade. Todo async, zero bottleneck humano. JPMorgan, Goldman Sachs, Deloitte já rodam isso. Não é future — é agora.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "MORTE DE UM SECTOR",
+            "title": "Traditional SaaS tá ameaçado",
+            "highlight": "SaaS ameaçado",
+            "body": "Salesforce força 50 clicks pra close deal. Salesforce agent? 2. Friction de adoption: zero. Integração natural via API. Se tu usa Salesforce só pra sales, agents te deixam idiot. SaaS world is ending.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "OPORTUNIDADE",
+            "title": "Build agents, not category software",
+            "highlight": "Build agents",
+            "body": "If you're making \"expense report software\" ou \"CRM\" ou \"time tracking\", você tá 1 agent roubada de disruption. If you're making \"platform that makes agents real fast\", você tá printing money. Market bifurcated.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "VAI VIRAR REALIDADE",
+            "title": "Tua empresa vai ter agents em 90 dias",
+            "highlight": "90 dias",
+            "body": "57% das enterprises já rodam agents. Tu tá nos 43%? Já era. Escolhe 1 task repetitiva (expense reports, scheduling, inventory), roupa um agent de 2 semanas, watch the math. Salva esse post e volta quando agents triplicar teu throughput.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Huawei Atlas 950 SuperPoD: 8192 Ascends, 6.7x power do NVL144, Q4 2026 em South Korea",
+      "summary": "Huawei apresentou Atlas 950 SuperPoD com 8192 Ascend NPUs e claims 6.7x computing power vs Nvidia NVL144, 2.87x inference vs H20, 25% do custo. Disponibilidade em South Korea Q4 2026.",
+      "source": "Huawei Central / Tom's Hardware",
+      "link": "https://www.huaweicentral.com/huawei-atlas-950-superpod/",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Huawei faz bravata contra Nvidia no IA hardware — e os números são assustadores",
+        "caption": "Huawei mostrou um prototype no World AI Conference 2026 chamado Atlas 950 SuperPoD. 8192 Ascend accelerators ligados por UnifiedBus — basically um supercomputer dedicated a IA workloads.\n\nNúmeros? 6.7x mais compute power que NVL144 (Nvidia next-gen). 2.87x inference performance do H20 accelerator. Cost? 1/4 do preço Nvidia.\n\nEmbaixo, tá CANN — Huawei's open-source compute architecture. Roda PyTorch, Triton, os frameworks padrão. Zero lock-in CUDA. Implicação: developers podem treinar em Huawei sem aprender Nvidia stack novo.\n\nHuawei Korea lançando Ascend lineup inteira + Atlas 950 SuperPod em Q4 2026 em South Korea. Depois vem rest of world. US export restrictions meio que forçaram China a build own hardware — Huawei tá delivering.\n\nMa realistic talk: Nvidia ainda tá 2 anos na frente em software ecosystem. CUDA tem 20 years de tooling, libraries, best practices. Huawei é competitivo em hardware, broken em software ecosystem. Developing countries que não conseguem Nvidia tão gonna jump nesso, though.\n\nMercado tá watching. Se Huawei consegue deliver Atlas 950 em production com real performance, multinacionais vão pelo menos test — diversification de suppliers é huge pra Big Tech cansada de single-vendor risk.\n\n#IA #Hardware #Huawei #Nvidia #Infraestrutura #Tecnologia",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "HUAWEI DESAFIA NVIDIA",
+            "title": "Atlas 950: 6.7x power, 25% preço",
+            "highlight": "6.7x, 25%",
+            "body": "",
+            "stat": "6.7x",
+            "stat_label": "vs NVL144",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "SPECS INTIMIDADORES",
+            "title": "8192 Ascends em um cluster",
+            "highlight": "8192 Ascends",
+            "body": "Huawei juntou 8192 Ascend 950 accelerators em um sistem único. Interconnect é UnifiedBus próprio de Huawei — reduces latency entre processors em parallelization gigante.",
+            "stat": "8192",
+            "stat_label": "accelerators",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "COMPARATIVA BRUTAL",
+            "title": "vs Nvidia: poder e preço",
+            "highlight": "poder e preço",
+            "body": "Nvidia NVL144 (latest): good, mas Atlas 950 fala 6.7x mais compute. H20 inference: Atlas 950 é 2.87x faster. Price? Nvidia H20 = $40k. Atlas 950? ~$10k equivalent. Huawei dizendo: same job, 4x cheaper.",
+            "stat": "4x",
+            "stat_label": "cheaper",
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "IMPLICAÇÃO ESTRATÉGICA",
+            "title": "Nvidia monopoly tá rachando",
+            "highlight": "monopoly",
+            "body": "Nvidia é 90% do IA hardware market. Huawei oferecendo alternativa viável = supply chain competition GIGANTE. Companies cansadas de single-vendor risk agora têm opção real. Pricing pressure on Nvidia starts now.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO ROUPA",
+            "title": "CANN: CUDA alternative aberto",
+            "highlight": "CANN",
+            "body": "Atlas 950 roda Huawei's CANN framework — open-source, supports PyTorch, Triton out-of-box. Developers não precisa reaprender Nvidia CUDA stack. Esse é o achado: ecosystem, não só hardware.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO CLIENTE",
+            "title": "Developing countries escape Nvidia trap",
+            "highlight": "escape trap",
+            "body": "US export restrictions meio que proíbem venda de H100/H200 pra China. Huawei sendo solution nativa = countries com sanctions agora conseguem IA infrastructure gigante sem violação de embargo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "REALIDADE",
+            "title": "Hardware é commodity. Software tá atrasado.",
+            "highlight": "Hardware vs Software",
+            "body": "Huawei pode bater Nvidia em specs. Nvidia tem 20 anos de CUDA ecosystem, libraries, best practices. Huawei precisa catch-up em software. Atlas 950 vai ser \"pretty good\", não \"overwhelming\" até CANN amadurecer.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "WATCH NA Q4",
+            "title": "Huawei Korea Q4 launch = market tester",
+            "highlight": "Q4 launch",
+            "body": "South Korea é tech leader — if Atlas 950 sucede lá, rollout global vai accelerate. Se fracassa, Huawei tá back to drawing board. Salva esse post, revisita em outubro pra see actual performance reviews.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Trump cancela assinatura de AI executive order por medo de 'desacelerar liderança americana' vs China",
+      "summary": "Trump marcou assinatura de novo AI executive order focado em cybersecurity, mas cancelou no último minuto. Razão: preocupação que regulação poderia desacelerar avanço americano vs China em IA.",
+      "source": "NBC News / Axios",
+      "link": "https://www.nbcnews.com/tech/tech-news/trump-scraps-signing-landmark-executive-order-regulating-ai-rcna346288",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "Trump matou regulação de IA pra não perder corrida vs China",
+        "caption": "Administração Trump preparou um executive order sobre IA regulação, focado em cybersecurity — dizia que AI companies tinham que submeter modelos pra government review antes de lançamento.\n\nBig Tech foi no Oval Office e disse \"não\".\n\nTrump viu que poderia ficar \"slow down\" América na IA race vs China. Cancelou signing no último minuto. Depois, assinou versão \"lite\" que pede voluntary submission — basicamente 0 enforcement.\n\nCurrent version directs agencies pra desenvolver benchmarks de cyber capability, create um \"AI cybersecurity clearinghouse\", ask companies to voluntarily test powerful models 30 days before release. Tudo VOLUNTARY.\n\nRazão oficial: Trump \"just hates regulation\". Razão real: Wall Street + Big Tech disseram que US can't afford slow-down in model development porque China tá investindo trillions em Huawei + domestic models. If US fica careful with security, China just steamrolls.\n\nImplicação: US government tá abdicando de ability regular IA development. Safety vai ficar na mão de companies \"doing responsible AI\". Good luck com isso.\n\nPro negócio: regulatory risk em IA tá lower than expected. Companies podem move fast, not ask permission.\n\n#IA #Regulação #Trump #Política #Segurança #Tecnologia",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "TRUMP MATOU REGULAÇÃO",
+            "title": "AI executive order: cancelado",
+            "highlight": "cancelado",
+            "body": "",
+            "stat": "ZERO",
+            "stat_label": "enforcement",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O QUE FOI PROPOSTO",
+            "title": "Regra: modelos pré-aprovados",
+            "highlight": "pré-aprovados",
+            "body": "Executive order original: AI companies tinham que submeter powerful models pra government review 30 days antes de lançamento. Basically: government veta se acha perigoso. Nunca foi assinado.",
+            "stat": "30",
+            "stat_label": "dias de review",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "POR QUE CANCELOU",
+            "title": "China tá ahead. Não podemos frear.",
+            "highlight": "China ahead",
+            "body": "Trump viu: se America passa regulatory framework stricto, China vai rodar models sem nenhuma restrição. Em 2-3 years, China tá ahead em capability. US não consegue sair atrás. Logo: freedom > safety.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "SHIFT GEOPOÍTICO",
+            "title": "IA wars = virar competição sem regra",
+            "highlight": "sem regra",
+            "body": "Trump tá making bet: se regular IA tipo medicamentos, China vai ser hegemônico em 5 anos. Better: let US companies move fast, worry about safety later. It's Cold War thinking applied to AI.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "O QUE FICOU",
+            "title": "Voluntário = zero dente",
+            "highlight": "zero dente",
+            "body": "Version final pede voluntary submission. Companies = \"we'll think about it\". Government creates cybersecurity clearinghouse pra review vulnerabilities. But: no enforcement, no penalty pra who ignores.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO STARTUPS",
+            "title": "Regulatory risk em IA virou negligible",
+            "highlight": "negligible",
+            "body": "Companies não precisam de legal review pesado pra move features. Não vão ser stopped por government mandate. Isso significa: faster deployment, less friction, mais companies conseguem raise capital pra IA projects.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "IMPLICAÇÃO MAIOR",
+            "title": "Safety virou responsabilidade de quem?",
+            "highlight": "Safety",
+            "body": "Se government não regula, responsibility cai pra companies + industry self-regulation. Anthropic tá pushing safety hard (Constitutional AI). OpenAI tá mais casual. Resultado: mismatched incentives, zero coordination, security theater.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "WATCH FEDERAL MOVES",
+            "title": "Estados podem criar regras, mas nacionais? Não.",
+            "highlight": "Estados",
+            "body": "Alguns states (California) podem tentar enforce rules. But federal level abandonou. Se tu tá building IA product, don't wait pro regulation to decide compliance strategy. Salva esse post, advises your legal team.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Apple Intelligence aprovada na China com Alibaba Qwen: maior market (1.5B users) liberada",
+      "summary": "China Cyberspace Administration aprovou Apple Intelligence em 15 julho, rodando Alibaba Qwen em vez de modelos próprios. Abre maior mercado smartphone do mundo pra Apple AI features.",
+      "source": "MacRumors",
+      "link": "https://www.macrumors.com/2026/07/15/apple-intelligence-cleared-to-launch-in-china/",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "Apple inteligência chega em China, mas não é inteligência Apple",
+        "caption": "Apple Intelligence foi aprovado na China em 15 de julho de 2026. Maior mercado smartphone do mundo agora pode rodar Siri enhanced, text generation, image generation — tudo powered by Alibaba Qwen.\n\nPor quê Qwen e não Claude/ChatGPT? Regulação chinesa. China quer controle sobre dados, prompts, outputs. Apple Intelligence rodando Qwen = dados ficam em Alibaba ecosystem, governança chinesa happy.\n\nImplicação: Apple consegue competitive feature em China (1.5B users potenciais) sem criar friction diplomática. Alibaba fica content. Apple fica happy. Users ganham AI features. Reguladores dormem tranquilo.\n\nMa também é sinal de segmentation do mercado global: USA = ChatGPT/Claude. China = Qwen. EU = provavelmente próprio modelo pra comply com AI Act. India/developing = qualquer coisa open-source barata. App makers agora precisam suportar \"regional AI\".\n\nTiming: Apple foi primeira a chegar China approval. Google Gemini provavelmente é next. OpenAI? Unlikely — US-China tensions. Anthropic? Talvez. Meta = zero chance.\n\nQuem ganha: Alibaba (Qwen tá agora embedded em 1B+ iPhones). Apple (feature parity com Android globally). Quem perde: OpenAI (locked out of China, ainda). Qualquer startup pensando em \"global AI app\" now needs 3-4 different backends por região.\n\n#IA #Apple #China #Alibaba #Regulação #Tecnologia",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "CHINA APROVA APPLE IA",
+            "title": "Apple Intelligence: Alibaba Qwen inside",
+            "highlight": "Qwen",
+            "body": "",
+            "stat": "1.5B",
+            "stat_label": "usuários potenciais",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O QUE FICOU LIBERADO",
+            "title": "Siri, imagens, texto — tudo Qwen",
+            "highlight": "Qwen",
+            "body": "Aprovação de Apple Intelligence inclui: Siri com conversational smarts, text generation, image generation, document summarization. Tudo rodando on Alibaba Qwen backend em vez de Apple's own models.",
+            "stat": "100%",
+            "stat_label": "Apple features via Qwen",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "COMPREENDER CHINA",
+            "title": "Regulação: dados na China, governance chinesa",
+            "highlight": "China governance",
+            "body": "China exigiu que Apple Intelligence rode modelo chinês, não western. Razão: data residency + regulatory control. Qwen = Alibaba = chineseness certificada. Apple não pode roda Claude aqui — governo não deixa.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MERCADO FRAGMENTADO",
+            "title": "AI features agora regional",
+            "highlight": "regional",
+            "body": "Apple Intelligence: USA = ChatGPT integration. China = Qwen. EU = provavelmente próprio modelo (AI Act compliance). India/Developing = open-source barato. Global app = 4 different AI backends agora.",
+            "stat": "4+",
+            "stat_label": "regional backends",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "TIMING E POLITICS",
+            "title": "Apple first to launch. OpenAI locked out.",
+            "highlight": "locked out",
+            "body": "Apple conseguiu approval porque Alibaba tá happy, governador tá happy. OpenAI? Stuck — US-China tensions, politicking. Google? Provavelmente next. Meta? Zero chance com TikTok drama.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO NEGÓCIO",
+            "title": "Alibaba ganhou lottery ticket",
+            "highlight": "Alibaba",
+            "body": "Alibaba Qwen agora embedded in 1B+ iPhones worldwide (Apple China market). Isso é massive distribution win pra Qwen. Alibaba pode levantar valuation gigante só nisso. Competitive moat vs OpenAI em China: locked in.",
+            "stat": "1B+",
+            "stat_label": "iPhones potenciais",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO",
+            "title": "Global é ficção. Regional é realidade.",
+            "highlight": "Regional",
+            "body": "Globalização de software tá reverse-engineering: China quer Qwen, EU quer European AI, US quer OpenAI. Startup pensando \"global AI app\" agora precisa multi-region strategy. Single model approach morre em 2026.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "ADAPTAÇÃO NECESSÁRIA",
+            "title": "Se tá entrando China: prepare regional AI",
+            "highlight": "regional",
+            "body": "Se tá building pro Asia/China, plan pra Qwen ou Baidu ou Huawei modelo. Don't assume ChatGPT solves everything. Salva esse post, discute com product team regional requirements.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Google Nano Banana 2 Lite: gera imagens em 4 segundos, $0.034 por imagem 1K resolution",
+      "summary": "Google lançou Nano Banana 2 Lite (Gemini 3.1 Flash-Lite) em 1º julho: imagens em ~4 segundos, ultra-barato ($0.034/imagem), ideal pra workflows rápidos e escaláveis.",
+      "source": "Google Blog",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-flash-nano-banana-2-lite/",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Google virou imagem rápida + barata commodity. Era era de esperar 30s/imagem terminou.",
+        "caption": "Google lançou Nano Banana 2 Lite em julho 1º. Model name é técnico (`gemini-3.1-flash-lite-image`), mas proposição é claro: image generation rápida + barata.\n\nSpeed: ~4 segundos por imagem (text-to-image). Baseline anterior era 20-30s. 6-7x faster, simplesmente.\n\nPrice: $0.034 por imagem em 1K resolution. Contexto: OpenAI DALL-E 3 = $0.08-0.12. Stable Diffusion API = $0.03-0.05. Nano Banana 2 Lite = undercut everyone.\n\nTrade-off é previsível: Nano Banana é \"fast + cheap\", não \"beautiful + detailed\". Prompt adherence é solid, character consistency é bom, text rendering in image é legible. Mas não espere masterpiece-level artistry.\n\nUse case: ecommerce sites needing product variations, social media schedulers generating batch content, real-time dynamic imagery on ad servers, prototyping visual ideas fast. Não é pra \"I need perfect art\".\n\nGoogle strategy aqui é smart: commoditize imagem generation o suficiente pra ninguém vale custom ou finetune. Manter volume, manter margins via SCALE. Same estratégia que fez YouTube/Search/Chrome dominant.\n\nIntegração: Developers conseguem pegar imagens Nano Banana 2 Lite e jogar em Gemini Omni Flash pra animar (text-to-video). Combo = low-cost content creation pipeline inteira.\n\n#IA #Google #ImageGeneration #Tecnologia #Startup",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "GOOGLE BARATEIA IMAGEM",
+            "title": "Nano Banana 2 Lite: 4 segundos",
+            "highlight": "4 segundos",
+            "body": "",
+            "stat": "$0.034",
+            "stat_label": "por imagem 1K",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "VELOCIDADE + PREÇO",
+            "title": "6x mais rápido, 50% mais barato",
+            "highlight": "6x, 50%",
+            "body": "Speed: Baseline era 20-30s/imagem. Nano Banana 2 Lite = ~4s. Price: DALL-E 3 = $0.08-0.12. Nano Banana = $0.034. Tá não é concorrência, tá massacre.",
+            "stat": "6-7x",
+            "stat_label": "faster",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "TRADE-OFF REAL",
+            "title": "Rápido e barato = qualidade média",
+            "highlight": "qualidade média",
+            "body": "Nano Banana 2 Lite não é pra masterpiece art. É pra volume. Prompt adherence solid, character consistency bom, text in image legível. Mas detalhes finos? Compositions complex? Nah.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "COMMODITIZATION",
+            "title": "Image generation virou utilities",
+            "highlight": "utilities",
+            "body": "Google tá saying: image generation é commodity agora, não specialty feature. Qualquer app pode gerar imagens bulk. Preço tão baixo que custom fine-tuning não faz sense. Google won commoditization game.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "USE CASE IDEAL",
+            "title": "Ecommerce, redes sociais, ads dinâmicos",
+            "highlight": "ads dinâmicos",
+            "body": "Ecommerce gera variações de produto? Nano Banana. Social media scheduler batch-criando conteúdo? Nano Banana. Servidor de ads gerando creative dinâmico? Nano Banana. Anywhere volume >> quality.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO ECONOMISTA",
+            "title": "Unit economics virou positiva pra imaging",
+            "highlight": "unit economics",
+            "body": "Gerar imagens em bulk agora é negligible cost. Antes: custom photo shoot = $5k-20k. Agora: 1000 images via Nano Banana = $34. Margin em product virou outro coisa.",
+            "stat": "98%",
+            "stat_label": "custo reduction",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "APRENDIZADO",
+            "title": "Google strategy: dominance via commodity",
+            "highlight": "commodity",
+            "body": "Google não precisa fazer \"best imagem model\". Précis fazer \"cheap enough que concorrente não consegue compete\". Nano Banana 2 Lite tá aí pra isso. YouTube/Search/Chrome = same playbook.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "BUILD BATCH IMAGERY",
+            "title": "Testa em volume: gera 10k imagens, watch margin",
+            "highlight": "10k imagens",
+            "body": "Se tá em ecommerce ou content creation, Nano Banana 2 Lite muda unit economics. Testa: build feature que gera variações automáticas, watch cost savings vs manual. Salva esse post pra revisitar ROI em 30 dias.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Selective Activation Sparsity: modelos 3x menores rodam como 3x maiores em reasoning",
+      "summary": "Breakthrough research em selective activation sparsity: modelos treinados pra ativar só parâmetros relevantes por task rodam com performance de modelos 3x maiores em benchmarks de reasoning.",
+      "source": "Skycrumbs / ICML 2026",
+      "link": "https://skycrumbs.com/blog/ai-research-july-2026",
+      "category": "benchmark",
+      "recommended": false,
+      "carousel": {
+        "theme": "Modelos menores ficaram smarter: selective sparsity prova que scale não é tudo",
+        "caption": "ICML 2026 apresentou pesquisa on selective activation sparsity. Basicamente: treina modelo pra usar só os parâmetros que importam pra cada task, economiza compute.\n\nResultado? Modelos 3x menores rodando benchmark de reasoning com score de modelos 3x maiores. Isso inverte escalabilidade como a entendemos.\n\nBefore: scale = intelligence. 70B bate 7B sempre. Agora: architecture smart > pure scale. Pequeno + sparse pode bater grande + dense.\n\nImplicação? Gigantic: inference em celular, laptop, edge devices virou viável. Roda Fable 5-equivalent intelligence num iPhone. Deployment de frontline IA explode.\n\nMoE (Mixture of Experts) architecture já faz sparsity: seleciona experts relevantes. Selective activation sparsity = next level: seleciona até parameters dentro do expert.\n\nScalability: se 7B sparse roda como 21B, economics viram outra coisa. Menos GPU necessário, less power consumption, faster inference. Big AI labs têm less moat.\n\nTimeline: essa research tá agora in papers. Production implementation? 6-12 months. By end 2026, expect sparse models hitting production frameworks (transformers, Llama, Claude probably stealing it também).\n\n#IA #Research #Sparsity #MachineLearning #Eficiência #Tecnologia",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "BREAKTHROUGH EM EFICIÊNCIA",
+            "title": "3x menor = 3x maior inteligência",
+            "highlight": "3x menor, 3x maior",
+            "body": "",
+            "stat": "3x",
+            "stat_label": "performance jump",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "STUDY RESULTS",
+            "title": "7B sparse vs 21B dense: empate",
+            "highlight": "empate",
+            "body": "Researchers treinaram modelos 7B com selective activation sparsity. Resultado em reasoning benchmarks: performance de 21B model (não-sparse). 3x tamanho reduction, 0 loss de capability.",
+            "stat": "7B=21B",
+            "stat_label": "em reasoning",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE TÁ ACONTECENDO",
+            "title": "Ativa só parâmetros que importam",
+            "highlight": "importam",
+            "body": "Modelo aprende: pra task A, usa conjunto de parameters X. Pra task B, usa subset Y. Não ativa full 7B sempre — só ativa 2-3B que relevam pra input. Rest fica dormindo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "IMPLICAÇÃO BRUTAL",
+            "title": "Scale mythology virou questionada",
+            "highlight": "Scale",
+            "body": "Silicon Valley mantra: bigger is always smarter. Bigger compute, bigger training, bigger model = bigger capability. Sparsity tá dizendo: nah. Smart architecture beats size. 7B sparse > 21B dumb.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Mixture of Experts meets parameter selection",
+            "highlight": "parameter selection",
+            "body": "MoE já faz sparsity: seleciona experts. Isso vai further: dentro de cada expert (ou attention layer), seleciona individual parameters relevantes. Nested sparsity = super efficient.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "DEPLOYMENT REVOLUTION",
+            "title": "Roda IA em celular, laptop, edge",
+            "highlight": "celular",
+            "body": "Sparse 7B rodando como 21B dense = iPhone consegue rodar frontier intelligence. No cloud needed. Privacy wins, latency wins, cost wins. Full ecosystem muda.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "MERCADO",
+            "title": "Moat de Big AI labs fica menos thick",
+            "highlight": "Moat",
+            "body": "OpenAI, Anthropic, Google têm vantagem em compute + data. Sparsity techniques eliminam alguns custo. Talented team em bootstrap startup agora consegue rodar competitive models com 5% da GPU spend.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TIMELINE",
+            "title": "Expect sparse models in production by Q4 2026",
+            "highlight": "Q4 2026",
+            "body": "Research papers agora. Production implementation: 6-12 months. By EOY, expect Llama, Claude, misc frameworks suportando sparse training. Salva esse post, testa sparse models em setembro/outubro.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    }
+  ],
+  "whatsapp": "🤖 **IA Radar 20-07 — 10 notícias que importam hoje**\n\n1️⃣ **OpenAI GPT-5.6 em 3 tiers** — Sol ($5/M tokens), Terra ($2.50), Luna ($1). Frontier intelligence agora é acessível. https://openai.com/index/previewing-gpt-5-6-sol/\n\n2️⃣ **Anthropic IPO em outubro + Samsung chip** — Claude Sonnet 5 pronto, Anthropic menos Nvidia-dependent. S-1 chega outubro. https://www.anthropic.com/news/claude-sonnet-5\n\n3️⃣ **Claude Fable 5: 80.3% em SWE-Bench Pro** — Melhor benchmark de código do mercado. Ninguém chega perto. https://www.anthropic.com/news/claude-fable-5\n\n4️⃣ **Meta admite: IA \"não acelerou como esperávamos\"** — 8000 demissões + 7000 pra IA, resultado: nada. https://www.nbcnews.com/tech/tech-news\n\n5️⃣ **Autonomous agents: 57% enterprises em produção** — 40% de apps terão agents by EOY. Agents viraram default. https://symphony-solutions.com/insights/ai-agents-in-2026\n\n6️⃣ **Huawei Atlas 950: 6.7x vs Nvidia, 25% preço** — 8192 Ascends, CANN open-source. Q4 2026 Korea launch. https://www.huaweicentral.com/huawei-atlas-950-superpod/\n\n7️⃣ **Trump cancela AI executive order** — Regulação voluntária (= zero enforcement). Speed > safety no playbook federal. https://www.nbcnews.com/tech/tech-news/trump-scraps-signing-landmark\n\n8️⃣ **Apple Intelligence aprovada em China com Alibaba Qwen** — 1.5B users liberados. Market segmentado agora: regional IA. https://www.macrumors.com/2026/07/15/apple-intelligence-cleared-to-launch-in-china/\n\n9️⃣ **Google Nano Banana 2 Lite: 4 segundos, $0.034/imagem** — Imagem gerada commodity. Ecommerce economics virou outra. https://blog.google/innovation-and-ai/models-and-research/gemini-models/\n\n🔟 **Selective Activation Sparsity: 3x menor = 3x inteligência** — Pesquisa ICML: scale myth questionado. Architecture smart bate puro size. https://skycrumbs.com/blog/ai-research-july-2026\n\n📊 **Dashboard completo:** https://rafaelondei.appnaia.com",
+  "instagram": "🤖 **IA Radar 20 de julho: 10 achados que mexem com o tabuleiro**\n\nOpenAI virou 3 modelos, Anthropic prepara IPO com Samsung chip, Claude venceu em código, Huawei desafia Nvidia, Apple chegou em China com Qwen, Meta admite fracasso, agentes já são mainstream em 57% das grandes empresas.\n\nMercado fragmentado: USA = OpenAI, China = Alibaba, EU = seu próprio modelo. Regulatory risk em IA: ~zero (Trump matou enforcement). Imagem gerada virou commodity a $0.034. E tem mais: um breakthrough que deixa modelos 3x menores rodando como 3x maiores.\n\n5 meses atrás era \"best model wins\". Agora é \"fit your budget, fit your latency, fit your privacy\". Esse é o mercado onde tu tá.\n\nCompletinho no dashboard → https://rafaelondei.appnaia.com\n\n#IA #InteligenciaArtificial #Claude #OpenAI #Google #Anthropic #Tecnologia #Empreendedorismo #ChatGPT #MachineLearning"
+}
