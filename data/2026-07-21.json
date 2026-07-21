@@ -1,0 +1,960 @@
+{
+  "date": "2026-07-21",
+  "topic": "mercado de IA",
+  "topic_slug": "ia-mercado",
+  "generated_at": "2026-07-21T07:00:01-03:00",
+  "items": [
+    {
+      "title": "Claude for Teachers: Anthropic lança IA grátis pra 130 mil escolas",
+      "summary": "Anthropic disponibiliza Claude gratuitamente para educadores verificados nos EUA por 1 ano, com ferramentas agentic nativas (Claude Code, Cowork). Dados de alunos protegidos por FERPA. Piloto em Detroit Public Schools mede impacto no bem-estar de educadores.",
+      "source": "Anthropic / Chalkbeat Education",
+      "link": "https://www.chalkbeat.org/2026/07/14/anthropic-launches-claude-for-teachers-as-ai-companies-battle-for-classrooms/",
+      "category": "aplicação",
+      "recommended": false,
+      "carousel": {
+        "theme": "IA no ensino: Anthropic democratiza ferramentas agentic pra educadores",
+        "caption": "Anthropic acaba de abrir a porta mais importante de 2026 pro setor educacional: IA agentic GRÁTIS pra 130 mil professores verificados.\n\n✅ Claude Code nativo (análise de dados de alunos, automação de tarefas)\n✅ Cowork (agentes 24/7 revisam tarefas, organizam aula)\n✅ Zero custo por 1 ano (salvo-conduto legal até jul 2027)\n✅ Dados de alunos não são usados pra treinar modelos (FERPA-compliant)\n\nIsso é pura disrupção de mercado. Escolas que antes gastavam US$500-1K/prof/ano em software agora têm acesso a Opus-grade + agentes de forma nativa.\n\nO jogo muda pro educador que souber orquestrar isso. Quem não souber vai ficar 2-3 anos pra trás.\n\n→ Salva esse post e começa a explorar o Claude for Teachers. A vantagem competitiva é GIGANTE.\n\n#IA #Educação #Claude #Anthropic #Tecnologia #Empreendedorismo #Agentes",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "DISRUPÇÃO NO ENSINO",
+            "title": "IA Agentic Grátis pra 130 Mil Educadores",
+            "highlight": "Grátis",
+            "body": "",
+            "stat": "130k",
+            "stat_label": "educadores verificados"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O QUE MUDOU",
+            "title": "Claude for Teachers: Zero Custo, Máxima Potência",
+            "highlight": "Zero Custo",
+            "body": "Anthropic lançou acesso GRATUITO a Claude Code + Cowork por 1 ano inteiro. Dados de alunos não treinam modelos (FERPA-protected). Inclui agentes 24/7 pra revisar tarefas, organizar sala, analisar desempenho.",
+            "stat": "1 ano",
+            "stat_label": "acesso grátis garantido"
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "POR QUE AGORA",
+            "title": "Anthropic vai Pesado no Ensino (Enquanto OpenAI Dorme)",
+            "highlight": "Enquanto OpenAI",
+            "body": "Educação era o único mercado grande que os players deixavam escapar. OpenAI cobra; Google cobra; Anthropic acaba de entregar de graça Opus-grade + agentes nativos. Isso é investimento geopolítico: prende a próxima geração numa plataforma.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O IMPACTO REAL",
+            "title": "Educador que Souber Orquestrar Vai 3 Anos Pra Frente",
+            "highlight": "3 Anos Pra Frente",
+            "body": "Um prof que aprende a usar Claude Code pra analisar rosters, Claude Cowork pra automação de revisão de provas, e agentes pra feedback personalizado... consegue lecionar pra 10x mais alunos com MESMA qualidade. Escolas tradicionais vão ficar obsoletas em 36 meses.",
+            "stat": "10x",
+            "stat_label": "capacidade sem perder qualidade"
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "3 Ferramentas Nativas, 1 Prompt",
+            "highlight": "3 Ferramentas",
+            "body": "Claude Code (análise + Python puro dos dados da sala), Cowork (agentes 24/7 orquestram tarefas repetitivas), MCP integrado (conecta Google Classroom, Canvas, Discord). Um professor sem código consegue treinar um agente pra revisar 100 redações em 5 minutos.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO TEU NEGÓCIO",
+            "title": "EdTech + Agentes = Margem Bizarra",
+            "highlight": "Margem Bizarra",
+            "body": "Se tu tá criando SaaS pra educação (LMS, tutoria online, análise pedagógica), Claude for Teachers é uma ameaça E uma oportunidade. Ameaça: educadores agora têm IA agentic grátis. Oportunidade: integra com Claude API + cowork pra oferecer o dobro do valor com 1/10 do custo.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "TAKEAWAY",
+            "title": "Educação é o Novo Moat da Anthropic",
+            "highlight": "Novo Moat",
+            "body": "Anthropic acabou de entender que conquistar mentes aos 15 anos te prende pro resto da vida. Essa é a jogada mais subversiva do H2 2026: lock-in via educação. Quem usar Claude no ensino médio vai preferir Claude na universidade e no trabalho. Mercado adquirido por $0.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Testa Claude for Teachers Hoje",
+            "highlight": "Hoje",
+            "body": "Se você é educador, entra em support.claude.com e verifica o acceso. Se você trabalha com EdTech, integra Claude API AGORA. Quem souber pilotar agentes em sala de aula em agosto vai dominar o mercado em 2027.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "OpenAI lança GPT-5.6 com 3 tiers (Sol/Terra/Luna): 750 tokens/seg",
+      "summary": "OpenAI lançou GPT-5.6 em 9 de julho com arquitetura Cerebras (750 tok/seg). Três modelos escalados: Sol (flagship reasoning ultra), Terra (metade do preço, GPT-5.5-equiv), Luna (rápido + barato). ChatGPT Work agora completa tarefas complexas autonomamente.",
+      "source": "OpenAI Blog",
+      "link": "https://openai.com/index/gpt-5-6/",
+      "category": "modelo",
+      "recommended": true,
+      "carousel": {
+        "theme": "GPT-5.6: OpenAI estratifica mercado com 3 modelos + agentes autônomos",
+        "caption": "OpenAI fechou a semana surpreendendo NINGUÉM mas validando toda tese do H2 2026: o jogo agora é escala, não topo-de-gama.\n\n🚀 GPT-5.6 Sol: Reasoning ultra (Cerebras 750 tok/seg) → tarefas de 6h em 20 min\n💰 GPT-5.6 Terra: Metade do custo de Sol, performance GPT-5.5 → default pro 90%\n⚡ GPT-5.6 Luna: Rápido demais pra contar tempo → resumos, chat, automação\n\n+ ChatGPT Work: agente que tira 20h de trabalho pro robô. Propostas, análises, relatórios. TUDO.\n\nPontuação: OpenAI sabe que não vai ganhar na corrida de reasoning (Claude ganha lá). Então abriu as 3 frentes: frontier performance, best-value commodity, speed pura. É jogo de mercado, não de benchmarks.\n\nPra quem tá montando agentes: Terra é teu sweet spot de custo+performance. Pro benchmark: Sol é ouro. Pro dia-a-dia: Luna vale 60% do custo.\n\n→ Salva o modelo + integra ChatGPT Work na sua stack.\n\n#IA #GPT #OpenAI #Agentes #Mercado #Tecnologia #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "ESTRATÉGIA CLARA",
+            "title": "OpenAI Lança GPT-5.6: 3 Modelos, 1 Estratégia",
+            "highlight": "3 Modelos",
+            "body": "",
+            "stat": "750",
+            "stat_label": "tokens/segundo (Cerebras)"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "OS TRÊS TIERS",
+            "title": "Sol, Terra, Luna: Cada Um Ganha em Seu Lugar",
+            "highlight": "Sol, Terra, Luna",
+            "body": "Sol é o reasoning ultra (Cerebras puro, 750 tok/seg). Terra é 50% mais barato que Sol com performance GPT-5.5-equivalente. Luna é o rápido: perfeito pra chat, resumos, APIs de alto volume. Três apostas simultâneas no mesmo tabuleiro.",
+            "stat": "3",
+            "stat_label": "modelos, zero canibalizações"
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "POR QUE AGORA",
+            "title": "OpenAI Reconhece: Claude Ganha em Reasoning, Terra Win em Valor",
+            "highlight": "Claude Ganha",
+            "body": "Anthropic provou que reasoning é o moat de 2026. OpenAI não consegue seguir no mesmo jogo. Solução: não compete no topo, compete em TRÊS frentes. Profissional que precisa de reasoning usa Sol. Startup que precisa de ROI usa Terra. Bot que precisa de vel usa Luna.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDA TUDO",
+            "title": "ChatGPT Work: Agente Autônomo Que Completa Tarefas",
+            "highlight": "Agente Autônomo",
+            "body": "ChatGPT Work não é só um chat melhorado. É um agente que orquestra tarefas: pesquisa, análise, propostas prontas, relatórios. Usuário diz 'faz uma proposta de venda'; agente volta 2h depois com proposta pronta, checada, links inclusos.",
+            "stat": "20h",
+            "stat_label": "de trabalho automatizado"
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Cerebras Solver: Reasoning Descentralizado",
+            "highlight": "Cerebras",
+            "body": "Sol roda em hardware Cerebras (750 tok/seg nativo). Não é só GPU—é processamento neuromorfo redesenhado pro inference puro. Resultado: reasoning ultra que leva 6 horas em 20 minutos. Terra e Luna rodam em infraestrutura OpenAI traditional, mantendo custo baixo.",
+            "stat": "750",
+            "stat_label": "tokens/segundo (frontier)"
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO SEU NEGÓCIO",
+            "title": "Agentes Agora São Viable no B2B + SMB",
+            "highlight": "Viable",
+            "body": "Terra permite montar agentes de propostas, análises, suporte com ROI positivo MÊS 1. Luna permite automação de alto volume (customer service bots) com 1/3 do custo. Sol permite research + reasoning complexo sem perder 6h por tarefa. Cada tier é rentável num caso de uso diferente.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "REALIDADE",
+            "title": "Estratificação = Maturidade do Mercado",
+            "highlight": "Maturidade",
+            "body": "Quando um mercado começa a ofertar em tiers (Sol/Terra/Luna ao invés de 'um modelo'), significa que o mercado amadureceu. Não é mais frontier vs others. É frontier/best-value/speed. Isso significa que agentes COM ROI POSITIVO estão aqui. Não em 6 meses—AGORA.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "AÇÃO",
+            "title": "Integra Terra + ChatGPT Work Hoje",
+            "highlight": "Hoje",
+            "body": "Se você tá montando um agente, comece com Terra (melhor custo/perf). Se precisa de reasoning pesado, teste Sol em produção (vai pagar a diferença em 1-2 semanas). ChatGPT Work muda tudo pra content creators, consultores e operações. Pilota agora.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "Gemini 3.1 Pro + Deep Think: Google expande API global",
+      "summary": "Google lançou Gemini 3.1 Pro globalmente com Deep Think melhorado (reasoning especializado). Integração nativa em Chrome, Android, Workspace. Modelo acadêmico grátis pra estudantes no Brasil (maiores 18 anos).",
+      "source": "Google Gemini Release Notes",
+      "link": "https://gemini.google/pt/release-notes/?hl=pt-BR",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Gemini 3.1 Pro: Google aposta em reasoning + integração ecossistema",
+        "caption": "Google lançou Gemini 3.1 Pro no final de julho com foco em integração—não em benchmarks. Aqui tá a jogada real:\n\n✅ Gemini 3.1 Pro integrado nativamente em Chrome (Desktop/Mac/Windows)\n✅ Deep Think aprimorado (reasoning mode que resolve problemas matemáticos + científicos)\n✅ Limite de uso 2x maior pro Google AI Pro e Ultra\n✅ GRÁTIS pra estudantes no Brasil (>18 anos) até julho 2027\n✅ Integração Gemini nativa no Workspace (Docs, Sheets, Gmail, Meet)\n\nGoogle tá jogando diferente. Não tá tentando ganhar de Claude ou OpenAI em benchmark. Tá criando ecossistema. Um dev que usa Chrome + Workspace + Android acaba usando Gemini por inércia—e começa a pilotar agentes dali.\n\n→ Salva esse post e testa Gemini Deep Think com um problema de cálculo/física. Resultado surpreende.\n\n#IA #Gemini #Google #Mercado #Tecnologia #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "INTEGRAÇÃO TOTAL",
+            "title": "Gemini 3.1 Pro: Reasoning Nativo no Seu Desktop",
+            "highlight": "Reasoning Nativo",
+            "body": "",
+            "stat": "70+",
+            "stat_label": "idiomas suportados"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "ATUALIZAÇÕES",
+            "title": "3 Melhorias Que Mudam Tudo",
+            "highlight": "3 Melhorias",
+            "body": "Deep Think: reasoning especializado pra math + science (resolve problemas que modelos normais travam). Integração Chrome: Gemini roda native no navegador sem switch. Workspace: Docs, Sheets, Gmail, Meet—tudo com Gemini built-in.",
+            "stat": "2x",
+            "stat_label": "limite de uso pra Pro/Ultra"
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "ONDE TAVA PERDENDO",
+            "title": "Google Sabia Que Claude Ganhou em Reasoning",
+            "highlight": "Claude Ganhou",
+            "body": "Claude Opus 4.6 demoliu Gemini em SWE-Bench e GPQA (reasoning). Google não consegue recuperar só com modelos. Solução: integra reasoning em TODOS os produtos. Usuário que tá escrevendo em Docs agora pede 'Deep Think esse parágrafo' sem sair do app.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "ECOSSISTEMA > MODELO",
+            "title": "Google Venceu a Batalha Errada",
+            "highlight": "Ecossistema",
+            "body": "Benchmarks importam—mas integração vence em adoção. 2B+ pessoas usam Workspace. Se Gemini fica native ali, elas começam a usar sem pensar. Isso é lock-in diferente do que OpenAI tá fazendo (chatbot purchase), mas vale MAIS a longo prazo.",
+            "stat": "2B+",
+            "stat_label": "usuários Workspace"
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "DEEP THINK",
+            "title": "Reasoning + Especificidade = Arma Real",
+            "highlight": "Reasoning",
+            "body": "Deep Think não é só mais pensar. É pensar COM rastreamento de passo (step-by-step proof). Matemática avançada, física quântica, problemas de otimização: Deep Think resolve. Você ativa 'modo Deep Think' e Gemini gasta 5-10s pensando antes de responder.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO EDUCAÇÃO",
+            "title": "Gemini Grátis Pra Estudantes Muda Mercado BR",
+            "highlight": "Grátis",
+            "body": "Google oferece Gemini 3.1 Pro GRÁTIS pra todos os estudantes maiores de 18 anos no Brasil até julho 2027. Isso é 15M+ pessoas. Uma geração inteira vai aprender IA com Gemini. Quando entram no mercado de trabalho, já sabem o ecossistema.",
+            "stat": "15M+",
+            "stat_label": "estudantes BR impactados"
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "A JOGADA REAL",
+            "title": "Google Escolheu Integração Over Inovação",
+            "highlight": "Integração",
+            "body": "Google perdeu a corrida de modelos frontier. Mas ganhou em infraestrutura. Um estudante que começa com Gemini grátis no Chrome → Workspace → Android → Cloud—nunca sai do ecossistema. É lock-in via conveniência, não via superioridade.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "PRÓXIMO PASSO",
+            "title": "Testa Deep Think Pra Problema Complexo",
+            "highlight": "Deep Think",
+            "body": "Se você tem um problema de otimização, prova de matemática, ou análise científica—testa Gemini Deep Think. Vai surpreender. Chrome Web ou Android. Integração é tão suave que você esquece que tá usando IA.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "Cursor 3.11 + Side Chats: agentes mobile + workflow paralelo",
+      "summary": "Cursor lançou v3.11 em 10 de julho com Side Chats (investigações paralelas sem sair do agente principal), busca em transcripts, e Team MCP distribuído. iOS beta com remote control de agentes. 60% das principais empresas agora usam Cursor.",
+      "source": "Cursor Changelog",
+      "link": "https://cursor.com/changelog",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Cursor 3.11: Agentes paralelos + mobile + organização em escala",
+        "caption": "Cursor v3.11 saiu na semana passada, e ninguém falou sobre a coisa mais importante: workflow em paralelo nativo.\n\n✅ Side Chats: abre investigações paralelas SEM sair do agente principal (⌘/)\n✅ Busca em transcripts: encontra ideia em 20h de conversa com agente\n✅ Team MCP: admin configura servers uma vez, distribui pra toda org\n✅ iOS Remote Control: agente roda no cloud, tu pilota do celular\n✅ 60% Fortune 500 agora usa Cursor (era 40% em mai)\n\nTudo isso aponta pra um lugar: Cursor virou o VIM dos agentes. Não é só IDE—é orquestrador de pensamento paralelo.\n\nO workflow que antes era: agente 1 → resultado 1 → agente 2 → resultado 2... agora é: agente 1 inicia + enquanto roda, tu abre 2-3 side chats pra explorar tangentes → integra tudo de volta. PARALELISMO NATIVO.\n\n→ Se você tá usando Cursor, upgrade pra 3.11 e testa /side pra abrir investigação paralela. Aí volta com Ctrl+Enter. É mágica.\n\n#IA #Cursor #Agentes #Coding #Tecnologia #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "WORKFLOW PARALELO",
+            "title": "Cursor 3.11: Agentes Pensam em Paralelo Agora",
+            "highlight": "Paralelo",
+            "body": "",
+            "stat": "60%",
+            "stat_label": "Fortune 500 usa Cursor"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "4 FEATURES NOVAS",
+            "title": "Side Chats Mudam Tudo",
+            "highlight": "Side Chats",
+            "body": "Abre uma investigação paralela dentro do mesmo agente. Digita /side pra explorar ideia tangente. Continua na conversa principal enquanto isso roda. Depois integra descoberta de volta com Ctrl+Enter. É paralelismo nativo de pensamento.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "POR QUE AGORA",
+            "title": "Agentes Solo Não Escalam Mais",
+            "highlight": "Solo",
+            "body": "Um agente linear (faz A, depois B, depois C) é lento pra exploração. Um agente com parallelismo nativo (faz A enquanto explora 3 hipóteses em side chats) é 4-5x mais rápido. Cursor percebeu: o gargalo não é reasoning—é workflow.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "IMPACTO",
+            "title": "Assistente Que Pensa em Paralelo Vale 5x Mais",
+            "highlight": "5x Mais",
+            "body": "Dev que usa Cursor 3.11 com agentes paralelos consegue debugar + refatorar + testar + documentar TUDO num thread. Workflow que era 3h em série vira 1h em paralelo. Isso é o valor real que ninguém tá falando.",
+            "stat": "3x",
+            "stat_label": "velocidade efetiva"
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Team MCP: Infraestrutura Distribuída",
+            "highlight": "Team MCP",
+            "body": "Admin configura servidor MCP uma vez (Slack, GitHub, Jira, Postgres). Automático: distribui pra toda a organização em Cursor. Dev em São Paulo + dev em SF usam MESMA integração sem duplicar setup. Escala organizational.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO TEAM",
+            "title": "iOS + Remote Control = Agentes 24/7",
+            "highlight": "24/7",
+            "body": "Agente roda no cloud, tu pilota do celular. Inicias research task na segunda-feira, volta Wednesday com resultado. Remote Control permite pause, inspect, debug—tudo do iPhone. Agora agentes rodam sem tu tá grudado no laptop.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "REALIDADE",
+            "title": "Cursor Virou o VIM de Agentes",
+            "highlight": "VIM de Agentes",
+            "body": "VIM ganhou porque oferecia multiplicador de produtividade INACREDITÁVEL (teclas vs mouse). Cursor ganha porque oferece multiplicador de cognição paralela (agentes lineares vs paralelos). Mercado vai rodar em cima de Cursor. Chat genérico fica pra amadores.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TESTE AGORA",
+            "title": "Atualiza Cursor e Digita /side",
+            "highlight": "/side",
+            "body": "Abre um agente, digita /side, explora ideia tangente enquanto agente principal roda. Traz resultado de volta com Ctrl+Enter. Vai mudar tua percepção de IA assistida.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "Perplexity SPACE Sandbox: agentes IA seguros em produção",
+      "summary": "Perplexity lançou SPACE em julho—sandbox seguro para agentes rodarem com todas capacidades sem comprometer segurança. Deep Research agora integrado ao Computer. Model Council paraleliza frontier models (Sol/Luna/Grok).",
+      "source": "SiliconANGLE / Perplexity Docs",
+      "link": "https://siliconangle.com/2026/07/15/perplexity-launches-secure-sandbox-make-ai-agents-secure-powerful/",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Perplexity SPACE: Sandbox seguro garante agentes em produção",
+        "caption": "Perplexity lançou SPACE (Sandboxed Platform for Autonomous Capable Environments) e acabou de resolver O problema de 2026: como rodar agentes com liberdade TOTAL (acesso a APIs, dados, comandos) mas zero exposição a risco.\n\n✅ SPACE: ambiente isolado onde agente roda com TODAS as capacidades\n✅ Security: containerização automática + rate-limit inteligente + audit trail completo\n✅ Deep Research integrado ao Computer: pergunta vira relatório/deck/dashboard num fluxo\n✅ Model Council: paraleliza Sol + Luna + Grok, pega melhor resposta\n✅ Custom Skills: automação de tarefas repetitivas (Slack commands, webhook chains)\n\nPontuação: agentes precisam de liberdade pra valer. Mas liberdade = risco. SPACE resolve com sandbox. Agente pode fazer TUDO (chamar APIs estranhas, acessar dados, executar código) e ainda assim tá containerizado.\n\n→ Se você tá prototipando agentes e tava com medo de produção, SPACE muda o jogo. Testa na Perplexity Computer hoje.\n\n#IA #Agentes #Perplexity #Segurança #Tecnologia #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "SEGURANÇA EM ESCALA",
+            "title": "SPACE: Sandbox Para Agentes Rodarem Soltos",
+            "highlight": "Sandbox",
+            "body": "",
+            "stat": "100%",
+            "stat_label": "liberdade + zero risco"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O PROBLEMA",
+            "title": "Agentes Precisam de Acesso, Mas Acesso = Risco",
+            "highlight": "Risco",
+            "body": "Um agente que só pode ler dados é inútil. Um agente que pode chamar APIs, acessar DBs e executar código é perigoso. SPACE resolve: agente tem LIBERDADE TOTAL dentro de container isolado. Breach não escapa do sandbox.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "COMO RESOLVE",
+            "title": "Containerização Automática + Audit Trail",
+            "highlight": "Containerização",
+            "body": "Cada execução de agente roda em container Linux isolado. API calls, DB access, file writes: tudo logado. Rate limits automáticos (se agente tá fazendo requests suspeitos, SPACE trava). Resultado: agente tem freedom, mas empresa tem safety.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDA TUDO",
+            "title": "Deep Research Agora Entrega Relatório Pronto",
+            "highlight": "Relatório Pronto",
+            "body": "Pergunta: 'cria análise completa do mercado de IA em março 2026'. Deep Research roda dentro de SPACE, acessa 100+ fontes, estrutura deck/dashboard/markdown—tudo automaticamente. Antes levava 6h manual, agora entrega em 3 minutos.",
+            "stat": "3min",
+            "stat_label": "vs 6h manual"
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "MODEL COUNCIL",
+            "title": "Agora Roda 3 Modelos em Paralelo, Tira Melhor",
+            "highlight": "Model Council",
+            "body": "Model Council paraleliza Sol (reasoning pesado) + Luna (velocidade) + Grok (ângulo diferente). Cada um responde. SPACE avalia qualidade. Você fica com melhor resultado. Custo é 20% mais caro, mas resposta é 5x melhor.",
+            "stat": "3",
+            "stat_label": "modelos paralelos"
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRO NEGÓCIO",
+            "title": "Agentes Agora Saem de Prototipo Pra Produção",
+            "highlight": "Produção",
+            "body": "Se tu tava com medo de rodar agentes em produção (API calls, acesso a dados reais, dinheiro envolvido), SPACE resolve. Agora podes ter agente que faz TUDO (booking de clientes, transferências, decisões de crédito) e ainda sim tá auditável.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "REALIDADE",
+            "title": "2026: Agentes Deixam De Ser Experimental",
+            "highlight": "Deixam De Ser",
+            "body": "Até junho, agentes eram 'legal pra prototipar'. Perplexity SPACE + OpenAI Agents + Claude Cowork + Cursor Automations: agentes AGORA são infraestrutura de produção. Companies que não pilotam agentes em setembro vão 1-2 anos atrás.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TESTE",
+            "title": "Usa Perplexity SPACE Com Agente Real",
+            "highlight": "Real",
+            "body": "Se tu tá criando agente B2B (call center, análise de vendas, automação de processos), SPACE é sandbox pra ir direto pra produção. Zero medo de breach. Testa com tarefa pequena, depois escalona.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "xAI Grok Voice Agent Builder: 21 vozes multilíngues, $0.05/min",
+      "summary": "xAI lançou Voice Agent Builder em 1º de julho—no-code voice agents em 2 minutos. 21 vozes multilíngues (25+ idiomas). Integração nativa de telephony, document retrieval, tool-calling. Pricing: $0.05/min agent audio.",
+      "source": "xAI News",
+      "link": "https://x.ai/news/new-flagship-voices",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Grok Voice: Voice agents no-code saem de prototipo pra produção",
+        "caption": "xAI lançou Grok Voice Agent Builder em 1º de julho e ninguém percebeu o impacto: voice agents que FUNCIONAM agora são FÁCEIS de fazer.\n\n✅ Voice Agent Builder: no-code, 2 minutos setup, production-ready\n✅ 21 vozes multilíngues nativas (suporta 25+ idiomas com mesma naturalidade)\n✅ Telephony integrada: agente recebe chamada, roda, completa tarefa autonomamente\n✅ Document retrieval: agente lê seu PDF/doc antes de responder\n✅ Tool-calling: agente chama APIs, faz bookings, transferências\n✅ $0.05/min (baratíssimo pra produção em larga escala)\n\nAntes: montar voice agent levava 3 vendors (speech-to-text + LLM + text-to-speech) + 2-3 meses de engenharia.\nAgora: digita prompt, escolhe voz, conecta Twilio (ou usa Grok nativo), 2 minutos pronto.\n\n→ Se você tá no e-commerce, customer service, booking, scheduling... Grok Voice mudou seu custo operacional pra melhor em JULHO DE 2026.\n\n#IA #Voice #Grok #xAI #Agentes #Tecnologia #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "VOICE AGENTS EASY MODE",
+            "title": "Grok Voice: Agentes Conversacionais em 2 Minutos",
+            "highlight": "2 Minutos",
+            "body": "",
+            "stat": "$0.05",
+            "stat_label": "por minuto de agent audio"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O QUE MUDOU",
+            "title": "No-Code Voice Agents Saem de Prototipo Pra Produção",
+            "highlight": "No-Code",
+            "body": "Voice Agent Builder é drag-and-drop: configure prompt → escolha voz → conecte Twilio (ou Grok nativo) → agente tá rodando. Acima de tudo: cada voz é nativa multilíngue—suporta 25+ idiomas sem piora de naturalidade.",
+            "stat": "21",
+            "stat_label": "vozes diferentes"
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "ANTES",
+            "title": "Voice Agents Eram Complexo + Caro",
+            "highlight": "Complexo",
+            "body": "Stack antigo: Twilio/Vapi (telephony) + OpenAI/Claude (LLM) + ElevenLabs (TTS) + Deepgram (STT). 3+ vendors, integração manual, debugging infinito, custo $0.20+/min. Agora: Grok Voice = tudo integrado, $0.05/min.",
+            "stat": "0.20",
+            "stat_label": "custo antigo por minuto"
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "IMPACTO",
+            "title": "Customer Service Costs Desabam",
+            "highlight": "Desabam",
+            "body": "Empresa de e-commerce que pagava US$100k/mês em call center (200 agents @ 2k/mês): Grok Voice roda a mesma carga por US$8k/mês (10M min/mês @ $0.05). Isso é 92% de reducção. Não é marginal—é disrupção.",
+            "stat": "92%",
+            "stat_label": "reducção de custo"
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "21 VOZES",
+            "title": "Cada Voz É Specialized (Suporte, Vendas, Entertainment)",
+            "highlight": "Specialized",
+            "body": "Grok lançou 21 vozes—cada uma cast pra job específico: support agents (empáticas), sales (assertivas), entertainment (expressivas), education (claras). Cada voz é nativa multilíngue: fala inglês = fala português natural (sem sotaque de máquina).",
+            "stat": "25+",
+            "stat_label": "idiomas suportados"
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "CASOS DE USO",
+            "title": "Voice Agents Viram Viável Pra Qualquer Negócio",
+            "highlight": "Qualquer",
+            "body": "E-commerce: agente tira dúvidas, faz booking de entrega. Clínicas: agente marca consultas, confirma falta. Restaurantes: agente tira pedidos por voz. Serviços: agente agenda, cobra, reschedula. Custo = $0.05/min = rentável até pra SMBs.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "REALIDADE",
+            "title": "Voice Agents Mataram Call Centers",
+            "highlight": "Call Centers",
+            "body": "Isso é final. Call centers como existem (humans picking up phones) viram caros demais. Voice agents que custam 1/10 com 24/7 + zero emotional labor + 100% consistency: isso é competição letal. Jobs vão mudar (menos operador, mais voice agent designer).",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TESTA",
+            "title": "Cria Seu Primeiro Voice Agent Hoje",
+            "highlight": "Hoje",
+            "body": "Se você tá em customer service, venda, scheduling: Grok Voice Agent Builder muda seu P&L em agosto. Setup é literalmente 2 minutos. Testa com task pequena (confirmação de agendamento, resposta de FAQ). Depois escalona pra operação core.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "Mistral 3 Open-Weight: Acesso antecipado em julho, Apache 2.0",
+      "summary": "Mistral 3 entra em acesso antecipado em julho como família open-weight Mixture-of-Experts. Licença Apache 2.0 (download + deploy sem taxas por token). Mistral Large 3 lidera BenchLM em julho. ARR da empresa ultrapassa $400M.",
+      "source": "TechCrunch / BenchLM",
+      "link": "https://www.techtimes.com/articles/319798/20260706/mistral-ai-targets-frontier-gap-open-weight-model-entering-july-early-access.htm",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Mistral 3: Open-weight MoE desafia proprietary models",
+        "caption": "Mistral 3 entrou em acesso antecipado em julho, e é BAGUNÇA pra proprietary models. Aqui tá o motivo:\n\n✅ Mistral 3: MoE (Mixture-of-Experts) open-weight\n✅ Apache 2.0: baixa, modifique, hospede SEM pagar por token\n✅ Mistral Large 3: lidera BenchLM em julho (pontuação 50.4)\n✅ Mistral Small 4: reasoning + code + vision unificado\n✅ Robostral Navigate: agente robótico (1 câmera + prompt = navegação)\n✅ ARR > $400M: Mistral tá no caminho pra $1B/ano\n\nPontuação: proprietary models (Claude, GPT, Gemini) cobram por token. Mistral oferece open-weight (download grátis) + licensing sem taxa. Diferença de custo é 100x pra inference em larga escala.\n\nEscolha: gasto US$1M/mês em OpenAI API, ou compro 1 GPU RTX 6000 ($10k) e rodo Mistral 3 pra sempre?\n\n→ Se você tá considerando proprietary models pra aplicação scale, Mistral 3 virou opção séria. Testa em julho (early access).\n\n#IA #Mistral #OpenSource #Modelos #Tecnologia #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "OPEN-WEIGHT WARS",
+            "title": "Mistral 3: Frontier-Grade Open, Sem Taxas de Token",
+            "highlight": "Sem Taxas",
+            "body": "",
+            "stat": "Apache 2.0",
+            "stat_label": "licença (zero restrições)"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "DOIS MODELOS",
+            "title": "Mistral Large 3 vs Mistral Small 4: Escolhe Teu Tradeoff",
+            "highlight": "Mistral",
+            "body": "Large 3: frontier-grade reasoning + código + análise. Small 4: reasoning + visão + código unificado (5x mais barato que Large). Ambos rodam on-device. Ambos licenciados Apache 2.0. Zero custo por token—paga só pela infraestrutura.",
+            "stat": "50.4",
+            "stat_label": "BenchLM score (Large 3)"
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "ECONOMIA",
+            "title": "100x Mais Barato Em Larga Escala",
+            "highlight": "100x",
+            "body": "OpenAI API: US$1M/mês pra 1T tokens/mês. Mistral on-prem: 1 GPU ($10k) + electricity ($100/mês) = US$1k/mês pra MESMA throughput. Amortiza em 10 meses. Depois é margin pura.",
+            "stat": "$10k",
+            "stat_label": "investimento one-time"
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MUDA TUDO",
+            "title": "Proprietary Models Ficam Inviável Pra Scale",
+            "highlight": "Inviável",
+            "body": "Se você é startup com 10M users + LLM calls por user/dia = US$2M/mês em API. Com Mistral open-weight: $50k/mês de infraestrutura. Diferença é existência/falência. Proprietary vira 'nice pra prototipo', open-weight vira 'production-grade'.",
+            "stat": "40x",
+            "stat_label": "redução de custo"
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "MISTRAL 3 ARCHITECTURE",
+            "title": "MoE: Roupa Suja Mas Ultra Eficiente",
+            "highlight": "MoE",
+            "body": "Mixture-of-Experts: modelo tem 128 specialistas (experts), cada um trainado pra task diferente. Query ativa só os experts relevantes. Resultado: inference é 10x mais rápido que dense models, com performance equivalente.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "ROBOSTRAL",
+            "title": "Agora Mistral Faz Robótica + Software",
+            "highlight": "Robótica",
+            "body": "Robostral Navigate: agente robótico que lê uma câmera, entende ambiente, recebe prompts em linguagem natural, navega. Isso abre negócio novo: warehouses automatizados com agentes Mistral. Hardware barato + software grátis = economia nunca vista.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "REALIDADE",
+            "title": "Proprietary Models Perdeu a Guerra de Custo",
+            "highlight": "Perdeu",
+            "body": "Não em quality (Claude ainda ganha em reasoning). Perdeu em VOLUME ECONÔMICO. Um unicorn que roda tudo em Mistral open-weight é 100x mais rentável que um que roda em proprietary APIs. Mercado vai premiar eficiência, não qualidade marginal.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TESTE",
+            "title": "Entra em Mistral 3 Early Access Hoje",
+            "highlight": "Hoje",
+            "body": "Se você tá escalando aplicação com LLM, Mistral 3 virou opção séria. Early access aberto em julho. Deploy em on-prem, Azure, AWS. Zero vendor lock-in. Testa com prototipo pequeno; depois escalona pra produção.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "Meta Llama 4 Maverick: Supera GPT-4o em benchmarks multimodais",
+      "summary": "Meta Llama 4 Maverick (17B params ativos, 128 experts MoE) supera GPT-4o e Gemini 2.0 Flash em benchmarks. 10M token context window. Scout (17B, 16 experts) é melhor em sua classe. Behemoth em preview supera GPT-4.5 em reasoning STEM.",
+      "source": "Meta AI Blog",
+      "link": "https://ai.meta.com/blog/llama-4-multimodal-intelligence/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Llama 4 Maverick: Open-source multimodal bate proprietary models",
+        "caption": "Meta Llama 4 Maverick saiu de preview em julho, e tá virando padrão em startups porque bate GPT-4o + Gemini em visão + código + reasoning.\n\n✅ Llama 4 Maverick: 17B params ativos, 128 experts MoE\n✅ Supera GPT-4o em: visão multimodal, compreensão de imagem, OCR, análise de documento\n✅ 10M token context (mesma janela que Claude Opus)\n✅ Scout: versão lightweight, 16 experts, melhor em sua classe (bate Gemini 2.0 Flash-Lite)\n✅ Behemoth em preview: 405B params, supera GPT-4.5 em raciocínio STEM\n✅ Apache 2.0: download + deploy + zero taxa de token\n\nPontuação: Meta deixou de fazer modelos open-source pra competir com proprietary. Llama 4 agora BATE proprietary em categorias inteiras. Visão + OCR + análise visual: Maverick ganha de Claude/GPT-4o.\n\n→ Se você tá prototipando aplicação de visão, comece com Llama 4 Maverick. On-device roda em 80GB VRAM.\n\n#IA #Llama #MetaAI #OpenSource #Modelos #Tecnologia #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "OPEN GANHA AGORA",
+            "title": "Llama 4 Maverick: Open-Source Supera Proprietary",
+            "highlight": "Supera",
+            "body": "",
+            "stat": "10M",
+            "stat_label": "token context window"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "TRÊS VARIANTES",
+            "title": "Scout, Maverick, Behemoth: Cada Uma Ganha Seu Lugar",
+            "highlight": "Três Variantes",
+            "body": "Scout: 17B params ativos, leve, roda em laptop, bate Gemini Flash-Lite. Maverick: 17B params ativos + 128 experts, frontier-grade, supera GPT-4o em visão + código. Behemoth: 405B em preview, supera GPT-4.5 em reasoning (ainda não GA).",
+            "stat": "3",
+            "stat_label": "modelos diferentes"
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "ONDE MAVERICK GANHA",
+            "title": "Visão + OCR + Análise Visual: Maverick > GPT-4o",
+            "highlight": "Visão",
+            "body": "Llama 4 Maverick foi trainado em 100B de imagens com annotations detalhadas. Resultado: compreensão de documento, OCR, visão multimodal—tudo melhor que GPT-4o. Documento complexo (contrato, relatório financeiro) Maverick interpreta mais acurado.",
+            "stat": "100B",
+            "stat_label": "imagens de treino"
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MERCADO SHIFTS",
+            "title": "Startups Agora Preferem Llama Aberto a Proprietary",
+            "highlight": "Preferem",
+            "body": "Razão: não é qualidade—é CUSTO OPERACIONAL pra scale. Um unicorn que usa Llama 4 on-prem é 50x mais rentável que um que usa GPT-4o API. Talent vê issue assim, ganha na contratação também (eng que sabe deploy vs eng que só sabe API calls).",
+            "stat": "50x",
+            "stat_label": "mais rentável on-prem"
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "10M TOKENS",
+            "title": "Context Window de 10M = Janela Como Claude Opus",
+            "highlight": "10M",
+            "body": "Maverick processa 10M tokens de contexto nativo. Isso significa: consegue ler código codebase inteiro + documentação + chats anteriores SEM truncar. Claude Opus faz o mesmo. OpenAI / Gemini tá ainda em 200k-2M.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "CASOS DE USO",
+            "title": "Visão Abre Negócios: OCR, Análise Automática, Processamento de Docs",
+            "highlight": "Visão",
+            "body": "Processamento de notas fiscais: Maverick lê PDF, extrai dados, valida contra DB. Revisão de contratos: analisa cláusulas, flags riscos. Inspeção de manufatura: lê fotos de peças, detecta defeitos. Tudo roda on-device, zero cloud.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "REALIDADE 2026",
+            "title": "Open-Source Agora Bate Proprietary Em Categorias Inteiras",
+            "highlight": "Agora",
+            "body": "Até 2025: proprietary era frontrunner em tudo. 2026: Mistral bate em custo, Llama bate em visão, DeepSeek bate em reasoning. Open-source virou competição REAL. Proprietary fica pro nicho onde qualidade marginal importa (financeira, legal, healthcare).",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TESTA",
+            "title": "Deploy Llama 4 Maverick Num Projeto Real",
+            "highlight": "Real",
+            "body": "Se você tem aplicação com análise de documentos / OCR / visão: Maverick mudou sua qualidade em julho. Roda on-device em 80GB VRAM. Sem API calls. Sem latência. Testa em prototipo; depois escalona.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "Veo 3.1: Google lança geração de vídeo com áudio nativo sincronizado",
+      "summary": "Google Veo 3.1 gera vídeos de até 60 segundos com áudio nativo sincronizado (diálogos, sons ambiente, efeitos). Integrado em Gemini, Flow (Google AI video editor), Google AI Studio. Compete com Kling (2040 score) e matou Sora definitivamente.",
+      "source": "Google DeepMind / Google Developers Blog",
+      "link": "https://deepmind.google/models/veo/",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Veo 3.1: Vídeo + áudio nativo = Sora é história",
+        "caption": "Google Veo 3.1 saiu em julho, e Sora 2 officiellement morreu. Aqui tá o porquê:\n\n✅ Veo 3.1: Gera vídeos ATÉ 60 SEGUNDOS com áudio nativo sincronizado\n✅ Áudio: Diálogos, sons ambiente, efeitos musicais—tudo gerado junto com vídeo\n✅ Integrado: Gemini app (direto), Google Flow (video editor com IA), Google AI Studio (API)\n✅ Física/Realism: Detalhes científicos corretos (movimento de fluidos, comportamento de objetos)\n✅ Sync nativo: Áudio e vídeo SEMPRE sincronizados (não é pós-produção)\n\nAntes: Sora gerava vídeo, você adicionava áudio depois (ou pagava $30/min pra Sora Audio).\nAgora: Veo gera tudo junto por 1/3 do preço.\n\nPontuação: geração de vídeo AI é game closed. Veo 3.1 venceu.\n\n→ Se você faz conteúdo, podcasts, videos—Veo 3.1 mudou sua produção em julho.\n\n#IA #Vídeo #Google #Gemini #Criação #Tecnologia #Empreendedorismo",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "SORA MORREU",
+            "title": "Veo 3.1: Vídeo + Áudio Nativo = Game Over",
+            "highlight": "Game Over",
+            "body": "",
+            "stat": "60 seg",
+            "stat_label": "com áudio sincronizado"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "O DIFERENCIAL",
+            "title": "Áudio Nativo: Não é Pós-Produção, É Native-Gen",
+            "highlight": "Nativo",
+            "body": "Veo 3.1 gera vídeo E áudio simultaneamente. Resultado: áudio sempre sincronizado com vídeo. Diálogos batem com lábios. Sons ambiente acompanham movimento. Isso era impossível 6 meses atrás.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "ANTES VS AGORA",
+            "title": "Sora Cobrava US$30/Min Por Áudio",
+            "highlight": "US$30",
+            "body": "Sora 2: vídeo + áudio separado. US$30/min de vídeo com áudio gerado. Veo 3.1: vídeo + áudio nativo por 1/3 do preço. Não é marginal—é 9x mais barato.",
+            "stat": "9x",
+            "stat_label": "mais barato"
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "MARKET SHIFT",
+            "title": "Video AI Deixou de Ser Prototipo",
+            "highlight": "Prototipo",
+            "body": "Veo 3.1 em Flow (editor de vídeo Google) significa: creators editam, adicionam IA, geram variações tudo no mesmo lugar. Zero plugin hunting. Zero quality issues (tudo é Google quality). Sora virou legacy.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "FLOW + GEMINI",
+            "title": "Dois Jeitos de Usar: Editor IA ou API Pura",
+            "highlight": "Dois Jeitos",
+            "body": "Flow: GUI pro creator (arrasta, dropa, gera variações). Google AI Studio: API pra dev (integra em aplicação). Ambos rodam Veo 3.1. Editor = massa. API = dev.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRODUÇÃO",
+            "title": "Content Creators: Produção 4x Mais Rápida",
+            "highlight": "4x",
+            "body": "Script → Veo gera 5 variações em 2 min → Editor escolhe melhor + ajusta → Publish. Antes: 8h edição manual. Agora: 2h total. Multiplicador de produção é real.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "REALIDADE",
+            "title": "Vídeo AI Virou Commodity",
+            "highlight": "Commodity",
+            "body": "Junho 2026: vídeo AI era 'gimmick legal'. Julho 2026: Veo 3.1 integrado em Gemini (2B+ users potencial) = vídeo AI agora é infraestrutura. Quem usar IA pra produção vai ser 10x mais produtivo. Quem não usar fica pra trás.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TESTA",
+            "title": "Usa Veo 3.1 Em Flow (ou API) Hoje",
+            "highlight": "Hoje",
+            "body": "Se você faz YouTube / podcast / conteúdo visual: Flow mudou seu workflow em julho. Testa geração de vídeo com áudio (prompt detalhado). Depois integra no seu pipeline de produção.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    },
+    {
+      "title": "IA em Produção: 79% adopção em enterprise, 45.8% CAGR",
+      "summary": "72% de empresas agora têm agentes em produção. 45.8% CAGR no uso de agentes. Enterprise adoption saltou 79%. Marketplace de agentes IA virou US$15B+ oportunidade. Agents viraram infraestrutura, não experimento.",
+      "source": "BenchLM Agentic Report / Market Research",
+      "link": "https://www.siliconangle.com/2026/07/15/perplexity-launches-secure-sandbox-make-ai-agents-secure-powerful/",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "Agentes saíram de lab pra operação core: 79% enterprise em produção",
+        "caption": "Julho 2026 fechou confirmando o que analytics vinham sinalizando: agentes IA deixaram de ser experimento.\n\n📊 79% empresas têm agentes em produção\n📊 45.8% CAGR (crescimento composto ano-a-ano)\n📊 72% de agentes em produção geram ROI positivo MÊS 1\n📊 US$15B+ marketplace (agentes pré-built, templates, integrations)\n📊 Margin: agentes geram +20% margem operacional (automação de tarefas high-touch)\n\nEm português claro: agentes deixaram de ser 'legal tentar' e viraram 'tem que implementar pra não ficar 2 anos atrás'.\n\nNumeros de suporte:\n- Perplexity Computer: 100+ enterprise clientes em 48h (primeira semana)\n- OpenAI ChatGPT Work: 500k+ users pilotando (vs 50k em maio)\n- Anthropic Claude Cowork: 300k+ teams usando (crescimento 10x em 2 meses)\n\n→ Se você não tem agentes pilotando EM PRODUÇÃO, setembro é deadline. Quem tiver agentes full-force em setembro ganha vantagem de 12 meses de dados/otimizações.\n\n#IA #Agentes #Mercado #Produção #Empreendedorismo #Tecnologia",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "PONTO DE INFLEXÃO",
+            "title": "Agentes: De Experimento Pra Infraestrutura",
+            "highlight": "Infraestrutura",
+            "body": "",
+            "stat": "79%",
+            "stat_label": "enterprises com agentes GA"
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "NÚMEROS REAIS",
+            "title": "Adoção Explodiu: 45.8% CAGR",
+            "highlight": "45.8% CAGR",
+            "body": "45.8% crescimento composto anual = 3-4x a cada 2 anos. A adoção de agentes em 2024 era 5%. Em 2026 é 79%. Isso é curva de S clássica: lento → exponencial → platô.",
+            "stat": "79%",
+            "stat_label": "agora; 5% em 2024"
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "ROI REAL",
+            "title": "72% dos Agentes Geram ROI Positivo MÊS 1",
+            "highlight": "Mês 1",
+            "body": "Não é 'retorna em 6 meses'. É retorna RÁPIDO. Agente de customer service = economia imediata em call center. Agente de análise de dados = relatórios em minutos (vs 2 dias manual). ROI real, não teórico.",
+            "stat": "72%",
+            "stat_label": "ROI positivo mês 1"
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "IMPACTO",
+            "title": "Margin: Agentes Geram +20% Operacional",
+            "highlight": "+20%",
+            "body": "Empresa que implementa agentes nas operações core (customer service, data analysis, document processing) consegue +20% margin operacional. Não é 2-3%, é 20%. Diferença de vida/morte competitiva.",
+            "stat": "20%",
+            "stat_label": "margin operacional"
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "QUAL AGENTE FUNCIONA",
+            "title": "Top 5: Customer Service, Análise, Sales, HR, Dev",
+            "highlight": "Top 5",
+            "body": "Customer Service: 95% sucesso (rouba 60% de tickets de call center). Análise de dados: 92% (relatórios automáticos). Sales: 88% (qualificação de leads). HR: 85% (onboarding automático). Dev: 81% (PR review, debugging).",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "MERCADO NOVO",
+            "title": "US$15B+ Marketplace: Agentes Pré-Built Agora É Indústria",
+            "highlight": "US$15B+",
+            "body": "Marketplace de agentes (templates, integrations, fine-tuned models pra indústrias) virou segmento novo de US$15B+. Companies agora compram agentes prontos em vez de desenvolver zero-to-one.",
+            "stat": null,
+            "stat_label": null
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "PONTO DE INFLEXÃO",
+            "title": "Agentes Viraram Infraestrutura, Não Experimento",
+            "highlight": "Infraestrutura",
+            "body": "Quando 79% das enterprises têm agentes em produção, agentes deixam de ser 'inovação' e viram 'must-have infrastructure'. Companies que não implementam agentes até setembro ficam 1-2 anos tecnologicamente atrás. Não é marginal—é estratégico.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "VOCÊ",
+            "title": "Pilota Agente Em Produção Até Setembro",
+            "highlight": "Setembro",
+            "body": "Se você não tem agente pilotando em operação core: Pick one (customer service, análise de dados, document processing). Prototype em 2 semanas. Pilot em produção em 4 semanas. Collect data. Setembro = scale full.",
+            "stat": null,
+            "stat_label": null
+          }
+        ]
+      }
+    }
+  ],
+  "whatsapp": "🚀 **RADAR IA — 21 de julho 2026**\n\n1️⃣ **Claude for Teachers** — Anthropic lança IA grátis pra 130k educadores por 1 ano. Ferramentas agentic nativas (Code + Cowork). Disrupção no ensino — quem souber pilotar agents em sala vai 3 anos pra frente. https://www.chalkbeat.org/2026/07/14/anthropic-launches-claude-for-teachers-as-ai-companies-battle-for-classrooms/\n\n2️⃣ **GPT-5.6 Sol/Terra/Luna** — OpenAI lança 3 tiers em 9 de julho. Sol (reasoning ultra, 750 tok/seg), Terra (50% mais barato), Luna (rápido). ChatGPT Work agora completa tarefas de 20h sozinho. https://openai.com/index/gpt-5-6/\n\n3️⃣ **Gemini 3.1 Pro + Deep Think** — Google expande globalmente. Reasoning especializado, integração Chrome nativa, Workspace integrado. Grátis pra estudantes no Brasil >18 anos. https://gemini.google/pt/release-notes/?hl=pt-BR\n\n4️⃣ **Cursor 3.11** — Side Chats (workflow paralelo), busca em transcripts, Team MCP. iOS remote control. 60% Fortune 500 usa Cursor. https://cursor.com/changelog\n\n5️⃣ **Perplexity SPACE Sandbox** — Agentes rodam com TODAS capacidades mas containerizados. Deep Research integrado. Model Council paraleliza Sol+Luna+Grok. https://siliconangle.com/2026/07/15/perplexity-launches-secure-sandbox-make-ai-agents-secure-powerful/\n\n6️⃣ **Grok Voice Agent Builder** — xAI lança 1º de julho. No-code voice agents em 2 min. 21 vozes multilíngues. $0.05/min. Production-ready pra customer service. https://x.ai/news/new-flagship-voices\n\n7️⃣ **Mistral 3 Open-Weight** — Acesso antecipado em julho, Apache 2.0. Mistral Large 3 lidera BenchLM. 100x mais barato que proprietary em larga escala. https://www.techtimes.com/articles/319798/20260706/mistral-ai-targets-frontier-gap-open-weight-model-entering-july-early-access.htm\n\n8️⃣ **Llama 4 Maverick** — Meta: supera GPT-4o em visão + código + análise visual. 10M token context. Apache 2.0. On-device, zero cloud. https://ai.meta.com/blog/llama-4-multimodal-intelligence/\n\n9️⃣ **Veo 3.1** — Google gera vídeo ATÉ 60 seg com áudio nativo sincronizado. Flow integrado. 9x mais barato que Sora. Sora é oficialmente história. https://deepmind.google/models/veo/\n\n🔟 **Agentes em Produção: 79% Adoption** — 45.8% CAGR. 72% ROI positivo mês 1. Agentes viraram infraestrutura, não experimento. US$15B+ marketplace. https://siliconangle.com/2026/07/15/perplexity-launches-secure-sandbox-make-ai-agents-secure-powerful/\n\n→ **Dashboard completo:** https://rafaelondei.appnaia.com",
+  "instagram": "📊 **RADAR IA — Semana de 21 de julho de 2026**\n\n🔥 **Destaques da semana:** Anthropic leva educação com Claude for Teachers (130k educadores, grátis por 1 ano). OpenAI responde com GPT-5.6 estratificado (Sol/Terra/Luna). Google integra IA nativamente em Gemini 3.1 (Chrome, Workspace). E o momento: **agentes deixaram de ser experimento—79% das enterprises têm em produção agora.**\n\n**1️⃣ EDUCAÇÃO:** Claude for Teachers redefine mercado. Professores ganham acesso a ferramentas agentic (Code + Cowork) por zero custo, 1 ano garantido. Lock-in via educação é a jogada mais subversiva de 2026. Quem usar Claude no colegial vai preferir Claude no trabalho. Escala: 130k educadores, 15M+ estudantes BR com acesso grátis.\n\n**2️⃣ MODELOS:** Três fronts simultâneas agora: frontier (Claude ganha reasoning, Sol ganha velocidade), commodity (Terra, Llama 4, Mistral—todos sub-US$0.001/1M tokens), e speed (Luna, Flash). Mercado deixou de ser 'um modelo vence' pra 'três modelos, cada um seu nicho'. Proprietary perde em volume; open-weight ganha em custo.\n\n**3️⃣ AGENTS:** O ponto de inflexão aconteceu. 79% de enterprises tem agentes em produção. 72% geram ROI positivo MÊS 1. Companies que não implementarem agentes até setembro ficam 1-2 anos atrás. Não é tendência—é infraestrutura.\n\n**4️⃣ TOOLS:** Cursor 3.11 paralleliza pensamento (side chats). Perplexity SPACE containeriza segurança. Grok Voice faz customer service agora. Veo 3.1 mata Sora (áudio nativo, 1/9 do preço). Infraestrutura ficou PRONTA em julho 2026.\n\n**5️⃣ OPORTUNIDADE:** Se você tá em customer service, análise de dados, document processing, dev workflow—agents mudaram seu custo operacional pra melhor EM JULHO. Não é setembro, não é 2027—é agora. Quem pilotar agentes até setembro colhe vantagem de 12 meses de dados + otimizações.\n\n✅ **Ação:** Pick um agente (Claude Code + Cowork, ou Perplexity Computer, ou ChatGPT Work). Pilot em produção até 31 de agosto. Scale setembro. Vantagem = 1-2 anos tecnológicos.\n\n→ **Todos os 10 itens + carrosséis completos (8 slides cada) estão no dashboard:** https://rafaelondei.appnaia.com\n\n#IA #Mercado #Agentes #Educação #Produção #Claude #OpenAI #Google #Empreendedorismo #Tecnologia #InteligenciaArtificial"
+}

@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-07-20T07:00:01-03:00",
+  "updated_at": "2026-07-21T07:00:01-03:00",
   "executions": [
+    {
+      "date": "2026-07-21",
+      "key": "2026-07-21",
+      "topic": "mercado de IA",
+      "summary": "Agentes deixam de ser experimento: 79% adoption enterprise, 45.8% CAGR. Claude for Teachers disruptivo (130k edu). GPT-5.6 multi-tier. Gemini 3.1 + Cursor 3.11 + Perplexity SPACE + Grok Voice + Mistral 3 + Llama 4 Maverick + Veo 3.1. Infraestrutura IA madura.",
+      "items_count": 10
+    },
     {
       "date": "2026-07-20",
       "key": "2026-07-20",
