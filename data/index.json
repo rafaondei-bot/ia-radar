@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-07-21T07:00:01-03:00",
+  "updated_at": "2026-07-22T07:00:01-03:00",
   "executions": [
+    {
+      "date": "2026-07-22",
+      "key": "2026-07-22",
+      "topic": "mercado de IA",
+      "summary": "ChatGPT Work (agente autônomo) + Fable 5 globalizado (80.3% SWE). GPT-5.6 3-tier menu. Grok 4.5 Opus-grade ($1.25/M). Llama 4 open-source bate GPT-4o. Perplexity Enterprise $325/seat (19 models). Cursor 1M DAU + BugBot. Claude Science 60+ DBs. Vercel Eve framework. DeepSeek -75% permanente. Agentes: 79% enterprise production, 31% nova receita.",
+      "items_count": 10
+    },
     {
       "date": "2026-07-21",
       "key": "2026-07-21",

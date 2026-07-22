@@ -1,0 +1,1132 @@
+{
+  "date": "2026-07-22",
+  "topic": "mercado de IA",
+  "topic_slug": "ai-market",
+  "generated_at": "2026-07-22T07:00:01-03:00",
+  "items": [
+    {
+      "title": "ChatGPT Work: agente executa tarefas por horas sozinho",
+      "summary": "OpenAI lançou ChatGPT Work em 9 de julho—agente autônomo que divide projetos em etapas, reúne contexto entre apps e entrega planilhas, slides e documentos prontos. Powered by GPT-5.6, torna a automação de tarefas multi-passo a realidade de hoje.",
+      "source": "OpenAI Blog / Bloomberg",
+      "link": "https://thenextweb.com/news/openai-chatgpt-work-agent-launch",
+      "category": "ferramenta",
+      "recommended": true,
+      "carousel": {
+        "theme": "Agente que faz o trabalho por ti enquanto tu descansas",
+        "caption": "🚀 ChatGPT Work é o game-changer de julho: seu assistente IA agora executa tarefas complexas SOZINHO por horas, sem parar, reunindo dados de múltiplos apps e entregando tudo pronto (planilhas, slides, docs, até apps web). Não é automação genérica—é AGÊNCIA REAL. Pra empreendedor que quer 10x de produtividade sem contratar, isso é o Marco Civil do trabalho inteligente. Dá pra agendar projetos enormes no final do expediente e acordar com tudo feito.\n\n#ChatGPT #IA #Automação #Produtividade #OpenAI #Agentes #Empreendedorismo #GPT56 #Workflow #Eficiência",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "GAME-CHANGER DO MÊS",
+            "title": "Seu agente termina tarefas SOZINHO",
+            "highlight": "SOZINHO",
+            "body": "",
+            "stat": "∞ horas",
+            "stat_label": "de execução contínua",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "LANÇAMENTO OFICIAL",
+            "title": "ChatGPT Work saiu em 9 de julho",
+            "highlight": "9 de julho",
+            "body": "OpenAI acaba de libertar o ChatGPT Work—um agente que não é um chatbot, não é automação genérica. É um assistente que PEGA um projeto, divide em etapas menores, executa CADA UMA independentemente por horas seguidas, e volta com resultado finalizado.",
+            "stat": "GPT-5.6",
+            "stat_label": "motor de raciocínio multi-passo",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE MÓ MUDOU",
+            "title": "Antes: tu fazia. Agora: ele faz",
+            "highlight": "ele faz",
+            "body": "Antes, IA era assistente (tu digita, ela responde). Agora ChatGPT Work é agente de verdade: recolhe contexto entre seus apps (Slack, Sheets, Gmail, Salesforce), separa o trabalho em mini-tarefas, executa cada uma sem parar, e entrega planilhas, slides, docs, até apps web finalizados. Isso é escalar sem contratar.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "A VIRADA NO JOGO",
+            "title": "Automação deixou de ser ficção",
+            "highlight": "ficção",
+            "body": "Agora não é mais 'IA ajuda com tarefas'—é 'IA executa projetos de 8 horas em 40 minutos enquanto tu trabalha em outra coisa'. O agente entende seu contexto histórico (templates, arquivos de referência), segue padrão, e entrega material profissional. Pra PME e freelancer, isso é transformação, não update.",
+            "stat": "40 min",
+            "stat_label": "projeto que levaria 8h",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO FUNCIONA",
+            "title": "Agência em 3 passos",
+            "highlight": "3 passos",
+            "body": "1. Tu joga a tarefa (ex: 'faz proposta de projeto de landing page'). 2. ChatGPT Work abre seus apps, puxa referências, separa em subtarefas. 3. Ele executa CADA UMA de forma autônoma—draft, refine, integra, entrega. Tudo rodando enquanto tu dorme. Rollout em Pro, Enterprise, Edu, depois Plus e Business.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM IMPORTA",
+            "title": "Empreendedor: tu é o novo bottleneck",
+            "highlight": "bottleneck",
+            "body": "Se tu é freelancer, agora tu não processa trabalho—tu processa CLIENTES. IA faz a entrega. PME de 5 pessoas vira 50 em throughput. Agência que terceirizava ops agora controla tudo inhouse com um agente. Skill não é mais 'saber fazer'—é 'saber delegar pro agente + verificar qualidade'.",
+            "stat": "10x",
+            "stat_label": "multiplicador de produtividade reportado",
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "O APRENDIZADO",
+            "title": "Agentes matam a escassez de tempo",
+            "highlight": "escassez de tempo",
+            "body": "Até 2025, o constraint era: 'eu tenho só 8h no dia'. Agora o constraint é: 'quantos agentes posso rodar em paralelo'. Quem sair na frente delegando tarefas de baixo valor pra IA vai capturar market share massivo. Empreendedor que ainda faz execução manual está deixando dinheiro na mesa.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TEM MAIS",
+            "title": "Salva post + segue @rafaondei",
+            "highlight": "segue",
+            "body": "Esse radar de mercado de IA sai todo dia 7am com as 10 notícias que importam. Clica no perfil, salva, compartilha com teus mentorados. Agente que não entra em produção até 2026 vai acordar em 2027 fora do jogo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Claude Fable 5 restaurado globalmente—sem export control",
+      "summary": "Anthropic liberou Claude Fable 5 (80.3% SWE-Bench) após governo americano suspender restrições de exportação. Modelo está disponível em Claude.ai, Claude Code, Cowork. Era bloqueado por regulação geopolítica; agora é padrão global.",
+      "source": "Anthropic / Diário do Grande ABC",
+      "link": "https://www.dgabc.com.br/Noticia/4332478/anthropic-anuncia-disponibilidade-global-de-novo-modelo-de-inteligencia-artificial",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Fable 5 volta ao trono—e desta vez é mundo inteiro",
+        "caption": "🔓 A melhor notícia de julho pra desenvolvimento: Claude Fable 5 foi restaurado e tá GLOBALMENTE DISPONÍVEL. O modelo que marcava 80.3% em SWE-Bench (codificação de elite) foi suspenso em junho por export control, mas o governo americano levantou a restrição. Agora tu em qualquer país pode usar o Fable direto no Claude.ai, Claude Code, Cowork—sem parar de esperar por release.\n\n#Claude #Fable5 #Anthropic #SWEBench #Desenvolvimento #IA #Geopolítica #Regulação #Código",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "REGULAÇÃO CAIU",
+            "title": "Fable 5 é globalmente seu",
+            "highlight": "globalmente",
+            "body": "",
+            "stat": "80.3%",
+            "stat_label": "SWE-Bench (elite em código)",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "PERFORMANCE REAL",
+            "title": "Melhor modelo em coding no planeta",
+            "highlight": "Melhor",
+            "body": "Fable 5 bate todos os competitors em SWE-Bench Pro—80.3% contra 69.2% do Opus 4.8, contra 59.1% do GPT-5.4. Não é marketing: é benchmarks independentes. Pra dev, isso significa menos bug, mais produtividade no Cursor, no Claude Code.",
+            "stat": "11.2%",
+            "stat_label": "acima do segundo lugar (Opus)",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "A HISTÓRIA",
+            "title": "Foi bloqueado. Agora voltou.",
+            "highlight": "voltou",
+            "body": "Em junho, Anthropic teve que desligar Fable 5 por export control (geopolítica IA vs China). Governo americano o barrou de usuários fora dos EUA por ~3 semanas. Agora levantaram a restrição. Fable tá em claude.ai, Claude Code, Cowork—anywhere, anyone.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O QUE MUDA",
+            "title": "Dev que precisava Opus agora usa Fable",
+            "highlight": "usa Fable",
+            "body": "Se tu tava usando Opus 4.8 pra debug e coding porque Fable tava barrado, agora troca. Fable é 11% melhor em SWE-Bench (menos racional, mais pragmático pro dia a dia). Cursor vai renderizar Fable na aba de modelo. Devs que apostaram em Fable desde o beta agora veem ROI.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "DISPONÍVEL ONDE",
+            "title": "Claude.ai, Code, Cowork + plataforma",
+            "highlight": "Cowork",
+            "body": "Fable 5 rodou ser bloqueado em três superfícies: web (claude.ai), IDE (Claude Code pra devs), e Cowork (collab tool do Rafael). Plataforma Claude (API) tá escalando gradualmente—talks de capacidade, mas não é mais 'proibido' logisticamente.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM IMPORTA",
+            "title": "Dev squad que quer elite codifica agora",
+            "highlight": "elite codifica",
+            "body": "Agências de dev que rodam Cursor agora escalaram pra Fable. Freelancer que usa Claude Code (embedded no VS Code + GitHub Copilot) agora tem o modelo top-tier em casa. Startups que precisavam Opus+custom training agora pegam Fable pronto. Geopoliticamente, mostra que IA não é monopólio—é negociação.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO DO DIA",
+            "title": "Export control é curta; performance é longa",
+            "highlight": "performance",
+            "body": "Fable foi barrado por geopolítica e voltou por pressão econômica. Moral: não vale enginear coding pra GPT se Fable bate—a restrição era legislação, não qualidade. Próxima lição: devs que NÃO exploram elite model agora tão deixando produtividade na mesa (de novo).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TEM MAIS",
+            "title": "Salva post + segue @rafaondei",
+            "highlight": "segue",
+            "body": "Radar daily de IA: 10 notícias que importam, todo dia 7am. Compartilha com teus devs e mentorados. Quem tá atualizado em modelo novo tem +3 meses de vantagem competitiva.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "GPT-5.6: 3 tiers (Sol/Terra/Luna) + modo Work enterprise",
+      "summary": "OpenAI lançou GPT-5.6 com modelo de pricing escalonado (Sol rápido, Terra balanceado, Luna reasoning). Inclui ChatGPT Work agent para enterprise tarefas multi-passo. GPT-5.4 será retired em 23 julho.",
+      "source": "OpenAI / 9to5Mac",
+      "link": "https://9to5mac.com/2026/07/09/openai-announcing-the-next-chapter-for-chatgpt-today-watch-here/",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "GPT-5.6 + 3 sabores = tu escolhe o seu trade-off",
+        "caption": "🎛️ OpenAI descentralizou GPT-5.6: não é um modelo, é UM MENU. Três tiers—Sol (rápido, barato), Terra (balanceado), Luna (reasoning pesado)—cada um evolui no seu próprio cadence. Plus: ChatGPT Work enterprise (agente) bundled. Dá pra otimizar cost-per-task em produção. Velho GPT-5.4 se aposenta 23 julho—migrate agora.\n\n#GPT56 #OpenAI #Pricing #Reasoning #Enterprise #Modelos #IA #Tier",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "NOVO NAMING SYSTEM",
+            "title": "GPT-5.6 virou um menu de tiers",
+            "highlight": "menu",
+            "body": "",
+            "stat": "3",
+            "stat_label": "modelos (Sol/Terra/Luna)",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "ARQUITETURA NOVA",
+            "title": "Naming: geração.tier em paralelo",
+            "highlight": "paralelo",
+            "body": "Antes: GPT-5.6 = um modelo. Agora: GPT-5.6 = 3 threads em paralelo (Sol, Terra, Luna), cada um evolui independentemente. Sol é 'throughput máximo', Terra é 'custo-benefício', Luna é 'raciocínio pesado'. Não é versão—é produto diferente com mesmo nome.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O MOTIVO",
+            "title": "Mercado pediu opções de custo",
+            "highlight": "custo",
+            "body": "Depois que DeepSeek caiu 75% em preço e Claude ficou 60% mais barato, OpenAI percebeu: clientes não quer só 'melhor'—quer 'certo pra meu caso'. PME usa Sol (Fast, Cheap). Startup de IA usa Terra (Balanced). Enterprise que treina IA usa Luna (Reasoning). Uma arquitetura, 3 UX diferentes.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "GAME-CHANGER",
+            "title": "Tu agora scaleia por custo, não por modelo",
+            "highlight": "custo",
+            "body": "Se tu roda 1B requests/dia, não escolhe 'GPT-5.6 ou não', tu escolhe 'Sol + Terra + Luna em proporção X'. Query simples vai pro Sol (50% mais barato). Query complexa vai pro Luna. Automação genérica vai pro Terra. Isso é como AWS—produto único, preços diferenciados por caso. Operação industrial.",
+            "stat": "50%",
+            "stat_label": "desconto Sol vs Luna em alguns cenários",
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO ESCALEIA",
+            "title": "Roteamento automático ou manual",
+            "highlight": "automático",
+            "body": "OpenAI oferece dois modos: 1. Automático—tu manda a query, API escolhe tier (AI roteador avalia complexidade e custo). 2. Manual—tu flags qual tier usar. Pra agent workflow (ChatGPT Work), a API roteador faz 80% das escolhas—dev só override quando precisa.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM IMPORTA",
+            "title": "Engineering cost down, throughput up",
+            "highlight": "throughput",
+            "body": "Se tu roda PME SaaS, Sol = 30% opex em IA reduzido. Se tu é startup B2B IA, Terra = best of both. Se tu treina custom models, Luna = Reasoning quality sem custom training em-house. Resultado: _mais_ gente usa OpenAI (vs churn pra DeepSeek). Também: GPT-5.4 morre 23 julho—migrate antes.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO",
+            "title": "Pricing-as-architecture agora é padrão",
+            "highlight": "padrão",
+            "body": "Não é mais 'um modelo pra tudo'—é 'stack de modelos com tier de performance'. Anthropic fez com Claude (Haiku/Sonnet/Opus). Meta fez com Llama. Agora OpenAI padronizou a abordagem. Quem quer 'melhor coisa nova' precisa entender trade-off, não saber só usar.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TEM MAIS",
+            "title": "Salva post + segue @rafaondei",
+            "highlight": "segue",
+            "body": "Daily radar de IA: notícias + impacto + o que fazer. Todo dia 7am. Compartilha com time tech. Pricing mudou—estratégia de IA precisa mudar também.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Grok 4.5 Opus-class em produção—75% mais barato",
+      "summary": "xAI lançou Grok 4.5 em 8 de julho com performance Opus-grade (69.2% SWE-Bench) por US$1.25/M tokens (Claude Opus custa ~US$5). Disponível em X, Grok app, e começando no Cursor.",
+      "source": "xAI / YouTube",
+      "link": "https://www.youtube.com/watch?v=ipmcNU10L_k",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Grok 4.5: Opus em performance, DeepSeek em preço",
+        "caption": "⚡ xAI fez o que ninguém esperava: Grok 4.5 é Opus-grade em benchmark (69.2% SWE) mas custa US$1.25/M tokens—75% menos que Claude Opus. Tá em X (chat de IA nativo), app Grok, e começando a pintar no Cursor. Se tu roda milhões de tokens/mês, essa é notícia de MILHÕES em economia.\n\n#Grok #xAI #Pricing #Claude #IA #Benchmark #SWEBench",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "DISRUPTOR DO MÊS",
+            "title": "Opus performance, DeepSeek pricing",
+            "highlight": "pricing",
+            "body": "",
+            "stat": "75%",
+            "stat_label": "mais barato que Claude",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "BENCHMARK REAL",
+            "title": "69.2% SWE-Bench (Opus é 69.2% também)",
+            "highlight": "69.2%",
+            "body": "Grok 4.5 bate Claude Opus 4.8 em performance bruta (mesmos 69.2% SWE-Bench). Não é 'quase igual'—é numericamente idêntico em coding. Mas a LATÊNCIA é menor (xAI otimizou pra X). E preço? Crushing: US$1.25/1M vs US$5 Claude.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "A HISTÓRIA",
+            "title": "xAI acelerou release schedule",
+            "highlight": "acelerou",
+            "body": "Grok saiu 8 de julho (meio de semana). xAI tá virando release-driven (vs roadmap-driven). Elon quer capturar user base AGORA enquanto OpenAI tá focado em enterprise. Resultado: Grok no Cursor (agora compete com Claude inline), Grok em X (117M MAU), Grok mobile.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O QUE MUDA",
+            "title": "Pricing não é mais constraint em IA",
+            "highlight": "constraint",
+            "body": "Se tu usa Opus porque é melhor, agora migra pra Grok (mesmo score, 75% economia). Se tu usa Claude porque é mais seguro, agora tens que EXPLICAR why (compliance? Safety?), porque performance/preço Grok ganhou. Isso força Claude a competir em dimensão que não é preço—trust, reliability, governance.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "ONDE RODA",
+            "title": "X, app Grok, começando Cursor",
+            "highlight": "Cursor",
+            "body": "1. X.com (grok.com)—chat nativo tipo ChatGPT, 117M potencial. 2. Grok app mobile—standalone (paga por tokens). 3. Cursor—começando a renderizar Grok como opção de modelo. Antes: só empresa devia usar Grok. Agora: dev individual também.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "NEGÓCIO REAL",
+            "title": "Quem roda 10B tokens/mês economiza US$37.5k",
+            "highlight": "US$37.5k",
+            "body": "Baseline: 10B tokens Claude Opus = US$50k/mês. Grok 4.5 = US$12.5k. Diferença = US$37.5k/mês que tu aloca pra quer lá. Agora multiplica: agency com 5 clientes rodando 50B tokens? Tá economizando US$187k/mês. _Aquilo é remuneração de 2 devs._",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "APRENDIZADO",
+            "title": "Performance-to-price está colapsando",
+            "highlight": "colapsando",
+            "body": "De 2022 a 2025: melhor = mais caro. Agora (2026): melhor = mesmo preço de ruim (ou mais barato). Isso significa: diferencial é segurança, compliance, vendor lock-in, não performance. Empreendedor que escolhe modelo por SWE-Bench tá fazendo optimização errada—deveria escolher por custo+reliability.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TEM MAIS",
+            "title": "Salva post + segue @rafaondei",
+            "highlight": "segue",
+            "body": "Radar daily de IA: 10 notícias que viram dinheiro (ou economizam). Todo dia 7am. Passa pro teu CFO—pricing mudança é CFO conversation, não tech conversation.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Meta Llama 4: Scout/Maverick/Behemoth open-source multimodal",
+      "summary": "Meta lançou Llama 4 family (Scout 17B, Maverick 405B, Behemoth supera GPT-4o) como open-weight multimodal nativo com 10M token context. Disponível via Apache 2.0, compete direto com GPT-5 proprietários.",
+      "source": "Meta AI / TugaTech",
+      "link": "https://tugatech.com.pt/t65513-meta-apresenta-llama-4-2-modelos-ia-ja-disponiveis-e-mais-2-a-caminho",
+      "category": "modelo",
+      "recommended": false,
+      "carousel": {
+        "theme": "Llama 4 open-source vai fazer proprietary models sentirem calafrio",
+        "caption": "🦙 Meta soltou Llama 4—não é chat pra concorrer com GPT. É ARQUITETURA ABERTA que bate modelo proprietário em benchmark. Scout (17B eficiente), Maverick (405B elite), Behemoth (supera GPT-4o). Multimodal nativo. 10M contexto. Apache 2.0—tu lowfies no teu server, treina com seus dados. OpenAI + Anthropic tão vendendo model-as-service; Meta tá vendendo o trator.\n\n#Llama4 #Meta #OpenSource #IA #Multimodal #Apache #Código",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "ARQUITETURA ABERTA",
+            "title": "Llama 4: bate proprietário, tu roda",
+            "highlight": "tu roda",
+            "body": "",
+            "stat": "3",
+            "stat_label": "versões (Scout/Maverick/Behemoth)",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "PERFORMANCE REAL",
+            "title": "Behemoth supera GPT-4o em várias tarefas",
+            "highlight": "supera GPT-4o",
+            "body": "Meta testou: Llama 4 Behemoth bate GPT-4o em 7 de 10 categorias de benchmark. Não é margem—é vitória. GPT-4o custa por token. Behemoth? Apache 2.0: tu downloada, roda inhouse, treina com teus dados, zero royalty.",
+            "stat": "7/10",
+            "stat_label": "categorias vs GPT-4o",
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "A FAMÍLIA LLAMA",
+            "title": "Scout/Maverick/Behemoth = 3 jobs",
+            "highlight": "3 jobs",
+            "body": "Scout (17B, 10M tokens): embedding, retrieval, edge deployment. Maverick (405B MoE, 10M tokens): general purpose, reasoning, production inference. Behemoth: _not yet spec'd_—teasee é 'supera GPT-4o em benchmarks'. Meta tá escalando por CASO DE USO, não por 'versão melhor'.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O QUE MUDA",
+            "title": "Proprietary model é now optional, não padrão",
+            "highlight": "optional",
+            "body": "Antes: 'Usa GPT ou Claude ou Gemini ou perde'. Agora: 'Roda Llama inhouse e treina com seu IP'. Empresa Fortune 500 que usa GPT via API tá vazando todo embedding + prompt pra OpenAI. Empresa que roda Llama 4 Behemoth em sua VPC = Zero vendor lock-in. Proprietary IA é agora _liability_, não asset.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO USAR",
+            "title": "Download (8GB Scout, 150GB Maverick), roda local",
+            "highlight": "local",
+            "body": "Meta hosteia Llama 4 em Hugging Face + GitHub. Tu baixa (QLoRA quantized, LoRA finetuned, ou peso completo). Roda em qualquer máquina decent (Scout em Mac M3; Maverick em H100 farm). Integra no app como modelo local (sem API call, sem latência, sem vendor).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRA QUEM IMPORTA",
+            "title": "Enterprise agora escolhe inhouse vs cloud",
+            "highlight": "inhouse",
+            "body": "Startup que colocava tudo em GPT API agora roda Maverick na própria infra—zero billing surprise, zero IP leak, zero regulação de OpenAI. Banco que precisava de modelo próprio agora finetuning Llama (legal, compliant, ownable). Agência que vendia 'custom GPT' agora vende 'custom Llama' (margin +500%).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO",
+            "title": "Open-source virou competitive advantage",
+            "highlight": "competitive advantage",
+            "body": "Não é 'open-source vs proprietary'. É 'open-source proprietary é agora same quality'. Meta basicament said: 'se OpenAI quer vender modelo, compete em quality, não em vendor lock-in'. Resultado: enterprise migra pra open source (custo), indie devs ficam com Grok/Claude (convenience).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TEM MAIS",
+            "title": "Salva post + segue @rafaondei",
+            "highlight": "segue",
+            "body": "Radar daily: notícias que impactam arquitetura, não só produto. Todo dia 7am. Passa pro teu CTO—infra strategy mudou com Llama 4.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Perplexity Computer Enterprise: $325/seat + 400 integrações",
+      "summary": "Perplexity lançou Computer para enterprise em Ask 2026 (fev). $325/mês/seat; Slack/Teams integration, Snowflake/Salesforce/GitHub/Datadog connectors, 400+ apps, multi-model orchestrator (19 LLMs). Vai direto em cima de Copilot Microsoft.",
+      "source": "VentureBeat / Ability.ai",
+      "link": "https://venturebeat.com/ai/perplexity-takes-its-computer-ai-agent-into-the-enterprise-taking-aim-at",
+      "category": "aplicação",
+      "recommended": false,
+      "carousel": {
+        "theme": "Agente que trabalha DENTRO dos teus apps (sem sair)",
+        "caption": "🧠 Perplexity Computer Enterprise = agente IA que vive DENTRO do teu Slack/Teams/Salesforce/Snowflake. $325/seat/mês. 19 modelos orquestrados (não é só 1 LLM). 400+ app connectors. Slack integration tão nativa que tu chama @computer no canal e ele tira dados de Salesforce + Google Sheets + Datadog e entrega resposta em 10s. Microsoft Copilot tá tremendo (Copilot custa similar, mas é genérico).\n\n#PerplexityComputer #Enterprise #Agent #Slack #Salesforce #IA #B2B",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "ENTERPRISE PLAY",
+            "title": "Agente dentro dos teus tools",
+            "highlight": "dentro",
+            "body": "",
+            "stat": "400+",
+            "stat_label": "apps conectados",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "ARQUITETURA",
+            "title": "19 LLMs orquestrados em background",
+            "highlight": "19 LLMs",
+            "body": "Não é 'Perplexity roda uma IA'. Computer Enterprise roteia automático: query simples → Claude Mini. Query reasoning → Opus. Análise de dados → DeepSeek. Pergunta sobre compliance → Claude Safety. Uma entrada; 19 modelos em paralelo; melhor resposta ganha.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O CONTEXTO",
+            "title": "Slack/Teams: agente native ali",
+            "highlight": "native",
+            "body": "Tu tipo '@computer: qual é status do projeto X?' em canal Slack. Computer acessa Salesforce (projeto), GitHub (PR), Jira (tickets), Datadog (perf), Google Sheets (budget). Coleta, sintetiza, responde em 10s. Sem sair do Slack. Sem copypasta. É orquestração oculta—parece magic pra end-user.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "DISRUPÇÃO",
+            "title": "Enterprise não mais precisa de infotech",
+            "highlight": "infotech",
+            "body": "Antes: 'Como acho info em 7 sistemas?' → IT ticket → 3 dias. Agora: '@computer: síntese de vendas Q2' → 30s answer. Equipe não depende de BI/Analytics/infra—pergunta e recebe. Isso é DEMISSÃO de função (BI analyst, data analyst lite, infotech proxy). Perplexity tá automatizando info-work layer.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "SEGURANÇA",
+            "title": "Credenciais scoped + audit log completo",
+            "highlight": "audit log",
+            "body": "Não usa token admin (burst security). Usa 1Password integration—credencial temporária, scoped por permissão. Computer acessa só o que deveria. Audit log completo: 'Computer acessou Salesforce às 14h32, leu contrato de cliente X, retornou resposta Y'. Compliance + governance embutidos.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "NEGÓCIO",
+            "title": "PME agora tem 'analista 24/7' por $325/mês",
+            "highlight": "$325/mês",
+            "body": "Antes: contrata analista $150k/ano (pq precisa de pessoa sempre disponível). Agora: $325/mês pra 1 pessoa usar Computer (ou mais seats). Equipe de 50 = $162.5k/ano (vs $750k+ em 5 analistas). Payback: literal 1 mês de salary de um analyst em savings.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO",
+            "title": "Agente lockedin tá melhor que agente genérico",
+            "highlight": "melhor",
+            "body": "ChatGPT Work é genérico (qualquer tarefa). Computer é específico (integrado em teu stack). Genérico ganha em versatilidade. Específico ganha em velocity + context. Perplexity apostou em específico—se funciona, é $500M/ano só em Enterprise (100k seats × $325 × 12).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TEM MAIS",
+            "title": "Salva post + segue @rafaondei",
+            "highlight": "segue",
+            "body": "Radar daily: notícias que viram cost center cuts (ou revenue). Todo dia 7am. Passa pro CFO/COO—esse product é CFO decision, não tech decision.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Cursor agentes em background: 1M DAU, 29.3B valuation",
+      "summary": "Cursor é agora 1M DAU (diário) com agentes rodando em background (Vercel Sandbox). Bugbot revisa PR automaticamente. Model Context Protocol servers conectam editor direto na infra real. Valuation $29.3B (comparável a Stripe em 2015).",
+      "source": "Petronella Cybersecurity / Cursor AI",
+      "link": "https://petronellatech.com/blog/cursor-ai-ide-setup-guide",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Cursor é agora IDE agentic—não mais só assistente",
+        "caption": "⚙️ Cursor não é 'Copilot com IA melhor'. É IDE que RODA AGENTES EM BACKGROUND. 1M usuarios diários. Bugbot revisa teu PR enquanto tu codifica. Background agents (em Vercel Sandbox isolada) rodam testes, lintagem, refactoring paralelo. 29.3B valuation—Stripe era $10B em 2015, Cursor é $29.3B em 2026 (menor market, mais velocity). Dev produção veio pro trator.\n\n#Cursor #IDE #Agentes #Development #IA #Produtividade #Código",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "1M USERS DAILY",
+            "title": "IDE que roda agentes por ti",
+            "highlight": "agentes",
+            "body": "",
+            "stat": "1M",
+            "stat_label": "daily active users",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "VALUATION REAL",
+            "title": "$29.3B—maior que Stripe 2015",
+            "highlight": "$29.3B",
+            "body": "Stripe valia $10B em 2015, era 'mais rápido processar pagamento'. Cursor valia $29.3B em 2026, é 'mais rápido fazer software'. Mercado está dizendo: velocidade em coding = 3x mais valiosa que velocidade em pagamento. Não é hype—é mercado votando com dinheiro.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "O QUE MUDOU",
+            "title": "De 'assistente' pra 'executor'",
+            "highlight": "executor",
+            "body": "VS Code + Copilot = 'IA sugere linha de código'. Cursor = 'IA roda em background, executa teste, refactor teu código, commita se passar, ou pede review'. Não é suggestion—é AÇÃO AUTÔNOMA. Bugbot (Cursor agent) já salvou +2M horas de manual PR review (Meta, Stripe, OpenAI testaram).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "DISRUPÇÃO",
+            "title": "Dev agora é supervisor de agentes",
+            "highlight": "supervisor",
+            "body": "Workflow antigo: 1. Tu escreve feature. 2. Tu roda teste local. 3. Tu faz PR. 4. Colega revisa. Novo: 1. Tu escreve feature. 2. Cursor roda teste, refactor, lint, type-check em paralelo. 3. Bugbot revisa PR (acha bugs) automaticamente. 4. Tu aprova ou refuta. Dev é now QA-supervisor, não QA-executor.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "INFRAESTRUTURA",
+            "title": "Background Agents em Vercel Sandbox (isolado)",
+            "highlight": "isolado",
+            "body": "Cursor roda agentes em sandbox Vercel (não na tua máquina). 1. Tu escreve code. 2. Cursor detecta mudança. 3. Spawn agente em background sandbox. 4. Agente instancia Docker, roda testes, faz benchmark. 5. Resultados voltam em ~30s. Tu continua codando. É paralelo, é isolado, é seguro.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "PRODUTIVIDADE",
+            "title": "Dev 3x mais rápido vs codigo manual",
+            "highlight": "3x",
+            "body": "Baseline: dev manual (code + local test + PR review = 40min/feature). Cursor: dev supervisa agentes (code + bg agent tests + Bugbot review = ~15min/feature). Multiplica por 300 features/ano = 7,500 horas anuais economizadas por dev. Em dinheiro: dev $150k/ano tá rendendo $300k.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO",
+            "title": "Coding é agora 20% escrita, 80% supervisão",
+            "highlight": "supervisão",
+            "body": "2024: 'Pode automatizar 10% do coding (autocomplete)'. 2026: 'Pode automatizar 80% (testes, refactor, review)'. 2027: Tu vai supervisar 10 agentes em paralelo, cada um resolvendo issue diferente. Skill não é mais 'código'—é 'delegar bem e validar rápido'.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TEM MAIS",
+            "title": "Salva post + segue @rafaondei",
+            "highlight": "segue",
+            "body": "Radar daily: notícias que transformam workflow. Todo dia 7am. Passa pro teu CTO e dev squad—tooling mudou.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Claude Science: workbench com 60+ databases científicas",
+      "summary": "Anthropic lançou Claude Science (beta, macOS/Linux) — workbench unificado para pesquisa. 60+ database integrations (PubMed, Protein Data Bank, ChEMBL, ClinicalTrials). $30k créditos pra 50 projetos de IA para Ciência (apply até 15 jul, run set-dec).",
+      "source": "Anthropic / Enterprise DNA",
+      "link": "https://www.anthropic.com/news/claude-science-ai-workbench",
+      "category": "aplicação",
+      "recommended": false,
+      "carousel": {
+        "theme": "Pesquisa científica virou 10x mais rápida (e reproduzível)",
+        "caption": "🔬 Claude Science é um IDE pra pesquisa: unifica database (PubMed, Protein Bank, ChEMBL, ClinicalTrials), editor de código, HPC compute—tudo em uma janela. Agente roda pipeline inteira (literatura → proteína → drug target → candidato → report). Resultado: 6 meses de pesquisa vira 2 semanas. Beta open; $30k créditos pra 50 projetos (apply até 15 julho). Biotech vai virar tech stack problem, não bench problem.\n\n#ClaudeScience #Biotech #Pesquisa #IA #Reproduzibilidade",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "CIÊNCIA ACELERADA",
+            "title": "Pipeline inteiro em uma interface",
+            "highlight": "inteiro",
+            "body": "",
+            "stat": "60+",
+            "stat_label": "databases integrados",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "DATABASES",
+            "title": "PubMed + Protein Data Bank + ChEMBL + ClinicalTrials",
+            "highlight": "ChEMBL",
+            "body": "Não é busca genérica. Claude Science conecta DIRETO em: PubMed (2M papers/ano), Protein Data Bank (proteínas), ChEMBL (millions of molecules), ClinicalTrials.gov (human data), UniProt, EMBL, etc. Agente não navega browser—busca via API direto da source.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "ANTES vs AGORA",
+            "title": "Pesquisador gasta 80% do tempo em busca. Agora?",
+            "highlight": "Agora",
+            "body": "Antes: 'Qual é a estrutura de proteína em ChEMBL pra target X?' → Abrir ChEMBL (login/VPN), filtro Y, dowload CSV, abrir Excel, plot, loop. 3+ horas. Agora: Tipo em Claude Science 'estrutura de X' → Busca ChEMBL API, retorna proteína, renderiza 3D, recomenda paper relacionado, mostra candidato drug. 10 minutos.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "REPRODUZIBILIDADE",
+            "title": "Agente registra CADA PASSO automaticamente",
+            "highlight": "CADA PASSO",
+            "body": "Science crisis: resultados não são reproduzíveis (pesquisa manual = muita suposição). Claude Science agent executa pipeline, registra: query literal, fonte, parâmetro, timestamp, resultado, link. Tudo é auditável. Você não precisa confiar em 'eu fiz assim'—o log prova como foi feito.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "WORKFLOW",
+            "title": "Pesquisador definde objetivo; agente executa",
+            "highlight": "executa",
+            "body": "1. Pesquisador: 'Acha candidatos drug pra Alzheimer target APOE4'. 2. Claude Science: Busca PubMed (papers), ChEMBL (molecules), ClinicalTrials (trial data). 3. Analisa padrão. 4. Propõe candidatos com score. 5. Gera relatório de cada um (potência, toxicidade, IP landscape). 6. Cita fonte. Fim da tarefa: 20 minutos.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "BIOTECH AGORA",
+            "title": "Pesquisa é 10x mais rápida + data-driven",
+            "highlight": "10x",
+            "body": "Biotech tá frenado por 'discovery bottleneck'—pesquisador manual é constraint. Claude Science _removes_ constraint. Resultado: startup de 5 pessoas faz o job de 50. Pharma que treina squad em Claude Science ganha 6 meses vs competitor (market timing = 100M+).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO",
+            "title": "Ciência deixou de ser humano; virou tech",
+            "highlight": "tech",
+            "body": "'Pesquisa é só talento' é mito de 2020. Agora é infraestrutura: quem tem better tools roda 10x mais hipóteses, descobre padrão antes do competitor. Cientista agora é arquiteto de pipeline, não executor de bench. Isso é _profound_—ciência não é mais limited by brain, é limited by infra.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "APPLY AGORA",
+            "title": "$30k créditos (apply até 15 julho)",
+            "highlight": "15 julho",
+            "body": "Anthropic tá dando US$30k em créditos pra 50 projetos 'IA pra Science' (aplicações abertas até 15 julho; run setembro-dezembro). Se tu tá em biotech/genomics/drug-discovery, apply. Não é grant—é trial with credits. Pensa em tu como beta tester que ganha US$30k de compute pra ajudar Anthropic.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Vercel SDK 7: Eve framework + 25+ modelo providers",
+      "summary": "Vercel lançou Eve—open-source framework descrito como 'Next.js pra agentes'. AI SDK 7 suporta 25+ providers (OpenAI, Anthropic, Google, Mistral, xAI, DeepSeek, etc). Vercel Connect debut (OAuth scoped tokens sem credencial permanente).",
+      "source": "Vercel / dplooy",
+      "link": "https://www.dplooy.com/blog/vercel-ai-sdk-agents-complete-2026-implementation-guide",
+      "category": "ferramenta",
+      "recommended": false,
+      "carousel": {
+        "theme": "Agente é agora um diretório, não uma API call",
+        "caption": "🎯 Vercel Eve = infraestrutura pra agentes como Next.js é pra frontend. Você define um agent em diretório (tools.ts, persistent.db, integrations), Eve cuidar de orquestração, isolation, human-in-the-loop. AI SDK 7: 25+ providers (qualquer LLM). Vercel Connect: credenciais OAuth scoped (sem token admin vazando). Game-changer pra startup: agora pode deploy agente production-grade em 20 linhas de código.\n\n#Vercel #Eve #AgentFramework #AISDL #Deployment #IA",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "FRAMEWORK ABERTO",
+            "title": "Agente é um diretório, não uma API",
+            "highlight": "diretório",
+            "body": "",
+            "stat": "25+",
+            "stat_label": "LLM providers support",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "ARQUITETURA",
+            "title": "Eve = 'Next.js pra agentes'",
+            "highlight": "Next.js",
+            "body": "Next.js mudou frontend (todo dev sabe estrutura). Eve quer fazer o mesmo pra agentes. Estrutura: /agent/tools (defina quem tem acesso a quê), /agent/persistent (DB pra state), /agent/integrations (Slack, GitHub, etc). Deploy: `vercel deploy`. Agente roda como first-class citizen em Vercel edge.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "PROBLEMA QUE SOLVE",
+            "title": "Agora: cada startup refaz agent infra",
+            "highlight": "refaz",
+            "body": "Em 2025, cada startup escrevia seu próprio agent runner (orchestration, sandboxing, integration, human approval). Código similar, mas nenhum reutilizável. Eve tira isso: 'aqui tá structured, reutilizável, convention-over-config'. Resultado: 10 linhas de código vs 2k linhas custom.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "IMPACTO",
+            "title": "Startup agora coda agente em dias, não meses",
+            "highlight": "dias",
+            "body": "2025: Agent infra = 3-5 devs, 2 meses. 2026 (com Eve): Agent MVP = 1 dev, 5 dias. Porque: scaffolding, conventions, sandboxing, integrations _pronto_. Startup não mais refaz roda. Resultado: 100x mais agent apps no mercado (competition increases, but market size grows 200x).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO USA",
+            "title": "Defina tools, integre Slack/GitHub, deploy",
+            "highlight": "deploy",
+            "body": "Eve app: Define / Agente pode fazer (tools.ts: acessar Jira? Salesforce? Slack?). 2. Integra triggers (Slack command? GitHub mention? Webhook?). 3. Define human-in-the-loop (auto-approve se score > 95%? ou sempre ask?). 4. Deploy (`vercel deploy`). Pronto. Agente roda 24/7.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "MERCADO",
+            "title": "PME + indie dev agora podem deploy agent production",
+            "highlight": "production",
+            "body": "Antes: Only big company (big VC, big eng team) conseguia agent em prod. Agora: 1 dev em startup pode scaffold Eve agent + hook em Slack + go live em week 1. Democratização de infra = 1000x mais agents shipped.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO",
+            "title": "Infra se torna commodity; valor move pra product",
+            "highlight": "commodity",
+            "body": "2025: valor em 'como buildar agent' (framework war). 2026: valor em 'qual problema agente resolve' (application war). Eve + AI SDK 7 = framework war resolvida. Agora competição é: melhor agent app, não melhor agent runtime.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TEM MAIS",
+            "title": "Salva post + segue @rafaondei",
+            "highlight": "segue",
+            "body": "Radar daily de IA: notícias que viram código (e infra). Todo dia 7am. Passa pro teu tech lead—arquitetura pode simplificar com Eve.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "DeepSeek pricing -75% PERMANENTE: V4-Flash e V4-Pro",
+      "summary": "DeepSeek mantém desconto de 75% permanentemente desde 22 maio 2026. V4-Flash: $0.14/1M input (cache miss), $0.28/1M output. V4-Pro: $0.435/$0.87. Tornou frontier-grade commodity pricing.",
+      "source": "Codersera / NxCode",
+      "link": "https://codersera.com/blog/deepseek-v4-pro-permanent-price-cut-may-2026/",
+      "category": "benchmark",
+      "recommended": false,
+      "carousel": {
+        "theme": "Frontier-grade IA agora custa preço de commodity",
+        "caption": "💰 DeepSeek manteve desconto permanente: $0.14/1M tokens input. Pra contexto: Claude Opus custa $5/1M. DeepSeek V4-Pro = Opus-competitive (90% AIME, 69% SWE-Bench), mas 35x mais barato. Não é prompt engineering—é pure margin arbitrage. Startup que usa DeepSeek em lugar de Claude economiza US$40k/mês em 1B tokens.",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "PRICING COLLAPSE",
+            "title": "Frontier em preço de commodity",
+            "highlight": "commodity",
+            "body": "",
+            "stat": "35x",
+            "stat_label": "mais barato que Opus",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "NÚMEROS REAIS",
+            "title": "$0.14 vs $5 por 1M tokens",
+            "highlight": "$0.14",
+            "body": "Claude Opus: $5/1M input, $15/1M output. DeepSeek V4-Pro: $0.435/1M input, $0.87/1M output. Diferença: 11x input, 17x output. Ou seja: querido 1B tokens Opus = $5,000. Mesmo 1B DeepSeek = $145. Diferença acumulada anual em 100B tokens: $500k vs $15k. Economia: $485k/ano.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "HISTÓRIA",
+            "title": "Desconto começou; market ditou permanência",
+            "highlight": "permanência",
+            "body": "22 maio: DeepSeek anunciou desconto temporário de 75% (pra ganhar market share). Maio-julho: Milhões de tokens gastos por early adopters. Julho: DeepSeek disse 'desconto é permanente' (pq revogá-lo mataria seu user base). Simples: 10M users diários × pricing cut = network effect lock-in.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "O QUE MUDA",
+            "title": "Pricing não é mais competição de performance",
+            "highlight": "performance",
+            "body": "De 2023-2025: Melhor = Mais caro (Claude, OpenAI, Gemini). 2026: Frontier-grade = DeepSeek (terço do preço). Claude/OpenAI não podem competir em preço (margin), então competem em TRUST/COMPLIANCE/SAFETY. Resultado: market bifurca—price-sensitive usa DeepSeek, risk-averse usa Claude.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "COMO CABE",
+            "title": "Modelo = open-weight (margem 0), volume = royalty",
+            "highlight": "volume",
+            "body": "DeepSeek open-weight model = sem royalty. Infrastructure cost (GPU/compute) = $3/1M tokens. Charge $0.14? Que lucro? Resposta: volume. 100M tokens/dia × 30 dias = 3B tokens/mês × margens thin = US$400k/mês. Scale 10x = US$4M/mês. Não é sustainable sozinho—é venture bet (Alibaba backing = infinite capital).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "NEGÓCIO",
+            "title": "Startup que usa DeepSeek não usa ninguém mais",
+            "highlight": "ninguém",
+            "body": "Economics: startup IA = 60% infrastructure cost (IA API). Usa Opus: 60% IA = $50k/mês (em 1B tokens). Usa DeepSeek: 60% IA = $1.5k/mês. Diferença = $48.5k/mês pra product/sales/hiring. Vira trivial usar DeepSeek. Resultado: market share flip (Claude loses indie devs, startups to DeepSeek).",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO",
+            "title": "Pricing é now geopolitical warfare, não economics",
+            "highlight": "geopolitical",
+            "body": "OpenAI/Anthropic não podem baixar preço (publicly traded / VC expecting margins). DeepSeek = backed by Alibaba (China, national strategy). DeepSeek prices at loss (geopolitical goal: win Western market). Market goes to lowest price (unless risk/compliance trumps). Isso é de novo tech monopoly—only if deep pockets can sustain low-margin race.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TEM MAIS",
+            "title": "Salva post + segue @rafaondei",
+            "highlight": "segue",
+            "body": "Radar daily: notícias que viram dinheiro (economizado ou gasto). Todo dia 7am. Se teu negócio roda IA em produção, esse post é CFO-level: pricing shift = margin shift.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    },
+    {
+      "title": "Agentes em produção: 79% adoption enterprise, 45.8% CAGR",
+      "summary": "Enterprise adoption de agentes IA: 79% das Fortune 500 têm pilot/production agent. 31% de receita nova vem de agent-driven automação. CAGR 45.8% (2023-2026). Agentes viraram core operation, não experimento.",
+      "source": "Building Fast with AI / Gartner",
+      "link": "https://www.buildfastwithai.com/blogs/ai-news-today-july-14-2026",
+      "category": "mercado",
+      "recommended": false,
+      "carousel": {
+        "theme": "Agentes deixaram de ser 'talvez' pra 'core business'",
+        "caption": "📈 Agentes em enterprise não é mais experimento—é rotina operacional. 79% Fortune 500 tem agente em produção (não é pilot, é customer-facing). 31% de nova receita vem de agent automação (não de novo produto, de 10x eficiência). CAGR 45.8% significa: agente que valia US$1M em 2023 vale US$10M em 2026. Inflection point passou. Agora é quem NOT faz agente que fica pra trás.\n\n#Agentes #Enterprise #Automação #IA #ROI #MarketCapture",
+        "slides": [
+          {
+            "n": 1,
+            "kind": "capa",
+            "eyebrow": "INFLECTION POINT",
+            "title": "Agentes são agora core, não nice-to-have",
+            "highlight": "core",
+            "body": "",
+            "stat": "79%",
+            "stat_label": "Fortune 500 em produção",
+            "featured": false
+          },
+          {
+            "n": 2,
+            "kind": "dado",
+            "eyebrow": "REVENUE IMPACT",
+            "title": "31% de nova receita vem de agent automação",
+            "highlight": "31%",
+            "body": "Baseline: Fortune 500 revenue cresce ~10% ao ano (historic). Agora: 10% baseline + 31% extra vem de agent-driven eficiência (ex: customer service automation = 50% custo reduzido = margin expansion). Não é novo produto—é cost leverage em operações existentes.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 3,
+            "kind": "contexto",
+            "eyebrow": "ADOÇÃO TIMELINE",
+            "title": "2023: 10% trial. 2026: 79% produção.",
+            "highlight": "79%",
+            "body": "2023: Agentes era proof-of-concept. 2024: Teams começavam pilots. 2025: 50% tinha algum agent em produção (baixa escala). 2026: 79% em scale. CAGR 45.8% = dobra a cada 18 meses. Adoção que levou 10 anos pra SaaS (Salesforce) ou 5 anos pra Cloud (AWS) levou 3 anos pra Agentes.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 4,
+            "kind": "virada",
+            "eyebrow": "INFLECTION REAL",
+            "title": "Agentes passaram de 'experimento' pra 'essential'",
+            "highlight": "essential",
+            "body": "2025: CTO perguntava 'podemos fazer agente?'. 2026: CEO pergunta 'por que NÃO tem agente?'. Flipped. Agora é default assumption que você roda 20+ agentes (customer support, order processing, HR, finance). Não ter agente é liability—competidor tem 10x throughput.",
+            "stat": null,
+            "stat_label": null,
+            "featured": true
+          },
+          {
+            "n": 5,
+            "kind": "mecanismo",
+            "eyebrow": "OPERAÇÕES",
+            "title": "Customer service, order ops, HR, finance automada",
+            "highlight": "automada",
+            "body": "Customer support: Agent responde 80% (humans handle 20% edge). Order ops: Agent rotas entrega, gerencia inventory, faz customer comms. HR: Agent onboarding, benefits info, compliance. Finance: Agent reconcilia, forecasts, fraud detection. Cada função tem 2-5 agents em paralelo.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 6,
+            "kind": "impacto",
+            "eyebrow": "LABOR MARKET",
+            "title": "30% das operações junior roles viram obsoleto",
+            "highlight": "obsoleto",
+            "body": "Data entry, low-touch customer service, scheduling, basic compliance = 30% de entry-level hiring. Agentes automatizaram isso. Resultado: Company faz 2x output com 50% staff (não demissão, é attrition). Mercado de trabalho: junior roles desaparecem; senior/strategic roles boom.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 7,
+            "kind": "insight",
+            "eyebrow": "LIÇÃO",
+            "title": "Quem NÃO faz agente já perdeu market share",
+            "highlight": "perdeu",
+            "body": "Fortune 500 que ainda tá em 'pilot' vai acordar descobrindo startup 10x seu tamanho capturou market (porque tá 10x mais eficiente). Agentes não é 'future of work'—é 'present of work'. Quem espera perde.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          },
+          {
+            "n": 8,
+            "kind": "cta",
+            "eyebrow": "TEM MAIS",
+            "title": "Salva post + segue @rafaondei",
+            "highlight": "segue",
+            "body": "Radar daily: notícias que mudam mercado. Todo dia 7am. Passa pro CEO/COO—estratégia de agentes é agora board-level conversation.",
+            "stat": null,
+            "stat_label": null,
+            "featured": false
+          }
+        ]
+      }
+    }
+  ],
+  "whatsapp": "📡 RADAR IA — 22 JULHO 2026 — TOP 10 NOTÍCIAS\n\n1️⃣ ChatGPT Work: Agente autônomo executa tarefas por HORAS (entrega planilhas/slides/docs prontos). Powered by GPT-5.6. Rolling out pro/enterprise/edu. https://thenextweb.com/news/openai-chatgpt-work-agent-launch\n\n2️⃣ Claude Fable 5 restaurado globalmente (80.3% SWE-Bench). Governo americano levantou export control. Disponível Claude.ai/Code/Cowork. https://www.dgabc.com.br/Noticia/4332478\n\n3️⃣ GPT-5.6 3 tiers (Sol/Terra/Luna) — cada tier evolui independente. Roteamento automático por complexidade. GPT-5.4 morre 23 julho. https://9to5mac.com/2026/07/09/openai-announcing-the-next-chapter-for-chatgpt-today-watch-here/\n\n4️⃣ Grok 4.5 Opus-class (69.2% SWE-Bench) = US$1.25/M tokens. 75% mais barato que Claude. Tá em X, Grok app, Cursor. https://www.youtube.com/watch?v=ipmcNU10L_k\n\n5️⃣ Meta Llama 4 open-source (Scout 17B, Maverick 405B, Behemoth). Bate GPT-4o (7/10 categorias). Apache 2.0 — tu roda inhouse. https://tugatech.com.pt/t65513\n\n6️⃣ Perplexity Computer Enterprise $325/seat/mês. 400+ integrações (Slack/Salesforce/Snowflake), 19 LLMs orquestrados, audit log completo. https://venturebeat.com/ai/perplexity-takes-its-computer-ai-agent-into-the-enterprise\n\n7️⃣ Cursor: 1M DAU, $29.3B valuation. Agentes rodam em background (Vercel Sandbox). Bugbot revisa PR automaticamente. MCP integrado. https://petronellatech.com/blog/cursor-ai-ide-setup-guide\n\n8️⃣ Claude Science: Workbench com 60+ databases (PubMed/Protein Bank/ChEMBL). $30k créditos p/ 50 projetos (apply até 15 jul). https://www.anthropic.com/news/claude-science-ai-workbench\n\n9️⃣ Vercel Eve: Framework 'Next.js pra agentes'. AI SDK 7 suporta 25+ providers. Vercel Connect (OAuth scoped tokens). https://www.dplooy.com/blog/vercel-ai-sdk-agents\n\n🔟 DeepSeek pricing -75% permanente. V4-Flash $0.14/1M, V4-Pro $0.435/1M. Frontier-grade commodity. 35x mais barato que Opus. https://codersera.com/blog/deepseek-v4-pro-permanent-price-cut-may-2026/\n\n📊 BONUS: Agentes em enterprise = 79% adoption, 31% de nova receita, CAGR 45.8%. Core business agora, não experimento.\n\n→ Dashboard completo: https://rafaelondei.appnaia.com\n→ Segue @rafaondei pra radar diário (7am).",
+  "instagram": "🚀 RADAR IA — 22 DE JULHO — TOP 10 NOTÍCIAS QUE VIRAM NEGÓCIO\n\n⚡ ChatGPT Work é o agente que executa tarefas SOZINHO por horas — entrega planilhas, slides, docs prontos. Tá em prod agora.\n\n🔓 Claude Fable 5 voltou (80.3% SWE-Bench). Export control caiu. Tá em Claude.ai / Claude Code / Cowork.\n\n🎛️ GPT-5.6 é um MENU (Sol/Terra/Luna)—tu escolhe tier por caso de uso. Roteamento automático por complexidade.\n\n⚡ Grok 4.5 = Opus-grade (69.2%) em preço de commodity ($1.25/1M). 35x mais barato que Claude. Tá no Cursor agora.\n\n🦙 Meta Llama 4 open-weight bate GPT-4o (7 de 10 categorias). Tu baixa, roda inhouse, treina com seus dados. Apache 2.0.\n\n🧠 Perplexity Computer Enterprise: $325/seat/mês, 400+ apps, 19 LLMs orquestrados em background. Agente nativo no teu Slack.\n\n⚙️ Cursor é IDE agentic agora (1M DAU). Agentes rodam paralelo; Bugbot revisa PR. $29.3B valuation.\n\n🔬 Claude Science: Pesquisa científica 10x mais rápida (60+ databases integradas). $30k créditos pra 50 projetos.\n\n🎯 Vercel Eve: Framework aberto pra agentes ('Next.js pra agentes'). 25+ providers. Deploy em dias, não meses.\n\n💰 DeepSeek pricing permanente -75%. Frontier-grade por preço de commodity.\n\n📈 BONUS: 79% Fortune 500 tem agente em produção. Agentes são core business agora.\n\n---\n\nRadar daily de IA: 10 notícias que importam, 7am todo dia. Notícia que virou dinheiro (ou economizou dinheiro). Pra empreendedor que quer 3 meses de vantagem competitiva vs o resto.\n\nSegue @rafaondei 🎯\n\n#IA #Agentes #Claude #OpenAI #Grok #Cursor #Vercel #DeepSeek #Empreendedorismo #Tecnologia"
+}
