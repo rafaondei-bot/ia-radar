@@ -1,3 +1,11 @@
 {
-  "pending": []
+  "pending": [
+    {
+      "type": "carousel",
+      "id": "ab1161a2-7afb-4d75-a858-52185758083a",
+      "key": "2026-07-18-percuaria-e-bovinos",
+      "n": 1,
+      "requested_at": "2026-08-12T20:45:21.079Z"
+    }
+  ]
 }
